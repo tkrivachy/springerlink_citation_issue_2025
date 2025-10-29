@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.849687",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50742-9",
+    "title": "Potential diagnostic application of a novel deep learning- based approach for COVID-19",
+    "article_number": "280",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Alireza Sadeghi",
+      "Mahdieh Sadeghi",
+      "Ali Sharifpour",
+      "Mahdi Fakhar",
+      "Zakaria Zakariaei",
+      "Mohammadreza Sadeghi",
+      "Mojtaba Rokni",
+      "Atousa Zakariaei",
+      "Elham Sadat Banimostafavi",
+      "Farshid Hajati"
+    ]
+  },
+  "article_index": 220,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:38:06.184958"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:38:07.699797"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:38:08.952543"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T22:03:06.865049"
+    },
+    "last_updated": "2025-10-03T22:03:06.865240"
+  }
+}

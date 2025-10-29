@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.675732",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-7991-7",
+    "title": "The value of monitoring data in a process evaluation of hygiene behaviour change in Community Health Clubs to explain findings from a cluster-randomised controlled trial in Rwanda",
+    "article_number": "98",
+    "publication_date": "2020-01-23",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Juliet Waterkeyn",
+      "Anthony Waterkeyn",
+      "Fausca Uwingabire",
+      "Julia Pantoglou",
+      "Amans Ntakarutimana",
+      "Marcie Mbirira",
+      "Joseph Katabarwa",
+      "Zachary Bigirimana",
+      "Sandy Cairncross",
+      "Richard Carter"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:33:31.105987"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:33:32.678305"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:33:33.960495"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:15:03.635724"
+    },
+    "last_updated": "2025-10-03T21:15:03.635919"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.545901",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54970-z",
+    "title": "A deep multiple instance learning framework improves microsatellite instability detection from tumor next generation sequencing",
+    "article_number": "136",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "John Ziegler",
+      "Jaclyn F. Hechtman",
+      "Satshil Rana",
+      "Ryan N. Ptashkin",
+      "Gowtham Jayakumaran",
+      "Sumit Middha",
+      "Shweta S. Chavan",
+      "Chad Vanderbilt",
+      "Deborah DeLair",
+      "Jacklyn Casanova",
+      "Jinru Shia",
+      "Nicole DeGroat",
+      "Ryma Benayed",
+      "Marc Ladanyi",
+      "Michael F. Berger",
+      "Thomas J. Fuchs",
+      "A. Rose Brannon",
+      "Ahmet Zehir"
+    ]
+  },
+  "article_index": 238,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:34:10.964750"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:34:12.499710"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:34:13.692911"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:25:24.847747"
+    },
+    "last_updated": "2025-10-03T23:25:24.847937"
+  }
+}

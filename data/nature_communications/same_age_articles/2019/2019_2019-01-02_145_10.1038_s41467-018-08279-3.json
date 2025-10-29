@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.693016",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08279-3",
+    "title": "Neuropathological correlates and genetic architecture of microglial activation in elderly human brain",
+    "article_number": "409",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daniel Felsky",
+      "Tina Roostaei",
+      "Kwangsik Nho",
+      "Shannon L. Risacher",
+      "Elizabeth M. Bradshaw",
+      "Vlad Petyuk",
+      "Julie A. Schneider",
+      "Andrew Saykin",
+      "David A. Bennett",
+      "Philip L. De Jager"
+    ]
+  },
+  "article_index": 145,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:10:16.705303"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T17:10:18.239434"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T17:10:19.649115"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 162,
+      "retrieved_at": "2025-10-03T22:36:43.474842"
+    },
+    "last_updated": "2025-10-03T22:36:43.475033"
+  }
+}

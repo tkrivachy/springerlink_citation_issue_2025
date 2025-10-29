@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.721489",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07967-4",
+    "title": "Dispersible hydrogel force sensors reveal patterns of solid mechanical stress in multicellular spheroid cultures",
+    "article_number": "144",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wontae Lee",
+      "Nikita Kalashnikov",
+      "Stephanie Mok",
+      "Ruba Halaoui",
+      "Elena Kuzmin",
+      "Andrew J. Putnam",
+      "Shuichi Takayama",
+      "Morag Park",
+      "Luke McCaffrey",
+      "Ruogang Zhao",
+      "Richard L. Leask",
+      "Christopher Moraes"
+    ]
+  },
+  "article_index": 407,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:32:55.987913"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T17:32:57.507108"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T17:32:58.655445"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T22:44:33.811145"
+    },
+    "last_updated": "2025-10-03T22:44:33.811373"
+  }
+}

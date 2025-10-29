@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.605694",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02502-3",
+    "title": "Differential Pd-nanocrystal facets demonstrate distinct antibacterial activity against Gram-positive and Gram-negative bacteria",
+    "article_number": "129",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ge Fang",
+      "Weifeng Li",
+      "Xiaomei Shen",
+      "Jose Manuel Perez-Aguilar",
+      "Yu Chong",
+      "Xingfa Gao",
+      "Zhifang Chai",
+      "Chunying Chen",
+      "Cuicui Ge",
+      "Ruhong Zhou"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:36:16.979534",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 436,
+      "retrieved_at": "2025-10-03T11:44:12.403297"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 506,
+      "retrieved_at": "2025-10-03T17:08:51.681878"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 462,
+      "retrieved_at": "2025-10-03T17:08:52.865370"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 523,
+      "retrieved_at": "2025-10-03T22:36:16.979292"
+    }
+  }
+}

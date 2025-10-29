@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.668027",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44377-7",
+    "title": "Structural heterogeneity of the ion and lipid channel TMEM16F",
+    "article_number": "110",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhongjie Ye",
+      "Nicola Galvanetto",
+      "Leonardo Puppulin",
+      "Simone Pifferi",
+      "Holger Flechsig",
+      "Melanie Arndt",
+      "Cesar Adolfo Sánchez Triviño",
+      "Michael Di Palma",
+      "Shifeng Guo",
+      "Horst Vogel",
+      "Anna Menini",
+      "Clemens M. Franz",
+      "Vincent Torre",
+      "Arin Marchesi"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:08:14.799203"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:08:16.421181"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:08:17.718868"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:16:53.963793"
+    },
+    "last_updated": "2025-10-03T23:16:53.963984"
+  }
+}

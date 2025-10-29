@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652368",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-34817-1",
+    "title": "Structure-guided peptide engineering of a positive allosteric modulator targeting the outer pore of TRPV1 for long-lasting analgesia",
+    "article_number": "4",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Heng Zhang",
+      "Jia-Jia Lin",
+      "Ya-Kai Xie",
+      "Xiu-Zu Song",
+      "Jia-Yi Sun",
+      "Bei-Lei Zhang",
+      "Yun-Kun Qi",
+      "Zhen-Zhong Xu",
+      "Fan Yang"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:46:36.470466"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:46:38.025382"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:46:39.200747"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:09:30.267973"
+    },
+    "last_updated": "2025-10-03T23:09:30.268060"
+  }
+}

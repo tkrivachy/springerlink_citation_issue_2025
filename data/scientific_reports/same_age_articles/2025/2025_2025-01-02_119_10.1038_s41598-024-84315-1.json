@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.359175",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84315-1",
+    "title": "An enhanced Bayesian approach for damage identification utilizing prior knowledge from refined elemental modal strain energy ratios",
+    "article_number": "591",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Li Chen",
+      "Hui Chen",
+      "Lu-ling Liu"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:18:05.659445"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:18:07.222700"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:18.874656"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:18:04.894294"
+    },
+    "last_updated": "2025-10-07T09:49:18.874736"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.565366",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55338-z",
+    "title": "Passive and active suppression of transduced noise in silicon spin qubits",
+    "article_number": "78",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jaemin Park",
+      "Hyeongyu Jang",
+      "Hanseo Sohn",
+      "Jonginn Yun",
+      "Younguk Song",
+      "Byungwoo Kang",
+      "Lucas E. A. Stehouwer",
+      "Davide Degli Esposti",
+      "Giordano Scappucci",
+      "Dohun Kim"
+    ]
+  },
+  "article_index": 320,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:16:59.509607"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:17:01.030404"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:17:02.197370"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:19:48.914894"
+    },
+    "last_updated": "2025-10-03T23:19:48.915087"
+  }
+}

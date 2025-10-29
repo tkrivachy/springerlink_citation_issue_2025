@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204677",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20273-2",
+    "title": "Nanoelectromechanical modulation of a strongly-coupled plasmonic dimer",
+    "article_number": "48",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jung-Hwan Song",
+      "Søren Raza",
+      "Jorik van de Groep",
+      "Ju-Hyung Kang",
+      "Qitong Li",
+      "Pieter G. Kik",
+      "Mark L. Brongersma"
+    ]
+  },
+  "article_index": 199,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:30:22.899467"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:30:24.450403"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:30:25.830735"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:04:09.761805"
+    },
+    "last_updated": "2025-10-03T23:04:09.761892"
+  }
+}

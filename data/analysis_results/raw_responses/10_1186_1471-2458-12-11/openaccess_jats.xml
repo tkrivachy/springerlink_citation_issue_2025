@@ -1,0 +1,4106 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-12-11</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">BMC1471-2458-12-11</article-id>
+          <article-id pub-id-type="manuscript">3734</article-id>
+          <article-id pub-id-type="doi">10.1186/1471-2458-12-11</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection" specific-use="SubjectSection">
+              <subject>Infectious Disease epidemiology</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Progress towards implementation of ACT malaria case-management in public health facilities in the Republic of Sudan: a cluster-sample survey</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Abdelgader</surname>
+                <given-names>Tarig M</given-names>
+              </name>
+              <address>
+                <email>tarigmohamad@hotmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Ibrahim</surname>
+                <given-names>Abdalla M</given-names>
+              </name>
+              <address>
+                <email>abdalla.ibrahim21@yahoo.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Elmardi</surname>
+                <given-names>Khalid A</given-names>
+              </name>
+              <address>
+                <email>khalidmrd9@hotmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Githinji</surname>
+                <given-names>Sophie</given-names>
+              </name>
+              <address>
+                <email>sgithinji@nairobi.kemri-wellcome.org</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Zurovac</surname>
+                <given-names>Dejan</given-names>
+              </name>
+              <address>
+                <email>dzurovac@nairobi.kemri-wellcome.org</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Snow</surname>
+                <given-names>Robert W</given-names>
+              </name>
+              <address>
+                <email>rsnow@nairobi.kemri-wellcome.org</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes">
+              <name name-style="western">
+                <surname>Noor</surname>
+                <given-names>Abdisalan M</given-names>
+              </name>
+              <address>
+                <email>anoor@nairobi.kemri-wellcome.org</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+              <xref ref-type="corresp" rid="IDBMC147124581211_cor7">g</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.414827.c</institution-id>
+                <institution content-type="org-division">National Malaria Control</institution>
+                <institution content-type="org-name">Federal Ministry of Health</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Sudan</addr-line>
+              <country country="SD">Sudan</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.33058.3d</institution-id>
+                <institution-id institution-id-type="ISNI">0000000101555938</institution-id>
+                <institution content-type="org-division">Malaria Public Health &amp; Epidemiology Group, Centre for Geographic Medicine Research - Coast</institution>
+                <institution content-type="org-name">Kenya Medical Research Institute/Wellcome Trust Research Programme</institution>
+              </institution-wrap>
+              <addr-line content-type="postbox">P.O. Box 43640</addr-line>
+              <addr-line content-type="postcode">00100</addr-line>
+              <addr-line content-type="city">GPO Nairobi</addr-line>
+              <country country="KE">Kenya</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.4991.5</institution-id>
+                <institution-id institution-id-type="ISNI">0000000419368948</institution-id>
+                <institution content-type="org-division">Centre for Tropical Medicine, Nuffield Department of Clinical Medicine</institution>
+                <institution content-type="org-name">University of Oxford, CCVTM</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">OX3 7LJ</addr-line>
+              <addr-line content-type="city">Oxford</addr-line>
+              <country country="GB">UK</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.189504.1</institution-id>
+                <institution-id institution-id-type="ISNI">0000000419367558</institution-id>
+                <institution content-type="org-division">Center for International Health and Development</institution>
+                <institution content-type="org-name">Boston University School of Public Health</institution>
+              </institution-wrap>
+              <addr-line content-type="street">85 East Concord Street</addr-line>
+              <addr-line content-type="postcode">02118</addr-line>
+              <addr-line content-type="city">Boston</addr-line>
+              <addr-line content-type="state">MA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDBMC147124581211_cor7">
+              <label>g</label>
+              <email>anoor@nairobi.kemri-wellcome.org</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>6</day>
+            <month>1</month>
+            <year>2012</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2012</year>
+          </pub-date>
+          <volume>12</volume>
+          <issue seq="4">1</issue>
+          <elocation-id>11</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>16</day>
+              <month>6</month>
+              <year>2011</year>
+            </date>
+            <date date-type="received">
+              <day>16</day>
+              <month>6</month>
+              <year>2011</year>
+            </date>
+            <date date-type="accepted">
+              <day>6</day>
+              <month>1</month>
+              <year>2012</year>
+            </date>
+            <date date-type="online">
+              <day>6</day>
+              <month>1</month>
+              <year>2012</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© Abdelgader et al; licensee BioMed Central Ltd. 2011</copyright-statement>
+            <copyright-statement content-type="comment">
+              This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+              <ext-link ns0:href="http://creativecommons.org/licenses/by/2.0" ext-link-type="uri">http://creativecommons.org/licenses/by/2.0</ext-link>
+              ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+            </copyright-statement>
+            <copyright-year>2011</copyright-year>
+            <copyright-holder>Abdelgader et al; licensee BioMed Central Ltd.</copyright-holder>
+            <license license-type="open-access" ns0:href="https://creativecommons.org/licenses/by/2.0">
+              <license-p>
+                <bold>Open Access</bold>
+                
+ This article is published under license to BioMed Central Ltd. This is an Open Access article is distributed under the terms of the Creative Commons Attribution License (
+  
+                <ext-link ns0:href="https://creativecommons.org/licenses/by/2.0" ext-link-type="uri">https://creativecommons.org/licenses/by/2.0</ext-link>
+                
+  ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+  
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>Effective malaria case-management based on artemisinin-based combination therapy (ACT) and parasitological diagnosis is a major pillar within the 2007-2012 National Malaria Strategic Plan in the Sudan. Three years after the launch of the strategy a health facility survey was undertaken to evaluate case-management practices and readiness of the health facilities and health workers to implement a new malaria case-management strategy.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>A cross-sectional, cluster sample survey was undertaken at public health facilities in 15 states of Sudan. Data were collected using quality-of-care assessment methods. The main outcomes were the proportions of facilities with ACTs and malaria diagnostics; proportions of health workers exposed to malaria related health systems support activities; and composite and individual indicators of case-management practices for febrile outpatients stratified by age, availability of ACTs and diagnostics, use of malaria diagnostics, and test result.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>We evaluated 244 facilities, 294 health workers and 1,643 consultations for febrile outpatients (425 &lt; 5 years and 1,218 ≥ 5 years). Health facility and health worker readiness was variable: chloroquine was available at only 5% of facilities, 73% stocked recommended artesunate and sulfadoxine/pyrimethamine (AS+SP), 51% had the capacity to perform parasitological diagnosis, 53% of health workers had received in-service training on ACTs, 24% were trained in the use of malaria Rapid Diagnostic Tests, and 19% had received a supervisory visit including malaria case-management. At all health facilities 46% of febrile patients were parasitologically tested and 35% of patients were both, tested and treated according to test result. At facilities where AS+SP and malaria diagnostics were available 66% of febrile patients were tested and 51% were both, tested and treated according to test result. Among test positive patients 64% were treated with AS+SP but 24% were treated with artemether monotherapy. Among test negative patients only 17% of patients were treated for malaria. The majority of ACT dispensing and counseling practices were suboptimal.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusions</title>
+              <p>Five years following change of the policy from chloroquine to ACTs and 3 years before the end of the new malaria strategic plan chloroquine was successfully phased out from public facilities in Sudan, however, an important gap remained in the availability of ACTs, diagnostic capacities and coverage with malaria case-management activities. The national scale-up of diagnostics, using the findings of this survey as well as future qualitative research, should present an opportunity not only to expand existing testing capacities but also to implement effective support interventions to bridge the health systems gaps and support corrective case-management measures, including the discontinuation of artemether monotherapy treatment.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Malaria</kwd>
+            <kwd>Health Worker</kwd>
+            <kwd>Artemether</kwd>
+            <kwd>Febrile Patient</kwd>
+            <kwd>Malaria Microscopy</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>1129</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2011</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2011</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>6</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>16</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2011_Article_3734.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="ESMHint">
+          <title>Electronic supplementary material</title>
+          <p>
+            The online version of this article (doi:
+            <ext-link ns0:href="10.1186/1471-2458-12-11" ext-link-type="doi">10.1186/1471-2458-12-11</ext-link>
+            ) contains supplementary material, which is available to authorized users.
+          </p>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Background</title>
+          <p>
+            Effective case-management based on parasitological diagnosis and artemisinin-based combination therapy (ACT) is one of the key strategies for the reduction of the 
+            <italic>Plasmodium falciparum</italic>
+             malaria burden across the African continent [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. By 2009, all 42 African malaria endemic countries had changed their policies to support ACT use for uncomplicated malaria. Furthermore, 20 countries had adopted policies promoting all-age group parasitological diagnosis using malaria microscopy and rapid diagnostic tests (RDTs) [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ]. Policies in other African countries are under the revision to support parasitological diagnosis.
+          </p>
+          <p>
+            However, the implementation of effective case-management based on malaria diagnostics and ACTs may face a number of challenges, of which availability of commodities at health facilities and sub-optimal case-management practices are of particular concern. At facilities across Africa it has been shown that ACTs and malaria diagnostics are frequently out of stock [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            , 
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ], where diagnostics exist, febrile patients are rarely tested [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            –
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ] and if tested, negative results still result in the prescription of anti-malarials [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            , 
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            , 
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            –
+            <xref ref-type="bibr" rid="CR14">14</xref>
+            ]. Furthermore, the use of non-recommended antimalarials is often reported [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            , 
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            –
+            <xref ref-type="bibr" rid="CR18">18</xref>
+            ] and the performance of patients' counseling and drug dispensing tasks is rarely optimal [
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            , 
+            <xref ref-type="bibr" rid="CR17">17</xref>
+            –
+            <xref ref-type="bibr" rid="CR19">19</xref>
+            ]. Failure to ensure the delivery of basic commodities and minimum standards of case-management based on testing and adherence to test results severely compromises the cost-benefit of new malaria case-management strategies [
+            <xref ref-type="bibr" rid="CR20">20</xref>
+            ].
+          </p>
+          <p>
+            In 2004 Sudan was among the first countries in Africa to change first and second line treatment policy for uncomplicated malaria from ineffective monotherapies to ACTs [
+            <xref ref-type="bibr" rid="CR21">21</xref>
+            –
+            <xref ref-type="bibr" rid="CR23">23</xref>
+            ]. The first line policy was changed from chloroquine to a combination of artesunate and sulfadoxine/pyrimethamine (AS+SP) and the second line policy was changed from SP to artemether-lumefantrine (AL). For severe malaria parenteral quinine remained the treatment of choice and intramuscular artemether was recommended as second line therapy [
+            <xref ref-type="bibr" rid="CR24">24</xref>
+            ]. Following change of the policy, SP monotherapy was only reserved for intermittent preventive treatment in pregnant women in selected high risk areas.
+          </p>
+          <p>
+            In 2006, the Sudanese National Malaria Control Programme (NMCP) launched the new 2007-2012 National Malaria Strategy which reconfirmed ACT treatment policy and provided strategic directions to ensure universal access to ACTs and malaria confirmatory diagnosis primarily through microscopy, or RDTs wherever malaria microscopy is not possible [
+            <xref ref-type="bibr" rid="CR25">25</xref>
+            ]. Between 2005 and 2009 the Federal NMCP supported the implementation of the new treatment policy across the 15 states of Sudan. The key implementation activities of relevance for ACT based case-management at the facility level included procurement and distribution of co-packaged AS+SP in paediatric (50 mg AS+500/25 mg SP) and adult (100 mg AS+500/25 SP) formulations, procurement and distribution of co-formulated AL in four weight-specific packages, development and dissemination of treatment protocols and job aids for health workers, orientation sessions and in-service case-management trainings for all cadres of health workers and strengthening of diagnostic capacities for the parasitological diagnosis of malaria. With respect to malaria diagnostics it should be acknowledged that despite the fact that confirmatory diagnosis is one of the key strategic case-management orientations of the Sudanese 2007-2012 National Malaria Strategy [
+            <xref ref-type="bibr" rid="CR25">25</xref>
+            ], by the time of this study malaria diagnostic capacities in the country relied mainly on the presence of malaria microscopy while only limited quantities of RDTs were delivered to lower level facilities without microscopy support.
+          </p>
+          <p>In this report we present data on the availability of case-management commodities, coverage with malaria related health systems support activities and the malaria case-management practices across the Sudan 5 years after the policy change and 3 years after the launch of the national malaria strategy.</p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec3">
+            <title>Survey design</title>
+            <p>
+              The survey design was a cross-sectional, cluster sample, health facility survey undertaken in government and non-government public health facilities in 15 states of Sudan. Private health facilities were not included in the survey because they are not supplied with ACTs and malaria diagnostics by the Federal Ministry of Health. The survey was undertaken between 9
+              <sup>th</sup>
+               and 31
+              <sup>st</sup>
+               December 2009. The sample size was calculated at patient level assuming 50% prevalence of the primary case-management indicator, 95% confidence level, desired precision of +/- 7%, design effect of 2 and the likelihood that 50% of health facilities would not have either malaria diagnostics or ACTs in stock. Based on these parameters, an estimated sample size was 728 outpatient consultations in each age group (below and above 5 years of age) or estimating that on average 3 febrile patients can be recruited in each age group at each facility over one survey day, then the required number of surveyed facilities was 243 (728/3).
+            </p>
+            <p>From the universe of 5,716 public health facilities in Sudan a stratified random sample taking into consideration within-country distribution of facilities by state (15 strata) and type of facilities within a state (3 strata) was drawn to ensure national representativeness. For each of 45 strata we calculated a sampling fraction within the universe of 5,716 facilities, proportional and effective sample size within the required sample of 243 facilities, and finally undertook simple random sampling for each stratum. The final effective sample size contained one additional facility because of rounding off to the proportional sample size. A cluster was defined as all outpatients' encounters between a health worker and patients occurring on a single survey day.</p>
+          </sec>
+          <sec id="Sec4">
+            <title>Data collection</title>
+            <p>Data were collected by 72 field workers trained during 5 days until agreement of practice results between field workers and trainers was greater than 90%. In total, 36 teams were created, each composed of two field workers. The field work was supervised by 15 state coordinators who were also trainers of field workers. Three methods were used to collect data during a survey day at health facility. First, all patients presenting to the outpatient departments underwent rapid screening when they were ready to leave the facility. After obtaining written informed consent non-referred and non-pregnant patients aged 2 months and older, weighing 5 kg and above and presenting for an initial outpatient visit with fever were interviewed. Detailed information about patients' age, weight, temperature, prior use of antimalarial drugs, routine malaria diagnostics performed and results reported, medications prescribed and the key counseling and drug dispensing tasks performed during the facility visit was collected during the interviews and from the patient-held cards. Second, each health facility was assessed to determine availability of basic infrastructure, equipment, job aids, antimalarial drugs, malaria RDTs and functional malaria microscopy service. Finally, all health workers who attended to recruited patients on the survey day were interviewed at the end of the survey day to determine their demographics, pre-service and in-service training, access to treatment protocols and exposure to supervision in the preceding 6 months. Verbal informed consent was obtained from all health workers prior to the commencement of study procedures.</p>
+          </sec>
+          <sec id="Sec5">
+            <title>Indicators and definitions</title>
+            <p>The key study indicators referred to the availability of malaria case-management commodities, health workers coverage with ACT related interventions and the malaria case-management practices which are deemed critical to the success of the AS+SP based case-management policy. The primary indicators at health facility level referred to the proportions of facilities with ACTs, other antimalarials, job aids and malaria diagnostic services on the survey day. At the health worker level the primary indicators were the proportions of health workers who received training on malaria case-management, who had access to national treatment protocols and who were exposed to supervisory visits including malaria case-management in past 6 months.</p>
+            <p>
+              At the patient level primary indicators referred to febrile patients for whom malaria testing was merited and AS+SP treatment should have been considered in relation to the result of malaria test. With respect to testing indications, we included all patients with fever because national malaria guidelines are ambiguous and do not specify criteria defining other obvious causes of fever (Figure 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ). Therefore our analysis included febrile, non-pregnant patients aged 2 months and older, weighing 5 kg and above and presenting for an initial outpatient visit without being referred or admitted for hospitalization. Fever was defined as axillary temperature of ≥ 37.5°C or the history of fever during the present illness. A health workers decision to refer or admit patient for hospitalization was used as proxy measure to define severity of disease and exclude patients with suspected severe disease meriting treatment with other drugs than AS+SP. The primary outcome was a composite case-management indicator and included performance of all of the following three tasks: 1) patient was tested for malaria; 2) if positive test result patient was treated with AS+SP, and 3) if negative test result patient was not treated for malaria. Despite some ambiguity of the guidelines with respect to the treatment of patients with test negative results (Figure 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ), the absence of antimalarial treatment for these patients was included in the definition of the composite case-management indicator because treatment of test negative patients was considered as one of the major determinants undermining the new case-management policy. The secondary outcomes reflected individual components of the case-management including testing, treatment, dispensing and counseling practices in various patients' subgroups.
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>
+                    <bold>The general plan for malaria diagnosis and treatment in Sudan</bold>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/12889_2011_Article_3734_Fig1_HTML.jpg"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>Data management and analysis</title>
+            <p>Data were double entered by independent data entry clerks using Access 2007 (Microsoft Inc., Redmond, WA, USA). Data files were compared for errors using a verification programme and referring to original questionnaires. The analysis was performed using STATA, version 11 (StataCorp, College Station, TX, USA). Descriptive analysis was undertaken at the health facility, health worker, and patient level across all age groups and stratified for children below 5 years of age and patients 5 years and older. The presentation of the results reflected the main objective of the study, i.e. to provide national level data for which the study was sufficiently powered to obtain information with desired precision. A stepwise approach was applied in the analysis of malaria case-management practices. First, to evaluate progress of 2007-2012 national malaria strategy health workers practices are analyzed at all health facilities regardless of the availability of the case-management commodities. Second, to evaluate health workers adherence to the new policy the same analysis was restricted to the facilities where AS + SP and malaria diagnostics were available on the survey days. Finally, the quality of AS + SP dispensing and counseling practices was restricted to patients who had AS + SP prescribed and dispensed at facility. The precision of proportions (95% confidence interval [CI]) was determined adjusting for the cluster sampling at health facility level. Cluster adjusted chi-square test was used to compare proportions between patients below and above 5 years of age.</p>
+          </sec>
+          <sec id="Sec7">
+            <title>Ethical approval</title>
+            <p>Ethical clearance for the study was obtained from the National Research Ethics Committee of the Federal Ministry of Health in Sudan (reference number 114-11-09).</p>
+          </sec>
+        </sec>
+        <sec id="Sec8" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec9">
+            <title>Sample description</title>
+            <p>
+              The survey was undertaken at 244 health facilities (Figure 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ) where 294 health workers performed 4,140 outpatient consultations on the survey days. All 244 facilities were assessed and all 294 health workers were interviewed. Of the 4,140 screened patients, the case-management practices were evaluated for 1,707 non-pregnant febrile patients weighing 5 kg and above and presenting for an initial outpatient visit. The remaining 2,433 patients (some patients may have had more than one exclusion criteria) were patients either referred (197) or admitted for hospitalization (61), pregnant women (362), follow up visits (420), aged less than 2 months (50), weighing less than 5 kg (41) and patients presenting without fever (1,365). Further 64 patients had incomplete data preventing analysis of the case-management practices. Therefore our analysis included 1,643 patients of which 425 (25.9%) were below 5 years of age and 1,218 (74.1%) were 5 years and older. At facilities with available AS+SP and malaria diagnostics on the survey day health workers' adherence was evaluated for 961 patients, of which 252 (26.2%) patients were below 5 years of age and 709 (73.8%) were 5 years and older. No health worker, adult patient or caretaker on behalf of sick child refused to participate in the study.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    <bold>The map of the 15 states of Sudan showing the 244 surveyed health facilities</bold>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/12889_2011_Article_3734_Fig2_HTML.jpg"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec10">
+            <title>Health facility and health worker readiness to implement ACT policy</title>
+            <p>
+              Of the 244 health facilities assessed, most were basic health units (63.9%) followed by health centres (29.1%) (Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              ). The large majority (88.9%) of facilities were government owned. Nearly half (49%) had electricity, while water from any source was available at 72.1% of facilities on the survey day. A functional weighing scale was present at 58% of facilities while about half had functional thermometer (48.8%) and displayed new treatment protocol either in the format of wall or table charts (51.2%). Malaria parasitological diagnosis was provided at 125 (51.2%) facilities on the survey day, more commonly through malaria microscopy (42.2%) than non-expired RDTs (16.0%). Seventeen health facilities had both diagnostic capacities. Parasitological capacity to diagnose malaria was available in all hospitals (17/17), 79% (56/71) of health centres and 33% (52/156) of basic health units. Of interest, 12% of basic health units, 23% of health centres and 24% of hospitals had non-expired RDTs in stock. Only 13 (5%) facilities stocked expired RDTs.
+              <table-wrap id="Tab1">
+                <label>Table 1</label>
+                <caption xml:lang="en">
+                  <p>Characteristics of surveyed health facilities in Sudan</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Health facility characteristics (N = 244)</p>
+                      </th>
+                      <th align="center">
+                        <p>n</p>
+                      </th>
+                      <th align="center">
+                        <p>%</p>
+                      </th>
+                      <th align="center">
+                        <p>95% CI</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th align="left">
+                        <p>   Health facility type</p>
+                      </th>
+                      <th/>
+                      <th/>
+                      <th/>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>Basic Health Unit</p>
+                      </td>
+                      <td align="center">
+                        <p>156</p>
+                      </td>
+                      <td align="center">
+                        <p>63.9</p>
+                      </td>
+                      <td align="center">
+                        <p>57.9-70.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Health Centre</p>
+                      </td>
+                      <td align="center">
+                        <p>71</p>
+                      </td>
+                      <td align="center">
+                        <p>29.1</p>
+                      </td>
+                      <td align="center">
+                        <p>23.4-34.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Hospital</p>
+                      </td>
+                      <td align="center">
+                        <p>17</p>
+                      </td>
+                      <td align="center">
+                        <p>7.0</p>
+                      </td>
+                      <td align="center">
+                        <p>3.8-10.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Health facility ownership</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Government</p>
+                      </td>
+                      <td align="center">
+                        <p>217</p>
+                      </td>
+                      <td align="center">
+                        <p>88.9</p>
+                      </td>
+                      <td align="center">
+                        <p>85.0-92.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Non-governmental organization</p>
+                      </td>
+                      <td align="center">
+                        <p>27</p>
+                      </td>
+                      <td align="center">
+                        <p>11.1</p>
+                      </td>
+                      <td align="center">
+                        <p>7.1-15.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Basic infrastructure and equipment at health facility</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Water available</p>
+                      </td>
+                      <td align="center">
+                        <p>176</p>
+                      </td>
+                      <td align="center">
+                        <p>72.1</p>
+                      </td>
+                      <td align="center">
+                        <p>66.4-77.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Electricity available</p>
+                      </td>
+                      <td align="center">
+                        <p>119</p>
+                      </td>
+                      <td align="center">
+                        <p>48.8</p>
+                      </td>
+                      <td align="center">
+                        <p>42.4-55.1</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Functional weighing scale available</p>
+                      </td>
+                      <td align="center">
+                        <p>142</p>
+                      </td>
+                      <td align="center">
+                        <p>58.2</p>
+                      </td>
+                      <td align="center">
+                        <p>52.6-65.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Functional thermometer available</p>
+                      </td>
+                      <td align="center">
+                        <p>119</p>
+                      </td>
+                      <td align="center">
+                        <p>48.8</p>
+                      </td>
+                      <td align="center">
+                        <p>43.6-56.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Treatment protocol chart exposed</p>
+                      </td>
+                      <td align="center">
+                        <p>125</p>
+                      </td>
+                      <td align="center">
+                        <p>51.2</p>
+                      </td>
+                      <td align="center">
+                        <p>46.1-58.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Availability of malaria diagnostics on survey day</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Functional microscopy service</p>
+                      </td>
+                      <td align="center">
+                        <p>103</p>
+                      </td>
+                      <td align="center">
+                        <p>42.2</p>
+                      </td>
+                      <td align="center">
+                        <p>35.9-48.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Non-expired Malaria Rapid Diagnostic Tests (RDT)</p>
+                      </td>
+                      <td align="center">
+                        <p>39</p>
+                      </td>
+                      <td align="center">
+                        <p>16.0</p>
+                      </td>
+                      <td align="center">
+                        <p>11.3-20.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Any functional diagnostic service (microscopy or RDTs)</p>
+                      </td>
+                      <td align="center">
+                        <p>125</p>
+                      </td>
+                      <td align="center">
+                        <p>51.2</p>
+                      </td>
+                      <td align="center">
+                        <p>44.9-57.5</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Availability of non-expired ACTs on the survey day</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Any blister pack tablets of AS+SP</p>
+                      </td>
+                      <td align="center">
+                        <p>179</p>
+                      </td>
+                      <td align="center">
+                        <p>73.4</p>
+                      </td>
+                      <td align="center">
+                        <p>67.7-78.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>AS+SP (50 mg AS pack)</p>
+                      </td>
+                      <td align="center">
+                        <p>164</p>
+                      </td>
+                      <td align="center">
+                        <p>67.2</p>
+                      </td>
+                      <td align="center">
+                        <p>61.2-73.1</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>AS+SP (100 mg AS pack)</p>
+                      </td>
+                      <td align="center">
+                        <p>158</p>
+                      </td>
+                      <td align="center">
+                        <p>64.7</p>
+                      </td>
+                      <td align="center">
+                        <p>58.7-70.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          Artemether-lumefantrine (at least one pack)
+                          <sup>a</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>22</p>
+                      </td>
+                      <td align="center">
+                        <p>24.6</p>
+                      </td>
+                      <td align="center">
+                        <p>21.3-28.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Any ACT in stock (any pack of AS+SP or AL)</p>
+                      </td>
+                      <td align="center">
+                        <p>181</p>
+                      </td>
+                      <td align="center">
+                        <p>74.2</p>
+                      </td>
+                      <td align="center">
+                        <p>68.7-79.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Availability of other antimalarials on the survey day</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>SP tablets</p>
+                      </td>
+                      <td align="center">
+                        <p>85</p>
+                      </td>
+                      <td align="center">
+                        <p>34.8</p>
+                      </td>
+                      <td align="center">
+                        <p>28.8-40.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Quinine tablets</p>
+                      </td>
+                      <td align="center">
+                        <p>85</p>
+                      </td>
+                      <td align="center">
+                        <p>34.8</p>
+                      </td>
+                      <td align="center">
+                        <p>28.8-40.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          Quinine injections
+                          <sup>a</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>48</p>
+                      </td>
+                      <td align="center">
+                        <p>54.5</p>
+                      </td>
+                      <td align="center">
+                        <p>43.9-65.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          Artemether injections (40 or 80 mg)
+                          <sup>a</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>68</p>
+                      </td>
+                      <td align="center">
+                        <p>77.3</p>
+                      </td>
+                      <td align="center">
+                        <p>68.3-86.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Chloroquine (any formulation)</p>
+                      </td>
+                      <td align="center">
+                        <p>11</p>
+                      </td>
+                      <td align="center">
+                        <p>4.5</p>
+                      </td>
+                      <td align="center">
+                        <p>1.9-7.1</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>
+                    <sup>a</sup>
+                    Analysis for these indicators restricted to 88 health centres and hospitals which are supposed to stock these items
+                  </p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+            <p>
+              Any non-expired blister packs of AS+SP tablets (50 or 100 mg) were in stock at 73.4% of facilities (Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              ). Conversely, expired blisters of AS+SP were found at only seven (2.9%) facilities. Non-recommended chloroquine was available at 11 (4.5%) facilities. At 88 health centres and hospitals injectable formulations of quinine and artemether were respectively available at 54.5% and 77.3% of facilities. Finally, at the same facilities at least one of the four AL weight-specific packs was in stock at only 24.6% of facilities.
+            </p>
+            <p>
+              Of 294 health workers who performed consultations on the survey day (Table 
+              <xref rid="Tab2" ref-type="table">2</xref>
+              ), most were male (82.7%) and the most common cadres were medical assistants (43.9%), followed by doctors (26.9%) and nurses (12.6%). Doctors were the most common outpatient health workers at hospitals (67%) and health centres (52%) and the least common cadre at basic health units (6%). Over half of the health workers (52.7%) were trained on ACT use, most commonly through the NMCP in-service training programme (127/155; 81.9%). Besides the formal in-service training, brief orientation on ACT policy was provided for 42.2% of health workers. Only 23.5% of outpatient health workers were trained on RDT use. Less than half (39.7%) of health workers had access to either personal or a facility copy of national malaria treatment protocol. Finally 35.7% of outpatient health workers had received a supervisory visit in 6 months prior to the survey, and only 19.4% received a visit that included any activity on malaria case-management (Table 
+              <xref rid="Tab2" ref-type="table">2</xref>
+              ).
+              <table-wrap id="Tab2">
+                <label>Table 2</label>
+                <caption xml:lang="en">
+                  <p>Characteristics of outpatient health workers in Sudan</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Health worker characteristics (N = 294)</p>
+                      </th>
+                      <th align="center">
+                        <p>n</p>
+                      </th>
+                      <th align="center">
+                        <p>%</p>
+                      </th>
+                      <th align="center">
+                        <p>95% CI</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Male health worker</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>243</p>
+                      </td>
+                      <td align="center">
+                        <p>82.7</p>
+                      </td>
+                      <td align="center">
+                        <p>78.3-87.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>In-charge of health facility</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>193</p>
+                      </td>
+                      <td align="center">
+                        <p>66.3</p>
+                      </td>
+                      <td align="center">
+                        <p>61.0-71.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Pre-service training</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Doctor</p>
+                      </td>
+                      <td align="center">
+                        <p>79</p>
+                      </td>
+                      <td align="center">
+                        <p>26.9</p>
+                      </td>
+                      <td align="center">
+                        <p>21.8-32.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Medical assistant</p>
+                      </td>
+                      <td align="center">
+                        <p>129</p>
+                      </td>
+                      <td align="center">
+                        <p>43.9</p>
+                      </td>
+                      <td align="center">
+                        <p>38.2-49.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Nurse</p>
+                      </td>
+                      <td align="center">
+                        <p>37</p>
+                      </td>
+                      <td align="center">
+                        <p>12.6</p>
+                      </td>
+                      <td align="center">
+                        <p>8.8-16.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Community Health Worker</p>
+                      </td>
+                      <td align="center">
+                        <p>37</p>
+                      </td>
+                      <td align="center">
+                        <p>12.6</p>
+                      </td>
+                      <td align="center">
+                        <p>8.8-16.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Other cadres</p>
+                      </td>
+                      <td align="center">
+                        <p>12</p>
+                      </td>
+                      <td align="center">
+                        <p>4.1</p>
+                      </td>
+                      <td align="center">
+                        <p>1.8-6.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>In-service training on malaria case-management</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Any training based on ACT policy</p>
+                      </td>
+                      <td align="center">
+                        <p>155</p>
+                      </td>
+                      <td align="center">
+                        <p>52.7</p>
+                      </td>
+                      <td align="center">
+                        <p>46.9-58.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>NMCP training</p>
+                      </td>
+                      <td align="center">
+                        <p>127</p>
+                      </td>
+                      <td align="center">
+                        <p>43.2</p>
+                      </td>
+                      <td align="center">
+                        <p>37.5-48.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>IMCI training</p>
+                      </td>
+                      <td align="center">
+                        <p>71</p>
+                      </td>
+                      <td align="center">
+                        <p>24.1</p>
+                      </td>
+                      <td align="center">
+                        <p>19.2-29.1</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Malaria RDT training</p>
+                      </td>
+                      <td align="center">
+                        <p>69</p>
+                      </td>
+                      <td align="center">
+                        <p>23.5</p>
+                      </td>
+                      <td align="center">
+                        <p>18.6-28.3</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Brief ACT orientation</p>
+                      </td>
+                      <td align="center">
+                        <p>124</p>
+                      </td>
+                      <td align="center">
+                        <p>42.2</p>
+                      </td>
+                      <td align="center">
+                        <p>36.5-47.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Access to guidelines</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Malaria treatment booklet</p>
+                      </td>
+                      <td align="center">
+                        <p>117</p>
+                      </td>
+                      <td align="center">
+                        <p>39.7</p>
+                      </td>
+                      <td align="center">
+                        <p>34.2-45.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Exposure to supervision</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td/>
+                      <td/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Any supervisory visit in past 6 months</p>
+                      </td>
+                      <td align="center">
+                        <p>105</p>
+                      </td>
+                      <td align="center">
+                        <p>35.7</p>
+                      </td>
+                      <td align="center">
+                        <p>30.2-41.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Supervisory visit including malaria case-management</p>
+                      </td>
+                      <td align="center">
+                        <p>57</p>
+                      </td>
+                      <td align="center">
+                        <p>19.4</p>
+                      </td>
+                      <td align="center">
+                        <p>14.8-23.9</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </p>
+          </sec>
+          <sec id="Sec11">
+            <title>Malaria diagnostic and treatment practices</title>
+            <p>Of 1,643 suspected malaria patients, 52.6% were female and the mean age of the patients was 19 years. Only 39.9% of the patients reported to the facility within two days of the febrile illness, more commonly children below 5 years (45.4%) than patients 5 years and older (38.0%). Of greater concern was that 10.1% of children and 18.4% of patients 5 years and older reported to the facility seven or more days after the beginning of the illness. Only 4.0% of patients had taken any antimalarial drug prior to the facility visit and only 19 (1.2%) patients had taken AS+SP. Axillary temperature ≥ 37.5°C was in 28.7% of patients, more commonly among children below 5 years of age (38.4%) than in patients 5 years and older (25.4%). Health workers commonly determined age of the patients (70.1%) while weight (8.9%) and temperature (3.0%) were rarely measured.</p>
+            <p>
+              Overall, at all 244 study facilities 34.5% of febrile patients (35.3% of children vs 34.2% of patients 5 years and older; 
+              <italic>p</italic>
+               = 0.723) were managed according to the composite management indicator defined as patient tested for malaria and treated with AS+SP if the test result was positive or not treated for malaria if the test result was negative. At these facilities 45.8% of febrile patients were tested without significant difference between age groups (43.8% vs 46.5%; 
+              <italic>p</italic>
+               = 0.425) (Table 
+              <xref rid="Tab3" ref-type="table">3</xref>
+              ). Among 752 tested patients, the test positivity rate was 40.3%, with no significant difference between children and patients 5 years and older (38.7% vs 40.8%; p = 0.647). Most patients tested (93.4%; 702/752) had microscopy performed. Among test positive patients, 62.7% of patients were treated with AS+SP, yet a substantial proportion (25.7%) received intramuscular artemether. Children below 5 years of age were more commonly treated with AS+SP (70.8% vs 60.2%; p = 0.116) while patients 5 years and older were more commonly treated with injectable artemether (28.6% vs 16.7%; 
+              <italic>p</italic>
+               = 0.056). Furthermore, despite the overwhelming adherence to test negative results 15.3% of test negative patients were treated for malaria - 13.2% of children and 17.0% of patients 5 years and older (
+              <italic>p</italic>
+               = 0.336) (Table 
+              <xref rid="Tab3" ref-type="table">3</xref>
+              ).
+              <table-wrap id="Tab3">
+                <label>Table 3</label>
+                <caption xml:lang="en">
+                  <p>Malaria diagnostic and treatment practices for febrile patients at all 244 surveyed facilities in Sudan</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th/>
+                      <th align="center">
+                        <p>Children &lt; 5 yrs N = 425</p>
+                      </th>
+                      <th align="center">
+                        <p>Patients ≥ 5 yrs N = 1218</p>
+                      </th>
+                      <th align="center">
+                        <p>
+                          <italic>P</italic>
+                          -value
+                        </p>
+                      </th>
+                      <th align="center" colspan="2">
+                        <p>All age groups</p>
+                        <p>N = 1643</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th/>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th/>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th align="center">
+                        <p>95% CI</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Correctly managed</bold>
+                          <sup>
+                            <bold>a</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>150 (35.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>417 (34.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.723</p>
+                      </td>
+                      <td align="center">
+                        <p>567 (34.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>29.3-39.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Malaria test performed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>186 (43.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>566 (46.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.425</p>
+                      </td>
+                      <td align="center">
+                        <p>752 (45.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>39.0-52.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Treatment for test positive patients</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 72</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 231</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td align="center" colspan="2">
+                        <p>
+                          <bold>N = 303</bold>
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>AS+SP</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>51 (70.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>139 (60.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.116</p>
+                      </td>
+                      <td align="center">
+                        <p>190 (62.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>55.6-69.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Artemether injection</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>12 (16.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>66 (28.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.056</p>
+                      </td>
+                      <td align="center">
+                        <p>78 (25.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>19.6-31.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Other antimalarials</bold>
+                          <sup>
+                            <bold>b</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>4 (5.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>10 (4.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.754</p>
+                      </td>
+                      <td align="center">
+                        <p>14 (4.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>1.1-8.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>No AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>5 (6.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>16 (6.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.995</p>
+                      </td>
+                      <td align="center">
+                        <p>21 (6.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>3.5-10.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Treatment for test negative patients</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 114</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 335</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td align="center" colspan="2">
+                        <p>
+                          <bold>N = 449</bold>
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>AS+SP</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>11 (9.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>46 (13.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.303</p>
+                      </td>
+                      <td align="center">
+                        <p>57 (12.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>6.3-17.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Artemether injection</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>3 (2.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>8 (2.4)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.874</p>
+                      </td>
+                      <td align="center">
+                        <p>11 (2.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>1.0-3.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Other antimalarials</bold>
+                          <sup>
+                            <bold>c</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>1 (0.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>3 (0.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.986</p>
+                      </td>
+                      <td align="center">
+                        <p>4 (0.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0-1.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Any AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>15 (13.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>57 (17.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.336</p>
+                      </td>
+                      <td align="center">
+                        <p>72 (16.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>9.3-21.3</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>No AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>99 (86.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>278 (83.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.336</p>
+                      </td>
+                      <td align="center">
+                        <p>377 (84.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>77.9-90.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Treatment when test not done</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 239</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 652</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td align="center" colspan="2">
+                        <p>
+                          <bold>N = 891</bold>
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>AS+SP</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>40 (16.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>193 (29.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.002</p>
+                      </td>
+                      <td align="center">
+                        <p>233 (26.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>19.5-32.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Artemether injection</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>4 (1.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>32 (4.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.049</p>
+                      </td>
+                      <td align="center">
+                        <p>36 (4.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>1.7-6.3</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Other antimalarials</bold>
+                          <sup>
+                            <bold>d</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>6 (2.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>11 (1.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.251</p>
+                      </td>
+                      <td align="center">
+                        <p>17 (1.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.6-3.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>No AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>189 (79.1)</p>
+                      </td>
+                      <td align="center">
+                        <p>416 (63.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.001</p>
+                      </td>
+                      <td align="center">
+                        <p>605 (67.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>60.9-74.9</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>
+                    <sup>a</sup>
+                    Defined as performance of all of the following three tasks: 1) patient tested for malaria; 2) if positive test result treated with AS+SP, and 3) if negative test result not treated for malaria.
+                  </p>
+                  <p>
+                    <sup>b</sup>
+                    Other antimalarial treatments include: SP (5), QN (5) and AL (4)
+                  </p>
+                  <p>
+                    <sup>c</sup>
+                    Other antimalarial treatments include: SP (3), QN (1)
+                  </p>
+                  <p>
+                    <sup>d</sup>
+                    Other antimalarial treatments include: SP (5), QN (7) and CQ (5)
+                  </p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+            <p>
+              Compared to the practices observed at all 244 health facilities, some of the indicators significantly improved at 107 (43.9%) facilities where malaria diagnostic services (microscopy or RDTs) and AS+SP were available on the survey day. The composite case-management performance increased from 34.5% to 50.5% while testing rates for febrile patients increased from 45.8% to as high as 66.8% of patients tested. Interestingly, at these facilities where AS+SP was in stock, the pattern of treatment practices for test positive and test negative patients showed only minor changes compared to observations at all health facilities (Tables 
+              <xref rid="Tab3" ref-type="table">3</xref>
+               and 
+              <xref rid="Tab4" ref-type="table">4</xref>
+              ).
+              <table-wrap id="Tab4">
+                <label>Table 4</label>
+                <caption xml:lang="en">
+                  <p>Malaria diagnostic and treatment practices for febrile patients at 117 facilities with available AS + SP and malaria diagnostic services on survey days in Sudan</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th/>
+                      <th align="center">
+                        <p>Children &lt; 5 yrs N = 252</p>
+                      </th>
+                      <th align="center">
+                        <p>Patients ≥ 5 yrs N = 709</p>
+                      </th>
+                      <th align="center">
+                        <p>
+                          <bold>
+                            <italic>P</italic>
+                          </bold>
+                          -value
+                        </p>
+                      </th>
+                      <th align="center" colspan="2">
+                        <p>All age groups N = 961</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th/>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th/>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th align="center">
+                        <p>95% CI</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Correctly managed</bold>
+                          <sup>
+                            <bold>a</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>120 (47.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>365 (51.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.325</p>
+                      </td>
+                      <td align="center">
+                        <p>485 (50.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>44.5-56.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Malaria test performed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>154 (61.1)</p>
+                      </td>
+                      <td align="center">
+                        <p>488 (68.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.045</p>
+                      </td>
+                      <td align="center">
+                        <p>642 (66.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>59.6-74.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Treatment for test positive patients</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 59</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 190</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td align="center" colspan="2">
+                        <p>
+                          <bold>N = 249</bold>
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>AS+SP</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>40 (67.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>120 (63.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.519</p>
+                      </td>
+                      <td align="center">
+                        <p>160 (64.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>56.3-72.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Artemether injection</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>10 (17.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>50 (26.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.174</p>
+                      </td>
+                      <td align="center">
+                        <p>60 (24.1)</p>
+                      </td>
+                      <td align="center">
+                        <p>17.6-30.5</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Other antimalarials</bold>
+                          <sup>
+                            <bold>b</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>4 (6.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>5 (2.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.278</p>
+                      </td>
+                      <td align="center">
+                        <p>9 (3.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.4-6.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>No AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>5 (8.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>15 (7.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.863</p>
+                      </td>
+                      <td align="center">
+                        <p>20 (8.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>3.8-12.2</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Treatment for test negative patients</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 95</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 298</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td align="center" colspan="2">
+                        <p>
+                          <bold>N = 393</bold>
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>AS+SP</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>11 (11.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>42 (14.1)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.574</p>
+                      </td>
+                      <td align="center">
+                        <p>53 (13.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>7.1-19.8</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Artemether injection</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>3 (3.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>8 (2.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.791</p>
+                      </td>
+                      <td align="center">
+                        <p>11 (2.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>1.1-4.5</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Other antimalarials</bold>
+                          <sup>
+                            <bold>c</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>1 (1.1)</p>
+                      </td>
+                      <td align="center">
+                        <p>3 (1.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.969</p>
+                      </td>
+                      <td align="center">
+                        <p>4 (1.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0-2.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Any AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>15 (15.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>53 (17.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.657</p>
+                      </td>
+                      <td align="center">
+                        <p>68 (17.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>10.5-24.1</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>No AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>80 (84.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>245 (82.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.657</p>
+                      </td>
+                      <td align="center">
+                        <p>325 (82.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>75.9-89.5</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Treatment when test not done</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 98</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          <bold>N = 221</bold>
+                        </p>
+                      </td>
+                      <td/>
+                      <td align="center" colspan="2">
+                        <p>
+                          <bold>N = 319</bold>
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>AS+SP</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>8 (8.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>31 (14.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.278</p>
+                      </td>
+                      <td align="center">
+                        <p>39 (12.2)</p>
+                      </td>
+                      <td align="center">
+                        <p>4.4-20.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Artemether injection</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>1 (1.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>5 (2.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.389</p>
+                      </td>
+                      <td align="center">
+                        <p>6 (1.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>0-3.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>Other antimalarials</bold>
+                          <sup>
+                            <bold>d</bold>
+                          </sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>1 (1.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0 (0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.111</p>
+                      </td>
+                      <td align="center">
+                        <p>1 (0.3)</p>
+                      </td>
+                      <td align="center">
+                        <p>0-0.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                             
+                          <bold>No AM prescribed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>88 (89.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>185 (83.7)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.320</p>
+                      </td>
+                      <td align="center">
+                        <p>273 (85.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>76.7-94.4</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>
+                    <sup>a</sup>
+                    Defined as performance of all of the following three tasks: 1) patient tested for malaria; 2) if positive test result treated with AS+SP, and 3) if negative test result not treated for malaria
+                  </p>
+                  <p>
+                    <sup>b</sup>
+                    Other antimalarial treatments include: SP (3), QN (2) and AL (4)
+                  </p>
+                  <p>
+                    <sup>c</sup>
+                    Other antimalarial treatments include: SP (3), QN (1)
+                  </p>
+                  <p>
+                    <sup>d</sup>
+                    Other antimalarial treatments include: SP (1)
+                  </p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+          </sec>
+          <sec id="Sec12">
+            <title>Quality of ACT dispensing and counseling</title>
+            <p>
+              The performance of five dispensing and counseling tasks was evaluated for 347 patients who had AS+SP prescribed and dispensed at health facilities (Table 
+              <xref rid="Tab5" ref-type="table">5</xref>
+              ). The majority of the patients were explained how to take AS+SP drugs at home (86.5%) and advised to complete all AS+SP doses (60.7%), however only 2.9% of patients had the first dose administered at the health facility, 6.1% were weighed and the advice on what patients should do in case of vomiting was rarely provided (6.4%). Children below 5 years of age were more commonly weighed than patients 5 years and older (13.9% vs 4.0%; 
+              <italic>p</italic>
+               = 0.006) and advice on vomiting was more commonly provided for children than patients 5 years and older (12.5% vs 4.8%; 
+              <italic>p</italic>
+               = 0.009) (Table 
+              <xref rid="Tab5" ref-type="table">5</xref>
+              ).
+              <table-wrap id="Tab5">
+                <label>Table 5</label>
+                <caption xml:lang="en">
+                  <p>Quality of AS+SP dispensing and counseling in Sudan</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th/>
+                      <th align="center">
+                        <p>Children &lt; 5 yrs N = 72</p>
+                      </th>
+                      <th align="center">
+                        <p>Patients ≥ 5 yrs N = 275</p>
+                      </th>
+                      <th align="center">
+                        <p>
+                          <italic>P</italic>
+                          -value
+                        </p>
+                      </th>
+                      <th align="center" colspan="2">
+                        <p>All age groups</p>
+                        <p>N = 347</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th/>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th/>
+                      <th align="center">
+                        <p>n (%)</p>
+                      </th>
+                      <th align="center">
+                        <p>95% CI</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Explained dosing schedule</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>64 (88.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>236 (85.8)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.657</p>
+                      </td>
+                      <td align="center">
+                        <p>300 (86.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>82.8-90.1</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Advised to complete all doses</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          52 (73.2)
+                          <sup>a</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>158 (57.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.070</p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          210 (60.5)
+                          <sup>a</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>55.5-65.9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Patient weighed</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>10 (13.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>11 (4.0)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.006</p>
+                      </td>
+                      <td align="center">
+                        <p>21 (6.1)</p>
+                      </td>
+                      <td align="center">
+                        <p>3.5-8.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>First dose administered at HF</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>0 (0)</p>
+                      </td>
+                      <td align="center">
+                        <p>10 (3.6)</p>
+                      </td>
+                      <td align="center">
+                        <p>0.115</p>
+                      </td>
+                      <td align="center">
+                        <p>10 (2.9)</p>
+                      </td>
+                      <td align="center">
+                        <p>1.1-4.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>
+                          <bold>Explained what to do if vomiting</bold>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>9 (12.5)</p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          13 (4.8)
+                          <sup>b</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>0.009</p>
+                      </td>
+                      <td align="center">
+                        <p>
+                          22 (6.3)
+                          <sup>b</sup>
+                        </p>
+                      </td>
+                      <td align="center">
+                        <p>3.8-8.9</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>
+                    <sup>a</sup>
+                    Denominator does not include one patient with missing value
+                  </p>
+                  <p>
+                    <sup>b</sup>
+                    Denominator does not include two patients with missing values
+                  </p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec13" sec-type="discussion">
+          <title>Discussion</title>
+          <p>Our facility-based evaluation of the malaria case-management under the ACT policy in the 15 states of Sudan provides a number of observations relevant for future implementation activities under the 2007-2012 National Malaria Strategy.</p>
+          <sec id="Sec14">
+            <title>Health systems support to implement ACT based malaria case-management</title>
+            <p>
+              The critical pre-requisite for effective implementation of any treatment policy is universal availability of recommended, non-expired medicines as well as discontinued provision of obsolete therapies. The findings of this study revealed that chloroquine monotherapy had largely been successfully phased out from Sudanese facilities (absent at 95% of facilities), the presence of expired ACTs was nearly non-existent (3%) while recommended first-line therapy (AS+SP) was in stock at 73% of facilities and second-line therapy (AL) at only 25% of facilities. The finding that over one-quarter (26%) of facilities stocked no ACTs on the survey days is worrisome especially in comparison with prior studies in Sudan reporting nearly universal availability of recommended first-line antimalarials under the chloroquine policy [
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              , 
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              ]. However, the magnitude of ACT stock-outs found in this study is not unique to Sudan - nearly equal results were recently reported from Kenya where 25% of public facilities had ACT stock-outs [
+              <xref ref-type="bibr" rid="CR3">3</xref>
+              ] and similar findings were reported from Uganda [
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              ]. Future studies evaluating qualitative and quantitative characteristics of ACT supply chain are required in Sudan to better understand causes of ACT stock outs.
+            </p>
+            <p>
+              The second pre-requisite important for effective implementation of malaria case-management includes the capacity at health facilities to undertake malaria testing. Our survey revealed that currently about half (51%) of the public facilities in Sudan provide malaria diagnostic services, largely based on microscopy. While the relatively low availability of malaria diagnostics is understandable at basic health units (33%) where only limited diagnostic capacities have been deployed in the past it should be however noted that parasitological diagnosis was absent at 21% of health centres - the level of care traditionally providing laboratory support in Sudan. To rapidly increase the coverage of health facilities with malaria diagnostic services a focus on large scale procurement and supply of RDTs accompanied with the quality assurance activities to those facilities where malaria microscopy service is currently not available will fill an important gap. Simultaneously, at facilities with existent microcopy the strengthening of the quality of this service is the utmost priority. The quality assurance activities supporting both, RDTs and malaria microscopy, will be critical determinants to ensure routine accuracy of RDTs and overcome deficiencies in the quality of malaria microscopic services that have been previously reported in Sudan [
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              , 
+              <xref ref-type="bibr" rid="CR29">29</xref>
+              ] as well as in the region [
+              <xref ref-type="bibr" rid="CR30">30</xref>
+              , 
+              <xref ref-type="bibr" rid="CR31">31</xref>
+              ]
+            </p>
+            <p>Finally the provision of ACTs and diagnostics requires a package of health systems support activities for health workers which are necessary to implement, reinforce and maintain effective malaria case-management practices. Our findings revealed gaps in the coverage of health workers with malaria related health systems support activities; 47% of outpatient health workers had not attended ACT based case-management training, 76% had not been trained in the use of RDTs, 60% had no access to treatment protocols, 64% had not received any supervisory visit and importantly only 19% received a visit that included any activity related to malaria case-management. An opportunity to rapidly increase health workers exposure to these activities lies in the large scale RDT implementation which should be accompanied with broader and comprehensive malaria case-management in-service training, dissemination of job aids, post-training follow up and structured supervisory visits and performance monitoring.</p>
+          </sec>
+          <sec id="Sec15">
+            <title>Malaria case-management practices</title>
+            <p>
+              We have defined correct management of febrile patients from malaria perspective considering performance of the three minimum criteria determining success of ACT based policy based on confirmatory diagnosis [
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              ]. These included 1) malaria testing, 2) treatment of test positive results with recommended AS+SP and 3) withdrawal of antimalarial treatment for test negative patients. Our findings revealed that at all study facilities 35% of febrile patients are currently managed according to the composite indicator, with little difference between age groups. At the same facilities 46% of febrile patients are tested. While analysis based on all study facilities is useful to evaluate overall progress of the case-management practices under the 2007-2012 National Malaria Strategy, it does not consider the absence of ACTs and diagnostics at health facilities - the main determinant precluding case-management practices. Therefore, to evaluate health workers adherence to the new policies practices at 117 (48%) facilities where both, malaria diagnostic services and AS+SP, were available on the survey day were evaluated separately. At these facilities health workers performed all three tasks defining our composite indicator for a significantly higher proportion (51%) of febrile patients compared to analysis based on all facilities.
+            </p>
+            <p>
+              There are three levels of discordance contributing to the non-adherent case-management practices at facilities with available commodities. First, not all febrile patients are tested for malaria, however, 67% of patients parasitologically diagnosed is significantly higher compared to 43% reported in similar studies in Kenya [
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              ], 40% in Uganda [
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ], 31% in Angola [
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ] 27% in Zambia [
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              ] and 27% in Tanzania [
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              ]. The possible explanation of higher testing rates at facilities with malaria diagnostics in Sudan compared to other countries could be due to the presence of more qualified outpatient staff such as medical doctors and long term establishment of malaria microscopy in the country traditionally promoting, wherever possible, malaria testing across all age groups and malaria endemicities. The future priority for policy implementers in Sudan should be improvement in testing rates across all facilities.
+            </p>
+            <p>
+              The second level of discordance refers to patients with positive test result where only 64% of patients at facilities with AS+SP in stock, are treated with recommended first line therapy for uncomplicated malaria. At these facilities an important observation was the relatively wide-spread use of injectable artemether monotherapy, a practice not promoted globally on the grounds that it might promote the development of resistance to artemisinine derivatives [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ]. In this category of patients, we also observed tendency towards higher use of oral AS+SP in children while use of injectable artemether was more common for older children and adults, the finding reflecting previous report from Khartoum where irrational injectable therapy under the chloroquine policy was common and indeed prevailing in adults [
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              ]. Injectable antimalarials have a long history in Sudan [
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              , 
+              <xref ref-type="bibr" rid="CR34">34</xref>
+              ] and may be due to a combination of factors including the lack of appropriate training of health workers, lack of public education and patients' demands and beliefs. Future educational and supervisory interventions targeting health workers, as well as those targeting the broader public, should urgently address the problem of inappropriate use of injectable artemether.
+            </p>
+            <p>
+              The third and the lowest level of discordance was the observation made amongst those patients with a negative test result who were still treated with an antimalarial (17%). While this remains imperfect, this level of inappropriate prescription is substantially lower than reported under larger scale evaluations in other national settings [
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              , 
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              , 
+              <xref ref-type="bibr" rid="CR10">10</xref>
+              , 
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              , 
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              , 
+              <xref ref-type="bibr" rid="CR35">35</xref>
+              ]. Interestingly, this relatively low level of disregard of negative test results existed despite the ambiguity of national guidelines allowing possibility of antimalarial treatment for test negative patients (Figure 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ). International recommendations have recently changed to recommend treatment of only test positive patients and Sudanese guidelines should be also amended along these lines to facilitate elimination of these irrational practices (WHO 2010).
+            </p>
+            <p>
+              Finally, adequate ACT dispensing and counseling practices deserve attention as these tasks underpin good clinical practice necessary to ensure high rates of patients' adherence and treatment success [
+              <xref ref-type="bibr" rid="CR36">36</xref>
+              –
+              <xref ref-type="bibr" rid="CR38">38</xref>
+              ]. In our study we found that the majority of patients were explained the dosing schedule (87%) and advised to complete the dose (61%), however, the practices of administering the first dose of AS+SP at the facility, weighing patients and providing advice to patients what to do in case of vomiting was rarely performed (3-6%). Suboptimal dispensing and counseling practices found in our study concur with the findings reported previously in Sudan [
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              , 
+              <xref ref-type="bibr" rid="CR39">39</xref>
+              ], as well as from several studies across Africa [
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              , 
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              ]. The reasons for these suboptimal practices are not clear and demand further qualitative research including the potential effects of lack of potable water on administering drugs at facilities and the effects of AS+SP blister packages on the provision of replacement dose in case of vomiting.
+            </p>
+          </sec>
+          <sec id="Sec16">
+            <title>Study limitations</title>
+            <p>
+              Several study limitations should be mentioned. First, the presence of study teams may have introduced the Hawthorn effect resulting in better performance of health workers on survey days than usual [
+              <xref ref-type="bibr" rid="CR40">40</xref>
+              , 
+              <xref ref-type="bibr" rid="CR41">41</xref>
+              ]. To minimize this possibility we restrained from more &quot;invasive&quot; study procedures such as observation of consultations and limit patient level data collection only to patient's exit interviews. Second, the evaluation was undertaken from malaria case-management perspective and did not include data collection methods such as clinical re-examinations and direct observations to evaluate clinical assessment practices for non-malaria febrile patients which would provide an additional light to some of the practices. Finally, the appropriate drug dosage component of antimalarial treatments was not analyzed due to high rates of incomplete dosage prescriptions.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec17" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p>Five years following the shift of the Sudanese treatment policy to ACTs and three years before the end of the 2007-2012 Malaria Strategic Plan the chloroquine monotherapy was successfully phased out from public health facilities, however, the availability of recommended first-line (AS+SP) and second-line (AL) therapies was suboptimal. Malaria diagnostic capacities were present at half of the facilities largely dependent on the availability of malaria microscopy. There is an important gap in the health workers and health facility coverage with the in-service training, job aids and in particular with malaria related supervisory activities. With respect to case-management practices less than half of febrile patients are currently tested, however at facilities with available diagnostics the testing rates were reasonably high with two-thirds of the patients tested for malaria. The prevailing treatment practice for test positive patients is in line with national protocols recommending AS+SP, however worryingly one-quarter of the patients is treated with injectable artemether monotherapy. The relatively low prescription rates of antimalarial treatments for test negative patients compared to other countries are encouraging. Yet ACT dispensing and counseling practices were largely suboptimal. Overall, at all health facilities 35% of febrile patients were tested and treated according to test result while at facilities with available commodities 51% of febrile patients met the same criteria. Future qualitative research is required to better understand deficiencies of the supply chain and clinical practices and the forthcoming large scale implementation of RDTs, using the findings of this survey and pending qualitative research, should present an opportunity not only to expand coverage of testing capacities to the facilities where malaria diagnostics are currently not available, but also to implement effective support package of the interventions to bridge the health systems gaps and do further corrective measures to mainstream the recommended case-management. However, the adequate availability of ACTs and diagnostics at the point of care will ultimately determine the success of case-management policies in Sudan.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We are enormously grateful to the field workers and above all the patients and caretakers who participated in the survey. The authors thank all departments within the Federal Ministry of Health involved in the survey and the Central Bureau of Statistics for providing us with sampling frame for the survey. We thank Dr Hoda Atta, Dr Ghasem Zamani and Mr Mahmoud Wais of the WHO-EMRO Roll Back Malaria for their facilitation and funding of technical assistance for the survey. We also thank Dr Emelda Okiro for comments on earlier versions of the manuscript.</p>
+          <p>
+            <bold>Funding</bold>
+          </p>
+          <p>The survey was funded using Global Fund to Fight TB, AIDS and Malaria via the UNDP Sudan (Principal Recipient) and WHO-EMRO/RBM (sub-Recipient) for funding this survey. AMN is supported by the Wellcome Trust as an Intermediate Research Fellow (#095127). DZ is supported under a project grant to Professor Snow from the Wellcome Trust, UK (#084253) and from Medicines for Malaria Ventures. RWS is supported by the Wellcome Trust as Principal Research Fellow (#079080) which also supports SG. The funders were not involved in design of study, analysis of data and drafting of manuscript.</p>
+        </ack>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>WHO</collab>
+                </person-group>
+                <article-title xml:lang="en">Guidelines for the treatment of Malaria</article-title>
+                <source>Geneva</source>
+                <year>2010</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>WHO</collab>
+                </person-group>
+                <article-title xml:lang="en">World Malaria Report</article-title>
+                <source>Geneva</source>
+                <year>2009</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kangwana</surname>
+                    <given-names>BB</given-names>
+                  </name>
+                  <name>
+                    <surname>Njogu</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Wasunna</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Kedenge</surname>
+                    <given-names>SV</given-names>
+                  </name>
+                  <name>
+                    <surname>Memusi</surname>
+                    <given-names>DN</given-names>
+                  </name>
+                  <name>
+                    <surname>Goodman</surname>
+                    <given-names>CA</given-names>
+                  </name>
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Malaria drug shortages in Kenya: a major failure to provide access to effective treatment</article-title>
+                <source>Am J Trop Med Hyg</source>
+                <year>2009</year>
+                <volume>80</volume>
+                <issue>5</issue>
+                <fpage>737</fpage>
+                <lpage>738</lpage>
+                <pub-id pub-id-type="pmid">19407116</pub-id>
+                <pub-id pub-id-type="pmcid">2679204</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>ACTwatch</collab>
+                </person-group>
+                <article-title xml:lang="en">Availability, volumes, price and use of antimalarials in 7 malaria endemic countries</article-title>
+                <source>Multilateral Initiative on Malaria Symposium: 2009; Nairobi, Kenya</source>
+                <year>2009</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hamer</surname>
+                    <given-names>DH</given-names>
+                  </name>
+                  <name>
+                    <surname>Ndhlovu</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Fox</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Yeboah-Antwi</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Chanda</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Sipilinyambe</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Simon</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Improved diagnostic testing and malaria treatment practices in Zambia</article-title>
+                <source>JAMA</source>
+                <year>2007</year>
+                <volume>297</volume>
+                <issue>20</issue>
+                <fpage>2227</fpage>
+                <lpage>2231</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2sXlvVKiu74%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1001/jama.297.20.2227</pub-id>
+                <pub-id pub-id-type="pmid">17519412</pub-id>
+                <pub-id pub-id-type="pmcid">2674546</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Njogu</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Akhwale</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Hamer</surname>
+                    <given-names>DH</given-names>
+                  </name>
+                  <name>
+                    <surname>Larson</surname>
+                    <given-names>BA</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effects of revised diagnostic recommendations on malaria treatment practices across age groups in Kenya</article-title>
+                <source>Trop Med Int Health</source>
+                <year>2008</year>
+                <volume>13</volume>
+                <issue>6</issue>
+                <fpage>784</fpage>
+                <lpage>787</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD1czit1yjug%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2008.02072.x</pub-id>
+                <pub-id pub-id-type="pmid">18482078</pub-id>
+                <pub-id pub-id-type="pmcid">2592476</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chandler</surname>
+                    <given-names>CI</given-names>
+                  </name>
+                  <name>
+                    <surname>Chonya</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Boniface</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Juma</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Reyburn</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Whitty</surname>
+                    <given-names>CJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The importance of context in malaria diagnosis and treatment decisions - a quantitative analysis of observed clinical encounters in Tanzania</article-title>
+                <source>Trop Med Int Health</source>
+                <year>2008</year>
+                <volume>13</volume>
+                <issue>9</issue>
+                <fpage>1131</fpage>
+                <lpage>1142</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2008.02118.x</pub-id>
+                <pub-id pub-id-type="pmid">18631313</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Skarbinski</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Ouma</surname>
+                    <given-names>PO</given-names>
+                  </name>
+                  <name>
+                    <surname>Causer</surname>
+                    <given-names>LM</given-names>
+                  </name>
+                  <name>
+                    <surname>Kariuki</surname>
+                    <given-names>SK</given-names>
+                  </name>
+                  <name>
+                    <surname>Barnwell</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <name>
+                    <surname>Alaii</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>de Oliveira</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Larson</surname>
+                    <given-names>BA</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Effect of malaria rapid diagnostic tests on the management of uncomplicated malaria with artemether-lumefantrine in Kenya: a cluster randomized trial</article-title>
+                <source>Am J Trop Med Hyg</source>
+                <year>2009</year>
+                <volume>80</volume>
+                <issue>6</issue>
+                <fpage>919</fpage>
+                <lpage>926</lpage>
+                <pub-id pub-id-type="pmid">19478249</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rowe</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>de Leon</surname>
+                    <given-names>GF</given-names>
+                  </name>
+                  <name>
+                    <surname>Mihigo</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Santelli</surname>
+                    <given-names>AC</given-names>
+                  </name>
+                  <name>
+                    <surname>Miller</surname>
+                    <given-names>NP</given-names>
+                  </name>
+                  <name>
+                    <surname>Van-Dunem</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Quality of malaria case management at outpatient health facilities in Angola</article-title>
+                <source>Malar J</source>
+                <year>2009</year>
+                <volume>8</volume>
+                <issue>1</issue>
+                <fpage>275</fpage>
+                <pub-id pub-id-type="doi">10.1186/1475-2875-8-275</pub-id>
+                <pub-id pub-id-type="pmid">19954537</pub-id>
+                <pub-id pub-id-type="pmcid">2795764</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Barat</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Chipipa</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kolczak</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Sukwa</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Does the availability of blood slide microscopy for malaria at health centers improve the management of persons with fever in Zambia?</article-title>
+                <source>Am J Trop Med Hyg</source>
+                <year>1999</year>
+                <volume>60</volume>
+                <issue>6</issue>
+                <fpage>1024</fpage>
+                <lpage>1030</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK1MzjtVWgsw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">10403337</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Midia</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Ochola</surname>
+                    <given-names>SA</given-names>
+                  </name>
+                  <name>
+                    <surname>English</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Microscopy and outpatient malaria case management among older children and adults in Kenya</article-title>
+                <source>Trop Med Int Health</source>
+                <year>2006</year>
+                <volume>11</volume>
+                <issue>4</issue>
+                <fpage>432</fpage>
+                <lpage>440</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD287ms1Wrtg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2006.01587.x</pub-id>
+                <pub-id pub-id-type="pmid">16553926</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nankabirwa</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Njogu</surname>
+                    <given-names>JN</given-names>
+                  </name>
+                  <name>
+                    <surname>Rwakimari</surname>
+                    <given-names>JB</given-names>
+                  </name>
+                  <name>
+                    <surname>Counihan</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                  <name>
+                    <surname>Tibenderana</surname>
+                    <given-names>JK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Malaria misdiagnosis in Uganda--implications for policy change</article-title>
+                <source>Malar J</source>
+                <year>2009</year>
+                <volume>8</volume>
+                <fpage>66</fpage>
+                <pub-id pub-id-type="doi">10.1186/1475-2875-8-66</pub-id>
+                <pub-id pub-id-type="pmid">19371426</pub-id>
+                <pub-id pub-id-type="pmcid">2671516</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bisoffi</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Sirima</surname>
+                    <given-names>BS</given-names>
+                  </name>
+                  <name>
+                    <surname>Angheben</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Lodesani</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Gobbi</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Tinto</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Van den Ende</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Rapid malaria diagnostic tests vs. clinical management of malaria in rural Burkina Faso: safety and effect on clinical decisions. a randomized trial</article-title>
+                <source>Trop Med Int Health</source>
+                <year>2009</year>
+                <volume>14</volume>
+                <issue>5</issue>
+                <fpage>491</fpage>
+                <lpage>498</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2009.02246.x</pub-id>
+                <pub-id pub-id-type="pmid">19222821</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="other">Ansah EK, Narh-Bana S, Epokor M, Akanpigbiam S, Quartey AA, Gyapong J, Whitty CJ: Rapid testing for malaria in settings where microscopy is available and peripheral clinics where only presumptive treatment is available: a randomised controlled trial in Ghana. BMJ. 340: c930-</mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wasunna</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Bruce</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Jones</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Webster</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Health worker performance in the management of paediatric fevers following in-service training and exposure to job aids in Kenya</article-title>
+                <source>Malar J</source>
+                <year>2010</year>
+                <volume>9</volume>
+                <fpage>261</fpage>
+                <pub-id pub-id-type="pmid">20849650</pub-id>
+                <pub-id pub-id-type="pmcid">2955674</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Ndhlovu</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Sipilanyambe</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Chanda</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Hamer</surname>
+                    <given-names>DH</given-names>
+                  </name>
+                  <name>
+                    <surname>Simon</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Paediatric malaria case-management with artemether-lumefantrine in Zambia: a repeat cross-sectional study</article-title>
+                <source>Malar J</source>
+                <year>2007</year>
+                <volume>6</volume>
+                <fpage>31</fpage>
+                <pub-id pub-id-type="doi">10.1186/1475-2875-6-31</pub-id>
+                <pub-id pub-id-type="pmid">17367518</pub-id>
+                <pub-id pub-id-type="pmcid">1832199</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Njogu</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Akhwale</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Hamer</surname>
+                    <given-names>DH</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Translation of artemether-lumefantrine treatment policy into paediatric clinical practice: an early experience from Kenya</article-title>
+                <source>Trop Med Int Health</source>
+                <year>2008</year>
+                <volume>13</volume>
+                <issue>1</issue>
+                <fpage>99</fpage>
+                <lpage>107</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD1c7jtF2qsg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2007.01980.x</pub-id>
+                <pub-id pub-id-type="pmid">18291008</pub-id>
+                <pub-id pub-id-type="pmcid">2592474</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Tibenderana</surname>
+                    <given-names>JK</given-names>
+                  </name>
+                  <name>
+                    <surname>Nankabirwa</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Ssekitooleko</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Njogu</surname>
+                    <given-names>JN</given-names>
+                  </name>
+                  <name>
+                    <surname>Rwakimari</surname>
+                    <given-names>JB</given-names>
+                  </name>
+                  <name>
+                    <surname>Meek</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Talisuna</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Malaria case-management under artemether-lumefantrine treatment policy in Uganda</article-title>
+                <source>Malar J</source>
+                <year>2008</year>
+                <volume>7</volume>
+                <fpage>181</fpage>
+                <pub-id pub-id-type="doi">10.1186/1475-2875-7-181</pub-id>
+                <pub-id pub-id-type="pmid">18803833</pub-id>
+                <pub-id pub-id-type="pmcid">2556699</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kachur</surname>
+                    <given-names>SP</given-names>
+                  </name>
+                  <name>
+                    <surname>Khatib</surname>
+                    <given-names>RA</given-names>
+                  </name>
+                  <name>
+                    <surname>Kaizer</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Fox</surname>
+                    <given-names>SS</given-names>
+                  </name>
+                  <name>
+                    <surname>Abdulla</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Bloland</surname>
+                    <given-names>PB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Adherence to antimalarial combination therapy with sulfadoxine-pyrimethamine and artesunate in rural Tanzania</article-title>
+                <source>Am J Trop Med Hyg</source>
+                <year>2004</year>
+                <volume>71</volume>
+                <issue>6</issue>
+                <fpage>715</fpage>
+                <lpage>722</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXpslajsw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">15642960</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lubell</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Reyburn</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Mbakilwa</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Mwangi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Chonya</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Whitty</surname>
+                    <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Mills</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The impact of response to the results of diagnostic tests for malaria: cost-benefit analysis</article-title>
+                <source>BMJ</source>
+                <year>2008</year>
+                <volume>336</volume>
+                <issue>7637</issue>
+                <fpage>202</fpage>
+                <lpage>205</lpage>
+                <pub-id pub-id-type="doi">10.1136/bmj.39395.696065.47</pub-id>
+                <pub-id pub-id-type="pmid">18199700</pub-id>
+                <pub-id pub-id-type="pmcid">2213875</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Adam</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Osman</surname>
+                    <given-names>ME</given-names>
+                  </name>
+                  <name>
+                    <surname>Elghzali</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahmed</surname>
+                    <given-names>GI</given-names>
+                  </name>
+                  <name>
+                    <surname>Gustafssons</surname>
+                    <given-names>LL</given-names>
+                  </name>
+                  <name>
+                    <surname>Elbashir</surname>
+                    <given-names>MI</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Efficacies of chloroquine, sulfadoxine-pyrimethamine and quinine in the treatment of uncomplicated, Plasmodium falciparum malaria in eastern Sudan</article-title>
+                <source>Ann Trop Med Parasitol</source>
+                <year>2004</year>
+                <volume>98</volume>
+                <issue>7</issue>
+                <fpage>661</fpage>
+                <lpage>666</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXhtVSgtLjI</pub-id>
+                <pub-id pub-id-type="doi">10.1179/000349804225021514</pub-id>
+                <pub-id pub-id-type="pmid">15509420</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Adam</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>IE</surname>
+                    <given-names>AE</given-names>
+                  </name>
+                  <name>
+                    <surname>Idris</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Malik</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                  <name>
+                    <surname>Elbashir</surname>
+                    <given-names>MI</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A comparison of the efficacy of artesunate plus sulfadoxine-pyrimethamine with that of sulfadoxine-pyrimethamine alone, in the treatment of uncomplicated, Plasmodium falciparum malaria in eastern Sudan</article-title>
+                <source>Ann Trop Med Parasitol</source>
+                <year>2005</year>
+                <volume>99</volume>
+                <issue>5</issue>
+                <fpage>449</fpage>
+                <lpage>455</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXovV2mtLc%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1179/136485905X36299</pub-id>
+                <pub-id pub-id-type="pmid">16004704</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Malik</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                  <name>
+                    <surname>Mohamed</surname>
+                    <given-names>TA</given-names>
+                  </name>
+                  <name>
+                    <surname>Elmardi</surname>
+                    <given-names>KA</given-names>
+                  </name>
+                  <name>
+                    <surname>Mowien</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <name>
+                    <surname>Elhassan</surname>
+                    <given-names>AH</given-names>
+                  </name>
+                  <name>
+                    <surname>Elamin</surname>
+                    <given-names>SB</given-names>
+                  </name>
+                  <name>
+                    <surname>Mannan</surname>
+                    <given-names>AA</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahmed</surname>
+                    <given-names>ES</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">From chloroquine to artemisinin-based combination therapy: the Sudanese experience</article-title>
+                <source>Malar J</source>
+                <year>2006</year>
+                <volume>5</volume>
+                <fpage>65</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD28rovFWmsw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1186/1475-2875-5-65</pub-id>
+                <pub-id pub-id-type="pmid">16879742</pub-id>
+                <pub-id pub-id-type="pmcid">1590042</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Federal Ministry of Health</collab>
+                </person-group>
+                <article-title xml:lang="en">National protocal for the treatment of malaria</article-title>
+                <source>Khartoum</source>
+                <year>2004</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Federal Ministry of Health</collab>
+                </person-group>
+                <article-title xml:lang="en">National Strategic Plan for RBM</article-title>
+                <source>Khartoum</source>
+                <year>2006</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mannan</surname>
+                    <given-names>AA</given-names>
+                  </name>
+                  <name>
+                    <surname>Malik</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                  <name>
+                    <surname>Ali</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antimalarial prescribing and dispensing practices in health centres of Khartoum state, 2003-04</article-title>
+                <source>East Mediterr Health J</source>
+                <year>2009</year>
+                <volume>15</volume>
+                <issue>1</issue>
+                <fpage>122</fpage>
+                <lpage>128</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD1MzntFentA%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">19469434</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Federal Ministry of Health</collab>
+                </person-group>
+                <article-title xml:lang="en">Health facility survey on quality of outpatient child health services</article-title>
+                <source>Khartoum</source>
+                <year>2004</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Malik</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                  <name>
+                    <surname>Eltahir</surname>
+                    <given-names>HG</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahmed</surname>
+                    <given-names>ES</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Clinical and laboratory aspects of malaria among children with fever in a low transmission area of Sudan</article-title>
+                <source>East Mediterr Health J</source>
+                <year>2005</year>
+                <volume>11</volume>
+                <issue>4</issue>
+                <fpage>753</fpage>
+                <lpage>761</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD283ntFWrtg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">16700392</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>A. Elgayoum</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>El-Feki Ael</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Mahgoub</surname>
+                    <given-names>BA</given-names>
+                  </name>
+                  <name>
+                    <surname>El-Rayah el</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Giha</surname>
+                    <given-names>HA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Malaria overdiagnosis and burden of malaria misdiagnosis in the suburbs of central Sudan: special emphasis on artemisinin-based combination therapy era</article-title>
+                <source>Diagn Microbiol Infect Dis</source>
+                <year>2009</year>
+                <volume>64</volume>
+                <issue>1</issue>
+                <fpage>20</fpage>
+                <lpage>26</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.diagmicrobio.2009.01.029</pub-id>
+                <pub-id pub-id-type="pmid">19362256</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Noor</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                  <name>
+                    <surname>Rage</surname>
+                    <given-names>IA</given-names>
+                  </name>
+                  <name>
+                    <surname>Moonen</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Health service providers in Somalia: their readiness to provide malaria case-management</article-title>
+                <source>Malar J</source>
+                <year>2009</year>
+                <volume>8</volume>
+                <fpage>100</fpage>
+                <pub-id pub-id-type="doi">10.1186/1475-2875-8-100</pub-id>
+                <pub-id pub-id-type="pmid">19439097</pub-id>
+                <pub-id pub-id-type="pmcid">2688519</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="other">Hailegiorgis B, Girma S, Melaku Z, Teshi T, Demeke L, Gebresellasie S, Yadeta D, Tibesso G, Whitehurst N, Yamo E, Carter J, Reithinger R: Laboratory malaria diagnostic capacity in health facilities in five administrative zones of Oromia regional state, Ethiopia. Trop Med Int Health. 15 (12): 1449-1457.</mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Juma</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Zurovac</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <source>Changes in health workers' malaria diagnosis and treatment practices in Kenya</source>
+                <year>2010</year>
+                <fpage>1</fpage>
+                <volume content-type="number-in-series">10</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dondorp</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                  <name>
+                    <surname>Nosten</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Yi</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Das</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Phyo</surname>
+                    <given-names>AP</given-names>
+                  </name>
+                  <name>
+                    <surname>Tarning</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Lwin</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Ariey</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Hanpithakpong</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Ringwald</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Silamut</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Imwong</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Chotivanich</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Lim</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Herdman</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>An</surname>
+                    <given-names>SS</given-names>
+                  </name>
+                  <name>
+                    <surname>Yeung</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Singhasivanon</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Nicholas</surname>
+                    <given-names>PJD</given-names>
+                  </name>
+                  <name>
+                    <surname>Lindegardh</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Socheat</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>White</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Artemisinin resistance in Plasmodium falciparum malaria</article-title>
+                <source>N Engl J Med</source>
+                <year>2009</year>
+                <volume>361</volume>
+                <issue>5</issue>
+                <fpage>455</fpage>
+                <lpage>467</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXpt1CrsLk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1056/NEJMoa0808859</pub-id>
+                <pub-id pub-id-type="pmid">19641202</pub-id>
+                <pub-id pub-id-type="pmcid">3495232</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Awad</surname>
+                    <given-names>AI</given-names>
+                  </name>
+                  <name>
+                    <surname>Ball</surname>
+                    <given-names>DE</given-names>
+                  </name>
+                  <name>
+                    <surname>Eltayeb</surname>
+                    <given-names>IB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Improving rational drug use in Africa: the example of Sudan</article-title>
+                <source>East Mediterr Health J</source>
+                <year>2007</year>
+                <volume>13</volume>
+                <issue>5</issue>
+                <fpage>1202</fpage>
+                <lpage>1211</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD1c7jtFGmug%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">18290415</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Reyburn</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Mbakilwa</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Mwangi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Mwerinde</surname>
+                    <given-names>O</given-names>
+                  </name>
+                  <name>
+                    <surname>Olomi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Drakeley</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Whitty</surname>
+                    <given-names>CJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Rapid diagnostic tests compared with malaria microscopy for guiding outpatient treatment of febrile illness in Tanzania: randomised trial</article-title>
+                <source>BMJ</source>
+                <year>2007</year>
+                <volume>334</volume>
+                <issue>7590</issue>
+                <fpage>403</fpage>
+                <pub-id pub-id-type="doi">10.1136/bmj.39073.496829.AE</pub-id>
+                <pub-id pub-id-type="pmid">17259188</pub-id>
+                <pub-id pub-id-type="pmcid">1804187</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fogg</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Bajunirwe</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Piola</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Biraro</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Checchi</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Kiguli</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Namiiro</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Musabe</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kyomugisha</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Guthmann</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Adherence to a six-dose regimen of artemether-lumefantrine for treatment of uncomplicated Plasmodium falciparum malaria in Uganda</article-title>
+                <source>Am J Trop Med Hyg</source>
+                <year>2004</year>
+                <volume>71</volume>
+                <issue>5</issue>
+                <fpage>525</fpage>
+                <lpage>530</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXit1emtw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">15569777</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Piola</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Fogg</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Bajunirwe</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Biraro</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Grandesso</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Ruzagira</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Babigumira</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kigozi</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Kiguli</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kyomuhendo</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Supervised versus unsupervised intake of six-dose artemether-lumefantrine for treatment of acute, uncomplicated Plasmodium falciparum malaria in Mbarara, Uganda: a randomised trial</article-title>
+                <source>Lancet</source>
+                <year>2005</year>
+                <volume>365</volume>
+                <issue>9469</issue>
+                <fpage>1467</fpage>
+                <lpage>1473</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXjs1Kkt7g%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0140-6736(05)66416-1</pub-id>
+                <pub-id pub-id-type="pmid">15850630</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Beer</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Ali</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Rotllant</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Abass</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Omari</surname>
+                    <given-names>RS</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-mafazy</surname>
+                    <given-names>AW</given-names>
+                  </name>
+                  <name>
+                    <surname>Bjorkman</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Kallander</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Adherence to artesunate-amodiaquine combination therapy for uncomplicated malaria in children in Zanzibar, Tanzania</article-title>
+                <source>Trop Med Int Health</source>
+                <year>2009</year>
+                <volume>14</volume>
+                <issue>7</issue>
+                <fpage>766</fpage>
+                <lpage>774</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhtValsr3P</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2009.02289.x</pub-id>
+                <pub-id pub-id-type="pmid">19549001</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cheraghali</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                  <name>
+                    <surname>Idries</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Availability, affordability, and prescribing pattern of medicines in Sudan</article-title>
+                <source>Pharm World Sci</source>
+                <year>2009</year>
+                <volume>31</volume>
+                <issue>2</issue>
+                <fpage>209</fpage>
+                <lpage>215</lpage>
+                <pub-id pub-id-type="doi">10.1007/s11096-009-9282-3</pub-id>
+                <pub-id pub-id-type="pmid">19263235</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rowe</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Lama</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Onikpo</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Deming</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Health worker perceptions of how being observed influences their practices during consultations with ill children</article-title>
+                <source>Trop Doct</source>
+                <year>2002</year>
+                <volume>32</volume>
+                <issue>3</issue>
+                <fpage>166</fpage>
+                <lpage>167</lpage>
+                <pub-id pub-id-type="pmid">12139161</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Leonard</surname>
+                    <given-names>KL</given-names>
+                  </name>
+                  <name>
+                    <surname>Masatu</surname>
+                    <given-names>MC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The use of direct clinician observation and vignettes for health services quality evaluation in developing countries</article-title>
+                <source>Soc Sci Med</source>
+                <year>2005</year>
+                <volume>61</volume>
+                <issue>9</issue>
+                <fpage>1944</fpage>
+                <lpage>1951</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.socscimed.2005.03.043</pub-id>
+                <pub-id pub-id-type="pmid">15936863</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+          <ref-list id="BSec1">
+            <title>Pre-publication history</title>
+            <ref id="CR42">
+              <mixed-citation publication-type="other">
+                The pre-publication history for this paper can be accessed here:
+                <ext-link ns0:href="http://www.biomedcentral.com/1471-2458/12/11/prepub" ext-link-type="uri">http://www.biomedcentral.com/1471-2458/12/11/prepub</ext-link>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec18">
+              <title>Authors’ original submitted files for images</title>
+              <p>
+                Below are the links to the authors’ original submitted files for images.
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Authors’ original submitted files for images">
+                  <media mimetype="image" mime-subtype="tiff" ns0:href="MediaObjects/12889_2011_3734_MOESM1_ESM.tiff">
+                    <caption xml:lang="en">
+                      <p>Authors’ original file for figure 1</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+                <supplementary-material content-type="local-data" id="MOESM2" ns0:title="Authors’ original submitted files for images">
+                  <media mimetype="image" mime-subtype="tiff" ns0:href="MediaObjects/12889_2011_3734_MOESM2_ESM.tiff">
+                    <caption xml:lang="en">
+                      <p>Authors’ original file for figure 2</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="Misc">
+          <title>Competing interests</title>
+          <p>DZ and RWS have received honoraria from Novartis Pharma for presenting and chairing, respectively, at their national malaria control programme best practice workshops in Africa.</p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Authors' contributions</title>
+          <p>AI and KAE were involved in design and development of survey tools, implementation of survey, and collection of data and drafting of the manuscript. AMN designed the study, collected and cleaned the data and participated in analysis and drafting the manuscript. SG reanalyzed the data and participated in drafting the manuscript. DZ participated in study design and development of survey tools, analysis and drafting of the manuscript. RWS participated in the conception of the study questions, provided overall scientific direction and was involved in the analysis and drafting of the manuscript. All authors have read and approved the final manuscript.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

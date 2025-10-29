@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.239891",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1479-x",
+    "title": "Impact of unstable housing on all-cause mortality among persons who inject drugs",
+    "article_number": "106",
+    "publication_date": "2015-02-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Rebecca Zivanovic",
+      "MJ Milloy",
+      "Kanna Hayashi",
+      "Huiru Dong",
+      "Christy Sutherland",
+      "Thomas Kerr",
+      "Evan Wood"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T13:11:22.058961"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T13:11:23.619783"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T13:11:24.978496"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T21:06:56.670321"
+    },
+    "last_updated": "2025-10-03T21:06:56.670552"
+  }
+}

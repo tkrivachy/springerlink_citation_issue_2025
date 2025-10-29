@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.539432",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54916-5",
+    "title": "The molecular reach of antibodies crucially underpins their viral neutralisation capacity",
+    "article_number": "338",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anna Huhn",
+      "Daniel Nissley",
+      "Daniel B. Wilson",
+      "Mikhail A. Kutuzov",
+      "Robert Donat",
+      "Tiong Kit Tan",
+      "Ying Zhang",
+      "Michael I. Barton",
+      "Chang Liu",
+      "Wanwisa Dejnirattisai",
+      "Piyada Supasa",
+      "Juthathip Mongkolsapaya",
+      "Alain Townsend",
+      "William James",
+      "Gavin Screaton",
+      "P. Anton van der Merwe",
+      "Charlotte M. Deane",
+      "Samuel A. Isaacson",
+      "Omer Dushek"
+    ]
+  },
+  "article_index": 200,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:34:21.711682"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:34:23.247139"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:34:24.406242"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:25:29.026739"
+    },
+    "last_updated": "2025-10-03T23:25:29.026944"
+  }
+}

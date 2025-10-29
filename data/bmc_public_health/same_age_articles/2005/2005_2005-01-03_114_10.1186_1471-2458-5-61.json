@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.965751",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-61",
+    "title": "Sex- and age-specific trends in mortality from suicide and undetermined death in Germany 1991–2002",
+    "article_number": "61",
+    "publication_date": "2005-06-06",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jens J Baumert",
+      "Natalia Erazo",
+      "Karl-Heinz Ladwig"
+    ]
+  },
+  "article_index": 114,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T12:12:59.945348"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T12:13:01.511355"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T12:13:02.814693"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T20:45:49.861069"
+    },
+    "last_updated": "2025-10-03T20:45:49.861264"
+  }
+}

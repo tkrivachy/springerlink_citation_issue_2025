@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724822",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08036-6",
+    "title": "Indirect protection from vaccinating children against influenza in households",
+    "article_number": "106",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tim K. Tsang",
+      "Vicky J. Fang",
+      "Dennis K. M. Ip",
+      "Ranawaka A. P. M. Perera",
+      "Hau Chi So",
+      "Gabriel M. Leung",
+      "J. S. Malik Peiris",
+      "Benjamin J. Cowling",
+      "Simon Cauchemez"
+    ]
+  },
+  "article_index": 437,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:01:08.565588"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:01:10.082115"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:01:11.234430"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T22:54:23.728081"
+    },
+    "last_updated": "2025-10-03T22:54:23.728273"
+  }
+}

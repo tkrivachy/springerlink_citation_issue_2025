@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685215",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08018-8",
+    "title": "Compound-specific radiocarbon dating and mitochondrial DNA analysis of the Pleistocene hominin from Salkhit Mongolia",
+    "article_number": "274",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Thibaut Devièse",
+      "Diyendo Massilani",
+      "Seonbok Yi",
+      "Daniel Comeskey",
+      "Sarah Nagel",
+      "Birgit Nickel",
+      "Erika Ribechini",
+      "Jungeun Lee",
+      "Damdinsuren Tseveendorj",
+      "Byambaa Gunchinsuren",
+      "Matthias Meyer",
+      "Svante Pääbo",
+      "Tom Higham"
+    ]
+  },
+  "article_index": 74,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T17:17:04.151734"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:17:05.697108"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T17:17:07.000267"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T22:39:08.990292"
+    },
+    "last_updated": "2025-10-03T22:39:08.990527"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.176350",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20464-x",
+    "title": "Function-oriented design of robust metal cocatalyst for photocatalytic hydrogen evolution on metal/titania composites",
+    "article_number": "158",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dong Wang",
+      "Xue-Qing Gong"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:29:13.540923"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T18:29:15.109873"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T18:29:16.500721"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 100,
+      "retrieved_at": "2025-10-03T23:03:47.206331"
+    },
+    "last_updated": "2025-10-03T23:03:47.206380"
+  }
+}

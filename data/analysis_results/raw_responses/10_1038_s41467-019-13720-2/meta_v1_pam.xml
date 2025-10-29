@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-13720-2</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-019-13720-2</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41467-019-13720-2</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41467-019-13720-2.pdf</ns2:url>
+          <dc:title>Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities</dc:title>
+          <dc:creator>Wang, Wenzhong</dc:creator>
+          <dc:creator>Xu, Yinhan</dc:creator>
+          <dc:creator>Sun, Daoyuan</dc:creator>
+          <dc:creator>Ni, Sidao</dc:creator>
+          <dc:creator>Wentzcovitch, Renata</dc:creator>
+          <dc:creator>Wu, Zhongqing</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2041-1723</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:volume>11</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>8</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2020-01-07</onlineDate>
+          <ns2:coverDate>2020-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41467-019-13720-2</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2020-01-07</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-019-13720-2</ns2:url>
+          <ns2:copyright>©2020 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <p>Seismology is a powerful tool to investigate Earth’s interior. Here, the authors combine numerical approaches with experimental results from previous studies to show a depth dependent behaviour of seismic waves in subducted oceanic crust in Earth’s mantle. The work challenges the currently accepted model of depth-independent seismic wave behaviour in oceanic crust.</p>
+        <h1>Abstract</h1>
+        <p>Seismic heterogeneities detected in the lower mantle were proposed to be related to subducted oceanic crust. However, the velocity and density of subducted oceanic crust at lower-mantle conditions remain unknown. Here, we report ab initio results for the elastic properties of calcium ferrite‐type phases and determine the velocities and density of oceanic crust along different mantle geotherms. We find that the subducted oceanic crust shows a large negative shear velocity anomaly at the phase boundary between stishovite and CaCl_2-type silica, which is highly consistent with the feature of mid-mantle scatterers. After this phase transition in silica, subducted oceanic crust will be visible as high-velocity heterogeneities as imaged by seismic tomography. This study suggests that the presence of subducted oceanic crust could provide good explanations for some lower-mantle seismic heterogeneities with different length scales except large low shear velocity provinces (LLSVPs).</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2020</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">China</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

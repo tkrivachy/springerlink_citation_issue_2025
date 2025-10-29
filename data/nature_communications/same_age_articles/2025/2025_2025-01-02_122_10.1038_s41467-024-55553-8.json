@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.530045",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55553-8",
+    "title": "Structural insights into distinct mechanisms of RNA polymerase II and III recruitment to snRNA promoters",
+    "article_number": "141",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Syed Zawar Shah",
+      "Thomas N. Perry",
+      "Andrea Graziadei",
+      "Valentina Cecatiello",
+      "Thangavelu Kaliyappan",
+      "Agata D. Misiaszek",
+      "Christoph W. Müller",
+      "Ewan P. Ramsay",
+      "Alessandro Vannini"
+    ]
+  },
+  "article_index": 122,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:25:20.933383"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:25:22.500702"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:25:23.701260"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:22:35.167760"
+    },
+    "last_updated": "2025-10-03T23:22:35.167952"
+  }
+}

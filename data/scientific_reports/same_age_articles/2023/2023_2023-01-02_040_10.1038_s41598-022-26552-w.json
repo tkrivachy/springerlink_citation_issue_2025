@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.103723",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26552-w",
+    "title": "Scaling of agent-based models to evaluate transmission risks of infectious diseases",
+    "article_number": "75",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Peter J. Thomas",
+      "Aidan Marvell"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:31:27.287996"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:31:28.805969"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:31:30.019584"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:00:27.249649"
+    },
+    "last_updated": "2025-10-03T22:00:27.249748"
+  }
+}

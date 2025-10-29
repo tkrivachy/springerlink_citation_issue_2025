@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685110",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08353-4",
+    "title": "Template-directed RNA polymerization and enhanced ribozyme catalysis inside membraneless compartments formed by coacervates",
+    "article_number": "490",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Raghav R. Poudyal",
+      "Rebecca M. Guth-Metzler",
+      "Andrew J. Veenis",
+      "Erica A. Frankel",
+      "Christine D. Keating",
+      "Philip C. Bevilacqua"
+    ]
+  },
+  "article_index": 73,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 195,
+      "retrieved_at": "2025-10-03T17:26:32.500846"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 262,
+      "retrieved_at": "2025-10-03T17:26:34.066182"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 231,
+      "retrieved_at": "2025-10-03T17:26:35.217754"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 272,
+      "retrieved_at": "2025-10-03T22:42:19.532239"
+    },
+    "last_updated": "2025-10-03T22:42:19.532469"
+  }
+}

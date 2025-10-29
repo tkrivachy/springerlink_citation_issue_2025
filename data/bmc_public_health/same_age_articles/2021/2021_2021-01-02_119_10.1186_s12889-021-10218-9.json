@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.644678",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10218-9",
+    "title": "Quality and readability of web-based Arabic health information on COVID-19: an infodemiological study",
+    "article_number": "151",
+    "publication_date": "2021-01-18",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Esam Halboub",
+      "Mohammed Sultan Al-Ak’hali",
+      "Hesham M. Al-Mekhlafi",
+      "Mohammed Nasser Alhajj"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T13:43:13.760837"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T13:43:15.268216"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T13:43:16.565245"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T21:18:34.449491"
+    },
+    "last_updated": "2025-10-03T21:18:34.449590"
+  }
+}

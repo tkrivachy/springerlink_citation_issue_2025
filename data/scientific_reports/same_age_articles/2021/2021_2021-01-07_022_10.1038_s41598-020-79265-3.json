@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.205477",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79265-3",
+    "title": "Subglottal pressure oscillations in anechoic and resonant conditions and their influence on excised larynx phonations",
+    "article_number": "28",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sarah Lehoux",
+      "Vít Hampala",
+      "Jan G. Švec"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:33:30.819236"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:33:32.362843"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:33:33.542760"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:36:48.090645"
+    },
+    "last_updated": "2025-10-03T21:36:48.090839"
+  }
+}

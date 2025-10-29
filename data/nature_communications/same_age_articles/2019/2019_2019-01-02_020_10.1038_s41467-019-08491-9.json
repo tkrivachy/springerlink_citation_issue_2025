@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.678405",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08491-9",
+    "title": "A number-based inventory of size-resolved black carbon particle emissions by global civil aviation",
+    "article_number": "534",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaole Zhang",
+      "Xi Chen",
+      "Jing Wang"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:34:24.678199"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T17:34:26.186128"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T17:34:27.517668"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T22:45:03.365375"
+    },
+    "last_updated": "2025-10-03T22:45:03.365573"
+  }
+}

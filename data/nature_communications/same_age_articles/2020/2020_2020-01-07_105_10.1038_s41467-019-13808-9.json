@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889376",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13808-9",
+    "title": "The RepID–CRL4 ubiquitin ligase complex regulates metaphase to anaphase transition via BUB3 degradation",
+    "article_number": "24",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sang-Min Jang",
+      "Jenny F. Nathans",
+      "Haiqing Fu",
+      "Christophe E. Redon",
+      "Lisa M. Jenkins",
+      "Bhushan L. Thakur",
+      "Lőrinc S. Pongor",
+      "Adrian M. Baris",
+      "Jacob M. Gross",
+      "Maura J. OʹNeill",
+      "Fred E. Indig",
+      "Steven D. Cappell",
+      "Mirit I. Aladjem"
+    ]
+  },
+  "article_index": 105,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:16:21.841350"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:16:23.408164"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:16:24.597016"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T22:59:15.343443"
+    },
+    "last_updated": "2025-10-03T22:59:15.343636"
+  }
+}

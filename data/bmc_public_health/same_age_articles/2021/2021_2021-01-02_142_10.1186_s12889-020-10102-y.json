@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.647090",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10102-y",
+    "title": "Ethnic disparities in stillbirth risk in Yunnan, China: a prospective cohort study, 2010-2018",
+    "article_number": "136",
+    "publication_date": "2021-01-14",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yanpeng Wu",
+      "Jianhong Pan",
+      "Dong Han",
+      "Lixin Li",
+      "Yanfei Wu",
+      "Rui Liao",
+      "Zijie Liu",
+      "Dingyun You",
+      "Pingyan Chen",
+      "Ying Wu"
+    ]
+  },
+  "article_index": 142,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T13:55:50.507754"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T13:55:52.192091"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T13:55:53.408393"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:23:04.913672"
+    },
+    "last_updated": "2025-10-03T21:23:04.913862"
+  }
+}

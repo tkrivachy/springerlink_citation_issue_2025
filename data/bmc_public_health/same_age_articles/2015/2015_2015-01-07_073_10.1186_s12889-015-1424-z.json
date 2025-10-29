@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.247085",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1424-z",
+    "title": "A routine biomarker-based risk prediction model for metabolic syndrome in urban Han Chinese population",
+    "article_number": "64",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Wenchao Zhang",
+      "Qicai Chen",
+      "Zhongshang Yuan",
+      "Jing Liu",
+      "Zhaohui Du",
+      "Fang Tang",
+      "Hongying Jia",
+      "Fuzhong Xue",
+      "Chengqi Zhang"
+    ]
+  },
+  "article_index": 73,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T13:15:48.157641"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T13:15:49.707281"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T13:15:50.996030"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:08:41.617902"
+    },
+    "last_updated": "2025-10-03T21:08:41.618090"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.702481",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08147-0",
+    "title": "A GWAS in Latin Americans highlights the convergent evolution of lighter skin pigmentation in Eurasia",
+    "article_number": "358",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kaustubh Adhikari",
+      "Javier Mendoza-Revilla",
+      "Anood Sohail",
+      "Macarena Fuentes-Guajardo",
+      "Jodie Lampert",
+      "Juan Camilo Chacón-Duque",
+      "Malena Hurtado",
+      "Valeria Villegas",
+      "Vanessa Granja",
+      "Victor Acuña-Alonzo",
+      "Claudia Jaramillo",
+      "William Arias",
+      "Rodrigo Barquera Lozano",
+      "Paola Everardo",
+      "Jorge Gómez-Valdés",
+      "Hugo Villamil-Ramírez",
+      "Caio C. Silva de Cerqueira",
+      "Tábita Hunemeier",
+      "Virginia Ramallo",
+      "Lavinia Schuler-Faccini",
+      "Francisco M. Salzano",
+      "Rolando Gonzalez-José",
+      "Maria-Cátira Bortolini",
+      "Samuel Canizales-Quinteros",
+      "Carla Gallo",
+      "Giovanni Poletti",
+      "Gabriel Bedoya",
+      "Francisco Rothhammer",
+      "Desmond J. Tobin",
+      "Matteo Fumagalli",
+      "David Balding",
+      "Andrés Ruiz-Linares"
+    ]
+  },
+  "article_index": 234,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T17:09:23.893378"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 138,
+      "retrieved_at": "2025-10-03T17:09:25.428464"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T17:09:26.617189"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 154,
+      "retrieved_at": "2025-10-03T22:36:27.850711"
+    },
+    "last_updated": "2025-10-03T22:36:27.850897"
+  }
+}

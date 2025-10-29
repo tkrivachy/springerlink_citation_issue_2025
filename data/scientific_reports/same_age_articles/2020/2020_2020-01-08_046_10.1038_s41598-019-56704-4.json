@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.304454",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56704-4",
+    "title": "Assessing police topological efficiency in a major sting operation on the dark web",
+    "article_number": "73",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bruno Requião da Cunha",
+      "Pádraig MacCarron",
+      "Jean Fernando Passold",
+      "Luiz Walmocyr dos Santos",
+      "Kleber A. Oliveira",
+      "James P. Gleeson"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T14:32:44.444307"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T14:32:45.985153"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T14:32:47.264764"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T21:36:25.939087"
+    },
+    "last_updated": "2025-10-03T21:36:25.939280"
+  }
+}

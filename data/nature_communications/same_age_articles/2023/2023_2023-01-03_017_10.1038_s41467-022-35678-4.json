@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.633153",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35678-4",
+    "title": "Structure of the Sec14 domain of Kalirin reveals a distinct class of lipid-binding module in RhoGEFs",
+    "article_number": "96",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yunfeng Li",
+      "Yulia Pustovalova",
+      "Tzanko I. Doukov",
+      "Jeffrey C. Hoch",
+      "Richard E. Mains",
+      "Betty A. Eipper",
+      "Bing Hao"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:52:37.856929"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:52:39.423810"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:52:40.683569"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:11:32.026838"
+    },
+    "last_updated": "2025-10-03T23:11:32.027026"
+  }
+}

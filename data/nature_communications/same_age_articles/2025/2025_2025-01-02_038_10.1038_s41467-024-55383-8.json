@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.515385",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55383-8",
+    "title": "The global RNA-binding protein RbpB is a regulator of polysaccharide utilization in ",
+    "article_number": "208",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ann-Sophie Rüttiger",
+      "Daniel Ryan",
+      "Luisella Spiga",
+      "Vanessa Lamm-Schmidt",
+      "Gianluca Prezza",
+      "Sarah Reichardt",
+      "Madison Langford",
+      "Lars Barquist",
+      "Franziska Faber",
+      "Wenhan Zhu",
+      "Alexander J. Westermann"
+    ]
+  },
+  "article_index": 38,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:38:36.772646"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:38:38.325967"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:38:39.530036"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:26:56.152827"
+    },
+    "last_updated": "2025-10-03T23:26:56.153025"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.528411",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-41",
+    "title": "Characteristics and risk factors for symptomatic ",
+    "article_number": "41",
+    "publication_date": "2010-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Werner Espelage",
+      "Matthias an der Heiden",
+      "Klaus Stark",
+      "Katharina Alpers"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T12:40:15.253637"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T12:40:16.788901"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T12:40:18.124707"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T20:55:36.488084"
+    },
+    "last_updated": "2025-10-03T20:55:36.488279"
+  }
+}

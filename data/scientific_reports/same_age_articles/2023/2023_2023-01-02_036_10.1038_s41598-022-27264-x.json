@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.103332",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27264-x",
+    "title": "A comparison of machine learning algorithms and traditional regression-based statistical modeling for predicting hypertension incidence in a Canadian population",
+    "article_number": "13",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mohammad Ziaul Islam Chowdhury",
+      "Alexander A. Leung",
+      "Robin L. Walker",
+      "Khokan C. Sikdar",
+      "Maeve O’Beirne",
+      "Hude Quan",
+      "Tanvir C. Turin"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T15:32:43.733785"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T15:32:45.236737"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:32:46.546889"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T22:00:57.906393"
+    },
+    "last_updated": "2025-10-03T22:00:57.906589"
+  }
+}

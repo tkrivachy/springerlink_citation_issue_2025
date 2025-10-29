@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.860823",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50956-x",
+    "title": "Targeting HDACs for diffuse large B-cell lymphoma therapy",
+    "article_number": "289",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chunyan Wu",
+      "Qiao Song",
+      "Sophie Gao",
+      "Shaoling Wu"
+    ]
+  },
+  "article_index": 266,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:42:37.716285"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:42:39.230783"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:42:40.504670"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T22:04:52.612822"
+    },
+    "last_updated": "2025-10-03T22:04:52.613013"
+  }
+}

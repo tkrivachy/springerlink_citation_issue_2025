@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-6-16</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/1471-2458-6-16</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>All-cause and Cardiovascular mortality among ethnic German immigrants from the Former Soviet Union: a cohort study</dc:title>
+          <dc:creator>Ronellenfitsch, Ulrich</dc:creator>
+          <dc:creator>Kyobutungi, Catherine</dc:creator>
+          <dc:creator>Becher, Heiko</dc:creator>
+          <dc:creator>Razum, Oliver</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn>1471-2458</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Research article</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:doi>10.1186/1471-2458-6-16</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2006-01-26</ns2:publicationDate>
+          <ns2:volume>6</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>12</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1186/1471-2458-6-16</ns2:url>
+          <ns2:copyright>©2006 Ronellenfitsch et al; licensee BioMed Central Ltd.</ns2:copyright>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Background</p>
+        <p>
+          Migration is a phenomenon of particular Public Health importance. Since 1990, almost 2 million ethnic Germans (
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+          ) have migrated from the former Soviet Union (FSU) to Germany. This study compares their overall and cardiovascular disease (CVD) mortality to that of Germany's general population. Because of high overall and CVD mortality in the FSU and low socio-economic status of 
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+           in Germany, we hypothesize that their mortality is higher.
+        </p>
+        <p>Methods</p>
+        <p>
+          We conducted a retrospective cohort study for 1990–2002 with data of 34,393 
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+          . We assessed vital status at population registries and causes of death at the state statistical office. We calculated standardized mortality ratios (SMRs) for the whole cohort and substrata of covariables such as age, sex and family size. To assess multivariate effects, we used Poisson regression.
+        </p>
+        <p>Results</p>
+        <p>
+          1657 cohort members died before December 31, 2002, and 680 deaths (41.03%) were due to CVD. The SMR for the whole cohort was 0.85 (95%-CI 0.81–0.89) for all causes of death and 0.79 (95%-CI 0.73–0.85) for CVD. SMRs were higher than one for younger 
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+           and lower for older ones. There was no clear effect of duration of stay on SMRs. For 1990–93, SMRs were significantly lower than in subsequent years. In families comprising at least five members upon arrival in Germany, SMRs were significantly lower than in smaller families.
+        </p>
+        <p>Conclusion</p>
+        <p>
+          In contrast to our hypothesis on migrants' health, overall and CVD mortality among 
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+           is lower than in Germany's general population. Possible explanations are a substantially better health status of 
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+           in the FSU as compared to the local average, a higher perceived socio-economic status of 
+          <Emphasis Type="Italic">Aussiedler</Emphasis>
+           in Germany, or selection effects. SMR differences between substrata need further exploration, and risk factor data are needed.
+        </p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Cohort Member</facet-value>
+      <facet-value count="1">Former Soviet Union</facet-value>
+      <facet-value count="1">Healthy Migrant Effect</facet-value>
+      <facet-value count="1">Host Country</facet-value>
+      <facet-value count="1">Risk Factor Profile</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2006</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Germany</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

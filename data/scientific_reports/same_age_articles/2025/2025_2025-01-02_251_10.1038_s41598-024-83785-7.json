@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.375861",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83785-7",
+    "title": "Analysis and research on water hammer protection measures based on KY PIPE for long distance pumping station water transmission engineering with pump stoppage",
+    "article_number": "158",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhen Zhou",
+      "Zhenwei Mu",
+      "Honghong Zhang",
+      "Mengqiang Zhang",
+      "Yuanhao Gu",
+      "Xiufu Shi",
+      "Baien Zhao"
+    ]
+  },
+  "article_index": 251,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:20:23.127402"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:20:24.628291"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:48.160986"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:18:58.653266"
+    },
+    "last_updated": "2025-10-07T09:49:48.161060"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.725432",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07959-4",
+    "title": "A chemical biology screen identifies a vulnerability of neuroendocrine cancer cells to SQLE inhibition",
+    "article_number": "96",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christopher E. Mahoney",
+      "David Pirman",
+      "Victor Chubukov",
+      "Taryn Sleger",
+      "Sebastian Hayes",
+      "Zi Peng Fan",
+      "Eric L. Allen",
+      "Ying Chen",
+      "Lingling Huang",
+      "Meina Liu",
+      "Yingjia Zhang",
+      "Gabrielle McDonald",
+      "Rohini Narayanaswamy",
+      "Sung Choe",
+      "Yue Chen",
+      "Stefan Gross",
+      "Giovanni Cianchetta",
+      "Anil K. Padyana",
+      "Stuart Murray",
+      "Wei Liu",
+      "Kevin M. Marks",
+      "Joshua Murtie",
+      "Marion Dorsch",
+      "Shengfang Jin",
+      "Nelamangala Nagaraja",
+      "Scott A. Biller",
+      "Thomas Roddy",
+      "Janeta Popovici-Muller",
+      "Gromoslaw A. Smolen"
+    ]
+  },
+  "article_index": 443,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:40:43.035249"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T17:40:44.629745"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T17:40:45.791646"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T22:47:03.527584"
+    },
+    "last_updated": "2025-10-03T22:47:03.527792"
+  }
+}

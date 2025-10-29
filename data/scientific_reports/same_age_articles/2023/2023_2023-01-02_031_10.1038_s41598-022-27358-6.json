@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.102848",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27358-6",
+    "title": "Combining convolutional neural networks and self-attention for fundus diseases identification",
+    "article_number": "76",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Keya Wang",
+      "Chuanyun Xu",
+      "Gang Li",
+      "Yang Zhang",
+      "Yu Zheng",
+      "Chengjie Sun"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T15:27:27.327933"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T15:27:28.886001"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:27:30.178884"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T21:58:48.264583"
+    },
+    "last_updated": "2025-10-03T21:58:48.264633"
+  }
+}

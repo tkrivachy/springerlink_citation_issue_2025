@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.199889",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20355-1",
+    "title": "Host CDK-1 and formin mediate microvillar effacement induced by enterohemorrhagic ",
+    "article_number": "90",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cheng-Rung Huang",
+      "Cheng-Ju Kuo",
+      "Chih-Wen Huang",
+      "Yu-Ting Chen",
+      "Bang-Yu Liu",
+      "Chung-Ta Lee",
+      "Po-Lin Chen",
+      "Wen-Tsan Chang",
+      "Yun-Wen Chen",
+      "Tzer-Min Lee",
+      "Hui-Chen Hsieh",
+      "Chang-Shi Chen"
+    ]
+  },
+  "article_index": 162,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:35:05.490390"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:35:07.052903"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:35:08.206336"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T23:05:40.493625"
+    },
+    "last_updated": "2025-10-03T23:05:40.493814"
+  }
+}

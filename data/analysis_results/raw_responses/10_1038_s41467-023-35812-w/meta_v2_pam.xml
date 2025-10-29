@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-023-35812-w</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41467-023-35812-w</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Creating bulk ultrastable glasses by random particle bonding</dc:title>
+            
+	    
+            <dc:creator>Ozawa, Misaki</dc:creator>
+            
+	    
+            <dc:creator>Iwashita, Yasutaka</dc:creator>
+            
+	    
+            <dc:creator>Kob, Walter</dc:creator>
+            
+	    
+            <dc:creator>Zamponi, Francesco</dc:creator>
+            
+	    
+            <ns3:publicationName>Nature Communications</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2041-1723</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41467-023-35812-w</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2023-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2023-01-07</ns3:publicationDate>
+            
+	    
+            <ns3:volume>14</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>7</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41467-023-35812-w</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-023-35812-w</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-023-35812-w.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2023 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>A recent breakthrough in glass science has been the synthesis of ultrastable glasses via physical vapor deposition techniques. These samples display enhanced thermodynamic, kinetic and mechanical stability, with important implications for fundamental science and technological applications. However, the vapor deposition technique is limited to atomic, polymer and organic glass-formers and is only able to produce thin film samples. Here, we propose a novel approach to generate ultrastable glassy configurations in the bulk, via random particle bonding, and using computer simulations we show that this method does indeed allow for the production of ultrastable glasses. Our technique is in principle applicable to any molecular or soft matter system, such as colloidal particles with tunable bonding interactions, thus opening the way to the design of a large class of ultrastable glasses.</html:p>
+            <html:p>Viable methods for the production of ultrastable glasses are much sought after. A potential approach for creating bulk ultrastable glasses, based on random particle bonding scenarios, is now numerically investigated. The method is expected to be applicable to molecular and colloidal glasses.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41467</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2023-01-07</onlineDate>
+        <authors>
+          <author>Ozawa, Misaki</author>
+          <author>Iwashita, Yasutaka</author>
+          <author ORCID="0000-0001-7405-2178">Kob, Walter</author>
+          <author ORCID="0000-0001-9260-1951">Zamponi, Francesco</author>
+        </authors>
+        <disciplines>
+          <discipline id="2883" term="Humanities and Social Sciences"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2023</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">France</facet-value>
+      <facet-value count="1">Japan</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

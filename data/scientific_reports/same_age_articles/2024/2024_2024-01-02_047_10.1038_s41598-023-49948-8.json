@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.831431",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49948-8",
+    "title": "Suspect screening analysis to improve untargeted and targeted UHPLC-qToF approaches: the biodegradability of a proton pump inhibitor medicine and a natural medical device",
+    "article_number": "51",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Luisa Mattoli",
+      "Giacomo Proietti",
+      "Giada Fodaroni",
+      "Claudio Marzio Quintiero",
+      "Michela Burico",
+      "Mattia Gianni",
+      "Emiliano Giovagnoni",
+      "Valentino Mercati",
+      "Claudio Santi"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:58:27.451811"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:58:29.013671"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:58:30.167931"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:10:56.765011"
+    },
+    "last_updated": "2025-10-03T22:10:56.765062"
+  }
+}

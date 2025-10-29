@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.196524",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20114-2",
+    "title": "Non-resonant power-efficient directional Nd:YAG ceramic laser using a scattering cavity",
+    "article_number": "8",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "KyeoReh Lee",
+      "Ho Jin Ma",
+      "Fabian Rotermund",
+      "Do Kyung Kim",
+      "YongKeun Park"
+    ]
+  },
+  "article_index": 139,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:26:13.993148"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:26:15.551464"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T18:26:16.860685"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T23:02:41.334927"
+    },
+    "last_updated": "2025-10-03T23:02:41.335114"
+  }
+}

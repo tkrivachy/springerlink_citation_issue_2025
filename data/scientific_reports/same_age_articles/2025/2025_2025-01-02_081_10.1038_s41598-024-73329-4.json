@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.349980",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-73329-4",
+    "title": "Development and application of microcapsules based on rice husk and metallurgical sludge to improve soil fertility",
+    "article_number": "78",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Alibek Mutushev",
+      "Asiya Nuraly",
+      "Ayla Kaya",
+      "Dauren Mukhanov"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:40:03.024619"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:40:04.570204"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:40:05.784263"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:25:52.545271"
+    },
+    "last_updated": "2025-10-03T22:25:52.545509"
+  }
+}

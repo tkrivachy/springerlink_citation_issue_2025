@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.669160",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44175-1",
+    "title": "Integrated multi-omics analyses identify anti-viral host factors and pathways controlling SARS-CoV-2 infection",
+    "article_number": "109",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiakai Hou",
+      "Yanjun Wei",
+      "Jing Zou",
+      "Roshni Jaffery",
+      "Long Sun",
+      "Shaoheng Liang",
+      "Ningbo Zheng",
+      "Ashley M. Guerrero",
+      "Nicholas A. Egan",
+      "Ritu Bohat",
+      "Si Chen",
+      "Caishang Zheng",
+      "Xiaobo Mao",
+      "S. Stephen Yi",
+      "Ken Chen",
+      "Daniel J. McGrail",
+      "Nidhi Sahni",
+      "Pei-Yong Shi",
+      "Yiwen Chen",
+      "Xuping Xie",
+      "Weiyi Peng"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:11:26.033629"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:11:27.548292"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:11:28.692146"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:17:57.678944"
+    },
+    "last_updated": "2025-10-03T23:17:57.678991"
+  }
+}

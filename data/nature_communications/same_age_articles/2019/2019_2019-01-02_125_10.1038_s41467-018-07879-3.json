@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.690738",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07879-3",
+    "title": "A natural in situ fabrication method of functional bacterial cellulose using a microorganism",
+    "article_number": "437",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Minghong Gao",
+      "Juan Li",
+      "Zixian Bao",
+      "Moudong Hu",
+      "Rui Nian",
+      "Dexin Feng",
+      "Dong An",
+      "Xing Li",
+      "Mo Xian",
+      "Haibo Zhang"
+    ]
+  },
+  "article_index": 125,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 191,
+      "retrieved_at": "2025-10-03T17:24:15.958460"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 171,
+      "retrieved_at": "2025-10-03T17:24:17.503240"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 157,
+      "retrieved_at": "2025-10-03T17:24:18.700864"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 223,
+      "retrieved_at": "2025-10-03T22:41:30.356430"
+    },
+    "last_updated": "2025-10-03T22:41:30.356508"
+  }
+}

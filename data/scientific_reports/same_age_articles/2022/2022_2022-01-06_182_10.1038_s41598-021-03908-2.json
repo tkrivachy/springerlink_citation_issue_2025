@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.876691",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03908-2",
+    "title": "Tunable circular dichroism through absorption in coupled optical modes of twisted triskelia nanostructures",
+    "article_number": "26",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Javier Rodríguez-Álvarez",
+      "Antonio García-Martín",
+      "Arantxa Fraile Rodríguez",
+      "Xavier Batlle",
+      "Amílcar Labarta"
+    ]
+  },
+  "article_index": 182,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:06:28.259558"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:06:29.813784"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:06:31.068958"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:49:55.406148"
+    },
+    "last_updated": "2025-10-03T21:49:55.406370"
+  }
+}

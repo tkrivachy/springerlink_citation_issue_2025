@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.873776",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04049-2",
+    "title": "Non-invasive metabolomics biomarkers of production efficiency and beef carcass quality traits",
+    "article_number": "231",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Virginia M. Artegoitia",
+      "J. W. Newman",
+      "A. P. Foote",
+      "S. D. Shackelford",
+      "D. A. King",
+      "T. L. Wheeler",
+      "R. M. Lewis",
+      "H. C. Freetly"
+    ]
+  },
+  "article_index": 155,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:59:27.514151"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:59:29.026834"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:59:30.207465"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:47:09.298116"
+    },
+    "last_updated": "2025-10-03T21:47:09.298317"
+  }
+}

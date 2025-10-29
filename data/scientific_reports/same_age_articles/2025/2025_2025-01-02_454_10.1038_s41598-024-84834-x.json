@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.398679",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84834-x",
+    "title": "Comprehensive analysis of heat shock protein 110, 90, 70, 60 families and tumor immune microenvironment characterization in clear cell renal cell carcinoma",
+    "article_number": "469",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Wenjing Liao",
+      "Mao Huang",
+      "Xiaoyi Du",
+      "Liangdan Tang",
+      "Junwu Li",
+      "Qin Tang"
+    ]
+  },
+  "article_index": 454,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:05:15.664837"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:05:17.232520"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:35.884429"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:13:32.868107"
+    },
+    "last_updated": "2025-10-07T09:46:35.884653"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.709535",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08212-8",
+    "title": "Image-based modeling of kidney branching morphogenesis reveals GDNF-RET based Turing-type mechanism and pattern-modulating WNT11 feedback",
+    "article_number": "239",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Denis Menshykau",
+      "Odyssé Michos",
+      "Christine Lang",
+      "Lisa Conrad",
+      "Andrew P. McMahon",
+      "Dagmar Iber"
+    ]
+  },
+  "article_index": 295,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T17:22:48.700472"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T17:22:50.216269"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:22:51.392804"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T22:40:59.963286"
+    },
+    "last_updated": "2025-10-03T22:40:59.963424"
+  }
+}

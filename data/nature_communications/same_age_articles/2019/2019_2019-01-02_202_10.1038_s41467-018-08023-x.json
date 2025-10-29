@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.699021",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08023-x",
+    "title": "Bulk tissue cell type deconvolution with multi-subject single-cell expression reference",
+    "article_number": "380",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xuran Wang",
+      "Jihwan Park",
+      "Katalin Susztak",
+      "Nancy R. Zhang",
+      "Mingyao Li"
+    ]
+  },
+  "article_index": 202,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 674,
+      "retrieved_at": "2025-10-03T18:06:51.474778"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 697,
+      "retrieved_at": "2025-10-03T18:06:52.997048"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 639,
+      "retrieved_at": "2025-10-03T18:06:55.056822"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 822,
+      "retrieved_at": "2025-10-03T22:56:13.909564"
+    },
+    "last_updated": "2025-10-03T22:56:13.909626"
+  }
+}

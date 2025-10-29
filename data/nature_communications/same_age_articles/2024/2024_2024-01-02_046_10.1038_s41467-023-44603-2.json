@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.670876",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44603-2",
+    "title": "Understanding the light induced hydrophilicity of metal-oxide thin films",
+    "article_number": "124",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rucha Anil Deshpande",
+      "Jesper Navne",
+      "Mathias Vadmand Adelmark",
+      "Evgeniy Shkondin",
+      "Andrea Crovetto",
+      "Ole Hansen",
+      "Julien Bachmann",
+      "Rafael Taboryski"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:14:30.392886"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:14:31.942005"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:14:33.147230"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:19:04.223446"
+    },
+    "last_updated": "2025-10-03T23:19:04.223653"
+  }
+}

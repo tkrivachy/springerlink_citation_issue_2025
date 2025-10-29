@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.641893",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10195-z",
+    "title": "Effects of programmatic interventions to improve the management of latent tuberculosis: a follow up study up to five months after implementation",
+    "article_number": "177",
+    "publication_date": "2021-01-21",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mercedes Yanes-Lane",
+      "Anete Trajman",
+      "Mayara Lisboa Bastos",
+      "Olivia Oxlade",
+      "Chantal Valiquette",
+      "Nathalia Rufino",
+      "Federica Fregonese",
+      "Dick Menzies"
+    ]
+  },
+  "article_index": 97,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T13:46:07.233227"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T13:46:08.776550"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T13:46:10.041151"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:19:37.360261"
+    },
+    "last_updated": "2025-10-03T21:19:37.360334"
+  }
+}

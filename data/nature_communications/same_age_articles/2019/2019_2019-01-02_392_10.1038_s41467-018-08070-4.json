@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.719978",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08070-4",
+    "title": "Half a degree and rapid socioeconomic development matter for heatwave risk",
+    "article_number": "136",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Simone Russo",
+      "Jana Sillmann",
+      "Sebastian Sippel",
+      "Monika J. Barcikowska",
+      "Claudia Ghisetti",
+      "Marek Smid",
+      "Brian O’Neill"
+    ]
+  },
+  "article_index": 392,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T17:15:48.102731"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T17:15:49.678643"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:15:50.855991"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T22:38:43.735282"
+    },
+    "last_updated": "2025-10-03T22:38:43.735429"
+  }
+}

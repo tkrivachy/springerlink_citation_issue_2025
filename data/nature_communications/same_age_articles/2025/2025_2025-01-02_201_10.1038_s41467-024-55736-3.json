@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.539534",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55736-3",
+    "title": "PhpC",
+    "article_number": "268",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Manjit Kumar Srivastav",
+      "H. Diego Folco",
+      "Patroula Nathanailidou",
+      "Anupa T Anil",
+      "Drisya Vijayakumari",
+      "Shweta Jain",
+      "Jothy Dhakshnamoorthy",
+      "Maura O’Neill",
+      "Thorkell Andresson",
+      "David Wheeler",
+      "Shiv I. S. Grewal"
+    ]
+  },
+  "article_index": 201,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:49.364593"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:50.919241"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:52.092008"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:24:38.106476"
+    },
+    "last_updated": "2025-10-03T23:24:38.106566"
+  }
+}

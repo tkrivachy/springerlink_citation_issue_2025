@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643371",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35506-9",
+    "title": "Microcomb-based integrated photonic processing unit",
+    "article_number": "66",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bowen Bai",
+      "Qipeng Yang",
+      "Haowen Shu",
+      "Lin Chang",
+      "Fenghe Yang",
+      "Bitao Shen",
+      "Zihan Tao",
+      "Jing Wang",
+      "Shaofu Xu",
+      "Weiqiang Xie",
+      "Weiwen Zou",
+      "Weiwei Hu",
+      "John E. Bowers",
+      "Xingjun Wang"
+    ]
+  },
+  "article_index": 57,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 179,
+      "retrieved_at": "2025-10-03T18:52:03.376310"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 209,
+      "retrieved_at": "2025-10-03T18:52:04.889264"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T18:52:06.623161"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 214,
+      "retrieved_at": "2025-10-03T23:11:21.142720"
+    },
+    "last_updated": "2025-10-03T23:11:21.142907"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687855",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08354-3",
+    "title": "Cycles of protein condensation and discharge in nuclear organelles studied by fluorescence lifetime imaging",
+    "article_number": "455",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Artem Pliss",
+      "Svitlana M. Levchenko",
+      "Lixin Liu",
+      "Xiao Peng",
+      "Tymish Y. Ohulchanskyy",
+      "Indrajit Roy",
+      "Andrey N. Kuzmin",
+      "Junle Qu",
+      "Paras N. Prasad"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:30:39.622162"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T17:30:41.163902"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T17:30:42.406526"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T22:43:48.093310"
+    },
+    "last_updated": "2025-10-03T22:43:48.093531"
+  }
+}

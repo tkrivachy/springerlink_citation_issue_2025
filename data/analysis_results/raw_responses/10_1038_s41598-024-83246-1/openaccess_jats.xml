@@ -1,0 +1,2884 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-83246-1</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-024-83246-1</article-id>
+          <article-id pub-id-type="manuscript">83246</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-024-83246-1</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/700/228</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/700/784</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/4028/67/1665</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/4028/67/1536</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/4028/67/1536/1665</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/308/409</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Functional assessment of cancer therapy – head &amp; neck (FACT-HN) translation and validation in Serbian</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1709-8449</contrib-id>
+              <name name-style="western">
+                <surname>Petrovic</surname>
+                <given-names>Masa</given-names>
+              </name>
+              <address>
+                <email>5rovicmasa@gmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="corresp" rid="IDs41598024832461_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Salovic</surname>
+                <given-names>Bojana</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Tomic</surname>
+                <given-names>Ana</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff9">9</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Jesic-Petrovic</surname>
+                <given-names>Tanja</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Matejic</surname>
+                <given-names>Aleksandar</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Radovic</surname>
+                <given-names>Ivana</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff8">8</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Babic</surname>
+                <given-names>Silvana</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Korugic</surname>
+                <given-names>Aleksa</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Jelovac</surname>
+                <given-names>Drago</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Mikovic</surname>
+                <given-names>Nikola</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>Jakovljevic</surname>
+                <given-names>Sasa</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <name name-style="western">
+                <surname>Pelemis</surname>
+                <given-names>Svetislav</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <name name-style="western">
+                <surname>Dimitrijevic</surname>
+                <given-names>Milovan</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <name name-style="western">
+                <surname>Milovanovic</surname>
+                <given-names>Jovica</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <name name-style="western">
+                <surname>Jotic</surname>
+                <given-names>Ana</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au16">
+              <name name-style="western">
+                <surname>Trivic</surname>
+                <given-names>Aleksandar</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au17">
+              <name name-style="western">
+                <surname>Dimitrijevic</surname>
+                <given-names>Ana</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au18">
+              <name name-style="western">
+                <surname>Bulatovic</surname>
+                <given-names>Sulin</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au19">
+              <name name-style="western">
+                <surname>Dudvarski</surname>
+                <given-names>Zoran</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au20">
+              <name name-style="western">
+                <surname>Soldatovic</surname>
+                <given-names>Ivan</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff6">6</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au21">
+              <name name-style="western">
+                <surname>Ilic-Zivojinovic</surname>
+                <given-names>Jelena</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff7">7</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/01k57xn28</institution-id>
+                <institution-id institution-id-type="GRID">grid.417805.f</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 0605 4368</institution-id>
+                <institution content-type="org-name">Institute for Cardiovascular Diseases “Dedinje”</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02qsmb048</institution-id>
+                <institution-id institution-id-type="GRID">grid.7149.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2166 9385</institution-id>
+                <institution content-type="org-division">Faculty of Medicine</institution>
+                <institution content-type="org-name">University of Belgrade</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution content-type="org-name">Public Health Care Center Doboj</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Doboj</addr-line>
+              <addr-line content-type="state">Republika Srpska</addr-line>
+              <country country="BA">Bosnia and Herzegovina</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02122at02</institution-id>
+                <institution-id institution-id-type="GRID">grid.418577.8</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 8743 1110</institution-id>
+                <institution content-type="org-division">Clinic for Otorhinolaryngology and Maxillofacial Surgery</institution>
+                <institution content-type="org-name">University Clinical Center of Serbia</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02qsmb048</institution-id>
+                <institution-id institution-id-type="GRID">grid.7149.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2166 9385</institution-id>
+                <institution content-type="org-division">Clinic of Maxillofacial Surgery, School of Dental Medicine</institution>
+                <institution content-type="org-name">University of Belgrade</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff6">
+              <label>6</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02qsmb048</institution-id>
+                <institution-id institution-id-type="GRID">grid.7149.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2166 9385</institution-id>
+                <institution content-type="org-division">Faculty of Medicine, Institute for Medical Statistics and Informatics</institution>
+                <institution content-type="org-name">University of Belgrde</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff7">
+              <label>7</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02qsmb048</institution-id>
+                <institution-id institution-id-type="GRID">grid.7149.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2166 9385</institution-id>
+                <institution content-type="org-division">Faculty of Medicine, Institute of Hygiene and Medical Ecology</institution>
+                <institution content-type="org-name">University of Belgrade</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff8">
+              <label>8</label>
+              <institution-wrap>
+                <institution content-type="org-name">Institute for Blood Transfusion of Serbia</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+            <aff id="Aff9">
+              <label>9</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02122at02</institution-id>
+                <institution-id institution-id-type="GRID">grid.418577.8</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 8743 1110</institution-id>
+                <institution content-type="org-division">Center for Radiology and Magnetic Resonance Imaging</institution>
+                <institution content-type="org-name">University Clinical Center of Serbia</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Belgrade</addr-line>
+              <country country="RS">Serbia</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41598024832461_cor1">
+              <label>a</label>
+              <email>5rovicmasa@gmail.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue seq="304">1</issue>
+          <elocation-id>298</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>12</day>
+              <month>12</month>
+              <year>2024</year>
+            </date>
+            <date date-type="received">
+              <day>29</day>
+              <month>10</month>
+              <year>2024</year>
+            </date>
+            <date date-type="accepted">
+              <day>12</day>
+              <month>12</month>
+              <year>2024</year>
+            </date>
+            <date date-type="online">
+              <day>2</day>
+              <month>1</month>
+              <year>2025</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+            <copyright-year>2024</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">This study aimed to translate and validate the Functional Assessment of Cancer Therapy – Head &amp; Neck (FACT-HN) in a Serbian-speaking population, assessing its psychometric properties and utility in evaluating the quality of life in head and neck cancer patients. The research focuses on determining the translated questionnaire’s reliability, validity, and cultural relevance. A total of 106 Serbian-speaking head and neck cancer patients completed the translated FACT-HN, along with other validated instruments, including the EORTC QLQ-C30, EORTC QLQ-HN43, CES-D, and GAD-7. The translation followed a standard internationally accepted procedure. Psychometric analyses were conducted using confirmatory and exploratory factor analysis, Pearson correlations, and reliability measures such as Cronbach’s alpha and intraclass correlation coefficients. The Serbian version of the FACT-HN showed excellent internal consistency across all subscales, with Cronbach’s alpha ranging from 0.70 to 0.89. Confirmatory factor analysis confirmed the five-factor structure. Strong correlations were observed between the FACT-HN and other validated QoL measures, particularly with the EORTC QLQ-C30 and EORTC QLQ-HN43. Convergent validity was satisfactory for all components except the Social Well-Being component. The Serbian version of the FACT-HN is a valid and reliable tool for assessing the quality of life in head and neck cancer patients. It provides a comprehensive assessment of physical, social, emotional, and functional well-being, making it valuable for clinical and research applications in Serbian-speaking populations. Further research is needed to assess its sensitivity to longitudinal treatment-related changes.</p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Translation</kwd>
+            <kwd>Validation</kwd>
+            <kwd>FACTHN</kwd>
+            <kwd>Head and Neck Cancer</kwd>
+            <kwd>Quality of Life</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>602</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2025</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>Springer Nature Limited</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2025</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2024_Article_83246.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>output-medium</meta-name>
+              <meta-value>All</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="ESMHint">
+          <title>Supplementary Information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41598-024-83246-1" ext-link-type="doi">https://doi.org/10.1038/s41598-024-83246-1</ext-link>
+            .
+          </p>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1" sec-type="introduction">
+          <title>Introduction</title>
+          <p id="Par2">
+            Head and neck cancer (HNC) encompasses a group of malignancies that arise in the oral cavity, pharynx, larynx, paranasal sinuses, and salivary glands. Globally, HNC represents a significant public health concern, with an estimated 930,000 new cases and approximately 460,000 deaths annually
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . The incidence and mortality rates of HNC vary widely across different regions, largely due to variations in risk factors such as tobacco and alcohol use, as well as human papillomavirus (HPV) and Epstein-Barr virus (EBV) infections
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . The complex anatomy and essential functions associated with the head and neck region mean that HNC and its treatment often lead to profound impacts on patients’ quality of life (QoL). These include difficulties in speech, swallowing, and breathing, along with disfigurement and psychosocial distress. Additionally, the economic burden of HNC is substantial, encompassing direct medical costs, loss of productivity, and long-term care requirements
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par3">
+            In oncology, patient-reported outcomes (PROs) have become integral in assessing the impact of disease and treatment from the patient’s perspective. PROs provide a holistic view of a patient’s health status and treatment efficacy, which can guide clinical decision-making and improve patient-centered care
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . Furthermore, PROs can aid in assessing the symptom burden of cancer and its treatments, which can be quite severe and multifaceted. Notably, patients undergoing chemotherapy or radiotherapy for HNC may experience a range of side effects such as fatigue, pain, xerostomia, dysphagia, and emotional distress
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+            . By capturing these experiences through PROs, healthcare providers can gain a more holistic understanding of the patient’s condition. Furthermore, incorporating PROs into clinical trials provides a more complete picture of how treatments affect patients’ QoL, which is critical for regulatory decisions and informing patients and clinicians about the potential benefits and risks of new therapies
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            . The U.S. Food and Drug Administration (FDA) and other regulatory bodies often require the inclusion of PROs in trials to assess the patient experience comprehensively
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par4">
+            The Functional Assessment of Cancer Therapy - Head &amp; Neck (FACT-HN) questionnaire is one of the most widely used tools for assessing QoL in HNC patients. It provides a robust measure of physical, emotional, social, and functional well-being, as well as specifically tailored questions addressing the challenges faced by this patient population. As a specific PRO, the FACT-HN addresses the unique symptoms and concerns associated with HNC, such as difficulties with eating, speaking, and facial appearance
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . The validity and reliability of such instruments are critical for ensuring accurate assessment and meaningful clinical insights. Additionally, accurate translation and cultural adaptation of PRO instruments are vital to maintaining their validity across different populations. This process ensures the instrument is linguistically and culturally appropriate for the target population. According to Beaton et al., the process involves several steps, including forward translation, backward translation, and pre-testing, to ensure conceptual equivalence rather than mere linguistic translation
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . These steps are crucial to preserve the instrument’s psychometric properties, such as reliability and validity.
+          </p>
+          <p id="Par5">
+            Validity refers to the degree to which an instrument measures what it purports to measure. There are several types of validity to consider, including content validity, construct validity, and criterion-related validity
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par6">
+            Previously, the FACT-HN has undergone extensive validation in its original English version, demonstrating strong psychometric properties
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . Additionally, the FACT-HN has been translated, validated, and, in some instances, culturally adapted into Malayalam, Sudanese Arabic, Chinese, Traditional Chinese, Urdu, Malaysian, Spanish, and French
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              , 
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              , 
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              , 
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              , 
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              , 
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              , 
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              –
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par7">This study aims to translate and validate the FACT-HN in a Serbian-speaking population.</p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <p id="Par8">The study was conducted at the University Clinical Center of Serbia, Clinic for Otorhinolaryngology and Maxillofacial Surgery, and the University of Dental Medicine, Department of Maxillofacial Surgery from January 2023 to June 2024. The study was approved by the Ethics Committee of the University of Belgrade Faculty of Medicine (No.17/I-36).</p>
+          <p id="Par9">The study included 106 consecutive patients at least 18 years of age diagnosed with HNC localized within the larynx, pharynx, or oral cavity. Inclusion criteria were histopathologically confirmed HNC, the patient’s ability to read and write the Serbian language, and completed informed consent to participate in the study. Of the 107 screened patients, one was excluded due to an intellectual disability, which prevented them from completing the questionnaire.</p>
+          <p id="Par10">All enrolled patients were given a packet of questionnaires to complete. The packet consisted of the translated FACT-HN questionnaire and previously validated and translated versions of the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life core questionnaire (EORTC QLQ-C-30), EORTC Head and Neck Module (EORTC QLQ-HN43) questionnaire, Center for Epidemiologic Studies Depression Scale (CES-D) questionnaire, and the Generalized Anxiety Disorder-7 (GAD-7) questionnaire.</p>
+          <sec id="Sec3">
+            <title>Questionnaires</title>
+            <sec id="Sec4">
+              <title>Functional assessment of cancer therapy – head &amp; neck (FACT-HN)</title>
+              <p id="Par11">
+                The Functional Assessment of Cancer Therapy – Head &amp; Neck (FACT-HN) is a validated instrument employed to evaluate the QoL in patients with HNC
+                <sup>
+                  <xref ref-type="bibr" rid="CR7">7</xref>
+                </sup>
+                . For this study, the FACT-HN questionnaire was meticulously translated into Serbian. It comprises 39 items divided into five subscales: Physical Well-Being (PWB), Social/Family Well-Being (SWB), Emotional Well-Being (EWB), Functional Well-Being (FWB), and Additional Concerns (HNCS). Each item is rated on a 5-point Likert scale: “not at all,” “a little,” “somewhat,” “quite a bit,” and “very much,” with scores ranging from 0 to 4, respectively.
+              </p>
+              <p id="Par12">To maintain consistency where higher scores reflect better QoL, certain negatively phrased items are reverse-scored. This involves inverting the scores (e.g., 0 becomes 4, 1 becomes 3, etc.). The items subject to reverse scoring, derived by subtracting the item response from 4, are as follows: PWB (items GP1-GP7), EWB (items GE1,GE3-GE6), and HNCS (items HN2, HN3, HN6, and HN12).</p>
+              <p id="Par13">
+                The scoring methodology involves calculating the sum of item scores within each subscale, and applying reverse scoring as necessary. Subscale scores are then aggregated to produce a total score, with higher totals indicating superior QoL. The total FACT-HN score ranges from 0 to 148, where up to 40 points are derived from the HNCS subscale, 28 points from PWB, SWB, and FWB subscales, and 24 from the EWB subscale. FACT-G score ranges from 0 to 108 and is derived from the sum of PWB, SWB, EWB, and FWB subscale scores. Similarly the FACT-HN Trial Outcome Index (TOI) is derived from the sum of the PWB, FWB, and HNCS subscale scores. In instances of missing data, subscale scores can be prorated, provided that at least 50% of the items in the subscale have been completed. Prorating is achieved by calculating the mean of the completed items and multiplying it by the total number of items in the subscale
+                <sup>
+                  <xref ref-type="bibr" rid="CR19">19</xref>
+                </sup>
+                . This rigorous scoring process ensures a comprehensive assessment of QoL in HNC patients, facilitating a detailed evaluation of treatment impacts and patient well-being.
+              </p>
+            </sec>
+          </sec>
+        </sec>
+        <sec id="Sec5">
+          <title>European organization for research and treatment of cancer quality of life questionnaire (EORTC QLQ)</title>
+          <p id="Par14">
+            The EORTC QLQ is a globally recognized instrument for assessing QoL in cancer patients. It includes a core questionnaire (EORTC QLQ-C30) of 30 items spanning global health status, functional scales (physical, role, cognitive, emotional, and social functioning), and symptom scales/items (fatigue, nausea and vomiting, pain, dyspnea, insomnia, appetite loss, constipation, diarrhea, and financial difficulties)
+            <sup>
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            . This study utilized the Serbian version of the EORTC QLQ-C30, previously validated
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            . Items are scored on a 4-point Likert scale from 1 (“not at all”) to 4 (“very much”), with the global health status/QoL scale scored from 1 (“very poor”) to 7 (“excellent”). Scores are transformed to a 0-100 scale, where higher scores on functional scales denote better functioning and higher scores on symptom scales indicate more severe symptoms.
+          </p>
+          <p id="Par15">
+            The EORTC QLQ-HN43 is a supplementary module specifically for HNC patients
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+            </sup>
+            . It encompasses 43 items addressing symptoms and issues pertinent to HNC, such as pain, swallowing, senses (taste/smell), speech, social eating, social contact, sexuality, teeth, mouth opening, dry mouth, sticky saliva, coughing, and feeling ill. The Serbian version of the EORTC QLQ-HN43 used in this study has been previously validated
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            . Items are scored on a 4-point Likert scale and transformed to a 0-100 scale
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              ,
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            .
+          </p>
+        </sec>
+        <sec id="Sec6">
+          <title>Center for epidemiologic studies depression scale (CES-D)</title>
+          <p id="Par16">
+            The CES-D is a well-established screening tool for depressive symptoms in the general population. It comprises 20 items evaluating depressive feelings and behaviors over the past week. Responses are scored on a four-point scale ranging from 0 (“rarely or none of the time”) to 3 (“most or all of the time”). The total score, ranging from 0 to 60, is calculated by summing individual item scores, with higher scores indicating more severe depressive symptoms. A score of 16 or above suggests clinically significant depression
+            <sup>
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . The CES-D has been translated and validated in Serbian, ensuring its reliability for assessing depressive symptoms in our patient cohort
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            .
+          </p>
+        </sec>
+        <sec id="Sec7">
+          <title>Generalized anxiety disorder-7 (GAD-7)</title>
+          <p id="Par17">
+            The GAD-7 is a concise, self-reported questionnaire used to screen for generalized anxiety disorder and evaluate its severity. It consists of seven items, each depicting a symptom of anxiety. Patients rate the frequency of being bothered by each symptom over the past two weeks on a scale from 0 (“not at all”) to 3 (“nearly every day”). The total score ranges from 0 to 21, with higher scores indicating greater anxiety severity. Scores of 5, 10, and 15 are considered cut-off points for mild, moderate, and severe anxiety, respectively
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+            . The GAD-7 has been translated into Serbian and validated for clinical and research use
+            <sup>
+              <xref ref-type="bibr" rid="CR27">27</xref>
+            </sup>
+            .
+          </p>
+          <sec id="Sec8">
+            <title>Translation procedure</title>
+            <p id="Par18">The FACT-HN questionnaire was translated into Serbian following the standard FACIT group translation methodology and internationally accepted methods for cross-cultural adaptation and questionnaire validation. Initially, two independent translators translated the content of the questionnaires from English to Serbian. Then, a third translator compared the original English questionnaire with the two versions in Serbian. Following this, a fourth independent translator translated the Serbian versions back into English. The project team responsible for the translation assessed this reverse translation. Moreover, a panel of clinical experts provided feedback on the appropriateness of the initial and reverse translations.</p>
+          </sec>
+        </sec>
+        <sec id="Sec9">
+          <title>Statistical methodology</title>
+          <p id="Par19">
+            Results are presented as count (%), mean ± standard deviation, or median (25th-75th percentile) depending on data type and distribution. The data distribution was assessed using Kolmogorov-Smirnov test and visual methods (histograms and Q-Q plots). Non-parametric methods were applied for non-normally distributed data. Pearson correlation was used to assess the correlation between variables. Internal consistency and test-retest reliability were evaluated to assess the reliability of the questionnaire. Cronbach’s alpha coefficient and intraclass correlation coefficient (ICC) were used to evaluate the internal reliability and test-retest reliability, respectively. Cronbach’s alpha values ≥ 0.70 were considered significant. An ICC &gt; 0.9 was considered excellent, &gt; 0.8 acceptable, &gt; 0.6 weak, and ≤ 0.6 non-existent
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            . Confirmatory and exploratory factor analysis was utilized to assess construct validity utilizing principle component analysis with varimax rotation. Confirmatory factor analysis was conducted to validate the 5-factor structure of a FACT-HN questionnaire. All p-values less than 0.05 were considered significant. All data was analyzed using SPSS 29.0 (IBM Corp. Released 2022. IBM SPSS Statistics for Windows, Version 29.0. Armonk, NY: IBM Corp.).
+          </p>
+        </sec>
+        <sec id="Sec10" sec-type="results">
+          <title>Results</title>
+          <p id="Par20">
+            In total, 106 patients completed this study. Most patients were married, and the majority of the participants were male. The average age of the study population was 62.07 ± 9.08 (32–81). By localization, the age distribution was: oral (58.22 ± 12.27 (32–77)), larynx (62.97 ± 7.97 (42-61.78)), and pharynx (61.78 ± 10.11 (50–80)). The majority presented with stage II and III HNC, while only 2.8% presented with stage IV. The most common tumor site was the larynx. Planocellular carcinoma was confirmed in the majority of participants. A tracheostomy was performed in nearly half of the participants (Table 
+            <xref rid="Tab1" ref-type="table">1</xref>
+            ).
+          </p>
+          <p id="Par21">
+            <table-wrap id="Tab1">
+              <label>Table 1</label>
+              <caption xml:lang="en">
+                <p>Study population socio-demographic and clinical characteristics.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <td align="left">
+                      <p>Age (years)</p>
+                    </td>
+                    <td align="left">
+                      <p>62.07 ± 9.08 (32–81)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Gender (male)</p>
+                    </td>
+                    <td align="left">
+                      <p>82 (77.3%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>BMI</p>
+                    </td>
+                    <td align="left">
+                      <p>25.51 ± 4.61 (16.14–41.25)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="2">
+                      <p>Marital Status</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Single</p>
+                    </td>
+                    <td align="left">
+                      <p>9(8.6%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Married</p>
+                    </td>
+                    <td align="left">
+                      <p>82(78.8%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Divorced</p>
+                    </td>
+                    <td align="left">
+                      <p>9(8.6%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Widowed</p>
+                    </td>
+                    <td align="left">
+                      <p>4(3.8%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="2">
+                      <p>Education</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Elementary</p>
+                    </td>
+                    <td align="left">
+                      <p>15(14.2%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> High School</p>
+                    </td>
+                    <td align="left">
+                      <p>72(67.9%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Higher Education</p>
+                    </td>
+                    <td align="left">
+                      <p>19(17.9%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Smoking (yes)</p>
+                    </td>
+                    <td align="left">
+                      <p>36(34.0%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Alcohol Consumption (yes)</p>
+                    </td>
+                    <td align="left">
+                      <p>57(53.8%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="2">
+                      <p>Type of Cancer</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Planocellular</p>
+                    </td>
+                    <td align="left">
+                      <p>103(97.2%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Sarcoma</p>
+                    </td>
+                    <td align="left">
+                      <p>1(0.9%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Other</p>
+                    </td>
+                    <td align="left">
+                      <p>2(1.9%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="2">
+                      <p>Localization</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Oral</p>
+                    </td>
+                    <td align="left">
+                      <p>18(14%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Larynx</p>
+                    </td>
+                    <td align="left">
+                      <p>79(61.2%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> Pharynx</p>
+                    </td>
+                    <td align="left">
+                      <p>9(7%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="2">
+                      <p>Stage</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> I</p>
+                    </td>
+                    <td align="left">
+                      <p>23(21.7%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> II</p>
+                    </td>
+                    <td align="left">
+                      <p>44(41.5%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> III</p>
+                    </td>
+                    <td align="left">
+                      <p>36(34.0%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p> IV</p>
+                    </td>
+                    <td align="left">
+                      <p>3(2.8%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Tracheostomy (yes)</p>
+                    </td>
+                    <td align="left">
+                      <p>52(49.1%)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Primary Carcinoma (yes)</p>
+                    </td>
+                    <td align="left">
+                      <p>105(99.1%)</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>Data are presented as n(%) or mean ± SD (minimum-maximum).</p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <p id="Par22">
+            The confirmatory factor analysis model specified five factors (subscales), validating the factor structure of a FACT-HN questionnaire (Fig. 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            ).
+          </p>
+          <p id="Par23">
+            <fig id="Fig1" position="float">
+              <label>Fig. 1</label>
+              <caption xml:lang="en">
+                <p>Confirmatory factor analysis. The five domains (PWB, SWB, EWB, FWB, and HNCS) along with the respective questions included in the scoring of each domain (GP1-7 for PWB, GS1-6 for SWB, GE1-6 for EWB, GF1-7 for FWB, and HN1-7, 10, 11, 12 for HNCS) are exhibited. Double sided arrows represent correlations, while single sided arrows represent standardized factor loadings. PWB−Physical Well−Being, SWB−Social/Family Well−Being, EWB− Emotional Well−Being, FWB− Functional Well−Being, HNCS−Head and Neck Cancer Specific.</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83246_Fig1_HTML.png"/>
+            </fig>
+          </p>
+          <p id="Par24">Satisfactory factor loading was presented within the five subscales, with minor exceptions in each. In the HNCS subscale, which was accessed, four items had less than 0.5 factor loading. Correlations between subscales FWB, PWB, and HNCS were higher than expected.</p>
+          <p id="Par25">
+            The convergent validity was adequate when compared with the EORTC-QLQ30 questionnaire, for all components, with a range of 0.555–0.754, but low for the SWB component (0.288). The total FACT-HN score was highly correlated to the EORTC-QLQ30 (Table 
+            <xref rid="Tab2" ref-type="table">2</xref>
+            ). With regard to the other questionnaires, GAD-7 and CES-D, had a high correlation to the subscales regarding mental health (EWB and FWB).
+          </p>
+          <p id="Par26">
+            <table-wrap id="Tab2">
+              <label>Table 2</label>
+              <caption xml:lang="en">
+                <p>Convergent validity of FACT-HN.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left"/>
+                    <th align="left"/>
+                    <th align="left">
+                      <p>EORTC-QLQ30*</p>
+                    </th>
+                    <th align="left">
+                      <p>GAD-7</p>
+                    </th>
+                    <th align="left">
+                      <p>CES-D</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" rowspan="8">
+                      <p>FACT-HN</p>
+                    </td>
+                    <td align="left">
+                      <p>PWB</p>
+                    </td>
+                    <td align="left">
+                      <p>0.754</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.546</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.578</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>SWB</p>
+                    </td>
+                    <td align="left">
+                      <p>0.288</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.201</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.372</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>EWB</p>
+                    </td>
+                    <td align="left">
+                      <p>0.555</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.563</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.528</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>FWB</p>
+                    </td>
+                    <td align="left">
+                      <p>0.581</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.386</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.527</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>HNCS</p>
+                    </td>
+                    <td align="left">
+                      <p>0.717</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.356</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.491</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>TOI Score</p>
+                    </td>
+                    <td align="left">
+                      <p>0.797</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.471</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.605</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>G Score</p>
+                    </td>
+                    <td align="left">
+                      <p>0.755</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.560</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.674</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Total Score</p>
+                    </td>
+                    <td align="left">
+                      <p>0.809</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.539</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.672</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>*Summary score.</p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <p id="Par27">
+            Correlation between the EORTCHN43 was highly correlated to the HNCS subscale of the FACT-HN. The highest correlations with the HNCS subscale were observed in dimensions assessing pain in the mouth, swallowing, problems with teeth, dry mouth and sticky saliva, speech, body image, social eating, sexuality, and social contact (Table 
+            <xref rid="Tab3" ref-type="table">3</xref>
+            ).
+          </p>
+          <p id="Par28">
+            <table-wrap id="Tab3">
+              <label>Table 3</label>
+              <caption xml:lang="en">
+                <p>Convergent validity between HNC-specific dimensions and EORTCHN43.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left" rowspan="2"/>
+                    <th align="left" rowspan="2"/>
+                    <th align="left" colspan="4">
+                      <p>FACT-HN</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th align="left">
+                      <p>HNCS</p>
+                    </th>
+                    <th align="left">
+                      <p>TOI Score</p>
+                    </th>
+                    <th align="left">
+                      <p>G Score</p>
+                    </th>
+                    <th align="left">
+                      <p>Total Score</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" rowspan="19">
+                      <p>EORTCHN 43</p>
+                    </td>
+                    <td align="left">
+                      <p>Pain in the mouth</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.438</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.539</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.557</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.556</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Swallowing</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.550</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.566</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.385</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.386</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Problems with teeth</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.402</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.403</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.332</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.386</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Dry mouth and sticky saliva</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.448</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.435</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.361</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.443</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Problems with senses</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.062</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.052</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.061</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.074</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Speech</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.657</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.654</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.484</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.600</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Body Image</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.520</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.561</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.516</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.571</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Social Eating</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.642</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.621</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.508</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.606</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Sexuality</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.444</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.427</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.369</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.426</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Problems with shoulder</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.385</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.389</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.348</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.401</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Skin problems</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.207</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.229</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.273</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.278</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Fear of Progression</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.225</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.326</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.360</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.343</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Problems opening mouth</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.391</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.373</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.307</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.363</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Coughing</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.406</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.445</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.368</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.424</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Social contact</p>
+                    </td>
+                    <td align="left">
+                      <p>-0-531</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.564</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.497</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.555</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Swelling in the neck</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.287</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.347</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.274</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.306</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Weight loss</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.413</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.376</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.225</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.320</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Problems with wound healing</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.225</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.267</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.305</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.298</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Neurological problems</p>
+                    </td>
+                    <td align="left">
+                      <p>-0.251</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.303</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.324</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>-0.324</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </p>
+          <p id="Par29">
+            The questionnaire evaluated five constructs: PWB, SWB, EWB, FWB, and HNCS. The Cronbach’s α values for all constructs were positive, demonstrating the questionnaire’s validity and the consistency of responses. Among the constructs, FWB exhibited the highest internal consistency, with a range of 0.821 to 0.871 (Table 
+            <xref rid="Tab4" ref-type="table">4</xref>
+            ). The removal of items in the examined subscales did not significantly improve reliability (increase Cronbach’s α coefficients).
+          </p>
+          <p id="Par30">
+            <table-wrap id="Tab4">
+              <label>Table 4</label>
+              <caption xml:lang="en">
+                <p>Reliability statistics.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left"/>
+                    <th align="left">
+                      <p>Cronbach’s Alpha</p>
+                    </th>
+                    <th align="left">
+                      <p>Cronbach’s Alpha if Item deleted (range)</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">
+                      <p>PWB (GP1-7)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.795</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.755–0.794</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>SWB (GS1-6, GS7)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.834</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.784–0.857</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>EWB (GE1-6)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.823</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.764–0.857</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>FWB (GF1-7)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.860</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.821–0.871</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>HNCS (HN1-HN7, HN10-HN12)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.851</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.816–0.852</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </p>
+        </sec>
+        <sec id="Sec11" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par31">
+            The FACT-HN PRO, previously translated into many languages, has demonstrated that most of the translated subscales consistently measure the same constructs, as evidenced by their high internal consistency coefficients. Interestingly, these translated versions often perform better than the original English version
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par32">
+            Additionally, men are at a higher risk of developing HNC compared to women
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+            . Our study sample had a similar gender distribution (percentage of males 73.6%); however, there is a bias toward planocellular cancer in our sample (85.3%). Considering that Serbia is classified as an upper-middle-income country, as of recent classifications by international organizations like the World Bank
+            <sup>
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+            , the validity of the responses is significantly higher in our study because the vast majority of patients had a high school education, unlike in other studies where this was a problem when it comes to filling out the questionnaire
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par33">
+            When examining our participants’ socio-demographic and clinical characteristics, the majority were male and married, educated at the high school level, complementing other cohorts’ characteristics in other studies
+            <sup>
+              <xref ref-type="bibr" rid="CR31">31</xref>
+              ,
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            . Approximately a third of our participants currently engage in smoking, and approximately half of the participants had previously smoked, consistent with a well-known significant role in the development of specific types of head and neck malignancies
+            <sup>
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+            . Even though more than half of our participants consumed alcohol, it was previously shown that alcohol consumption showed inconsistent results in terms of the development of planocellular carcinomas of the head and neck
+            <sup>
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par34">
+            The majority of our patients presented with a primary, predominantly planocellular cancer, specifically localized in the larynx, at stages II and III. Planocellular carcinoma of the head and neck region is the most prevalent type of cancer and appears to be the most researched HNC in terms of overall well-being and QoL in different domains
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ,
+              <xref ref-type="bibr" rid="CR31">31</xref>
+              ,
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+             However, the specific location of this cancer varies in different studies, with oral localization being the most commonly observed
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ,
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              ,
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+             Finally, the vast majority of noted studies had patients who presented with advanced stages of these cancers (stage III and above)
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+              ,
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              ,
+              <xref ref-type="bibr" rid="CR24">24</xref>
+              , 
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              –
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par35">
+            Firstly, our subjects exhibited no problem understanding the questions and completing the questionnaire despite the high number of items. Additionally, an optional question, GS7 (sexual QoL), was answered by a limited number of participants and, therefore, was excluded from the factor analysis. However, when including it in the reliability analysis, the omission of the item did not yield any significant change in Cronbach’s α values. The exclusion of the GS7 item is a known notion for validating this specific questionnaire
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            . As demonstrated by a Pakistani study, this item was intentionally excluded due to its perceived cultural insensitivity, resulting in trustworthy validation outcomes
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+            </sup>
+            . Moreover, a Malaysian study reported the aforementioned item as culturally offensive as perceived by the patients, hence suggesting excluding it from the social subscale in any future use of the questionnaire
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par36">
+            The internal consistency of the FACT-G instrument, measured for each subscale, was found to be appropriate. Overall, other studies presented Cronbach’s alpha values ranging from 0.70 to 0.89
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ,
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            . The findings of our study align with previous research that has also documented good to excellent Cronbach’s alpha values ranging from 0.72 to 0.97 for the four FACT-G subscales
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              ,
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ,
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            . Exceptionally, French validation performed by Conroy et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            , as well as the Malay-translated version
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            , presented certain subscales with a Cronbach’s alpha lower than 0.7, such as social
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+             and emotional well-being subscale
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par37">
+            The internal consistency of the HNCS subscale was shown to be good in our study, as well as in English, Chinese, and Arabic validations
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ,
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            , ranging from 0.70 to 0.75. However, inadequate Cronbach alpha scores for HNCS subscale were noted in the Pakistani
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            , French
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            , and Malay-translated validations
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            , ranging from 0.42 to 0.52. A study conducted in Pakistan found that the low internal consistency scores of the HNCS subscale can be ascribed to certain inquiries that provide explanations in a vague manner, while other items are interpreted in reference to different subscales
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par38">The exploratory factor analysis with a non-fixed number of dimensions yielded a distinct, nine-component configuration of the FACT-HN (Supplement 1). The arrangement of the loaded components did not align with the initial hypothesized composition of the scale. Several items related to patients’ physical well-being, as well as their functioning and head and neck subscales, were observed within different domains. Hence, five of the nine identified subscales were formed with two or three items. Therefore, the practical applications of the mentioned subscales are questionable. The five-factor exploratory factor analysis corroborated the initially proposed five-component framework of the questionnaire (Supplement 2). In this specific dataset, an alternate factorial model surfaced that exhibited superior fit, indicating that specific items would be more suitably categorized into alternative subscales than initially designated.</p>
+          <p id="Par39">
+            Through a fixed-factor exploratory analysis, GP6 (“I feel ill”), GF5 (“I am sleeping well”), and HN12 (“I have pain in my mouth, throat or neck”) were assigned to the ‘‘emotional well-being’’ domain by the exploratory analysis. Even though this structure was not presented in the original questionnaire, this construction is reasonable, as how sick one feels is similar to the importance of regulating emotions and sensitivity to contextual factors
+            <sup>
+              <xref ref-type="bibr" rid="CR33">33</xref>
+            </sup>
+            . The lack of sleep not only increases emotional sensitivity to stressful surroundings
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+             but also leads to a decline in the ability to manage impulses and generate sentiments
+            <sup>
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+            , which are crucial aspects of cancer treatment. Furthermore, chronic pain is shown to be a significant factor in the formation of dysfunctional regulation of emotions, characterized by a tendency to focus more on adverse circumstances, which is linked to increased instances of pain
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            . Furthermore, the item GE2 (“I am satisfied with how I am coping with my illness”) was assigned to the ‘‘physical well-being’’ domain. This relationship we found is highly likely as physical health is heavily negatively influenced by the adoption of poor coping strategies, such as denial and disengagement
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            . GP1 (“I have a lack of energy”), GP3 (“Because of my physical condition, I have trouble meeting the needs of my family”), and GF4 (“I have accepted my illness”) were assigned to the “head and neck” subscale, along with items HN1-3, HN5, and HN6. In general, the above items discuss the perception of the disease itself, as well as the experience of certain physical traits and the resulting symptoms. It is important to observe that this scale primarily emphasizes the emotional and social aspects of the physical symptoms associated with head and neck malignancies. It particularly highlights the participant’s unrestricted consumption of food that they enjoy, thus emphasizing the emotional significance of the noted items. While the structure of item loading may not align with the original conceptual arrangement of the scale, the relationships we have discovered are feasible: these patients exhibit significant dietary burden while facing obstacles when it comes to accepting dietary assistance from physicians
+            <sup>
+              <xref ref-type="bibr" rid="CR38">38</xref>
+            </sup>
+            ; these patients often feel discouraged about the persistent treatment-related side effects preventing them from resume eating
+            <sup>
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+            ; individuals with HNC suffer from physical symptoms that restrict their ability to eat normally, particularly in social situations, which is of significant concern and has an immense impact on their QoL
+            <sup>
+              <xref ref-type="bibr" rid="CR40">40</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par40">The confirmatory analysis substantiated the questionnaire’s structure, affirming that the items corresponded effectively with the proposed theoretical model. The results exhibited acceptable fit indices, corroborating the proposed component structure and demonstrating that the questionnaire consistently assesses the targeted constructs: physical, social, emotional, and functional well-being, along with specific symptoms in relation to the localization of the primary cancer. The instrument’s validity is strengthened as a result of this confirmation, and it guarantees that the instrument accurately captures the dimensions it was designed to evaluate.</p>
+          <p id="Par41">
+            A comparison of the instrument versus the EORTC QLQC-30 score showed a medium to strong correlation between physical, emotional, and functional factors, as well as the HNCS subscale score and the total FACT-G score. Although significant, social well-being scores presented a relatively weak correlation with an overall EORTC QLQC-30 score. This result pattern has been previously detected and attributed to the different approach and number of questions while measuring the same construct, as the FACT scale encompasses seven items, measuring specific aspects of participants’ support related to their friends, family, and partners. In contrast, the EORTC scale includes only two questions for measuring this aspect, focusing on the impact of the illness on subjects’ social aspects of everyday life
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par42">
+            Certain EORTCHN43 segments, such as mouth pain, swallowing, dry mouth and sticky saliva, speech, social eating, sexuality, and social contact, strongly and negatively correlated to the HNCS subscales. Common oral morbidities linked to HNC treatment encompass dysphagia, xerostomia, mouth discomfort, and abnormalities in taste and smell
+            <sup>
+              <xref ref-type="bibr" rid="CR41">41</xref>
+            </sup>
+            . Anatomical alterations in the pharynx and mouth cavity result in restricted range of motion and reduced movement velocity
+            <sup>
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+            . Decay in oral function, including chewing, swallowing, salivation, gustation, dental health, and speaking, may lead to other issues such as malnutrition
+            <sup>
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            . Difficulties in mastication and deglutition hinder social dining, transforming meals into a cause of anxiety rather than pleasure, further lowering overall functioning
+            <sup>
+              <xref ref-type="bibr" rid="CR44">44</xref>
+            </sup>
+            . These malignancies may also impact sexuality, diminishing closeness and self-assurance in personal interactions
+            <sup>
+              <xref ref-type="bibr" rid="CR45">45</xref>
+            </sup>
+            . In general, social interaction is often highly and negatively impacted, as individuals face physical and emotional challenges caused by their condition
+            <sup>
+              <xref ref-type="bibr" rid="CR46">46</xref>
+            </sup>
+            . To fully comprehend the effects of the disease on patients with HNC, it is crucial to assess and preserve oral function as well as QoL. Therefore, the patient’s functional outcomes and QoL should be considered when making treatment decisions for HNC.
+          </p>
+        </sec>
+        <sec id="Sec12" sec-type="conclusion">
+          <title>Conclusions</title>
+          <p id="Par43">The Serbian version of the FACT-HN demonstrated strong reliability and validity, making it a valuable tool for assessing QoL in Serbian-speaking HNC patients. The PRO maintained high internal consistency across all subscales, aligning well with the original version, and showed satisfactory convergent validity when compared to other well-established QoL instruments. Our findings support the utility of this translated version in capturing the multidimensional impacts of HNC on patients’ overall well-being. Further studies with larger, diverse patient populations could strengthen these findings and assess its longitudinal sensitivity to treatment-related changes in QoL.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We would like to thank Lillian Savic from the FACIT organization for her help during the translation process.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>All authors contributed to the study conception and design. Material preparation and analysis were performed by M.P., B.S., A.T., A.M., T.J.P., I.V.,I.S., and J.I.Z. Data collection was performed by M.P., S.Ba., and A.K. Data curation was prepared by M.P., A.D., and S.Bu. The first draft of the manuscript was written by M.P., B.S., A.T., A.M., T.J.P., I.V. and all authors commented on previous versions of the manuscript. All authors read and approved the final manuscript.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>The datasets used and/or analysed during the current study available from the corresponding author on reasonable request.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <title>Declarations</title>
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par44">The authors declare no competing interests.</p>
+          </sec>
+          <sec id="FPar2">
+            <title>Ethics approval</title>
+            <p id="Par45">This study was performed in line with the principles of the Declaration of Helsinki. Approval was granted by the Ethics Committee of the University of Belgrade Faculty of Medicine (No.17/I-36) on January 12, 2023.</p>
+          </sec>
+          <sec id="FPar3">
+            <title>Consent to participate</title>
+            <p id="Par46">Informed consent was obtained from all individual participants included in the study.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="other">
+                Globocan (2022). 
+                <ext-link ns0:href="https://gco.iarc.fr/en" ext-link-type="uri">https://gco.iarc.fr/en</ext-link>
+                 Accessed on June 10 2024.
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Barsouk</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Aluru</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <name>
+                    <surname>Rawla</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Saginala</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Barsouk</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Epidemiology, Risk Factors, and Prevention of Head and Neck Squamous Cell Carcinoma</article-title>
+                <source>Med. Sci. (Basel Switzerland)</source>
+                <year>2023</year>
+                <volume>11</volume>
+                <issue>2</issue>
+                <fpage>42</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXhsVChs7nP</pub-id>
+                <pub-id pub-id-type="doi">10.3390/medsci11020042</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Terrell</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Head and neck cancer-specific quality of life: instrument validation</article-title>
+                <source>Archives otolaryngology–head neck Surg.</source>
+                <year>1997</year>
+                <volume>123</volume>
+                <issue>10</issue>
+                <fpage>1125</fpage>
+                <lpage>1132</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK2svnvF2isg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1001/archotol.1997.01900100101014</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0886.93006</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Basch</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The missing voice of patients in drug-safety reporting</article-title>
+                <source>N. Engl. J. Med.</source>
+                <year>2010</year>
+                <volume>362</volume>
+                <issue>10</issue>
+                <fpage>865</fpage>
+                <lpage>869</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2010tlhc.book.....B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXjt1yls7o%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1056/NEJMp0911494</pub-id>
+                <pub-id pub-id-type="pmid">20220181</pub-id>
+                <pub-id pub-id-type="pmcid">3031980</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0003.04401</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Trotti</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Mucositis incidence, severity and associated outcomes in patients with head and neck cancer receiving radiotherapy with or without chemotherapy: a systematic literature review</article-title>
+                <source>Radiotherapy oncology: J. Eur. Soc. Therapeutic Radiol. Oncol.</source>
+                <year>2003</year>
+                <volume>66</volume>
+                <issue>3</issue>
+                <fpage>253</fpage>
+                <lpage>262</lpage>
+                <pub-id pub-id-type="doi">10.1016/s0167-8140(02)00404-8</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="other">Calvert, M. J., Cruz Rivera, S., Retzer, A., Hughes, S. E., Campbell, L., Molony-Oates,B., Aiyegbusi, O. L., Stover, A. M., Wilson, R., McMullan, C., Anderson, N. E., Turner,G. M., Davies, E. H., Verdi, R., Velikova, G., Kamudoni, P., Muslim, S., Gheorghe,A., O’Connor, D., Liu, X., … Denniston, A. K. (2022). Patient reported outcome assessment must be inclusive and equitable. Nature medicine, 28(6), 1120–1124. https://doi.org/10.1038/s41591-022-01781-8.</mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>List</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The Performance Status Scale for Head and Neck Cancer Patients and the Functional Assessment of Cancer Therapy-Head and Neck Scale. A study of utility and validity</article-title>
+                <source>Cancer</source>
+                <year>1996</year>
+                <volume>77</volume>
+                <issue>11</issue>
+                <fpage>2294</fpage>
+                <lpage>2301</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK283isVyqtA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/(SICI)1097-0142(19960601)77:11&lt;2294::AID-CNCR17&gt;3.0.CO;2-S</pub-id>
+                <pub-id pub-id-type="pmid">8635098</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0900.76542</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Beaton</surname>
+                    <given-names>DE</given-names>
+                  </name>
+                  <name>
+                    <surname>Bombardier</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Guillemin</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Ferraz</surname>
+                    <given-names>MB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Guidelines for the process of cross-cultural adaptation of self-report measures</article-title>
+                <source>Spine</source>
+                <year>2000</year>
+                <volume>25</volume>
+                <issue>24</issue>
+                <fpage>3186</fpage>
+                <lpage>3191</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD3M7jt1Cmug%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1097/00007632-200012150-00014</pub-id>
+                <pub-id pub-id-type="pmid">11124735</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bolarinwa</surname>
+                    <given-names>OA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Principles and methods of validity and reliability testing of questionnaires used in social and health science researches</article-title>
+                <source>Niger. Postgrd. Med. J.</source>
+                <year>2015</year>
+                <volume>22</volume>
+                <issue>4</issue>
+                <fpage>195</fpage>
+                <lpage>201</lpage>
+                <pub-id pub-id-type="doi">10.4103/1117-1936.173959</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">05984090</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cella</surname>
+                    <given-names>DF</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The Functional Assessment of Cancer Therapy scale: development and validation of the general measure</article-title>
+                <source>J. Clin. oncology: official J. Am. Soc. Clin. Oncol.</source>
+                <year>1993</year>
+                <volume>11</volume>
+                <issue>3</issue>
+                <fpage>570</fpage>
+                <lpage>579</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK3s7oslKqsQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1200/JCO.1993.11.3.570</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1404.74004</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Pandey</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Thomas</surname>
+                    <given-names>BC</given-names>
+                  </name>
+                  <name>
+                    <surname>Ramdas</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Eremenco</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Nair</surname>
+                    <given-names>MK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reliability &amp; validity of the Malayalam Functional Assessment of Cancer Therapy for Head &amp; Neck Cancer</article-title>
+                <source>Indian J. Med. Res.</source>
+                <year>2004</year>
+                <volume>120</volume>
+                <issue>1</issue>
+                <fpage>51</fpage>
+                <lpage>55</lpage>
+                <pub-id pub-id-type="pmid">15299233</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sheikh</surname>
+                    <given-names>ME</given-names>
+                  </name>
+                  <name>
+                    <surname>Suleiman</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Satti</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>O’Sullivan</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Translation, linguistic validation and reliability of FACT-H&amp;N questionnaire in Oral Cancer patients in Sudan</article-title>
+                <source>J. patient-reported outcomes</source>
+                <year>2022</year>
+                <volume>6</volume>
+                <issue>1</issue>
+                <fpage>98</fpage>
+                <pub-id pub-id-type="doi">10.1186/s41687-022-00507-1</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Wan</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Validation of the Chinese version of the Functional Assessment of Cancer Therapy-Head and Neck (FACT-H&amp;N)</article-title>
+                <source>Oral Oncol.</source>
+                <year>2012</year>
+                <volume>48</volume>
+                <issue>8</issue>
+                <fpage>688</fpage>
+                <lpage>695</lpage>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1527.35282</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chang</surname>
+                    <given-names>JT</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Internal consistency of the traditional Chinese character version of the Functional Assessment of Cancer Therapy-Head and Neck (FACT-H&amp;N)</article-title>
+                <source>Chang Gung Med. J.</source>
+                <year>2008</year>
+                <volume>31</volume>
+                <issue>4</issue>
+                <fpage>384</fpage>
+                <lpage>394</lpage>
+                <pub-id pub-id-type="pmid">18935797</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1198.65090</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="other">
+                Bilal, S., Doss, J. G. &amp; Rogers, S. N. The use of the FACT-H&amp;N (v4) in clinical settings within a developing country: a mixed method study. 
+                <italic>Journal of cranio-maxillo-facial surgery: official publication of the European Association for Cranio-Maxillo-Facial Surgery</italic>
+                , 
+                <italic>42</italic>
+                (8), 1590–1597. (2014). 
+                <ext-link ns0:href="10.1016/j.jcms.2014.04.015" ext-link-type="doi">https://doi.org/10.1016/j.jcms.2014.04.015</ext-link>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Doss</surname>
+                    <given-names>JG</given-names>
+                  </name>
+                  <name>
+                    <surname>Thomson</surname>
+                    <given-names>WM</given-names>
+                  </name>
+                  <name>
+                    <surname>Drummond</surname>
+                    <given-names>BK</given-names>
+                  </name>
+                  <name>
+                    <surname>Raja Latifah</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Validity of the FACT-H&amp;N (v 4.0) among Malaysian oral cancer patients</article-title>
+                <source>Oral Oncol.</source>
+                <year>2011</year>
+                <volume>47</volume>
+                <issue>7</issue>
+                <fpage>648</fpage>
+                <lpage>652</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC3MnjtlGitQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.oraloncology.2011.04.023</pub-id>
+                <pub-id pub-id-type="pmid">21602094</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sánchez</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Ballesteros</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Arnold</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Validation of the FACT-G scale for evaluating quality of life in cancer patients in Colombia</article-title>
+                <source>Qual. life research: Int. J. Qual. life aspects Treat. care rehabilitation</source>
+                <year>2011</year>
+                <volume>20</volume>
+                <issue>1</issue>
+                <fpage>19</fpage>
+                <lpage>29</lpage>
+                <pub-id pub-id-type="doi">10.1007/s11136-010-9727-0</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">07860763</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Conroy</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">French version of FACT-G: validation and comparison with other cancer-specific instruments</article-title>
+                <source>Eur. J. cancer (Oxford England: 1990)</source>
+                <year>2004</year>
+                <volume>40</volume>
+                <issue>15</issue>
+                <fpage>2243</fpage>
+                <lpage>2252</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD2cvosFyrsg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ejca.2004.06.010</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1054.92011</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="other">
+                FACIT.org. Functional Assessment of Cancer Therapy - Head &amp; Neck (FACT-HN) Scoring Downloads [Internet]. [accessed 2024 Jul 3]. 
+                <ext-link ns0:href="https://www.facit.org/measures-scoring-downloads/fact-hn-scoring-downloads" ext-link-type="uri">https://www.facit.org/measures-scoring-downloads/fact-hn-scoring-downloads</ext-link>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bjordal</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Development of a European Organization for Research and Treatment of Cancer (EORTC) questionnaire module to be used in quality of life assessments in head and neck cancer patients. EORTC Quality of Life Study Group</article-title>
+                <source>Acta Oncol. (Stockholm Sweden)</source>
+                <year>1994</year>
+                <volume>33</volume>
+                <issue>8</issue>
+                <fpage>879</fpage>
+                <lpage>885</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK2M7hvVKmtA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.3109/02841869409098450</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1350.03017</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Trivic</surname>
+                    <given-names>SK</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Head and Neck Module, updated version: Preliminary psychometric data from Serbian laryngectomized patients</article-title>
+                <source>Head neck</source>
+                <year>2016</year>
+                <volume>38</volume>
+                <issue>Suppl 1</issue>
+                <fpage>E916</fpage>
+                <lpage>E924</lpage>
+                <pub-id pub-id-type="doi">10.1002/hed.24127</pub-id>
+                <pub-id pub-id-type="pmid">26189891</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1061.80009</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="other">Singer, S., Araújo, C., Arraras, J. I., Baumann, I., Boehm, A., Brokstad Herlofson,B., Castro Silva, J., Chie, W. C., Fisher, S., Guntinas-Lichius, O., Hammerlid, E.,Irarrázaval, M. E., Jensen Hjermstad, M., Jensen, K., Kiyota, N., Licitra, L., Nicolatou-Galitis,O., Pinto, M., Santos, M., Schmalz, C., … EORTC Quality of Life and the EORTC Head and Neck Cancer Groups (2015). Measuring quality of life in patients with head and neck cancer: Update of the EORTC QLQ-H&amp;N Module, Phase III. Head &amp; neck, 37(9), 1358–1367. https://doi.org/10.1002/hed.23762</mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="other">Fayers, P. M. et al. The EORTC QLQ-C30 Scoring Manual (3rd Edition). Published by: European Organisation for Research and Treatment of Cancer, Brussels,. (2001).</mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Radloff</surname>
+                    <given-names>LS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The CES-D scale: A self-report depression scale for research in the general population</article-title>
+                <source>Appl. Psychol. Meas.</source>
+                <year>1977</year>
+                <volume>1</volume>
+                <issue>3</issue>
+                <fpage>385</fpage>
+                <lpage>401</lpage>
+                <pub-id pub-id-type="doi">10.1177/014662167700100306</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0996.32013</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ilic</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Babic</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Dimitrijevic</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Ilic</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Sipetic Grujicic</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reliability and validity of the Center for Epidemiologic Studies Depression (CES-D) scale in Serbian women with abnormal Papanicolaou smear results</article-title>
+                <source>Int. J. Gynecol. cancer: official J. Int. Gynecol. Cancer Soc.</source>
+                <year>2019</year>
+                <volume>29</volume>
+                <issue>6</issue>
+                <fpage>996</fpage>
+                <lpage>1002</lpage>
+                <pub-id pub-id-type="doi">10.1136/ijgc-2019-000219</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1194.05089</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Löwe</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Validation and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population</article-title>
+                <source>Med. Care</source>
+                <year>2008</year>
+                <volume>46</volume>
+                <issue>3</issue>
+                <fpage>266</fpage>
+                <lpage>274</lpage>
+                <pub-id pub-id-type="doi">10.1097/MLR.0b013e318160d093</pub-id>
+                <pub-id pub-id-type="pmid">18388841</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1284.00021</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rokvić</surname>
+                    <given-names>N</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Validacija srpske verzije skale generalizovanog anksioznog poremećaja (GAD7)-pilot studija</article-title>
+                <source>Engrami</source>
+                <year>2019</year>
+                <volume>41</volume>
+                <fpage>68</fpage>
+                <lpage>79</lpage>
+                <pub-id pub-id-type="doi">10.5937/engrami1902068R</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schober</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Boer</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Schwarte</surname>
+                    <given-names>LA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Correlation Coefficients: Appropriate Use and Interpretation</article-title>
+                <source>Anesth. Analg.</source>
+                <year>2018</year>
+                <volume>126</volume>
+                <issue>5</issue>
+                <fpage>1763</fpage>
+                <lpage>1768</lpage>
+                <pub-id pub-id-type="doi">10.1213/ANE.0000000000002864</pub-id>
+                <pub-id pub-id-type="pmid">29481436</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0859.94029</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Simopoulou</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Does adaptive radiotherapy for head and neck cancer favorably impact dosimetric, clinical, and toxicity outcomes? A review</article-title>
+                <source>Medicine</source>
+                <year>2024</year>
+                <volume>103</volume>
+                <issue>26</issue>
+                <fpage>e38529</fpage>
+                <pub-id pub-id-type="doi">10.1097/MD.0000000000038529</pub-id>
+                <pub-id pub-id-type="pmid">38941415</pub-id>
+                <pub-id pub-id-type="pmcid">11466102</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="other">World &amp; Bank Available at: worldbank.org Accessed on: June 20, 2024 (2022).</mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Azimi</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Socioeconomic determinants as risk factors for squamous cell carcinoma of the head and neck: a case-control study in Iran</article-title>
+                <source>Br. J. Oral Maxillofac. Surg.</source>
+                <year>2018</year>
+                <volume>56</volume>
+                <issue>4</issue>
+                <fpage>304</fpage>
+                <lpage>309</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC1MnntVyktQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.bjoms.2018.02.014</pub-id>
+                <pub-id pub-id-type="pmid">29599049</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">06838048</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="other">
+                Bilal, S., Doss, J. G., Cella, D. &amp; Rogers, S. N. Quality of life associated factors in head and neck cancer patients in a developing country using the FACT-H&amp;N. 
+                <italic>Journal of cranio-maxillo-facial surgery: official publication of the European Association for Cranio-Maxillo-Facial Surgery</italic>
+                , 
+                <italic>43</italic>
+                (2), 274–280. (2015). 
+                <ext-link ns0:href="10.1016/j.jcms.2014.11.024" ext-link-type="doi">https://doi.org/10.1016/j.jcms.2014.11.024</ext-link>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="other">
+                Lekander, M. Feeling sick and other emotions. In: The Inflamed Feeling [Internet]. Oxford University Press; 133–52. (2022). p 
+                <ext-link ns0:href="https://academic.oup.com/book/38808/chapter/337650615" ext-link-type="uri">https://academic.oup.com/book/38808/chapter/337650615</ext-link>
+                 Accessed on August 14, 2024.
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Vandekerckhove</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>YL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Emotion, emotion regulation and sleep: An intimate relationship</article-title>
+                <source>AIMS Neurosci.</source>
+                <year>2017</year>
+                <volume>5</volume>
+                <issue>1</issue>
+                <fpage>1</fpage>
+                <lpage>17</lpage>
+                <pub-id pub-id-type="doi">10.3934/Neuroscience.2018.1.1</pub-id>
+                <pub-id pub-id-type="pmid">32341948</pub-id>
+                <pub-id pub-id-type="pmcid">7181893</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1304.91170</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bauducco</surname>
+                    <given-names>SV</given-names>
+                  </name>
+                  <name>
+                    <surname>Salihovic</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Boersma</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Bidirectional associations between adolescents’ sleep problems and impulsive behavior over time</article-title>
+                <source>Sleep. medicine: X</source>
+                <year>2019</year>
+                <volume>1</volume>
+                <fpage>100009</fpage>
+                <pub-id pub-id-type="doi">10.1016/j.sleepx.2019.100009</pub-id>
+                <pub-id pub-id-type="pmid">33870168</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Amaro-Díaz</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Montoro</surname>
+                    <given-names>CI</given-names>
+                  </name>
+                  <name>
+                    <surname>Fischer-Jbali</surname>
+                    <given-names>LR</given-names>
+                  </name>
+                  <name>
+                    <surname>Galvez-Sánchez</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Chronic Pain and Emotional Stroop: A Systematic Review</article-title>
+                <source>J. Clin. Med.</source>
+                <year>2022</year>
+                <volume>11</volume>
+                <issue>12</issue>
+                <fpage>3259</fpage>
+                <pub-id pub-id-type="doi">10.3390/jcm11123259</pub-id>
+                <pub-id pub-id-type="pmid">35743329</pub-id>
+                <pub-id pub-id-type="pmcid">9224954</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cheng</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Yang</surname>
+                    <given-names>CY</given-names>
+                  </name>
+                  <name>
+                    <surname>Inder</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Chan</surname>
+                    <given-names>SW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Illness Perceptions, Coping Strategies, and Quality of Life in People With Multiple Chronic Conditions</article-title>
+                <source>J. Nurs. scholarship: official publication Sigma Theta Tau Int. Honor Soc. Nurs.</source>
+                <year>2020</year>
+                <volume>52</volume>
+                <issue>2</issue>
+                <fpage>145</fpage>
+                <lpage>154</lpage>
+                <pub-id pub-id-type="doi">10.1111/jnu.12540</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1208.94034</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hazzard</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The experience of nutritional care according to patients with head and neck cancer involved with a combined dietitian, specialist nurse and speech pathologist clinic in a regional Australia: a qualitative longitudinal study</article-title>
+                <source>Supportive care cancer: official J. Multinational Association Supportive Care Cancer</source>
+                <year>2021</year>
+                <volume>29</volume>
+                <issue>8</issue>
+                <fpage>4329</fpage>
+                <lpage>4337</lpage>
+                <pub-id pub-id-type="doi">10.1007/s00520-020-05917-9</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1048.83502</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sandmael</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Nutritional experiences in head and neck cancer patients</article-title>
+                <source>Eur. J. Cancer Care</source>
+                <year>2019</year>
+                <volume>28</volume>
+                <issue>6</issue>
+                <fpage>e13168</fpage>
+                <pub-id pub-id-type="doi">10.1111/ecc.13168</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bhardwaj</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Quality of Life of Head and Neck Cancer Patients: Psychosocial Perspective using Mixed Method Approach</article-title>
+                <source>Indian J. Palliat. Care</source>
+                <year>2021</year>
+                <volume>27</volume>
+                <issue>2</issue>
+                <fpage>291</fpage>
+                <lpage>298</lpage>
+                <pub-id pub-id-type="doi">10.25259/IJPC_108_21</pub-id>
+                <pub-id pub-id-type="pmid">34511799</pub-id>
+                <pub-id pub-id-type="pmcid">8428896</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1469.11053</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ihara</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Changes in oral function, swallowing function, and quality of life in patients with head and neck cancer: a prospective cohort study</article-title>
+                <source>BMC oral health</source>
+                <year>2022</year>
+                <volume>22</volume>
+                <issue>1</issue>
+                <fpage>293</fpage>
+                <pub-id pub-id-type="doi">10.1186/s12903-022-02329-5</pub-id>
+                <pub-id pub-id-type="pmid">35843950</pub-id>
+                <pub-id pub-id-type="pmcid">9288711</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0692.14018</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tashimo</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Acute Stage Longitudinal Change of Quality of Life from Pre- to 3 Months after Surgical Treatment in Head and Neck Cancer Patients</article-title>
+                <source>Asian Pac. J. cancer prevention: APJCP</source>
+                <year>2019</year>
+                <volume>20</volume>
+                <issue>10</issue>
+                <fpage>3129</fpage>
+                <lpage>3136</lpage>
+                <pub-id pub-id-type="doi">10.31557/APJCP.2019.20.10.3129</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1020.83520</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Vermaire</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Mastication, swallowing, and salivary flow in patients with head and neck cancer: objective tests versus patient-reported outcomes</article-title>
+                <source>Supportive care cancer: official J. Multinational Association Supportive Care Cancer</source>
+                <year>2021</year>
+                <volume>29</volume>
+                <issue>12</issue>
+                <fpage>7793</fpage>
+                <lpage>7803</lpage>
+                <pub-id pub-id-type="doi">10.1007/s00520-021-06368-6</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1380.93149</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ghazali</surname>
+                    <given-names>SNA</given-names>
+                  </name>
+                  <name>
+                    <surname>Chan</surname>
+                    <given-names>CMH</given-names>
+                  </name>
+                  <name>
+                    <surname>Eezamuddeen</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Manan</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Yahya</surname>
+                    <given-names>N</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Quality of Life for Head and Neck Cancer Patients: A 10-Year Bibliographic Analysis</article-title>
+                <source>Cancers</source>
+                <year>2023</year>
+                <volume>15</volume>
+                <issue>18</issue>
+                <fpage>4551</fpage>
+                <pub-id pub-id-type="doi">10.3390/cancers15184551</pub-id>
+                <pub-id pub-id-type="pmid">37760520</pub-id>
+                <pub-id pub-id-type="pmcid">10526491</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Melissant</surname>
+                    <given-names>HC</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The course of sexual interest and enjoyment in head and neck cancer patients treated with primary (chemo)radiotherapy</article-title>
+                <source>Oral Oncol.</source>
+                <year>2018</year>
+                <volume>83</volume>
+                <fpage>120</fpage>
+                <lpage>126</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BB3c7nt1Smtw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.oraloncology.2018.06.016</pub-id>
+                <pub-id pub-id-type="pmid">30098767</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ninfa</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The Change in Social Eating over Time in People with Head and Neck Cancer Treated with Primary (Chemo)Radiotherapy: The Role of Swallowing, Oral Function, and Nutritional Status</article-title>
+                <source>Cancers</source>
+                <year>2023</year>
+                <volume>15</volume>
+                <issue>5</issue>
+                <fpage>1603</fpage>
+                <pub-id pub-id-type="doi">10.3390/cancers15051603</pub-id>
+                <pub-id pub-id-type="pmid">36900393</pub-id>
+                <pub-id pub-id-type="pmcid">10001042</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1180.83074</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec13">
+              <title>Electronic Supplementary Material</title>
+              <p id="Par47">Below is the link to the electronic supplementary material.</p>
+              <p id="Par48">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Electronic Supplementary Material">
+                  <media mimetype="application" mime-subtype="msword" ns0:href="MediaObjects/41598_2024_83246_MOESM1_ESM.docx">
+                    <caption xml:lang="en">
+                      <p>Supplementary Material 1</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+              <p id="Par49">
+                <supplementary-material content-type="local-data" id="MOESM2" ns0:title="Electronic Supplementary Material">
+                  <media mimetype="application" mime-subtype="msword" ns0:href="MediaObjects/41598_2024_83246_MOESM2_ESM.docx">
+                    <caption xml:lang="en">
+                      <p>Supplementary Material 2</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="Misc">
+          <title>Publisher’s note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

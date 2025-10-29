@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.175831",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20468-7",
+    "title": "Structure and dynamics of the drug-bound bacterial transporter EmrE in lipid bilayers",
+    "article_number": "172",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alexander A. Shcherbakov",
+      "Grant Hisao",
+      "Venkata S. Mandala",
+      "Nathan E. Thomas",
+      "Mohammad Soltani",
+      "E. A. Salter",
+      "James H. Davis",
+      "Katherine A. Henzler-Wildman",
+      "Mei Hong"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T18:35:23.500462"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T18:35:25.044838"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T18:35:26.361756"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T23:05:46.591750"
+    },
+    "last_updated": "2025-10-03T23:05:46.591939"
+  }
+}

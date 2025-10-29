@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.886507",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03975-5",
+    "title": "Prognosis and adjuvant chemotherapy for patients with positive peritoneal cytology in stage IA endometrial cancer",
+    "article_number": "166",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Motoko Kanno",
+      "Mayu Yunokawa",
+      "Makoto Nakabayashi",
+      "Makiko Omi",
+      "Ai Ikki",
+      "Megumi Mizusaki",
+      "Mai Nishimura",
+      "Yusuke Shimizu",
+      "Kota Okamoto",
+      "Yuji Tanaka",
+      "Atsushi Fusegi",
+      "Sachiho Netsu",
+      "Tomoko Kurita",
+      "Yoichi Aoki",
+      "Terumi Tanigawa",
+      "Maki Matoda",
+      "Sanshiro Okamoto",
+      "Hidetaka Nomura",
+      "Kohei Omatsu",
+      "Yuko Sugiyama",
+      "Kuniko Utsugi",
+      "Nobuhiro Takeshima",
+      "Hiroyuki Kanao"
+    ]
+  },
+  "article_index": 278,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:03:08.984099"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:03:10.553145"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:03:11.760570"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:48:35.961467"
+    },
+    "last_updated": "2025-10-03T21:48:35.961657"
+  }
+}

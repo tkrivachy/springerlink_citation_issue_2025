@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.830215",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50636-w",
+    "title": "Interactions between the AraC/XylS-like transcriptional activator InvF of ",
+    "article_number": "156",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Daniel Cortés-Avalos",
+      "André Borges Farias",
+      "Luis E. Romero-González",
+      "Cristina Lara-Ochoa",
+      "Lourdes Villa-Tanaca",
+      "Francisco García-del Portillo",
+      "Vanessa López-Guerrero",
+      "Víctor H. Bustamante",
+      "Ernesto Pérez-Rueda",
+      "J. Antonio Ibarra"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:59:44.215676"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:59:45.787474"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:59:46.937517"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:11:27.883238"
+    },
+    "last_updated": "2025-10-03T22:11:27.883312"
+  }
+}

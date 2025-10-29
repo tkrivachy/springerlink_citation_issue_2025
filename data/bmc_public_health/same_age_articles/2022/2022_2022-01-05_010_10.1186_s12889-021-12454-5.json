@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.581203",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12454-5",
+    "title": "A survey of depression and anxiety disorders in urban and rural Suriname",
+    "article_number": "51",
+    "publication_date": "2022-01-08",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Raj Jadnanansing",
+      "Edwin de Beurs",
+      "Kajal Etwaroo",
+      "Matthijs Blankers",
+      "Rudi Dwarkasing",
+      "Jaap Peen",
+      "Vincent Lumsden",
+      "Robbert Bipat",
+      "Jack Dekker"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:08:23.781392"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:08:25.326852"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:08:26.608301"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:27:29.260145"
+    },
+    "last_updated": "2025-10-03T21:27:29.260237"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.632272",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35753-w",
+    "title": "CSF1R inhibitors induce a sex-specific resilient microglial phenotype and functional rescue in a tauopathy mouse model",
+    "article_number": "118",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Noah R. Johnson",
+      "Peng Yuan",
+      "Erika Castillo",
+      "T. Peter Lopez",
+      "Weizhou Yue",
+      "Annalise Bond",
+      "Brianna M. Rivera",
+      "Miranda C. Sullivan",
+      "Masakazu Hirouchi",
+      "Kurt Giles",
+      "Atsushi Aoyagi",
+      "Carlo Condello"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:46:11.778200"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:46:13.350851"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:46:14.530586"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T23:09:22.047987"
+    },
+    "last_updated": "2025-10-03T23:09:22.048175"
+  }
+}

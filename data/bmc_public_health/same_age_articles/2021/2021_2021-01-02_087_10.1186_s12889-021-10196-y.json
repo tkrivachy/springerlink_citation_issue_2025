@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.640791",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10196-y",
+    "title": "The HIV epidemic in Colombia: spatial and temporal trends analysis",
+    "article_number": "178",
+    "publication_date": "2021-01-21",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jhon Freddy Montana",
+      "Glenda Roberta Oliveira Naiff Ferreira",
+      "Carlos Leonardo Figueiredo Cunha",
+      "Ana Angélica Rêgo de Queiroz",
+      "Wellington Augusto Andrade Fernandes",
+      "Sandra Helena Isse Polaro",
+      "Lucia Hisako Takase Gonçalves",
+      "Danielle Costa Carrara Couto",
+      "Elucir Gir",
+      "Renata Karina Reis",
+      "Wiliam Sorensen",
+      "Eliã Pinheiro Botelho"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:55:40.166822"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:55:41.713408"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:55:43.001526"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:23:01.616111"
+    },
+    "last_updated": "2025-10-03T21:23:01.616252"
+  }
+}

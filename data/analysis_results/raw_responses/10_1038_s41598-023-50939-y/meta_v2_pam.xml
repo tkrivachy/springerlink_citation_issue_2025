@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-50939-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41598-023-50939-y</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>BAF45D-binding to HOX genes was differentially targeted in H9-derived spinal cord neural stem cells</dc:title>
+            
+	    
+            <dc:creator>Liu, Chang</dc:creator>
+            
+	    
+            <dc:creator>Xie, Yuxin</dc:creator>
+            
+	    
+            <dc:creator>Chen, Xueying</dc:creator>
+            
+	    
+            <dc:creator>Liu, Lihua</dc:creator>
+            
+	    
+            <dc:creator>Liu, Chao</dc:creator>
+            
+	    
+            <dc:creator>Yin, Zongsheng</dc:creator>
+            
+	    
+            <ns3:publicationName>Scientific Reports</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2045-2322</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41598-023-50939-y</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2024-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2024-01-02</ns3:publicationDate>
+            
+	    
+            <ns3:volume>14</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>11</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41598-023-50939-y</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41598-023-50939-y</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41598-023-50939-y.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2024 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>Chromatin accessibility has been used to define how cells adopt region-specific neural fates. BAF45D is one of the subunits of a specialised chromatin remodelling BAF complex. It has been reported that BAF45D is expressed in spinal cord neural stem cells (NSCs) and regulates their fate specification. Within the developing vertebrate spinal cord, HOX genes exhibit spatially restricted expression patterns. However, the chromatin accessibility of BAF45D binding HOX genes in spinal cord NSCs is unclear. In the present study, we found that in H9-derived spinal cord NSCs, BAF45D targets TBX6 , a gene that regulates spinal cord neural mesodermal progenitors. Furthermore, BAF45D binding to the NES gene is much more enriched in H9-derived spinal cord NSCs chromatin compared to ESCs chromatin. In addition, BAF45D binding to anterior and trunk/central HOX genes, but not to lumbosacral HOX genes, was much more enriched in NSCs chromatin compared to ESCs chromatin. These results may shed new light on the role of BAF45D in regulating region-specific spinal cord NSCs by targeting HOX genes.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41598</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2024-01-02</onlineDate>
+        <authors>
+          <author>Liu, Chang</author>
+          <author>Xie, Yuxin</author>
+          <author>Chen, Xueying</author>
+          <author>Liu, Lihua</author>
+          <author>Liu, Chao</author>
+          <author>Yin, Zongsheng</author>
+        </authors>
+        <disciplines>
+          <discipline id="2887" term="Technology and Engineering"/>
+          <discipline id="2867" term="Physical Sciences"/>
+          <discipline id="2874" term="Life Sciences"/>
+          <discipline id="3001" term="Behavioral Sciences and Psychology"/>
+          <discipline id="2971" term="Computer Science"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2024</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">China</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

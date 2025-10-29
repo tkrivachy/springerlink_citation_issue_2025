@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.691067",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08413-9",
+    "title": "Visible light-induced direct α C–H functionalization of alcohols",
+    "article_number": "467",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Linbin Niu",
+      "Jiamei Liu",
+      "Xing-An Liang",
+      "Shengchun Wang",
+      "Aiwen Lei"
+    ]
+  },
+  "article_index": 128,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T18:06:58.041299"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 178,
+      "retrieved_at": "2025-10-03T18:06:59.568319"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 158,
+      "retrieved_at": "2025-10-03T18:07:00.769252"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T22:56:15.969069"
+    },
+    "last_updated": "2025-10-03T22:56:15.969263"
+  }
+}

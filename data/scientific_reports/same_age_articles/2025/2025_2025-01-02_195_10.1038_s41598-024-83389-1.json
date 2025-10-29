@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.369157",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83389-1",
+    "title": "Sounds like gambling: detection of gambling venue visitation from sounds in gamblers’ environments using a transformer",
+    "article_number": "340",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kenji Yokotani",
+      "Tetsuya Yamamoto",
+      "Hideyuki Takahashi",
+      "Masahiro Takamura",
+      "Nobuhito Abe"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:09:54.973554"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:09:56.540771"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:34.480764"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:15:18.294891"
+    },
+    "last_updated": "2025-10-07T09:47:34.480975"
+  }
+}

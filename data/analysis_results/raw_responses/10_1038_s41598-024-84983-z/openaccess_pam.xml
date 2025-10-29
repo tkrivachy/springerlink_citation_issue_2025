@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-84983-z</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-024-84983-z</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Post-myocardial infarction ventricular septal defects: incidence and treatment trends during and after the COVID-19 pandemic</dc:title>
+          <dc:creator>Nasso, Giuseppe</dc:creator>
+          <dc:creator>Condello, Ignazio</dc:creator>
+          <dc:creator>Vignaroli, Walter</dc:creator>
+          <dc:creator>Antonazzo, Andrea</dc:creator>
+          <dc:creator>Bartolomucci, Francesco</dc:creator>
+          <dc:creator>Pala, Barbara</dc:creator>
+          <dc:creator>Larosa, Claudio</dc:creator>
+          <dc:creator>Pingitore, Annachiara</dc:creator>
+          <dc:creator>Amodeo, Vincenzo</dc:creator>
+          <dc:creator>Montemurro, Vincenzo</dc:creator>
+          <dc:creator>D’Abramo, Mizar</dc:creator>
+          <dc:creator>Ceravolo, Roberto</dc:creator>
+          <dc:creator>Donato, Domenica</dc:creator>
+          <dc:creator>Fratto, Pasquale</dc:creator>
+          <dc:creator>Rosis, Maria Grazia</dc:creator>
+          <dc:creator>Diaferia, Giuseppe</dc:creator>
+          <dc:creator>Torraco, Rita</dc:creator>
+          <dc:creator>Contegiacomo, Gaetano</dc:creator>
+          <dc:creator>Lembo, Guido</dc:creator>
+          <dc:creator>Brigiani, Mario Siro</dc:creator>
+          <dc:creator>Santarpino, Giuseppe</dc:creator>
+          <dc:creator>Speziale, Giuseppe</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn>2045-2322</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:doi>10.1038/s41598-024-84983-z</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <ns2:publicationDate>2025-01-02</ns2:publicationDate>
+          <ns2:volume>15</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>8</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-024-84983-z</ns2:url>
+          <ns2:copyright>©2025 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Ventricular septal defect (VSD) is a serious complication of myocardial infarction (MI), with its global incidence significantly reduced in recent years due to advances in coronary reperfusion techniques. However, during the COVID-19 pandemic, there was an unexpected rise in the incidence of post-MI VSD, likely driven by delays in seeking treatment. This study retrospectively analyzed 10 cases of post-MI VSD treated at our hospitals from March 2018 to August 2023, comparing incidence rates across pre-pandemic, pandemic, and post-pandemic periods. The findings revealed a notable increase in VSD cases during the pandemic, with six cases occurring in two years, compared to only two cases in each of the pre-pandemic and post-pandemic periods. Despite these fluctuations, surgical intervention remained a crucial and effective treatment, with 60% of patients surviving the 30-day follow-up. The study underscores the impact of delayed treatment on VSD incidence during the pandemic and highlights the critical need for timely medical intervention to manage severe MI complications effectively.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">COVID-19 pandemic</facet-value>
+      <facet-value count="1">Delayed treatment</facet-value>
+      <facet-value count="1">Myocardial infarction</facet-value>
+      <facet-value count="1">Post-MI complications</facet-value>
+      <facet-value count="1">Surgical correction</facet-value>
+      <facet-value count="1">Ventricular Setpal defect</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2025</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Italy</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

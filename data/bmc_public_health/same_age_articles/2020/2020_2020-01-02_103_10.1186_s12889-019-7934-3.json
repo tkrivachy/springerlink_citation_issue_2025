@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.681907",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-7934-3",
+    "title": "Mortality after hospital admission for heart failure: improvement over time, equally strong in women as in men",
+    "article_number": "36",
+    "publication_date": "2020-01-10",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "J. Buddeke",
+      "G. B. Valstar",
+      "I. van Dis",
+      "F. L. J. Visseren",
+      "F. H. Rutten",
+      "H. M. den Ruijter",
+      "I. Vaartjes",
+      "M. L. Bots"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:29:26.835436"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T13:29:28.541172"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T13:29:29.846771"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T21:13:35.740417"
+    },
+    "last_updated": "2025-10-03T21:13:35.740527"
+  }
+}

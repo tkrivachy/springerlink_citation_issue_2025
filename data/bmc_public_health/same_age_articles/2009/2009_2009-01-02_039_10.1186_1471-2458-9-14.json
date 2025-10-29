@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.794849",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-14",
+    "title": "Depression and body mass index, a u-shaped association",
+    "article_number": "14",
+    "publication_date": "2009-01-13",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Leonore M de Wit",
+      "Annemieke van Straten",
+      "Marieke van Herten",
+      "Brenda WJH Penninx",
+      "Pim Cuijpers"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 409,
+      "retrieved_at": "2025-10-03T12:36:32.846255"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 301,
+      "retrieved_at": "2025-10-03T12:36:34.418908"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 321,
+      "retrieved_at": "2025-10-03T12:36:36.070134"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 337,
+      "retrieved_at": "2025-10-03T20:54:21.691611"
+    },
+    "last_updated": "2025-10-03T20:54:21.691809"
+  }
+}

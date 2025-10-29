@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303757",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-55627-4",
+    "title": "SWeeP: representing large biological sequences datasets in compact vectors",
+    "article_number": "91",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Camilla Reginatto De Pierri",
+      "Ricardo Voyceik",
+      "Letícia Graziela Costa Santos de Mattos",
+      "Mariane Gonçalves Kulik",
+      "Josué Oliveira Camargo",
+      "Aryel Marlus Repula de Oliveira",
+      "Bruno Thiago de Lima Nichio",
+      "Jeroniza Nunes Marchaukoski",
+      "Antonio Camilo da Silva Filho",
+      "Dieval Guizelini",
+      "J. Miguel Ortega",
+      "Fabio O. Pedrosa",
+      "Roberto Tadeu Raittz"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:27:15.235783"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:27:16.802572"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:27:18.094251"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:34:12.770153"
+    },
+    "last_updated": "2025-10-03T21:34:12.770199"
+  }
+}

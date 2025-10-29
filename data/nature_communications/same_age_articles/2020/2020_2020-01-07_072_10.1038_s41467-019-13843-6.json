@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.885072",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13843-6",
+    "title": "Imaging of fluorescence anisotropy during photoswitching provides a simple readout for protein self-association",
+    "article_number": "21",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Namrata Ojha",
+      "Kristin H. Rainey",
+      "George H. Patterson"
+    ]
+  },
+  "article_index": 72,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:16:03.725526"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:16:05.252362"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:16:06.400437"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T22:59:08.498647"
+    },
+    "last_updated": "2025-10-03T22:59:08.498836"
+  }
+}

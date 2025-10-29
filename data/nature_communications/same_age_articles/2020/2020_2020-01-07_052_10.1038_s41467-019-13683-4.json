@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.882677",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13683-4",
+    "title": "Metal ions and sugar puckering balance single-molecule kinetic heterogeneity in RNA and DNA tertiary contacts",
+    "article_number": "104",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Fabio D. Steffen",
+      "Mokrane Khier",
+      "Danny Kowerko",
+      "Richard A. Cunha",
+      "Richard Börner",
+      "Roland K. O. Sigel"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:12:51.208943"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:12:52.744950"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:12:54.052842"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T22:58:03.817758"
+    },
+    "last_updated": "2025-10-03T22:58:03.817947"
+  }
+}

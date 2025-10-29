@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.206915",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80403-0",
+    "title": "Distribution, toxicity load, and risk assessment of dissolved metal in surface and overlying water at the Xiangjiang River in southern China",
+    "article_number": "109",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhifeng Huang",
+      "Saisai Zheng",
+      "Yan Liu",
+      "Xingru Zhao",
+      "Xiaocui Qiao",
+      "Chengyou Liu",
+      "Binghui Zheng",
+      "Daqiang Yin"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T14:38:32.537252"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T14:38:34.084290"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T14:38:35.391256"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T21:38:51.127734"
+    },
+    "last_updated": "2025-10-03T21:38:51.127927"
+  }
+}

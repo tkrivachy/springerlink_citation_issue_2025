@@ -1,0 +1,74 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535359",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55659-z",
+    "title": "Multiparametric MRI along with machine learning predicts prognosis and treatment response in pediatric low-grade glioma",
+    "article_number": "340",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anahita Fathi Kazerooni",
+      "Adam Kraya",
+      "Komal S. Rathi",
+      "Meen Chul Kim",
+      "Arastoo Vossough",
+      "Nastaran Khalili",
+      "Ariana M. Familiar",
+      "Deep Gandhi",
+      "Neda Khalili",
+      "Varun Kesherwani",
+      "Debanjan Haldar",
+      "Hannah Anderson",
+      "Run Jin",
+      "Aria Mahtabfar",
+      "Sina Bagheri",
+      "Yiran Guo",
+      "Qi Li",
+      "Xiaoyan Huang",
+      "Yuankun Zhu",
+      "Alex Sickler",
+      "Matthew R. Lueder",
+      "Saksham Phul",
+      "Mateusz Koptyra",
+      "Phillip B. Storm",
+      "Jeffrey B. Ware",
+      "Yuanquan Song",
+      "Christos Davatzikos",
+      "Jessica B. Foster",
+      "Sabine Mueller",
+      "Michael J. Fisher",
+      "Adam C. Resnick",
+      "Ali Nabavizadeh"
+    ]
+  },
+  "article_index": 162,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:45:48.716087"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:45:50.269813"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:51.474519"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:29:37.501296"
+    },
+    "last_updated": "2025-10-03T23:29:37.501534"
+  }
+}

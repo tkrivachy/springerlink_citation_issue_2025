@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.402627",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84109-5",
+    "title": "Evaluating the ability of large language models to emulate personality",
+    "article_number": "519",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yilei Wang",
+      "Jiabao Zhao",
+      "Deniz S. Ones",
+      "Liang He",
+      "Xin Xu"
+    ]
+  },
+  "article_index": 491,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T16:33:47.836031"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:33:49.428224"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:25.445297"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T22:23:34.219770"
+    },
+    "last_updated": "2025-10-07T09:52:25.445413"
+  }
+}

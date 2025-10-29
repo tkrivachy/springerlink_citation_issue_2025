@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.728330",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07878-4",
+    "title": "Role of APS reductase in biogeochemical sulfur isotope fractionation",
+    "article_number": "44",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Min Sub Sim",
+      "Hideaki Ogata",
+      "Wolfgang Lubitz",
+      "Jess F. Adkins",
+      "Alex L. Sessions",
+      "Victoria J. Orphan",
+      "Shawn E. McGlynn"
+    ]
+  },
+  "article_index": 470,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:28:40.649773"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:28:42.181827"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T17:28:43.504534"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T22:43:03.884580"
+    },
+    "last_updated": "2025-10-03T22:43:03.884667"
+  }
+}

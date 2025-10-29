@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701535",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08305-y",
+    "title": "A broadband achromatic polarization-insensitive metalens consisting of anisotropic nanostructures",
+    "article_number": "355",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wei Ting Chen",
+      "Alexander Y. Zhu",
+      "Jared Sisler",
+      "Zameer Bharwani",
+      "Federico Capasso"
+    ]
+  },
+  "article_index": 225,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 406,
+      "retrieved_at": "2025-10-03T17:50:12.496644"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 404,
+      "retrieved_at": "2025-10-03T17:50:14.080905"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 366,
+      "retrieved_at": "2025-10-03T17:50:16.052439"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 448,
+      "retrieved_at": "2025-10-03T22:50:18.887777"
+    },
+    "last_updated": "2025-10-03T22:50:18.887964"
+  }
+}

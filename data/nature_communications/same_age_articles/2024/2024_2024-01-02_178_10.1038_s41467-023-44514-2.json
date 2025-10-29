@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.693281",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44514-2",
+    "title": "Bipolar androgen therapy plus nivolumab for patients with metastatic castration-resistant prostate cancer: the COMBAT phase II trial",
+    "article_number": "14",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mark C. Markowski",
+      "Mary-Ellen Taplin",
+      "Rahul Aggarwal",
+      "Laura A. Sena",
+      "Hao Wang",
+      "Hanfei Qi",
+      "Aliya Lalji",
+      "Victoria Sinibaldi",
+      "Michael A. Carducci",
+      "Channing J. Paller",
+      "Catherine H. Marshall",
+      "Mario A. Eisenberger",
+      "David E. Sanin",
+      "Srinivasan Yegnasubramanian",
+      "Carolina Gomes-Alexandre",
+      "Busra Ozbek",
+      "Tracy Jones",
+      "Angelo M. De Marzo",
+      "Samuel R. Denmeade",
+      "Emmanuel S. Antonarakis"
+    ]
+  },
+  "article_index": 178,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:00:00.036631"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T19:00:01.573455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:00:02.751206"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:14:03.757886"
+    },
+    "last_updated": "2025-10-03T23:14:03.758077"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-024-84826-x",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-024-84826-x",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-024-84826-x"
+        }
+      ],
+      "title": "Applying the PROMETHEE II, WASPAS, and CoCoSo models for assessment of geotechnical hazards in TBM tunneling",
+      "creators": [
+        {
+          "ORCID": "0000-0002-7460-7900",
+          "creator": "Ghorbani, Sasan"
+        },
+        {
+          "creator": "Bour, Komeil"
+        },
+        {
+          "creator": "Javdan, Roohollah"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "doi": "10.1038/s41598-024-84826-x",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2025-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "15",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "19",
+      "journalId": "41598",
+      "openAccess": "true",
+      "onlineDate": "2025-01-02",
+      "coverDate": "2025-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": {
+        "h1": "Abstract",
+        "p": "Mechanized tunneling in harsh environments faces many hazards, which can stop tunneling operations for a long time. Due to the high investment volume in tunneling projects, it is imperative to predict and assess the geotechnical hazards. This research has tried to evaluate and introduce the most dangerous section of the Kerman water conveyance tunnel (KWCT) using multi-index decision-making techniques including PROMETHEE II, WASPAS, and CoCoSo models. For this purpose, at first, the most important hazards in the tunnel route including dealing with fault zones, water inflow into the tunnel, rock abrasivity, and squeezing potential were identified. Then, the most dangerous sections of the tunnel were determined using empirical and analytical methods. In the next step, the weight of each criterion at most dangerous sections was determined using Shannon’s entropy method. The results showed that using PROMETHEE II, WASPAS, and CoCoSo models, section Hz11 of the tunnel is the most dangerous section among all sections from a geotechnical point of view. Finally, this study suggests the PROMETHEE II-entropy, WASPAS-entropy, and CoCoSo-entropy models as the suitable methods with more accuracy among MCDM techniques for evaluating the geotechnical and geological hazards in a real situation of tunneling projects."
+      },
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "CoCoSo method",
+          "count": "1"
+        },
+        {
+          "value": "Geotechnical hazard",
+          "count": "1"
+        },
+        {
+          "value": "PROMETHEE II",
+          "count": "1"
+        },
+        {
+          "value": "Shannon’s entropy",
+          "count": "1"
+        },
+        {
+          "value": "WASPAS model",
+          "count": "1"
+        },
+        {
+          "value": "Water inrush",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2025",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Iran",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

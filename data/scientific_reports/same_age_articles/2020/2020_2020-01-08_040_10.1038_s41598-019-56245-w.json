@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303860",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56245-w",
+    "title": "Structure-activity relationship studies of four novel 4-aminopyridine K",
+    "article_number": "52",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sofia Rodríguez-Rangel",
+      "Alyssa D. Bravin",
+      "Karla M. Ramos-Torres",
+      "Pedro Brugarolas",
+      "Jorge E. Sánchez-Rodríguez"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T14:28:34.115172"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:28:35.667575"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T14:28:36.819632"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T21:34:44.902863"
+    },
+    "last_updated": "2025-10-03T21:34:44.903062"
+  }
+}

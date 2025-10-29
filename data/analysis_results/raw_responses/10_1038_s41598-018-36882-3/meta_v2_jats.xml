@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-018-36882-3</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-018-36882-3</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Sex hormone-binding globulin provides a novel entry pathway for estradiol and influences subsequent signaling in lymphocytes via membrane receptor</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Balogh</surname>
+                <given-names>Andrea</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Karpati</surname>
+                <given-names>Eva</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Schneider</surname>
+                <given-names>Andrea E.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Hetey</surname>
+                <given-names>Szabolcs</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Szilagyi</surname>
+                <given-names>Andras</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Juhasz</surname>
+                <given-names>Kata</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Laszlo</surname>
+                <given-names>Gloria</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Hupuczi</surname>
+                <given-names>Petronella</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Zavodszky</surname>
+                <given-names>Peter</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Papp</surname>
+                <given-names>Zoltan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9434-934X</contrib-id>
+              <name name-style="western">
+                <surname>Matko</surname>
+                <given-names>Janos</given-names>
+              </name>
+              <address>
+                <email>janos.matko@ttk.elte.hu</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9385-7019</contrib-id>
+              <name name-style="western">
+                <surname>Than</surname>
+                <given-names>Nandor Gabor</given-names>
+              </name>
+              <address>
+                <email>than.gabor@ttk.mta.hu</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>9</day>
+            <month>1</month>
+            <year>2019</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2019</year>
+          </pub-date>
+          <volume>9</volume>
+          <issue>1</issue>
+          <elocation-id>4</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-018-36882-3</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-018-36882-3.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2019</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              The complex effects of estradiol on non-reproductive tissues/cells, including lymphoid tissues and immunocytes, have increasingly been explored. However, the role of sex hormone binding globulin (SHBG) in the regulation of these genomic and non-genomic actions of estradiol is controversial. Moreover, the expression of SHBG and its internalization by potential receptors, as well as the influence of SHBG on estradiol uptake and signaling in lymphocytes has remained unexplored. Here, we found that human and mouse T cells expressed SHBG intrinsically. In addition, B lymphoid cell lines as well as both primary B and T lymphocytes bound and internalized external SHBG, and the amount of plasma membrane-bound SHBG decreased in B cells of pregnant compared to non-pregnant women. As potential mediators of this process, SHBG receptor candidates expressed by lymphocytes were identified 
+              <italic>in silico</italic>
+              , including estrogen receptor (ER) alpha. Furthermore, cell surface-bound SHBG was detected in close proximity to membrane ERs while highly colocalizing with lipid rafts. The SHBG-membrane ER interaction was found functional since SHBG promoted estradiol uptake by lymphocytes and subsequently influenced Erk1/2 phosphorylation. In conclusion, the SHBG-SHBG receptor-membrane ER complex participates in the rapid estradiol signaling in lymphocytes, and this pathway may be altered in B cells in pregnant women.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="06">Biological Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0601">Biochemistry and Cell Biology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Orsz&amp;amp;#x00E1;gos Tudom&amp;amp;#x00E1;nyos Kutat&amp;amp;#x00E1;si Alapprogramok (Hungarian Scientific Research Fund)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100003549</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">OTKA-PD 104398</award-id>
+              <award-id award-type="FundRef grant">OTKA-K 105415</award-id>
+              <award-id award-type="FundRef grant">OTKA-CK 80935</award-id>
+              <award-id award-type="FundRef grant">OTKA-K 124862</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Balogh</surname>
+                  <given-names>Andrea</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Szilagyi</surname>
+                  <given-names>Andras</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Matko</surname>
+                  <given-names>Janos</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Than</surname>
+                  <given-names>Nandor Gabor</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Magyar Tudom&amp;amp;#x00E1;nyos Akad&amp;amp;#x00E9;mia (Hungarian Academy of Sciences)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100003825</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">Momentum LP2014-7/2014</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Than</surname>
+                  <given-names>Nandor Gabor</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Hungarian National Research, Development and Innovation Fund Grant REf. No.: FIEK_16-1-2016-0005</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

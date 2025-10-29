@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:56.213464",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-024-20957-0",
+    "title": "Informal caregiving and mental health: results from the Belgian health interview survey 2013 and 2018",
+    "article_number": "15",
+    "publication_date": "2025-01-02",
+    "volume": "25",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Filip Van Droogenbroeck",
+      "Bram Spruyt",
+      "Pierre Gérain",
+      "Laura Van den Borre",
+      "Pierre Smith",
+      "Robby De Pauw",
+      "Sarah Dury"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:20:34.672579"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:20:36.280208"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:20:37.563903"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T21:31:37.338596"
+    },
+    "last_updated": "2025-10-03T21:31:37.338785"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.364053",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82953-z",
+    "title": "Parametric optimization of flow in a solar chimney power plant under variable semi elliptical constraints",
+    "article_number": "331",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Rajamurugu Natarajan",
+      "S. Yaknesh",
+      "K B Prakash",
+      "Mohammed Al Awadh",
+      "Qasem M. Al-Mdallal"
+    ]
+  },
+  "article_index": 146,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:03:15.071692"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:03:16.585868"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:03:17.808828"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:34:05.431678"
+    },
+    "last_updated": "2025-10-03T22:34:05.431726"
+  }
+}

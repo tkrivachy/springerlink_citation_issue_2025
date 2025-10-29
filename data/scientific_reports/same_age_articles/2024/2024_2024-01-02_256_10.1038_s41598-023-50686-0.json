@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.859735",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50686-0",
+    "title": "Using deep learning and molecular dynamics simulations to unravel the regulation mechanism of peptides as noncompetitive inhibitor of xanthine oxidase",
+    "article_number": "174",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yi He",
+      "Kaifeng Liu",
+      "Fuyan Cao",
+      "Renxiu Song",
+      "Jianxuan Liu",
+      "Yinghua Zhang",
+      "Wannan Li",
+      "Weiwei Han"
+    ]
+  },
+  "article_index": 256,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:58:21.636879"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:58:23.187498"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:58:24.477072"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T22:10:54.689888"
+    },
+    "last_updated": "2025-10-03T22:10:54.689974"
+  }
+}

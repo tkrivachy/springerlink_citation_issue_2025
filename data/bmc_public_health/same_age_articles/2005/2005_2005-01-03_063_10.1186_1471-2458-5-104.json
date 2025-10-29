@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.960509",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-104",
+    "title": "Differing mental health practice among general practitioners, private psychiatrists and public psychiatrists",
+    "article_number": "104",
+    "publication_date": "2005-10-07",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "N Younès",
+      "MC Hardy-Bayle",
+      "B Falissard",
+      "V Kovess",
+      "MP Chaillet",
+      "I Gasquet"
+    ]
+  },
+  "article_index": 63,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:21:22.782662"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T12:21:24.294879"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T12:21:25.556536"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T20:48:54.968132"
+    },
+    "last_updated": "2025-10-03T20:48:54.968319"
+  }
+}

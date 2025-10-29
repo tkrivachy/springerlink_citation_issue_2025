@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.208713",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80551-3",
+    "title": "Surgical outcomes after collagenase ",
+    "article_number": "166",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Andrea Cocci",
+      "David Ralph",
+      "Rados Djinovic",
+      "Georgios Hatzichristodoulou",
+      "Girolamo Morelli",
+      "Andrea Salonia",
+      "Paolo Capogrosso",
+      "Andrea Romano",
+      "Gianmartin Cito",
+      "Fabrizio Di Maida",
+      "Esaú Fernández-Pascual",
+      "Javier Romero-Otero",
+      "Paulo Egydio",
+      "Marco Falcone",
+      "Mirko Preto",
+      "Giovanni Chiriacò",
+      "Jack Beck",
+      "Maarten Albersen",
+      "Suks Minhas",
+      "Giovanni Cacciamani",
+      "Juan Ignacio Martinez Salamanca",
+      "Nicola Mondani",
+      "Andrea Minervini",
+      "Giorgio Ivan Russo"
+    ]
+  },
+  "article_index": 43,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:39:46.417257"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:39:47.988306"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:39:49.170886"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:39:18.666306"
+    },
+    "last_updated": "2025-10-03T21:39:18.666421"
+  }
+}

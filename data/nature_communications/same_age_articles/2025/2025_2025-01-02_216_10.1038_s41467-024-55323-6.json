@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.541169",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55323-6",
+    "title": "Multimaterial cryogenic printing of three-dimensional soft hydrogel machines",
+    "article_number": "185",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinhao Li",
+      "Jie Cao",
+      "Rong Bian",
+      "Rongtai Wan",
+      "Xiangyang Zhu",
+      "Baoyang Lu",
+      "Guoying Gu"
+    ]
+  },
+  "article_index": 216,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:36:54.188887"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:36:55.754242"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:36:56.943689"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:26:20.808051"
+    },
+    "last_updated": "2025-10-03T23:26:20.808136"
+  }
+}

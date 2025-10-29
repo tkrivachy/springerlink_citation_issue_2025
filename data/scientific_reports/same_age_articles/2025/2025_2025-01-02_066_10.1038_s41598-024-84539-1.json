@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.348305",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84539-1",
+    "title": "DCUN1D5 is a prognostic biomarker and correlated immune infiltrates and glycolysis in lung adenocarcinoma",
+    "article_number": "403",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Song Zhao",
+      "Xiaoli Han",
+      "Jingtao Huang",
+      "Jingxiong Zheng",
+      "Baoshan Zhao",
+      "Zongying Liang"
+    ]
+  },
+  "article_index": 66,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:01:26.826290"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:01:28.334183"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:01:29.513281"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:33:24.351295"
+    },
+    "last_updated": "2025-10-03T22:33:24.351527"
+  }
+}

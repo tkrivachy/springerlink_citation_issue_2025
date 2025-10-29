@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.741965",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-100",
+    "title": "Public knowledge and preventive behavior during a large-scale Salmonella outbreak: results from an online survey in the Netherlands",
+    "article_number": "100",
+    "publication_date": "2014-01-31",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Lex van Velsen",
+      "Desirée JMA Beaujean",
+      "Julia EWC van Gemert-Pijnen",
+      "Jim E van Steenbergen",
+      "Aura Timen"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T13:03:53.414573"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:03:54.965311"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T13:03:56.301081"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:04:15.858125"
+    },
+    "last_updated": "2025-10-03T21:04:15.858238"
+  }
+}

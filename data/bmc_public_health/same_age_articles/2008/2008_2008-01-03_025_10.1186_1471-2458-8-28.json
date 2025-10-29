@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:33.997895",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-28",
+    "title": "Status and perspectives of hospital mortality in a public urban Hellenic hospital, based on a five-year review",
+    "article_number": "28",
+    "publication_date": "2008-01-23",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Iordanis N Papadopoulos",
+      "Maria Papaefthymiou",
+      "Leonidas Roumeliotis",
+      "Vasilios G Panagopoulos",
+      "Anna Stefanidou",
+      "Anastasia Kostaki"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T12:29:01.561691"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:29:03.065419"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T12:29:04.311522"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T20:51:41.580267"
+    },
+    "last_updated": "2025-10-03T20:51:41.580377"
+  }
+}

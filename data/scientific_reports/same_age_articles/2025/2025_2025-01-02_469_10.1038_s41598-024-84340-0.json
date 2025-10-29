@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.400312",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84340-0",
+    "title": "Prevalence of metal implants among US adults aged 40 years and older",
+    "article_number": "584",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qiu-Fu Wang",
+      "Yu-Chen Tang",
+      "Hao-Ran Liao",
+      "Miao Lei",
+      "Wei Dong",
+      "Ze-Yu Liu",
+      "Jie Hao",
+      "Zhen-Ming Hu"
+    ]
+  },
+  "article_index": 469,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:24:23.048120"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:24:24.551976"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:35.531112"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:20:22.857033"
+    },
+    "last_updated": "2025-10-07T09:50:35.531172"
+  }
+}

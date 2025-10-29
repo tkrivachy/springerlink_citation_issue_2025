@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.737549",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07835-1",
+    "title": "Defect engineered bioactive transition metals dichalcogenides quantum dots",
+    "article_number": "41",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xianguang Ding",
+      "Fei Peng",
+      "Jun Zhou",
+      "Wenbin Gong",
+      "Garaj Slaven",
+      "Kian Ping Loh",
+      "Chwee Teck Lim",
+      "David Tai Leong"
+    ]
+  },
+  "article_index": 555,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 181,
+      "retrieved_at": "2025-10-03T17:11:10.142308"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 212,
+      "retrieved_at": "2025-10-03T17:11:11.698227"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 200,
+      "retrieved_at": "2025-10-03T17:11:13.243428"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 223,
+      "retrieved_at": "2025-10-03T22:37:02.415504"
+    },
+    "last_updated": "2025-10-03T22:37:02.415693"
+  }
+}

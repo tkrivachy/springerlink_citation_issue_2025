@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.679449",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8183-1",
+    "title": "The association between self-compassion and self-rated health in 26 samples",
+    "article_number": "74",
+    "publication_date": "2020-01-16",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Fuschia M. Sirois"
+    ]
+  },
+  "article_index": 92,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T13:36:08.338891"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:36:09.901036"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T13:36:11.155648"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:16:02.956775"
+    },
+    "last_updated": "2025-10-03T21:16:02.956959"
+  }
+}

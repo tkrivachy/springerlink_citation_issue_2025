@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:34.000123",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-11",
+    "title": "Barriers and enablers in the management of tuberculosis treatment in Addis Ababa, Ethiopia: a qualitative study",
+    "article_number": "11",
+    "publication_date": "2008-01-11",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mette Sagbakken",
+      "Jan C Frich",
+      "Gunnar Bjune"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 151,
+      "retrieved_at": "2025-10-03T12:29:51.285376"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T12:29:52.864245"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T12:29:54.226712"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 114,
+      "retrieved_at": "2025-10-03T20:51:58.906712"
+    },
+    "last_updated": "2025-10-03T20:51:58.906809"
+  }
+}

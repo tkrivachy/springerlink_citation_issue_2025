@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.881003",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13853-4",
+    "title": "GM-CSF drives dysregulated hematopoietic stem cell activity and pathogenic extramedullary myelopoiesis in experimental spondyloarthritis",
+    "article_number": "155",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daniel Regan-Komito",
+      "James W. Swann",
+      "Philippos Demetriou",
+      "E. Suzanne Cohen",
+      "Nicole J. Horwood",
+      "Stephen N. Sansom",
+      "Thibault Griseri"
+    ]
+  },
+  "article_index": 38,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T18:21:32.014409"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T18:21:33.580496"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T18:21:34.931757"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T23:01:03.804887"
+    },
+    "last_updated": "2025-10-03T23:01:03.805080"
+  }
+}

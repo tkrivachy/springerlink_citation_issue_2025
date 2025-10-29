@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.369256",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84810-5",
+    "title": "Assessing the performance and interpretability of the CNN-LSTM-Attention model for daily streamflow forecasting in typical basins of the eastern Qinghai-Tibet Plateau",
+    "article_number": "82",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chuchu Zhang",
+      "Yuyan Zhou",
+      "Fan Lu",
+      "Jianwei Liu",
+      "Jiayue Zhang",
+      "Zeying Yin",
+      "Mengyi Ji",
+      "Baoqi Li"
+    ]
+  },
+  "article_index": 196,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T16:06:43.412705"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T16:06:44.926497"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:55.040246"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T22:14:07.886523"
+    },
+    "last_updated": "2025-10-07T09:46:55.040500"
+  }
+}

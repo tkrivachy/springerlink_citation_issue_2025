@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.212079",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79699-9",
+    "title": "Comparison of short-pulse subthreshold (532 nm) and infrared micropulse (810 nm) macular laser for diabetic macular edema",
+    "article_number": "14",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Abdulrahman Al-Barki",
+      "Lamia Al-Hijji",
+      "Robin High",
+      "Patrik Schatz",
+      "Diana Do",
+      "Quan D. Nguyen",
+      "Jeffrey K. Luttrull",
+      "Igor Kozak"
+    ]
+  },
+  "article_index": 66,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:34:58.599615"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:35:00.127395"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:35:01.343372"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:37:25.125050"
+    },
+    "last_updated": "2025-10-03T21:37:25.125109"
+  }
+}

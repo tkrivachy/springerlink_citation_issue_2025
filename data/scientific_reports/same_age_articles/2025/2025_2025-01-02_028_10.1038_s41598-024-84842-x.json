@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.344410",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84842-x",
+    "title": "Machine learning-based analysis of microfluidic device immobilized ",
+    "article_number": "15",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Andrew DuPlissis",
+      "Abhishri Medewar",
+      "Evan Hegarty",
+      "Adam Laing",
+      "Amber Shen",
+      "Sebastian Gomez",
+      "Sudip Mondal",
+      "Adela Ben-Yakar"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:53:39.638124"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:53:41.243994"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:53:42.478454"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:30:44.521117"
+    },
+    "last_updated": "2025-10-03T22:30:44.521308"
+  }
+}

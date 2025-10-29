@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.244472",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1429-7",
+    "title": "Motives for adult participation in physical activity: type of activity, age, and gender",
+    "article_number": "66",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Keyvan Molanorouzi",
+      "Selina Khoo",
+      "Tony Morris"
+    ]
+  },
+  "article_index": 51,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 329,
+      "retrieved_at": "2025-10-03T13:09:32.517016"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 271,
+      "retrieved_at": "2025-10-03T13:09:34.047383"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 232,
+      "retrieved_at": "2025-10-03T13:09:35.507615"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 316,
+      "retrieved_at": "2025-10-03T21:06:17.153434"
+    },
+    "last_updated": "2025-10-03T21:06:17.153627"
+  }
+}

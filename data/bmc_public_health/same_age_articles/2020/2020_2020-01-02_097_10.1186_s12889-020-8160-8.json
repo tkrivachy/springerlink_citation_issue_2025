@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.680913",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8160-8",
+    "title": "HIV/AIDS treatment failure and associated factors in Ethiopia: meta-analysis",
+    "article_number": "82",
+    "publication_date": "2020-01-20",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Aklilu Endalamaw",
+      "Mengistu Mekonnen",
+      "Demeke Geremew",
+      "Fikadu Ambaw Yehualashet",
+      "Hiwot Tesera",
+      "Tesfa Dejenie Habtewold"
+    ]
+  },
+  "article_index": 97,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T13:34:51.763141"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T13:34:53.322362"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T13:34:54.627584"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T21:15:32.696396"
+    },
+    "last_updated": "2025-10-03T21:15:32.696604"
+  }
+}

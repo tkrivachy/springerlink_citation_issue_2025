@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704988",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08250-2",
+    "title": "The effect of publishing peer review reports on referee behavior in five scholarly journals",
+    "article_number": "322",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Giangiacomo Bravo",
+      "Francisco Grimaldo",
+      "Emilia López-Iñesta",
+      "Bahar Mehmani",
+      "Flaminio Squazzoni"
+    ]
+  },
+  "article_index": 256,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T17:16:18.039432"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T17:16:19.588886"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T17:16:20.759463"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T22:38:54.303147"
+    },
+    "last_updated": "2025-10-03T22:38:54.303371"
+  }
+}

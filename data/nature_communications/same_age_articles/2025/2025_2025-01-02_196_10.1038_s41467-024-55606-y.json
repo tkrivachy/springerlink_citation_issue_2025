@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.539024",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55606-y",
+    "title": "Changing patterns of global nitrogen deposition driven by socio-economic development",
+    "article_number": "46",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jianxing Zhu",
+      "Yanlong Jia",
+      "Guirui Yu",
+      "Qiufeng Wang",
+      "Nianpeng He",
+      "Zhi Chen",
+      "Honglin He",
+      "Xianjin Zhu",
+      "Pan Li",
+      "Fusuo Zhang",
+      "Xuejun Liu",
+      "Keith Goulding",
+      "David Fowler",
+      "Peter Vitousek"
+    ]
+  },
+  "article_index": 196,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:45:59.657663"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:46:01.233954"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:46:02.408411"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T23:29:41.749738"
+    },
+    "last_updated": "2025-10-03T23:29:41.749925"
+  }
+}

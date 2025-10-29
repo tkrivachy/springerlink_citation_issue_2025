@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.634285",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35714-3",
+    "title": "Quantum interference between dark-excitons and zone-edged acoustic phonons in few-layer WS",
+    "article_number": "88",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qing-Hai Tan",
+      "Yun-Mei Li",
+      "Jia-Min Lai",
+      "Yu-Jia Sun",
+      "Zhe Zhang",
+      "Feilong Song",
+      "Cedric Robert",
+      "Xavier Marie",
+      "Weibo Gao",
+      "Ping-Heng Tan",
+      "Jun Zhang"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:55:25.505452"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:55:27.085212"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:55:28.382628"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T23:12:29.689308"
+    },
+    "last_updated": "2025-10-03T23:12:29.689417"
+  }
+}

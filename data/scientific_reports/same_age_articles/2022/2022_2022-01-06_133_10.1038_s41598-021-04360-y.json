@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.871232",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04360-y",
+    "title": "Vulnerability of SARS-CoV-2 and PR8 H1N1 virus to cold atmospheric plasma activated media",
+    "article_number": "263",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Osvaldo Daniel Cortázar",
+      "Ana Megía-Macías",
+      "Sandra Moreno",
+      "Alejandro Brun",
+      "Eduardo Gómez-Casado"
+    ]
+  },
+  "article_index": 133,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:11:09.286633"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:11:10.809960"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:11:12.116209"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:51:50.351297"
+    },
+    "last_updated": "2025-10-03T21:51:50.351524"
+  }
+}

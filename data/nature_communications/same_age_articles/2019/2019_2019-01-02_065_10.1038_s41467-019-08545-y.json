@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.683993",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08545-y",
+    "title": "Author Correction: A scalable peptide-GPCR language for engineering multicellular communication",
+    "article_number": "554",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sonja Billerbeck",
+      "James Brisbois",
+      "Neta Agmon",
+      "Miguel Jimenez",
+      "Jasmine Temple",
+      "Michael Shen",
+      "Jef D. Boeke",
+      "Virginia W. Cornish"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:33:07.370975"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:33:08.873497"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:33:10.072672"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:44:38.088659"
+    },
+    "last_updated": "2025-10-03T22:44:38.088843"
+  }
+}

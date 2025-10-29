@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.696969",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08176-9",
+    "title": "Crystal structure of the plant symporter STP10 illuminates sugar uptake mechanism in monosaccharide transporter superfamily",
+    "article_number": "407",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Peter Aasted Paulsen",
+      "Tânia F. Custódio",
+      "Bjørn Panyella Pedersen"
+    ]
+  },
+  "article_index": 183,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:08:54.431989"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T18:08:55.963792"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:08:57.340440"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T22:56:52.017694"
+    },
+    "last_updated": "2025-10-03T22:56:52.017887"
+  }
+}

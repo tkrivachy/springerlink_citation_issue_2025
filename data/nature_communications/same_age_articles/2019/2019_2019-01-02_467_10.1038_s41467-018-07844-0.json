@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.727975",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07844-0",
+    "title": "Publisher Correction: Encryption and steganography of synthetic gene circuits",
+    "article_number": "154",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Oliver Purcell",
+      "Jerry Wang",
+      "Piro Siuti",
+      "Timothy K. Lu"
+    ]
+  },
+  "article_index": 467,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:33:01.743201"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:33:03.293492"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:33:04.484189"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:44:35.856151"
+    },
+    "last_updated": "2025-10-03T22:44:35.856366"
+  }
+}

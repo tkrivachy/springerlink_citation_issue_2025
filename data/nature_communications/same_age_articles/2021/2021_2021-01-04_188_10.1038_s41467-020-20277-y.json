@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.203200",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20277-y",
+    "title": "Humanizing the yeast origin recognition complex",
+    "article_number": "33",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Clare S. K. Lee",
+      "Ming Fung Cheung",
+      "Jinsen Li",
+      "Yongqian Zhao",
+      "Wai Hei Lam",
+      "Vincy Ho",
+      "Remo Rohs",
+      "Yuanliang Zhai",
+      "Danny Leung",
+      "Bik-Kwoon Tye"
+    ]
+  },
+  "article_index": 188,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:31:34.080130"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:31:35.623706"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:31:36.957696"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T23:04:34.142256"
+    },
+    "last_updated": "2025-10-03T23:04:34.142496"
+  }
+}

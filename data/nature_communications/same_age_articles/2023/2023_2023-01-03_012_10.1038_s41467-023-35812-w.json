@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.632621",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-023-35812-w",
+    "title": "Creating bulk ultrastable glasses by random particle bonding",
+    "article_number": "113",
+    "publication_date": "2023-01-07",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Misaki Ozawa",
+      "Yasutaka Iwashita",
+      "Walter Kob",
+      "Francesco Zamponi"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:54:02.813887"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:54:04.327404"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:54:05.613279"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T23:11:59.860245"
+    },
+    "last_updated": "2025-10-03T23:11:59.860482"
+  }
+}

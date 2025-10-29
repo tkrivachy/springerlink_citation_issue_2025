@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.517791",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55321-8",
+    "title": "TOPS-speed complex-valued convolutional accelerator for feature extraction and inference",
+    "article_number": "292",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yunping Bai",
+      "Yifu Xu",
+      "Shifan Chen",
+      "Xiaotian Zhu",
+      "Shuai Wang",
+      "Sirui Huang",
+      "Yuhang Song",
+      "Yixuan Zheng",
+      "Zhihui Liu",
+      "Sim Tan",
+      "Roberto Morandotti",
+      "Sai T. Chu",
+      "Brent E. Little",
+      "David J. Moss",
+      "Xingyuan Xu",
+      "Kun Xu"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:36:30.924413"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:36:32.454576"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:36:33.646318"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:26:12.422502"
+    },
+    "last_updated": "2025-10-03T23:26:12.422689"
+  }
+}

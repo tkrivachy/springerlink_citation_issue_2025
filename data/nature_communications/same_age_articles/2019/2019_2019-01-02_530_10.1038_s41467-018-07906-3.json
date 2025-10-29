@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.734806",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07906-3",
+    "title": "Structural insights into trans-histone regulation of H3K4 methylation by unique histone H4 binding of MLL3/4",
+    "article_number": "36",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yanli Liu",
+      "Su Qin",
+      "Tsai-Yu Chen",
+      "Ming Lei",
+      "Shilpa S. Dhar",
+      "Jolene Caifeng Ho",
+      "Aiping Dong",
+      "Peter Loppnau",
+      "Yanjun Li",
+      "Min Gyu Lee",
+      "Jinrong Min"
+    ]
+  },
+  "article_index": 530,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:41:43.760315"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:41:45.265751"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:41:46.749792"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T22:47:24.757683"
+    },
+    "last_updated": "2025-10-03T22:47:24.757870"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.302788",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56673-8",
+    "title": "Optical absorption in array of Ge/Al-shell nanoparticles in an Alumina matrix",
+    "article_number": "65",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Vito Despoja",
+      "Lovro Basioli",
+      "Jordi Sancho Parramon",
+      "Maja Mičetić"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:28:51.179653"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:28:52.684291"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:28:53.970393"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:34:51.498541"
+    },
+    "last_updated": "2025-10-03T21:34:51.498742"
+  }
+}

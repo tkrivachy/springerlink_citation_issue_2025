@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.522751",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55647-3",
+    "title": "NHSL3 controls single and collective cell migration through two distinct mechanisms",
+    "article_number": "205",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nikita M. Novikov",
+      "Jinmei Gao",
+      "Artem I. Fokin",
+      "Nathalie Rocques",
+      "Giovanni Chiappetta",
+      "Karina D. Rysenkova",
+      "Diego Javier Zea",
+      "Anna Polesskaya",
+      "Joelle Vinh",
+      "Raphael Guerois",
+      "Alexis M. Gautreau"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:07.015579"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:32:08.569762"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:09.751150"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:24:44.168525"
+    },
+    "last_updated": "2025-10-03T23:24:44.168611"
+  }
+}

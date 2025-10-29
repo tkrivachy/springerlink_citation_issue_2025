@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.509419",
+  "year": 2025,
+  "article_type": "article_1",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-52768-7",
+    "title": "Electronic structure formed by Y",
+    "article_number": "1",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shijie Wang",
+      "Kang Liang",
+      "Hongshun Zhao",
+      "Min Wu",
+      "Junfeng He",
+      "Peng Wei",
+      "Zhengping Ding",
+      "Jianbin Li",
+      "Xiaobing Huang",
+      "Yurong Ren"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T19:14:57.009659"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 577,
+      "retrieved_at": "2025-10-03T19:14:58.693956"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:14:59.850489"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 292,
+      "retrieved_at": "2025-10-03T23:19:10.393118"
+    },
+    "last_updated": "2025-10-03T23:19:10.393308"
+  }
+}

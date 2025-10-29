@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.608997",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02371-w",
+    "title": "Structure function and engineering of multifunctional non-heme iron dependent oxygenases in fungal meroterpenoid biosynthesis",
+    "article_number": "104",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu Nakashima",
+      "Takahiro Mori",
+      "Hitomi Nakamura",
+      "Takayoshi Awakawa",
+      "Shotaro Hoshino",
+      "Miki Senda",
+      "Toshiya Senda",
+      "Ikuro Abe"
+    ]
+  },
+  "article_index": 37,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:05.244145",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T11:43:55.399269"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:06:03.454423"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T17:06:04.637957"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T22:35:05.243957"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.640644",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35778-1",
+    "title": "Dysregulation of PRMT5 in chronic lymphocytic leukemia promotes progression with high risk of Richter’s transformation",
+    "article_number": "97",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zachary A. Hing",
+      "Janek S. Walker",
+      "Ethan C. Whipp",
+      "Lindsey Brinton",
+      "Matthew Cannon",
+      "Pu Zhang",
+      "Steven Sher",
+      "Casey B. Cempre",
+      "Fiona Brown",
+      "Porsha L. Smith",
+      "Claudio Agostinelli",
+      "Stefano A. Pileri",
+      "Jordan N. Skinner",
+      "Katie Williams",
+      "Hannah Phillips",
+      "Jami Shaffer",
+      "Larry P. Beaver",
+      "Alexander Pan",
+      "Kyle Shin",
+      "Charles T. Gregory",
+      "Gulcin H. Ozer",
+      "Selen A. Yilmaz",
+      "Bonnie K. Harrington",
+      "Amy M. Lehman",
+      "Lianbo Yu",
+      "Vincenzo Coppola",
+      "Pearlly Yan",
+      "Peggy Scherle",
+      "Min Wang",
+      "Philip Pitis",
+      "Chaoyi Xu",
+      "Kris Vaddi",
+      "Selina Chen-Kiang",
+      "Jennifer Woyach",
+      "James S. Blachly",
+      "Lapo Alinari",
+      "Yiping Yang",
+      "John C. Byrd",
+      "Robert A. Baiocchi",
+      "Bradley W. Blaser",
+      "Rosa Lapalombella"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:52:25.245969"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:52:26.890730"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T18:52:28.062655"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T23:11:27.708816"
+    },
+    "last_updated": "2025-10-03T23:11:27.709005"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.585367",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12426-9",
+    "title": "Characterizing the transmission patterns of seasonal influenza in Italy: lessons from the last decade",
+    "article_number": "19",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Filippo Trentini",
+      "Elena Pariani",
+      "Antonino Bella",
+      "Giulio Diurno",
+      "Lucia Crottogini",
+      "Caterina Rizzo",
+      "Stefano Merler",
+      "Marco Ajelli"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:07:19.362097"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:07:20.912132"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:07:22.173471"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:27:08.690568"
+    },
+    "last_updated": "2025-10-03T21:27:08.690655"
+  }
+}

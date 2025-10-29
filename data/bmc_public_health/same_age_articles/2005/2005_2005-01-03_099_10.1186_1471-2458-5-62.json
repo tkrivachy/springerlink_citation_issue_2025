@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.964257",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-62",
+    "title": "DOTS improves treatment outcomes and service coverage for tuberculosis in South Ethiopia: a retrospective trend analysis",
+    "article_number": "62",
+    "publication_date": "2005-06-06",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Estifanos B Shargie",
+      "Bernt Lindtjørn"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T12:21:01.777864"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T12:21:03.346407"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T12:21:04.666911"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T20:48:48.143540"
+    },
+    "last_updated": "2025-10-03T20:48:48.143737"
+  }
+}

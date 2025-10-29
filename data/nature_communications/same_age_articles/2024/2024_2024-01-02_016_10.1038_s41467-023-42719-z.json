@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.667421",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-42719-z",
+    "title": "Quantum plasmonics pushes chiral sensing limit to single molecules: a paradigm for chiral biodetections",
+    "article_number": "2",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chi Zhang",
+      "Huatian Hu",
+      "Chunmiao Ma",
+      "Yawen Li",
+      "Xujie Wang",
+      "Dongyao Li",
+      "Artur Movsesyan",
+      "Zhiming Wang",
+      "Alexander Govorov",
+      "Quan Gan",
+      "Tao Ding"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:58:14.221843"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T18:58:15.784651"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:58:16.978124"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:13:29.016827"
+    },
+    "last_updated": "2025-10-03T23:13:29.017016"
+  }
+}

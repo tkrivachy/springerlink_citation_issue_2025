@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.518153",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55451-z",
+    "title": "Fam102a translocates Runx2 and Rbpjl to facilitate Osterix expression and bone formation",
+    "article_number": "9",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu Yamashita",
+      "Mikihito Hayashi",
+      "Anhao Liu",
+      "Fumiyuki Sasaki",
+      "Yosuke Tsuchiya",
+      "Hiroshi Takayanagi",
+      "Mitsuru Saito",
+      "Tomoki Nakashima"
+    ]
+  },
+  "article_index": 57,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:22:23.236992"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:22:24.812615"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:22:26.024061"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:21:37.826899"
+    },
+    "last_updated": "2025-10-03T23:21:37.827091"
+  }
+}

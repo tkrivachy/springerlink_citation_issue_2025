@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.689927",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08016-w",
+    "title": "Highly twisted supercoils for superelastic multi-functional fibres",
+    "article_number": "426",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wonkyeong Son",
+      "Sungwoo Chun",
+      "Jae Myeong Lee",
+      "Yourack Lee",
+      "Jeongmin Park",
+      "Dongseok Suh",
+      "Duck Weon Lee",
+      "Hachul Jung",
+      "Young-Jin Kim",
+      "Younghoon Kim",
+      "Soon Moon Jeong",
+      "Sang Kyoo Lim",
+      "Changsoon Choi"
+    ]
+  },
+  "article_index": 118,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:02:36.427385"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T18:02:37.954467"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:02:39.333299"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T22:54:42.475072"
+    },
+    "last_updated": "2025-10-03T22:54:42.475261"
+  }
+}

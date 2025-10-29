@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-6-16</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/1471-2458-6-16</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">All-cause and Cardiovascular mortality among ethnic German immigrants from the Former Soviet Union: a cohort study</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Ronellenfitsch</surname>
+                <given-names>Ulrich</given-names>
+              </name>
+              <address>
+                <email>ulrich.ronellenfitsch@urz.uni-heidelberg.de</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Kyobutungi</surname>
+                <given-names>Catherine</given-names>
+              </name>
+              <address>
+                <email>c.kyobutungi@urz.uni-hd.de</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Becher</surname>
+                <given-names>Heiko</given-names>
+              </name>
+              <address>
+                <email>heiko.becher@urz.uni-heidelberg.de</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Razum</surname>
+                <given-names>Oliver</given-names>
+              </name>
+              <address>
+                <email>oliver.razum@uni-bielefeld.de</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>26</day>
+            <month>1</month>
+            <year>2006</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2006</year>
+          </pub-date>
+          <volume>6</volume>
+          <issue>1</issue>
+          <elocation-id>16</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-6-16</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-6-16</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© Ronellenfitsch et al; licensee BioMed Central Ltd. 2006</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>
+                Migration is a phenomenon of particular Public Health importance. Since 1990, almost 2 million ethnic Germans (
+                <italic>Aussiedler</italic>
+                ) have migrated from the former Soviet Union (FSU) to Germany. This study compares their overall and cardiovascular disease (CVD) mortality to that of Germany's general population. Because of high overall and CVD mortality in the FSU and low socio-economic status of 
+                <italic>Aussiedler</italic>
+                 in Germany, we hypothesize that their mortality is higher.
+              </p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>
+                We conducted a retrospective cohort study for 1990–2002 with data of 34,393 
+                <italic>Aussiedler</italic>
+                . We assessed vital status at population registries and causes of death at the state statistical office. We calculated standardized mortality ratios (SMRs) for the whole cohort and substrata of covariables such as age, sex and family size. To assess multivariate effects, we used Poisson regression.
+              </p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>
+                1657 cohort members died before December 31, 2002, and 680 deaths (41.03%) were due to CVD. The SMR for the whole cohort was 0.85 (95%-CI 0.81–0.89) for all causes of death and 0.79 (95%-CI 0.73–0.85) for CVD. SMRs were higher than one for younger 
+                <italic>Aussiedler</italic>
+                 and lower for older ones. There was no clear effect of duration of stay on SMRs. For 1990–93, SMRs were significantly lower than in subsequent years. In families comprising at least five members upon arrival in Germany, SMRs were significantly lower than in smaller families.
+              </p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusion</title>
+              <p>
+                In contrast to our hypothesis on migrants' health, overall and CVD mortality among 
+                <italic>Aussiedler</italic>
+                 is lower than in Germany's general population. Possible explanations are a substantially better health status of 
+                <italic>Aussiedler</italic>
+                 in the FSU as compared to the local average, a higher perceived socio-economic status of 
+                <italic>Aussiedler</italic>
+                 in Germany, or selection effects. SMR differences between substrata need further exploration, and risk factor data are needed.
+              </p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Host Country</kwd>
+            <kwd>Cohort Member</kwd>
+            <kwd>Former Soviet Union</kwd>
+            <kwd>Risk Factor Profile</kwd>
+            <kwd>Healthy Migrant Effect</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

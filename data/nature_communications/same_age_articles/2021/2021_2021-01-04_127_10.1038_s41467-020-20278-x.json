@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.194837",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20278-x",
+    "title": "π-phase modulated monolayer supercritical lens",
+    "article_number": "32",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Fei Qin",
+      "Boqing Liu",
+      "Linwei Zhu",
+      "Jian Lei",
+      "Wei Fang",
+      "Dejiao Hu",
+      "Yi Zhu",
+      "Wendi Ma",
+      "Bowen Wang",
+      "Tan Shi",
+      "Yaoyu Cao",
+      "Bai-ou Guan",
+      "Cheng-wei Qiu",
+      "Yuerui Lu",
+      "Xiangping Li"
+    ]
+  },
+  "article_index": 127,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:27:23.676390"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:27:25.191728"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:27:26.387494"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T23:03:06.550372"
+    },
+    "last_updated": "2025-10-03T23:03:06.550449"
+  }
+}

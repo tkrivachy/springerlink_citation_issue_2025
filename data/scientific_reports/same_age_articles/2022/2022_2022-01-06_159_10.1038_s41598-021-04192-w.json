@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.874214",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04192-w",
+    "title": "The evolution of extraordinary self-sacrifice",
+    "article_number": "90",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "D. B. Krupp",
+      "Wes Maciejewski"
+    ]
+  },
+  "article_index": 159,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:11:15.398268"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:11:16.909228"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:11:18.055764"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:51:53.286977"
+    },
+    "last_updated": "2025-10-03T21:51:53.287026"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694665",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08236-0",
+    "title": "Diverse motif ensembles specify non-redundant DNA binding activities of AP-1 family members in macrophages",
+    "article_number": "414",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gregory J. Fonseca",
+      "Jenhan Tao",
+      "Emma M. Westin",
+      "Sascha H. Duttke",
+      "Nathanael J. Spann",
+      "Tobias Strid",
+      "Zeyang Shen",
+      "Joshua D. Stender",
+      "Mashito Sakai",
+      "Verena M. Link",
+      "Christopher Benner",
+      "Christopher K. Glass"
+    ]
+  },
+  "article_index": 161,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T17:44:10.140590"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:44:11.693490"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T17:44:13.306855"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T22:48:19.299569"
+    },
+    "last_updated": "2025-10-03T22:48:19.299767"
+  }
+}

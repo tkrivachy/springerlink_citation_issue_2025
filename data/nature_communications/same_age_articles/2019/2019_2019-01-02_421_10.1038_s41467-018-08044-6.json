@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723079",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08044-6",
+    "title": "GORAB scaffolds COPI at the ",
+    "article_number": "127",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tomasz M. Witkos",
+      "Wing Lee Chan",
+      "Merja Joensuu",
+      "Manuel Rhiel",
+      "Ed Pallister",
+      "Jane Thomas-Oates",
+      "A. Paul Mould",
+      "Alex A. Mironov",
+      "Christophe Biot",
+      "Yann Guerardel",
+      "Willy Morelle",
+      "Daniel Ungar",
+      "Felix T. Wieland",
+      "Eija Jokitalo",
+      "May Tassabehji",
+      "Uwe Kornak",
+      "Martin Lowe"
+    ]
+  },
+  "article_index": 421,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:28:46.153241"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:28:47.683599"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T17:28:49.000037"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T22:43:06.540313"
+    },
+    "last_updated": "2025-10-03T22:43:06.540399"
+  }
+}

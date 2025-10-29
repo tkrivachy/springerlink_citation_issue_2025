@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.366750",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84481-2",
+    "title": "Prevalence and determinants of full vaccination coverage according to the national schedule among children aged 12–35 months in Ghana",
+    "article_number": "13",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Berhan Tekeba",
+      "Tadesse Tarik Tamir",
+      "Alebachew Ferede Zegeye"
+    ]
+  },
+  "article_index": 172,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:34:26.014535"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:34:27.563575"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:32.790541"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:23:48.364405"
+    },
+    "last_updated": "2025-10-07T09:52:32.790669"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.179447",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20405-8",
+    "title": "Potent DNA gyrase inhibitors bind asymmetrically to their target using symmetrical bifurcated halogen bonds",
+    "article_number": "150",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anja Kolarič",
+      "Thomas Germe",
+      "Martina Hrast",
+      "Clare E. M. Stevenson",
+      "David M. Lawson",
+      "Nicolas P. Burton",
+      "Judit Vörös",
+      "Anthony Maxwell",
+      "Nikola Minovski",
+      "Marko Anderluh"
+    ]
+  },
+  "article_index": 37,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:30:01.005556"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:30:02.571248"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:30:03.785390"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T23:04:04.153257"
+    },
+    "last_updated": "2025-10-03T23:04:04.153493"
+  }
+}

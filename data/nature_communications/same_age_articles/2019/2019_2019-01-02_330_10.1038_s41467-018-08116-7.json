@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.713431",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08116-7",
+    "title": "The HisCl1 histamine receptor acts in photoreceptors to synchronize ",
+    "article_number": "252",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Faredin Alejevski",
+      "Alexandra Saint-Charles",
+      "Christine Michard-Vanhée",
+      "Béatrice Martin",
+      "Sonya Galant",
+      "Daniel Vasiliauskas",
+      "François Rouyer"
+    ]
+  },
+  "article_index": 330,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:35:32.455083"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T17:35:34.006766"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:35:35.202046"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T22:45:31.269154"
+    },
+    "last_updated": "2025-10-03T22:45:31.269375"
+  }
+}

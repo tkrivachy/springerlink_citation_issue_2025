@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.180841",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20311-z",
+    "title": "Mechanical single-molecule potentiometers with large switching factors from ",
+    "article_number": "167",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinshi Li",
+      "Pingchuan Shen",
+      "Shijie Zhen",
+      "Chun Tang",
+      "Yiling Ye",
+      "Dahai Zhou",
+      "Wenjing Hong",
+      "Zujin Zhao",
+      "Ben Zhong Tang"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:28:20.768662"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:28:22.328112"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:28:23.492494"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T23:03:28.127727"
+    },
+    "last_updated": "2025-10-03T23:03:28.127812"
+  }
+}

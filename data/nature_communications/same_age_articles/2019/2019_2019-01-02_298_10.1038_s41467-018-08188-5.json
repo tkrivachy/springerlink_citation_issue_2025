@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.709846",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08188-5",
+    "title": "A unifying framework for interpreting and predicting mutualistic systems",
+    "article_number": "242",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Feilun Wu",
+      "Allison J. Lopatkin",
+      "Daniel A. Needs",
+      "Charlotte T. Lee",
+      "Sayan Mukherjee",
+      "Lingchong You"
+    ]
+  },
+  "article_index": 298,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T17:56:32.512098"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T17:56:34.059075"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T17:56:35.367805"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T22:52:47.357053"
+    },
+    "last_updated": "2025-10-03T22:52:47.357245"
+  }
+}

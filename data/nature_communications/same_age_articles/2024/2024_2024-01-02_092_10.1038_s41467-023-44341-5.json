@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.675917",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44341-5",
+    "title": "Mapping causal links between prefrontal cortical regions and\n            intra-individual behavioral variability",
+    "article_number": "140",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Farshad Alizadeh Mansouri",
+      "Mark J. Buckley",
+      "Keiji Tanaka"
+    ]
+  },
+  "article_index": 92,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:00:31.458041"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:00:32.981016"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:00:34.124954"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:14:12.407815"
+    },
+    "last_updated": "2025-10-03T23:14:12.407914"
+  }
+}

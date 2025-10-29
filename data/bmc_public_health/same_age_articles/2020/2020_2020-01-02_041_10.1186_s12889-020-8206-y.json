@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.671538",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8206-y",
+    "title": "Study protocol the Continuing Care Project: a randomised controlled trial of a continuing care telephone intervention following residential substance dependence treatment",
+    "article_number": "107",
+    "publication_date": "2020-01-28",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Peter Kelly",
+      "Frank Deane",
+      "Amanda Baker",
+      "Gerard Byrne",
+      "Tayla Degan",
+      "Briony Osborne",
+      "Camilla Townsend",
+      "James McKay",
+      "Laura Robinson",
+      "Christopher Oldmeadow",
+      "Kenny Lawson",
+      "Andrew Searles",
+      "Joanne Lunn"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:29:16.995077"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:29:18.539398"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:29:19.800356"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:13:32.211062"
+    },
+    "last_updated": "2025-10-03T21:13:32.211116"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685657",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08417-5",
+    "title": "Mitotic chromosome binding predicts transcription factor properties in interphase",
+    "article_number": "487",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mahé Raccaud",
+      "Elias T. Friman",
+      "Andrea B. Alber",
+      "Harsha Agarwal",
+      "Cédric Deluz",
+      "Timo Kuhn",
+      "J. Christof M. Gebhardt",
+      "David M. Suter"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T17:35:08.067014"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T17:35:09.624446"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T17:35:10.986536"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T22:45:21.642613"
+    },
+    "last_updated": "2025-10-03T22:45:21.642806"
+  }
+}

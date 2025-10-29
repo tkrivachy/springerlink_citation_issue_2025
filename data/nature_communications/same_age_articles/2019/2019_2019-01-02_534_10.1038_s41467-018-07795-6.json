@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.735207",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07795-6",
+    "title": "Deeply subwavelength phonon-polaritonic crystal made of a van der Waals material",
+    "article_number": "42",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "F. J. Alfaro-Mozaz",
+      "S. G. Rodrigo",
+      "P. Alonso-González",
+      "S. Vélez",
+      "I. Dolado",
+      "F. Casanova",
+      "L. E. Hueso",
+      "L. Martín-Moreno",
+      "R. Hillenbrand",
+      "A. Y. Nikitin"
+    ]
+  },
+  "article_index": 534,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T17:16:50.575159"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T17:16:52.148256"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T17:16:53.500578"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T22:39:05.067783"
+    },
+    "last_updated": "2025-10-03T22:39:05.067896"
+  }
+}

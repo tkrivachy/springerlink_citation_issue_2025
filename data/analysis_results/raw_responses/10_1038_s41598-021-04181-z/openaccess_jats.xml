@@ -1,0 +1,3266 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.w3.org/1998/Math/MathML">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-021-04181-z</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-021-04181-z</article-id>
+          <article-id pub-id-type="manuscript">4181</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-021-04181-z</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/700/1720</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/700/139</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/705/1041</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Spherical harmonics to quantify cranial asymmetry in deformational plagiocephaly</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Grieb</surname>
+                <given-names>Jonas</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au2">
+              <name name-style="western">
+                <surname>Barbero-García</surname>
+                <given-names>Inés</given-names>
+              </name>
+              <address>
+                <email>ines.barbero@usal.es</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="corresp" rid="IDs4159802104181z_cor2">b</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Lerma</surname>
+                <given-names>José Luis</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.157927.f</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1770 5832</institution-id>
+                <institution content-type="org-division">Department of Cartographic Engineering, Geodesy and Photogrammetry</institution>
+                <institution content-type="org-name">Universitat Politècnica de València</institution>
+              </institution-wrap>
+              <addr-line content-type="street">Camino de Vera, s/n, Building 7i</addr-line>
+              <addr-line content-type="postcode">46022</addr-line>
+              <addr-line content-type="city">Valencia</addr-line>
+              <country country="ES">Spain</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.11762.33</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2180 1817</institution-id>
+                <institution content-type="org-division">Department of Cartographic and Land Engineering, Higher Polytechnic School of Avila</institution>
+                <institution content-type="org-name">University of Salamanca</institution>
+              </institution-wrap>
+              <addr-line content-type="street">Hornos Caleros 50</addr-line>
+              <addr-line content-type="postcode">05003</addr-line>
+              <addr-line content-type="city">Ávila</addr-line>
+              <country country="ES">Spain</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs4159802104181z_cor2">
+              <label>b</label>
+              <email>ines.barbero@usal.es</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2022</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2022</year>
+          </pub-date>
+          <volume>12</volume>
+          <issue seq="169">1</issue>
+          <elocation-id>167</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>17</day>
+              <month>12</month>
+              <year>2021</year>
+            </date>
+            <date date-type="received">
+              <day>12</day>
+              <month>5</month>
+              <year>2021</year>
+            </date>
+            <date date-type="accepted">
+              <day>17</day>
+              <month>12</month>
+              <year>2021</year>
+            </date>
+            <date date-type="online">
+              <day>7</day>
+              <month>1</month>
+              <year>2022</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2022</copyright-statement>
+            <copyright-year>2022</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Cranial deformation and deformational plagiocephaly (DP) in particular affect an important percentage of infants. The assessment and diagnosis of the deformation are commonly carried by manual measurements that provide low interuser accuracy. Another approach is the use of three-dimensional (3D) models. Nevertheless, in most cases, deformation measurements are carried out manually on the 3D model. It is necessary to develop methodologies for the detection of DP that are automatic, accurate and take profit on the high quantity of information of the 3D models. Spherical harmonics are proposed as a new methodology to identify DP from head 3D models. The ideal fitted ellipsoid for each head is computed and the orthogonal distances between head and ellipsoid are obtained. Finally, the distances are modelled using spherical harmonics. Spherical harmonic coefficients of degree 2 and order − 2 are identified as the correct ones to represent the asymmetry characteristic of DP. The obtained coefficient is compared to other anthropometric deformation indexes, such as Asymmetry Index, Oblique Cranial Length Ratio, Posterior Asymmetry Index and Anterior Asymmetry Index. The coefficient of degree 2 and order − 2 with a maximum degree of 4 is found to provide better results than the commonly computed anthropometric indexes in the detection of DP.</p>
+          </abstract>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Instituto de Salud Carlos III and European Regional Development Fund (FEDER)</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">PI18/00881</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Barbero-García</surname>
+                  <given-names>Inés</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lerma</surname>
+                  <given-names>José Luis</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>170</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2022</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2022</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>17</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2021_Article_4181.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            Deformational Plagiocephaly (DP) is a deformation of the infant's skull due to positional causes. It consists of a flattening of an area of the head, resulting in asymmetry
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . The prevalence of DP has been studied by different authors, reporting a percentage of affected infants ranging from 22.1
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+             to 46%
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            , with some intermediate values as the 37.8% reported by Ballardini et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par3">
+            Although the consequences of DP have lengthily been considered merely esthetical, during the last years it has been stated by some authors as an indicator of developmental delay risk
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              , 
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              –
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par4">
+            Positional cranial deformation is usually measured by paediatricians and neurosurgeons using callipers (cephalometers) and measuring tape to extract different indexes. The most common indexes are the Cephalic Index (CI), the Asymmetry Index (AI) and the Oblique Cranial Length Ratio (OCLR)
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . The accuracy of calliper measurements is highly questioned
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . The obtainment of accurate measurements with the baseline methods on the patients is complicated even for experts
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+             as infants do not usually cooperate and get nervous during the measurements.
+          </p>
+          <p id="Par5">Nowadays, the use of 3D models to evaluate cranial deformation is becoming more common. However, due to their high cost, they are not widely implemented in clinical practice.</p>
+          <p id="Par6">
+            The methodologies to obtain three-dimensional (3D) models include low-cost tools
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+             and, more commonly, setups of cameras and scanners
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              ,
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . Radiological tests, such as Computed Tomography and Magnetic Resonance Imaging are considered the gold standard but they are also highly invasive and costly. For these reasons, their use is very limited. Even in these cases, the measurements carried out on the 3D model are very similar to those manually carried out by doctors namely paediatricians and paediatric neurosurgeons, and limited to some indexes. Some authors have applied different mathematical processes to the classification and evaluation of cranial deformation from 3D models. Some examples are Principal Components
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+            </sup>
+            , the Root Mean Square differences between head quadrants
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            , kernel density estimation
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            , and deep learning for craniosynostosis diagnosis
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . Furthermore, cranial deformation has been assessed by comparing the measured head shape to a fitted tri-axial ellipsoid which was considered as an ideal shape for a non-deformed cranium
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par7">The asymmetrical flattening of the back of the head caused by DP usually leads to an asymmetrically fitted ellipsoid (i.e. one side of the back of the head is outside the ellipsoid while the other side is inside). Although the differences to an ideal ellipsoid allow a good visual assessment of the deformation, no indexes have been developed that indicate the presence of deformation and DP in particular.</p>
+          <p id="Par8">
+            Spherical harmonics are commonly used to quantify and model irregular shapes in different fields, such as the shape of the Earth’s geoid in geodesy
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              , 
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              –
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            , gravitational fields in geophysics
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+            </sup>
+            , bathymetry
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            , different biological structures
+            <sup>
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+             or surfaces for meshing
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par9">
+            In the field of medicine, spherical harmonics are frequently used as part of recent efforts to develop computer-aided, non-invasive methodologies to predict tumour growth behaviour, on the hypothesis that malignant tumours tend to have more irregular shapes in comparison to benign tumours. An example of this application is the use of spherical harmonics for the development of a computer-aided methodology for the diagnosis of thyroid cancer
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              ,
+              <xref ref-type="bibr" rid="CR27">27</xref>
+            </sup>
+            . The contrast between the approach used in the proposed paper for cranial asymmetry quantification and the approach for diagnosis of malignant tumours can be of great value, due to the different spherical harmonics approach undertaken herein. Other medical applications of spherical harmonics include neuroscience, where they have proven to be useful for the segmentation of brain white matter fibres into bundles
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            , for modelling of the brain shape
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+             and for registration of brain hemispheres
+            <sup>
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par10">In this work, the differences between the real head and an ideal ellipsoid have been extracted for different heads and modelled using spherical harmonics. From a mathematical viewpoint, the infant’s head can be considered equivalent to a tiny partial geoid. Therefore, spherical harmonics will be applied in this paper to determine its reliability to assess asymmetry in cranial deformation.</p>
+          <p id="Par11">In this study, the weight of the spherical harmonic which best reflects the asymmetrical flattening of the head has been identified. The parameter has been evaluated in comparison with commonly used indexes that quantify plagiocephaly and it is proposed as an indicator for the automatic detection of this type of deformation in cranial 3D models.</p>
+        </sec>
+        <sec id="Sec2" sec-type="materials|methods">
+          <title>Material and methods</title>
+          <p id="Par12">All research was performed in accordance with relevant guidelines and regulations. The data used in this research was collected as part of a project approved by the medical ethical review board (Comité de Ética de la Investigación con medicamentos) of the Hospital Universitario y Politécnico La Fe, Valencia, Spain (n. 2019/0217). All data was anonymized and informed consent was obtained from parents or legal guardian for each patient.</p>
+          <p id="Par13">
+            A total of 18 three dimensional models (Fig. 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            ) of infants' heads were obtained during normal neurosurgery consultation. Some of the infants were in different phases of treatment for cranial deformation by paediatrics neurosurgeons while others were control patients with no diagnosed deformation.
+            <fig id="Fig1" position="float">
+              <label>Figure 1</label>
+              <caption xml:lang="en">
+                <p>
+                  Visualization of lheads’ 3D model with the ideal fitted ellipsoid section on top: (
+                  <bold>a</bold>
+                  ) regular patient (ID: H1, Table 
+                  <xref rid="Tab1" ref-type="table">1</xref>
+                  ); (
+                  <bold>b</bold>
+                  ) patient with DP (ID: P01, Table 
+                  <xref rid="Tab1" ref-type="table">1</xref>
+                  ).
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig1_HTML.png" id="MO1"/>
+            </fig>
+          </p>
+          <p id="Par14">
+            For each infant’s 3D model, different anthropometric indexes of cranial deformation were extracted automatically using the patented smartphone-based photogrammetric solution that just requires a coded cap fitting on the infant’s head
+            <sup>
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+            .The Photogrammetric Medical Deformation Assessment Solutions (PhotoMeDAS, 
+            <ext-link ns0:href="https://photomedas.eu/" ext-link-type="uri">https://photomedas.eu/</ext-link>
+            ) is based on the previous patent to automatically achieve the head’s 3D model and deformation indexes
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            . Later, the ideal ellipsoid (Fig. 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            ) was computed for each head and the distances to this ideal shape were modelled using spherical harmonics. For this latter purpose, an in-house Python script was developed which runs the Spherical Harmonic Tools (SHTools) library
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+             to fit the spherical harmonic coefficients to the distances. SHTOOLS/pyshtools is a Fortran-95/Python open-source library that can be used to perform spherical harmonic transforms and is available with a permissive licence at GitHub (
+            <ext-link ns0:href="https://github.com/" ext-link-type="uri">https://github.com/</ext-link>
+            ).
+          </p>
+          <sec id="Sec3">
+            <title>The creation of the models</title>
+            <p id="Par15">
+              The data acquisition was carried out using the low-cost PhotoMeDAS solution
+              <sup>
+                <xref ref-type="bibr" rid="CR12">12</xref>
+              </sup>
+               in approximately 2 min per patient. Each model was composed of approximately 530 points, evenly distributed over the head surface.
+            </p>
+            <p id="Par16">
+              Each model was registered to a known coordinate system using 3 points manually identified by the doctor or technician during the data acquisition. These points correspond to the preauricular points and the point between the eyes. The registration methodology was established to facilitate the data acquisition by medical professionals (minimum number of points manually identified) and reduce errors and variability (points easily identifiable, even by non-experts)
+              <sup>
+                <xref ref-type="bibr" rid="CR33">33</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par17">The X-axis is defined by the point between the eyes and the mid-point between preauricular points. The Y-axis is perpendicular to the X-axis and adjusted to be as close as possible to both preauricular points.</p>
+            <p id="Par18">
+              The cranial models are all centred at the origin and facing towards the positive direction of the X-axis. Therefore, all cranial models are roughly divided longitudinally by the X-axis (i.e. following the anterior–posterior axis) and divided by the Y-axis from ear to ear (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ).
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Deformation indexes computation</title>
+            <p id="Par19">
+              The deformation indexes are usually derived from measurements carried out by doctors (i.e. paediatricians or neurosurgeons) using callipers and measuring tape. The manual measurements are standardized, and usually include cranial perimeter, oblique diameters, head width and head length
+              <sup>
+                <xref ref-type="bibr" rid="CR10">10</xref>
+                ,
+                <xref ref-type="bibr" rid="CR34">34</xref>
+                ,
+                <xref ref-type="bibr" rid="CR35">35</xref>
+              </sup>
+              . The reproducibility of manually extracted heads measurements relies on the standard position of the head
+              <sup>
+                <xref ref-type="bibr" rid="CR10">10</xref>
+              </sup>
+               and the interuser reliability can be low
+              <sup>
+                <xref ref-type="bibr" rid="CR36">36</xref>
+              </sup>
+              . In this case, the measurements were automatically extracted from the 3D model using the PhotoMeDAS tool
+              <sup>
+                <xref ref-type="bibr" rid="CR12">12</xref>
+              </sup>
+              , avoiding any human error and blunders while writing or typing the analogue manual measurements.
+            </p>
+            <p id="Par20">
+              The measurements carried out for this study include oblique distance front-left to back-right (a), oblique distance front-right to back-left (b), head length (c), head width (d) and cranial perimeter (CP) (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              a). The CP is obtained as the maximum perimeter of the head contained in a plane parallel to the Y-axis. The oblique measurements are computed at a ± 30º angle with X-axis in the plane of the maximum perimeter. The head length is computed as the maximum length in the X–Z plane and the width length is the maximum distance in the direction of the Y-axis.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    Visualization of measurements taken for the computation of the anthropometric deformation indexes: (
+                    <bold>a</bold>
+                    ) traditional measurements undertaken with conventional analogue solutions; (
+                    <bold>b</bold>
+                    ) extra measurements extracted automatically with PhotoMeDAS.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig2_HTML.png" id="MO2"/>
+              </fig>
+            </p>
+            <p id="Par21">
+              Linear measurements (a &amp; b) were also divided as frontal and back, yielding a
+              <sub>frontal</sub>
+              , a
+              <sub>back</sub>
+              , b
+              <sub>frontal</sub>
+               and b
+              <sub>back</sub>
+               (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              b). The division of frontal and back parameters is not a common approach as these parameters are impossible to extract by manual calliper measurements. However, their extraction is automatic from the 3D model using computer-graphics in PhotoMeDAS. Besides, they allow the computation of two new indexes, Anterior Asymmetry Index (AAI) and Posterior Asymmetry Index (PAI), that are easy to determine, and useful, as it will be demonstrated later. From a clinical viewpoint, they can help doctors to realise where the DP occurs, either in the frontal part or in the back (parietal/occipital) part, without any compensation as happens with the classical a &amp; b oblique linear measurements.
+            </p>
+            <p id="Par22">
+              For each model, the following indexes were extracted:
+              <list list-type="bullet">
+                <list-item>
+                  <p id="Par23">Cranial Perimeter, CP</p>
+                </list-item>
+                <list-item>
+                  <p id="Par24">
+                    Cephalic Index, CI: 
+                    <inline-formula id="IEq1">
+                      <alternatives>
+                        <ns1:math id="IEq1_Math">
+                          <ns1:mfenced close=")" open="(">
+                            <ns1:mfrac>
+                              <ns1:mi>c</ns1:mi>
+                              <ns1:mi>d</ns1:mi>
+                            </ns1:mfrac>
+                          </ns1:mfenced>
+                        </ns1:math>
+                        <tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left(\frac{c}{d}\right)$$\end{document}</tex-math>
+                        <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq1.gif"/>
+                      </alternatives>
+                    </inline-formula>
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par25">
+                    Cranial Vault Asymmetry Index, AI: (
+                    <inline-formula id="IEq2">
+                      <alternatives>
+                        <ns1:math id="IEq2_Math">
+                          <ns1:mrow>
+                            <ns1:mi>a</ns1:mi>
+                            <ns1:mo>-</ns1:mo>
+                            <ns1:mi>b</ns1:mi>
+                          </ns1:mrow>
+                        </ns1:math>
+                        <tex-math id="IEq2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$a-b$$\end{document}</tex-math>
+                        <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq2.gif"/>
+                      </alternatives>
+                    </inline-formula>
+                    ), where a and b are the diagonals at ± 30º from the longitudinal axis of the head (Fig. 
+                    <xref rid="Fig2" ref-type="fig">2</xref>
+                    a)
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par26">
+                    Oblique Cranial Length Ratio, OCLR: 
+                    <inline-formula id="IEq3">
+                      <alternatives>
+                        <ns1:math id="IEq3_Math">
+                          <ns1:mrow>
+                            <ns1:mfenced close=")" open="(">
+                              <ns1:mfrac>
+                                <ns1:mi>a</ns1:mi>
+                                <ns1:mi>b</ns1:mi>
+                              </ns1:mfrac>
+                            </ns1:mfenced>
+                            <ns1:mrow/>
+                            <ns1:mo>∗</ns1:mo>
+                            <ns1:mn>100</ns1:mn>
+                          </ns1:mrow>
+                        </ns1:math>
+                        <tex-math id="IEq3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left(\frac{a}{b}\right)*100$$\end{document}</tex-math>
+                        <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq3.gif"/>
+                      </alternatives>
+                    </inline-formula>
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par27">
+                    Anterior Asymmetry Index, AA: I 
+                    <inline-formula id="IEq4">
+                      <alternatives>
+                        <ns1:math id="IEq4_Math">
+                          <ns1:mrow>
+                            <ns1:msub>
+                              <ns1:mi>a</ns1:mi>
+                              <ns1:mrow>
+                                <ns1:mi mathvariant="italic">frontal</ns1:mi>
+                              </ns1:mrow>
+                            </ns1:msub>
+                            <ns1:mo>-</ns1:mo>
+                            <ns1:msub>
+                              <ns1:mi>b</ns1:mi>
+                              <ns1:mrow>
+                                <ns1:mi mathvariant="italic">frontal</ns1:mi>
+                              </ns1:mrow>
+                            </ns1:msub>
+                          </ns1:mrow>
+                        </ns1:math>
+                        <tex-math id="IEq4_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${a}_{frontal}-{b}_{frontal}$$\end{document}</tex-math>
+                        <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq4.gif"/>
+                      </alternatives>
+                    </inline-formula>
+                      (Fig. 
+                    <xref rid="Fig2" ref-type="fig">2</xref>
+                    b)
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par28">
+                    Posterior Asymmetry Index, PAI: 
+                    <inline-formula id="IEq5">
+                      <alternatives>
+                        <ns1:math id="IEq5_Math">
+                          <ns1:mrow>
+                            <ns1:msub>
+                              <ns1:mi>a</ns1:mi>
+                              <ns1:mrow>
+                                <ns1:mi mathvariant="italic">back</ns1:mi>
+                              </ns1:mrow>
+                            </ns1:msub>
+                            <ns1:mo>-</ns1:mo>
+                            <ns1:msub>
+                              <ns1:mi>b</ns1:mi>
+                              <ns1:mrow>
+                                <ns1:mi mathvariant="italic">back</ns1:mi>
+                              </ns1:mrow>
+                            </ns1:msub>
+                          </ns1:mrow>
+                        </ns1:math>
+                        <tex-math id="IEq5_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${a}_{back}-{b}_{back}$$\end{document}</tex-math>
+                        <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq5.gif"/>
+                      </alternatives>
+                    </inline-formula>
+                  </p>
+                </list-item>
+              </list>
+            </p>
+            <p id="Par29">
+              While the AI and the OCLR are commonly calculated by doctors, the Anterior and Posterior Asymmetry Indexes (AAI and PAI) cannot be calculated from calliper and tape measurements. These new indexes are able to measure the deformation for the back and frontal parts of the head only. Thus, AAI and PAI are not affected by the compensation of the head shape that may occur in some cases of plagiocephaly (and especially in some type of craniosynostosis) and which prevents the AI to properly represent the infant’s cranial deformation
+              <sup>
+                <xref ref-type="bibr" rid="CR37">37</xref>
+              </sup>
+              .
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Classification of the patients</title>
+            <p id="Par30">The 18 patients were initially classified as healthy of DP depending on whether they had an earlier diagnosed plagiocephaly by the paediatrician neurosurgeons.</p>
+            <p id="Par31">
+              For each patient, all the asymmetry indexes (AI, AAI and PAI) and OCLR were computed. Normal values are considered below 4 mm for asymmetry and 94–106% for OCLR
+              <sup>
+                <xref ref-type="bibr" rid="CR38">38</xref>
+              </sup>
+              . Any patient with an index not matching the normal values was considered to have positional plagiocephaly.
+            </p>
+            <p id="Par32">
+              One of the patients initially classified as healthy or with regular shape based on visual assessment (ID 8 in Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              ) resulted eventually in the range of values of cranial deformation and was, therefore, moved to the DP group.
+              <table-wrap id="Tab1">
+                <label>Table 1</label>
+                <caption xml:lang="en">
+                  <p>Deformation parameters and classification for the patients.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Patient ID</p>
+                      </th>
+                      <th align="left">
+                        <p>CP (mm)</p>
+                      </th>
+                      <th align="left">
+                        <p>CI (%)</p>
+                      </th>
+                      <th align="left">
+                        <p>CVAI (mm)</p>
+                      </th>
+                      <th align="left">
+                        <p>AAI (mm)</p>
+                      </th>
+                      <th align="left">
+                        <p>PAI (mm)</p>
+                      </th>
+                      <th align="left">
+                        <p>OCLR %</p>
+                      </th>
+                      <th align="left">
+                        <p>Initial classification</p>
+                      </th>
+                      <th align="left">
+                        <p>Final classification</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>H1</p>
+                      </td>
+                      <td align="left">
+                        <p>435</p>
+                      </td>
+                      <td align="left">
+                        <p>85</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>− 2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>0</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>101</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H2</p>
+                      </td>
+                      <td align="left">
+                        <p>487</p>
+                      </td>
+                      <td align="left">
+                        <p>84</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>99</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H3</p>
+                      </td>
+                      <td align="left">
+                        <p>480</p>
+                      </td>
+                      <td align="left">
+                        <p>81</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>0</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>99</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H4</p>
+                      </td>
+                      <td align="left">
+                        <p>423</p>
+                      </td>
+                      <td align="left">
+                        <p>81</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>101</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H5</p>
+                      </td>
+                      <td align="left">
+                        <p>453</p>
+                      </td>
+                      <td align="left">
+                        <p>78</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>− 3</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 3</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>102</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H6</p>
+                      </td>
+                      <td align="left">
+                        <p>493</p>
+                      </td>
+                      <td align="left">
+                        <p>78</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>98</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H7</p>
+                      </td>
+                      <td align="left">
+                        <p>424</p>
+                      </td>
+                      <td align="left">
+                        <p>81</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>− 2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>0</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>101</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>H8</p>
+                      </td>
+                      <td align="left">
+                        <p>404</p>
+                      </td>
+                      <td align="left">
+                        <p>85</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>3</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>98</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P1</p>
+                      </td>
+                      <td align="left">
+                        <p>401</p>
+                      </td>
+                      <td align="left">
+                        <p>84</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>5</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>103</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P2</p>
+                      </td>
+                      <td align="left">
+                        <p>410</p>
+                      </td>
+                      <td align="left">
+                        <p>84</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>12</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 2</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>10</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>108</italic>
+                        </p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P3</p>
+                      </td>
+                      <td align="left">
+                        <p>376</p>
+                      </td>
+                      <td align="left">
+                        <p>89</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>
+                          − 
+                          <italic>9</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 3</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>6</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>106</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P4</p>
+                      </td>
+                      <td align="left">
+                        <p>415</p>
+                      </td>
+                      <td align="left">
+                        <p>90</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>
+                          − 
+                          <italic>10</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 3</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>8</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>105</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P5</p>
+                      </td>
+                      <td align="left">
+                        <p>405</p>
+                      </td>
+                      <td align="left">
+                        <p>89</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>5</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>9</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>97</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P6</p>
+                      </td>
+                      <td align="left">
+                        <p>478</p>
+                      </td>
+                      <td align="left">
+                        <p>87</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>13</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>9</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>108</italic>
+                        </p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P7</p>
+                      </td>
+                      <td align="left">
+                        <p>503</p>
+                      </td>
+                      <td align="left">
+                        <p>76</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>9</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>8</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>94</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P8</p>
+                      </td>
+                      <td align="left">
+                        <p>439</p>
+                      </td>
+                      <td align="left">
+                        <p>87</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          − 
+                          <italic>8</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>104</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P9</p>
+                      </td>
+                      <td align="left">
+                        <p>372</p>
+                      </td>
+                      <td align="left">
+                        <p>79</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>9</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>− 4</p>
+                      </td>
+                      <td char="." align="left">
+                        <p>98</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>P10</p>
+                      </td>
+                      <td align="left">
+                        <p>460</p>
+                      </td>
+                      <td align="left">
+                        <p>86</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>
+                          <italic>12</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>5</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>7</italic>
+                        </p>
+                      </td>
+                      <td char="." align="left">
+                        <p>
+                          <italic>93</italic>
+                        </p>
+                      </td>
+                      <td align="left">
+                        <p>Healthy</p>
+                      </td>
+                      <td align="left">
+                        <p>DP</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>In italic values outside the normal threshold.</p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+            <p id="Par33">
+              All patients had Cephalic Indexes in the regular range of 75–95%. Therefore, it can be stated that all 18 patients were not affected by scaphocephaly or brachycephaly
+              <sup>
+                <xref ref-type="bibr" rid="CR38">38</xref>
+              </sup>
+              .
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>The spherical harmonics solution</title>
+            <p id="Par34">
+              The infant’s head 3D models were assessed by computing the orthogonal distances to a fitted ellipsoid by spherical harmonics. The best-fitted ellipsoid is considered as the ideal cranial shape and is therefore used as the spherical reference surface
+              <sup>
+                <xref ref-type="bibr" rid="CR18">18</xref>
+              </sup>
+              . In contrast, the true surface of the infant’s head 3D model can be considered as a geoid from a mathematical viewpoint.
+            </p>
+            <p id="Par35">
+              To calculate the spherical harmonics for a single cranium the following steps were taken:
+              <list list-type="order">
+                <list-item>
+                  <p id="Par36">Calculation of the best-fitted ellipsoid for the given cranium.</p>
+                </list-item>
+                <list-item>
+                  <p id="Par37">Calculation of the orthogonal distances between the calculated ellipsoid and the real surface of the cranium.</p>
+                </list-item>
+                <list-item>
+                  <p id="Par38">Performing a spherical harmonics expansion to obtain the coefficients which are fitted to model the orthogonal distances.</p>
+                </list-item>
+              </list>
+            </p>
+            <p id="Par39">The following lines present the mentioned three steps in detail.</p>
+            <sec id="Sec7">
+              <title>Best fitting ellipsoid</title>
+              <p id="Par40">
+                A triaxial ellipsoid has been described before as the ideal shape to represent a cranium
+                <sup>
+                  <xref ref-type="bibr" rid="CR18">18</xref>
+                </sup>
+                . Therefore, the triaxial ellipsoid which is best adjusted to the 3D point cloud already available from the 530 cap points is computed with the least-squares estimation as in
+                <sup>
+                  <xref ref-type="bibr" rid="CR39">39</xref>
+                </sup>
+                . The best-fitted ellipsoid is calculated for each head individually and serves as a spherical reference surface on which the spherical harmonics will be computed.
+              </p>
+              <p id="Par41">
+                The orientation of the ellipsoid is aligned with the coordinate system of the input data (as displayed in Fig. 
+                <xref rid="Fig2" ref-type="fig">2</xref>
+                ). Therefore, the ideal ellipsoid is symmetric with respect to the longitudinal axis of the infant’s head and it is not affected by the asymmetry of the head.
+              </p>
+            </sec>
+            <sec id="Sec8">
+              <title>Orthogonal distances to the ellipsoid</title>
+              <p id="Par42">In order to model the cranial shape with spherical harmonics, it is required to map every position on the surface of the cranium to a unique position on the surface of the ellipsoid, which serves as the reference surface.</p>
+              <p id="Par43">
+                The orthogonal distances for every point of the infant’s head 3D model are computed to the surface of the fitted ellipsoid as described by Bektas
+                <sup>
+                  <xref ref-type="bibr" rid="CR40">40</xref>
+                </sup>
+                .
+              </p>
+            </sec>
+            <sec id="Sec9">
+              <title>Calculation of the spherical harmonic coefficients</title>
+              <p id="Par44">
+                For every point on the reference ellipsoid given by the spherical coordinates (θ, φ) the variation to the true infant’s head surface is now given by the associated orthogonal distance. Finally, these orthogonal distances are modelled with a linear combination of weighted spherical harmonics. A real spherical harmonic 
+                <italic>Y</italic>
+                <sub>
+                  <italic>l</italic>
+                </sub>
+                <sup>
+                  <italic>m</italic>
+                </sup>
+                 and its respective coefficient (or weight) 
+                <italic>f</italic>
+                <sub>
+                  <italic>l</italic>
+                </sub>
+                <sup>
+                  <italic>m</italic>
+                </sup>
+                 refer to a degree 
+                <italic>l</italic>
+                 and order 
+                <italic>m</italic>
+                 where (− 
+                <italic>l</italic>
+                 ≤ 
+                <italic>m</italic>
+                 ≤ 
+                <italic>l)</italic>
+                . A linear combination of all real spherical harmonics up to a defined maximum degree 
+                <italic>l</italic>
+                <sub>
+                  <italic>max</italic>
+                </sub>
+                 can approximate an arbitrary function on the sphere
+                <sup>
+                  <xref ref-type="bibr" rid="CR32">32</xref>
+                </sup>
+                . Based on this, we model every point 
+                <inline-formula id="IEq6">
+                  <alternatives>
+                    <ns1:math id="IEq6_Math">
+                      <ns1:mrow>
+                        <ns1:mi>P</ns1:mi>
+                        <ns1:mo>∈</ns1:mo>
+                        <ns1:msup>
+                          <ns1:mrow>
+                            <ns1:mi>R</ns1:mi>
+                          </ns1:mrow>
+                          <ns1:mn>3</ns1:mn>
+                        </ns1:msup>
+                      </ns1:mrow>
+                    </ns1:math>
+                    <tex-math id="IEq6_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P\in {R}^{3}$$\end{document}</tex-math>
+                    <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq6.gif"/>
+                  </alternatives>
+                </inline-formula>
+                 of the true cranium, represented by the 3D point cloud O, as follows:
+                <disp-formula id="Equ1">
+                  <label>1</label>
+                  <alternatives>
+                    <ns1:math display="block" id="Equ1_Math">
+                      <ns1:mrow>
+                        <ns1:mi>P</ns1:mi>
+                        <ns1:mo>∈</ns1:mo>
+                        <ns1:mi>O</ns1:mi>
+                        <ns1:mo>=</ns1:mo>
+                        <ns1:msub>
+                          <ns1:mi>Q</ns1:mi>
+                          <ns1:mi>P</ns1:mi>
+                        </ns1:msub>
+                        <ns1:mo>=</ns1:mo>
+                        <ns1:mfenced close=")" open="(">
+                          <ns1:mi>θ</ns1:mi>
+                          <ns1:mo>,</ns1:mo>
+                          <ns1:mi mathvariant="normal">Φ</ns1:mi>
+                        </ns1:mfenced>
+                        <ns1:mo>=</ns1:mo>
+                        <ns1:mi>E</ns1:mi>
+                        <ns1:mfenced close=")" open="(">
+                          <ns1:mi>θ</ns1:mi>
+                          <ns1:mo>,</ns1:mo>
+                          <ns1:mi mathvariant="normal">Φ</ns1:mi>
+                        </ns1:mfenced>
+                        <ns1:mo>+</ns1:mo>
+                        <ns1:mover accent="true">
+                          <ns1:mi>v</ns1:mi>
+                          <ns1:mo stretchy="true">^</ns1:mo>
+                        </ns1:mover>
+                        <ns1:mfenced close=")" open="(">
+                          <ns1:mi>θ</ns1:mi>
+                          <ns1:mo>,</ns1:mo>
+                          <ns1:mi mathvariant="normal">Φ</ns1:mi>
+                        </ns1:mfenced>
+                        <ns1:mo>·</ns1:mo>
+                        <ns1:mi>S</ns1:mi>
+                        <ns1:mi>H</ns1:mi>
+                        <ns1:mfenced close=")" open="(">
+                          <ns1:mi>θ</ns1:mi>
+                          <ns1:mo>,</ns1:mo>
+                          <ns1:mi mathvariant="normal">Φ</ns1:mi>
+                          <ns1:mo>,</ns1:mo>
+                          <ns1:msub>
+                            <ns1:mi>l</ns1:mi>
+                            <ns1:mrow>
+                              <ns1:mi mathvariant="italic">max</ns1:mi>
+                            </ns1:mrow>
+                          </ns1:msub>
+                        </ns1:mfenced>
+                        <ns1:mo>+</ns1:mo>
+                        <ns1:mi>ε</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:math>
+                    <tex-math id="Equ1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P\in O={Q}_{P}=\left(\theta ,\Phi \right)=E\left(\theta ,\Phi \right)+\widehat{v}\left(\theta ,\Phi \right)\cdot SH\left(\theta ,\Phi ,{l}_{max}\right)+\varepsilon $$\end{document}</tex-math>
+                    <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_Equ1.gif"/>
+                  </alternatives>
+                </disp-formula>
+                where Q
+                <sub>P</sub>
+                 is the projected P on the surface of the best-fitted ellipsoid E expressed in spherical coordinates (θ, φ), 
+                <inline-formula id="IEq7">
+                  <alternatives>
+                    <ns1:math id="IEq7_Math">
+                      <ns1:mover accent="true">
+                        <ns1:mi>v</ns1:mi>
+                        <ns1:mo stretchy="true">^</ns1:mo>
+                      </ns1:mover>
+                    </ns1:math>
+                    <tex-math id="IEq7_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\widehat{v}$$\end{document}</tex-math>
+                    <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq7.gif"/>
+                  </alternatives>
+                </inline-formula>
+                (θ, φ) is the unit vector orthogonal to the surface of the ellipsoid at Q
+                <sub>P</sub>
+                , and ε is the error of the model.
+              </p>
+              <p id="Par46">
+                SH(θ, φ, l
+                <sub>max</sub>
+                ) refers to the linear combination of weighted spherical harmonics. The accuracy of this mathematical model depends on the chosen maximum spherical harmonic degree, l
+                <sub>max</sub>
+                . The higher l
+                <sub>max</sub>
+                 is chosen, the more spherical harmonics are included in the linear combination and thus the more detailed becomes the reconstructed cranial shape. This is due to the property of spherical harmonics having l-|m| zero crossings in the latitudinal and 2 *|m| zero crossings in the longitudinal direction
+                <sup>
+                  <xref ref-type="bibr" rid="CR32">32</xref>
+                  ,
+                  <xref ref-type="bibr" rid="CR41">41</xref>
+                </sup>
+                . Thus, with an increasing degree l the surface of the sphere is divided into more and smaller sections. Therefore, with an increasing l
+                <sub>max</sub>
+                 a linear combination of spherical harmonics can represent more details on the surface of a 3D object. In order to illustrate the effect of the spherical harmonics in this model, the function values of the first spherical harmonics are visualized on the fitted ellipsoid as a spherical reference body in Fig. 
+                <xref rid="Fig3" ref-type="fig">3</xref>
+                .
+                <fig id="Fig3" position="float">
+                  <label>Figure 3</label>
+                  <caption xml:lang="en">
+                    <p>Visualization of spherical harmonic functions of degree l = 1 and l = 2 (excluding those of order m = 0) on the right-hand side (lateral) view and the top view. Red and blue symbolize positive and negative function values, respectively.</p>
+                  </caption>
+                  <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig3_HTML.png" id="MO3"/>
+                </fig>
+              </p>
+            </sec>
+          </sec>
+          <sec id="Sec10">
+            <title>Evaluation of the plagiocephaly-induced shape</title>
+            <p id="Par47">
+              The model described in Eq. (
+              <xref rid="Equ1" ref-type="disp-formula">1</xref>
+              ) is used to reconstruct all cranial 3D models with l
+              <sub>max</sub>
+               values ranging from l
+              <sub>max</sub>
+               = 2 to l
+              <sub>max</sub>
+               = 10.
+            </p>
+            <p id="Par48">
+              For the detection of DP, it is not required to reconstruct the fine details of the cranial shape. Instead, the head shape abnormality caused by plagiocephaly should be reflected in the first spherical harmonics, as it is commonly defined by an asymmetric flattening of the back of the head. The spherical harmonic of degree l = 2 and order m = − 2 displayed in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              f is the most promising one to reflect information on plagiocephaly.
+            </p>
+            <p id="Par49">
+              This spherical harmonic model divides the head 3D model into four quadrants, where two quadrants approximately form the back and the other two the front of the head. Every two quadrants have inverse function values of the spherical harmonic 
+              <inline-formula id="IEq8">
+                <alternatives>
+                  <ns1:math id="IEq8_Math">
+                    <ns1:msubsup>
+                      <ns1:mi>Y</ns1:mi>
+                      <ns1:mrow>
+                        <ns1:mn>2</ns1:mn>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mo>-</ns1:mo>
+                        <ns1:mn>2</ns1:mn>
+                      </ns1:mrow>
+                    </ns1:msubsup>
+                  </ns1:math>
+                  <tex-math id="IEq8_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${Y}_{2}^{-2}$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq8.gif"/>
+                </alternatives>
+              </inline-formula>
+              . In consequence, this spherical harmonic will result in higher coefficients when one of the quadrant head has positive differences and the opposite one has negative differences.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec11" sec-type="results">
+          <title>Results</title>
+          <p id="Par50">
+            With the presented approach given in Eq. (
+            <xref rid="Equ1" ref-type="disp-formula">1</xref>
+            ), all cranial 3D models could be reconstructed with a small error with only small maximum spherical harmonic degrees. With a l
+            <sub>max</sub>
+             = 4 the root-mean-square error (RMSE) of the model was below 1 mm for all 18 heads.
+          </p>
+          <p id="Par51">
+            The differences in coefficients for the spherical harmonics of degree l = 2 and order m = − 2 and different values of l
+            <sub>max</sub>
+             are shown in Fig. 
+            <xref rid="Fig4" ref-type="fig">4</xref>
+            . The largest difference between healthy patients and DP affected patients is found for l
+            <sub>max</sub>
+             = 4. For other values of l
+            <sub>max</sub>
+            , the differences are considerably lower.
+            <fig id="Fig4" position="float">
+              <label>Figure 4</label>
+              <caption xml:lang="en">
+                <p>
+                  Boxplots of the absolute values of 
+                  <inline-formula id="IEq16">
+                    <alternatives>
+                      <ns1:math id="IEq16_Math">
+                        <ns1:msubsup>
+                          <ns1:mi>f</ns1:mi>
+                          <ns1:mrow>
+                            <ns1:mn>2</ns1:mn>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mo>-</ns1:mo>
+                            <ns1:mn>2</ns1:mn>
+                          </ns1:mrow>
+                        </ns1:msubsup>
+                      </ns1:math>
+                      <tex-math id="IEq16_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                      <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq16.gif"/>
+                    </alternatives>
+                  </inline-formula>
+                   calculated with different lmax values for the two groups of regular heads and heads with DP.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig4_HTML.png" id="MO4"/>
+            </fig>
+          </p>
+          <p id="Par52">In order to carry out the statistical analysis, all coefficients and indexes were used in absolute values.</p>
+          <p id="Par53">
+            There exists an important correlation between the values of AI, OCLR, and 
+            <inline-formula id="IEq9">
+              <alternatives>
+                <ns1:math id="IEq9_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq9_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq9.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 4. In order to be able to compare the different parameters, the spherical harmonic coefficients of each 3D model have been multiplied 10 times (10x) and the OCLR has been normalized so a normal head would have an index of zero, yielding the new index OCLR-100. (Fig. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+            ).
+            <fig id="Fig5" position="float">
+              <label>Figure 5</label>
+              <caption xml:lang="en">
+                <p>
+                  Values of asymmetry index, and normalized OCLR and coefficients of  
+                  <inline-formula id="IEq17">
+                    <alternatives>
+                      <ns1:math id="IEq17_Math">
+                        <ns1:msubsup>
+                          <ns1:mi>f</ns1:mi>
+                          <ns1:mrow>
+                            <ns1:mn>2</ns1:mn>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mo>-</ns1:mo>
+                            <ns1:mn>2</ns1:mn>
+                          </ns1:mrow>
+                        </ns1:msubsup>
+                      </ns1:math>
+                      <tex-math id="IEq17_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                      <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq17.gif"/>
+                    </alternatives>
+                  </inline-formula>
+                   lmax = 4 for the two groups of healthy heads (H) and heads with DP (P). Negative and positive values indicate right and left side plagiocephaly (depressed back side area of the head) respectively.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig5_HTML.png" id="MO5"/>
+            </fig>
+          </p>
+          <p id="Par54">
+            The objective of this study was to evaluate the capacity of spherical harmonics to detect and quantify DP in relation to conventional and extended anthropomorphic indexes. The distribution of the values of different indexes and coefficients for both groups (regular and with DP) is shown in Fig. 
+            <xref rid="Fig6" ref-type="fig">6</xref>
+            .
+            <fig id="Fig6" position="float">
+              <label>Figure 6</label>
+              <caption xml:lang="en">
+                <p>
+                  Boxplots of the absolute values of different deformation indexes and coefficient 
+                  <inline-formula id="IEq18">
+                    <alternatives>
+                      <ns1:math id="IEq18_Math">
+                        <ns1:msubsup>
+                          <ns1:mi>f</ns1:mi>
+                          <ns1:mrow>
+                            <ns1:mn>2</ns1:mn>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mo>-</ns1:mo>
+                            <ns1:mn>2</ns1:mn>
+                          </ns1:mrow>
+                        </ns1:msubsup>
+                      </ns1:math>
+                      <tex-math id="IEq18_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                      <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq18.gif"/>
+                    </alternatives>
+                  </inline-formula>
+                   lmax = 4 for the two groups of regular heads and heads with DP.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig6_HTML.png" id="MO6"/>
+            </fig>
+          </p>
+          <p id="Par55">
+            In order to determine whether spherical harmonics coefficients perform better than classical indexes for the discrimination of DP, a statistical Student t-test was performed. The normality and homocedasticity of the full sample were checked beforehand. For every parameter, the p-value was below 0.05. This means that, for every parameter, there is a significant difference in means between regular heads and heads affected with DP. However, the spherical harmonics coefficients reported the lowest p-value and can therefore be considered the best parameter to distinguish between categories. The second best parameter is the sum of the absolute values for anterior and posterior asymmetry indexes. The most commonly used indexes (Asymmetry Index and OCLR) performed considerably worse (Table 
+            <xref rid="Tab2" ref-type="table">2</xref>
+            ).
+            <table-wrap id="Tab2">
+              <label>Table 2</label>
+              <caption xml:lang="en">
+                <p>p-values for the different coefficients and indexes computed ordered from highest to lowest confidence.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left">
+                      <p>Coefficient</p>
+                    </th>
+                    <th align="left">
+                      <p>p-value</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">
+                      <p>
+                        |
+                        <inline-formula id="IEq19">
+                          <alternatives>
+                            <ns1:math id="IEq19_Math">
+                              <ns1:msubsup>
+                                <ns1:mi>f</ns1:mi>
+                                <ns1:mrow>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                                <ns1:mrow>
+                                  <ns1:mo>-</ns1:mo>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                              </ns1:msubsup>
+                            </ns1:math>
+                            <tex-math id="IEq19_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                            <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq19.gif"/>
+                          </alternatives>
+                        </inline-formula>
+                         l
+                        <sub>max</sub>
+                         = 4|
+                      </p>
+                    </td>
+                    <td align="left">
+                      <p>3.27E−07</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>|AAI| +|PAI|</p>
+                    </td>
+                    <td align="left">
+                      <p>8.67E−07</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>
+                        |
+                        <inline-formula id="IEq20">
+                          <alternatives>
+                            <ns1:math id="IEq20_Math">
+                              <ns1:msubsup>
+                                <ns1:mi>f</ns1:mi>
+                                <ns1:mrow>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                                <ns1:mrow>
+                                  <ns1:mo>-</ns1:mo>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                              </ns1:msubsup>
+                            </ns1:math>
+                            <tex-math id="IEq20_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                            <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq20.gif"/>
+                          </alternatives>
+                        </inline-formula>
+                         l
+                        <sub>max</sub>
+                         = 3|
+                      </p>
+                    </td>
+                    <td align="left">
+                      <p>1.26E−05</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>|AI|</p>
+                    </td>
+                    <td align="left">
+                      <p>1.72E−04</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>|OCLR-100|</p>
+                    </td>
+                    <td align="left">
+                      <p>2.61E−04</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>
+                        |
+                        <inline-formula id="IEq21">
+                          <alternatives>
+                            <ns1:math id="IEq21_Math">
+                              <ns1:msubsup>
+                                <ns1:mi>f</ns1:mi>
+                                <ns1:mrow>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                                <ns1:mrow>
+                                  <ns1:mo>-</ns1:mo>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                              </ns1:msubsup>
+                            </ns1:math>
+                            <tex-math id="IEq21_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                            <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq21.gif"/>
+                          </alternatives>
+                        </inline-formula>
+                         l
+                        <sub>max</sub>
+                         = 2|
+                      </p>
+                    </td>
+                    <td align="left">
+                      <p>1.14E−03</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>
+                        |
+                        <inline-formula id="IEq22">
+                          <alternatives>
+                            <ns1:math id="IEq22_Math">
+                              <ns1:msubsup>
+                                <ns1:mi>f</ns1:mi>
+                                <ns1:mrow>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                                <ns1:mrow>
+                                  <ns1:mo>-</ns1:mo>
+                                  <ns1:mn>2</ns1:mn>
+                                </ns1:mrow>
+                              </ns1:msubsup>
+                            </ns1:math>
+                            <tex-math id="IEq22_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                            <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq22.gif"/>
+                          </alternatives>
+                        </inline-formula>
+                         l
+                        <sub>max</sub>
+                         = 5|
+                      </p>
+                    </td>
+                    <td align="left">
+                      <p>6.46E−03</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </p>
+          <p id="Par56">
+            To check the potential of using spherical harmonics to fit any irregular surface, i.e. heads with DP, Fig. 
+            <xref rid="Fig7" ref-type="fig">7</xref>
+             displays the result of lmax = 4 for a the patients P01.
+            <fig id="Fig7" position="float">
+              <label>Figure 7</label>
+              <caption xml:lang="en">
+                <p>
+                  Patient P01: (
+                  <bold>a</bold>
+                  ,
+                  <bold>b</bold>
+                  ) are estimated differences to the fitted ellipsoid with spherical harmonics; (
+                  <bold>c</bold>
+                  ,
+                  <bold>d</bold>
+                  ) difference errors between the original photogrammetric 3D model and the spherical harmonics-based reconstruction. The RMSE for this patient was 0.62 mm.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4181_Fig7_HTML.png" id="MO7"/>
+            </fig>
+          </p>
+        </sec>
+        <sec id="Sec12" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par57">
+            3D models are becoming an important tool to detect and quantify DP and other types of cranial deformations. The models provide a much higher quantity of information in comparison with traditional measurements. Nevertheless, the 3D models should not only be used to compute traditionally simple indexes, because the richness of information is paramount. It is necessary to develop better indexes and coefficients that use all the data contained in the 3D model to allow paediatricians and neurosurgeons assessing the right diagnostics
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par58">
+            The spherical harmonic coefficient 
+            <inline-formula id="IEq10">
+              <alternatives>
+                <ns1:math id="IEq10_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq10_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq10.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 4 is presented as the best option to detect and quantify DP. Even 
+            <inline-formula id="IEq11">
+              <alternatives>
+                <ns1:math id="IEq11_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq11_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq11.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 3 is better than the |AI|, while the latter outperforms 
+            <inline-formula id="IEq12">
+              <alternatives>
+                <ns1:math id="IEq12_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq12_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq12.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 2. The assigned weight of the coefficient 
+            <inline-formula id="IEq13">
+              <alternatives>
+                <ns1:math id="IEq13_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq13_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq13.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 4 has been found to allow better discrimination between DP and regular heads in comparison with traditional measurements.
+          </p>
+          <p id="Par59">
+            The threshold for the coefficient 
+            <inline-formula id="IEq14">
+              <alternatives>
+                <ns1:math id="IEq14_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq14_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq14.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 4 to discriminate regular and DP affected heads is set to 0.42. However, an improvement of this threshold could be carried out by using a larger set of data.
+          </p>
+          <p id="Par60">The second-best parameter was the sum of anterior and posterior asymmetry indexes (|AAI| +|PAI|). These parameters have to be extracted from the 3D model as they cannot be computed from traditional analogue measurements taken with a calliper. Without any doubt, the traditional measurements provide considerably worse results to assess the cranial deformation in patients.</p>
+          <p id="Par61">
+            Similarly as was demonstrated previously by other authors, increasing lmax up to 8 and upwards, the RMSE converges towards zero, starting from a RMSE value close to 2 mm for lmax = 1. However, as stated above, the maximum differentiation in absolute values of 
+            <italic>f</italic>
+            <sub>2</sub>
+            <sup>–2</sup>
+             is maximum for lmax = 4. Minimizing the RMSE with higher lmax degrees, confirms why other researchers opt for using maximum l-values of 100
+            <sup>
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            , 1024
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+             or even an infinite set of harmonic functions
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              ,
+              <xref ref-type="bibr" rid="CR27">27</xref>
+            </sup>
+            . Our understanding for reaching a global complexity value, instead of regional or local complexities
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+            , confirms the expections of differentiating between regular heads and heads with DP using a relatively low lmax value of 4.
+          </p>
+          <p id="Par62">This research opens the door to the future application of spherical harmonics to identify different cranial deformation diseases using different degrees and orders. For instance, other types of deformation in infants such as brachycephaly, scaphocephaly or other types of craniosynostosis will be investigated in the future to confirm the successful implementation of spherical harmonics to help to improve infant’s diagnostics.</p>
+          <p id="Par63">
+            Although photogrammetric 3D models of the head has been used for this study, the methodology can also be applied to 3D models obtained by advanced radiological devices such as CT and MRI or high-end photogrammetric/laser scanning solutions. In spite of the fact that CT and MRI are considered the gold standard for diagnostics and surgery intervention, derived measurements are usually obtained manually by radiologists. Because of this, it is required to improve and develop new, mathematically validated anthropometric indexes, that provide useful and accurate information to specialised doctors
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+            .
+          </p>
+        </sec>
+        <sec id="Sec13" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p id="Par64">
+            Spherical harmonics are presented as a valuable tool for the detection and measurement of DP, which is a common infant’s disease that requires the right diagnostics in the early life stages. In the present study, spherical harmonics have been first used to assess DP in infants in a simple way. In particular, the spherical harmonics are used to model the distances from the real head to an ideally fitted ellipsoid. The spherical harmonic coefficient of degree 2, order—2 with l
+            <sub>max</sub>
+             = 4 has been found to provide the best results to discriminate between regular and DP affected heads. This spherical harmonic coefficient has been found to provide better results than the commonly used anthropometric indexes such as AI and OCLR, to discriminate between regular and DP affected heads.
+          </p>
+          <p id="Par65">
+            A threshold for 
+            <inline-formula id="IEq15">
+              <alternatives>
+                <ns1:math id="IEq15_Math">
+                  <ns1:msubsup>
+                    <ns1:mi>f</ns1:mi>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mo>-</ns1:mo>
+                      <ns1:mn>2</ns1:mn>
+                    </ns1:mrow>
+                  </ns1:msubsup>
+                </ns1:math>
+                <tex-math id="IEq15_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{2}^{-2}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2021_4181_Article_IEq15.gif"/>
+              </alternatives>
+            </inline-formula>
+             lmax = 4 of 0.42 is proposed in order to discriminate between regular and DP affected heads.
+          </p>
+          <p id="Par66">Moreover, it has been found that the simple sum of the absolute values for anterior and posterior asymmetry indexes (|AAI| +|PAI|) performs better than AI and OCLR, independently of whether these two latter indexes are extracted from the 3D model, the 2D images from CT and MRI. However, AAI and PAI cannot be determined by using a calliper/cephalometer, despite its easy computation.</p>
+          <p id="Par67">In the near future, further research will be devoted to assessing the performance of spherical harmonics to assess additional cranial deformation problems such as brachycephaly, scaphocephaly, hydrocephaly and craniosynostosis. Last but not least, the presented threshold will be refined with a larger dataset.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>This work was supported by the Instituto de Salud Carlos III and European Regional Development Fund (FEDER), project number PI18/00881.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>J.G.: software, investigation, formal analysis, visualization, writing—original draft. I.B.G.: methodology, data curation, formal analysis, writing—original draft. J.L.: conceptualization, writing—review and editing, supervision, funding acquisition.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>This article was funded by Instituto de Salud Carlos III and European Regional Development Fund (FEDER) (Grant no. PI18/00881).</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par68">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Peitsch</surname>
+                    <given-names>WK</given-names>
+                  </name>
+                  <name>
+                    <surname>Keefer</surname>
+                    <given-names>CH</given-names>
+                  </name>
+                  <name>
+                    <surname>LaBrie</surname>
+                    <given-names>RA</given-names>
+                  </name>
+                  <name>
+                    <surname>Mulliken</surname>
+                    <given-names>JB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Incidence of cranial asymmetry in healthy newborns</article-title>
+                <source>Pediatrics</source>
+                <year>2004</year>
+                <volume>110</volume>
+                <fpage>e72</fpage>
+                <lpage>e72</lpage>
+                <pub-id pub-id-type="doi">10.1542/peds.110.6.e72</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="other">
+                Bialocerkowski, A. E., Vladusic, S. L. &amp; Wei Ng, C. Prevalence, risk factors, and natural history of positional plagiocephaly: a systematic review. 
+                <italic>Dev. Med. Child Neurol.</italic>
+                <bold>50</bold>
+                , 577–586 (2008).
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mawji</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Vollman</surname>
+                    <given-names>AR</given-names>
+                  </name>
+                  <name>
+                    <surname>Hatfield</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>McNeil</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>Sauvé</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The incidence of positional plagiocephaly: A cohort study</article-title>
+                <source>Pediatrics</source>
+                <year>2013</year>
+                <volume>132</volume>
+                <fpage>298</fpage>
+                <lpage>304</lpage>
+                <pub-id pub-id-type="doi">10.1542/peds.2012-3438</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ballardini</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Prevalence and characteristics of positional plagiocephaly in healthy full-term infants at 8–12 weeks of life</article-title>
+                <source>Eur. J. Pediatr.</source>
+                <year>2018</year>
+                <volume>177</volume>
+                <fpage>1547</fpage>
+                <lpage>1554</lpage>
+                <pub-id pub-id-type="doi">10.1007/s00431-018-3212-0</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Martiniuk</surname>
+                    <given-names>ALC</given-names>
+                  </name>
+                  <name>
+                    <surname>Vujovich-Dunn</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Yu</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Lucas</surname>
+                    <given-names>BR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Plagiocephaly and developmental delay: A systematic review</article-title>
+                <source>J. Dev. Behav. Pediatr.</source>
+                <year>2017</year>
+                <volume>38</volume>
+                <fpage>67</fpage>
+                <lpage>78</lpage>
+                <pub-id pub-id-type="doi">10.1097/DBP.0000000000000376</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Collett</surname>
+                    <given-names>BR</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Development at age 36 months in children with deformational plagiocephaly</article-title>
+                <source>Pediatrics</source>
+                <year>2013</year>
+                <volume>131</volume>
+                <fpage>e109</fpage>
+                <lpage>e115</lpage>
+                <pub-id pub-id-type="doi">10.1542/peds.2012-1779</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="other">
+                Collett, B. R., Wallace, E. R., Kartin, D., Cunningham, M. L. &amp; Speltz, M. L. Cognitive outcomes and positional plagiocephaly. 
+                <italic>Pediatrics</italic>
+                <bold>143</bold>
+                , e20182373 (2019).
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Aarnivala</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Accuracy of measurements used to quantify cranial asymmetry in deformational plagiocephaly</article-title>
+                <source>J. Cranio-Maxillofacial Surg.</source>
+                <year>2017</year>
+                <pub-id pub-id-type="doi">10.1016/j.jcms.2017.05.014</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schaaf</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Three-dimensional photographic analysis of outcome after helmet treatment of a nonsynostotic cranial deformity</article-title>
+                <source>J. Craniofac. Surg.</source>
+                <year>2010</year>
+                <volume>21</volume>
+                <fpage>1677</fpage>
+                <lpage>1682</lpage>
+                <pub-id pub-id-type="doi">10.1097/SCS.0b013e3181f3c630</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wilbrand</surname>
+                    <given-names>JF</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Value and reliability of anthropometric measurements of cranial deformity in early childhood</article-title>
+                <source>J. Cranio-Maxillofacial Surg.</source>
+                <year>2011</year>
+                <volume>39</volume>
+                <fpage>24</fpage>
+                <lpage>29</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.jcms.2010.03.010</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Skolnick</surname>
+                    <given-names>GB</given-names>
+                  </name>
+                  <name>
+                    <surname>Naidoo</surname>
+                    <given-names>SD</given-names>
+                  </name>
+                  <name>
+                    <surname>Nguyen</surname>
+                    <given-names>DC</given-names>
+                  </name>
+                  <name>
+                    <surname>Patel</surname>
+                    <given-names>KB</given-names>
+                  </name>
+                  <name>
+                    <surname>Woo</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Comparison of direct and digital measures of cranial vault asymmetry for assessment of plagiocephaly</article-title>
+                <source>J. Craniofac. Surg.</source>
+                <year>2015</year>
+                <volume>26</volume>
+                <fpage>1900</fpage>
+                <lpage>1903</lpage>
+                <pub-id pub-id-type="doi">10.1097/SCS.0000000000002019</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Barbero-García</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Lerma</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Mora-Navarro</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Fully automatic smartphone-based photogrammetric 3D modelling of infant’s heads for cranial deformation analysis</article-title>
+                <source>ISPRS J. Photogramm. Remote Sens.</source>
+                <year>2020</year>
+                <volume>166</volume>
+                <fpage>268</fpage>
+                <lpage>277</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020JPRS..166..268B</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.isprsjprs.2020.06.013</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Robinson</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Proctor</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Diagnosis and management of deformational plagiocephaly: A review</article-title>
+                <source>J. Neurosurg. Pediatr.</source>
+                <year>2009</year>
+                <volume>3</volume>
+                <fpage>284</fpage>
+                <lpage>295</lpage>
+                <pub-id pub-id-type="doi">10.3171/2009.1.PEDS08330</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>de Jong</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Combining deep learning with 3D stereophotogrammetry for craniosynostosis diagnosis</article-title>
+                <source>Sci. Rep.</source>
+                <year>2020</year>
+                <volume>10</volume>
+                <fpage>15346</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020NatSR..1015346D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41598-020-72143-y</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Meulstee</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A new method for three-dimensional evaluation of the cranial shape and the automatic identification of craniosynostosis using 3D stereophotogrammetry</article-title>
+                <source>Int. J. Oral Maxillofac. Surg.</source>
+                <year>2017</year>
+                <volume>46</volume>
+                <fpage>819</fpage>
+                <lpage>826</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC1cvmtVygsA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ijom.2017.03.017</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Moghaddam</surname>
+                    <given-names>MB</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Outcome analysis after helmet therapy using 3D photogrammetry in patients with deformational plagiocephaly: The role of root mean square</article-title>
+                <source>J. Plast. Reconstr. Aesthetic Surg.</source>
+                <year>2014</year>
+                <volume>67</volume>
+                <fpage>159</fpage>
+                <lpage>165</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.bjps.2013.09.036</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Vuollo</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Analyzing infant head flatness and asymmetry using kernel density estimation of directional surface data from a craniofacial 3D model</article-title>
+                <source>Stat. Med.</source>
+                <year>2016</year>
+                <volume>35</volume>
+                <fpage>4891</fpage>
+                <lpage>4904</lpage>
+                <pub-id pub-id-type="other" assigning-authority="American Mathematical Society">3555000</pub-id>
+                <pub-id pub-id-type="doi">10.1002/sim.7032</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Barbero-García</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Lerma</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Marqués-Mateu</surname>
+                    <given-names>Á</given-names>
+                  </name>
+                  <name>
+                    <surname>Miranda</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Low-cost smartphone-based photogrammetry for the analysis of cranial deformation in infants</article-title>
+                <source>World Neurosurg.</source>
+                <year>2017</year>
+                <volume>102</volume>
+                <fpage>545</fpage>
+                <lpage>554</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.wneu.2017.03.015</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="other">
+                Michel, V. &amp; Seibert, K. A Mathematical View on spin-weighted spherical harmonics and their applications in Geodesy. in 195–307 (Springer Spektrum, Berlin, Heidelberg, 2020). 
+                <ext-link ns0:href="10.1007/978-3-662-55854-6_102" ext-link-type="doi">https://doi.org/10.1007/978-3-662-55854-6_102</ext-link>
+                .
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Foroughi</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Sub-centimetre geoid</article-title>
+                <source>J. Geod.</source>
+                <year>2019</year>
+                <volume>93</volume>
+                <fpage>849</fpage>
+                <lpage>868</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019JGeod..93..849F</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s00190-018-1208-1</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Balmino</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Lambeck</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Kaula</surname>
+                    <given-names>WM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A spherical harmonic analysis of the Earth’s topography</article-title>
+                <source>J. Geophys. Res.</source>
+                <year>1973</year>
+                <volume>78</volume>
+                <fpage>478</fpage>
+                <lpage>481</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1973JGR....78..478B</pub-id>
+                <pub-id pub-id-type="doi">10.1029/JB078i002p00478</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wouters</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Schrama</surname>
+                    <given-names>EJO</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Improved accuracy of GRACE gravity solutions through empirical orthogonal function filtering of spherical harmonics</article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>2007</year>
+                <volume>34</volume>
+                <fpage>1</fpage>
+                <pub-id pub-id-type="doi">10.1029/2007GL032098</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Salaree</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Okal</surname>
+                    <given-names>EA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effects of bathymetry complexity on tsunami propagation: A spherical harmonics approach</article-title>
+                <source>Geophys. J. Int.</source>
+                <year>2020</year>
+                <volume>223</volume>
+                <fpage>632</fpage>
+                <lpage>647</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020GeoJI.223..632S</pub-id>
+                <pub-id pub-id-type="doi">10.1093/gji/ggaa334</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shen</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Farid</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>McPeek</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Modeling three-dimensional morphological structures using spherical harmonics</article-title>
+                <source>Evolution</source>
+                <year>2009</year>
+                <volume>63</volume>
+                <fpage>1003</fpage>
+                <lpage>1016</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1558-5646.2008.00557.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="other">
+                Nortje, C. R., Ward, W. O. C., Neuman, B. P. &amp; Bai, L. Spherical harmonics for surface parametrisation and remeshing. 
+                <italic>Math. Probl. Eng.</italic>
+                <bold>2015</bold>
+                , (2015).
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Naglah</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Novel mri-based cad system for early detection of thyroid cancer using multi-input CNN</article-title>
+                <source>Sensors</source>
+                <year>2021</year>
+                <volume>21</volume>
+                <fpage>3878</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2021Senso..21.3878N</pub-id>
+                <pub-id pub-id-type="doi">10.3390/s21113878</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="other">
+                Naglah, A., Khalifa, F., Khaled, R., Razek, A. A. K. A. &amp; El-Baz, A. Thyroid cancer computer-aided diagnosis system using mri-based multi-input CNN model. 
+                <italic>Proc. Int. Symp. Biomed. Imaging</italic>
+                <bold>2021</bold>
+                , 1691–1694 (2021).
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nazem-Zadeh</surname>
+                    <given-names>MR</given-names>
+                  </name>
+                  <name>
+                    <surname>Davoodi-Bojd</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Soltanian-Zadeh</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Level set fiber bundle segmentation using spherical harmonic coefficients</article-title>
+                <source>Comput. Med. Imaging Graph.</source>
+                <year>2010</year>
+                <volume>34</volume>
+                <fpage>192</fpage>
+                <lpage>202</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.compmedimag.2009.09.003</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yotter</surname>
+                    <given-names>RA</given-names>
+                  </name>
+                  <name>
+                    <surname>Nenadic</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Ziegler</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Thompson</surname>
+                    <given-names>PM</given-names>
+                  </name>
+                  <name>
+                    <surname>Gaser</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Local cortical surface complexity maps from spherical harmonic reconstructions</article-title>
+                <source>Neuroimage</source>
+                <year>2011</year>
+                <volume>56</volume>
+                <fpage>961</fpage>
+                <lpage>973</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.02.007</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yotter</surname>
+                    <given-names>RA</given-names>
+                  </name>
+                  <name>
+                    <surname>Thompson</surname>
+                    <given-names>PM</given-names>
+                  </name>
+                  <name>
+                    <surname>Gaser</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Algorithms to improve the reparameterization of spherical mappings of brain surface meshes</article-title>
+                <source>J. Neuroimaging</source>
+                <year>2011</year>
+                <volume>21</volume>
+                <fpage>1</fpage>
+                <pub-id pub-id-type="doi">10.1111/j.1552-6569.2010.00484.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="other">Lerma García, J. L., Barbero Garcia, I., Miranda Lloret, P., Blanco Pons, S. &amp; Carrión Ruiz, B. Sistema de obtención de datos útiles para el análisis de la morfometría corporal y método asociado. (2019).</mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wieczorek</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <name>
+                    <surname>Meschede</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">SHTools: tools for working with spherical harmonics</article-title>
+                <source>Geochem. Geophys. Geosyst.</source>
+                <year>2018</year>
+                <volume>19</volume>
+                <fpage>2574</fpage>
+                <lpage>2592</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018GGG....19.2574W</pub-id>
+                <pub-id pub-id-type="doi">10.1029/2018GC007529</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="other">
+                Barbero-García, I. &amp; Lerma, J. L. Assessment of registration methods for cranial 3D modelling. 
+                <italic>Proceedings</italic>
+                <bold>19</bold>
+                 (2019).
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mortenson</surname>
+                    <given-names>PA</given-names>
+                  </name>
+                  <name>
+                    <surname>Steinbok</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Quantifying positional plagiocephaly: Reliability and validity of anthropometric measurements</article-title>
+                <source>J. Craniofac. Surg.</source>
+                <year>2006</year>
+                <volume>17</volume>
+                <fpage>413</fpage>
+                <lpage>419</lpage>
+                <pub-id pub-id-type="doi">10.1097/00001665-200605000-00005</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Glasgow</surname>
+                    <given-names>TS</given-names>
+                  </name>
+                  <name>
+                    <surname>Siddiqi</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Hoff</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Young</surname>
+                    <given-names>PC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Deformational plagiocephaly: Development of an objective measure and determination of its prevalence in primary care</article-title>
+                <source>J. Craniofac. Surg.</source>
+                <year>2007</year>
+                <volume>1</volume>
+                <fpage>85</fpage>
+                <lpage>92</lpage>
+                <pub-id pub-id-type="doi">10.1097/01.scs.0000244919.69264.bf</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mortenson</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Steinbok</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Smith</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Deformational plagiocephaly and orthotic treatment: Indications and limitations</article-title>
+                <source>Child’s Nerv. Syst.</source>
+                <year>2012</year>
+                <volume>28</volume>
+                <fpage>1407</fpage>
+                <lpage>1412</lpage>
+                <pub-id pub-id-type="doi">10.1007/s00381-012-1755-3</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kalra</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Walker</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Posterior plagiocephaly</article-title>
+                <source>Child’s Nerv. Syst.</source>
+                <year>2012</year>
+                <volume>28</volume>
+                <fpage>1389</fpage>
+                <lpage>1393</lpage>
+                <pub-id pub-id-type="doi">10.1007/s00381-012-1784-y</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Pindrik</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Molenda</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Uribe-Cardenas</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Dorafshar</surname>
+                    <given-names>AH</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahn</surname>
+                    <given-names>ES</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Normative ranges of anthropometric cranial indices and metopic suture closure during infancy</article-title>
+                <source>J. Neurosurg. Pediatr.</source>
+                <year>2016</year>
+                <volume>18</volume>
+                <fpage>667</fpage>
+                <lpage>673</lpage>
+                <pub-id pub-id-type="doi">10.3171/2016.5.PEDS14336</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bektas</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Least square fitting of ellipsoid using orthogonal distances</article-title>
+                <source>Bol. Ciências Geodésicas</source>
+                <year>2015</year>
+                <volume>21</volume>
+                <fpage>329</fpage>
+                <lpage>339</lpage>
+                <pub-id pub-id-type="doi">10.1590/S1982-21702015000200019</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bektas</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Orthogonal distance from an ellipsoid</article-title>
+                <source>Bol. Ciências Geodésicas</source>
+                <year>2014</year>
+                <volume>20</volume>
+                <fpage>970</fpage>
+                <lpage>983</lpage>
+                <pub-id pub-id-type="doi">10.1590/S1982-21702014000400053</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="other">Grieb, J. I. Detección de deformaciones craneales en lactantes basado en la modelización 3D con armónicos esféricos (2021).</mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fabijańska</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Wegliński</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The quantitative assessment of the pre- and postoperative craniosynostosis using the methods of image analysis</article-title>
+                <source>Comput. Med. Imaging Graph.</source>
+                <year>2015</year>
+                <volume>46</volume>
+                <fpage>153</fpage>
+                <lpage>168</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.compmedimag.2015.05.005</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="other">
+                Shen, L. &amp; Chung, M. K. Large-scale modeling of parametric surfaces using spherical harmonics. 
+                <italic>Proc. Third Int. Symp. 3D Data Process. Vis. Transm. 3DPVT 2006</italic>
+                 294–301 (2006) 
+                <ext-link ns0:href="10.1109/3DPVT.2006.86" ext-link-type="doi">https://doi.org/10.1109/3DPVT.2006.86</ext-link>
+                .
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <notes notes-type="Misc">
+          <title>Publisher's note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

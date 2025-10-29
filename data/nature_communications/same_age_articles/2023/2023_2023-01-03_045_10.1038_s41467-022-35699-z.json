@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642046",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35699-z",
+    "title": "Enhanced chiroptic properties of nanocomposites of achiral plasmonic nanoparticles decorated with chiral dye-loaded micelles",
+    "article_number": "81",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tonghan Zhao",
+      "Dejing Meng",
+      "Zhijian Hu",
+      "Wenjing Sun",
+      "Yinglu Ji",
+      "Jianlei Han",
+      "Xue Jin",
+      "Xiaochun Wu",
+      "Pengfei Duan"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:53:07.084131"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T18:53:08.599864"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:53:09.873864"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T23:11:42.466559"
+    },
+    "last_updated": "2025-10-03T23:11:42.466750"
+  }
+}

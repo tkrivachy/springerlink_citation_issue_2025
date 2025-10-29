@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.648466",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10126-4",
+    "title": "The use of mobile phones for the prevention and control of arboviral diseases: a scoping review",
+    "article_number": "110",
+    "publication_date": "2021-01-09",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Maria Angelica Carrillo",
+      "Axel Kroeger",
+      "Rocio Cardenas Sanchez",
+      "Sonia Diaz Monsalve",
+      "Silvia Runge-Ranzinger"
+    ]
+  },
+  "article_index": 155,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T13:52:18.901534"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T13:52:20.567286"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:52:21.837682"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T21:21:46.947931"
+    },
+    "last_updated": "2025-10-03T21:21:46.948042"
+  }
+}

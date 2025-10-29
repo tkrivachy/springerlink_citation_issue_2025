@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.846968",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50966-9",
+    "title": "Quantitative MRI-based radiomics analysis identifies blood flow feature associated to overall survival for rectal cancer patients",
+    "article_number": "258",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Franziska Knuth",
+      "Fariba Tohidinezhad",
+      "René M. Winter",
+      "Kine Mari Bakke",
+      "Anne Negård",
+      "Stein H. Holmedal",
+      "Anne Hansen Ree",
+      "Sebastian Meltzer",
+      "Alberto Traverso",
+      "Kathrine Røe Redalen"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:00:11.590608"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:00:13.158867"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:00:14.330180"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:11:39.109352"
+    },
+    "last_updated": "2025-10-03T22:11:39.109547"
+  }
+}

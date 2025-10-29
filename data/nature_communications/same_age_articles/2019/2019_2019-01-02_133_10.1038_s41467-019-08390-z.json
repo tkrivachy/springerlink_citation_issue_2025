@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.691703",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08390-z",
+    "title": "The functional synergism of microRNA clustering provides therapeutically relevant epigenetic interference in glioblastoma",
+    "article_number": "442",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Vivek Bhaskaran",
+      "Michal O. Nowicki",
+      "Mahmoud Idriss",
+      "Miguel A. Jimenez",
+      "Gianmarco Lugli",
+      "Josie L. Hayes",
+      "Ahmad Bakur Mahmoud",
+      "Rachel E. Zane",
+      "Carmela Passaro",
+      "Keith L. Ligon",
+      "Daphne Haas-Kogan",
+      "Agnieszka Bronisz",
+      "Jakub Godlewski",
+      "Sean E. Lawler",
+      "E. Antonio Chiocca",
+      "Pierpaolo Peruzzi"
+    ]
+  },
+  "article_index": 133,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:57:10.312653"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T17:57:11.862664"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T17:57:13.262868"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T22:52:59.272594"
+    },
+    "last_updated": "2025-10-03T22:52:59.272673"
+  }
+}

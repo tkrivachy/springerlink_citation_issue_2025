@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.558510",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55380-x",
+    "title": "Demonstration of high-reconfigurability and low-power strong physical unclonable function empowered by FeFET cycle-to-cycle variation and charge-domain computing",
+    "article_number": "189",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Taixin Li",
+      "Xinrui Guo",
+      "Franz Müller",
+      "Sukhrob Abdulazhanov",
+      "Xiaoyang Ma",
+      "Hongtao Zhong",
+      "Yongpan Liu",
+      "Vijaykrishnan Narayanan",
+      "Huazhong Yang",
+      "Kai Ni",
+      "Thomas Kämpfe",
+      "Xueqing Li"
+    ]
+  },
+  "article_index": 299,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:24:18.362214"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:24:19.908961"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:24:21.132640"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:22:16.240023"
+    },
+    "last_updated": "2025-10-03T23:22:16.240212"
+  }
+}

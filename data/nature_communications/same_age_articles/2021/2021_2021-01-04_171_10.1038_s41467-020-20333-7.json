@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.201221",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20333-7",
+    "title": "Epidemic growth and Griffiths effects on an emergent network of excited atoms",
+    "article_number": "103",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "T. M. Wintermantel",
+      "M. Buchhold",
+      "S. Shevate",
+      "M. Morgado",
+      "Y. Wang",
+      "G. Lochead",
+      "S. Diehl",
+      "S. Whitlock"
+    ]
+  },
+  "article_index": 171,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:29:01.104080"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:29:02.638073"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:29:03.814114"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:03:43.245108"
+    },
+    "last_updated": "2025-10-03T23:03:43.245297"
+  }
+}

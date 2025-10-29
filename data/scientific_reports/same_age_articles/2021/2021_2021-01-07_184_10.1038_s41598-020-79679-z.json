@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.234784",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79679-z",
+    "title": "Restoration of surfactant activity by polymyxin B in lipopolysaccharide-potentiated injury of immature rabbit lungs",
+    "article_number": "22",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Andrea Calkovska",
+      "Marie Haegerstrand-Björkman",
+      "Tore Curstedt"
+    ]
+  },
+  "article_index": 184,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:55:13.110170"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:55:14.676306"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:55:15.852563"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:45:24.253905"
+    },
+    "last_updated": "2025-10-03T21:45:24.253994"
+  }
+}

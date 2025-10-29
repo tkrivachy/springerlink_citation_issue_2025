@@ -1,0 +1,3260 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-48829-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-023-48829-4</article-id>
+          <article-id pub-id-type="manuscript">48829</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-023-48829-4</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/477</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/477/2811</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Examining double standards in layoff preferences and expectations for gender, age, and ethnicity when violating the social norm of vaccination</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7176-4775</contrib-id>
+              <name name-style="western">
+                <surname>Moya</surname>
+                <given-names>Cristóbal</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au2">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6491-0754</contrib-id>
+              <name name-style="western">
+                <surname>Sattler</surname>
+                <given-names>Sebastian</given-names>
+              </name>
+              <address>
+                <email>sebastian.sattler@uni-bielefeld.de</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+              <xref ref-type="corresp" rid="IDs41598023488294_cor2">b</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8991-0892</contrib-id>
+              <name name-style="western">
+                <surname>Taflinger</surname>
+                <given-names>Shannon</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8090-6886</contrib-id>
+              <name name-style="western">
+                <surname>Sauer</surname>
+                <given-names>Carsten</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02hpadn98</institution-id>
+                <institution-id institution-id-type="GRID">grid.7491.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 0944 9128</institution-id>
+                <institution content-type="org-division">Faculty of Sociology</institution>
+                <institution content-type="org-name">Bielefeld University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">33615</addr-line>
+              <addr-line content-type="city">Bielefeld</addr-line>
+              <country country="DE">Germany</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.8465.f</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 1931 3152</institution-id>
+                <institution content-type="org-name">DIW Berlin</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">10117</addr-line>
+              <addr-line content-type="city">Berlin</addr-line>
+              <country country="DE">Germany</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/05m8pzq90</institution-id>
+                <institution-id institution-id-type="GRID">grid.511547.3</institution-id>
+                <institution content-type="org-division">Pragmatic Health Ethics Research Unit</institution>
+                <institution content-type="org-name">Institut de Recherches Cliniques de Montréal</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">H2W 1R7</addr-line>
+              <addr-line content-type="city">Montreal</addr-line>
+              <country country="CA">Canada</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/00rcxh774</institution-id>
+                <institution-id institution-id-type="GRID">grid.6190.e</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 8580 3777</institution-id>
+                <institution content-type="org-division">Institute of Sociology and Social Psychology</institution>
+                <institution content-type="org-name">University of Cologne</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">50931</addr-line>
+              <addr-line content-type="city">Cologne</addr-line>
+              <country country="DE">Germany</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41598023488294_cor2">
+              <label>b</label>
+              <email>sebastian.sattler@uni-bielefeld.de</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2024</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2024</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue seq="41">1</issue>
+          <elocation-id>39</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>30</day>
+              <month>11</month>
+              <year>2023</year>
+            </date>
+            <date date-type="received">
+              <day>31</day>
+              <month>3</month>
+              <year>2023</year>
+            </date>
+            <date date-type="accepted">
+              <day>30</day>
+              <month>11</month>
+              <year>2023</year>
+            </date>
+            <date date-type="online">
+              <day>2</day>
+              <month>1</month>
+              <year>2024</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+            <copyright-year>2024</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Whether vaccination refusal is perceived as a social norm violation that affects layoff decisions has not been tested. Also unknown is whether ascribed low-status groups are subject to double standards when they violate norms, experiencing stronger sanctions in layoff preferences and expectations, and whether work performance attenuates such sanctioning. Therefore, we study layoff preferences and expectations using a discrete choice experiment within a large representative online survey in Germany (
+              <italic>N</italic>
+               = 12,136). Respondents chose between two employee profiles, each with information about ascribed characteristics signaling different status groups (gender, age, and ethnicity), work performance (work quality and quantity, and social skills), and whether the employees refused to vaccinate against COVID-19. We found that employees who refused vaccination were more likely to be preferred and expected to be laid off. Respondents also expected double standards regarding layoffs due to vaccination refusal, hence, harsher treatment of females and older employees. Nonetheless, their preferences did not reflect such double standards. We found little support that high work performance attenuates these sanctions and double standards, opening questions about the conditions under which social biases arise. Our results suggest detrimental consequences of vaccination refusal for individuals, the labor market, and acceptance of health policies.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="17">Psychology and Cognitive Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1701">Psychology</kwd>
+            </nested-kwd>
+            <kwd content-type="term" vocab-term-identifier="15">Commerce, Management, Tourism and Services</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1503">Business and Management</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Deutsche Forschungsgemeinschaft</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100001659</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">SA 2992/3-1</award-id>
+              <award-id award-type="FundRef grant">MA 7556/1-1</award-id>
+              <award-id award-type="FundRef grant">KR 4060/6-1</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sattler</surname>
+                  <given-names>Sebastian</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sattler</surname>
+                  <given-names>Sebastian</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sattler</surname>
+                  <given-names>Sebastian</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Universität Bielefeld (3146)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <funding-statement>Open Access funding enabled and organized by Projekt DEAL.</funding-statement>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>2710</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>Springer Nature Limited</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2023</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>11</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>30</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2023_Article_48829.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            During the early stages of the COVID-19 (SARS-CoV-2) pandemic, the rapid development of vaccines against the virus was deemed a crucial intervention to save lives and counteract the negative effects of the pandemic on social life. However, after the development of vaccines, public health officials subsequently faced the challenge of vaccinating the highest possible share of the population against the COVID-19 virus. To this aim, many countries relied on public health campaigns to inform citizens about the benefits of being vaccinated for both the vaccinated and those with whom they interact. For example, in Germany the government led campaigns aimed to inform and motivate people to get vaccinated
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+              ,
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . In May 2022 (around the time we conducted our study), more than three-quarters of the German population was fully vaccinated. While vaccination rates vary around the globe, in many countries the majority of the population is vaccinated
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . The generally positive attitudes toward vaccination
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+             as well as the high uptake of the vaccine among the public in Germany and in many other countries suggest that vaccination against COVID-19 has likely become a social norm
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par3">
+            As has occurred with previous vaccination interventions, accepting or refusing vaccination is a contested domain with moral implications that can lead to social biases and discrimination between the vaccinated and the unvaccinated
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              ,
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . While social research on vaccination against COVID-19 has largely focused on causes of vaccination hesitation and refusal
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              ,
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              , 
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              –
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            , recent studies have explored other social consequences of vaccination as a public health intervention. For example, a study conducted in 21 countries showed that vaccinated people held discriminatory attitudes toward unvaccinated individuals and that vaccinated individuals were more likely to view unvaccinated individuals as “untrustworthy” and “incompetent”
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            . Also in the context of online experiments before the COVID-19 pandemic, vaccinated individuals were likely to sanction unvaccinated individuals for not being vaccinated
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par4">
+            Nevertheless, the social consequences of such mass vaccination in work contexts remain relatively underresearched. During the COVID-19 pandemic, many organizations reduced their operations and furloughed or laid off employees due to financial hardship, resulting in an 8% decrease in global working hours in 2020 compared to 2019 (equivalent to 255 million full-time jobs)
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+            . Especially in times of economic recession, companies must set criteria for deciding which employees to lay off
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . As vaccination likely operates as a social norm, refusing to get vaccinated could be considered a consequential criterion for layoff decisions. This proposition is supported by the aforementioned portrayals of unvaccinated individuals as less competent
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            , given that competence in task performance is a legitimate and widely accepted criterion for layoff decisions
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par5">
+            While research has identified criteria used by organizations when choosing who to lay off
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            , it is not clear how non-experts behave when confronting such a decision. While supervisors and human resource representatives are generally those who have the decision-making power to lay off employees, examining non-expert preferences and expectations about who to lay off has a threefold relevance. First, assessing the role of vaccination refusal on layoff 
+            <italic>preferences,</italic>
+             regarding who 
+            <italic>should</italic>
+             be laid off, and layoff 
+            <italic>expectations,</italic>
+             of who 
+            <italic>will</italic>
+             be laid off, provides evidence of the extent to which vaccination is a social norm whose violation should be sanctioned
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            . As future health crises are likely
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+            </sup>
+            , it is important to understand how people react to the interventions used to tackle such situations. Second, public opinion regarding layoff preferences is informative for expert decision-making processes: extant scholarship evidences that layoffs affect both the laid-off workers and those who survive layoffs
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . Therefore, layoff decision-makers can reduce the scarring effects for survivors by taking into account non-expert rationales for layoff decisions. Furthermore, a better understanding of layoff rationales based on vaccination refusal can provide insights to design policies that make layoff decisions more procedurally just, which is related to higher compliance and discretionary efforts from workers and less work demotivation within organizations
+            <sup>
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            . Third, expectations about social biases and discrimination in layoff decisions, even when in clear contrast with individual preferences, can impact how people behave. As a self-fulfilling prophecy, employees may act 
+            <italic>as if</italic>
+             these expectations were real, driving changes at the individual and collective level
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+              , 
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              –
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            . Therefore, in this study we focus on whether refusing to get vaccinated is a relevant criterion for layoff preferences and expectations of the lay German public, as well as its potential heterogeneity based on ascribed characteristics (gender, age and ethnicity) and achieved characteristics (work performance).
+          </p>
+          <sec id="Sec2">
+            <title>Layoff preferences and expectations depending on vaccination refusal</title>
+            <p id="Par6">
+              Vaccination has been one of the most important interventions to confront COVID-19 in the long term, rapidly adopted by authorities around the world where vaccines were available
+              <sup>
+                <xref ref-type="bibr" rid="CR3">3</xref>
+                ,
+                <xref ref-type="bibr" rid="CR24">24</xref>
+              </sup>
+              . From an epidemiological perspective, getting vaccinated against the virus not only contributes to individual protection against severe disease outcomes
+              <sup>
+                <xref ref-type="bibr" rid="CR24">24</xref>
+                ,
+                <xref ref-type="bibr" rid="CR25">25</xref>
+              </sup>
+              , but also adds to the collective protection for those around, such as coworkers and close contacts
+              <sup>
+                <xref ref-type="bibr" rid="CR26">26</xref>
+                ,
+                <xref ref-type="bibr" rid="CR27">27</xref>
+              </sup>
+              . Hence, vaccination refusal is an individual health decision with consequences beyond oneself. The collective effect of vaccination also entails that unvaccinated individuals can still benefit from being surrounded by vaccinated individuals, thus, vaccination is a public good subject to the free rider problem
+              <sup>
+                <xref ref-type="bibr" rid="CR28">28</xref>
+              </sup>
+              . A common way in which free-riding behaviors are mitigated is through the development of social norms that sanction such behaviors
+              <sup>
+                <xref ref-type="bibr" rid="CR29">29</xref>
+              </sup>
+              . Social norms are defined as a rule of behavior based on the combination of beliefs in a 
+              <italic>normative expectation</italic>
+               that others believe they ought to conform to the behavior and an 
+              <italic>empirical expectation</italic>
+               that most people conform to the behavior
+              <sup>
+                <xref ref-type="bibr" rid="CR5">5</xref>
+              </sup>
+              . In Germany, there is support for the empirical expectation that others conform to COVID-19 vaccination, as there is a high uptake of the COVID-19 vaccine and positive attitudes toward the vaccine
+              <sup>
+                <xref ref-type="bibr" rid="CR3">3</xref>
+                ,
+                <xref ref-type="bibr" rid="CR4">4</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par7">
+              Moreover, social norms also imply sanctions for norm violations. For example, sanctioning behavior toward those who refuse vaccination has been found in the form of negative attitudes toward the unvaccinated in Germany, among other countries
+              <sup>
+                <xref ref-type="bibr" rid="CR11">11</xref>
+              </sup>
+              . Building upon the conception of vaccination as a social norm and the sanctioning of its violation, we focus on the consequences of refusing vaccination in work contexts. We study whether and—if so—to which extent refusing vaccination is sanctioned by expressing higher layoff preferences (a higher likelihood of preferring to lay off candidates who refuse vaccination), and if there is an expectation that employers will sanction such behavior (a higher likelihood of expecting such candidates to be laid off by employers). Drawing from the literature on deservingness, it can be argued that non-compliance with vaccination norms can serve as a heuristic to determine who should be considered for layoffs
+              <sup>
+                <xref ref-type="bibr" rid="CR30">30</xref>
+              </sup>
+              . Therefore, if being vaccinated operates as a social norm, when faced with the decision of laying off two potential candidates, we expect lay people to be more likely to prefer the employee who refuses vaccination over an employee who is vaccinated (
+              <italic>H1a</italic>
+              ). Likewise, we hypothesize that laypeople will also expect employers to be more likely to lay off the candidate who refuses to get vaccinated (
+              <italic>H1b</italic>
+              ). In an exploratory manner, we also test the potential heterogeneity of these hypotheses based on participants' attitudes toward vaccination. If getting vaccinated operates as a social norm, people with negative attitudes toward vaccination would not be more likely to prefer to lay off an employee who refuses vaccination, but they would still be more likely to expect them to be laid off.
+            </p>
+          </sec>
+          <sec id="Sec3">
+            <title>Double standards for vaccination refusal among status groups</title>
+            <p id="Par8">
+              If vaccination refusal is socially sanctioned with higher layoff preferences and expectations, the sanctions might still be heterogeneous depending on who violates the norm of vaccination. Research on double standards evidences how standards in diverse domains, such as competence judgments in work contexts, depend on the status of the individual being evaluated, whereby low-status groups are subject to stricter standards. In simple terms, status groups refer to a comparative social ranking in terms of the social esteem, honor, and respect accorded to them
+              <sup>
+                <xref ref-type="bibr" rid="CR31">31</xref>
+              </sup>
+              . Double standards are theorized to occur independent of objective performance indicators and disadvantage low-status groups
+              <sup>
+                <xref ref-type="bibr" rid="CR32">32</xref>
+                , 
+                <xref ref-type="bibr" rid="CR33">33</xref>
+                –
+                <xref ref-type="bibr" rid="CR34">34</xref>
+              </sup>
+              . For example, when deciding who should get a promotion among two employees with equal performance indicators (e.g., amount of sales), people are expected to be biased against the low status employee, perceiving them as less competent. Double standards theory follows expectation states theory
+              <sup>
+                <xref ref-type="bibr" rid="CR35">35</xref>
+                ,
+                <xref ref-type="bibr" rid="CR36">36</xref>
+              </sup>
+              , proposing that performance expectations are derived from status groups, which can be either task-specific or diffuse (i.e., applied to various kinds of tasks). Common examples of diffuse status characteristics are social status groups based on ascribed characteristics, such as gender, age, and ethnicity
+              <sup>
+                <xref ref-type="bibr" rid="CR31">31</xref>
+                ,
+                <xref ref-type="bibr" rid="CR37">37</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par9">
+              Women, older people, and ethnic minorities are subject to discrimination and social biases in the workplace, which arise through different mechanisms
+              <sup>
+                <xref ref-type="bibr" rid="CR38">38</xref>
+                , 
+                <xref ref-type="bibr" rid="CR39">39</xref>
+                , 
+                <xref ref-type="bibr" rid="CR40">40</xref>
+                , 
+                <xref ref-type="bibr" rid="CR41">41</xref>
+                –
+                <xref ref-type="bibr" rid="CR42">42</xref>
+              </sup>
+              . Whether due to negative stereotypes that are translated into prejudice in work settings
+              <sup>
+                <xref ref-type="bibr" rid="CR43">43</xref>
+              </sup>
+              , preferring members of the same social status group
+              <sup>
+                <xref ref-type="bibr" rid="CR44">44</xref>
+              </sup>
+              , or inferring attributions from the social status of the group
+              <sup>
+                <xref ref-type="bibr" rid="CR45">45</xref>
+              </sup>
+              , previous research demonstrates biases against women, older people, and ethnic minorities in work contexts. The relevance of these mechanisms differs among these status groups, but the outcomes in terms of disadvantage are similar, e.g., lower chances of being hired and higher chances of being laid off. Disadvantages in hiring are consistently found for some groups based on race and ethnicity
+              <sup>
+                <xref ref-type="bibr" rid="CR42">42</xref>
+                ,
+                <xref ref-type="bibr" rid="CR46">46</xref>
+                ,
+                <xref ref-type="bibr" rid="CR47">47</xref>
+              </sup>
+              , as well as for older people
+              <sup>
+                <xref ref-type="bibr" rid="CR48">48</xref>
+              </sup>
+              . This is also the case for women
+              <sup>
+                <xref ref-type="bibr" rid="CR49">49</xref>
+              </sup>
+              , but also with contrasting findings
+              <sup>
+                <xref ref-type="bibr" rid="CR50">50</xref>
+              </sup>
+              . While studies on double standards usually examine hiring decisions, double standards theory has also been applied in the case of differential punishment for misconduct depending on gender and ethnicity
+              <sup>
+                <xref ref-type="bibr" rid="CR44">44</xref>
+              </sup>
+              . Here, we seek to apply it to sanctioning social norm violations via layoff preferences and expectations in a public health crisis.
+            </p>
+            <p id="Par10">
+              According to double standards theory
+              <sup>
+                <xref ref-type="bibr" rid="CR33">33</xref>
+              </sup>
+              , members of high-status groups are generally perceived as more competent in domains such as work, hence, they are 
+              <italic>expected</italic>
+               to perform well with regard to specific performance evaluations, while the contrary holds for members of low-status groups. As a consequence, ascribed characteristics indicating belonging to low social status groups can lead to stricter standards for layoffs. In this line, if vaccination refusal is sanctioned with layoffs, we expect women, older people, and ethnic minorities to be subject to stricter sanctions when refusing to vaccinate compared to men, younger people, and members of the ethnic majority. Hence, we expect the positive effect of refusing to get vaccinated on being preferred (
+              <italic>H2a</italic>
+              ) and expected (
+              <italic>H2b</italic>
+              ) to be laid off to be stronger for women, older people, and ethnic minorities.
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Double standards for vaccination refusal and work performance</title>
+            <p id="Par11">
+              Work performance is a widely used criterion within organizations for assessing employees and making important decisions, such as layoffs
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+                ,
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+              . The evaluation of workers' performance within organizations operates as a legitimate criterion for laying off employees, that is commonly accepted both by legal authorities and employees
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+                ,
+                <xref ref-type="bibr" rid="CR51">51</xref>
+              </sup>
+              . As a socially valid criterion, people may rely on it when confronted with choosing who should be laid off and will expect employers to do so as well. In addition, from an organizational perspective, employees’ performance is rewarded due to its benefit to organizations, and the rewards for performance act as an exchange relationship that motivates workers
+              <sup>
+                <xref ref-type="bibr" rid="CR52">52</xref>
+                ,
+                <xref ref-type="bibr" rid="CR53">53</xref>
+              </sup>
+              . Given that work performance appears as a legitimate and rational criterion to lay off employees, we expect that candidates who show a lower performance will be preferred to be laid off.
+            </p>
+            <p id="Par12">
+              Considering the pivotal role of work performance for layoff decisions and the potential for vaccination refusal to function as a heuristic, we hypothesize that high work performance (e.g., work quality, work quantity, and social skills) will attenuate the positive effect of vaccination refusal on layoff preferences and expectations. First, people may seek to mitigate losses in human capital in work organizations by preferring to lay off people with lower work performance. Thus, the norm violation of vaccination refusal might be weighed against these costs of human capital and could lead to attenuating effects of higher work performance. Therefore, we expect high work performance to attenuate the proposed higher likelihood of being preferred and expected to be laid off among employees who refuse vaccination. In other words, when information about performance evaluation shows a higher performance, vaccination refusal is expected to have a weaker positive effect on layoff preferences (
+              <italic>H3a</italic>
+              ). Similarly, people may expect that performance will also orient employers' decisions when choosing who to lay off among candidates who refuse or comply with getting vaccinated. Thus, we also postulate that people expect employers to consider vaccination refusal as less consequential when workers' performance is higher (
+              <italic>H3b</italic>
+              ).
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Double standards for vaccination refusal and work performance among status groups</title>
+            <p id="Par13">
+              Double standards theory claims that members of low-status groups are subject to stricter standards compared to high-status groups, so that in the event of equivalent performance by members from low- and high-status groups, the latter are more likely to be judged to have met the performance standard
+              <sup>
+                <xref ref-type="bibr" rid="CR32">32</xref>
+                , 
+                <xref ref-type="bibr" rid="CR33">33</xref>
+                –
+                <xref ref-type="bibr" rid="CR34">34</xref>
+              </sup>
+              . Nevertheless, work performance is a socially valid criterion in layoff decisions and is thus expected to attenuate the effect of norm violations, such as vaccination refusal. We posit that the attenuating role of high performance on the effect of vaccination refusal on layoff preferences and expectations is less relevant for low-status groups (women, older people, and ethnic minorities) compared to high-status groups (men, younger people, and ethnic majority). In other words, low-status groups receive fewer benefits in terms of the attenuating role of high performance in the effect of vaccination refusal on layoff preferences (
+              <italic>H4a</italic>
+              ) and expectations (
+              <italic>H4b</italic>
+              ).
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>The current study</title>
+            <p id="Par14">
+              We employed a discrete choice experiment to assess people's preferences and expectations for laying off employees who refuse to get vaccinated against COVID-19. Our study was conducted using a representative sample of the adult population in Germany at a time when several governments around the world, including Germany, either discussed or decided to make vaccination mandatory for members of particular age groups or occupations, such as healthcare workers, oftentimes due to increasing infection rates as a result of the Delta and Omicron variant and because of a slowdown in vaccination rates
+              <sup>
+                <xref ref-type="bibr" rid="CR54">54</xref>
+                ,
+                <xref ref-type="bibr" rid="CR55">55</xref>
+              </sup>
+              . This led to tense political and public discussions, protests
+              <sup>
+                <xref ref-type="bibr" rid="CR56">56</xref>
+                , 
+                <xref ref-type="bibr" rid="CR57">57</xref>
+                –
+                <xref ref-type="bibr" rid="CR58">58</xref>
+              </sup>
+              , and the Federal Anti-Discrimination Agency in Germany to clarify that vaccination status is not a protected class under the German General Equal Treatment Act
+              <sup>
+                <xref ref-type="bibr" rid="CR59">59</xref>
+              </sup>
+              . Moreover, the German Federal Labour Court ruled the termination of employment due to vaccination status can be lawful under certain circumstances
+              <sup>
+                <xref ref-type="bibr" rid="CR60">60</xref>
+                , 
+                <xref ref-type="bibr" rid="CR61">61</xref>
+                –
+                <xref ref-type="bibr" rid="CR62">62</xref>
+              </sup>
+              . In light of the high vaccination rates and positive attitudes toward vaccination in Germany, we hypothesized that individuals who do not follow this social norm will be sanctioned by being both preferred and expected to be laid off. In line with double standards theory
+              <sup>
+                <xref ref-type="bibr" rid="CR32">32</xref>
+                ,
+                <xref ref-type="bibr" rid="CR33">33</xref>
+              </sup>
+              , we posited that this positive effect will be stronger for low-status groups based on ascribed characteristics, i.e., women, older people, and ethnic minorities will be subject to stricter standards when refusing to get vaccinated. We then assessed whether higher work performance—in terms of three key indicators typically considered in real-world performance evaluations (i.e., work quality, work quantity, and social skills)—can attenuate the positive effect of vaccination refusal on layoff preferences and expectations. Finally, we examined whether the standards for maintaining one’s job are higher for members of low-status groups depending on their work performance. The main study hypotheses are summarized in Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+               in the Supplements. By extending the focus of double standards to sanctioning social norm violations in the context of COVID-19, we seek to contribute to the literature on discrimination and social biases in the labor market; attitudes during public health crises; and public reactions toward policies.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec7" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec8">
+            <title>Design and participants</title>
+            <p id="Par15">
+              We conducted a web-based study with a representative sample of participants living in Germany. In order to recruit participants, we used the survey-provider 
+              <italic>bilendi &amp; respondi</italic>
+              , which provides an actively managed panel with voluntary participation and a double opt-in registration process, including permanent quality control. We used a quota sample representative of the German population with regard to gender, age (18–75), education, and federal state. 14,651 participants started the survey, of whom 14,205 provided informed consent, 13,027 completed the survey, and 12,183 remained after data cleaning. Data collection occurred between April 19–May 5, 2022. Respondents who completed the study received a small monetary compensation (€1). After removing respondents with missing values on all variables required for the analyses, 12,136 respondents remain in the analytical sample (51.0% females and 0.2% diverse gender; 
+              <italic>mean</italic>
+               age = 46.5, 
+              <italic>standard deviation</italic>
+               = 15.9). Approximately 5.0% (602 of 12,087) of the respondents indicated that they were born outside of Germany, and 14.0% (1677 of 12,089) were born abroad or had a parent born outside of Germany (1.4% of the 12,136 respondents did not answer all ethnicity questions).
+            </p>
+          </sec>
+          <sec id="Sec9">
+            <title>Experimental setup</title>
+            <p id="Par17">
+              In order to understand how employee characteristics influence the layoff decisions made by laypeople, our study employs a discrete choice experiment
+              <sup>
+                <xref ref-type="bibr" rid="CR45">45</xref>
+                ,
+                <xref ref-type="bibr" rid="CR63">63</xref>
+                , 
+                <xref ref-type="bibr" rid="CR64">64</xref>
+                –
+                <xref ref-type="bibr" rid="CR65">65</xref>
+              </sup>
+              . Thereby, participants were informed that a fictional medium-sized company must lay off one employee and were shown the human resources profiles of two potential candidates to be laid off (see Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              ). The human resources profiles included nine experimentally varied pieces of information for each candidate of which one was their COVID-19 vaccination status (fully vaccinated or refused vaccination). During the pandemic, employers were allowed and also obliged (according to the Infection Protection Act) to check the 3G status of employees (i.e., whether they were tested, vaccinated, or recovered) when deciding who could attend work in person and/or access an office or other facilities. Thus, employers could ask employees to report their vaccination status. Moreover, candidates’ profiles included their names, which conveyed information regarding two status group indicators, gender (male or female) and ethnicity (German or Turkish ethnic background). The male names “Christian Wagner” and “Michael Berger” and the female names “Susanne Wagner” and “Kathrin Schneider” indicated a German background, while the male names “Mehmet Yilmaz” and “Mustafa Yücel” and the female names “Ayşe Yilmaz” and “Fatma Demir” indicated a Turkish background
+              <sup>cf.</sup>
+              <sup>
+                <xref ref-type="bibr" rid="CR66">66</xref>
+                ,
+                <xref ref-type="bibr" rid="CR67">67</xref>
+              </sup>
+              . As a further status group indicator, information on the candidates’ ages was provided (35 or 55 years old). We used three indicators for task performance, namely work quantity, work quality and social skills, since they are important criteria in the assessment of an employee’s achievements and capacity
+              <sup>
+                <xref ref-type="bibr" rid="CR68">68</xref>
+              </sup>
+               and they can be seen as important determinants of layoff chances
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+              </sup>
+              . Also, tenure in the company and nepotism (i.e., whether there are family members working in the company) were described, but due to the focus of this manuscript on the intersection of ascribed status characteristics and work performance using double standards theory, duration in the company and nepotism were not included in the analyses. In future papers with a different focus than the present study, we want to, for example, examine in greater detail the pattern of ageism and ethnic discrimination in which duration in the company and nepotism can be protective or risk factors for layoff preferences and expectations. By assessing these two further factors within the same large experiment, we wanted to reduce survey costs and also the burden for participants. Considering all experimental factors had no implications for the quantities of interest of this study. The results with these factors are available in the Supplements (Tables 
+              <xref ref-type="supplementary-material" rid="MOESM1">S9</xref>
+               and 
+              <xref ref-type="supplementary-material" rid="MOESM1">S10</xref>
+              ). Given the orthogonality of the experimental design, the exclusions do not affect the results.
+              <table-wrap id="Tab1">
+                <label>Table 1</label>
+                <caption xml:lang="en">
+                  <p>Discrete choice experiment showing one exemplary choice set representing all different alternatives.</p>
+                </caption>
+                <graphic ns0:href="MediaObjects/41598_2023_48829_Tab1_HTML.png" id="MO1"/>
+                <table-wrap-foot>
+                  <p>
+                    All information in italics has been experimentally varied. This information was not in italics when presented to respondents. In total, eight different names were used to avoid that a choice set displays the same names. The further six names are: “Mr. Michael Berger”, “Ms. Susanne Wagner”, “Ms. Kathrin Schneider”, “Mr. Mehmet Yilmaz”, “Mr. Mustafa Yücel”, and “Ms. Fatma Demir”.
+                    <sup>1</sup>
+                     This response option was only shown if respondents attempted to proceed without providing a response.
+                  </p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+            <p id="Par18">
+              Each piece of information in the profiles was experimentally manipulated for each of the employees yielding a 2 × (2
+              <sup>9</sup>
+              ) design, resulting in a total of 512 possible combinations per displayed person and 1024 choice sets. For our study, we selected 150 choice sets for both persons via 
+              <italic>D</italic>
+              -efficient sampling
+              <sup>
+                <xref ref-type="bibr" rid="CR69">69</xref>
+              </sup>
+               using the software SAS 9.4. Thereby, an algorithm specified a sample characterized by minimal correlation between the dimensions and maximal variance and balance of the frequency of the vignette levels. We assigned each participant to one choice set and each choice set was rated multiple times (
+              <italic>mean</italic>
+               = 81.2; 
+              <italic>range</italic>
+               = 74–87) by different participants. After reading the vignette, participants were asked about their layoff preferences and expectations.
+            </p>
+          </sec>
+          <sec id="Sec10">
+            <title>Measures</title>
+            <sec id="Sec11">
+              <title>Layoff preference</title>
+              <p id="Par19">
+                Respondents were asked about their layoff preference, i.e., which of the two candidates, in their opinion, should be laid off (see Table 
+                <xref rid="Tab1" ref-type="table">1</xref>
+                ). If respondents attempted to proceed without a response, the additional response option “no response” was shown (chosen by 
+                <italic>N</italic>
+                 = 41; 0.3%).
+              </p>
+            </sec>
+            <sec id="Sec12">
+              <title>Layoff expectation</title>
+              <p id="Par20">
+                We also assessed their layoff expectation, i.e., which of the two candidates they expect will be laid off (see Table 
+                <xref rid="Tab1" ref-type="table">1</xref>
+                ). Again, respondents could additionally choose “no response”, after first attempting to proceed without providing a response (chosen by 
+                <italic>N</italic>
+                 = 17; 0.1%). The order of these two questions was experimentally manipulated and the order did not have an effect on either layoff preferences (
+                <italic>Odds Ratio</italic>
+                 (
+                <italic>OR</italic>
+                ) = 1.00, 
+                <italic>p</italic>
+                 = 1.00) or expectations (
+                <italic>OR</italic>
+                 = 1.00, 
+                <italic>p</italic>
+                 = 1.00) (see Supplement Tables 
+                <xref ref-type="supplementary-material" rid="MOESM1">S11</xref>
+                 and 
+                <xref ref-type="supplementary-material" rid="MOESM1">S12</xref>
+                ).
+              </p>
+            </sec>
+            <sec id="Sec13">
+              <title>Attitude toward COVID-19 vaccination</title>
+              <p id="Par21">
+                Respondents answered the question, “What is your opinion about the Corona vaccination? I am…” with a five-point scale from “Strongly in favor” [value 1], “Rather in favor” [2], “Undecided” [3], “Rather against” [4], “Strongly against” [5] (
+                <italic>mean</italic>
+                 = 1.92, 
+                <italic>standard deviation</italic>
+                 = 1.32, 
+                <italic>median</italic>
+                 = 1.00).
+              </p>
+            </sec>
+          </sec>
+          <sec id="Sec14">
+            <title>Pretests</title>
+            <p id="Par22">
+              To examine the comprehensibility of the instructions and choice sets, we conducted cognitive pretests (
+              <italic>N</italic>
+               = 8) with the think-aloud technique and probing questions
+              <sup>
+                <xref ref-type="bibr" rid="CR70">70</xref>
+              </sup>
+               as well as a quantitative pretest (
+              <italic>N</italic>
+               = 85). Results of both pretests demonstrated that the materials were suitable for the main study.
+            </p>
+          </sec>
+          <sec id="Sec15">
+            <title>Statistical analysis</title>
+            <p id="Par23">
+              We used mixed logit models
+              <sup>
+                <xref ref-type="bibr" rid="CR71">71</xref>
+              </sup>
+               to examine participants’ preferences and expectations for the two candidates in the choice set of the experiment. Intercepts were considered as random parameters to account for the nesting of the possible candidates within respondents, i.e., each respondent evaluated two candidates. The seven focal experimental factors were used as predictors and, following the study hypotheses, parameterized as main effects and two- or three-way interactions (see Supplement Tables 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+              –
+              <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+              ). Due to multiple hypothesis testing, we use the false discovery rate method (controlling the expected proportion of falsely rejected hypotheses) to adjust the 
+              <italic>p</italic>
+              -values
+              <sup>
+                <xref ref-type="bibr" rid="CR72">72</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par24">
+              Because all experimental factors were dichotomous, we report average contrasts as differences in predicted average probabilities between both levels of the experimental factors. For example, an average probability difference of 0.1 between candidates refusing to vaccinate and those fully vaccinated for layoff preferences means that, on average, respondents are more likely to prefer to layoff those who refuse vaccination by ten percentage points compared to those fully vaccinated. To assess potential differences in the effect of vaccination refusal by candidates’ ascribed characteristics and work performance indicators, we used difference-in-differences and difference-in-differences-in-differences
+              <sup>
+                <xref ref-type="bibr" rid="CR73">73</xref>
+              </sup>
+              . For example, the difference-in-differences of gender tests the difference in the average contrasts of vaccination refusal between female and male candidates. So, for example, a difference-in-differences of refusing to vaccinate between female and male candidates of 0.05 for layoff preference would mean that the average difference in the probability of being preferred to be laid off when refusing to vaccinate is five percentage points higher for women compared to men. The difference-in-differences-in-differences tests the difference between high and low work performance (e.g., work quality) from the aforementioned differences. The main results are based on Model 4a (Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+              ) and Model 4b (Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+              ). The average effects of the experimental factors are reported in Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+              , while Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S3</xref>
+               shows that these results hold with a simpler model parameterization (Models 1a and 1b from Tables 
+              <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+               and 
+              <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+              , respectively). All analyses were conducted using R 4.3.0
+              <sup>
+                <xref ref-type="bibr" rid="CR74">74</xref>
+              </sup>
+              .
+            </p>
+          </sec>
+          <sec id="Sec16">
+            <title>Ethics approval</title>
+            <p id="Par25">Ethics approval was received from the Faculty of Management, Economics, and Social Sciences of the University of Cologne (ethics approval numbers: 220013DM). Our work also aligns with the Code of Ethics of the American Sociological Association (ASA) and although our study is not a medical study, we adhere to the Code of Ethics of the World Medical Association (Declaration of Helsinki) to protect human research participants.</p>
+          </sec>
+          <sec id="Sec17">
+            <title>Consent to participate</title>
+            <p id="Par26">Informed consent was obtained from all study participants.</p>
+          </sec>
+        </sec>
+        <sec id="Sec18" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec19">
+            <title>Layoff preferences and expectations depending on vaccination refusal</title>
+            <p id="Par27">
+              Candidates who refused to get vaccinated had a higher likelihood of being preferred to be laid off compared to candidates who were fully vaccinated (on average, 22 percentage points, 
+              <italic>p</italic>
+               &lt; 0.001), supporting 
+              <italic>H1a</italic>
+              . Likewise, candidates who refused vaccination had a higher likelihood of being expected to be laid off (on average, 20 percentage points, 
+              <italic>p</italic>
+               &lt; 0.001), supporting 
+              <italic>H1b</italic>
+              . See Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+               for an overview of the study findings.
+            </p>
+            <p id="Par28">
+              Despite these similar average contrasts of vaccination refusal between layoff preferences and expectations, the correlation between both was positive, but rather weak among the choice sets of candidates (
+              <italic>r</italic>
+              (12,134) = 0.22, 
+              <italic>p</italic>
+               &lt; 0.001). Moreover, we observed considerable heterogeneity in the effect of vaccination refusal on layoff preferences depending on the participant’s attitude toward vaccination: the more negative the attitude, the less likely they prefer to lay off candidates refusing vaccination, and the more positive the attitude, the more likely they voiced such a preference (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              A). The effect of vaccination refusal on layoff expectations did not vary by participants’ attitudes toward vaccination (Panel B).
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>
+                    Effect of vaccination refusal on layoff preferences and expectations by participants’ attitudes toward vaccination. Average predicted probabilities of layoff preferences (
+                    <bold>A</bold>
+                    ) and layoff expectations (
+                    <bold>B</bold>
+                    ) from interactions between the candidate’s vaccination status and the participant’s attitude toward vaccination. Ribbons represent 95%-confidence intervals (estimations based on Models 5a and 5b in Tables 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+                     and 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+                    , 
+                    <italic>N</italic>
+                     = 12,029 individuals).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_48829_Fig1_HTML.png" id="MO2"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec20">
+            <title>Double standards for vaccination refusal depending on ascribed status group</title>
+            <p id="Par29">
+              In contrast to 
+              <italic>H2a</italic>
+              , candidates from low-status groups (women, older people, and ethnic minorities)—as compared to high-status groups (men, younger people, and ethnic majority)—who refused to get vaccinated were not more likely to be preferred to be laid off (see Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+               and Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S4</xref>
+              ). In line with 
+              <italic>H2b</italic>
+              , candidates refusing vaccination were more likely to be expected to be laid off when they were women (∆ = 0.11, 
+              <italic>95%-CI</italic>
+               = [0.06,0.15]) or older (∆ = 0.12, 
+              <italic>95%-CI</italic>
+               = [0.07,0.17]), whereby women and older employees were 11 and 12 percentage points more likely to be expected to be laid off, respectively. Conversely, candidates with Turkish ethnicity had a higher likelihood of being expected to be laid off compared to German candidates when they were fully vaccinated, but they were equally sanctioned when refusing vaccination (∆ = − 0.08, 
+              <italic>95%-CI</italic>
+               = [− 0.12,− 0.03]). Thus, 
+              <italic>H2b</italic>
+               showed partial support.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    Double standards for vaccination refusal depending on ascribed status group. Average predicted probabilities (with 95%-confidence intervals) of layoff preferences (
+                    <bold>A</bold>
+                    ) and layoff expectations (
+                    <bold>B</bold>
+                    ) from interactions between vaccination status and ascribed status group characteristics (estimations based on Models 4a and 4b in Tables 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+                     and 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+                    , 
+                    <italic>N</italic>
+                     = 12,136 individuals).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_48829_Fig2_HTML.png" id="MO3"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec21">
+            <title>Double standards for vaccination refusal depending on work performance</title>
+            <p id="Par30">
+              The higher likelihood of being preferred to be laid off among candidates who refuse vaccination was attenuated for candidates showing a high performance in terms of work quality (∆ = − 0.07, 
+              <italic>95%-CI</italic>
+               = [− 0.12,− 0.02]) and social skills (∆ = − 0.11, 
+              <italic>95%-CI</italic>
+               = [− 0.16,− 0.06]) (see Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+               and Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S5</xref>
+              ). We did not find such an attenuation for candidates with high performance in terms of work quantity (∆ = 0.04, 
+              <italic>95%-CI</italic>
+               = [− 0.01,0.09]). This suggests partial support for 
+              <italic>H3a</italic>
+              . The higher probability of being expected to be laid off due to vaccination refusal was reduced only for candidates with high social skills (∆ = − 0.19, 
+              <italic>95%-CI</italic>
+               = [− 0.24,− 0.14]). The effect of vaccination refusal on layoff expectations did not vary by levels of the other two indicators of work performance. Thus, evidence for 
+              <italic>H3b</italic>
+               was also partial.
+              <fig id="Fig3" position="float">
+                <label>Figure 3</label>
+                <caption xml:lang="en">
+                  <p>
+                    Double standards for vaccination refusal depending on work performance. Average predicted probabilities (with 95%-confidence intervals) of layoff preferences (
+                    <bold>A</bold>
+                    ) and layoff expectations (
+                    <bold>B</bold>
+                    ) from interactions between vaccination status and candidates’ performance (estimations based on Models 4a and 4b in Tables 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+                     and 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+                    , 
+                    <italic>N</italic>
+                     = 12,136 individuals).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_48829_Fig3_HTML.png" id="MO4"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec22">
+            <title>Doubled standards for vaccination refusal depending on ascribed status group and work performance</title>
+            <p id="Par31">
+              Moreover, the positive effect of refusing vaccination on being preferred to be laid off was attenuated to a greater extent for female, compared to male, candidates by work quality (∆ = − 0.07, 
+              <italic>95%-CI</italic>
+               = [− 0.12,− 0.02]) and social skills (∆ = − 0.10, 
+              <italic>95%-CI</italic>
+               = [− 0.16,− 0.05]). More specifically, the positive effect of refusing vaccination on being preferred to be laid off was attenuated for women, but not for men (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              , Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S6</xref>
+              ). In the case of layoff expectations, the positive effect of refusing vaccination was attenuated by social skills to a larger extent for female, compared to male, candidates (∆ = − 0.18, 
+              <italic>95%-CI</italic>
+               = [− 0.23,− 0.13]). Similar to layoff preferences, the positive effect of vaccination refusal on being expected to be laid off did not vary for men by social skills. No statistically significant differences were observed for work quantity (layoff preferences) or for work quantity and work quality (layoff expectations). Overall, results do not support 
+              <italic>H4a</italic>
+               and 
+              <italic>H4b</italic>
+               for gender.
+              <fig id="Fig4" position="float">
+                <label>Figure 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    Double standards for vaccination refusal depending on gender and work performance. Average predicted probabilities (with 95%-confidence intervals) of layoff preferences (
+                    <bold>A</bold>
+                    ) and layoff expectations (
+                    <bold>B</bold>
+                    ) from interactions between vaccination status, gender, and work performance (estimations based on Models 4a and 4b in Tables 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+                     and 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+                    , 
+                    <italic>N</italic>
+                     = 12,136 individuals).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_48829_Fig4_HTML.png" id="MO5"/>
+              </fig>
+            </p>
+            <p id="Par32">
+              There were no statistically significant differences in the effect of vaccination refusal on layoff preferences among candidates of different ages and levels of work performance (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              , Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S6</xref>
+              ). Thus, there is no support for 
+              <italic>H4a</italic>
+               for age. The positive effect of vaccination refusal on layoff expectations was attenuated for younger candidates when work quality was high. However, high work quality actually intensified this effect for older candidates. Therefore, supporting 
+              <italic>H4b</italic>
+              , the positive effect of refusing vaccination on layoff expectations was augmented for older candidates, compared to younger ones (∆ = 0.12, 
+              <italic>95%-CI</italic>
+               = [0.08,0.17]). Both older and younger candidates showed an attenuation of the positive effect of vaccination refusal on being expected to be laid off by high performance in social skills. Nonetheless, against 
+              <italic>H4b</italic>
+              , the positive effect of refusing vaccination on layoff expectations was attenuated to a higher extent for older, compared to younger, candidates (∆ = − 0.06, 
+              <italic>95%-CI</italic>
+               = [− 0.11,− 0.01]). There was not a statistically significant difference in the effect of vaccination refusal on layoff expectations among candidates of different ages and levels of work quantity. Hence, there is a lack of support for 
+              <italic>H4a</italic>
+               and 
+              <italic>H4b</italic>
+               for age.
+              <fig id="Fig5" position="float">
+                <label>Figure 5</label>
+                <caption xml:lang="en">
+                  <p>
+                    Double standards for vaccination refusal depending on age and work performance. Average predicted probabilities (with 95%-confidence intervals) of layoff preferences (
+                    <bold>A</bold>
+                    ) and layoff expectations (
+                    <bold>B</bold>
+                    ) from interactions between vaccination status, age, and work performance (estimations based on Models 4a and 4b in Tables 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+                     and 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+                    , 
+                    <italic>N</italic>
+                     = 12,136 individuals).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_48829_Fig5_HTML.png" id="MO6"/>
+              </fig>
+            </p>
+            <p id="Par33">
+              The positive effect of vaccination refusal on being preferred to be laid off was attenuated among candidates of German ethnicity who displayed high work quality, while there was no difference among candidates of Turkish ethnicity (∆ = 0.08, 
+              <italic>95%-CI</italic>
+               = [0.03,0.13]). Both work quantity and social skills did not lead to statistically significant differences in the effect of vaccination refusal on layoff preferences by ethnicity (Fig. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              , Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+              ). Thus, only one out of three indicators support 
+              <italic>H4a</italic>
+               for ethnicity. The positive effect of vaccination refusal on being expected to be laid off was attenuated for both Turkish and German ethnic candidates with high performance in work quantity and social skills. However, the positive effect of refusing vaccination on layoff expectations was attenuated to a higher extent for candidates of Turkish ethnicity, compared to those of German ethnicity, when work quantity was high (∆ = − 0.09, 
+              <italic>95%-CI</italic>
+               = [− 0.14,− 0.04]). Conversely, the positive effect of refusing vaccination on layoff expectations was attenuated to a lower extent for Turkish ethnic, compared to German ethnic candidates, when social skills were high (∆ = 0.15, 
+              <italic>95%-CI</italic>
+               = [0.11,− 0.20]). There was no statistically significant difference in the effect of vaccination refusal on layoff expectations among candidates of Turkish and German ethnicities and different levels of work quality. Thus, the evidence of 
+              <italic>H4b</italic>
+               for ethnicity is mixed with results showing support, no support, or opposite evidence.
+              <fig id="Fig6" position="float">
+                <label>Figure 6</label>
+                <caption xml:lang="en">
+                  <p>
+                    Double standards for vaccination refusal depending on ethnicity and work performance. Average predicted probabilities (with 95%-confidence intervals) of layoff preferences (
+                    <bold>A</bold>
+                    ) and layoff expectations (
+                    <bold>B</bold>
+                    ) from interactions between vaccination status, ethnicity, and work performance (estimations based on Models 4a and 4b in Tables 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+                     and 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+                    , 
+                    <italic>N</italic>
+                     = 12,136 individuals).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_48829_Fig6_HTML.png" id="MO7"/>
+              </fig>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec23" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par34">
+            This study contributes to understanding how social norm violations in a public health crisis are consequential for work contexts and how they can subject low-status groups to social biases, especially in terms of layoff expectations. Using a large-scale discrete choice experiment, this study examined potential social biases in people's preferences and expectations regarding laying off employees who refuse to get vaccinated against COVID-19. First, we showed how vaccination appears as a social norm whose violation entails a sanction for employees: candidates refusing vaccination were 22 percentage points more likely to be preferred to be laid off and 20 percentage points more likely to be expected to be laid off by the employer (supporting 
+            <italic>H1a</italic>
+             and 
+            <italic>H1b</italic>
+            ). We also find strong evidence of vaccination as a social norm stemming from respondents’ layoff preferences and expectations: among participants with negative attitudes toward vaccination, refusing vaccination decreased the likelihood of being preferred to be laid off, while the effect of vaccination status on layoff expectations did not differ between participants with positive and negative attitudes. This signals that participants have the expectation that others view vaccination as a socially desired behavior and that violations of this norm will be subject to sanctions, despite their own preferences in favor or against vaccination. Our findings support the idea of vaccination as a social norm as well as align with previous studies showing discriminatory attitudes toward non-vaccinated individuals
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              ,
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              ,
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par35">
+            Second, our study tested claims from double standards theory that ascribed status characteristics signal competence, and as a result, individuals of high-status groups are subject to more lenient standards than low-status groups
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              , 
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              –
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            . We provided partial evidence of double standards concerning the sanctioning of vaccination refusal depending on ascribed status characteristics. On the one hand, people use the same standards for different status groups when evaluating who was preferred to be laid off due to vaccination refusal (against 
+            <italic>H2a</italic>
+            ). While such a finding can be seen as generally normatively positive regarding the lack of discrimination, we also recognize that individuals may not be willing to voice discriminatory preferences (see “
+            <xref rid="Sec24" ref-type="sec">Limitations and directions for future research</xref>
+            ” below). On the other hand, we found evidence of double standards regarding which candidate they expect to be laid off. Participants expected female and older candidates who refused vaccination to be more likely to be laid off (partly supporting 
+            <italic>H2b</italic>
+            ). The effects on expectations were quite substantial as women were 11 percentage points and older employees were 12 percentage points more likely to be expected to be laid off when refusing to vaccinate. Interestingly, in the case of candidates of Turkish ethnicity, participants expected stricter standards (compared to German ethnic candidates) when they were fully vaccinated, but they were expected to be equally sanctioned when refusing to vaccinate. Thus, our results do not support the existence of a more direct bias in preferences to sanction social norm violations through layoffs depending on status groups among the lay public. However, the lay public expected employers to subject low-status groups to stricter standards when downsizing during the COVID-19 pandemic. Furthermore, the different direction of the double standards for women and older people, compared to candidates of Turkish ethnicity, suggests that expected social biases against these groups possibly stem from disparate mechanisms. For instance, one noticeable difference is that Turkish people in Germany are a minority, whereas women and older individuals are not. The prevalence of ascribed status groups might be key to explaining different social biases
+            <sup>
+              <xref ref-type="bibr" rid="CR75">75</xref>
+            </sup>
+            . Future research should examine the concrete mechanisms by which biases in expected sanctions for different ascribed status groups arise.
+          </p>
+          <p id="Par36">
+            We found partial evidence on the attenuating impact of heightened work performance on both layoff preferences (
+            <italic>H3a</italic>
+            ) and expectations (
+            <italic>H3b</italic>
+            ) regarding refusing vaccination. This attenuation was evident in relation to two out of the three performance indicators, work quality and social skills, for layoff preferences, and one indicator, social skills, for layoff expectations. When work quality and social skills were high, vaccination refusal played a less consequential role in layoff preferences; the positive effect of vaccination refusal on layoff preference was 7 and 11 percentage points lower for employees with high performance (compared to medium performance) in these dimensions, respectively. The moderating effect of work performance on vaccination refusal was less clear for layoff expectations since only higher social skills diminished the probability that vaccination refusers were expected to be laid off (19 percentage points lower for candidates with high performance). However, this single effect was relatively strong. Generally, these results show that the sanctioning of vaccination refusal is partially counterweighted by work performance, as the lay public appears to value the human capital contribution of employees to organizations. At the same time, they show that they do not expect companies to give particular attention to high performance in terms of the quality and quantity of work when a social norm is broken.
+          </p>
+          <p id="Par37">
+            We also examined whether work performance attenuates double standards concerning the divergent effect of vaccination refusal on layoff preferences and expectations depending on the ascribed status group. Overall, we find little support for the assumption that low-status groups receive a reduced benefit—compared to high-status groups—in terms of high work performance attenuating the higher layoff preferences (
+            <italic>H4a</italic>
+            ) and expectations (
+            <italic>H4b</italic>
+            ) due to vaccination refusal. In addition to supporting evidence, we often found results opposing our hypotheses (i.e., low-status groups received higher benefits), or no statistically significant differences. The supporting evidence was only found for ethnicity, whereby one work performance indicator showed a stronger attenuation for the high-status group in line with 
+            <italic>H4a</italic>
+            . Similarly for 
+            <italic>H4b</italic>
+            , the attenuation occurred with one work performance indicator both for ethnicity and age. These results call for rethinking how the double standards for low-status groups can be counteracted by job performance, and signal the need for a deeper understanding of the conditions under which particular performance indicators play a role.
+          </p>
+          <p id="Par38">
+            Moreover, the examined layoff preferences and expectations have further implications for the work context and labor markets. Mechanisms such as the self-fulfilling prophecy suggest that people may adjust their behavior and ideas to these expectations, even if they do not share them
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              ,
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            . For example, colleagues might avoid collaborating with members from low-status groups if they expect them to be more exposed to layoffs, due to forming arbitrary or false beliefs, such as attributions of lower competence
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            . Differential expectations about biases against low-status groups in layoff processes have implications in terms of scarring effects for layoff survivors. Survivors might interpret the layoff of selected social groups as confirmation of their expectations, irrespective of whether ascribed characteristics played a role in the decision. Furthermore, low-status group members who perceive their risk of being laid off as higher could increase their work effort with the hope of avoiding being laid off, which may increase stress and exhaustion
+            <sup>
+              <xref ref-type="bibr" rid="CR53">53</xref>
+            </sup>
+            , adding to the already disparate effects of the pandemic on women, older individuals, and ethnic minorities
+            <sup>
+              <xref ref-type="bibr" rid="CR76">76</xref>
+              ,
+              <xref ref-type="bibr" rid="CR77">77</xref>
+            </sup>
+            .
+          </p>
+          <sec id="Sec24">
+            <title>Limitations and directions for future research</title>
+            <p id="Par39">
+              Although our study provides a first test of double standards theory in the influence of vaccination refusal on preferences and expectations for laying off employees, it is subject to limitations. Firstly, asking the same participant about their preferences and expectations begs the question of whether this framing evoked the notions of 
+              <italic>ought</italic>
+               vs 
+              <italic>actual</italic>
+              , activating their identity as the kind of person who does not discriminate against others
+              <sup>
+                <xref ref-type="bibr" rid="CR78">78</xref>
+              </sup>
+              . In case of discriminatory or morally debatable attitudes or behaviors, respondents might see themselves as morally superior due to a positive illusion and self-enhancement effect
+              <sup>
+                <xref ref-type="bibr" rid="CR79">79</xref>
+              </sup>
+              . Thus, we should be cautious in interpreting our findings as a lack of double standards in layoff preferences. Also, in line with evidence on more direct discrimination patterns arising in field experiments, rather than survey experiments
+              <sup>
+                <xref ref-type="bibr" rid="CR80">80</xref>
+                ,
+                <xref ref-type="bibr" rid="CR81">81</xref>
+              </sup>
+              , it would be a contribution to further test double standards with the former. Given research showing that treatment effects found in vignette studies can be also replicated with other designs
+              <sup>
+                <xref ref-type="bibr" rid="CR82">82</xref>
+                ,
+                <xref ref-type="bibr" rid="CR83">83</xref>
+              </sup>
+              , we further encourage the use of other designs as an avenue for future research. Moreover, we tested specific values of the underlying factors in the candidate profiles. Future research should test further expressions of these values (e.g., diverse gender, different ages, work performance levels) to increase the understanding of the examined processes. In addition, it should be considered that our results reflect one specific state of the COVID-19 pandemic, potentially influenced by the availability of effective vaccines, the spread of the virus, as well as the implementation of other effective measures. For example, our study was conducted during a time in which a potential vaccine mandate was discussed by the German parliament and media, hence, a vaccine mandate was salient and potentially feasible. In contexts with distinct norms regarding vaccination, sanctioning preferences and expectations may also vary. While generally, Germany seems comparable to some countries (e.g., the United States or the United Kingdom) with regard to the level of vaccination hesitancy and acceptance, it also differs from others in which vaccination hesitancy and non-acceptance are higher (e.g., Poland and South Africa) or lower (e.g., Spain and South Korea)
+              <sup>
+                <xref ref-type="bibr" rid="CR84">84</xref>
+                ,
+                <xref ref-type="bibr" rid="CR85">85</xref>
+              </sup>
+              . Hence, cross-cultural comparisons would be informative to understand to which extent our results are context-specific. While this study focused on COVID-19 vaccination as a social norm during a time in which specific work-related public health policies were discussed and enforced (including vaccination mandates) in many countries
+              <sup>
+                <xref ref-type="bibr" rid="CR54">54</xref>
+                ,
+                <xref ref-type="bibr" rid="CR55">55</xref>
+                ,
+                <xref ref-type="bibr" rid="CR85">85</xref>
+              </sup>
+              , future research may also focus on differential sanctioning preferences and expectations in the case of other social norms, contexts, and regulations (e.g., future pandemics, the requirement of measles vaccination which currently exists in several countries, or double standards for layoffs in terms of ascriptive status characteristics during economic recessions or firing due to workplace violations)
+              <sup>
+                <xref ref-type="bibr" rid="CR44">44</xref>
+              </sup>
+              . Also, our large quota-representative sample contributes to the external validity, however, future research should aim to use probability samples. Finally, studies should also investigate whether the observed pattern in layoff preferences and expectations are similar or different for managers or people in human resources departments as compared to the views expressed by the general public, which could further increase external validity of the findings.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec25" sec-type="conclusions">
+          <title>Conclusion</title>
+          <p id="Par40">
+            In sum, this study reveals that COVID-19 vaccination operates as a social norm, whose refusal in the work context increases the likelihood of being preferred and expected to be laid off. Thus, our results suggest a willingness to and expectation of sanctioning vaccination refusal. Such sanctioning may be one way to mitigate free-riding (i.e., not risking side effects from vaccination while benefiting from vaccinated others) to achieve a public good in the context of a health crisis
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              ,
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+             and as such, may motivate people to get vaccinated
+            <sup>
+              <xref ref-type="bibr" rid="CR86">86</xref>
+              ,
+              <xref ref-type="bibr" rid="CR87">87</xref>
+            </sup>
+            . Moreover, sanctioning seems indirectly subject to double standards, namely that some low-status groups are expected to be treated more harshly when they refuse to vaccinate. The expectations of such biases can have relevant implications for labor markets as they may reinforce their already existing disadvantage in layoff processes
+            <sup>
+              <xref ref-type="bibr" rid="CR88">88</xref>
+            </sup>
+            . We also found that performance is a socially valid criterion for layoffs and partially compensates for the violation of a social norm. Furthermore, there was scarce support for the assumption that the attenuating effect of high work performance on the higher layoff preferences and expectations due to vaccination refusal was lower for low status individuals. These results call for rethinking how the double standards for low-status groups can be counteracted by job performance, and signal the need for a deeper understanding of the conditions under which particular performance indicators play a role. Given the tendencies of expected double standards in layoff processes, our results suggest that employees and organizations could benefit from having transparent and clearly informed criteria during layoffs.
+          </p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We thank those who helped to conduct this study, especially André Ernst, Fabian Hasselhorn, Vera Lennartz, Dina Maskileyson, Adriane Poppe, and Andreas van de Loo.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>
+            C.M.
+            <italic>:</italic>
+             conceptualization, methodology, software, validation, formal analysis, investigation, resources, data curation, visualization, writing—original draft. S.S.: conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, writing—original draft. S.T.: data curation, project administration, writing—original draft. C.S.: conceptualization, methodology, investigation, writing—original draft.
+          </p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>Open Access funding enabled and organized by Projekt DEAL. This work was supported by the German Research Foundation to Sebastian Sattler [SA 2992/3-1], Dina Maskileyson [MA 7556/1-1], Clemens Kroneberg [KR 4060/6-1], and by the Leibniz Association to Cristóbal Moya [K248/2019].</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>
+            The data and computer code analyzed during the current study are available in an Open Science Framework (OSF) repository, 
+            <ext-link ns0:href="10.17605/OSF.IO/HVG3D" ext-link-type="doi">https://doi.org/10.17605/OSF.IO/HVG3D</ext-link>
+            .
+          </p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par41">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="other">
+                Leben statt Lockdown. 
+                <ext-link ns0:href="https://www.leben-statt-lockdown.de/" ext-link-type="uri">https://www.leben-statt-lockdown.de/</ext-link>
+                .
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="other">
+                Zusammen gegen Corona. 
+                <ext-link ns0:href="https://www.zusammengegencorona.de/" ext-link-type="uri">https://www.zusammengegencorona.de/</ext-link>
+                .
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mathieu</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A global database of COVID-19 vaccinations</article-title>
+                <source>Nat. Hum. Behav.</source>
+                <year>2021</year>
+                <volume>5</volume>
+                <fpage>947</fpage>
+                <lpage>953</lpage>
+                <pub-id pub-id-type="pmid">33972767</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41562-021-01122-8</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Steinert</surname>
+                    <given-names>JI</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">COVID-19 vaccine hesitancy in eight European countries: Prevalence, determinants, and heterogeneity</article-title>
+                <source>Sci. Adv.</source>
+                <year>2022</year>
+                <volume>8</volume>
+                <fpage>eabm9825</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XhtlymtrfM</pub-id>
+                <pub-id pub-id-type="pmid">35476432</pub-id>
+                <pub-id pub-id-type="pmcid">9045608</pub-id>
+                <pub-id pub-id-type="doi">10.1126/sciadv.abm9825</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bicchieri</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <source>Norms in the Wild: How to Diagnose, Measure, and Change Social Norms</source>
+                <year>2017</year>
+                <publisher-name>Oxford University Press</publisher-name>
+                <pub-id pub-id-type="doi">10.1093/acprof:oso/9780190622046.001.0001</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>DeScioli</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Kurzban</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A solution to the mysteries of morality</article-title>
+                <source>Psychol. Bull.</source>
+                <year>2013</year>
+                <volume>139</volume>
+                <fpage>477</fpage>
+                <lpage>496</lpage>
+                <pub-id pub-id-type="pmid">22747563</pub-id>
+                <pub-id pub-id-type="doi">10.1037/a0029065</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bor</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Jørgensen</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Lindholt</surname>
+                    <given-names>MF</given-names>
+                  </name>
+                  <name>
+                    <surname>Petersen</surname>
+                    <given-names>MB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Moralizing the COVID-19 pandemic: Self-interest predicts moral condemnation of other’s compliance, distancing, and vaccination</article-title>
+                <source>Polit. Psychol.</source>
+                <year>2022</year>
+                <volume>44</volume>
+                <fpage>257</fpage>
+                <lpage>279</lpage>
+                <pub-id pub-id-type="doi">10.1111/pops.12835</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Navin</surname>
+                    <given-names>MC</given-names>
+                  </name>
+                  <name>
+                    <surname>Wasserman</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahmad</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Bies</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Vaccine education, reasons for refusal, and vaccination behavior</article-title>
+                <source>Am. J. Prev. Med.</source>
+                <year>2019</year>
+                <volume>56</volume>
+                <fpage>359</fpage>
+                <lpage>367</lpage>
+                <pub-id pub-id-type="pmid">30777155</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.amepre.2018.10.024</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Callaghan</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Correlates and disparities of intention to vaccinate against COVID-19</article-title>
+                <source>Soc. Sci. Med.</source>
+                <year>2021</year>
+                <volume>272</volume>
+                <pub-id pub-id-type="pmid">33414032</pub-id>
+                <pub-id pub-id-type="pmcid">7834845</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.socscimed.2020.113638</pub-id>
+                <elocation-id>113638</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>D’Errico</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The model of “informed refusal” for vaccination: How to fight against anti-vaccinationist misinformation without disregarding the principle of self-determination</article-title>
+                <source>Vaccines</source>
+                <year>2021</year>
+                <volume>9</volume>
+                <fpage>110</fpage>
+                <pub-id pub-id-type="pmid">33535717</pub-id>
+                <pub-id pub-id-type="pmcid">7912813</pub-id>
+                <pub-id pub-id-type="doi">10.3390/vaccines9020110</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bor</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Jørgensen</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Petersen</surname>
+                    <given-names>MB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Discriminatory attitudes against unvaccinated people during the pandemic</article-title>
+                <source>Nature</source>
+                <year>2022</year>
+                <volume>613</volume>
+                <fpage>704</fpage>
+                <lpage>711</lpage>
+                <pub-id pub-id-type="pmid">36482134</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41586-022-05607-y</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2023Natur.613..704B</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Korn</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Böhm</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Meier</surname>
+                    <given-names>NW</given-names>
+                  </name>
+                  <name>
+                    <surname>Betsch</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Vaccination as a social contract</article-title>
+                <source>Proc. Natl. Acad. Sci.</source>
+                <year>2020</year>
+                <volume>117</volume>
+                <fpage>14890</fpage>
+                <lpage>14899</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXhsV2gtb%2FI</pub-id>
+                <pub-id pub-id-type="pmid">32541033</pub-id>
+                <pub-id pub-id-type="pmcid">7334515</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.1919666117</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020PNAS..11714890K</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="other">
+                ILO Monitor. 
+                <italic>COVID-19 and the world of work. Third edition. Updated estimates and analysis.</italic>
+                <ext-link ns0:href="http://www.cnt-nar.be/DOSSIERS/Covid-19/ILO-2020-04-29-Covid-19-and-the-world-of-work-(03)-EN.pdf" ext-link-type="uri">http://www.cnt-nar.be/DOSSIERS/Covid-19/ILO-2020-04-29-Covid-19-and-the-world-of-work-(03)-EN.pdf</ext-link>
+                 (2020).
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Reynaud</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Workforce reduction and firm performance: Evidence from French firm data (1994–2000)</article-title>
+                <source>Socio-Econ. Rev.</source>
+                <year>2013</year>
+                <volume>11</volume>
+                <fpage>711</fpage>
+                <lpage>737</lpage>
+                <pub-id pub-id-type="doi">10.1093/ser/mws017</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dencker</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Who do firms lay off and why?</article-title>
+                <source>Ind. Relat. J. Econ. Soc.</source>
+                <year>2012</year>
+                <volume>51</volume>
+                <fpage>152</fpage>
+                <lpage>169</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zatzick</surname>
+                    <given-names>CD</given-names>
+                  </name>
+                  <name>
+                    <surname>Deery</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Iverson</surname>
+                    <given-names>RD</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Understanding the determinants of who gets laid off: Does affective organizational commitment matter?</article-title>
+                <source>Hum. Resour. Manag.</source>
+                <year>2015</year>
+                <volume>54</volume>
+                <fpage>877</fpage>
+                <lpage>891</lpage>
+                <pub-id pub-id-type="doi">10.1002/hrm.21641</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cialdini</surname>
+                    <given-names>RB</given-names>
+                  </name>
+                  <name>
+                    <surname>Goldstein</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Social influence: Compliance and conformity</article-title>
+                <source>Annu. Rev. Psychol.</source>
+                <year>2004</year>
+                <volume>55</volume>
+                <fpage>591</fpage>
+                <lpage>621</lpage>
+                <pub-id pub-id-type="pmid">14744228</pub-id>
+                <pub-id pub-id-type="doi">10.1146/annurev.psych.55.090902.142015</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cialdini</surname>
+                    <given-names>RB</given-names>
+                  </name>
+                  <name>
+                    <surname>Reno</surname>
+                    <given-names>RR</given-names>
+                  </name>
+                  <name>
+                    <surname>Kallgren</surname>
+                    <given-names>CA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A focus theory of normative conduct: Recycling the concept of norms to reduce littering in public places</article-title>
+                <source>J. Pers. Soc. Psychol.</source>
+                <year>1990</year>
+                <volume>58</volume>
+                <fpage>1015</fpage>
+                <lpage>1026</lpage>
+                <pub-id pub-id-type="doi">10.1037/0022-3514.58.6.1015</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="other">
+                Daszak, P. 
+                <italic>et al.</italic>
+                 Workshop report on biodiversity and pandemics of the Intergovernmental Platform on Biodiversity and Ecosystem Services.  Intergovernmental
+Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), 
+                <ext-link ns0:href="https://eprints.qut.edu.au/208149" ext-link-type="uri">https://eprints.qut.edu.au/208149</ext-link>
+                 (2020)
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tyler</surname>
+                    <given-names>TR</given-names>
+                  </name>
+                  <name>
+                    <surname>Blader</surname>
+                    <given-names>SL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The group engagement model: Procedural justice, social identity, and cooperative behavior</article-title>
+                <source>Pers. Soc. Psychol. Rev.</source>
+                <year>2003</year>
+                <volume>7</volume>
+                <fpage>349</fpage>
+                <lpage>361</lpage>
+                <pub-id pub-id-type="pmid">14633471</pub-id>
+                <pub-id pub-id-type="doi">10.1207/S15327957PSPR0704_07</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Borup</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Brown</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Konrad</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Van Lente</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The sociology of expectations in science and technology</article-title>
+                <source>Technol. Anal. Strateg. Manag.</source>
+                <year>2006</year>
+                <volume>18</volume>
+                <fpage>285</fpage>
+                <lpage>298</lpage>
+                <pub-id pub-id-type="doi">10.1080/09537320600777002</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Merton</surname>
+                    <given-names>RK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The self-fulfilling prophecy</article-title>
+                <source>Antioch. Rev.</source>
+                <year>1948</year>
+                <volume>8</volume>
+                <fpage>193</fpage>
+                <lpage>210</lpage>
+                <pub-id pub-id-type="doi">10.2307/4609267</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Biggs</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Bearman</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Hedström</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Self-fulfilling prophecies</article-title>
+                <source>The Oxford Handbook of Analytical Sociology</source>
+                <year>2011</year>
+                <publisher-name>Oxford University Press</publisher-name>
+                <fpage>294</fpage>
+                <lpage>314</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Buchan</surname>
+                    <given-names>SA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Estimated effectiveness of COVID-19 vaccines against omicron or delta symptomatic infection and severe outcomes</article-title>
+                <source>JAMA Netw. Open</source>
+                <year>2022</year>
+                <volume>5</volume>
+                <pub-id pub-id-type="pmid">36136332</pub-id>
+                <pub-id pub-id-type="pmcid">9500552</pub-id>
+                <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.32760</pub-id>
+                <elocation-id>e2232760</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stowe</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Andrews</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Kirsebom</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Ramsay</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Bernal</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effectiveness of COVID-19 vaccines against Omicron and Delta hospitalisation, a test negative case-control study</article-title>
+                <source>Nat. Commun.</source>
+                <year>2022</year>
+                <volume>13</volume>
+                <fpage>5736</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XisFOhtbjN</pub-id>
+                <pub-id pub-id-type="pmid">36180428</pub-id>
+                <pub-id pub-id-type="pmcid">9523190</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41467-022-33378-7</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2022NatCo..13.5736S</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tan</surname>
+                    <given-names>ST</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave</article-title>
+                <source>Nat. Med.</source>
+                <year>2023</year>
+                <volume>29</volume>
+                <fpage>358</fpage>
+                <lpage>365</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXitlClsQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">36593393</pub-id>
+                <pub-id pub-id-type="pmcid">9974584</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41591-022-02138-x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Madewell</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Yang</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Longini</surname>
+                    <given-names>IM</given-names>
+                    <suffix>Jr</suffix>
+                  </name>
+                  <name>
+                    <surname>Halloran</surname>
+                    <given-names>ME</given-names>
+                  </name>
+                  <name>
+                    <surname>Dean</surname>
+                    <given-names>NE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Household secondary attack rates of SARS-CoV-2 by variant and vaccination status: An updated systematic review and meta-analysis</article-title>
+                <source>JAMA Netw. Open</source>
+                <year>2022</year>
+                <volume>5</volume>
+                <pub-id pub-id-type="pmid">35482308</pub-id>
+                <pub-id pub-id-type="pmcid">9051991</pub-id>
+                <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.9317</pub-id>
+                <elocation-id>e229317</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yong</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                  <name>
+                    <surname>Choy</surname>
+                    <given-names>BKC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Noncompliance with safety guidelines as a free-riding strategy: An evolutionary game-theoretic approach to cooperation during the COVID-19 pandemic</article-title>
+                <source>Front. Psychol.</source>
+                <year>2021</year>
+                <volume>12</volume>
+                <fpage>646892</fpage>
+                <pub-id pub-id-type="pmid">33796057</pub-id>
+                <pub-id pub-id-type="pmcid">8008110</pub-id>
+                <pub-id pub-id-type="doi">10.3389/fpsyg.2021.646892</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fehr</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Fischbacher</surname>
+                    <given-names>U</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Social norms and human cooperation</article-title>
+                <source>Trends Cogn. Sci.</source>
+                <year>2004</year>
+                <volume>8</volume>
+                <fpage>185</fpage>
+                <lpage>190</lpage>
+                <pub-id pub-id-type="pmid">15050515</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.tics.2004.02.007</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Petersen</surname>
+                    <given-names>MB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Evolutionary political psychology: on the origin and structure of heuristics and biases in politics: Evolutionary political psychology</article-title>
+                <source>Polit. Psychol.</source>
+                <year>2015</year>
+                <volume>36</volume>
+                <fpage>45</fpage>
+                <lpage>78</lpage>
+                <pub-id pub-id-type="doi">10.1111/pops.12237</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ridgeway</surname>
+                    <given-names>CL</given-names>
+                  </name>
+                </person-group>
+                <source>Status: Why Is It Everywhere? Why Does It Matter?</source>
+                <year>2019</year>
+                <publisher-name>Russell Sage Foundation</publisher-name>
+                <pub-id pub-id-type="doi">10.7758/9781610448895</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Foschi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Berger</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Zelditch</surname>
+                    <given-names>M</given-names>
+                    <suffix>Jr</suffix>
+                  </name>
+                  <name>
+                    <surname>Anderson</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Status characteristics, standards, and attributions</article-title>
+                <source>Sociological Theories in Progress</source>
+                <year>1989</year>
+                <publisher-name>SAGE Publications</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Foschi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Double standards for competence: Theory and research</article-title>
+                <source>Annu. Rev. Sociol.</source>
+                <year>2000</year>
+                <volume>26</volume>
+                <fpage>21</fpage>
+                <lpage>42</lpage>
+                <pub-id pub-id-type="doi">10.1146/annurev.soc.26.1.21</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Foschi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Ndobo</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Faure</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Thye</surname>
+                    <given-names>SR</given-names>
+                  </name>
+                  <name>
+                    <surname>Lawler</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Assessing and blocking double standards for competence</article-title>
+                <source>Advances in Group Processes</source>
+                <year>2019</year>
+                <publisher-name>Emerald Publishing Limited</publisher-name>
+                <fpage>19</fpage>
+                <lpage>45</lpage>
+                <pub-id pub-id-type="doi">10.1108/S0882-614520190000036004</pub-id>
+                <volume content-type="number-in-series">36</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Berger</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <source>Status Characteristics and Social Interaction: An Expectation-states Approach</source>
+                <year>1977</year>
+                <publisher-name>Elsevier Scientific Publishing Company</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Berger</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Wagner</surname>
+                    <given-names>DG</given-names>
+                  </name>
+                  <name>
+                    <surname>Webster</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Thye</surname>
+                    <given-names>SR</given-names>
+                  </name>
+                  <name>
+                    <surname>Lawler</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Expectation states theory: Growth, opportunities and challenges</article-title>
+                <source>Advances in Group Processes</source>
+                <year>2014</year>
+                <publisher-name>Emerald Group Publishing Limited</publisher-name>
+                <fpage>19</fpage>
+                <lpage>55</lpage>
+                <pub-id pub-id-type="doi">10.1108/S0882-614520140000031000</pub-id>
+                <volume content-type="number-in-series">31</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Roscigno</surname>
+                    <given-names>VJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Mong</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Byron</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Tester</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Age discrimination, social closure and employment</article-title>
+                <source>Soc. Forces</source>
+                <year>2007</year>
+                <volume>86</volume>
+                <fpage>313</fpage>
+                <lpage>334</lpage>
+                <pub-id pub-id-type="doi">10.1353/sof.2007.0109</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lyness</surname>
+                    <given-names>KS</given-names>
+                  </name>
+                  <name>
+                    <surname>Heilman</surname>
+                    <given-names>ME</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">When fit is fundamental: Performance evaluations and promotions of upper-level female and male managers</article-title>
+                <source>J. Appl. Psychol.</source>
+                <year>2006</year>
+                <volume>91</volume>
+                <fpage>777</fpage>
+                <lpage>785</lpage>
+                <pub-id pub-id-type="pmid">16834505</pub-id>
+                <pub-id pub-id-type="doi">10.1037/0021-9010.91.4.777</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Castilla</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Gender, race, and meritocracy in organizational careers</article-title>
+                <source>Am. J. Sociol.</source>
+                <year>2008</year>
+                <volume>113</volume>
+                <fpage>1479</fpage>
+                <lpage>1526</lpage>
+                <pub-id pub-id-type="doi">10.1086/588738</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Smith</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Webber</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Promotion: Age matters</article-title>
+                <source>Int. Congr. Ser.</source>
+                <year>2005</year>
+                <volume>1280</volume>
+                <fpage>403</fpage>
+                <lpage>408</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.ics.2005.02.098</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Roscigno</surname>
+                    <given-names>VJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Zheng</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Crowley</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Workplace age discrimination and social-psychological well-being</article-title>
+                <source>Soc. Ment. Health</source>
+                <year>2022</year>
+                <volume>12</volume>
+                <fpage>195</fpage>
+                <lpage>214</lpage>
+                <pub-id pub-id-type="doi">10.1177/21568693221116139</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Polavieja</surname>
+                    <given-names>JG</given-names>
+                  </name>
+                  <name>
+                    <surname>Lancee</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Ramos</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Veit</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Yemane</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">In your face: A comparative field experiment on racial discrimination in Europe</article-title>
+                <source>Socio-Econ. Rev.</source>
+                <year>2023</year>
+                <volume>21</volume>
+                <fpage>1551</fpage>
+                <lpage>1578</lpage>
+                <pub-id pub-id-type="doi">10.1093/ser/mwad009</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fiske</surname>
+                    <given-names>ST</given-names>
+                  </name>
+                  <name>
+                    <surname>Cuddy</surname>
+                    <given-names>AJC</given-names>
+                  </name>
+                  <name>
+                    <surname>Glick</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Xu</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A model of (often mixed) stereotype content: Competence and warmth respectively follow from perceived status and competition</article-title>
+                <source>J. Pers. Soc. Psychol.</source>
+                <year>2002</year>
+                <volume>82</volume>
+                <fpage>878</fpage>
+                <lpage>902</lpage>
+                <pub-id pub-id-type="pmid">12051578</pub-id>
+                <pub-id pub-id-type="doi">10.1037/0022-3514.82.6.878</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Egan</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Matvos</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Seru</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">When harry fired sally: The double standard in punishing misconduct</article-title>
+                <source>J. Polit. Econ.</source>
+                <year>2022</year>
+                <volume>130</volume>
+                <fpage>1184</fpage>
+                <lpage>1248</lpage>
+                <pub-id pub-id-type="doi">10.1086/718964</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Auspurg</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Hinz</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Sauer</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Why should women get less? Evidence on the gender pay gap from multifactorial survey experiments</article-title>
+                <source>Am. Sociol. Rev.</source>
+                <year>2017</year>
+                <volume>82</volume>
+                <fpage>179</fpage>
+                <lpage>210</lpage>
+                <pub-id pub-id-type="doi">10.1177/0003122416683393</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Thijssen</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Lancee</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Veit</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Yemane</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Discrimination against Turkish minorities in Germany and the Netherlands: Field experimental evidence on the effect of diagnostic information on labour market outcomes</article-title>
+                <source>J. Ethn. Migr. Stud.</source>
+                <year>2021</year>
+                <volume>47</volume>
+                <fpage>1222</fpage>
+                <lpage>1239</lpage>
+                <pub-id pub-id-type="doi">10.1080/1369183X.2019.1622793</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR47">
+              <label>47.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Koopmans</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Veit</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Yemane</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Taste or statistics? A correspondence study of ethnic, racial and religious labour market discrimination in Germany</article-title>
+                <source>Ethn. Racial Stud.</source>
+                <year>2019</year>
+                <volume>42</volume>
+                <fpage>233</fpage>
+                <lpage>252</lpage>
+                <pub-id pub-id-type="doi">10.1080/01419870.2019.1654114</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR48">
+              <label>48.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Drydakis</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Paraskevopoulou</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Bozani</surname>
+                    <given-names>V</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A field study of age discrimination in the workplace: The importance of gender and race-pay the gap</article-title>
+                <source>Empl. Relat. Int. J.</source>
+                <year>2022</year>
+                <volume>45</volume>
+                <fpage>304</fpage>
+                <lpage>327</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR49">
+              <label>49.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Moss-Racusin</surname>
+                    <given-names>CA</given-names>
+                  </name>
+                  <name>
+                    <surname>Dovidio</surname>
+                    <given-names>JF</given-names>
+                  </name>
+                  <name>
+                    <surname>Brescoll</surname>
+                    <given-names>VL</given-names>
+                  </name>
+                  <name>
+                    <surname>Graham</surname>
+                    <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Handelsman</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Science faculty’s subtle gender biases favor male students</article-title>
+                <source>Proc. Natl. Acad. Sci.</source>
+                <year>2012</year>
+                <volume>109</volume>
+                <fpage>16474</fpage>
+                <lpage>16479</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XhsFKltrrP</pub-id>
+                <pub-id pub-id-type="pmid">22988126</pub-id>
+                <pub-id pub-id-type="pmcid">3478626</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.1211286109</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012PNAS..10916474M</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR50">
+              <label>50.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Birkelund</surname>
+                    <given-names>GE</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Gender discrimination in hiring: Evidence from a cross-national harmonized field experiment</article-title>
+                <source>Eur. Sociol. Rev.</source>
+                <year>2022</year>
+                <volume>38</volume>
+                <fpage>337</fpage>
+                <lpage>354</lpage>
+                <pub-id pub-id-type="doi">10.1093/esr/jcab043</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR51">
+              <label>51.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schraeder</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Self</surname>
+                    <given-names>DR</given-names>
+                  </name>
+                  <name>
+                    <surname>Lindsay</surname>
+                    <given-names>DR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Performance appraisals as a selection criterion in downsizing: A comparison of rank-order and banding approaches</article-title>
+                <source>Manag. Law</source>
+                <year>2006</year>
+                <volume>48</volume>
+                <fpage>479</fpage>
+                <lpage>494</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR52">
+              <label>52.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Adams</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Inequity in social exchange</article-title>
+                <source>Advances in Experimental Social Psychology</source>
+                <year>1965</year>
+                <publisher-name>Elsevier</publisher-name>
+                <fpage>267</fpage>
+                <lpage>299</lpage>
+                <volume content-type="number-in-series">2</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR53">
+              <label>53.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Siegrist</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Fink</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Chapter 9—Effort-reward imbalance model</article-title>
+                <source>Stress: Concepts, Cognition, Emotion, and Behavior</source>
+                <year>2016</year>
+                <publisher-name>Academic Press</publisher-name>
+                <fpage>81</fpage>
+                <lpage>86</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR54">
+              <label>54.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Attwell</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">COVID-19 vaccination policy dataset</article-title>
+                <source>Nat. Hum. Behav.</source>
+                <year>2023</year>
+                <volume>7</volume>
+                <fpage>1247</fpage>
+                <lpage>1248</lpage>
+                <pub-id pub-id-type="pmid">37414887</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41562-023-01658-x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR55">
+              <label>55.</label>
+              <mixed-citation publication-type="other">
+                Walter, J. D. Mandatory COVID vaccines stoke controversy across Europe. 
+                <italic>Deutsche Welle</italic>
+                 (2021).
+              </mixed-citation>
+            </ref>
+            <ref id="CR56">
+              <label>56.</label>
+              <mixed-citation publication-type="other">
+                Gouvy, C. France: Thousands protest against vaccination, COVID passes. 
+                <italic>AP News</italic>
+                 (2021).
+              </mixed-citation>
+            </ref>
+            <ref id="CR57">
+              <label>57.</label>
+              <mixed-citation publication-type="other">Reuters. Anti COVID vaccine protesters clash with police in Greece. (2021).</mixed-citation>
+            </ref>
+            <ref id="CR58">
+              <label>58.</label>
+              <mixed-citation publication-type="other">
+                Solis, N. &amp; Branson-Potts, H. Thousands protest COVID-19 vaccination mandates as L.A.’s verification rules kick in. 
+                <italic>Los Angeles Times</italic>
+                 (2021).
+              </mixed-citation>
+            </ref>
+            <ref id="CR59">
+              <label>59.</label>
+              <mixed-citation publication-type="other">
+                Federal Anti-Discrimination Agency. Diskriminierungserfahrungen wegen Corona-Schutzmaßnahmen. 
+                <italic>Antidiskriminierungsstelle</italic>
+                <ext-link ns0:href="https://www.antidiskriminierungsstelle.de/DE/was-wir-machen/projekte/Corona/Corona_node.html" ext-link-type="uri">https://www.antidiskriminierungsstelle.de/DE/was-wir-machen/projekte/Corona/Corona_node.html</ext-link>
+                 (2023).
+              </mixed-citation>
+            </ref>
+            <ref id="CR60">
+              <label>60.</label>
+              <mixed-citation publication-type="other">
+                Loibl, M. Update Arbeitsrecht, Impfpflicht – Kündigung wegen fehlender Corona-Impfung! 
+                <italic>Anwalt.de</italic>
+                <ext-link ns0:href="https://www.anwalt.de/rechtstipps/update-arbeitsrecht-impfpflicht-kuendigung-wegen-fehlender-corona-impfung-198406.html" ext-link-type="uri">https://www.anwalt.de/rechtstipps/update-arbeitsrecht-impfpflicht-kuendigung-wegen-fehlender-corona-impfung-198406.html</ext-link>
+                 (2022).
+              </mixed-citation>
+            </ref>
+            <ref id="CR61">
+              <label>61.</label>
+              <mixed-citation publication-type="other">
+                Legal Tribune Online. BAG hält Kündigung wegen Nicht-Impfung für rechtmäßig. 
+                <italic>LTO Legal Tribune Online</italic>
+                <ext-link ns0:href="https://www.lto.de/recht/nachrichten/n/bag-2azr309-22-kuendigung-einer-im-krankenhaus-arbeitenden-impfgegnerin-rechtmaessig/" ext-link-type="uri">https://www.lto.de/recht/nachrichten/n/bag-2azr309-22-kuendigung-einer-im-krankenhaus-arbeitenden-impfgegnerin-rechtmaessig/</ext-link>
+                .
+              </mixed-citation>
+            </ref>
+            <ref id="CR62">
+              <label>62.</label>
+              <mixed-citation publication-type="other">
+                Das Bundesarbeitsgericht, 2 Senat Kammer. 2 AZR 309/22. 
+                <italic>Das Bundesarbeitsgericht</italic>
+                <ext-link ns0:href="https://www.bundesarbeitsgericht.de/entscheidung/2-azr-309-22/" ext-link-type="uri">https://www.bundesarbeitsgericht.de/entscheidung/2-azr-309-22/</ext-link>
+                 (2023).
+              </mixed-citation>
+            </ref>
+            <ref id="CR63">
+              <label>63.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Atzmüller</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Steiner</surname>
+                    <given-names>PM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Experimental vignette studies in survey research</article-title>
+                <source>Methodology</source>
+                <year>2010</year>
+                <volume>6</volume>
+                <fpage>128</fpage>
+                <lpage>138</lpage>
+                <pub-id pub-id-type="doi">10.1027/1614-2241/a000014</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR64">
+              <label>64.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Aguinis</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Bradley</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Best practice recommendations for designing and implementing experimental vignette methodology studies</article-title>
+                <source>Organ. Res. Methods</source>
+                <year>2014</year>
+                <volume>17</volume>
+                <fpage>351</fpage>
+                <lpage>371</lpage>
+                <pub-id pub-id-type="doi">10.1177/1094428114547952</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR65">
+              <label>65.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Jasso</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Factorial survey methods for studying beliefs and judgments</article-title>
+                <source>Sociol. Methods Res.</source>
+                <year>2006</year>
+                <volume>34</volume>
+                <fpage>334</fpage>
+                <lpage>423</lpage>
+                <pub-id pub-id-type="other" assigning-authority="American Mathematical Society">2247100</pub-id>
+                <pub-id pub-id-type="doi">10.1177/0049124105283121</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR66">
+              <label>66.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Horr</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hunkler</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Kroneberg</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ethnic discrimination in the German housing market: A field experiment on the underlying mechanisms</article-title>
+                <source>Z. Für Soziol.</source>
+                <year>2018</year>
+                <volume>47</volume>
+                <fpage>134</fpage>
+                <lpage>146</lpage>
+                <pub-id pub-id-type="doi">10.1515/zfsoz-2018-1009</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR67">
+              <label>67.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schmaus</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Kristen</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Foreign accents in the early hiring process: A field experiment on accent-related ethnic discrimination in Germany</article-title>
+                <source>Int. Migr. Rev.</source>
+                <year>2022</year>
+                <volume>56</volume>
+                <fpage>562</fpage>
+                <lpage>593</lpage>
+                <pub-id pub-id-type="doi">10.1177/01979183211042004</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR68">
+              <label>68.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>FG</given-names>
+                  </name>
+                </person-group>
+                <source>Grundlagen betrieblicher Leistungsbeurteilungen: Leistungsverständnis und -prinzip, Beurteilungsproblematik und Verfahrensprobleme</source>
+                <year>2003</year>
+                <publisher-name>Schäffer-Poeschel</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR69">
+              <label>69.</label>
+              <mixed-citation publication-type="other">
+                Kuhfeld, W. F., Tobias, R. D. &amp; Garratt, M. Efficient experimental design with
+marketing research applications. 
+                <italic>J. Mark. Res</italic>
+                . 
+                <bold>31</bold>
+                , 545–557 (1994).
+              </mixed-citation>
+            </ref>
+            <ref id="CR70">
+              <label>70.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>van Someren</surname>
+                    <given-names>MW</given-names>
+                  </name>
+                  <name>
+                    <surname>Barnard</surname>
+                    <given-names>YF</given-names>
+                  </name>
+                  <name>
+                    <surname>Sandberg</surname>
+                    <given-names>JAC</given-names>
+                  </name>
+                </person-group>
+                <source>The Think Aloud Method: A Practical Approach to Modelling Cognitive Processes</source>
+                <year>1994</year>
+                <publisher-name>Academic Press</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR71">
+              <label>71.</label>
+              <mixed-citation publication-type="other">
+                Hensher, D. A. &amp; Greene, W. H. The Mixed Logit model: The state of practice.
+
+                <italic>Transportation</italic>
+                <bold>30</bold>
+                , 133–176 (2003).
+              </mixed-citation>
+            </ref>
+            <ref id="CR72">
+              <label>72.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Benjamini</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Hochberg</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Controlling the false discovery rate: A practical and powerful approach to multiple testing</article-title>
+                <source>J. R. Stat. Soc. Ser. B Methodol.</source>
+                <year>1995</year>
+                <volume>57</volume>
+                <fpage>289</fpage>
+                <lpage>300</lpage>
+                <pub-id pub-id-type="other" assigning-authority="American Mathematical Society">1325392</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR73">
+              <label>73.</label>
+              <mixed-citation publication-type="other">
+                Arel-Bundock, V. 
+                <italic>Marginaleffects: Predictions, Comparisons, Slopes, Marginal Means, and Hypothesis T</italic>
+                ests. (2023).
+              </mixed-citation>
+            </ref>
+            <ref id="CR74">
+              <label>74.</label>
+              <mixed-citation publication-type="other">
+                R Core Team. 
+                <italic>R: A language and environment for statistical computing</italic>
+                . 
+                <ext-link ns0:href="https://www.R-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>
+                 (2022).
+              </mixed-citation>
+            </ref>
+            <ref id="CR75">
+              <label>75.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Reskin</surname>
+                    <given-names>BF</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Including mechanisms in our models of ascriptive inequality</article-title>
+                <source>Am. Sociol. Rev.</source>
+                <year>2003</year>
+                <volume>68</volume>
+                <fpage>1</fpage>
+                <lpage>21</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR76">
+              <label>76.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Boserup</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>McKenney</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Elkbuli</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Disproportionate impact of COVID-19 pandemic on racial and ethnic minorities</article-title>
+                <source>Am. Surg.</source>
+                <year>2020</year>
+                <volume>86</volume>
+                <fpage>1615</fpage>
+                <lpage>1622</lpage>
+                <pub-id pub-id-type="pmid">33231496</pub-id>
+                <pub-id pub-id-type="pmcid">7691116</pub-id>
+                <pub-id pub-id-type="doi">10.1177/0003134820973356</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR77">
+              <label>77.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Connor</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Health risks and outcomes that disproportionately affect women during the Covid-19 pandemic: A review</article-title>
+                <source>Soc. Sci. Med.</source>
+                <year>2020</year>
+                <volume>266</volume>
+                <pub-id pub-id-type="pmid">32950924</pub-id>
+                <pub-id pub-id-type="pmcid">7487147</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.socscimed.2020.113364</pub-id>
+                <elocation-id>113364</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR78">
+              <label>78.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Brenner</surname>
+                    <given-names>PS</given-names>
+                  </name>
+                  <name>
+                    <surname>DeLamater</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Lies, damned lies, and survey self-reports? Identity as a cause of measurement bias</article-title>
+                <source>Soc. Psychol. Q.</source>
+                <year>2016</year>
+                <volume>79</volume>
+                <fpage>333</fpage>
+                <lpage>354</lpage>
+                <pub-id pub-id-type="pmid">29038609</pub-id>
+                <pub-id pub-id-type="pmcid">5639921</pub-id>
+                <pub-id pub-id-type="doi">10.1177/0190272516628298</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR79">
+              <label>79.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tappin</surname>
+                    <given-names>BM</given-names>
+                  </name>
+                  <name>
+                    <surname>McKay</surname>
+                    <given-names>RT</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The illusion of moral superiority</article-title>
+                <source>Soc. Psychol. Pers. Sci.</source>
+                <year>2017</year>
+                <volume>8</volume>
+                <fpage>623</fpage>
+                <lpage>631</lpage>
+                <pub-id pub-id-type="doi">10.1177/1948550616673878</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR80">
+              <label>80.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Pager</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Quillian</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Walking the talk? What employers say versus what they do</article-title>
+                <source>Am. Sociol. Rev.</source>
+                <year>2005</year>
+                <volume>70</volume>
+                <fpage>355</fpage>
+                <lpage>380</lpage>
+                <pub-id pub-id-type="doi">10.1177/000312240507000301</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR81">
+              <label>81.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wulff</surname>
+                    <given-names>JN</given-names>
+                  </name>
+                  <name>
+                    <surname>Villadsen</surname>
+                    <given-names>AR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Are survey experiments as valid as field experiments in management research? An empirical comparison using the case of ethnic employment discrimination</article-title>
+                <source>Eur. Manag. Rev.</source>
+                <year>2020</year>
+                <volume>17</volume>
+                <fpage>347</fpage>
+                <lpage>356</lpage>
+                <pub-id pub-id-type="doi">10.1111/emre.12342</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR82">
+              <label>82.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hainmueller</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Hangartner</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Yamamoto</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Validating vignette and conjoint survey experiments against real-world behavior</article-title>
+                <source>Proc. Natl. Acad. Sci. USA</source>
+                <year>2015</year>
+                <volume>112</volume>
+                <fpage>2395</fpage>
+                <lpage>2400</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXhvFCgs70%3D</pub-id>
+                <pub-id pub-id-type="pmid">25646415</pub-id>
+                <pub-id pub-id-type="pmcid">4345583</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.1416587112</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015PNAS..112.2395H</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR83">
+              <label>83.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Petzold</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Wolbring</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">What can we learn from factorial surveys about human behavior? A validation study comparing field and survey experiments on discrimination</article-title>
+                <source>Methodol. Eur. J. Res. Methods Behav. Soc. Sci.</source>
+                <year>2019</year>
+                <volume>15</volume>
+                <fpage>19</fpage>
+                <lpage>30</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR84">
+              <label>84.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lazarus</surname>
+                    <given-names>JV</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A survey of COVID-19 vaccine acceptance across 23 countries in 2022</article-title>
+                <source>Nat. Med.</source>
+                <year>2023</year>
+                <volume>29</volume>
+                <fpage>366</fpage>
+                <lpage>375</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXntFWktQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">36624316</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41591-022-02185-4</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR85">
+              <label>85.</label>
+              <mixed-citation publication-type="other">
+                World Health Organization. WHO Coronavirus (COVID-19) Dashboard. 
+                <ext-link ns0:href="https://covid19.who.int" ext-link-type="uri">https://covid19.who.int</ext-link>
+                .
+              </mixed-citation>
+            </ref>
+            <ref id="CR86">
+              <label>86.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Agranov</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Elliott</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Ortoleva</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The importance of social norms against strategic effects: The case of Covid-19 vaccine uptake</article-title>
+                <source>Econ. Lett.</source>
+                <year>2021</year>
+                <volume>206</volume>
+                <pub-id pub-id-type="pmid">34230727</pub-id>
+                <pub-id pub-id-type="pmcid">8252706</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.econlet.2021.109979</pub-id>
+                <elocation-id>109979</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR87">
+              <label>87.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Moehring</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Providing normative information increases intentions to accept a COVID-19 vaccine</article-title>
+                <source>Nat. Commun.</source>
+                <year>2023</year>
+                <volume>14</volume>
+                <fpage>126</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXmvVyjtQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">36624092</pub-id>
+                <pub-id pub-id-type="pmcid">9828376</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41467-022-35052-4</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2023NatCo..14..126M</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR88">
+              <label>88.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dias</surname>
+                    <given-names>FA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The racial gap in employment and layoffs during COVID-19 in the United States: A visualization</article-title>
+                <source>Socius</source>
+                <year>2021</year>
+                <volume>7</volume>
+                <fpage>2378023120988397</fpage>
+                <pub-id pub-id-type="pmid">34192144</pub-id>
+                <pub-id pub-id-type="pmcid">7816096</pub-id>
+                <pub-id pub-id-type="doi">10.1177/2378023120988397</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec26">
+              <title>Supplementary Information</title>
+              <p id="Par42">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary Information">
+                  <media mimetype="application" mime-subtype="msword" ns0:href="MediaObjects/41598_2023_48829_MOESM1_ESM.docx">
+                    <caption xml:lang="en">
+                      <p>Supplementary Tables.</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary Information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41598-023-48829-4" ext-link-type="doi">https://doi.org/10.1038/s41598-023-48829-4</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Publisher's note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

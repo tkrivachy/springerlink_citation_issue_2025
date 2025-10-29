@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607479",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02521-0",
+    "title": "Publisher Correction: Random access quantum information processors using multimode circuit quantum electrodynamics",
+    "article_number": "172",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "R. K. Naik",
+      "N. Leung",
+      "S. Chakram",
+      "Peter Groszkowski",
+      "Y. Lu",
+      "N. Earnest",
+      "D. C. McKay",
+      "Jens Koch",
+      "D. I. Schuster"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:25.333456",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T11:43:59.904019"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:06:44.179074"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:06:45.419888"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:35:25.333404"
+    }
+  }
+}

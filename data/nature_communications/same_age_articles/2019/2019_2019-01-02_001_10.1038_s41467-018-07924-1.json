@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.676388",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07924-1",
+    "title": "Detecting topological variations of DNA at single-molecule level",
+    "article_number": "3",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ke Liu",
+      "Chao Pan",
+      "Alexandre Kuhn",
+      "Adrian Pascal Nievergelt",
+      "Georg E. Fantner",
+      "Olgica Milenkovic",
+      "Aleksandra Radenovic"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:03:15.253407"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:03:16.819443"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:03:17.995276"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T22:54:57.854789"
+    },
+    "last_updated": "2025-10-03T22:54:57.854874"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889598",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13826-7",
+    "title": "Siah2 control of T-regulatory cells limits anti-tumor immunity",
+    "article_number": "99",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marzia Scortegagna",
+      "Kathryn Hockemeyer",
+      "Igor Dolgalev",
+      "Joanna Poźniak",
+      "Florian Rambow",
+      "Yan Li",
+      "Yongmei Feng",
+      "Roberto Tinoco",
+      "Dennis C. Otero",
+      "Tongwu Zhang",
+      "Kevin Brown",
+      "Marcus Bosenberg",
+      "Linda M. Bradley",
+      "Jean-Christophe Marine",
+      "Ioannis Aifantis",
+      "Ze’ev A. Ronai"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:10:23.485031"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:10:25.080593"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:10:26.336597"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T22:57:17.064835"
+    },
+    "last_updated": "2025-10-03T22:57:17.065028"
+  }
+}

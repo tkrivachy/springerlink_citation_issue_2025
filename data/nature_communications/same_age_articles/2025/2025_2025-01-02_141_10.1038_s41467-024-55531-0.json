@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.532579",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55531-0",
+    "title": "Single-molecule two- and three-colour FRET studies reveal a transition state in SNARE disassembly by NSF",
+    "article_number": "250",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sudheer K. Cheppali",
+      "Chang Li",
+      "Wenjing Xing",
+      "Ruirui Sun",
+      "Mengyi Yang",
+      "Yi Xue",
+      "Si-Yao Lu",
+      "Jun Yao",
+      "Shan Sun",
+      "Chunlai Chen",
+      "Sen-Fang Sui"
+    ]
+  },
+  "article_index": 141,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:39:08.016783"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:39:09.603288"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:39:10.778969"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:27:07.041310"
+    },
+    "last_updated": "2025-10-03T23:27:07.041532"
+  }
+}

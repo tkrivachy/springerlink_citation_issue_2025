@@ -1,0 +1,69 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.195407",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20095-2",
+    "title": "Analysis of SARS-CoV-2 antibodies in COVID-19 convalescent blood using a coronavirus antigen microarray",
+    "article_number": "6",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rafael R. de Assis",
+      "Aarti Jain",
+      "Rie Nakajima",
+      "Algis Jasinskas",
+      "Jiin Felgner",
+      "Joshua M. Obiero",
+      "Philip J. Norris",
+      "Mars Stone",
+      "Graham Simmons",
+      "Anil Bagri",
+      "Johannes Irsch",
+      "Martin Schreiber",
+      "Andreas Buser",
+      "Andreas Holbro",
+      "Manuel Battegay",
+      "Philip Hosimer",
+      "Charles Noesen",
+      "Oluwasanmi Adenaiye",
+      "Sheldon Tai",
+      "Filbert Hong",
+      "Donald K. Milton",
+      "D. Huw Davies",
+      "Paul Contestable",
+      "Laurence M. Corash",
+      "Michael P. Busch",
+      "Philip L. Felgner",
+      "Saahir Khan"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 174,
+      "retrieved_at": "2025-10-03T18:33:36.641979"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T18:33:38.192500"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T18:33:39.402560"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 179,
+      "retrieved_at": "2025-10-03T23:05:12.218392"
+    },
+    "last_updated": "2025-10-03T23:05:12.218484"
+  }
+}

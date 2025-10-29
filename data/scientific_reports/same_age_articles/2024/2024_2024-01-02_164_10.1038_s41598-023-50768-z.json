@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.843728",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50768-z",
+    "title": "White matter microstructure alterations in type 2 diabetes mellitus and its correlation with cerebral small vessel disease and cognitive performance",
+    "article_number": "270",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yangyingqiu Liu",
+      "Yuhan Jiang",
+      "Wei Du",
+      "Bingbing Gao",
+      "Jie Gao",
+      "Shuai Hu",
+      "Qingwei Song",
+      "Weiwei Wang",
+      "Yanwei Miao"
+    ]
+  },
+  "article_index": 164,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:34:50.532678"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:34:52.057159"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:34:53.220251"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T22:01:48.547475"
+    },
+    "last_updated": "2025-10-03T22:01:48.547563"
+  }
+}

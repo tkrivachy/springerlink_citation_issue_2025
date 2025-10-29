@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687127",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08072-2",
+    "title": "Maintenance of epigenetic landscape requires CIZ1 and is corrupted in differentiated fibroblasts in long-term culture",
+    "article_number": "460",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Emma R. Stewart",
+      "Robert M. L. Turner",
+      "Katherine Newling",
+      "Rebeca Ridings-Figueroa",
+      "Victoria Scott",
+      "Peter D. Ashton",
+      "Justin F. X. Ainscough",
+      "Dawn Coverley"
+    ]
+  },
+  "article_index": 92,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T17:30:16.711847"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T17:30:18.236555"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T17:30:19.519349"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T22:43:40.095899"
+    },
+    "last_updated": "2025-10-03T22:43:40.096087"
+  }
+}

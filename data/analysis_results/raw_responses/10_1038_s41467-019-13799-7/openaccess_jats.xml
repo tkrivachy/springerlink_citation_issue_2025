@@ -1,0 +1,2071 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.w3.org/1998/Math/MathML">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-13799-7</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41467-019-13799-7</article-id>
+          <article-id pub-id-type="manuscript">13799</article-id>
+          <article-id pub-id-type="doi">10.1038/s41467-019-13799-7</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/4077/4107</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/301/119/1001</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/624/400/1101</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/766/1130/2798</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/123</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/120</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/128</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/132</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Magneto-optical painting of heat current</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5553-303X</contrib-id>
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Jian</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Takahashi</surname>
+                <given-names>Yukiko K.</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7680-3051</contrib-id>
+              <name name-style="western">
+                <surname>Uchida</surname>
+                <given-names>Ken-ichi</given-names>
+              </name>
+              <address>
+                <email>UCHIDA.Kenichi@nims.go.jp</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+              <xref ref-type="corresp" rid="IDs41467019137997_cor3">c</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 0789 6880</institution-id>
+                <institution-id institution-id-type="GRID">grid.21941.3f</institution-id>
+                <institution content-type="org-name">National Institute for Materials Science</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">305-0047</addr-line>
+              <addr-line content-type="city">Tsukuba</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 2248 6943</institution-id>
+                <institution-id institution-id-type="GRID">grid.69566.3a</institution-id>
+                <institution content-type="org-division">Center for Spintronics Research Network</institution>
+                <institution content-type="org-name">Tohoku University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">980-8577</addr-line>
+              <addr-line content-type="city">Sendai</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 2151 536X</institution-id>
+                <institution-id institution-id-type="GRID">grid.26999.3d</institution-id>
+                <institution content-type="org-division">Department of Mechanical Engineering</institution>
+                <institution content-type="org-name">The University of Tokyo</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">113-8656</addr-line>
+              <addr-line content-type="city">Tokyo</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41467019137997_cor3">
+              <label>c</label>
+              <email>UCHIDA.Kenichi@nims.go.jp</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2020</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2020</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue seq="2">1</issue>
+          <elocation-id>2</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>2</day>
+              <month>12</month>
+              <year>2019</year>
+            </date>
+            <date date-type="received">
+              <day>2</day>
+              <month>9</month>
+              <year>2019</year>
+            </date>
+            <date date-type="accepted">
+              <day>21</day>
+              <month>11</month>
+              <year>2019</year>
+            </date>
+            <date date-type="online">
+              <day>7</day>
+              <month>1</month>
+              <year>2020</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2020</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Active control of heat flow is crucial for the thermal management of increasingly complex electronic and spintronic devices. In addition to conventional heat transport engineering, spin caloritronics has received extensive attention as a heat control principle owing to its high controllability and unique thermal energy conversion symmetry. Here we demonstrate that the direction of heat currents generated by spin-caloritronic phenomena can be changed simply by illuminating magnetic materials with visible light. The optical control of heat currents is realized through a combination of the spin-driven thermoelectric conversion called an anomalous Ettingshausen effect and all-optical helicity-dependent switching of magnetization. This approach enables not only pinpoint manipulation and flexible design of the heat current distribution by patterning the illuminating light but also on/off control of the resulting temperature modulation by tuning the light polarization. These versatile heat control functionalities will open up a pathway for nanoscale thermal energy engineering.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Spin caloritronics offers advantages for the thermal management of spintronic devices. Here, the authors demonstrate that the direction of heat currents generated by spin-caloritronic phenomena can be changed by illuminating magnetic materials with visible light.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="09">Engineering</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="0915">Interdisciplinary Engineering</kwd>
+              <kwd content-type="term" vocab-term-identifier="0912">Materials Engineering</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>MEXT | JST | Core Research for Evolutional Science and Technology (CREST)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100003382</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">JPMJCR17I1</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Uchida</surname>
+                  <given-names>Ken-ichi</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>MEXT | Japan Society for the Promotion of Science (JSPS)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100001691</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">JP18H05246</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Uchida</surname>
+                  <given-names>Ken-ichi</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>NEC Corporation</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Research</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2019</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41467_2019_Article_13799.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1" sec-type="introduction">
+          <title>Introduction</title>
+          <p id="Par3">
+            Spin caloritronics is the emerging field that combines the spin degree of freedom with thermal transport and thermoelectric conversion
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+              ,
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . Recent experiments on spin caloritronics have resulted in significant progresses in fundamental studies on various heat-current-generation phenomena driven by charge and/or spin currents
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+              , 
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              , 
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              , 
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              , 
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              , 
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              –
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            , which can modulate the temperature of magnetic materials and junctions, depending on the direction of spins. The anomalous Ettingshausen effect (AEE)
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              , 
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              , 
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              , 
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              , 
+              <xref ref-type="bibr" rid="CR10">10</xref>
+              , 
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              –
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            , one of such phenomena in magnetic materials, refers to the generation of a heat current 
+            <bold>J</bold>
+            <sub>q,AEE</sub>
+             in the direction of the cross product of a charge current 
+            <bold>J</bold>
+            <sub>c</sub>
+             and magnetization 
+            <bold>M</bold>
+             (Fig. 
+            <xref rid="Fig1" ref-type="fig">1a</xref>
+            ):
+            <disp-formula id="Equ1">
+              <label>1</label>
+              <alternatives>
+                <ns1:math id="Equ1_Math">
+                  <ns1:msub>
+                    <ns1:mrow>
+                      <ns1:mi mathvariant="bold">J</ns1:mi>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mi mathvariant="normal">q,AEE</ns1:mi>
+                    </ns1:mrow>
+                  </ns1:msub>
+                  <ns1:mo>∝</ns1:mo>
+                  <ns1:msub>
+                    <ns1:mrow>
+                      <ns1:mi mathvariant="bold">J</ns1:mi>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mi mathvariant="normal">c</ns1:mi>
+                    </ns1:mrow>
+                  </ns1:msub>
+                  <ns1:mo>×</ns1:mo>
+                  <ns1:mi mathvariant="bold">M</ns1:mi>
+                  <ns1:mo>.</ns1:mo>
+                </ns1:math>
+                <tex-math id="Equ1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{J}}_{{\mathrm{q,AEE}}} \propto {\mathbf{J}}_{\mathrm{c}} \times {\mathbf{M}}.$$\end{document}</tex-math>
+                <graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13799_Article_Equ1.gif"/>
+              </alternatives>
+            </disp-formula>
+            The rapid developments of spin caloritronics have led recently to detailed studies on the AEE and its observation in thin films
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              ,
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            . The symmetry of the AEE enables reversible manipulation of the 
+            <bold>J</bold>
+            <sub>q,AEE</sub>
+             direction by tuning the 
+            <bold>M</bold>
+             direction; such magnetic control of heat currents was impossible with conventional thermoelectrics alone.
+            <fig id="Fig1" position="float">
+              <label>Fig. 1</label>
+              <caption xml:lang="en">
+                <title>Concept of magneto-optical painting of heat current.</title>
+                <p>
+                  <bold>a</bold>
+                   Schematic of the anomalous Ettingshausen effect (AEE). When a charge current 
+                  <bold>J</bold>
+                  <sub>c</sub>
+                   passes through a ferromagnetic or ferrimagnetic material with the magnetization vector 
+                  <bold>M</bold>
+                  , the AEE creates a heat current 
+                  <bold>J</bold>
+                  <sub>q,AEE</sub>
+                   in the direction of the cross product of 
+                  <bold>J</bold>
+                  <sub>c</sub>
+                   and 
+                  <bold>M</bold>
+                   (Eq. (
+                  <xref rid="Equ1" ref-type="disp-formula">1</xref>
+                  )). 
+                  <bold>b</bold>
+                   Light-induced reversal of the AEE-induced heat current. When illuminating the material with circularly polarized light, the 
+                  <bold>M</bold>
+                   direction is reversed via the all-optical helicity-dependent switching (AO-HDS). Then, the 
+                  <bold>J</bold>
+                  <sub>q,AEE</sub>
+                   direction is also reversed following the AEE symmetry. 
+                  <bold>c</bold>
+                   Magneto-optical design of the heat-current distribution. The local 
+                  <bold>J</bold>
+                  <sub>q,AEE</sub>
+                   direction and resulting temperature modulation distribution can be controlled with magnetic domains pre-designed via the AO-HDS.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13799_Fig1_HTML.png"/>
+            </fig>
+          </p>
+          <p id="Par4">
+            In this work, we propose and demonstrate active control of the AEE-induced heat current by illuminating magnetic materials with visible light. The optical control of the heat current is realized by combining the AEE with all-optical helicity-dependent switching (AO-HDS) of magnetization
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              , 
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              , 
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              , 
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              , 
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              , 
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              , 
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              , 
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              –
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            . The AO-HDS refers to deterministic magnetization switching in magnetic materials as a result of circularly polarized light illumination, where the orientation of 
+            <bold>M</bold>
+             is determined by the light helicity. The 
+            <bold>M</bold>
+             reversal due to the AO-HDS can be achieved by using femtosecond circularly polarized light without applying external magnetic fields. Although the AEE and AO-HDS have been investigated independently so far, we find that simultaneous use of these phenomena enables the optical control of the heat current. As shown in Fig. 
+            <xref rid="Fig1" ref-type="fig">1b</xref>
+            , when a magnetic material exhibiting the AEE and AO-HDS is illuminated with circularly polarized light and a charge current is applied to the material, the direction of 
+            <bold>J</bold>
+            <sub>q,AEE</sub>
+             is reversed in response to the light-induced 
+            <bold>M</bold>
+             reversal according to Eq. (
+            <xref rid="Equ1" ref-type="disp-formula">1</xref>
+            ). Importantly, the 
+            <bold>J</bold>
+            <sub>q,AEE</sub>
+             reversal due to the AO-HDS appears only in the illuminated area; by patterning the illuminating light, the 
+            <bold>J</bold>
+            <sub>q,AEE</sub>
+             distribution and, thereby, the resulting temperature distribution can be freely tailored (Fig. 
+            <xref rid="Fig1" ref-type="fig">1c</xref>
+            ). The local manipulation and flexible design of the heat-current distribution are exclusive features of spin-driven thermoelectric phenomena combined with the AO-HDS, providing active thermal management principles for electronic and spintronic devices. The concept of the magneto-optical painting of heat currents can be extended to various spin-caloritronic phenomena, such as the spin Peltier effect
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+              ,
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+             and the anisotropic magneto-Peltier effect
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              ,
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            , while we focus on the AEE for the proof-of-concept in this work.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec3">
+            <title>Magneto-optical properties</title>
+            <p id="Par5">
+              To demonstrate the magneto-optical control of the AEE-induced heat current, we used alternately stacked [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               multilayer films, which are known to exhibit the AO-HDS of magnetization
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+                ,
+                <xref ref-type="bibr" rid="CR20">20</xref>
+              </sup>
+              . We optimized the thickness of the Co and Pt layers and the Co/Pt bilayer number 
+              <italic>n</italic>
+               for the deterministic AO-HDS, as shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2a</xref>
+               (see also Methods and Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1</xref>
+              ). Figure 
+              <xref rid="Fig2" ref-type="fig">2b</xref>
+               shows the magnetization curves of the optimized [Co/Pt]
+              <sub>4</sub>
+               sample at room temperature; the multilayer film was observed to possess strong perpendicular magnetic anisotropy. In order to prove the deterministic AO-HDS, a magneto-optical Kerr effect microscopy image of the [Co/Pt]
+              <sub>4</sub>
+               sample was recorded after parts of the sample were illuminated with right (
+              <bold>σ</bold>
+              <sup>+</sup>
+              ) and left (
+              <bold>σ</bold>
+              <sup>−</sup>
+              ) circularly polarized light (Fig. 
+              <xref rid="Fig2" ref-type="fig">2c</xref>
+              ). The dark background of the magneto-optical image represents the magnetic domain with the magnetic moments pointing out of the film plane, since the sample was initially magnetized along the upward direction. While the dark contrast is barely changed after sweeping with 
+              <bold>σ</bold>
+              <sup>+</sup>
+               light, the conversion from the dark to bright was observed after sweeping with 
+              <bold>σ</bold>
+              <sup>−</sup>
+               light, indicating that the [Co/Pt]
+              <sub>4</sub>
+               sample exhibits the clear AO-HDS of magnetization. Our Hall resistance measurements show that ~91% of the magnetic moments are reversed by illuminating the [Co/Pt]
+              <sub>4</sub>
+               sample with the circularly polarized light (Fig. 
+              <xref rid="Fig2" ref-type="fig">2d;</xref>
+               Methods). Similar results were obtained also for the [Co/Pt]
+              <sub>3</sub>
+               and [Co/Pt]
+              <sub>5</sub>
+               samples with the same Co and Pt thicknesses. This high AO-HDS efficiency confirms that the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               films are a good platform for demonstrating the magneto-optical control of the AEE-induced heat current.
+              <fig id="Fig2" position="float">
+                <label>Fig. 2</label>
+                <caption xml:lang="en">
+                  <title>Magnetic and magneto-optical properties of Co/Pt multilayer.</title>
+                  <p>
+                    <bold>a</bold>
+                     Layer configuration of the [Co/Pt]
+                    <sub>4</sub>
+                     multilayer film. 
+                    <bold>b</bold>
+                     Magnetization 
+                    <italic>M</italic>
+                     curves of the [Co/Pt]
+                    <sub>4</sub>
+                     sample, measured when the magnetic field 
+                    <italic>H</italic>
+                     was applied along the easy axis (out-of-plane direction of the film) and the hard axis (in-plane direction of the film) at room temperature. The [Co/Pt]
+                    <sub>4</sub>
+                     sample exhibits the strong perpendicular magnetic anisotropy with an out-of-plane coercive field of 2.3 kOe and an anisotropy field of 41.9 kOe. 
+                    <bold>c</bold>
+                     Magneto-optical Kerr effect microscopy image of the [Co/Pt]
+                    <sub>4</sub>
+                     sample illuminated with right (
+                    <bold>σ</bold>
+                    <sup>+</sup>
+                    ) and left (
+                    <bold>σ</bold>
+                    <sup>−</sup>
+                    ) circularly polarized light at room temperature. The dark (bright) contrast represents the area with 
+                    <bold>M</bold>
+                     along the upward (downward) direction perpendicular to the film plane. 
+                    <bold>d</bold>
+                     Hall resistance 
+                    <italic>R</italic>
+                    <sub>H</sub>
+                     of the [Co/Pt]
+                    <sub>4</sub>
+                     sample with a Hall cross shape at room temperature. The red line shows the out-of-plane 
+                    <italic>H</italic>
+                     dependence of 
+                    <italic>R</italic>
+                    <sub>H</sub>
+                    . The blue star data points were measured before and after illuminating the whole Hall cross with 
+                    <bold>σ</bold>
+                    <sup>−</sup>
+                     light at zero field, where the cross was uniformly magnetized by an external field of 
+                    <italic>H</italic>
+                     = + 20 kOe before the light illumination.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13799_Fig2_HTML.png"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Thermal imaging of AEE</title>
+            <p id="Par6">
+              The temperature change induced by the AEE in the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               films was visualized at room temperature by means of the lock-in thermography technique
+              <sup>
+                <xref ref-type="bibr" rid="CR5">5</xref>
+                , 
+                <xref ref-type="bibr" rid="CR6">6</xref>
+                , 
+                <xref ref-type="bibr" rid="CR7">7</xref>
+                , 
+                <xref ref-type="bibr" rid="CR8">8</xref>
+                –
+                <xref ref-type="bibr" rid="CR9">9</xref>
+                ,
+                <xref ref-type="bibr" rid="CR22">22</xref>
+              </sup>
+               (Fig. 
+              <xref rid="Fig3" ref-type="fig">3a</xref>
+              ). Here, we measured the spatial distribution of infrared radiation thermally emitted from the sample surface while applying a square-wave-modulated alternating charge current with the amplitude 7.0 mA, frequency 
+              <italic>f</italic>
+               = 25 Hz, and zero offset to the strip-shaped [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               sample. The AEE-induced temperature modulation due to such an alternating charge current oscillates with 
+              <italic>f</italic>
+               since the AEE responds linearly to the current, while the concomitant Joule-heating background is constant over time (Fig. 
+              <xref rid="Fig3" ref-type="fig">3b</xref>
+              )
+              <sup>
+                <xref ref-type="bibr" rid="CR6">6</xref>
+                , 
+                <xref ref-type="bibr" rid="CR7">7</xref>
+                , 
+                <xref ref-type="bibr" rid="CR8">8</xref>
+                –
+                <xref ref-type="bibr" rid="CR9">9</xref>
+              </sup>
+              . Therefore, by extracting the first harmonic response of the detected thermal images, the pure AEE contribution free from the background can be obtained. The first harmonic contribution is converted into the lock-in amplitude 
+              <italic>A</italic>
+               and phase 
+              <italic>ϕ</italic>
+               images through the procedure detailed in the Methods section. All the lock-in thermography measurements were performed in the absence of external magnetic fields. Owing to the strong perpendicular magnetic anisotropy of our [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               films, magnetic domain patterns pre-designed via the AO-HDS are preserved during the lock-in thermography measurements, where the magnetization of the films is in the upward or downward direction. It should be noted that, since the magnetic structure of the films reaches a steady state before the AEE measurements, light-induced ultrafast spin dynamics and resulting nonequilibrium thermo-spin effects
+              <sup>
+                <xref ref-type="bibr" rid="CR23">23</xref>
+              </sup>
+               do not affect the thermal images presented in this study. Under this condition, the AEE contribution can be distinguished from possible contributions coming from the spin Peltier effect and the anisotropic magneto-Peltier effect, which exhibit different symmetries in the heat-current generation. As the temperature modulation induced by the spin Peltier effect appears only in an in-plane magnetized configuration
+              <sup>
+                <xref ref-type="bibr" rid="CR6">6</xref>
+              </sup>
+              , its contribution is eliminated in our perpendicularly magnetized films. Then, the temperature modulation induced by the anisotropic magneto-Peltier effect in the strip-shaped sample can appear only when the charge current flows across magnetic domain boundaries with nonuniform 
+              <bold>M</bold>
+               distributions
+              <sup>
+                <xref ref-type="bibr" rid="CR7">7</xref>
+              </sup>
+              . This behavior is completely different from the AEE-induced temperature modulation, and the contribution of the anisotropic magneto-Peltier effect can be neglected in our experiments because the domain wall size (&lt;100 nm)
+              <sup>
+                <xref ref-type="bibr" rid="CR20">20</xref>
+              </sup>
+               is much smaller than the spatial resolution of our infrared camera (~10 μm).
+              <fig id="Fig3" position="float">
+                <label>Fig. 3</label>
+                <caption xml:lang="en">
+                  <title>Demonstration of magneto-optical painting of heat current.</title>
+                  <p>
+                    <bold>a</bold>
+                     Lock-in thermography method for the AEE measurements. The temperature modulation synchronized with the charge current is extracted by Fourier analysis. 
+                    <bold>b</bold>
+                     Time charts of the input charge current and output temperature changes induced by the AEE and Joule heating. In the AEE measurements, the square-wave-modulated alternating charge current with the amplitude 
+                    <italic>J</italic>
+                    <sub>c</sub>
+                     = 7.0 mA, frequency 
+                    <italic>f</italic>
+                     
+                    <italic>=</italic>
+                     25.0 Hz, and zero offset was applied to the samples. 
+                    <bold>c</bold>
+                     Magnetic domain patterns A–F designed via the AO-HDS on the [Co/Pt]
+                    <sub>4</sub>
+                     strips. 
+                    <bold>d</bold>
+                     Magneto-optical images corresponding to the patterns A–F. 
+                    <bold>e</bold>
+                    , 
+                    <bold>f</bold>
+                     Lock-in amplitude 
+                    <italic>A</italic>
+                     (
+                    <bold>e</bold>
+                    ) and phase 
+                    <italic>ϕ</italic>
+                     (
+                    <bold>f</bold>
+                    ) images for the [Co/Pt]
+                    <sub>4</sub>
+                     strips with the patterns A–F. 
+                    <bold>g</bold>
+                    <italic>∆T</italic>
+                     (= 
+                    <italic>A</italic>
+                    cos
+                    <italic>ϕ</italic>
+                    ) images for the [Co/Pt]
+                    <sub>4</sub>
+                     strips. Each image consists of 192 × 370 pixels. 
+                    <bold>h</bold>
+                     Surface 
+                    <italic>∆T</italic>
+                     profiles along the 
+                    <italic>x</italic>
+                     direction. The profiles were obtained by averaging 50 
+                    <italic>x</italic>
+                    -directional raw profiles along the 
+                    <italic>y</italic>
+                     direction; the center of the averaged area is marked with black dotted lines in 
+                    <bold>g</bold>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13799_Fig3_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par7">
+              The leftmost 
+              <italic>A</italic>
+               and 
+              <italic>ϕ</italic>
+               images in Fig. 
+              <xref rid="Fig3" ref-type="fig">3e, f</xref>
+               are the results of the lock-in thermography measurements for the [Co/Pt]
+              <sub>4</sub>
+               strip uniformly magnetized along the +
+              <italic>z</italic>
+               direction (Pattern A). The 
+              <italic>A</italic>
+               image shows that a clear temperature modulation appears around the edges of the [Co/Pt]
+              <sub>4</sub>
+               strip, and the 
+              <italic>ϕ</italic>
+               image shows that the sign of the temperature modulation at the right edge is opposite to that at the left edge because of the 
+              <italic>ϕ</italic>
+               difference of ~180°. These results indicate that the heat current is generated along the 
+              <italic>x</italic>
+               direction in the [Co/Pt]
+              <sub>4</sub>
+               strip by applying the charge current along the 
+              <italic>y</italic>
+               direction, consistent with the orthogonal relation between the heat and charge currents for the AEE in a perpendicularly magnetized ferromagnet (Eq. (
+              <xref rid="Equ1" ref-type="disp-formula">1</xref>
+              ))
+              <sup>
+                <xref ref-type="bibr" rid="CR6">6</xref>
+                ,
+                <xref ref-type="bibr" rid="CR8">8</xref>
+              </sup>
+              ; this result confirms that magneto-optical materials exhibit the AEE. Hereafter, to provide an intuitive understanding of the experimental results, we discuss the behaviors of the AEE in terms of 
+              <italic>∆T</italic>
+               (= 
+              <italic>A</italic>
+              cos
+              <italic>ϕ</italic>
+              ), where 
+              <italic>∆T</italic>
+               is the current-induced temperature modulation, including sign information. The leftmost 
+              <italic>∆T</italic>
+               image and profile in Fig. 
+              <xref rid="Fig3" ref-type="fig">3g, h</xref>
+               show that the temperature near the right (left) edge of the [Co/Pt]
+              <sub>4</sub>
+               strip decreases (increases) due to the AEE.
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Magneto-optical control of AEE-induced heat current</title>
+            <p id="Par8">
+              To demonstrate the magneto-optical painting of the AEE-induced heat current, magnetic domain patterns with various configurations were designed via the AO-HDS using the [Co/Pt]
+              <sub>4</sub>
+               strips (see the patterns B-F in Fig. 
+              <xref rid="Fig3" ref-type="fig">3c</xref>
+              ). Figure 
+              <xref rid="Fig3" ref-type="fig">3d</xref>
+               shows the magneto-optical images for each domain pattern, where the dark- and bright-contrast areas represent the magnetic domains with 
+              <bold>M</bold>
+               ||+
+              <italic>z</italic>
+               and 
+              <bold>M</bold>
+               || −
+              <italic>z</italic>
+              , respectively, and the strips were initially magnetized along the + 
+              <italic>z</italic>
+               direction before the pattering. The pattern B consists of a single magnetic domain in which the magnetization of the [Co/Pt]
+              <sub>4</sub>
+               strip is uniformly reversed by the AO-HDS, while the patterns C–F consist of optically painted multiple domains with a striped shape. By comparing the 
+              <italic>∆T</italic>
+               images between the patterns A and B, we found that the sign of 
+              <italic>∆T</italic>
+               around the edges of the [Co/Pt]
+              <sub>4</sub>
+               strip is reversed as a consequence of the uniform 
+              <bold>M</bold>
+               reversal due to the AO-HDS, indicating the clear directional control of the AEE-induced heat current by circularly polarized light (Fig. 
+              <xref rid="Fig3" ref-type="fig">3g, h</xref>
+              ). In addition to the uniform heat-current reversal, we also demonstrated the local manipulation of the heat-current direction by using the other pre-designed domain patterns. The 
+              <italic>∆T</italic>
+               images for the patterns C–F show that multiple cooling and heating signals appear alternately along the 
+              <italic>x</italic>
+               direction, where the temperature profile along the 
+              <italic>y</italic>
+               direction remains unchanged (Fig. 
+              <xref rid="Fig3" ref-type="fig">3g</xref>
+              ). These 
+              <italic>∆T</italic>
+               distributions can be explained by the fact that the AEE generates a heat current in each magnetic domain following Eq. (
+              <xref rid="Equ1" ref-type="disp-formula">1</xref>
+              ), and the temperature modulation appears as a result of the superposition of the contributions stemming from the optically painted domain patterns. Importantly, although the AEE in a uniformly magnetized ferromagnet can modulate the temperature only around the edges of the strip, the combination of the AEE and AO-HDS allows one to modulate the temperature at arbitrary positions in the sample simply by designing magnetic domain patterns, which can act as a principle for local cooling and heating. The magnitude of the temperature modulation at the domain boundaries shows a twofold increase owing to the concentration of the heat currents from the adjacent domains (Fig. 
+              <xref rid="Fig3" ref-type="fig">3g, h</xref>
+              ), providing a valid approach to enhance the AEE-induced temperature modulation. These behaviors were observed also for the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               multilayer films with different 
+              <italic>n</italic>
+               values (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              ) as well as ferrimagnetic Fe
+              <sub>72</sub>
+              Tb
+              <sub>28</sub>
+               films exhibiting the AO-HDS
+              <sup>
+                <xref ref-type="bibr" rid="CR14">14</xref>
+              </sup>
+               (Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+              ), confirming the generality of this method. Furthermore, the versatility of the optical control method for the AEE-induced heat current is demonstrated with more complicated magnetic domain patterns; as shown in Fig. 
+              <xref rid="Fig4" ref-type="fig">4a–d</xref>
+              , the distribution of the AEE-induced temperature modulation can be freely programed following the pre-designed magnetic domain patterns. With the simple setup used in this study, the spatial resolution limit of this magneto-optical heat-current control is determined by the wavelength of the applied laser light. By combining this approach with plasmonics, near-field optics
+              <sup>
+                <xref ref-type="bibr" rid="CR24">24</xref>
+              </sup>
+              , and/or structural geometry design
+              <sup>
+                <xref ref-type="bibr" rid="CR17">17</xref>
+              </sup>
+              , the spatial resolution can further be improved, enabling precise and local thermoelectric cooling and heating of nanoscale devices.
+              <fig id="Fig4" position="float">
+                <label>Fig. 4</label>
+                <caption xml:lang="en">
+                  <title>Flexible design and on/off control of temperature modulation.</title>
+                  <p>
+                    <bold>a</bold>
+                    , 
+                    <bold>b</bold>
+                     Magneto-optical images for the [Co/Pt]
+                    <sub>3</sub>
+                     (
+                    <bold>a</bold>
+                    ) and [Co/Pt]
+                    <sub>5</sub>
+                     (
+                    <bold>b</bold>
+                    ) strips with pre-designed magnetic domain patterns. The left image in 
+                    <bold>a</bold>
+                     shows the magnetic domains with periodical rounded rectangles that start from the edges and terminate at the middle of the strip, while the right image shows diamond-shaped patterns. The left image in 
+                    <bold>b</bold>
+                     shows line patterns with different widths, while the right image shows the alphabet patterns AOS, where only the character A is presented in the viewing area of the microscope. All the domain patterns were prepared by means of the AO-HDS. 
+                    <bold>c</bold>
+                    , 
+                    <bold>d</bold>
+                     Corresponding 
+                    <italic>∆T</italic>
+                     images for the [Co/Pt]
+                    <sub>3</sub>
+                     (
+                    <bold>c</bold>
+                    ) and [Co/Pt]
+                    <sub>5</sub>
+                     (
+                    <bold>d</bold>
+                    ) strips. The difference in the magnitude of the 
+                    <italic>∆T</italic>
+                     signals between the [Co/Pt]
+                    <sub>3</sub>
+                     and [Co/Pt]
+                    <sub>5</sub>
+                     samples can be explained by the thickness dependence of the AEE-induced temperature modulation
+                    <sup>
+                      <xref ref-type="bibr" rid="CR9">9</xref>
+                    </sup>
+                    . 
+                    <bold>e</bold>
+                    , 
+                    <bold>f</bold>
+                     Magneto-optical images for the [Co/Pt]
+                    <sub>3</sub>
+                     (
+                    <bold>e</bold>
+                    ) and [Co/Pt]
+                    <sub>5</sub>
+                     (
+                    <bold>f</bold>
+                    ) strips before and after linearly polarized light (
+                    <bold>L</bold>
+                    ) illumination. 
+                    <bold>g</bold>
+                    , 
+                    <bold>h</bold>
+                     Corresponding 
+                    <italic>∆T</italic>
+                     images for the [Co/Pt]
+                    <sub>3</sub>
+                     (
+                    <bold>g</bold>
+                    ) and [Co/Pt]
+                    <sub>5</sub>
+                     (
+                    <bold>h</bold>
+                    ) strips. The AEE-induced temperature modulation is macroscopically canceled out after 
+                    <bold>L</bold>
+                     illumination due to the creation of random multiple domains.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13799_Fig4_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par9">
+              The AO-HDS enables not only the directional manipulation of the AEE-induced heat current but also on/off control of the resulting temperature change. We found that the AEE-induced temperature modulation can be switched off by illuminating magnetic materials with linearly polarized light (
+              <bold>L</bold>
+              ), instead of circularly polarized light. Since the 
+              <bold>L</bold>
+               illumination creates multiple domains with random patterns and equal populations of the upward and downward magnetic moments (Fig. 
+              <xref rid="Fig4" ref-type="fig">4e, f</xref>
+              ), the AEE-induced heat currents are macroscopically canceled out. We demonstrated this feature by using the same [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               strips. In Fig. 
+              <xref rid="Fig4" ref-type="fig">4g, h</xref>
+              , we compare the 
+              <italic>∆T</italic>
+               images for the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               samples before and after the 
+              <bold>L</bold>
+               illumination, where the samples were uniformly magnetized along the +
+              <italic>z</italic>
+               direction before the illumination. The comparison shows that, while the clear AEE-induced temperature modulation appears in the uniformly magnetized [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               strips, it disappears after the 
+              <bold>L</bold>
+               illumination (note that the size of each domain after the illumination is much smaller than the spatial resolution of the infrared camera). The AEE-induced temperature modulation can be switched on again by illuminating the samples with circularly polarized light, since the AO-HDS of magnetization is a reversible process among right circularly, left circularly, and linearly polarized light.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec6" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par10">
+            The magneto-optical control of heat currents demonstrated here can be applied directly to versatile nano-thermal controllers that enable pinpoint temperature modulation in electronic and spintronic devices. One of the remarkable features of this technique is that the cooling and heating properties can be designed flexibly in a reconfigurable and programmable manner, since the heat current can be manipulated via the light helicity and illumination patterns. Significantly, the spatial resolution of the heat-current control can reach the diffraction limit of the laser light used for the AO-HDS, which can further be improved by confining light energy in nanoscale through the smart engineering techniques
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . Although this work focuses on the steady-state properties, the investigation of nonequilibrium heat-current-generation properties due to light-induced ultrafast spin dynamics can be one of the future works. It is also worth to notice that the magnitude and temporal response of the AEE-induced temperature modulation observed here are affected by the heat transfer from the film sample to the substrate
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              ,
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            ; if the heat loss to the substrate is suppressed, the AEE should exhibit much larger temperature modulation with much faster response. Therefore, the optimization of the thermal design of AEE-based devices is necessary toward their practical use, although the signal-to-noise ratio and temporal response obtained in our experiments are good enough for the proof-of-concept.
+          </p>
+          <p id="Par11">
+            Finally, we would like to emphasize the versatility of the magneto-optical heat control technique. The proposed method should be valid for various magneto-optical materials exhibiting the AO-HDS
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              , 
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              , 
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              , 
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              , 
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              , 
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              , 
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              , 
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              –
+              <xref ref-type="bibr" rid="CR21">21</xref>
+              ,
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            , including not only ferromagnets and ferrimagnets but also antiferromagnets and synthetic ferrimagnets which cover metals, oxides, alloys, multilayers, and heterostructures. Potentially, the effect is generalizable to all magnetic materials through exchange coupling with magneto-optical materials
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              ,
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            , holding the promise of highly efficient optical heat-current control with the use of materials showing large AEE. Here, the improvement of the thermoelectric conversion efficiency based on the AEE can be realized, for example, by utilizing topological materials
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+             and interface effects
+            <sup>
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              ,
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+             and by optimizing multilayer structures
+            <sup>
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              ,
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            . In addition to the AEE in perpendicularly magnetized materials, the magneto-optical painting of heat currents can be realized by various spin-caloritronic phenomena, including the spin Peltier effect and the anisotropic magneto-Peltier effect, if in-plane magnetized materials exhibiting the AO-HDS
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+             are used. Thus, we anticipate that this thermal management concept based on spin caloritronics will pave the way for energy-efficient electronic and spintronic devices and active thermal devices.
+          </p>
+        </sec>
+        <sec id="Sec7" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec8">
+            <title>Sample preparation</title>
+            <p id="Par12">
+              The [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               samples were grown on polished glass substrates by the direct-current magnetron sputtering method from Co and Pt elemental sources at room temperature with a base pressure of &lt;5.0 × 10
+              <sup>−6</sup>
+               Pa and a working pressure of 0.2 Pa. To obtain a high AO-HDS efficiency, the thicknesses of the Co and Pt layers in the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               multilayer films were optimized to be 0.3 nm and 0.7 nm, respectively (see Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1</xref>
+               for details). The [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               multilayers are sandwiched between a 3.0-nm-thick Pt capping layer and a 4.3-nm-thick Pt/5.0-nm-thick Ta buffer layer (Fig. 
+              <xref rid="Fig2" ref-type="fig">2a</xref>
+              ). The Pt capping layer is necessary to avoid oxidation, while the bottom Pt/Ta layer improves the adhesion to the substrate and promotes the (111) texture of the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               multilayers for the strong perpendicular magnetic anisotropy
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+                ,
+                <xref ref-type="bibr" rid="CR20">20</xref>
+              </sup>
+              . For the experiments shown in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              , the six [Co/Pt]
+              <sub>4</sub>
+               strips with a width of 0.3 mm were microfabricated from the identical film grown on the same substrate and used for the magnetic domain patterns A–F.
+            </p>
+          </sec>
+          <sec id="Sec9">
+            <title>AO-HDS of magnetization</title>
+            <p id="Par13">
+              Before the lock-in thermography measurements, the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               samples were uniformly magnetized by applying an external magnetic field of 20 kOe along the +
+              <italic>z</italic>
+               direction. Then, to form the domain patterns B-F via the AO-HDS, the samples were illuminated with laser pulses with a center wavelength of 514 nm, pulse duration of ~200 fs, and repetition rate of 30 kHz at room temperature. Excitation pulses with a fixed laser power ~2.5 mW were focused on the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               sample surface in a diameter of 12–30 μm, where a corresponding laser fluence range is 0.3–0.7 mJ cm
+              <sup>−2</sup>
+              . Here, the threshold laser fluence to achieve the high AO-HDS efficiency was estimated to be around 0.3 mJ cm
+              <sup>−2</sup>
+              , while too high laser fluence leads to only thermal demagnetization. To ensure the deterministic AO-HDS, we typically applied more than 60,000 laser pulses to the [Co/Pt]
+              <sub>
+                <italic>n</italic>
+              </sub>
+               samples and swept the laser beam position at a slow velocity of ~3 µm s
+              <sup>−1</sup>
+              . The magnetic domain patterns were subsequently imaged with a magneto-optical Kerr effect microscope.
+            </p>
+          </sec>
+          <sec id="Sec10">
+            <title>Hall measurements</title>
+            <p id="Par14">
+              To quantify the magnetization switching ratio triggered by the AO-HDS, we measured the out-of-plane magnetic field 
+              <italic>H</italic>
+               dependence of the Hall resistance 
+              <italic>R</italic>
+              <sub>H</sub>
+               in the [Co/Pt]
+              <sub>4</sub>
+               sample with a Hall cross shape at room temperature. The Hall cross structure with a cross area of 40 × 20 µm
+              <sup>2</sup>
+               was fabricated by photolithography using a lift-off process and subsequent Ar ion milling. As shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2d</xref>
+              , the 
+              <italic>H</italic>
+              -
+              <italic>R</italic>
+              <sub>H</sub>
+               curve shows a rectangular hysteresis loop and the 
+              <italic>R</italic>
+              <sub>H</sub>
+               values remain constant when 
+              <italic>H</italic>
+               is greater than the coercive force, indicating that 
+              <italic>R</italic>
+              <sub>H</sub>
+               is dominated by the anomalous Hall effect reflecting the 
+              <bold>M</bold>
+               direction. The AO-HDS efficiency was obtained by comparing the 
+              <italic>R</italic>
+              <sub>H</sub>
+               values before and after illuminating the whole Hall cross with 
+              <bold>σ</bold>
+              <sup>−</sup>
+               light at zero field, where the cross was uniformly magnetized by an external field of 
+              <italic>H</italic>
+               = +20 kOe before the light illumination. The magnitude of the light-induced 
+              <italic>R</italic>
+              <sub>H</sub>
+               change for the [Co/Pt]
+              <sub>4</sub>
+               sample was estimated to be ~91% of the 
+              <italic>H</italic>
+              -induced 
+              <italic>R</italic>
+              <sub>H</sub>
+               change due to the anomalous Hall effect (Fig. 
+              <xref rid="Fig2" ref-type="fig">2d</xref>
+              ).
+            </p>
+          </sec>
+          <sec id="Sec11">
+            <title>Lock-in thermography</title>
+            <p id="Par15">
+              In the lock-in thermography measurements, one inputs a periodic external perturbation, that is, a charge current in our experiments, to a sample and extracts thermal images oscillating with the same frequency as the perturbation
+              <sup>
+                <xref ref-type="bibr" rid="CR5">5</xref>
+                , 
+                <xref ref-type="bibr" rid="CR6">6</xref>
+                , 
+                <xref ref-type="bibr" rid="CR7">7</xref>
+                , 
+                <xref ref-type="bibr" rid="CR8">8</xref>
+                –
+                <xref ref-type="bibr" rid="CR9">9</xref>
+                ,
+                <xref ref-type="bibr" rid="CR22">22</xref>
+              </sup>
+              . The first harmonic contribution of the obtained thermal images is transformed into the 
+              <italic>A</italic>
+               and 
+              <italic>ϕ</italic>
+               images through Fourier analysis. Here, the 
+              <italic>A</italic>
+               image shows the distribution of the magnitude of the temperature modulation generated in linear response to the perturbation, while the 
+              <italic>ϕ</italic>
+               image gives information about the sign of the temperature modulation as well as the time delay due to thermal diffusion. In general, lock-in thermal images measured at low 
+              <italic>f</italic>
+               show temperature distribution in nearly steady states, while those at high 
+              <italic>f</italic>
+               show temperature distribution in transient states, where temperature broadening due to thermal diffusion is suppressed (see Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3</xref>
+              , where the 
+              <italic>f</italic>
+               dependence of the lock-in thermal images for our [Co/Pt]
+              <sub>4</sub>
+               samples is shown). To enhance infrared emissivity and ensure uniform emission properties, the surface of the samples was coated with insulating black ink with the high emissivity (&gt;0.95), commercially available from Japan Sensor Corporation. The infrared radiation intensity 
+              <italic>I</italic>
+               detected by an infrared camera is converted into temperature 
+              <italic>T</italic>
+               information by measuring the 
+              <italic>T</italic>
+               dependence of 
+              <italic>I</italic>
+               for the black-ink-coated samples at thermal equilibrium. Here, the 
+              <italic>I</italic>
+              -to-
+              <italic>T</italic>
+               conversion for the lock-in thermal images is determined by the differential relation as Δ
+              <italic>T</italic>
+              <sub>1f</sub>
+               = 
+              <italic>dT</italic>
+              /
+              <italic>dI</italic>
+              |
+              <sub>
+                <italic>T</italic>
+              </sub>
+               Δ
+              <italic>I</italic>
+              <sub>1f</sub>
+              , where Δ
+              <italic>T</italic>
+              <sub>1f</sub>
+               and Δ
+              <italic>I</italic>
+              <sub>1f</sub>
+               denote the first harmonic responses of the temperature and infrared radiation intensity, respectively. The lock-in thermography measurements were carried out at room temperature and atmospheric pressure.
+            </p>
+          </sec>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>The authors thank R. Iguchi, S. Kasai, and K. Hono for valuable discussions and Y. Sakuraba and N. Kojima for technical supports. This work was supported by CREST “Creation of Innovative Core Technologies for Nano-enabled Thermal Management” (JPMJCR17I1) from JST, Japan, Grant-in-Aid for Scientific Research (S) (JP18H05246) and Grant-in-Aid for Scientific Research (A) (JP18H03787) from JSPS KAKENHI, Japan, and the NEC Corporation. J.W. would like to acknowledge the ICYS Research Fellowship, NIMS, Japan.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>K.U. planned and supervised the study, performed the lock-in thermography measurements, analyzed the thermal image data, and developed the explanation of the experimental results. J.W. prepared and characterized the samples and performed the AO-HDS experiments. J.W. and K.U. prepared the paper. Y.K.T. supported the AO-HDS experiments and commented on the paper.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>The data that support the findings of this study are available from the corresponding author on reasonable request.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par16">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bauer</surname>
+                    <given-names>GEW</given-names>
+                  </name>
+                  <name>
+                    <surname>Saitoh</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>van Wees</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Spin caloritronics</article-title>
+                <source>Nat. Mater.</source>
+                <year>2012</year>
+                <volume>11</volume>
+                <fpage>391</fpage>
+                <lpage>399</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012NatMa..11..391B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XlvVKgtLo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nmat3301</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Boona</surname>
+                    <given-names>SR</given-names>
+                  </name>
+                  <name>
+                    <surname>Myers</surname>
+                    <given-names>RC</given-names>
+                  </name>
+                  <name>
+                    <surname>Heremans</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Spin caloritronics</article-title>
+                <source>Energy Environ. Sci.</source>
+                <year>2014</year>
+                <volume>7</volume>
+                <fpage>885</fpage>
+                <lpage>910</lpage>
+                <pub-id pub-id-type="doi">10.1039/c3ee43299h</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Flipse</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Observation of the spin Peltier effect for magnetic insulators</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2014</year>
+                <volume>113</volume>
+                <fpage>027601</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014PhRvL.113b7601F</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhs1GgtLrO</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevLett.113.027601</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Das</surname>
+                    <given-names>KS</given-names>
+                  </name>
+                  <name>
+                    <surname>Dejene</surname>
+                    <given-names>FK</given-names>
+                  </name>
+                  <name>
+                    <surname>van Wees</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Vera-Marun</surname>
+                    <given-names>IJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Anisotropic Hanle line shape via magnetothermoelectric phenomena</article-title>
+                <source>Phys. Rev. B</source>
+                <year>2016</year>
+                <volume>94</volume>
+                <fpage>180403(R)</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016PhRvB..94r0403D</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.94.180403</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Daimon</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Iguchi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Hioki</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Saitoh</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Uchida</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Thermal imaging of spin Peltier effect</article-title>
+                <source>Nat. Commun.</source>
+                <year>2016</year>
+                <volume>7</volume>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016NatCo...713754D</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XitFamsbrN</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ncomms13754</pub-id>
+                <elocation-id>13754</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Seki</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Iguchi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Takanashi</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Uchida</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Visualization of anomalous Ettingshausen effect in a ferromagnetic film: direct evidence of different symmetry from spin Peltier effect</article-title>
+                <source>Appl. Phys. Lett.</source>
+                <year>2018</year>
+                <volume>122</volume>
+                <fpage>152403</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018ApPhL.112o2403S</pub-id>
+                <pub-id pub-id-type="doi">10.1063/1.5022759</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Uchida</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Daimon</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Iguchi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Saitoh</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Observation of anisotropic magneto-Peltier effect in nickel</article-title>
+                <source>Nature</source>
+                <year>2018</year>
+                <volume>558</volume>
+                <fpage>95</fpage>
+                <lpage>99</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018Natur.558...95U</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXpvFGrsLs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41586-018-0143-x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Seki</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Iguchi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Takanashi</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Uchida</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Relationship between anomalous Ettingshausen effect and anomalous Nernst effect in an FePt thin film</article-title>
+                <source>J. Phys. D.</source>
+                <year>2018</year>
+                <volume>51</volume>
+                <fpage>254001</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018JPhD...51y4001S</pub-id>
+                <pub-id pub-id-type="doi">10.1088/1361-6463/aac481</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Das</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Iguchi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Uchida</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Systematic investigation of anisotropic magneto-Peltier effect and anomalous Ettingshausen effect in Ni thin films</article-title>
+                <source>Phys. Rev. Appl.</source>
+                <year>2019</year>
+                <volume>11</volume>
+                <fpage>034022</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019PhRvP..11c4022D</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhtFGrtrbM</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevApplied.11.034022</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bridgman</surname>
+                    <given-names>PW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The connections between the four transverse galvanomagnetic and thermomagnetic phenomena</article-title>
+                <source>Phys. Rev.</source>
+                <year>1924</year>
+                <volume>24</volume>
+                <fpage>644</fpage>
+                <lpage>651</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1924PhRv...24..644B</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRev.24.644</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hall</surname>
+                    <given-names>EH</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Measurement of the four magnetic transverse effects</article-title>
+                <source>Phys. Rev.</source>
+                <year>1925</year>
+                <volume>26</volume>
+                <fpage>820</fpage>
+                <lpage>840</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1925PhRv...26..820H</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaB28XitFCquw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRev.26.820</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Butler</surname>
+                    <given-names>EH</given-names>
+                  </name>
+                  <name>
+                    <surname>Pugh</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Galvano- and thermomagnetic phenomena in iron and nickel</article-title>
+                <source>Phys. Rev.</source>
+                <year>1940</year>
+                <volume>57</volume>
+                <fpage>916</fpage>
+                <lpage>921</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1940PhRv...57..916B</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRev.57.916</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stanciu</surname>
+                    <given-names>CD</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">All-optical magnetic recording with circularly polarized light</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2007</year>
+                <volume>99</volume>
+                <fpage>047601</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2007PhRvL..99d7601S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD2svmtFGjsA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevLett.99.047601</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hassdenteufel</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Thermally assisted all-optical helicity dependent magnetic switching in amorphous Fe
+                  <sub>
+                    100−
+                    <italic>x</italic>
+                  </sub>
+                  Tb
+                  <sub>
+                    <italic>x</italic>
+                  </sub>
+                   alloy films
+                </article-title>
+                <source>Adv. Mater.</source>
+                <year>2013</year>
+                <volume>25</volume>
+                <fpage>3122</fpage>
+                <lpage>3128</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXms1Ohtro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/adma.201300176</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mangin</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Engineered materials for all-optical helicity-dependent magnetic switching</article-title>
+                <source>Nat. Mater.</source>
+                <year>2014</year>
+                <volume>13</volume>
+                <fpage>286</fpage>
+                <lpage>292</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014NatMa..13..286M</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXisFOkurs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nmat3864</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lambert</surname>
+                    <given-names>C-H</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">All-optical control of ferromagnetic thin films and nanostructures</article-title>
+                <source>Science</source>
+                <year>2014</year>
+                <volume>345</volume>
+                <fpage>1337</fpage>
+                <lpage>1340</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014Sci...345.1337L</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhsV2qtL%2FK</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.1253493</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Le Guyader</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Nanoscale sub-100 picosecond all-optical magnetization switching in GdFeCo microstructures</article-title>
+                <source>Nat. Commun.</source>
+                <year>2015</year>
+                <volume>6</volume>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015NatCo...6.5839L</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ncomms6839</pub-id>
+                <elocation-id>5839</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Takahashi</surname>
+                    <given-names>YK</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Accumulative magnetic switching of ultra-high-density recording media by circularly polarized light</article-title>
+                <source>Phys. Rev. Appl.</source>
+                <year>2016</year>
+                <volume>6</volume>
+                <fpage>054004</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016PhRvP...6e4004T</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevApplied.6.054004</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Vallobra</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Manipulating exchange bias using all-optical helicity-dependent switching</article-title>
+                <source>Phys. Rev. B</source>
+                <year>2017</year>
+                <volume>96</volume>
+                <fpage>144403</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017PhRvB..96n4403V</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.96.144403</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Quessab</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Helicity-dependent all-optical domain wall motion in ferromagnetic thin films</article-title>
+                <source>Phys. Rev. B</source>
+                <year>2018</year>
+                <volume>97</volume>
+                <fpage>054419</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018PhRvB..97e4419Q</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXltVGjtr0%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.97.054419</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>GP</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Understanding all-optical spin switching: comparison between experiment and theory</article-title>
+                <source>Mod. Phys. Lett. B</source>
+                <year>2018</year>
+                <volume>32</volume>
+                <fpage>1830003</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018MPLB...3230003Z</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhvVKgurrK</pub-id>
+                <pub-id pub-id-type="doi">10.1142/S021798491830003X</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="other">
+                Breitenstein, O., Warta, W. &amp; Langenkamp, M. 
+                <italic>Lock-in thermography: Basics and Use for Evaluating Electronic Devices and Materials</italic>
+                 2nd edn (Springer, Berlin/Heidelberg, 2010).
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alekhin</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Femtosecond spin current pulses generated by the nonthermal spin-dependent Seebeck effect and interacting with ferromagnets in spin valves</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2017</year>
+                <volume>119</volume>
+                <fpage>017202</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017PhRvL.119a7202A</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevLett.119.017202</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stipe</surname>
+                    <given-names>BC</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Magnetic recording at 1.5 Pb m
+                  <sup>−2</sup>
+                   using an integrated plasmonic antenna
+                </article-title>
+                <source>Nat. Photon.</source>
+                <year>2010</year>
+                <volume>4</volume>
+                <fpage>484</fpage>
+                <lpage>488</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2010NaPho...4..484S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXotl2lsL4%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nphoton.2010.90</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kimel</surname>
+                    <given-names>AV</given-names>
+                  </name>
+                  <name>
+                    <surname>Kirilyuk</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Tsvetkov</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Pisarev</surname>
+                    <given-names>RV</given-names>
+                  </name>
+                  <name>
+                    <surname>Rasing</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Laser-induced ultrafast spin reorientation in the antiferromagnet TmFeO
+                  <sub>3</sub>
+                </article-title>
+                <source>Nature</source>
+                <year>2004</year>
+                <volume>429</volume>
+                <fpage>850</fpage>
+                <lpage>853</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2004Natur.429..850K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXltVKltLk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature02659</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sakai</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Giant anomalous Nernst effect and quantum-critical scaling in a ferromagnetic semimetal</article-title>
+                <source>Nat. Phys.</source>
+                <year>2018</year>
+                <volume>14</volume>
+                <fpage>1119</fpage>
+                <lpage>1124</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhsVWhur7K</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41567-018-0225-6</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Uchida</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Enhancement of anomalous Nernst effects in metallic multilayers free from proximity-induced magnetism</article-title>
+                <source>Phys. Rev. B</source>
+                <year>2015</year>
+                <volume>92</volume>
+                <fpage>094414</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015PhRvB..92i4414U</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.92.094414</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ramos</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Interface-induced anomalous Nernst effect in Fe
+                  <sub>3</sub>
+                  O
+                  <sub>4</sub>
+                  /Pt-based heterostructures
+                </article-title>
+                <source>Appl. Phys. Lett.</source>
+                <year>2019</year>
+                <volume>114</volume>
+                <fpage>113902</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019ApPhL.114k3902R</pub-id>
+                <pub-id pub-id-type="doi">10.1063/1.5063553</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ostler</surname>
+                    <given-names>TA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Ultrafast heating as a sufficient stimulus for magnetization reversal in a ferrimagnet</article-title>
+                <source>Nat. Commun.</source>
+                <year>2012</year>
+                <volume>3</volume>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012NatCo...3..666O</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC383htlaquw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ncomms1666</pub-id>
+                <elocation-id>666</elocation-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec12">
+              <title>Supplementary information</title>
+              <p id="Par17">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41467_2019_13799_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary information</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary information</title>
+          <p>
+            <bold>Supplementary information</bold>
+             is available for this paper at 
+            <ext-link ns0:href="10.1038/s41467-019-13799-7" ext-link-type="doi">https://doi.org/10.1038/s41467-019-13799-7</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <p>
+            <bold>Publisher’s note</bold>
+             Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+          </p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

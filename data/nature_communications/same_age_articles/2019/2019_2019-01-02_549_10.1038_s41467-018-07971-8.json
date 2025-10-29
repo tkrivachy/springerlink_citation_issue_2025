@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.736807",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07971-8",
+    "title": "CRISPR/Cas9 editing of APP C-terminus attenuates β-cleavage and promotes α-cleavage",
+    "article_number": "53",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jichao Sun",
+      "Jared Carlson-Stevermer",
+      "Utpal Das",
+      "Minjie Shen",
+      "Marion Delenclos",
+      "Amanda M. Snead",
+      "So Yeon Koo",
+      "Lina Wang",
+      "Dianhua Qiao",
+      "Jonathan Loi",
+      "Andrew J. Petersen",
+      "Michael Stockton",
+      "Anita Bhattacharyya",
+      "Mathew V. Jones",
+      "Xinyu Zhao",
+      "Pamela J. McLean",
+      "Andrew A. Sproul",
+      "Krishanu Saha",
+      "Subhojit Roy"
+    ]
+  },
+  "article_index": 549,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:09:48.164077"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T17:09:49.715949"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T17:09:50.909092"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T22:36:35.050850"
+    },
+    "last_updated": "2025-10-03T22:36:35.051043"
+  }
+}

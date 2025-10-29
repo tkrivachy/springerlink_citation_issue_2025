@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535567",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55619-7",
+    "title": "Towards non-blinking and photostable perovskite quantum dots",
+    "article_number": "204",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chenjia Mi",
+      "Gavin C. Gee",
+      "Chance W. Lander",
+      "Donghoon Shin",
+      "Matthew L. Atteberry",
+      "Novruz G. Akhmedov",
+      "Lamia Hidayatova",
+      "Jesse D. DiCenso",
+      "Wai Tak Yip",
+      "Bin Chen",
+      "Yihan Shao",
+      "Yitong Dong"
+    ]
+  },
+  "article_index": 164,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:35:35.043275"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:35:36.610928"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:35:37.783677"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:25:53.901276"
+    },
+    "last_updated": "2025-10-03T23:25:53.901518"
+  }
+}

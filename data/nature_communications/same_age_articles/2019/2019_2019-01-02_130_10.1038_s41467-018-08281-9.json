@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.691268",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08281-9",
+    "title": "Experimental demonstration of angular momentum-dependent topological transport using a transmission line network",
+    "article_number": "434",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tianshu Jiang",
+      "Meng Xiao",
+      "Wen-Jie Chen",
+      "Lechen Yang",
+      "Yawen Fang",
+      "Wing Yim Tam",
+      "C. T. Chan"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T17:32:22.761872"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T17:32:24.295837"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T17:32:25.580811"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T22:44:23.495226"
+    },
+    "last_updated": "2025-10-03T22:44:23.495274"
+  }
+}

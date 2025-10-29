@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.205804",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20310-0",
+    "title": "The role of water in host-guest interaction",
+    "article_number": "93",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Valerio Rizzi",
+      "Luigi Bonati",
+      "Narjes Ansari",
+      "Michele Parrinello"
+    ]
+  },
+  "article_index": 207,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T18:29:07.942631"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:29:09.535937"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:29:10.697033"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T23:03:45.201723"
+    },
+    "last_updated": "2025-10-03T23:03:45.201914"
+  }
+}

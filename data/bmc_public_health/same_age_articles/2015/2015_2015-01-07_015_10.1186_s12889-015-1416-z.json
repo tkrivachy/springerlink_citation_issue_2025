@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.239593",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1416-z",
+    "title": "Forecasting Tunisian type 2 diabetes prevalence to 2027: validation of a simple model",
+    "article_number": "104",
+    "publication_date": "2015-02-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Olfa Saidi",
+      "Martin O’Flaherty",
+      "Nadia Ben Mansour",
+      "Wafa Aissi",
+      "Olfa Lassoued",
+      "Simon Capewell",
+      "Julia A Critchley",
+      "Dhafer Malouche",
+      "Habiba Ben Romdhane"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T13:12:39.425797"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T13:12:40.992218"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T13:12:42.304578"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T21:07:26.683934"
+    },
+    "last_updated": "2025-10-03T21:07:26.684034"
+  }
+}

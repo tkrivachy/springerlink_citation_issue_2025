@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.699224",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08112-x",
+    "title": "Coherent population trapping by dark state formation in a carbon nanotube quantum dot",
+    "article_number": "381",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andrea Donarini",
+      "Michael Niklas",
+      "Michael Schafberger",
+      "Nicola Paradiso",
+      "Christoph Strunk",
+      "Milena Grifoni"
+    ]
+  },
+  "article_index": 204,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:43:58.495015"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:44:00.002293"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:44:01.154387"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T22:48:14.675862"
+    },
+    "last_updated": "2025-10-03T22:48:14.675963"
+  }
+}

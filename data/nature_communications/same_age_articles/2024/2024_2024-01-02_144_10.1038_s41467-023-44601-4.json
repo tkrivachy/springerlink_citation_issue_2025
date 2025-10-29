@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.683768",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44601-4",
+    "title": "Molecular basis of human trace amine-associated receptor 1 activation",
+    "article_number": "108",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gregory Zilberg",
+      "Alexandra K. Parpounas",
+      "Audrey L. Warren",
+      "Shifan Yang",
+      "Daniel Wacker"
+    ]
+  },
+  "article_index": 144,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:09:44.674775"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:09:46.222233"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:09:47.369542"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T23:17:20.967467"
+    },
+    "last_updated": "2025-10-03T23:17:20.967658"
+  }
+}

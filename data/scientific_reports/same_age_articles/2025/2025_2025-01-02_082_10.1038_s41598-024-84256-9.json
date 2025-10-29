@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.350081",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84256-9",
+    "title": "Development and characterization of a surfactant responsive to redox conditions for gas recovery in foam drainage",
+    "article_number": "511",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jia Li",
+      "Ming Wen",
+      "Zeyin Jiang",
+      "Long Xian",
+      "Jiawen Liu",
+      "Juan Chen"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T16:12:54.435464"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T16:12:56.020599"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:21.852309"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T22:16:22.893261"
+    },
+    "last_updated": "2025-10-07T09:48:21.852559"
+  }
+}

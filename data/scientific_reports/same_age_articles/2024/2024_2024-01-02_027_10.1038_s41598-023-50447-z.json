@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.829404",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50447-z",
+    "title": "Spatio-temporal interactions between the red fox and the wolf in two contrasting European landscapes",
+    "article_number": "221",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lorenzo Lazzeri",
+      "F. Ferretti",
+      "M. Churski",
+      "T. A. Diserens",
+      "R. Oliveira",
+      "K. Schmidt",
+      "D. P. J. Kuijper"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:00:17.639263"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:00:19.187125"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:00:20.411757"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T22:11:41.634175"
+    },
+    "last_updated": "2025-10-03T22:11:41.634399"
+  }
+}

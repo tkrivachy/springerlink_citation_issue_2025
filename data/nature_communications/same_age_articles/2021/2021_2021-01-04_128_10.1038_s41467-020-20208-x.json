@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.194968",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20208-x",
+    "title": "The ATM and ATR kinases regulate centrosome clustering and tumor recurrence by targeting KIFC1 phosphorylation",
+    "article_number": "20",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Guangjian Fan",
+      "Lianhui Sun",
+      "Ling Meng",
+      "Chen Hu",
+      "Xing Wang",
+      "Zhan Shi",
+      "Congli Hu",
+      "Yang Han",
+      "Qingqing Yang",
+      "Liu Cao",
+      "Xiaohong Zhang",
+      "Yan Zhang",
+      "Xianmin Song",
+      "Shujie Xia",
+      "Baokun He",
+      "Shengping Zhang",
+      "Chuangui Wang"
+    ]
+  },
+  "article_index": 128,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:42:29.538705"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:42:37.153220"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T18:42:38.491972"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T23:08:12.801881"
+    },
+    "last_updated": "2025-10-03T23:08:12.802072"
+  }
+}

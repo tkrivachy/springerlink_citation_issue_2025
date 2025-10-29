@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.683919",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43700-6",
+    "title": "Biomimetic chiral hydrogen-bonded organic-inorganic frameworks",
+    "article_number": "139",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jun Guo",
+      "Yulong Duan",
+      "Yunling Jia",
+      "Zelong Zhao",
+      "Xiaoqing Gao",
+      "Pai Liu",
+      "Fangfang Li",
+      "Hongli Chen",
+      "Yutong Ye",
+      "Yujiao Liu",
+      "Meiting Zhao",
+      "Zhiyong Tang",
+      "Yi Liu"
+    ]
+  },
+  "article_index": 145,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T19:00:44.553900"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T19:00:46.128650"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:00:47.368254"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T23:14:16.994938"
+    },
+    "last_updated": "2025-10-03T23:14:16.995036"
+  }
+}

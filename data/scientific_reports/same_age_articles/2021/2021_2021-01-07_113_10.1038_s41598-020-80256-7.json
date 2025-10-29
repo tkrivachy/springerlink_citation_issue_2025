@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.220529",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80256-7",
+    "title": "Tillage and seeding strategies for wheat optimizing production in harvested rice fields with high soil moisture",
+    "article_number": "119",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jinfeng Ding",
+      "Fujian Li",
+      "Tao Le",
+      "Dongyi Xu",
+      "Min Zhu",
+      "Chunyan Li",
+      "Xinkai Zhu",
+      "Wenshan Guo"
+    ]
+  },
+  "article_index": 113,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:50:10.125585"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:50:11.631502"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:50:12.921968"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:43:28.331222"
+    },
+    "last_updated": "2025-10-03T21:43:28.331449"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.214952",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80725-z",
+    "title": "A capsaicinoid-based soft drug, AG1529, for attenuating TRPV1-mediated histaminergic and inflammatory sensory neuron excitability",
+    "article_number": "246",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Magdalena Nikolaeva-Koleva",
+      "Laura Butron",
+      "Sara González-Rodríguez",
+      "Isabel Devesa",
+      "Pierluigi Valente",
+      "Marta Serafini",
+      "Armando A. Genazzani",
+      "Tracey Pirali",
+      "Gregorio Fernández Ballester",
+      "Asia Fernández-Carvajal",
+      "Antonio Ferrer-Montiel"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:45:38.225220"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:45:39.768486"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:45:41.198481"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T21:41:42.419869"
+    },
+    "last_updated": "2025-10-03T21:41:42.420063"
+  }
+}

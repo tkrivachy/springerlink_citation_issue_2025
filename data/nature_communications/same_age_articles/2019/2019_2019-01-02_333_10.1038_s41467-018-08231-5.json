@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.713729",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08231-5",
+    "title": "Kinetic analysis of multistep USP7 mechanism shows critical role for target protein in activity",
+    "article_number": "231",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Robbert Q. Kim",
+      "Paul P. Geurink",
+      "Monique P. C. Mulder",
+      "Alexander Fish",
+      "Reggy Ekkebus",
+      "Farid El Oualid",
+      "Willem J. van Dijk",
+      "Duco van Dalen",
+      "Huib Ovaa",
+      "Hugo van Ingen",
+      "Titia K. Sixma"
+    ]
+  },
+  "article_index": 333,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:28:34.594755"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:28:36.144184"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:28:37.456999"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T22:43:01.562287"
+    },
+    "last_updated": "2025-10-03T22:43:01.562376"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.198410",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20238-5",
+    "title": "A tied Fermi liquid to Luttinger liquid model for nonlinear transport in conducting polymers",
+    "article_number": "58",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiawei Wang",
+      "Jiebin Niu",
+      "Bin Shao",
+      "Guanhua Yang",
+      "Congyan Lu",
+      "Mengmeng Li",
+      "Zheng Zhou",
+      "Xichen Chuai",
+      "Jiezhi Chen",
+      "Nianduan Lu",
+      "Bing Huang",
+      "Yeliang Wang",
+      "Ling Li",
+      "Ming Liu"
+    ]
+  },
+  "article_index": 151,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:35:37.557540"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:35:39.119368"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:35:40.396472"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:05:50.839042"
+    },
+    "last_updated": "2025-10-03T23:05:50.839233"
+  }
+}

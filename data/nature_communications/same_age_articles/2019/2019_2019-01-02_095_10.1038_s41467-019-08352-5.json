@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687427",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08352-5",
+    "title": "PD-1/PD-L1 checkpoint blockade harnesses monocyte-derived macrophages to combat cognitive impairment in a tauopathy mouse model",
+    "article_number": "465",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Neta Rosenzweig",
+      "Raz Dvir-Szternfeld",
+      "Afroditi Tsitsou-Kampeli",
+      "Hadas Keren-Shaul",
+      "Hila Ben-Yehuda",
+      "Pierre Weill-Raynal",
+      "Liora Cahalon",
+      "Alex Kertser",
+      "Kuti Baruch",
+      "Ido Amit",
+      "Assaf Weiner",
+      "Michal Schwartz"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 160,
+      "retrieved_at": "2025-10-03T17:24:32.902832"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 167,
+      "retrieved_at": "2025-10-03T17:24:34.457251"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T17:24:35.635838"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 170,
+      "retrieved_at": "2025-10-03T22:41:36.547626"
+    },
+    "last_updated": "2025-10-03T22:41:36.547703"
+  }
+}

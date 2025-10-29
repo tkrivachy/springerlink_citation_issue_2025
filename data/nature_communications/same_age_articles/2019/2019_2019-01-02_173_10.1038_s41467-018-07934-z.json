@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.695957",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07934-z",
+    "title": "Age and pattern of the southern high-latitude continental end-Permian extinction constrained by multiproxy analysis",
+    "article_number": "385",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christopher R. Fielding",
+      "Tracy D. Frank",
+      "Stephen McLoughlin",
+      "Vivi Vajda",
+      "Chris Mays",
+      "Allen P. Tevyaw",
+      "Arne Winguth",
+      "Cornelia Winguth",
+      "Robert S. Nicoll",
+      "Malcolm Bocking",
+      "James L. Crowley"
+    ]
+  },
+  "article_index": 173,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:31:38.706452"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 191,
+      "retrieved_at": "2025-10-03T17:31:49.054236"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 176,
+      "retrieved_at": "2025-10-03T17:31:50.573081"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 199,
+      "retrieved_at": "2025-10-03T22:44:09.750007"
+    },
+    "last_updated": "2025-10-03T22:44:09.750195"
+  }
+}

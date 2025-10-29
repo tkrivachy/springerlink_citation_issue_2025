@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.845196",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50355-2",
+    "title": "Modeling the compaction of bacterial chromosomes by biomolecular crowding and the cross-linking protein H-NS",
+    "article_number": "139",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Youngkyun Jung",
+      "Amir Sadeghi",
+      "Bae-Yeun Ha"
+    ]
+  },
+  "article_index": 178,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:55:25.501758"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:55:27.072826"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:55:28.266437"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:09:55.407784"
+    },
+    "last_updated": "2025-10-03T22:09:55.407976"
+  }
+}

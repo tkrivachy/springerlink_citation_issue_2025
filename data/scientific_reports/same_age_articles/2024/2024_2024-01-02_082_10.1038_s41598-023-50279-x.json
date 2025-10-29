@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.835162",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50279-x",
+    "title": "Unraveling the surface marker signature of cell-derived vesicles via proteome analysis and nanoparticle flow cytometry",
+    "article_number": "121",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hui-Chong Lau",
+      "Ilaria Passalacqua",
+      "Jik-Han Jung",
+      "Yerim Kwon",
+      "Davide Zocco",
+      "Sung-Soo Park",
+      "Seung Wook Oh"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:55:36.834772"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:55:38.394442"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:55:39.615792"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T22:09:59.499089"
+    },
+    "last_updated": "2025-10-03T22:09:59.499276"
+  }
+}

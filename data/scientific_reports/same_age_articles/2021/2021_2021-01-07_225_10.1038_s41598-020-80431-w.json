@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244688",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80431-w",
+    "title": "Comparative analysis of chloroplast genomes indicated different origin for Indian tea (",
+    "article_number": "110",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hukam C. Rawal",
+      "Sangeeta Borchetia",
+      "Biswajit Bera",
+      "S. Soundararajan",
+      "R. Victor J. Ilango",
+      "Anoop Kumar Barooah",
+      "Tilak Raj Sharma",
+      "Nagendra Kumar Singh",
+      "Tapan Kumar Mondal"
+    ]
+  },
+  "article_index": 225,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:46:37.523214"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:46:39.098027"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:46:40.378653"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:42:05.250838"
+    },
+    "last_updated": "2025-10-03T21:42:05.251029"
+  }
+}

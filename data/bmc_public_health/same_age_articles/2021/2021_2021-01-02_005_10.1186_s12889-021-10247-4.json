@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.629604",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10247-4",
+    "title": "Feasibility of implementation of CARD™ for school-based immunizations in Calgary, Alberta: a cluster trial",
+    "article_number": "260",
+    "publication_date": "2021-02-01",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Anna Taddio",
+      "Joanne Coldham",
+      "Charlotte Logeman",
+      "C. Meghan McMurtry",
+      "Cheri Little",
+      "Tracy Samborn",
+      "Lucie M. Bucci",
+      "Noni E. MacDonald",
+      "Vibhuti Shah",
+      "Cindy Dribnenki",
+      "Joanne Snider",
+      "Derek Stephens"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:01:18.576037"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:01:20.114109"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:01:21.412039"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:24:58.635590"
+    },
+    "last_updated": "2025-10-03T21:24:58.635796"
+  }
+}

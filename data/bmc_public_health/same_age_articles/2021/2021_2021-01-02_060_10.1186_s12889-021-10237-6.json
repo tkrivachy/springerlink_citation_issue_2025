@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.635198",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10237-6",
+    "title": "Association between incarceration and incident cardiovascular disease events: results from the CARDIA cohort study",
+    "article_number": "214",
+    "publication_date": "2021-01-26",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jordan Coleman",
+      "Donald M. Lloyd-Jones",
+      "Hongyan Ning",
+      "Norrina B. Allen",
+      "Catarina I. Kiefe",
+      "Emily A. Wang",
+      "Mark D. Huffman"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:54:35.652660"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:54:37.199612"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:54:38.479633"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:22:38.358520"
+    },
+    "last_updated": "2025-10-03T21:22:38.358707"
+  }
+}

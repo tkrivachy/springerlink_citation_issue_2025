@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.306574",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56979-7",
+    "title": "QTL Mapping of Kernel Traits and Validation of a Major QTL for Kernel Length-Width Ratio Using SNP and Bulked Segregant Analysis in Wheat",
+    "article_number": "25",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fang Xin",
+      "Ting Zhu",
+      "Shuwei Wei",
+      "Yucui Han",
+      "Yue Zhao",
+      "Dazhong Zhang",
+      "Lingjian Ma",
+      "Qin Ding"
+    ]
+  },
+  "article_index": 66,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T14:30:51.350982"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T14:30:52.872879"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T14:30:54.039431"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T21:35:40.622424"
+    },
+    "last_updated": "2025-10-03T21:35:40.622525"
+  }
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-48829-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-023-48829-4</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Examining double standards in layoff preferences and expectations for gender, age, and ethnicity when violating the social norm of vaccination</dc:title>
+          <dc:creator>Moya, Cristóbal</dc:creator>
+          <dc:creator>Sattler, Sebastian</dc:creator>
+          <dc:creator>Taflinger, Shannon</dc:creator>
+          <dc:creator>Sauer, Carsten</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn>2045-2322</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:doi>10.1038/s41598-023-48829-4</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <ns2:publicationDate>2024-01-02</ns2:publicationDate>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>14</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-023-48829-4</ns2:url>
+          <ns2:copyright>©2024 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>
+          Whether vaccination refusal is perceived as a social norm violation that affects layoff decisions has not been tested. Also unknown is whether ascribed low-status groups are subject to double standards when they violate norms, experiencing stronger sanctions in layoff preferences and expectations, and whether work performance attenuates such sanctioning. Therefore, we study layoff preferences and expectations using a discrete choice experiment within a large representative online survey in Germany (
+          <Emphasis Type="Italic">N</Emphasis>
+           = 12,136). Respondents chose between two employee profiles, each with information about ascribed characteristics signaling different status groups (gender, age, and ethnicity), work performance (work quality and quantity, and social skills), and whether the employees refused to vaccinate against COVID-19. We found that employees who refused vaccination were more likely to be preferred and expected to be laid off. Respondents also expected double standards regarding layoffs due to vaccination refusal, hence, harsher treatment of females and older employees. Nonetheless, their preferences did not reflect such double standards. We found little support that high work performance attenuates these sanctions and double standards, opening questions about the conditions under which social biases arise. Our results suggest detrimental consequences of vaccination refusal for individuals, the labor market, and acceptance of health policies.
+        </p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2024</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Canada</facet-value>
+      <facet-value count="1">Germany</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

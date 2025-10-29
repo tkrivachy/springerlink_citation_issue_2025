@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704137",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08187-6",
+    "title": "Malonylation of GAPDH is an inflammatory signal in macrophages",
+    "article_number": "338",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Silvia Galván-Peña",
+      "Richard G. Carroll",
+      "Carla Newman",
+      "Elizabeth C. Hinchy",
+      "Eva Palsson-McDermott",
+      "Elektra K. Robinson",
+      "Sergio Covarrubias",
+      "Alan Nadin",
+      "Andrew M. James",
+      "Moritz Haneklaus",
+      "Susan Carpenter",
+      "Vincent P. Kelly",
+      "Michael P. Murphy",
+      "Louise K. Modis",
+      "Luke A. O’Neill"
+    ]
+  },
+  "article_index": 248,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 161,
+      "retrieved_at": "2025-10-03T17:56:25.870101"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T17:56:27.415222"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 155,
+      "retrieved_at": "2025-10-03T17:56:28.618357"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 173,
+      "retrieved_at": "2025-10-03T22:52:45.303378"
+    },
+    "last_updated": "2025-10-03T22:52:45.303574"
+  }
+}

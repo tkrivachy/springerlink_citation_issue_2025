@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.345991",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84950-8",
+    "title": "Impact of epinephrine on neurological outcomes in out-of-hospital cardiac arrest after automated external defibrillator use in Japan",
+    "article_number": "274",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Atsushi Kubo",
+      "Atsushi Hiraide",
+      "Tomohiro Shinozaki",
+      "Naoaki Shibata",
+      "Kyohei Miyamoto",
+      "Shinobu Tamura",
+      "Shigeaki Inoue"
+    ]
+  },
+  "article_index": 44,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:55:22.068628"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:55:23.622161"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:55:24.823005"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:31:22.573579"
+    },
+    "last_updated": "2025-10-03T22:31:22.573769"
+  }
+}

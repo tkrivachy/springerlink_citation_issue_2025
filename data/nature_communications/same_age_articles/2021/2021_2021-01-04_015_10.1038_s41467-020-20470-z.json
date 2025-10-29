@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.175300",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20470-z",
+    "title": "Around one third of current Arctic Ocean primary production sustained by rivers and coastal erosion",
+    "article_number": "169",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jens Terhaar",
+      "Ronny Lauerwald",
+      "Pierre Regnier",
+      "Nicolas Gruber",
+      "Laurent Bopp"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:32:26.787551"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 156,
+      "retrieved_at": "2025-10-03T18:32:28.372090"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T18:32:29.788208"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 204,
+      "retrieved_at": "2025-10-03T23:04:51.594894"
+    },
+    "last_updated": "2025-10-03T23:04:51.595085"
+  }
+}

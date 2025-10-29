@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.832419",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-48885-w",
+    "title": "An integrated approach to occupational health risk assessment of manufacturing nanomaterials using Pythagorean Fuzzy AHP and Fuzzy Inference System",
+    "article_number": "180",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Samaneh Salari",
+      "Mohsen Sadeghi-Yarandi",
+      "Farideh Golbabaei"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T15:44:49.719223"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:44:51.276028"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:44:52.558172"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T22:05:46.829820"
+    },
+    "last_updated": "2025-10-03T22:05:46.830012"
+  }
+}

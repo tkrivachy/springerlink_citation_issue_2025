@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.510086",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55217-7",
+    "title": "A proof-of-concept study in small and large animal models for coupling liver normothermic machine perfusion with mesenchymal stromal cell bioreactors",
+    "article_number": "283",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Umberto Cillo",
+      "Caterina Lonati",
+      "Alessandra Bertacco",
+      "Lucrezia Magnini",
+      "Michele Battistin",
+      "Domenico Ventrella",
+      "Domenico Ventrella",
+      "Camilla Aniballi",
+      "Margherita Carbonaro",
+      "Andrea Carlin",
+      "Alberto Elmi",
+      "Lara Borsetto",
+      "Francesco Dazzi",
+      "David Al-Adra",
+      "Enrico Gringeri",
+      "Maria Laura Bacci",
+      "Andrea Schlegel",
+      "Daniele Dondossola"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:16:37.558718"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:16:39.113762"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:16:40.287444"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:19:42.290578"
+    },
+    "last_updated": "2025-10-03T23:19:42.290769"
+  }
+}

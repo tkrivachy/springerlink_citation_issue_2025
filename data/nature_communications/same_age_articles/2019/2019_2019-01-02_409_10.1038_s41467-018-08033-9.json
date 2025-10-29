@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.721808",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08033-9",
+    "title": "Coordinative metabolism of glutamine carbon and nitrogen in proliferating cancer cells under hypoxia",
+    "article_number": "201",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuanyuan Wang",
+      "Changsen Bai",
+      "Yuxia Ruan",
+      "Miao Liu",
+      "Qiaoyun Chu",
+      "Li Qiu",
+      "Chuanzhen Yang",
+      "Binghui Li"
+    ]
+  },
+  "article_index": 409,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 174,
+      "retrieved_at": "2025-10-03T17:24:56.017848"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T17:24:57.592716"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T17:24:59.032495"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 197,
+      "retrieved_at": "2025-10-03T22:41:45.163458"
+    },
+    "last_updated": "2025-10-03T22:41:45.163646"
+  }
+}

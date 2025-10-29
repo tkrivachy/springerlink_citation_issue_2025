@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.197627",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20312-y",
+    "title": "Non-invasive assessment of telomere maintenance mechanisms in brain tumors",
+    "article_number": "92",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pavithra Viswanath",
+      "Georgios Batsios",
+      "Joydeep Mukherjee",
+      "Anne Marie Gillespie",
+      "Peder E. Z. Larson",
+      "H. Artee Luchman",
+      "Joanna J. Phillips",
+      "Joseph F. Costello",
+      "Russell O. Pieper",
+      "Sabrina M. Ronen"
+    ]
+  },
+  "article_index": 146,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:41:35.768541"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:41:37.295969"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:41:38.447810"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T23:07:55.054591"
+    },
+    "last_updated": "2025-10-03T23:07:55.054835"
+  }
+}

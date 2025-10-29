@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.518882",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54820-y",
+    "title": "Tuning the selectivity of NH",
+    "article_number": "26",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lu Chen",
+      "Xuze Guan",
+      "Zhaofu Fei",
+      "Hiroyuki Asakura",
+      "Lun Zhang",
+      "Zhipeng Wang",
+      "Xinlian Su",
+      "Zhangyi Yao",
+      "Luke L. Keenan",
+      "Shusaku Hayama",
+      "Matthijs A. van Spronsen",
+      "Burcu Karagoz",
+      "Georg Held",
+      "Christopher S. Allen",
+      "David G. Hopkinson",
+      "Donato Decarolis",
+      "June Callison",
+      "Paul J. Dyson",
+      "Feng Ryan Wang"
+    ]
+  },
+  "article_index": 63,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:36:42.141846"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:36:43.679374"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:36:44.917253"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:26:16.944439"
+    },
+    "last_updated": "2025-10-03T23:26:16.944514"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.808968",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-83",
+    "title": "How has the flu virus infected the Web? 2010 influenza and vaccine information available on the Internet",
+    "article_number": "83",
+    "publication_date": "2013-01-29",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Loredana Covolo",
+      "Silvia Mascaretti",
+      "Anna Caruana",
+      "Grazia Orizio",
+      "Luigi Caimi",
+      "Umberto Gelatti"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T12:49:41.417318"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T12:49:42.969809"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:49:44.275109"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T20:59:04.202633"
+    },
+    "last_updated": "2025-10-03T20:59:04.202728"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.305031",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-020-57475-z",
+    "title": "Publisher Correction: High-throughput analysis unveils a highly shared satellite DNA library among three species of fish genus ",
+    "article_number": "190",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Duílio M. Z. de A. Silva",
+      "Ricardo Utsunomia",
+      "Francisco J. Ruiz-Ruano",
+      "Sandro Natal Daniel",
+      "Fábio Porto-Foresti",
+      "Diogo Teruo Hashimoto",
+      "Claudio Oliveira",
+      "Juan Pedro M. Camacho",
+      "Fausto Foresti"
+    ]
+  },
+  "article_index": 51,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:28:06.337710"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:28:07.843366"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:28:09.025270"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:34:34.038215"
+    },
+    "last_updated": "2025-10-03T21:34:34.038447"
+  }
+}

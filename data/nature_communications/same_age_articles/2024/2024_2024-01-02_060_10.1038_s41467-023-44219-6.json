@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.672400",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44219-6",
+    "title": "Unlocking regioselective ",
+    "article_number": "31",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Peng-Bo Bai",
+      "Alastair Durie",
+      "Gang-Wei Wang",
+      "Igor Larrosa"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:13:54.921215"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:13:56.474700"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:13:57.655538"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T23:18:50.130600"
+    },
+    "last_updated": "2025-10-03T23:18:50.130787"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.398379",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84663-y",
+    "title": "An improved adaptive variable neighborhood search algorithm for stochastic order allocation problem",
+    "article_number": "481",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhenzhong Zhang",
+      "Ling Zhang",
+      "Weichun Li"
+    ]
+  },
+  "article_index": 451,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:50:41.339145"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:50:42.843068"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:50:44.044019"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:29:43.267561"
+    },
+    "last_updated": "2025-10-03T22:29:43.267747"
+  }
+}

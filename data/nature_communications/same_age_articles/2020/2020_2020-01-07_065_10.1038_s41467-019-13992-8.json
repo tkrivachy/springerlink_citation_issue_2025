@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.884134",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13992-8",
+    "title": "IgA subclasses have different effector functions associated with distinct glycosylation profiles",
+    "article_number": "120",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ulrike Steffen",
+      "Carolien A. Koeleman",
+      "Maria V. Sokolova",
+      "Holger Bang",
+      "Arnd Kleyer",
+      "Jürgen Rech",
+      "Harald Unterweger",
+      "Martin Schicht",
+      "Fabian Garreis",
+      "Jonas Hahn",
+      "Fabian T. Andes",
+      "Fabian Hartmann",
+      "Madelaine Hahn",
+      "Aparna Mahajan",
+      "Friedrich Paulsen",
+      "Markus Hoffmann",
+      "Günter Lochnit",
+      "Luis E. Muñoz",
+      "Manfred Wuhrer",
+      "David Falck",
+      "Martin Herrmann",
+      "Georg Schett"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 183,
+      "retrieved_at": "2025-10-03T18:15:51.950834"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 207,
+      "retrieved_at": "2025-10-03T18:15:53.474801"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T18:15:54.667141"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 217,
+      "retrieved_at": "2025-10-03T22:59:04.118996"
+    },
+    "last_updated": "2025-10-03T22:59:04.119188"
+  }
+}

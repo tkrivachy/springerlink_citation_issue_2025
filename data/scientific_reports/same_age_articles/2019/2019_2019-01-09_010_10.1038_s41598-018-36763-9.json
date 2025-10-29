@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:40:57.087184",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-09",
+  "article_data": {
+    "doi": "10.1038/s41598-018-36763-9",
+    "title": "The ecdysone receptor complex is essential for the reproductive success in the female desert locust, ",
+    "article_number": "15",
+    "publication_date": "2019-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Cynthia Lenaerts",
+      "Elisabeth Marchal",
+      "Paulien Peeters",
+      "Jozef Vanden Broeck"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:22:33.556336"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T14:22:35.124032"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T14:22:36.451221"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T21:32:23.190752"
+    },
+    "last_updated": "2025-10-03T21:32:23.190943"
+  }
+}

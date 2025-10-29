@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.845100",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50566-7",
+    "title": "Conditional generative learning for medical image imputation",
+    "article_number": "171",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ragheb Raad",
+      "Deep Ray",
+      "Bino Varghese",
+      "Darryl Hwang",
+      "Inderbir Gill",
+      "Vinay Duddalwar",
+      "Assad A. Oberai"
+    ]
+  },
+  "article_index": 177,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T15:42:49.225676"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:42:50.801005"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:42:51.982968"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:04:57.088821"
+    },
+    "last_updated": "2025-10-03T22:04:57.089017"
+  }
+}

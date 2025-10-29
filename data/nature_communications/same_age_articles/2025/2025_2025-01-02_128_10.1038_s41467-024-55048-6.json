@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.530818",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55048-6",
+    "title": "Growing meat on autoclaved vegetables with biomimetic stiffness and micro-patterns",
+    "article_number": "161",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ye Liu",
+      "Anqi Gao",
+      "Tiantian Wang",
+      "Yongqian Zhang",
+      "Gaoxiang Zhu",
+      "Sida Ling",
+      "Zhaozhao Wu",
+      "Yuhong Jin",
+      "Haoke Chen",
+      "Yuming Lai",
+      "Rui Zhang",
+      "Yuchen Yang",
+      "Jianyong Han",
+      "Yulin Deng",
+      "Yanan Du"
+    ]
+  },
+  "article_index": 128,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:37:05.959725"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:37:07.518143"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:37:08.705015"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:26:24.773315"
+    },
+    "last_updated": "2025-10-03T23:26:24.773375"
+  }
+}

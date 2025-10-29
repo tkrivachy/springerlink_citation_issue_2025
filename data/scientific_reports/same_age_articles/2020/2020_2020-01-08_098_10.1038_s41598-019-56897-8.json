@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.313862",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56897-8",
+    "title": "Sevoflurane Pre-conditioning Ameliorates Diabetic Myocardial Ischemia/Reperfusion Injury Via Differential Regulation of p38 and ERK",
+    "article_number": "23",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Dina Xie",
+      "Jianli Zhao",
+      "Rui Guo",
+      "Liyuan Jiao",
+      "Yanqing Zhang",
+      "Wayne Bond Lau",
+      "Bernard Lopez",
+      "Theodore Christopher",
+      "Erhe Gao",
+      "Jimin Cao",
+      "Xinliang Ma",
+      "Yajing Wang"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:23:03.578165"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:23:05.211960"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:23:06.383829"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:32:29.894602"
+    },
+    "last_updated": "2025-10-03T21:32:29.894650"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697783",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08125-6",
+    "title": "Mineralocorticoid receptor antagonism limits experimental choroidal neovascularization and structural changes associated with neovascular age-related macular degeneration",
+    "article_number": "369",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Min Zhao",
+      "Irmela Mantel",
+      "Emmanuelle Gelize",
+      "Xinxin Li",
+      "Xiaoyue Xie",
+      "Alejandro Arboleda",
+      "Marie Seminel",
+      "Rinath Levy-Boukris",
+      "Marilyn Dernigoghossian",
+      "Andrea Prunotto",
+      "Charlotte Andrieu-Soler",
+      "Carlo Rivolta",
+      "Jérémie Canonica",
+      "Marie-Christine Naud",
+      "Sebastian Lechner",
+      "Nicolette Farman",
+      "Irene Bravo-Osuna",
+      "Rocio Herrero-Vanrell",
+      "Frederic Jaisser",
+      "Francine Behar-Cohen"
+    ]
+  },
+  "article_index": 191,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T17:38:17.799272"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T17:38:19.326488"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T17:38:20.697494"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T22:46:24.964967"
+    },
+    "last_updated": "2025-10-03T22:46:24.965053"
+  }
+}

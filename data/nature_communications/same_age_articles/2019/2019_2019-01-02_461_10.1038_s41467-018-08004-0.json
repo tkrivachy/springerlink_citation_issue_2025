@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.727372",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08004-0",
+    "title": "Global phosphoproteomic analysis reveals ARMC10 as an AMPK substrate that regulates mitochondrial dynamics",
+    "article_number": "104",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhen Chen",
+      "Caoqi Lei",
+      "Chao Wang",
+      "Nan Li",
+      "Mrinal Srivastava",
+      "Mengfan Tang",
+      "Huimin Zhang",
+      "Jong Min Choi",
+      "Sung Yun Jung",
+      "Jun Qin",
+      "Junjie Chen"
+    ]
+  },
+  "article_index": 461,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T17:14:16.207082"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T17:14:17.757943"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T17:14:18.948759"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T22:38:10.622142"
+    },
+    "last_updated": "2025-10-03T22:38:10.622369"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642768",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35602-w",
+    "title": "PQBP5/NOL10 maintains and anchors the nucleolus under physiological and osmotic stress conditions",
+    "article_number": "9",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaocen Jin",
+      "Hikari Tanaka",
+      "Meihua Jin",
+      "Kyota Fujita",
+      "Hidenori Homma",
+      "Maiko Inotsume",
+      "Huang Yong",
+      "Kenichi Umeda",
+      "Noriyuki Kodera",
+      "Toshio Ando",
+      "Hitoshi Okazawa"
+    ]
+  },
+  "article_index": 51,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:49:21.314634"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:49:22.868461"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:49:24.196459"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:10:25.943379"
+    },
+    "last_updated": "2025-10-03T23:10:25.943456"
+  }
+}

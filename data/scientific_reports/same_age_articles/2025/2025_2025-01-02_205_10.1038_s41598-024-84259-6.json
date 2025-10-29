@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.370182",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84259-6",
+    "title": "5,7-Dihydroxyflavone acts on eNOS to achieve hypotensive effects in spontaneously hypertensive rats",
+    "article_number": "594",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zi-Han Shen",
+      "Tongjie Ye",
+      "Baozhen Chen",
+      "Congchao Wan",
+      "Xiaolin Lu",
+      "Ting-Hsu Chen",
+      "Shuang Lin",
+      "Jia-Xin Ye",
+      "Liping Xie",
+      "Yaw-Syan Fu"
+    ]
+  },
+  "article_index": 205,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:03:26.731882"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:03:28.270654"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:03:29.461933"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:34:09.629085"
+    },
+    "last_updated": "2025-10-03T22:34:09.629288"
+  }
+}

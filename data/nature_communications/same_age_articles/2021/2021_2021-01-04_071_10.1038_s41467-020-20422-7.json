@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.185485",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20422-7",
+    "title": "Gut microbiota impact on the peripheral immune response in non-alcoholic fatty liver disease related hepatocellular carcinoma",
+    "article_number": "187",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jason Behary",
+      "Nadia Amorim",
+      "Xiao-Tao Jiang",
+      "Anita Raposo",
+      "Lan Gong",
+      "Emily McGovern",
+      "Ragy Ibrahim",
+      "Francis Chu",
+      "Carlie Stephens",
+      "Hazem Jebeili",
+      "Vincenzo Fragomeli",
+      "Yen Chin Koay",
+      "Miriam Jackson",
+      "John O’Sullivan",
+      "Martin Weltman",
+      "Geoffrey McCaughan",
+      "Emad El-Omar",
+      "Amany Zekry"
+    ]
+  },
+  "article_index": 71,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 324,
+      "retrieved_at": "2025-10-03T18:38:35.137319"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 341,
+      "retrieved_at": "2025-10-03T18:38:36.712415"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 273,
+      "retrieved_at": "2025-10-03T18:38:38.407189"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 366,
+      "retrieved_at": "2025-10-03T23:06:52.725038"
+    },
+    "last_updated": "2025-10-03T23:06:52.725226"
+  }
+}

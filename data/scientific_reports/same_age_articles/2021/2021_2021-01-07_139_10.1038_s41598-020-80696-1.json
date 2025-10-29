@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.224566",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80696-1",
+    "title": "Genetic structure analysis of cultivated and wild chestnut populations reveals gene flow from cultivars to natural stands",
+    "article_number": "240",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sogo Nishio",
+      "Norio Takada",
+      "Shingo Terakami",
+      "Yukie Takeuchi",
+      "Megumi K. Kimura",
+      "Keiya Isoda",
+      "Toshihiro Saito",
+      "Hiroyuki Iketani"
+    ]
+  },
+  "article_index": 139,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:54:59.395029"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:55:00.934420"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:55:02.234430"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:45:19.716974"
+    },
+    "last_updated": "2025-10-03T21:45:19.717174"
+  }
+}

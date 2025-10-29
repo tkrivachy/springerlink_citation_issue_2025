@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.722758",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07929-w",
+    "title": "A disinhibitory mechanism biases ",
+    "article_number": "124",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Weiqiao Zhao",
+      "Peipei Zhou",
+      "Caixia Gong",
+      "Zhenhuan Ouyang",
+      "Jie Wang",
+      "Nenggan Zheng",
+      "Zhefeng Gong"
+    ]
+  },
+  "article_index": 418,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:05:08.361347"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:05:10.156856"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:05:11.384213"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T22:55:37.742209"
+    },
+    "last_updated": "2025-10-03T22:55:37.742439"
+  }
+}

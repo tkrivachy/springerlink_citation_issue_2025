@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.402525",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-81989-5",
+    "title": "Harnessing CRISPR interference to resensitize laboratory strains and clinical isolates to last resort antibiotics",
+    "article_number": "261",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Angelica Frusteri Chiacchiera",
+      "Michela Casanova",
+      "Massimo Bellato",
+      "Aurora Piazza",
+      "Roberta Migliavacca",
+      "Gregory Batt",
+      "Paolo Magni",
+      "Lorenzo Pasotti"
+    ]
+  },
+  "article_index": 490,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:34:59.585773"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:35:01.100544"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:39.761104"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:24:01.652690"
+    },
+    "last_updated": "2025-10-07T09:52:39.761214"
+  }
+}

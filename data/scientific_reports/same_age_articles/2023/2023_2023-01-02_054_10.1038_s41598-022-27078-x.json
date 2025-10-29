@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.105177",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27078-x",
+    "title": "Pigment epithelial detachment composition indices (PEDCI) in neovascular age-related macular degeneration",
+    "article_number": "68",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Amrish Selvam",
+      "Sumit Randhir Singh",
+      "Supriya Arora",
+      "Manan Patel",
+      "Arnim Kuchhal",
+      "Stavan Shah",
+      "Joshua Ong",
+      "Mohammed Abdul Rasheed",
+      "Shanmukh Reddy Manne",
+      "Mohammed Nasar Ibrahim",
+      "José-Alain Sahel",
+      "Kiran Kumar Vupparaboina",
+      "Jay Chhablani"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:28:39.849225"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:28:41.596392"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:28:42.907841"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:59:17.587471"
+    },
+    "last_updated": "2025-10-03T21:59:17.587664"
+  }
+}

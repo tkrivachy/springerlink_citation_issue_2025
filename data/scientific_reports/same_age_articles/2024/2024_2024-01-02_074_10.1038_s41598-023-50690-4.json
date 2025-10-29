@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.834353",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50690-4",
+    "title": "Synchronization of non-smooth chaotic systems via an improved reservoir computing",
+    "article_number": "229",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Guyue Wu",
+      "Longkun Tang",
+      "Jianli Liang"
+    ]
+  },
+  "article_index": 74,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:37:48.626153"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:37:50.186816"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:37:51.377377"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:03:00.395983"
+    },
+    "last_updated": "2025-10-03T22:03:00.396174"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701335",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08255-x",
+    "title": "BAP1 complex promotes transcription by opposing PRC1-mediated H2A ubiquitylation",
+    "article_number": "348",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Antoine Campagne",
+      "Ming-Kang Lee",
+      "Dina Zielinski",
+      "Audrey Michaud",
+      "Stéphanie Le Corre",
+      "Florent Dingli",
+      "Hong Chen",
+      "Lara Z. Shahidian",
+      "Ivaylo Vassilev",
+      "Nicolas Servant",
+      "Damarys Loew",
+      "Eric Pasmant",
+      "Sophie Postel-Vinay",
+      "Michel Wassef",
+      "Raphaël Margueron"
+    ]
+  },
+  "article_index": 223,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 113,
+      "retrieved_at": "2025-10-03T17:09:37.246964"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T17:09:38.796077"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T17:09:40.185222"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T22:36:32.020248"
+    },
+    "last_updated": "2025-10-03T22:36:32.020480"
+  }
+}

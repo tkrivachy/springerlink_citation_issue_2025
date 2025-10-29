@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.546303",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55379-4",
+    "title": "Functional large-conductance calcium and voltage-gated potassium channels in extracellular vesicles act as gatekeepers of structural and functional integrity",
+    "article_number": "42",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shridhar Sanghvi",
+      "Divya Sridharan",
+      "Parker Evans",
+      "Julie Dougherty",
+      "Kalina Szteyn",
+      "Denis Gabrilovich",
+      "Mayukha Dyta",
+      "Jessica Weist",
+      "Sandrine V. Pierre",
+      "Shubha Gururaja Rao",
+      "Dan R. Halm",
+      "Tingting Chen",
+      "Panagiotis S. Athanasopoulos",
+      "Amalia M. Dolga",
+      "Lianbo Yu",
+      "Mahmood Khan",
+      "Harpreet Singh"
+    ]
+  },
+  "article_index": 241,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:29:28.628498"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:29:30.167812"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:29:31.366520"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:23:52.606630"
+    },
+    "last_updated": "2025-10-03T23:23:52.606829"
+  }
+}

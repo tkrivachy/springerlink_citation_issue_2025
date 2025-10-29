@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.181902",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20370-2",
+    "title": "Hydride-based antiperovskites with soft anionic sublattices as fast alkali ionic conductors",
+    "article_number": "201",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shenghan Gao",
+      "Thibault Broux",
+      "Susumu Fujii",
+      "Cédric Tassel",
+      "Kentaro Yamamoto",
+      "Yao Xiao",
+      "Itaru Oikawa",
+      "Hitoshi Takamura",
+      "Hiroki Ubukata",
+      "Yuki Watanabe",
+      "Kotaro Fujii",
+      "Masatomo Yashima",
+      "Akihide Kuwabara",
+      "Yoshiharu Uchimoto",
+      "Hiroshi Kageyama"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:32:14.427205"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T18:32:15.991512"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T18:32:17.334090"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T23:04:47.172432"
+    },
+    "last_updated": "2025-10-03T23:04:47.172503"
+  }
+}

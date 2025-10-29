@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.548741",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55317-4",
+    "title": "VTA projections to M1 are essential for reorganization of layer 2-3 network dynamics underlying motor learning",
+    "article_number": "200",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Amir Ghanayim",
+      "Hadas Benisty",
+      "Avigail Cohen Rimon",
+      "Sivan Schwartz",
+      "Sally Dabdoob",
+      "Shira Lifshitz",
+      "Ronen Talmon",
+      "Jackie Schiller"
+    ]
+  },
+  "article_index": 257,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:39:48.449817"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:39:49.958903"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:39:51.123576"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:27:19.878398"
+    },
+    "last_updated": "2025-10-03T23:27:19.878590"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.861958",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50884-w",
+    "title": "Evaluation of the reliability and readability of ChatGPT-4 responses regarding hypothyroidism during pregnancy",
+    "article_number": "243",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "C. E. Onder",
+      "G. Koc",
+      "P. Gokbulut",
+      "I. Taskaldiran",
+      "S. M. Kuskonmaz"
+    ]
+  },
+  "article_index": 277,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T16:00:23.381510"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T16:00:24.958744"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T16:00:26.287485"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T22:11:43.579022"
+    },
+    "last_updated": "2025-10-03T22:11:43.579210"
+  }
+}

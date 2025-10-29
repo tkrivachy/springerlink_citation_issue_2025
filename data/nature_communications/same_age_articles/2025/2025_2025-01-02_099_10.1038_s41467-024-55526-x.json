@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.523580",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55526-x",
+    "title": "A higher order PUF complex is central to regulation of ",
+    "article_number": "123",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chen Qiu",
+      "Sarah L. Crittenden",
+      "Brian H. Carrick",
+      "Lucas B. Dillard",
+      "Stephany J. Costa Dos Santos",
+      "Venkata P. Dandey",
+      "Robert C. Dutcher",
+      "Elizabeth G. Viverette",
+      "Robert N. Wine",
+      "Jennifer Woodworth",
+      "Zachary T. Campbell",
+      "Marvin Wickens",
+      "Mario J. Borgnia",
+      "Judith Kimble",
+      "Traci M. Tanaka Hall"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:03.777500"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:05.302518"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:06.496091"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:23:28.023262"
+    },
+    "last_updated": "2025-10-03T23:23:28.023377"
+  }
+}

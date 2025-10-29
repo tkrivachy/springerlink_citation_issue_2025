@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.181545",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20490-9",
+    "title": "High-resolution single-cell 3D-models of chromatin ensembles during Drosophila embryogenesis",
+    "article_number": "205",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qiu Sun",
+      "Alan Perez-Rathke",
+      "Daniel M. Czajkowsky",
+      "Zhifeng Shao",
+      "Jie Liang"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:28:43.955887"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:28:45.514551"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:28:46.809476"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:03:35.854106"
+    },
+    "last_updated": "2025-10-03T23:03:35.854192"
+  }
+}

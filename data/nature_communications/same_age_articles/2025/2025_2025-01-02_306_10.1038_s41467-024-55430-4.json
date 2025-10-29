@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.559215",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55430-4",
+    "title": "Trigger inducible tertiary lymphoid structure formation using covalent organic frameworks for cancer immunotherapy",
+    "article_number": "44",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Liang Zhang",
+      "Boxin Zhang",
+      "Meng-Jie Zhang",
+      "Wenlang Li",
+      "Hao Li",
+      "Yantian Jiao",
+      "Qi-Chao Yang",
+      "Shuo Wang",
+      "Yuan-Tong Liu",
+      "An Song",
+      "Hai-Tao Feng",
+      "Jianwei Sun",
+      "Ryan T. K. Kwok",
+      "Jacky W. Y. Lam",
+      "Ben Zhong Tang",
+      "Zhi-Jun Sun"
+    ]
+  },
+  "article_index": 306,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:27:47.120425"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:27:48.690750"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:27:49.871433"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:23:21.922924"
+    },
+    "last_updated": "2025-10-03T23:23:21.922971"
+  }
+}

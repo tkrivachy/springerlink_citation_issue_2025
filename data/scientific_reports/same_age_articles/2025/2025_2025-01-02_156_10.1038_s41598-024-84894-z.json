@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.365055",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84894-z",
+    "title": "Distribution and risk assessment of microplastics in a source water reservoir, Central China",
+    "article_number": "468",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Minghui Shen",
+      "Yang Li",
+      "Liwen Qin",
+      "Xudong Chen",
+      "Tianyu Ao",
+      "Xishu Liang",
+      "Kaibo Jin",
+      "Yanyan Dou",
+      "Juexiu Li",
+      "Xuejun Duan"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T16:44:52.602856"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T16:44:54.154935"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:44:55.314179"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:27:37.219229"
+    },
+    "last_updated": "2025-10-03T22:27:37.219290"
+  }
+}

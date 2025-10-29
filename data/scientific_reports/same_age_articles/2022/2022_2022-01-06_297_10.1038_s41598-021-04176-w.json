@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.888506",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04176-w",
+    "title": "Identification and validation of plasma biomarkers for diagnosis of breast cancer in South Asian women",
+    "article_number": "100",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Thangarajan Rajkumar",
+      "Sathyanarayanan Amritha",
+      "Veluswami Sridevi",
+      "Gopisetty Gopal",
+      "Kesavan Sabitha",
+      "Sundersingh Shirley",
+      "Rajaraman Swaminathan"
+    ]
+  },
+  "article_index": 297,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:24:02.641282"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:24:04.179023"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:24:05.467893"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:57:25.089598"
+    },
+    "last_updated": "2025-10-03T21:57:25.089790"
+  }
+}

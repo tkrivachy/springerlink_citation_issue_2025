@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.547480",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55096-y",
+    "title": "NIR-II-excited off-on-off fluorescent nanoprobes for sensitive molecular imaging in vivo",
+    "article_number": "278",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yufu Tang",
+      "Yuanyuan Li",
+      "Chunxu He",
+      "Zhen Wang",
+      "Wei Huang",
+      "Quli Fan",
+      "Bin Liu"
+    ]
+  },
+  "article_index": 245,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:28:16.003205"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:28:17.584732"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:18.757686"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:23:29.939595"
+    },
+    "last_updated": "2025-10-03T23:23:29.939683"
+  }
+}

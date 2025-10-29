@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.874431",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03879-4",
+    "title": "Panoramic tongue imaging and deep convolutional machine learning model for diabetes diagnosis in humans",
+    "article_number": "186",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Saritha Balasubramaniyan",
+      "Vijay Jeyakumar",
+      "Deepa Subramaniam Nachimuthu"
+    ]
+  },
+  "article_index": 161,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T15:10:45.566863"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T15:10:47.126155"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:10:48.285147"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T21:51:40.524916"
+    },
+    "last_updated": "2025-10-03T21:51:40.525003"
+  }
+}

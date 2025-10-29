@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.366649",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84100-0",
+    "title": "Healthcare workers safety: a cohort study using healthcare utilisation databases on vaccination and vaccine timeliness impact against SARS-CoV-2 infection",
+    "article_number": "162",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Edlira Skrami",
+      "Andrea Faragalli",
+      "Marica Iommi",
+      "Marco Morbidoni",
+      "Cristina Mancini",
+      "Antonella Guidi",
+      "Annalisa Cardone",
+      "Marco Pompili",
+      "Pietro Serafini",
+      "Remo Appignanesi",
+      "Luigi Ferrante",
+      "Flavia Carle"
+    ]
+  },
+  "article_index": 171,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:38:37.013483"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:38:38.539818"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:38:39.705234"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:25:20.486445"
+    },
+    "last_updated": "2025-10-03T22:25:20.486560"
+  }
+}

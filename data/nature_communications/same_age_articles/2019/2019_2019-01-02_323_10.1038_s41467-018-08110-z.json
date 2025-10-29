@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.712693",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08110-z",
+    "title": "Regulation of in vivo dynein force production by CDK5 and 14-3-3ε and KIAA0528",
+    "article_number": "228",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dail E. Chapman",
+      "Babu J. N. Reddy",
+      "Bunchhin Huy",
+      "Matthew J. Bovyn",
+      "Stephen John S. Cruz",
+      "Zahraa M. Al-Shammari",
+      "Han Han",
+      "Wenqi Wang",
+      "Deanna S. Smith",
+      "Steven P. Gross"
+    ]
+  },
+  "article_index": 323,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T17:23:06.425536"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T17:23:07.972310"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T17:23:09.293475"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T22:41:06.622924"
+    },
+    "last_updated": "2025-10-03T22:41:06.623125"
+  }
+}

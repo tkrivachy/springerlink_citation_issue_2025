@@ -1,0 +1,68 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697168",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08262-y",
+    "title": "Contribution of rare and common variants to intellectual disability in a sub-isolate of Northern Finland",
+    "article_number": "410",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mitja I. Kurki",
+      "Elmo Saarentaus",
+      "Olli Pietiläinen",
+      "Padhraig Gormley",
+      "Dennis Lal",
+      "Sini Kerminen",
+      "Minna Torniainen-Holm",
+      "Eija Hämäläinen",
+      "Elisa Rahikkala",
+      "Riikka Keski-Filppula",
+      "Merja Rauhala",
+      "Satu Korpi-Heikkilä",
+      "Jonna Komulainen–Ebrahim",
+      "Heli Helander",
+      "Päivi Vieira",
+      "Minna Männikkö",
+      "Markku Peltonen",
+      "Aki S. Havulinna",
+      "Veikko Salomaa",
+      "Matti Pirinen",
+      "Jaana Suvisaari",
+      "Jukka S. Moilanen",
+      "Jarmo Körkkö",
+      "Outi Kuismin",
+      "Mark J. Daly",
+      "Aarno Palotie"
+    ]
+  },
+  "article_index": 185,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:45:12.808552"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T17:45:14.340082"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T17:45:15.890243"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:48:37.259227"
+    },
+    "last_updated": "2025-10-03T22:48:37.259458"
+  }
+}

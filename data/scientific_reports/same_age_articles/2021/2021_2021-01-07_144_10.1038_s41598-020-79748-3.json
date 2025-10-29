@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.225141",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79748-3",
+    "title": "Probing tissue microstructure by diffusion skewness tensor imaging",
+    "article_number": "135",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lipeng Ning",
+      "Filip Szczepankiewicz",
+      "Markus Nilsson",
+      "Yogesh Rathi",
+      "Carl-Fredrik Westin"
+    ]
+  },
+  "article_index": 144,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:57:34.170442"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:57:35.722070"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:57:36.917906"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:46:24.007864"
+    },
+    "last_updated": "2025-10-03T21:46:24.008051"
+  }
+}

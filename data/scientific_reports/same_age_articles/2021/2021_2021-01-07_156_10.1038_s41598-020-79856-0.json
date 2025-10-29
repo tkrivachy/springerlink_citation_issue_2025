@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.228616",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79856-0",
+    "title": "Two-dimensional arrays of vertically packed spin-valves with picoTesla sensitivity at room temperature",
+    "article_number": "215",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Marilia Silva",
+      "Fernando Franco",
+      "Diana C. Leitao",
+      "Susana Cardoso",
+      "Paulo P. Freitas"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:38:21.467211"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:38:23.081528"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:38:24.249390"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:38:46.150283"
+    },
+    "last_updated": "2025-10-03T21:38:46.150511"
+  }
+}

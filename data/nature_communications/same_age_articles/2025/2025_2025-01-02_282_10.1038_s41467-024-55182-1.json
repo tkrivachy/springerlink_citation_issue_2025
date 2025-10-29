@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.554039",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55182-1",
+    "title": "Genome-wide characterization of 54 urinary metabolites reveals molecular impact of kidney function",
+    "article_number": "325",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Erkka Valo",
+      "Anne Richmond",
+      "Stefan Mutter",
+      "Emma H. Dahlström",
+      "Archie Campbell",
+      "David J. Porteous",
+      "James F. Wilson",
+      "Stefan Mutter",
+      "Stefan Mutter",
+      "Per-Henrik Groop",
+      "Caroline Hayward",
+      "Niina Sandholm"
+    ]
+  },
+  "article_index": 282,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:43:48.180713"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:43:49.727503"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:43:50.933070"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:28:54.941646"
+    },
+    "last_updated": "2025-10-03T23:28:54.941839"
+  }
+}

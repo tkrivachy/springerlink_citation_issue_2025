@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.678496",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08519-0",
+    "title": "Reductions in prefrontal activation predict off-topic utterances during speech production",
+    "article_number": "515",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Paul Hoffman"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T17:53:42.790826"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:53:44.334077"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:53:45.555321"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T22:51:46.069020"
+    },
+    "last_updated": "2025-10-03T22:51:46.069118"
+  }
+}

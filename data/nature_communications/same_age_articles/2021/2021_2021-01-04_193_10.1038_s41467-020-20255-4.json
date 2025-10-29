@@ -1,0 +1,75 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.203978",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20255-4",
+    "title": "A RAC-GEF network critical for early intestinal tumourigenesis",
+    "article_number": "56",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "K. A. Pickering",
+      "K. Gilroy",
+      "J. W. Cassidy",
+      "S. K. Fey",
+      "A. K. Najumudeen",
+      "L. B. Zeiger",
+      "D. F. Vincent",
+      "D. M. Gay",
+      "J. Johansson",
+      "R. P. Fordham",
+      "B. Miller",
+      "W. Clark",
+      "A. Hedley",
+      "E. B. Unal",
+      "C. Kiel",
+      "E. McGhee",
+      "L. M. Machesky",
+      "C. Nixon",
+      "A. E. Johnsson",
+      "M. Bain",
+      "D. Strathdee",
+      "S. R. van Hoof",
+      "J. P. Medema",
+      "K. I. Anderson",
+      "S. M. Brachmann",
+      "V. M. Stucke",
+      "A. Malliri",
+      "M. Drysdale",
+      "M. Turner",
+      "L. Serrano",
+      "K. Myant",
+      "A. D. Campbell",
+      "O. J. Sansom"
+    ]
+  },
+  "article_index": 193,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:43:39.663872"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:43:41.218390"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:43:42.544584"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:08:33.325177"
+    },
+    "last_updated": "2025-10-03T23:08:33.325377"
+  }
+}

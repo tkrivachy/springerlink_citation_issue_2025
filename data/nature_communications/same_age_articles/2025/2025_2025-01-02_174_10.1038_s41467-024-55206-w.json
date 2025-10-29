@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536658",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55206-w",
+    "title": "Mutational signature analysis predicts bacterial hypermutation and multidrug resistance",
+    "article_number": "19",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kalen M. Hall",
+      "Leonard G. Williams",
+      "Richard D. Smith",
+      "Erin A. Kuang",
+      "Robert K. Ernst",
+      "Christine M. Bojanowski",
+      "William C. Wimley",
+      "Lisa A. Morici",
+      "Zachary F. Pursell"
+    ]
+  },
+  "article_index": 174,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:17:46.125195"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:17:47.648862"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:17:48.836115"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:20:06.154101"
+    },
+    "last_updated": "2025-10-03T23:20:06.154292"
+  }
+}

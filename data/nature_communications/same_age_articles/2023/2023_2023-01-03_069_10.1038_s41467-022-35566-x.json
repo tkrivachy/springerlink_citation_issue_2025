@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.647680",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35566-x",
+    "title": "Genome-wide signatures of adaptation to extreme environments in red algae",
+    "article_number": "10",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chung Hyun Cho",
+      "Seung In Park",
+      "Tzu-Yen Huang",
+      "Yongsung Lee",
+      "Claudia Ciniglia",
+      "Hari Chandana Yadavalli",
+      "Seong Wook Yang",
+      "Debashish Bhattacharya",
+      "Hwan Su Yoon"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:45:19.474432"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:45:21.325285"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T18:45:22.633101"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T23:09:05.567090"
+    },
+    "last_updated": "2025-10-03T23:09:05.567281"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.650340",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35651-1",
+    "title": "Electrical spectroscopy of defect states and their hybridization in monolayer MoS",
+    "article_number": "44",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yanfei Zhao",
+      "Mukesh Tripathi",
+      "Kristiāns Čerņevičs",
+      "Ahmet Avsar",
+      "Hyun Goo Ji",
+      "Juan Francisco Gonzalez Marin",
+      "Cheol-Yeon Cheon",
+      "Zhenyu Wang",
+      "Oleg V. Yazyev",
+      "Andras Kis"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T18:52:44.107098"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:52:45.724520"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T18:52:47.031284"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T23:11:34.221393"
+    },
+    "last_updated": "2025-10-03T23:11:34.221589"
+  }
+}

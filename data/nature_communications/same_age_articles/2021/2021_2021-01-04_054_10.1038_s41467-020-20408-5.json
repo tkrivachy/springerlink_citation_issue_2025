@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.182730",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20408-5",
+    "title": "Giant topological longitudinal circular photo-galvanic effect in the chiral multifold semimetal CoSi",
+    "article_number": "154",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhuoliang Ni",
+      "K. Wang",
+      "Y. Zhang",
+      "O. Pozo",
+      "B. Xu",
+      "X. Han",
+      "K. Manna",
+      "J. Paglione",
+      "C. Felser",
+      "A. G. Grushin",
+      "F. de Juan",
+      "E. J. Mele",
+      "Liang Wu"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:25:04.770406"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T18:25:06.339933"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T18:25:07.715532"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T23:02:19.614407"
+    },
+    "last_updated": "2025-10-03T23:02:19.614604"
+  }
+}

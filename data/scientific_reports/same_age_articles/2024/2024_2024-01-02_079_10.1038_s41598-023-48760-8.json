@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.834869",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-48760-8",
+    "title": "miR-199a/b-3p inhibits HCC cell proliferation and invasion through a novel compensatory signaling pathway DJ-1\\Ras\\PI3K/AKT",
+    "article_number": "224",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Li-Na Ma",
+      "Li-Na Wu",
+      "Shuai wei Liu",
+      "Xu Zhang",
+      "Xia Luo",
+      "Shah Nawaz",
+      "Zi min Ma",
+      "Xiang-Chun Ding"
+    ]
+  },
+  "article_index": 79,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:45:28.925244"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:45:30.464582"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:45:31.702030"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:06:02.160632"
+    },
+    "last_updated": "2025-10-03T22:06:02.160770"
+  }
+}

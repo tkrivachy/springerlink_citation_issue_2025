@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.850663",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-5",
+    "title": "Airborne rhinovirus detection and effect of ultraviolet irradiation on detection by a semi-nested RT-PCR assay",
+    "article_number": "5",
+    "publication_date": "2003-01-13",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Theodore A Myatt",
+      "Sebastian L Johnston",
+      "Stephen Rudnick",
+      "Donald K Milton"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T11:57:34.312590"
+    },
+    "last_updated": "2025-10-03T20:42:23.417754",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T12:03:58.900175"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T12:04:00.305566"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T20:42:23.417556"
+    }
+  }
+}

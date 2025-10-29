@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.695548",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07931-2",
+    "title": "Single-cell RNA-seq denoising using a deep count autoencoder",
+    "article_number": "390",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gökcen Eraslan",
+      "Lukas M. Simon",
+      "Maria Mircea",
+      "Nikola S. Mueller",
+      "Fabian J. Theis"
+    ]
+  },
+  "article_index": 169,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 841,
+      "retrieved_at": "2025-10-03T18:06:14.366517"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 856,
+      "retrieved_at": "2025-10-03T18:06:15.927061"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 770,
+      "retrieved_at": "2025-10-03T18:06:18.076009"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 993,
+      "retrieved_at": "2025-10-03T22:56:01.186230"
+    },
+    "last_updated": "2025-10-03T22:56:01.186469"
+  }
+}

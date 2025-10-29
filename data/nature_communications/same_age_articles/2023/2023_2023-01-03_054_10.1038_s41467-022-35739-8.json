@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643069",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35739-8",
+    "title": "Antagonizing cholecystokinin A receptor in the lung attenuates obesity-induced airway hyperresponsiveness",
+    "article_number": "47",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ronald Allan M. Panganiban",
+      "Zhiping Yang",
+      "Maoyun Sun",
+      "Chan Young Park",
+      "David I. Kasahara",
+      "Niccole Schaible",
+      "Ramaswamy Krishnan",
+      "Alvin T. Kho",
+      "Elliot Israel",
+      "Marc B. Hershenson",
+      "Scott T. Weiss",
+      "Blanca E. Himes",
+      "Jeffrey J. Fredberg",
+      "Kelan G. Tantisira",
+      "Stephanie A. Shore",
+      "Quan Lu"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:49:28.143742"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:49:29.662619"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:49:30.834684"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:10:28.224629"
+    },
+    "last_updated": "2025-10-03T23:10:28.224679"
+  }
+}

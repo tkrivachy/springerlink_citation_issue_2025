@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.629924",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10342-6",
+    "title": "A combination sampling approach for epidemiologic research in humanitarian settings: a case analysis of a study of depressive disorder prevalence among refugees in Greece",
+    "article_number": "272",
+    "publication_date": "2021-02-02",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Danielle N. Poole",
+      "Nathaniel A. Raymond",
+      "Jos Berens",
+      "Mark Latonero",
+      "Julie Ricard",
+      "Bethany Hedt-Gauthier"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:02:31.247434"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:02:32.808431"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:02:34.032741"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T21:25:24.436916"
+    },
+    "last_updated": "2025-10-03T21:25:24.437015"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.692765",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44585-1",
+    "title": "Constructing sulfur and oxygen super-coordinated main-group electrocatalysts for selective and cumulative H",
+    "article_number": "193",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiao Zhou",
+      "Yuan Min",
+      "Changming Zhao",
+      "Cai Chen",
+      "Ming-Kun Ke",
+      "Shi-Lin Xu",
+      "Jie-Jie Chen",
+      "Yuen Wu",
+      "Han-Qing Yu"
+    ]
+  },
+  "article_index": 173,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:59:23.291072"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T18:59:24.855291"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:59:26.202067"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T23:13:50.497803"
+    },
+    "last_updated": "2025-10-03T23:13:50.497992"
+  }
+}

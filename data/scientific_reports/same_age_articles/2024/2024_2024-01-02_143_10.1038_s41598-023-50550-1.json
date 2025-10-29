@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.841524",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50550-1",
+    "title": "A facile strategy for preparation of Fe",
+    "article_number": "84",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Elham Ghoohestani",
+      "Fayezeh Samari",
+      "Ahmad Homaei",
+      "Saeed Yosuefinejad"
+    ]
+  },
+  "article_index": 143,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T15:53:52.715170"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T15:53:54.332669"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T15:53:55.494148"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T22:09:17.096272"
+    },
+    "last_updated": "2025-10-03T22:09:17.096371"
+  }
+}

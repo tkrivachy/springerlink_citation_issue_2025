@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.666722",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44411-8",
+    "title": "The evolution of centriole degradation in mouse sperm",
+    "article_number": "117",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sushil Khanal",
+      "Ankit Jaiswal",
+      "Rajanikanth Chowdanayaka",
+      "Nahshon Puente",
+      "Katerina Turner",
+      "Kebron Yeshitela Assefa",
+      "Mohamad Nawras",
+      "Ezekiel David Back",
+      "Abigail Royfman",
+      "James P. Burkett",
+      "Soon Hon Cheong",
+      "Heidi S. Fisher",
+      "Puneet Sindhwani",
+      "John Gray",
+      "Nallur Basappa Ramachandra",
+      "Tomer Avidor-Reiss"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:05:39.587100"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:05:41.281564"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:05:42.554280"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T23:16:00.518754"
+    },
+    "last_updated": "2025-10-03T23:16:00.518839"
+  }
+}

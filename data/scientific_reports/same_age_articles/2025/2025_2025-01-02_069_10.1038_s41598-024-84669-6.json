@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.348658",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84669-6",
+    "title": "Chemical insight into pros and cons of coffees from different regions",
+    "article_number": "455",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Elżbieta Grządka",
+      "Agnieszka Starek-Wójcicka",
+      "Marta Krajewska",
+      "Jakub Matusiak",
+      "Jolanta Orzeł",
+      "Marek Studziński",
+      "Michał Bonczyk",
+      "Izabela Chmielewska",
+      "Aleksandra Mieczkowska",
+      "Oskar Ronda",
+      "Bartłomiej Michał Cieślik"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:36:32.980275"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:36:34.513743"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:57.481276"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:24:33.003716"
+    },
+    "last_updated": "2025-10-07T09:52:57.481343"
+  }
+}

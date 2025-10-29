@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.860766",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03984-4",
+    "title": "Quantifying the cell morphology and predicting biological behavior of signet ring cell carcinoma using deep learning",
+    "article_number": "183",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qian Da",
+      "Shijie Deng",
+      "Jiahui Li",
+      "Hongmei Yi",
+      "Xiaodi Huang",
+      "Xiaoqun Yang",
+      "Teng Yu",
+      "Xuan Wang",
+      "Jiangshu Liu",
+      "Qi Duan",
+      "Dimitris Metaxas",
+      "Chaofu Wang"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:00:48.831456"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:00:50.400134"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:00:51.575748"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:47:38.259568"
+    },
+    "last_updated": "2025-10-03T21:47:38.259761"
+  }
+}

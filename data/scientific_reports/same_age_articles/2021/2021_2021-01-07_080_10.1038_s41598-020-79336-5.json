@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.213956",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79336-5",
+    "title": "A 3D-CNN model with CT-based parametric response mapping for classifying COPD subjects",
+    "article_number": "34",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Thao Thi Ho",
+      "Taewoo Kim",
+      "Woo Jin Kim",
+      "Chang Hyun Lee",
+      "Kum Ju Chae",
+      "So Hyeon Bak",
+      "Sung Ok Kwon",
+      "Gong Yong Jin",
+      "Eun-Kee Park",
+      "Sanghun Choi"
+    ]
+  },
+  "article_index": 80,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T14:43:11.693195"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T14:43:13.264640"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T14:43:14.432218"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T21:40:45.942190"
+    },
+    "last_updated": "2025-10-03T21:40:45.942418"
+  }
+}

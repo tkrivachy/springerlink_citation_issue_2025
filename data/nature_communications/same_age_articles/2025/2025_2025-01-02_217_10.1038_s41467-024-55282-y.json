@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.541272",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55282-y",
+    "title": "Carbene-catalyzed chirality-controlled site-selective acylation of saccharides",
+    "article_number": "54",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ying-Guo Liu",
+      "Zetao Zhong",
+      "Yuyang Tang",
+      "Hongling Wang",
+      "Sai Vikrama Chaitanya Vummaleti",
+      "Xi Peng",
+      "Peng Peng",
+      "Xinglong Zhang",
+      "Yonggui Robin Chi"
+    ]
+  },
+  "article_index": 217,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:28:27.720382"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:28:29.272128"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:30.430053"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:23:33.911545"
+    },
+    "last_updated": "2025-10-03T23:23:33.911734"
+  }
+}

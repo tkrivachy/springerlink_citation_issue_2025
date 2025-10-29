@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.691809",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08304-z",
+    "title": "Memory T cells targeting oncogenic mutations detected in peripheral blood of epithelial cancer patients",
+    "article_number": "449",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gal Cafri",
+      "Rami Yossef",
+      "Anna Pasetto",
+      "Drew C. Deniger",
+      "Yong-Chen Lu",
+      "Maria Parkhurst",
+      "Jared J. Gartner",
+      "Li Jia",
+      "Satyajit Ray",
+      "Lien T. Ngo",
+      "Mohammad Jafferji",
+      "Abraham Sachs",
+      "Todd Prickett",
+      "Paul F. Robbins",
+      "Steven A. Rosenberg"
+    ]
+  },
+  "article_index": 134,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T17:20:10.454384"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T17:20:12.025725"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T17:20:13.440185"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T22:40:10.978898"
+    },
+    "last_updated": "2025-10-03T22:40:10.979088"
+  }
+}

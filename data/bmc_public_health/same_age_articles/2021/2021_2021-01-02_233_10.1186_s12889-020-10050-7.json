@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.656463",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10050-7",
+    "title": "Economic burden of work injuries and diseases: a framework and application in five European Union countries",
+    "article_number": "49",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Emile Tompa",
+      "Amirabbas Mofidi",
+      "Swenneke van den Heuvel",
+      "Thijmen van Bree",
+      "Frithjof Michaelsen",
+      "Young Jung",
+      "Lukas Porsch",
+      "Martijn van Emmerik"
+    ]
+  },
+  "article_index": 233,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T13:49:14.941842"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T13:49:16.515983"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T13:49:17.798244"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T21:20:44.949930"
+    },
+    "last_updated": "2025-10-03T21:20:44.950118"
+  }
+}

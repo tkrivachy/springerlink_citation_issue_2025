@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.883910",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13893-w",
+    "title": "Ultra-thin van der Waals crystals as semiconductor quantum wells",
+    "article_number": "125",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Johanna Zultak",
+      "Samuel J. Magorrian",
+      "Maciej Koperski",
+      "Alistair Garner",
+      "Matthew J. Hamer",
+      "Endre Tóvári",
+      "Kostya S. Novoselov",
+      "Alexander A. Zhukov",
+      "Yichao Zou",
+      "Neil R. Wilson",
+      "Sarah J. Haigh",
+      "Andrey V. Kretinin",
+      "Vladimir I. Fal’ko",
+      "Roman Gorbachev"
+    ]
+  },
+  "article_index": 63,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T18:17:49.987251"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T18:17:51.547229"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:17:52.845318"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T22:59:48.150155"
+    },
+    "last_updated": "2025-10-03T22:59:48.150378"
+  }
+}

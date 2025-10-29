@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-84983-z</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-024-84983-z</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Post-myocardial infarction ventricular septal defects: incidence and treatment trends during and after the COVID-19 pandemic</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Nasso</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Condello</surname>
+                <given-names>Ignazio</given-names>
+              </name>
+              <address>
+                <email>ignicondello@hotmail.it</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au3" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Vignaroli</surname>
+                <given-names>Walter</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Antonazzo</surname>
+                <given-names>Andrea</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Bartolomucci</surname>
+                <given-names>Francesco</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Pala</surname>
+                <given-names>Barbara</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Larosa</surname>
+                <given-names>Claudio</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Pingitore</surname>
+                <given-names>Annachiara</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Amodeo</surname>
+                <given-names>Vincenzo</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Montemurro</surname>
+                <given-names>Vincenzo</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>D’Abramo</surname>
+                <given-names>Mizar</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <name name-style="western">
+                <surname>Ceravolo</surname>
+                <given-names>Roberto</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <name name-style="western">
+                <surname>Donato</surname>
+                <given-names>Domenica</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <name name-style="western">
+                <surname>Fratto</surname>
+                <given-names>Pasquale</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <name name-style="western">
+                <surname>De Rosis</surname>
+                <given-names>Maria Grazia</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au16">
+              <name name-style="western">
+                <surname>Diaferia</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au17">
+              <name name-style="western">
+                <surname>Torraco</surname>
+                <given-names>Rita</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au18">
+              <name name-style="western">
+                <surname>Contegiacomo</surname>
+                <given-names>Gaetano</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au19">
+              <name name-style="western">
+                <surname>Lembo</surname>
+                <given-names>Guido</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au20">
+              <name name-style="western">
+                <surname>Brigiani</surname>
+                <given-names>Mario Siro</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au21">
+              <name name-style="western">
+                <surname>Santarpino</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au22">
+              <name name-style="western">
+                <surname>Speziale</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue>1</issue>
+          <elocation-id>445</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-024-84983-z</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-024-84983-z.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2025</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Ventricular septal defect (VSD) is a serious complication of myocardial infarction (MI), with its global incidence significantly reduced in recent years due to advances in coronary reperfusion techniques. However, during the COVID-19 pandemic, there was an unexpected rise in the incidence of post-MI VSD, likely driven by delays in seeking treatment. This study retrospectively analyzed 10 cases of post-MI VSD treated at our hospitals from March 2018 to August 2023, comparing incidence rates across pre-pandemic, pandemic, and post-pandemic periods. The findings revealed a notable increase in VSD cases during the pandemic, with six cases occurring in two years, compared to only two cases in each of the pre-pandemic and post-pandemic periods. Despite these fluctuations, surgical intervention remained a crucial and effective treatment, with 60% of patients surviving the 30-day follow-up. The study underscores the impact of delayed treatment on VSD incidence during the pandemic and highlights the critical need for timely medical intervention to manage severe MI complications effectively.</p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>COVID-19 pandemic</kwd>
+            <kwd>Ventricular Setpal defect</kwd>
+            <kwd>Myocardial infarction</kwd>
+            <kwd>Post-MI complications</kwd>
+            <kwd>Delayed treatment</kwd>
+            <kwd>Surgical correction</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Congenital heart defects</kwd>
+            <kwd>Ventricular tachycardia</kwd>
+            <kwd>Ventricular fibrillation</kwd>
+            <kwd>VDJ recombination</kwd>
+            <kwd>Cardiovascular Diseases</kwd>
+            <kwd>Valvular disease</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1103">Clinical Sciences</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

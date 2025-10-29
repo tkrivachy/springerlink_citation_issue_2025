@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.886639",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13951-3",
+    "title": "Mechanisms of triplet energy transfer across the inorganic nanocrystal/organic molecule interface",
+    "article_number": "28",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiao Luo",
+      "Yaoyao Han",
+      "Zongwei Chen",
+      "Yulu Li",
+      "Guijie Liang",
+      "Xue Liu",
+      "Tao Ding",
+      "Chengming Nie",
+      "Mei Wang",
+      "Felix N. Castellano",
+      "Kaifeng Wu"
+    ]
+  },
+  "article_index": 84,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T18:12:56.949573"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 173,
+      "retrieved_at": "2025-10-03T18:12:58.475501"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 156,
+      "retrieved_at": "2025-10-03T18:12:59.885191"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T22:58:06.091122"
+    },
+    "last_updated": "2025-10-03T22:58:06.091191"
+  }
+}

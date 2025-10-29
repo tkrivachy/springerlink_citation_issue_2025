@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.848979",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03780-0",
+    "title": "Frequency and component analysis of contaminants generated in preparation of anticancer agents using closed system drug transfer devices (CSTDs)",
+    "article_number": "139",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Satomi Sumikawa",
+      "Yoshihiro Yakushijin",
+      "Kenjiro Aogi",
+      "Takuya Yano",
+      "Chiyuki Tsukui",
+      "Tadashi Noguchi",
+      "Taro Shiraishi",
+      "Yasuhiro Horikawa",
+      "Yasuo Yasuoka",
+      "Akihiro Tanaka",
+      "Noriaki Hidaka",
+      "Mamoru Tanaka"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:22:32.392304"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:22:33.909273"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:22:35.209885"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:56:49.868007"
+    },
+    "last_updated": "2025-10-03T21:56:49.868106"
+  }
+}

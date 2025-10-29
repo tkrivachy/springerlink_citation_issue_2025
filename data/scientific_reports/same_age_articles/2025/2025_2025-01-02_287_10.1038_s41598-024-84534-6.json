@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.379632",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84534-6",
+    "title": "Enhancing the performance of SSVEP-based BCIs by combining task-related component analysis and deep neural network",
+    "article_number": "365",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qingguo Wei",
+      "Chang Li",
+      "Yijun Wang",
+      "Xiaorong Gao"
+    ]
+  },
+  "article_index": 287,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:13.201564"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:14.721672"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:15.880953"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:33:42.686368"
+    },
+    "last_updated": "2025-10-03T22:33:42.686443"
+  }
+}

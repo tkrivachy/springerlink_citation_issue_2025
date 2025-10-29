@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.350387",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84638-z",
+    "title": "Evaluation of postoperative drainage necessity in posterior atlantoaxial fixation via intermuscular approach for odontoid fracture",
+    "article_number": "482",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhenji Xu",
+      "Ji Wu",
+      "Yong Li",
+      "Haibin Wang",
+      "Fei Chen",
+      "Bin Ni",
+      "Xuhua Lu",
+      "Qunfeng Guo"
+    ]
+  },
+  "article_index": 85,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:41.292314"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:42.841389"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:58:44.007537"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:32:21.388923"
+    },
+    "last_updated": "2025-10-03T22:32:21.389115"
+  }
+}

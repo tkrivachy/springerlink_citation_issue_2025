@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.539126",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55776-9",
+    "title": "Interfacial coupling effects in two-dimensional ordered arrays for microwave attenuation",
+    "article_number": "202",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yijie Liu",
+      "Jintang Zhou",
+      "Chenchen Li",
+      "Henghui Zhang",
+      "Yucheng Wang",
+      "Yi Yan",
+      "Lvtong Duan",
+      "Zhenyu Cheng",
+      "Yao Ma",
+      "Zhengjun Yao"
+    ]
+  },
+  "article_index": 197,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:24:40.823612"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T19:24:42.416732"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:24:43.563543"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:22:24.589083"
+    },
+    "last_updated": "2025-10-03T23:22:24.589182"
+  }
+}

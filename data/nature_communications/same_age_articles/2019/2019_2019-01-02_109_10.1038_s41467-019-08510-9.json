@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.689001",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08510-9",
+    "title": "Publisher Correction: Long-term functional and structural preservation of precision-cut human myocardium under continuous electromechanical stimulation in vitro",
+    "article_number": "532",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Carola Fischer",
+      "Hendrik Milting",
+      "Evelyn Fein",
+      "Elisabeth Reiser",
+      "Kun Lu",
+      "Thomas Seidel",
+      "Camilla Schinner",
+      "Thomas Schwarzmayr",
+      "Rene Schramm",
+      "Roland Tomasi",
+      "Britta Husse",
+      "Xiaochun Cao-Ehlker",
+      "Ulrich Pohl",
+      "Andreas Dendorfer"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:15:20.510050"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:15:22.027380"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T17:15:23.303935"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:38:34.931207"
+    },
+    "last_updated": "2025-10-03T22:38:34.931432"
+  }
+}

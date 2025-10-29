@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.216192",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79080-w",
+    "title": "Peripheral blood neurotrophic factor levels in children with autism spectrum disorder: a meta-analysis",
+    "article_number": "15",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shu-Han Liu",
+      "Xiao-Jie Shi",
+      "Fang-Cheng Fan",
+      "Yong Cheng"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:33:41.928796"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T14:33:43.503073"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T14:33:44.651485"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T21:36:53.186454"
+    },
+    "last_updated": "2025-10-03T21:36:53.186522"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.670481",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44342-4",
+    "title": "KRAS allelic imbalance drives tumour initiation yet suppresses metastasis in colorectal cancer in vivo",
+    "article_number": "100",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Arafath K. Najumudeen",
+      "Sigrid K. Fey",
+      "Laura M. Millett",
+      "Catriona A. Ford",
+      "Kathryn Gilroy",
+      "Nuray Gunduz",
+      "Rachel A. Ridgway",
+      "Eve Anderson",
+      "Douglas Strathdee",
+      "William Clark",
+      "Colin Nixon",
+      "Jennifer P. Morton",
+      "Andrew D. Campbell",
+      "Owen J. Sansom"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:03:25.047276"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:03:26.786479"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:03:27.935802"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:15:09.404814"
+    },
+    "last_updated": "2025-10-03T23:15:09.405006"
+  }
+}

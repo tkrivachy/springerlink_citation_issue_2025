@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.838657",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50707-y",
+    "title": "Evaluating sheep hemoglobins with MD simulations as an animal model for sickle cell disease",
+    "article_number": "276",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Caroline E. Kuczynski",
+      "Christopher D. Porada",
+      "Anthony Atala",
+      "Samuel S. Cho",
+      "Graça Almeida-Porada"
+    ]
+  },
+  "article_index": 116,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:45:34.442764"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:45:35.945282"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:45:37.119572"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:06:04.268246"
+    },
+    "last_updated": "2025-10-03T22:06:04.268471"
+  }
+}

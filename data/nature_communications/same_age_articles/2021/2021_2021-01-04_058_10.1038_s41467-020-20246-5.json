@@ -1,0 +1,71 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.183458",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20246-5",
+    "title": "Disease risk scores for skin cancers",
+    "article_number": "160",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pierre Fontanillas",
+      "Babak Alipanahi",
+      "Nicholas A. Furlotte",
+      "Michaela Johnson",
+      "Catherine H. Wilson",
+      "Michelle Agee",
+      "Michelle Agee",
+      "Robert K. Bell",
+      "Katarzyna Bryc",
+      "Sarah L. Elson",
+      "David A. Hinds",
+      "Karen E. Huber",
+      "Aaron Kleinman",
+      "Nadia K. Litterman",
+      "Jennifer C. McCreight",
+      "Matthew H. McIntyre",
+      "Joanna L. Mountain",
+      "Elizabeth S. Noblin",
+      "Carrie A. M. Northover",
+      "J. Fah Sathirapongsasuti",
+      "Olga V. Sazonova",
+      "Janie F. Shelton",
+      "Suyash Shringarpure",
+      "Chao Tian",
+      "Joyce Y. Tung",
+      "Vladimir Vacic",
+      "Steven J. Pitts",
+      "Robert Gentleman",
+      "Adam Auton"
+    ]
+  },
+  "article_index": 58,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:23:06.199368"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:23:07.764967"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:23:09.230712"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T23:01:35.280854"
+    },
+    "last_updated": "2025-10-03T23:01:35.280954"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.869306",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03846-z",
+    "title": "Country-specific optimization strategy for testing through contact tracing can help maintain a low reproduction number (",
+    "article_number": "212",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Uddipan Sarma",
+      "Bhaswar Ghosh"
+    ]
+  },
+  "article_index": 117,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:11:55.692799"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:11:57.242958"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:11:58.501080"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T21:52:11.290621"
+    },
+    "last_updated": "2025-10-03T21:52:11.290707"
+  }
+}

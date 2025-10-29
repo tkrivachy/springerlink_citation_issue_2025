@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.878975",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13994-6",
+    "title": "Color-tunable single-fluorophore supramolecular system with assembly-encoded emission",
+    "article_number": "158",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qian Wang",
+      "Qi Zhang",
+      "Qi-Wei Zhang",
+      "Xin Li",
+      "Cai-Xin Zhao",
+      "Tian-Yi Xu",
+      "Da-Hui Qu",
+      "He Tian"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 176,
+      "retrieved_at": "2025-10-03T18:13:14.473686"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 264,
+      "retrieved_at": "2025-10-03T18:13:16.028254"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 244,
+      "retrieved_at": "2025-10-03T18:13:17.234863"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 275,
+      "retrieved_at": "2025-10-03T22:58:10.226084"
+    },
+    "last_updated": "2025-10-03T22:58:10.226272"
+  }
+}

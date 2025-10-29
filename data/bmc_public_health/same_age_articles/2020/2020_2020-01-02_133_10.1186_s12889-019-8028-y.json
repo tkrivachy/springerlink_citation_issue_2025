@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.685785",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8028-y",
+    "title": "C-reactive protein mediates the association between leisure-time physical activity and lung function in middle-aged and older adults",
+    "article_number": "6",
+    "publication_date": "2020-01-06",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Meng Chen",
+      "Chuanying Huang",
+      "Wenjing Feng",
+      "Yujie Li",
+      "Yili Wu"
+    ]
+  },
+  "article_index": 133,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:35:22.283029"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:35:23.872948"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:35:25.120387"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:15:44.400748"
+    },
+    "last_updated": "2025-10-03T21:15:44.400941"
+  }
+}

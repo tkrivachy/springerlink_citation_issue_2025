@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.360079",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84364-6",
+    "title": "Vitality insights of fish escaping from a sorting grid installed on a bottom trawl net",
+    "article_number": "552",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Andrea Petetta",
+      "Bent Herrmann",
+      "Daniel Li Veli",
+      "Giovanni Canduci",
+      "Ivan Tatone",
+      "Sara Bonanomi",
+      "Lorenzo Jacopo De Santis",
+      "Giordano Giuliani",
+      "Massimo Virgili",
+      "Paolo Carpentieri",
+      "Alessandro Lucchetti"
+    ]
+  },
+  "article_index": 127,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:44:47.043727"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:44:48.583370"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:44:49.747381"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:27:35.277616"
+    },
+    "last_updated": "2025-10-03T22:27:35.277717"
+  }
+}

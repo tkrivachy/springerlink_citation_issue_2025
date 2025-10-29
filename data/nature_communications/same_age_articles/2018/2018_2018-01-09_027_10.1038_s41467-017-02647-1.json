@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607772",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02647-1",
+    "title": "Unidirectional spin density wave state in metallic (Sr",
+    "article_number": "103",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiang Chen",
+      "Julian L. Schmehr",
+      "Zahirul Islam",
+      "Zach Porter",
+      "Eli Zoghlin",
+      "Kenneth Finkelstein",
+      "Jacob P. C. Ruff",
+      "Stephen D. Wilson"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:59.662817",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T11:44:08.226726"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:08:11.009888"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T17:08:12.164947"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T22:35:59.662625"
+    }
+  }
+}

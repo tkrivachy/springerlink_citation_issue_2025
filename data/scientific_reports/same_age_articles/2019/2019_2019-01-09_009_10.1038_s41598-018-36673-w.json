@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:40:57.087074",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-09",
+  "article_data": {
+    "doi": "10.1038/s41598-018-36673-w",
+    "title": "Whole rumen metagenome sequencing allows classifying and predicting feed efficiency and intake levels in cattle",
+    "article_number": "11",
+    "publication_date": "2019-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Beatriz Delgado",
+      "Alex Bach",
+      "Isabel Guasch",
+      "Carmen González",
+      "Guillermo Elcoso",
+      "Jennie E. Pryce",
+      "Oscar Gonzalez-Recio"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T14:21:29.738667"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 100,
+      "retrieved_at": "2025-10-03T14:21:31.358753"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T14:21:32.751407"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T21:31:59.459741"
+    },
+    "last_updated": "2025-10-03T21:31:59.459874"
+  }
+}

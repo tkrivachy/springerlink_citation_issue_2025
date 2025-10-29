@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.247179",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80137-z",
+    "title": "Causes of variations of trace and rare earth elements concentration in lakes bottom sediments in the Bory Tucholskie National Park, Poland",
+    "article_number": "244",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mariusz Sojka",
+      "Adam Choiński",
+      "Mariusz Ptak",
+      "Marcin Siepak"
+    ]
+  },
+  "article_index": 249,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:44:12.035987"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T14:44:13.554628"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:44:14.697852"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T21:41:08.308908"
+    },
+    "last_updated": "2025-10-03T21:41:08.309008"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.368956",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84079-8",
+    "title": "Galectin 9 rescues the inducibility of IL-10 expression in regulatory B cells of patients with food allergy",
+    "article_number": "196",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Huang Huang",
+      "Minyao Li",
+      "Shuo Song",
+      "Shiyu Feng",
+      "Xiaoyang Feng",
+      "Yu Liu",
+      "Pingchang Yang",
+      "Pengyuan Zheng"
+    ]
+  },
+  "article_index": 193,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:12.145061"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:13.694077"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:58:14.890490"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:32:10.128253"
+    },
+    "last_updated": "2025-10-03T22:32:10.128300"
+  }
+}

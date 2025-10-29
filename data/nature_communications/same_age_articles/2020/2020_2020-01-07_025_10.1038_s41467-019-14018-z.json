@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.879538",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14018-z",
+    "title": "Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks",
+    "article_number": "166",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Matteo Marouf",
+      "Pierre Machart",
+      "Vikas Bansal",
+      "Christoph Kilian",
+      "Daniel S. Magruder",
+      "Christian F. Krebs",
+      "Stefan Bonn"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 172,
+      "retrieved_at": "2025-10-03T18:12:13.866568"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 176,
+      "retrieved_at": "2025-10-03T18:12:15.428224"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T18:12:16.815900"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 212,
+      "retrieved_at": "2025-10-03T22:57:50.762664"
+    },
+    "last_updated": "2025-10-03T22:57:50.762855"
+  }
+}

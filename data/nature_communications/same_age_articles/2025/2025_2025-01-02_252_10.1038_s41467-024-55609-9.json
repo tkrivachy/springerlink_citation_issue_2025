@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.548200",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55609-9",
+    "title": "Noradrenergic inputs from the locus coeruleus to anterior piriform cortex and the olfactory bulb modulate olfactory outputs",
+    "article_number": "260",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chi Geng",
+      "Ruochen Li",
+      "Shan Li",
+      "Penglai Liu",
+      "Yuxin Peng",
+      "Changyu Liu",
+      "Zhen Wang",
+      "Hongxing Zhang",
+      "Anan Li"
+    ]
+  },
+  "article_index": 252,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:20:57.136484"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:20:58.687141"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:20:59.892584"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:21:09.456440"
+    },
+    "last_updated": "2025-10-03T23:21:09.456527"
+  }
+}

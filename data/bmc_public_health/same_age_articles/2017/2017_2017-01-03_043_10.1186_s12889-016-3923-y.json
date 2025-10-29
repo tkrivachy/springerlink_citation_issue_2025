@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.444792",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3923-y",
+    "title": "Working conditions and public health risks in slaughterhouses in western Kenya",
+    "article_number": "14",
+    "publication_date": "2017-01-05",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Elizabeth Anne Jessie Cook",
+      "William Anson de Glanville",
+      "Lian Francesca Thomas",
+      "Samuel Kariuki",
+      "Barend Mark de Clare Bronsvoort",
+      "Eric Maurice Fèvre"
+    ]
+  },
+  "article_index": 43,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T13:23:51.860294"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T13:23:53.411321"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T13:23:54.814434"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T21:11:34.839090"
+    },
+    "last_updated": "2025-10-03T21:11:34.839279"
+  }
+}

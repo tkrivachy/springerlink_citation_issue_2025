@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.654110",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10078-9",
+    "title": "What do Australian health consumers believe about commercial advertisements and testimonials? a survey on health service advertising",
+    "article_number": "74",
+    "publication_date": "2021-01-07",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "ACL Holden",
+      "S. Nanayakkara",
+      "J. Skinner",
+      "H. Spallek",
+      "W. Sohn"
+    ]
+  },
+  "article_index": 210,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:45:01.006996"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:45:02.562873"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:45:03.841108"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:19:13.884576"
+    },
+    "last_updated": "2025-10-03T21:19:13.884647"
+  }
+}

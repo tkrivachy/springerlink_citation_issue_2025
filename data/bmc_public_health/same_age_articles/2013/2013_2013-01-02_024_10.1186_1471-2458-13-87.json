@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.809727",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-87",
+    "title": "Burden of childhood diseases and malnutrition in a semi-urban slum in southern India",
+    "article_number": "87",
+    "publication_date": "2013-01-30",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Rajiv Sarkar",
+      "Prabhu Sivarathinaswamy",
+      "Bhuvaneshwari Thangaraj",
+      "Kulandaipalayam Natarajan Chella Sindhu",
+      "Sitara Swarna Rao Ajjampur",
+      "Jayaprakash Muliyil",
+      "Vinohar Balraj",
+      "Elena N Naumova",
+      "Honorine Ward",
+      "Gagandeep Kang"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T12:52:57.921792"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T12:52:59.671639"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T12:53:01.006619"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T21:00:09.924179"
+    },
+    "last_updated": "2025-10-03T21:00:09.924413"
+  }
+}

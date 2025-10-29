@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.747283",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-91",
+    "title": "Associations between children’s independent mobility and physical activity",
+    "article_number": "91",
+    "publication_date": "2014-01-29",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Stephanie Schoeppe",
+      "Mitch J Duncan",
+      "Hannah M Badland",
+      "Melody Oliver",
+      "Matthew Browne"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T12:56:43.503880"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T12:56:45.034628"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T12:56:46.382073"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T21:01:34.480911"
+    },
+    "last_updated": "2025-10-03T21:01:34.481007"
+  }
+}

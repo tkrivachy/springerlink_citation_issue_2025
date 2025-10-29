@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.885338",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04400-7",
+    "title": "Monitoring geological storage of CO",
+    "article_number": "297",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Manzar Fawad",
+      "Nazmul Haque Mondol"
+    ]
+  },
+  "article_index": 266,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:27:00.031176"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T15:27:01.590607"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:27:02.761503"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T21:58:37.142132"
+    },
+    "last_updated": "2025-10-03T21:58:37.142201"
+  }
+}

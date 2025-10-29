@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.192355",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20285-y",
+    "title": "Insights into SusCD-mediated glycan import by a prominent gut symbiont",
+    "article_number": "44",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Declan A. Gray",
+      "Joshua B. R. White",
+      "Abraham O. Oluwole",
+      "Parthasarathi Rath",
+      "Amy J. Glenwright",
+      "Adam Mazur",
+      "Michael Zahn",
+      "Arnaud Baslé",
+      "Carl Morland",
+      "Sasha L. Evans",
+      "Alan Cartmell",
+      "Carol V. Robinson",
+      "Sebastian Hiller",
+      "Neil A. Ranson",
+      "David N. Bolam",
+      "Bert van den Berg"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:32:38.928295"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:32:40.499453"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T18:32:41.684524"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T23:04:55.647302"
+    },
+    "last_updated": "2025-10-03T23:04:55.647537"
+  }
+}

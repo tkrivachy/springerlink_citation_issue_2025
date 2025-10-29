@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.680628",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08398-5",
+    "title": "Continuous dynamic adjustment of the plant circadian oscillator",
+    "article_number": "550",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alex A. R. Webb",
+      "Motohide Seki",
+      "Akiko Satake",
+      "Camila Caldana"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:59:23.894372"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T17:59:25.429130"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 119,
+      "retrieved_at": "2025-10-03T17:59:26.864815"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T22:53:47.191360"
+    },
+    "last_updated": "2025-10-03T22:53:47.191558"
+  }
+}

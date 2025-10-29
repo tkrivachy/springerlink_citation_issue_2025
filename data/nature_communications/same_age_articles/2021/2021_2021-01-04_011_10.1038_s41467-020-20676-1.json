@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.174593",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20676-1",
+    "title": "Author Correction: High-resolution sampling of beam-driven plasma wakefields",
+    "article_number": "371",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "S. Schröder",
+      "C. A. Lindstrøm",
+      "S. Bohlen",
+      "G. Boyle",
+      "R. D’Arcy",
+      "S. Diederichs",
+      "M. J. Garland",
+      "P. Gonzalez",
+      "A. Knetsch",
+      "V. Libov",
+      "P. Niknejadi",
+      "Kris Põder",
+      "L. Schaper",
+      "B. Schmidt",
+      "B. Sheeran",
+      "G. Tauscher",
+      "S. Wesch",
+      "J. Zemella",
+      "M. Zeng",
+      "J. Osterhoff"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:41:11.822074"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:41:13.365991"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:41:14.581615"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:07:46.015572"
+    },
+    "last_updated": "2025-10-03T23:07:46.015760"
+  }
+}

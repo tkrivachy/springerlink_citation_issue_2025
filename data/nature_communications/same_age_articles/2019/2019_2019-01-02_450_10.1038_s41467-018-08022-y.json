@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.726182",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08022-y",
+    "title": "Spin-Orbit induced phase-shift in Bi",
+    "article_number": "126",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alexandre Assouline",
+      "Cheryl Feuillet-Palma",
+      "Nicolas Bergeal",
+      "Tianzhen Zhang",
+      "Alireza Mottaghizadeh",
+      "Alexandre Zimmers",
+      "Emmanuel Lhuillier",
+      "Mahmoud Eddrie",
+      "Paola Atkinson",
+      "Marco Aprili",
+      "Hervé Aubin"
+    ]
+  },
+  "article_index": 450,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:43:52.490140"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T17:43:54.008779"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T17:43:55.823298"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 136,
+      "retrieved_at": "2025-10-03T22:48:12.526234"
+    },
+    "last_updated": "2025-10-03T22:48:12.526281"
+  }
+}

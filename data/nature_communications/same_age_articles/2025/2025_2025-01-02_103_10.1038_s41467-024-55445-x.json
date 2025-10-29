@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.524041",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55445-x",
+    "title": "A stable and biocompatible shortwave infrared nanoribbon for dual-channel in vivo imaging",
+    "article_number": "4",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cheng Yao",
+      "Ruwei Wei",
+      "Xiao Luo",
+      "Jie Zhou",
+      "Xiaodong Zhang",
+      "Xicun Lu",
+      "Yan Dong",
+      "Ruofan Chu",
+      "Yuxin Sun",
+      "Yu Wang",
+      "Wencheng Xia",
+      "Dahui Qu",
+      "Cong Liu",
+      "Jun Ren",
+      "Guangbo Ge",
+      "Jinquan Chen",
+      "Xuhong Qian",
+      "Youjun Yang"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:29:39.915960"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:29:41.469737"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:29:42.670059"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:23:57.821941"
+    },
+    "last_updated": "2025-10-03T23:23:57.822129"
+  }
+}

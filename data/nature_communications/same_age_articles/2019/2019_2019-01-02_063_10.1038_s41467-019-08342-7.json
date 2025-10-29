@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.683794",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08342-7",
+    "title": "The path of pre-ribosomes through the nuclear pore complex revealed by electron tomography",
+    "article_number": "497",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Franck Delavoie",
+      "Vanessa Soldan",
+      "Dana Rinaldi",
+      "Jean-Yves Dauxois",
+      "Pierre-Emmanuel Gleizes"
+    ]
+  },
+  "article_index": 63,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T17:35:13.983090"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:35:15.511844"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T17:35:16.833148"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T22:45:23.853362"
+    },
+    "last_updated": "2025-10-03T22:45:23.853560"
+  }
+}

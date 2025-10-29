@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.667002",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44550-y",
+    "title": "Disentangling microbial networks across pelagic zones in the tropical and subtropical global ocean",
+    "article_number": "126",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ina M. Deutschmann",
+      "Erwan Delage",
+      "Caterina R. Giner",
+      "Marta Sebastián",
+      "Julie Poulain",
+      "Javier Arístegui",
+      "Carlos M. Duarte",
+      "Silvia G. Acinas",
+      "Ramon Massana",
+      "Josep M. Gasol",
+      "Damien Eveillard",
+      "Samuel Chaffron",
+      "Ramiro Logares"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:05:09.525727"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:05:11.078011"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:05:12.377403"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T23:15:49.521812"
+    },
+    "last_updated": "2025-10-03T23:15:49.521858"
+  }
+}

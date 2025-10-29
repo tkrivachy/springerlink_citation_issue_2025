@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694158",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08309-8",
+    "title": "A highly active Ni(II)-triadamantylphosphine catalyst for ultrahigh-molecular-weight polyethylene synthesis",
+    "article_number": "438",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andrew L. Kocen",
+      "Maurice Brookhart",
+      "Olafs Daugulis"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:41:49.836738"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T17:41:51.343806"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T17:41:52.501461"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T22:47:27.667252"
+    },
+    "last_updated": "2025-10-03T22:47:27.667483"
+  }
+}

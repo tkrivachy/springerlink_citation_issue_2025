@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.677908",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08518-1",
+    "title": "Noisy defects in the high-",
+    "article_number": "544",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "F. Massee",
+      "Y. K. Huang",
+      "M. S. Golden",
+      "M. Aprili"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:48:07.595910"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T17:48:09.148140"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T17:48:10.336579"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T22:49:37.446301"
+    },
+    "last_updated": "2025-10-03T22:49:37.446469"
+  }
+}

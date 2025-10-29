@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.887578",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04175-x",
+    "title": "BDNF Val66Met gene polymorphism modulates brain activity following rTMS-induced memory impairment",
+    "article_number": "176",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kilian Abellaneda-Pérez",
+      "Pablo Martin-Trias",
+      "Catherine Cassé-Perrot",
+      "Lídia Vaqué-Alcázar",
+      "Laura Lanteaume",
+      "Elisabeth Solana",
+      "Claudio Babiloni",
+      "Roberta Lizio",
+      "Carme Junqué",
+      "Núria Bargalló",
+      "Paolo Maria Rossini",
+      "Joëlle Micallef",
+      "Romain Truillet",
+      "Estelle Charles",
+      "Elisabeth Jouve",
+      "Régis Bordet",
+      "Joan Santamaria",
+      "Simone Rossi",
+      "Alvaro Pascual-Leone",
+      "Olivier Blin",
+      "Jill Richardson",
+      "Jorge Jovicich",
+      "David Bartrés-Faz"
+    ]
+  },
+  "article_index": 288,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:18:23.272689"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:18:24.828531"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:18:26.125763"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:55:14.500607"
+    },
+    "last_updated": "2025-10-03T21:55:14.500654"
+  }
+}

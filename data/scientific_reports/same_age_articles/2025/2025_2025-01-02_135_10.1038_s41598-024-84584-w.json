@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.362749",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84584-w",
+    "title": "SLC35A2 is a novel prognostic biomarker and promotes cell proliferation and metastasis via Wnt/β-catenin/EMT signaling pathway in breast cancer",
+    "article_number": "130",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Rushu Yan",
+      "Tianwen Chen"
+    ]
+  },
+  "article_index": 135,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:34:43.143417"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:34:44.715468"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:36.274213"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:23:55.172553"
+    },
+    "last_updated": "2025-10-07T09:52:36.274321"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.648852",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10116-6",
+    "title": "Improved dynamics of sharing research findings in the COVID-19 epidemic compared with the SARS and Ebola epidemics",
+    "article_number": "105",
+    "publication_date": "2021-01-09",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Javad Khanali",
+      "Mohammad-Reza Malekpour",
+      "Ali-Asghar Kolahi"
+    ]
+  },
+  "article_index": 159,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:51:12.384928"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:51:13.938187"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:51:15.204603"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:21:24.404067"
+    },
+    "last_updated": "2025-10-03T21:21:24.404254"
+  }
+}

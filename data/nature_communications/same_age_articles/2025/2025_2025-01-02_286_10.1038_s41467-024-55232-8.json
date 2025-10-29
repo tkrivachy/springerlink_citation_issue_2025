@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.557014",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55232-8",
+    "title": "FYN regulates aqueous humor outflow and IOP through the phosphorylation of VE-CADHERIN",
+    "article_number": "51",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Krishnakumar Kizhatil",
+      "Graham M. Clark",
+      "Daniel K. Sunderland",
+      "Aakriti Bhandari",
+      "Logan J. Horbal",
+      "Revathi Balasubramanian",
+      "Simon W. M. John"
+    ]
+  },
+  "article_index": 286,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:42:29.681149"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:42:31.231781"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:42:32.453284"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:28:27.165672"
+    },
+    "last_updated": "2025-10-03T23:28:27.165758"
+  }
+}

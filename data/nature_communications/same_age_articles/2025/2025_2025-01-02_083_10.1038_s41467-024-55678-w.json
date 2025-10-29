@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.521559",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55678-w",
+    "title": "Modulation of glymphatic system by visual circuit activation alleviates memory impairment and apathy in a mouse model of Alzheimer’s disease",
+    "article_number": "63",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wen Wu",
+      "Yubai Zhao",
+      "Xin Cheng",
+      "Xiaoru Xie",
+      "Yixiu Zeng",
+      "Quan Tao",
+      "Yishuai Yang",
+      "Chuan Xiao",
+      "Zhan Zhang",
+      "Jiahui Pang",
+      "Jian Jin",
+      "Hongbo He",
+      "Yangyang Lin",
+      "Boxing Li",
+      "Junxian Ma",
+      "Xiaojing Ye",
+      "Wei-Jye Lin"
+    ]
+  },
+  "article_index": 83,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:16:53.814188"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:16:55.319739"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:16:56.458972"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:19:46.722913"
+    },
+    "last_updated": "2025-10-03T23:19:46.723031"
+  }
+}

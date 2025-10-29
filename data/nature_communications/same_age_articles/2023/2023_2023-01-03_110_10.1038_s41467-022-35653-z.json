@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.653519",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35653-z",
+    "title": "Evaluation of mortality attributable to SARS-CoV-2 vaccine administration using national level data from Qatar",
+    "article_number": "24",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Adeel A. Butt",
+      "Mylai D. Guerrero",
+      "Elenor B. Canlas",
+      "Husni Al-Dwairi",
+      "Abeir Bakhiet Mohammed Ali Alimam",
+      "Abdur Rehman Mohamad",
+      "Mohammed Thamer Ali",
+      "Nidal Ahmad Asaad",
+      "Ali Ahmed Sheikh Saleh Alkeldi",
+      "Mohammad Fawaz Saber Mohammad",
+      "Anil G. Thomas",
+      "Abdullatif Al-Khal",
+      "Muna Al-Maslamani",
+      "Abdul-Badi Abou-Samra"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T18:52:09.466422"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:52:10.971754"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:52:12.165048"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:11:23.229895"
+    },
+    "last_updated": "2025-10-03T23:11:23.230088"
+  }
+}

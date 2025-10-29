@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606914",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02604-y",
+    "title": "Mechanism and structural diversity of exoribonuclease-resistant RNA structures in flaviviral RNAs",
+    "article_number": "119",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andrea MacFadden",
+      "Zoe O’Donoghue",
+      "Patricia A. G. C. Silva",
+      "Erich G. Chapman",
+      "René C. Olsthoorn",
+      "Mark G. Sterken",
+      "Gorben P. Pijlman",
+      "Peter J. Bredenbeek",
+      "Jeffrey S. Kieft"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:15.936756",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T11:43:57.555629"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T17:06:24.404906"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 107,
+      "retrieved_at": "2025-10-03T17:06:25.553942"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T22:35:15.936569"
+    }
+  }
+}

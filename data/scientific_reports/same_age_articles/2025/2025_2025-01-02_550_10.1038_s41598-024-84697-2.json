@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.409032",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84697-2",
+    "title": null,
+    "article_number": "465",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Priscila Goes Camargo",
+      "Helena Tiemi Suzukawa",
+      "Patrícia Morais Lopes Pereira",
+      "Mariana Luiza Silva",
+      "Fernando Macedo Jr",
+      "Magaly Girão Albuquerque",
+      "Carlos Rangel Rodrigues",
+      "Sueli Fumie Yamada-Ogatta",
+      "Camilo Henrique da Silva Lima",
+      "Marcelle de Lima Ferreira Bispo"
+    ]
+  },
+  "article_index": 550,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:14:46.323789"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:14:47.833133"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:40.860266"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:16:55.226024"
+    },
+    "last_updated": "2025-10-07T09:48:40.860547"
+  }
+}

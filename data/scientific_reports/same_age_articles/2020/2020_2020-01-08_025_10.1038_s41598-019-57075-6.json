@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.302398",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57075-6",
+    "title": "Mass Spectrometry Imaging of atherosclerosis-affine Gadofluorine following Magnetic Resonance Imaging",
+    "article_number": "79",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fabian Lohöfer",
+      "Rebecca Buchholz",
+      "Almut Glinzer",
+      "Katharina Huber",
+      "Helena Haas",
+      "Georgios Kaissis",
+      "Annette Feuchtinger",
+      "Michaela Aichler",
+      "Peter B. Sporns",
+      "Carsten Höltke",
+      "Miriam Stölting",
+      "Franz Schilling",
+      "René M. Botnar",
+      "Melanie A. Kimm",
+      "Cornelius Faber",
+      "Axel K. Walch",
+      "Alma Zernecke",
+      "Uwe Karst",
+      "Moritz Wildgruber"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:30:10.227842"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:30:11.757461"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:30:13.026983"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:35:23.733605"
+    },
+    "last_updated": "2025-10-03T21:35:23.733761"
+  }
+}

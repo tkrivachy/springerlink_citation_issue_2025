@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.217335",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80669-4",
+    "title": "Synergistic protective effect of ",
+    "article_number": "252",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nadia Z. Shaban",
+      "Sara E. Abd El-Kader",
+      "Fayed A. K. Mogahed",
+      "Mohamed A. L. El-Kersh",
+      "Noha H. Habashy"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:45:20.057627"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:45:21.630045"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T14:45:23.089061"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T21:41:35.546149"
+    },
+    "last_updated": "2025-10-03T21:41:35.546377"
+  }
+}

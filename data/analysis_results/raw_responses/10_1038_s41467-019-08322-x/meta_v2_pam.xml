@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-08322-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41467-019-08322-x</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Publisher Correction: Exocyst dynamics during vesicle tethering and fusion</dc:title>
+            
+	    
+            <dc:creator>Ahmed, Syed Mukhtar</dc:creator>
+            
+	    
+            <dc:creator>Nishida-Fukuda, Hisayo</dc:creator>
+            
+	    
+            <dc:creator>Li, Yuchong</dc:creator>
+            
+	    
+            <dc:creator>McDonald, W. Hayes</dc:creator>
+            
+	    
+            <dc:creator>Gradinaru, Claudiu C.</dc:creator>
+            
+	    
+            <dc:creator>Macara, Ian G.</dc:creator>
+            
+	    
+            <ns3:publicationName>Nature Communications</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2041-1723</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41467-019-08322-x</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2019-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2019-01-15</ns3:publicationDate>
+            
+	    
+            <ns3:volume>10</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>1</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41467-019-08322-x</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-019-08322-x</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-019-08322-x.pdf</ns3:url>
+            
+	    
+            <ns3:genre>Erratum</ns3:genre>
+            
+	    
+            <ns3:genre>Publisher Correction</ns3:genre>
+            
+	    
+            <ns3:copyright>©2019 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:p>The original version of this Article contained errors in the author affiliations. Affiliation 2 incorrectly read ‘Department of Biochemistry and Molecular Genetics and Breast Surgery, Ehime University Graduate School of Medicine, 7910295, Japan’ and affiliation 3 incorrectly read ‘Department of Hepato-Biliary-Pancreatic and Breast Surgery, Ehime University Graduate School of Medicine, Matsuyama 7910295, Japan.’ These errors have now been corrected in both the PDF and HTML versions of the Article.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41467</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2019-01-15</onlineDate>
+        <authors>
+          <author ORCID="0000-0002-9183-9957">Ahmed, Syed Mukhtar</author>
+          <author>Nishida-Fukuda, Hisayo</author>
+          <author>Li, Yuchong</author>
+          <author>McDonald, W. Hayes</author>
+          <author>Gradinaru, Claudiu C.</author>
+          <author>Macara, Ian G.</author>
+        </authors>
+        <disciplines>
+          <discipline id="2883" term="Humanities and Social Sciences"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2019</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Canada</facet-value>
+      <facet-value count="1">Japan</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

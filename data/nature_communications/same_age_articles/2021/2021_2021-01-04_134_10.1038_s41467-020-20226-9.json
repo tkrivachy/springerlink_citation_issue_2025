@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.195793",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20226-9",
+    "title": "Psychological characteristics associated with COVID-19 vaccine hesitancy and resistance in Ireland and the United Kingdom",
+    "article_number": "29",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jamie Murphy",
+      "Frédérique Vallières",
+      "Richard P. Bentall",
+      "Mark Shevlin",
+      "Orla McBride",
+      "Todd K. Hartman",
+      "Ryan McKay",
+      "Kate Bennett",
+      "Liam Mason",
+      "Jilly Gibson-Miller",
+      "Liat Levita",
+      "Anton P. Martinez",
+      "Thomas V. A. Stocks",
+      "Thanos Karatzias",
+      "Philip Hyland"
+    ]
+  },
+  "article_index": 134,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1037,
+      "retrieved_at": "2025-10-03T18:22:12.616360"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 950,
+      "retrieved_at": "2025-10-03T18:22:14.169407"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 934,
+      "retrieved_at": "2025-10-03T18:22:16.451919"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1134,
+      "retrieved_at": "2025-10-03T23:01:16.461120"
+    },
+    "last_updated": "2025-10-03T23:01:16.461313"
+  }
+}

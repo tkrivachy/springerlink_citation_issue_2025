@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.548509",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55739-0",
+    "title": "De novo biosynthesis of nylon 12 monomer ω-aminododecanoic acid",
+    "article_number": "175",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiawei Ge",
+      "Ting Wang",
+      "Hongwei Yu",
+      "Lidan Ye"
+    ]
+  },
+  "article_index": 255,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:35:46.169296"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:35:47.744925"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:35:48.942282"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:25:58.075290"
+    },
+    "last_updated": "2025-10-03T23:25:58.075520"
+  }
+}

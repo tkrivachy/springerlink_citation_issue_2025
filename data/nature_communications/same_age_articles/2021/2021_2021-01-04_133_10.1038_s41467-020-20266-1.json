@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.195666",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20266-1",
+    "title": "The origin of the Moon’s Earth-like tungsten isotopic composition from dynamical and geochemical modeling",
+    "article_number": "35",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rebecca A. Fischer",
+      "Nicholas G. Zube",
+      "Francis Nimmo"
+    ]
+  },
+  "article_index": 133,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:30:17.075857"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:30:18.828679"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:30:20.054799"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:04:07.957404"
+    },
+    "last_updated": "2025-10-03T23:04:07.957614"
+  }
+}

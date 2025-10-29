@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.516884",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55523-0",
+    "title": "Self-assembled materials with an ordered hydrophilic bilayer for high performance inverted Perovskite solar cells",
+    "article_number": "86",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Geping Qu",
+      "Letian Zhang",
+      "Ying Qiao",
+      "Shaokuan Gong",
+      "Yuanjia Ding",
+      "Yuli Tao",
+      "Siyuan Cai",
+      "Xiao-Yong Chang",
+      "Qian Chen",
+      "Pengfei Xie",
+      "Junyuan Feng",
+      "Changqin Gao",
+      "Guopeng Li",
+      "Hui Xiao",
+      "Fei Wang",
+      "Hanlin Hu",
+      "Jie Yang",
+      "Shi Chen",
+      "Alex K.-Y. Jen",
+      "Xihan Chen",
+      "Zong-Xiang Xu"
+    ]
+  },
+  "article_index": 49,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T19:21:37.649826"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T19:21:39.221578"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:21:40.417512"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:21:23.341769"
+    },
+    "last_updated": "2025-10-03T23:21:23.341959"
+  }
+}

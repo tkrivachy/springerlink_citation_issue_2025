@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.890674",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13959-9",
+    "title": "Cryopolymerization enables anisotropic polyaniline hybrid hydrogels with superelasticity and highly deformation-tolerant electrochemical energy storage",
+    "article_number": "62",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Le Li",
+      "Yu Zhang",
+      "Hengyi Lu",
+      "Yufeng Wang",
+      "Jingsan Xu",
+      "Jixin Zhu",
+      "Chao Zhang",
+      "Tianxi Liu"
+    ]
+  },
+  "article_index": 116,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 262,
+      "retrieved_at": "2025-10-03T18:21:43.720836"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 284,
+      "retrieved_at": "2025-10-03T18:21:45.257275"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 259,
+      "retrieved_at": "2025-10-03T18:21:46.481050"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 315,
+      "retrieved_at": "2025-10-03T23:01:08.383063"
+    },
+    "last_updated": "2025-10-03T23:01:08.383255"
+  }
+}

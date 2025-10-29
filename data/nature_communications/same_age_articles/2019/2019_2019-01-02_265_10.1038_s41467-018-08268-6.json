@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.706255",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08268-6",
+    "title": "Tip60- and sirtuin 2-regulated MARCKS acetylation and phosphorylation are required for diabetic embryopathy",
+    "article_number": "282",
+    "publication_date": "2019-01-17",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Penghua Yang",
+      "Cheng Xu",
+      "E. Albert Reece",
+      "Xi Chen",
+      "Jianxiang Zhong",
+      "Min Zhan",
+      "Deborah J. Stumpo",
+      "Perry J. Blackshear",
+      "Peixin Yang"
+    ]
+  },
+  "article_index": 265,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T17:28:11.997070"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T17:28:13.562489"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T17:28:14.732393"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T22:42:55.237443"
+    },
+    "last_updated": "2025-10-03T22:42:55.237637"
+  }
+}

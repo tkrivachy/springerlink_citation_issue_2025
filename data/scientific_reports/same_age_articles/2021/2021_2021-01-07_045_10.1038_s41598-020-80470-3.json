@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.208987",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80470-3",
+    "title": "Simultaneous and independent capture of multiple Rayleigh dielectric nanospheres with sine-modulated Gaussian beams",
+    "article_number": "125",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jingjing Su",
+      "Nan Li",
+      "Xianfan Wang",
+      "Xingfan Chen",
+      "Huizhu Hu"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:38:55.355099"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:38:56.899841"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:38:58.091136"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:39:00.475897"
+    },
+    "last_updated": "2025-10-03T21:39:00.476087"
+  }
+}

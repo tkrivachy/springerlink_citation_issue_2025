@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.826638",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-51078-0",
+    "title": "Unraveling the impact of microwave-assisted techniques in the fabrication of yttrium-doped TiO",
+    "article_number": "262",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Adam Kubiak",
+      "Michał Cegłowski"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:42:20.935135"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:42:22.455845"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:42:23.598145"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T22:04:46.042148"
+    },
+    "last_updated": "2025-10-03T22:04:46.042369"
+  }
+}

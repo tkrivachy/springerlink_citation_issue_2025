@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.683051",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08393-w",
+    "title": "Functional role of PGAM5 multimeric assemblies and their polymerization into filaments",
+    "article_number": "531",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Karen Ruiz",
+      "Tarjani M. Thaker",
+      "Christopher Agnew",
+      "Lakshmi Miller-Vedam",
+      "Raphael Trenker",
+      "Clara Herrera",
+      "Maria Ingaramo",
+      "Daniel Toso",
+      "Adam Frost",
+      "Natalia Jura"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:10:06.119371"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:10:07.620891"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:10:08.794040"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T22:36:41.453418"
+    },
+    "last_updated": "2025-10-03T22:36:41.453607"
+  }
+}

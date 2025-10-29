@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.878754",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13945-1",
+    "title": "Boosting fast energy storage by synergistic engineering of carbon and deficiency",
+    "article_number": "132",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shengjue Deng",
+      "He Zhu",
+      "Guizhen Wang",
+      "Mi Luo",
+      "Shenghui Shen",
+      "Changzhi Ai",
+      "Liang Yang",
+      "Shiwei Lin",
+      "Qinghua Zhang",
+      "Lin Gu",
+      "Bo Liu",
+      "Yan Zhang",
+      "Qi Liu",
+      "Guoxiang Pan",
+      "Qinqin Xiong",
+      "Xiuli Wang",
+      "Xinhui Xia",
+      "Jiangping Tu"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 119,
+      "retrieved_at": "2025-10-03T18:09:28.849797"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T18:09:30.405427"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T18:09:31.606512"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T22:57:00.012616"
+    },
+    "last_updated": "2025-10-03T22:57:00.012665"
+  }
+}

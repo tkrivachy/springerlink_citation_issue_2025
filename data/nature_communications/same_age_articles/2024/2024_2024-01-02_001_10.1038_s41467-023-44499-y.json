@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.665793",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44499-y",
+    "title": "Author Correction: The self-association equilibrium of DNAJA2 regulates its interaction with unfolded substrate proteins and with Hsc70",
+    "article_number": "99",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lorea Velasco-Carneros",
+      "Jorge Cuéllar",
+      "Leire Dublang",
+      "César Santiago",
+      "Jean-Didier Maréchal",
+      "Jaime Martín-Benito",
+      "Moisés Maestro",
+      "José Ángel Fernández-Higuero",
+      "Natalia Orozco",
+      "Fernando Moro",
+      "José María Valpuesta",
+      "Arturo Muga"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:00:16.933991"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:00:18.482785"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:00:19.685199"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:14:07.850174"
+    },
+    "last_updated": "2025-10-03T23:14:07.850398"
+  }
+}

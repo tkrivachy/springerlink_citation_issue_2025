@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.525209",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55414-4",
+    "title": "Highly stable perovskite solar cells with 0.30 voltage deficit enabled by a multi-functional asynchronous cross-linking",
+    "article_number": "190",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qiong Liang",
+      "Kuan Liu",
+      "Yu Han",
+      "Hao Xia",
+      "Zhiwei Ren",
+      "Dongyang Li",
+      "Tao Zhu",
+      "Lei Cheng",
+      "Zhenrong Wang",
+      "Cheng Zhu",
+      "Patrick W. K. Fong",
+      "Jiaming Huang",
+      "Qi Chen",
+      "Yang Yang",
+      "Gang Li"
+    ]
+  },
+  "article_index": 113,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:17:05.069693"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:17:06.597744"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:17:07.780163"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:19:51.003584"
+    },
+    "last_updated": "2025-10-03T23:19:51.003630"
+  }
+}

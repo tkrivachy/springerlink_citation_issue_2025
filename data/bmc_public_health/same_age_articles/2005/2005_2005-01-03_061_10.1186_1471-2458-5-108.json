@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.960311",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-108",
+    "title": "Assessing immunization data quality from routine reports in Mozambique",
+    "article_number": "108",
+    "publication_date": "2005-10-11",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "João C Mavimbe",
+      "Jørn Braa",
+      "Gunnar Bjune"
+    ]
+  },
+  "article_index": 61,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 139,
+      "retrieved_at": "2025-10-03T12:13:25.538884"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T12:13:27.054712"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T12:13:28.371696"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T20:45:59.916592"
+    },
+    "last_updated": "2025-10-03T20:45:59.916781"
+  }
+}

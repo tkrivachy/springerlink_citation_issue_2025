@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.101783",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27148-0",
+    "title": "Evolution of orbital angular momentum spectrum of broadband Laguerre–Gaussian beam in OPCPA process",
+    "article_number": "55",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Aotian Wang",
+      "Lianghong Yu",
+      "Jinfeng Li",
+      "Xiaoyan Liang"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:28:45.770821"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:28:47.318114"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:28:48.633218"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:59:20.370470"
+    },
+    "last_updated": "2025-10-03T21:59:20.370663"
+  }
+}

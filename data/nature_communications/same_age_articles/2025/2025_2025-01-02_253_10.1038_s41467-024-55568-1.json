@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.548300",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55568-1",
+    "title": "Nucleus-translocated GCLM promotes chemoresistance in colorectal cancer through a moonlighting function",
+    "article_number": "263",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jin-Fei Lin",
+      "Ze-Xian Liu",
+      "Dong-Liang Chen",
+      "Ren-Ze Huang",
+      "Fen Cao",
+      "Kai Yu",
+      "Ting Li",
+      "Hai-Yu Mo",
+      "Hui Sheng",
+      "Zhi-Bing Liang",
+      "Kun Liao",
+      "Yi Han",
+      "Shan-Shan Li",
+      "Zhao-Lei Zeng",
+      "Song Gao",
+      "Huai-Qiang Ju",
+      "Rui-Hua Xu"
+    ]
+  },
+  "article_index": 253,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:20:15.969511"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:20:17.560227"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:20:18.777683"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:20:56.481587"
+    },
+    "last_updated": "2025-10-03T23:20:56.481776"
+  }
+}

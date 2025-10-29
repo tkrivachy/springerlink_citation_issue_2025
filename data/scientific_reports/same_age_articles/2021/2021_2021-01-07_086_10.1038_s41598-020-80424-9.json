@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.214628",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80424-9",
+    "title": "Low melting oxide glasses prepared at a melt temperature of 500 °C",
+    "article_number": "214",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hirokazu Masai",
+      "Toru Nishibe",
+      "Satoshi Yamamoto",
+      "Takaaki Niizuma",
+      "Naoyuki Kitamura",
+      "Tomoko Akai",
+      "Takahiro Ohkubo",
+      "Miki Yoshida"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:47:41.697548"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:47:43.205122"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:47:44.354739"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:42:34.722563"
+    },
+    "last_updated": "2025-10-03T21:42:34.722609"
+  }
+}

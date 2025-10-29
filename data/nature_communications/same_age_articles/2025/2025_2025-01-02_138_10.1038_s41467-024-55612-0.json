@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.532253",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55612-0",
+    "title": "Efficient direct formic acid electrocatalysis enabled by rare earth-doped platinum-tellurium heterostructures",
+    "article_number": "147",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xin Lin",
+      "Shize Geng",
+      "Xianglong Du",
+      "Feiteng Wang",
+      "Xu Zhang",
+      "Fang Xiao",
+      "Zhengyi Xiao",
+      "Yucheng Wang",
+      "Jun Cheng",
+      "Zhifeng Zheng",
+      "Xiaoqing Huang",
+      "Lingzheng Bu"
+    ]
+  },
+  "article_index": 138,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:42:41.430026"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:42:42.963859"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:42:44.182266"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:28:31.839897"
+    },
+    "last_updated": "2025-10-03T23:28:31.839986"
+  }
+}

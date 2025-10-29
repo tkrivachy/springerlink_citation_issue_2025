@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303957",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57065-8",
+    "title": "The Complete Mitochondrial Genome of endemic giant tarantula, ",
+    "article_number": "74",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Vikas Kumar",
+      "Kaomud Tyagi",
+      "Rajasree Chakraborty",
+      "Priya Prasad",
+      "Shantanu Kundu",
+      "Inderjeet Tyagi",
+      "Kailash Chandra"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T14:24:50.977009"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:24:52.768001"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:24:54.026843"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:33:14.552794"
+    },
+    "last_updated": "2025-10-03T21:33:14.552982"
+  }
+}

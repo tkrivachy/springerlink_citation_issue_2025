@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.851357",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-20",
+    "title": "Attitudes of healthcare workers in U.S. hospitals regarding smallpox vaccination",
+    "article_number": "20",
+    "publication_date": "2003-06-11",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "W Katherine Yih",
+      "Tracy A Lieu",
+      "Virginia H Rêgo",
+      "Megan A O'Brien",
+      "David K Shay",
+      "Deborah S Yokoe",
+      "Richard Platt"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T11:56:59.242104"
+    },
+    "last_updated": "2025-10-03T20:42:06.086999",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:03:18.280082"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T12:03:19.538487"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T20:42:06.086802"
+    }
+  }
+}

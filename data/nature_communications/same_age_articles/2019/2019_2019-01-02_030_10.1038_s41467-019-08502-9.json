@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.680256",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08502-9",
+    "title": "The coevolution of lifespan and reversible plasticity",
+    "article_number": "538",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Irja I. Ratikainen",
+      "Hanna Kokko"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:18:23.444480"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:18:25.202866"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:18:26.547220"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T22:39:33.577729"
+    },
+    "last_updated": "2025-10-03T22:39:33.577979"
+  }
+}

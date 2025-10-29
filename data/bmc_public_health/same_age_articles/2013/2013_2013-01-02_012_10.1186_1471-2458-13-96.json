@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.808409",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-96",
+    "title": "HIV testing practices among black primary care physicians in the United States",
+    "article_number": "96",
+    "publication_date": "2013-02-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Eric Y Wong",
+      "Wilbert C Jordan",
+      "David J Malebranche",
+      "Lori L DeLaitsch",
+      "Rebecca Abravanel",
+      "Alisha Bermudez",
+      "Bryan P Baugh"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T12:51:02.586519"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:51:04.120836"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T12:51:05.441222"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T20:59:29.466628"
+    },
+    "last_updated": "2025-10-03T20:59:29.466822"
+  }
+}

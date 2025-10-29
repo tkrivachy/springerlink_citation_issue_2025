@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.963299",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-56",
+    "title": "Rapid assessment of injection practices in Cambodia, 2002",
+    "article_number": "56",
+    "publication_date": "2005-06-02",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Sirenda Vong",
+      "Joseph F Perz",
+      "Srun Sok",
+      "Seiharath Som",
+      "Susan Goldstein",
+      "Yvan Hutin",
+      "James Tulloch"
+    ]
+  },
+  "article_index": 90,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T12:21:28.327481"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T12:21:29.880455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T12:21:31.236636"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T20:48:56.666703"
+    },
+    "last_updated": "2025-10-03T20:48:56.666891"
+  }
+}

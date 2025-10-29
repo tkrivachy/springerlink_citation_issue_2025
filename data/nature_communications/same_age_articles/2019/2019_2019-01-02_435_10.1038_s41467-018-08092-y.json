@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724623",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08092-y",
+    "title": "Reducing aggregation caused quenching effect through co-assembly of PAH chromophores and molecular barriers",
+    "article_number": "169",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yinjuan Huang",
+      "Jie Xing",
+      "Qiuyu Gong",
+      "Li-Chuan Chen",
+      "Guangfeng Liu",
+      "Changjiang Yao",
+      "Zongrui Wang",
+      "Hao-Li Zhang",
+      "Zhong Chen",
+      "Qichun Zhang"
+    ]
+  },
+  "article_index": 435,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:32:28.657204"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 404,
+      "retrieved_at": "2025-10-03T17:32:30.196178"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 358,
+      "retrieved_at": "2025-10-03T17:32:31.933050"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 432,
+      "retrieved_at": "2025-10-03T22:44:25.493997"
+    },
+    "last_updated": "2025-10-03T22:44:25.494185"
+  }
+}

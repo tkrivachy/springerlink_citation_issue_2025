@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.300940",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56724-0",
+    "title": "Flexural band gaps and response attenuation of periodic piping systems enhanced with localized and distributed resonators",
+    "article_number": "85",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mohd Iqbal",
+      "Mahesh Murugan Jaya",
+      "Oreste Salvatore Bursi",
+      "Anil Kumar",
+      "Rosario Ceravolo"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:28:16.907403"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:28:18.435896"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:28:19.580320"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:34:38.516828"
+    },
+    "last_updated": "2025-10-03T21:34:38.517018"
+  }
+}

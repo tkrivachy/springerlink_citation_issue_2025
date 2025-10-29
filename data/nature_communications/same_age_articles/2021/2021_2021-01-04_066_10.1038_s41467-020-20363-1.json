@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.184670",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20363-1",
+    "title": "Pushing the limits of high-resolution polymer microscopy using antioxidants",
+    "article_number": "153",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Brooke Kuei",
+      "Enrique D. Gomez"
+    ]
+  },
+  "article_index": 66,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:40:36.803836"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:40:38.371640"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:40:39.522591"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T23:07:32.889122"
+    },
+    "last_updated": "2025-10-03T23:07:32.889312"
+  }
+}

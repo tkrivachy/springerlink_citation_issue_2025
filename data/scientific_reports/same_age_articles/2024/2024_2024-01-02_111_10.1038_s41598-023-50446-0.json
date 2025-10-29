@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.838150",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50446-0",
+    "title": "Dual-band 5G MIMO antenna with enhanced coupling reduction using metamaterials",
+    "article_number": "96",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Daud Khan",
+      "Ashfaq Ahmad",
+      "Dong-You Choi"
+    ]
+  },
+  "article_index": 111,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T15:56:11.117883"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T15:56:12.627807"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T15:56:13.769729"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T22:10:10.310979"
+    },
+    "last_updated": "2025-10-03T22:10:10.311172"
+  }
+}

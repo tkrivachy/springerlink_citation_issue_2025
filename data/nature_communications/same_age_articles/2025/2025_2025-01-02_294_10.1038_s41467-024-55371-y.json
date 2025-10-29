@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.557965",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55371-y",
+    "title": "Dietary amino acids promote glucagon-like hormone release to generate global calcium waves in adipose tissues in ",
+    "article_number": "247",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Muhammad Ahmad",
+      "Shang Wu",
+      "Shengyao Luo",
+      "Wenjia Shi",
+      "Xuan Guo",
+      "Yuansheng Cao",
+      "Norbert Perrimon",
+      "Li He"
+    ]
+  },
+  "article_index": 294,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:39.129047"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:28:40.904891"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:42.127489"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:23:38.106314"
+    },
+    "last_updated": "2025-10-03T23:23:38.106387"
+  }
+}

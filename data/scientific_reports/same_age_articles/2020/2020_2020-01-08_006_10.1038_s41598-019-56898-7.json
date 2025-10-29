@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.300456",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56898-7",
+    "title": "Single-cell adhesion force kinetics of cell populations from combined label-free optical biosensor and robotic fluidic force microscopy",
+    "article_number": "61",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Milan Sztilkovics",
+      "Tamas Gerecsei",
+      "Beatrix Peter",
+      "Andras Saftics",
+      "Sandor Kurunczi",
+      "Inna Szekacs",
+      "Balint Szabo",
+      "Robert Horvath"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T14:28:45.097925"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T14:28:46.653053"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T14:28:48.041350"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T21:34:48.950972"
+    },
+    "last_updated": "2025-10-03T21:34:48.951166"
+  }
+}

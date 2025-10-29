@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.876559",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13979-5",
+    "title": "The nuclear pore complex prevents sister chromatid recombination during replicative senescence",
+    "article_number": "160",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Paula Aguilera",
+      "Jenna Whalen",
+      "Christopher Minguet",
+      "Dmitri Churikov",
+      "Catherine Freudenreich",
+      "Marie-Noëlle Simon",
+      "Vincent Géli"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:13:45.961620"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:13:47.514491"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:13:48.825485"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T22:58:20.537220"
+    },
+    "last_updated": "2025-10-03T22:58:20.537486"
+  }
+}

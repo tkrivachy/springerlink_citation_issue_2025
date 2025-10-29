@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.100528",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27356-8",
+    "title": "A nomogram risk assessment model to predict the possibility of type II endoleak-related re-intervention after endovascular aneurysm repair (EVAR)",
+    "article_number": "14",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zongwei Liu",
+      "Yonghui Chen",
+      "Yafei Qin",
+      "Jiaxue Bi",
+      "Jiaxin Wang",
+      "Fang Niu",
+      "Xiangchen Dai"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:30:11.095421"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:30:12.665486"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:30:13.960579"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:59:56.080268"
+    },
+    "last_updated": "2025-10-03T21:59:56.080500"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.671423",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8178-y",
+    "title": "High-risk behaviors and their association with awareness of HIV status among participants of a large-scale prevention intervention in Athens, Greece",
+    "article_number": "105",
+    "publication_date": "2020-01-28",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ioanna D. Pavlopoulou",
+      "Stavroula K. Dikalioti",
+      "Ilias Gountas",
+      "Vana Sypsa",
+      "Meni Malliori",
+      "Katerina Pantavou",
+      "Don Des Jarlais",
+      "Georgios K. Nikolopoulos",
+      "Angelos Hatzakis"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:31:25.249808"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:31:26.835312"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:31:28.097811"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:14:16.228569"
+    },
+    "last_updated": "2025-10-03T21:14:16.228646"
+  }
+}

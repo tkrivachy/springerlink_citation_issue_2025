@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.680420",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08476-8",
+    "title": "Cyanobacterial antimetabolite 7-deoxy-sedoheptulose blocks the shikimate pathway to inhibit the growth of prototrophic organisms",
+    "article_number": "545",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Klaus Brilisauer",
+      "Johanna Rapp",
+      "Pascal Rath",
+      "Anna Schöllhorn",
+      "Lisa Bleul",
+      "Elisabeth Weiß",
+      "Mark Stahl",
+      "Stephanie Grond",
+      "Karl Forchhammer"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T17:50:01.427189"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T17:50:02.963977"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:50:04.150735"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T22:50:14.599274"
+    },
+    "last_updated": "2025-10-03T22:50:14.599321"
+  }
+}

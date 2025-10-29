@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.878941",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03997-z",
+    "title": "Mortality associated with nonrestorative short sleep or nonrestorative long time-in-bed in middle-aged and older adults",
+    "article_number": "189",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Takuya Yoshiike",
+      "Tomohiro Utsumi",
+      "Kentaro Matsui",
+      "Kentaro Nagao",
+      "Kaori Saitoh",
+      "Rei Otsuki",
+      "Sayaka Aritake-Okada",
+      "Masahiro Suzuki",
+      "Kenichi Kuriyama"
+    ]
+  },
+  "article_index": 204,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:09:14.511708"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T15:09:16.047537"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T15:09:17.285947"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:50:56.550576"
+    },
+    "last_updated": "2025-10-03T21:50:56.550774"
+  }
+}

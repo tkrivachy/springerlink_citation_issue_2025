@@ -1,0 +1,23 @@
+{
+  "endpoint": "meta_v1",
+  "format": "jats",
+  "test_doi": "10.1038/s41598-019-56542-4",
+  "safe_doi": "10_1038_s41598-019-56542-4",
+  "timestamp": "2025-10-20 14:06:05",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5343306064605713,
+    "content_length": "N/A",
+    "content_type": "application/xml; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/meta/v1/jats",
+    "params": {
+      "api_key": "7840cf20127b6139d41324d1fcc80058",
+      "q": "doi:10.1038/s41598-019-56542-4",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JATS XML Response\nRoot element: response\nRoot attributes: {}\nDirect children: 4\nChild elements: {'apiMessage': 1, 'query': 1, 'result': 1, 'records': 1}\nArticles found: 1\nSample DOI: 10.1038/s41598-019-56542-4\nSample title: Melanoma cell-derived exosomes in plasma of melanoma patients suppress functions of immune effector ...\nSample article number: 92\n",
+  "filename": "meta_v1_jats.xml"
+}

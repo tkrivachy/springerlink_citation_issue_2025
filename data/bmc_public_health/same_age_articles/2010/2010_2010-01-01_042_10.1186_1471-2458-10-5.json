@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.531566",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-5",
+    "title": "Long-term follow-up of beryllium sensitized workers from a single employer",
+    "article_number": "5",
+    "publication_date": "2010-01-04",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mona Duggal",
+      "David C Deubner",
+      "Anne M Curtis",
+      "Mark R Cullen"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T12:37:45.468782"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T12:37:46.983206"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T12:37:48.255208"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T20:54:50.466630"
+    },
+    "last_updated": "2025-10-03T20:54:50.466826"
+  }
+}

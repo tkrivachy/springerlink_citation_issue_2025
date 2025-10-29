@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642866",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35772-7",
+    "title": "Photonic machine learning with on-chip diffractive optics",
+    "article_number": "70",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tingzhao Fu",
+      "Yubin Zang",
+      "Yuyao Huang",
+      "Zhenmin Du",
+      "Honghao Huang",
+      "Chengyang Hu",
+      "Minghua Chen",
+      "Sigang Yang",
+      "Hongwei Chen"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T18:53:12.851395"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 188,
+      "retrieved_at": "2025-10-03T18:53:14.416209"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T18:53:15.585772"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 219,
+      "retrieved_at": "2025-10-03T23:11:44.338887"
+    },
+    "last_updated": "2025-10-03T23:11:44.339077"
+  }
+}

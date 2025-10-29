@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.430644",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3932-x",
+    "title": "Addressing health inequities in Ontario, Canada: what solutions do the public support?",
+    "article_number": "7",
+    "publication_date": "2017-01-05",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Maritt Kirst",
+      "Ketan Shankardass",
+      "Sonica Singhal",
+      "Aisha Lofters",
+      "Carles Muntaner",
+      "Carlos Quiñonez"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:21:17.569663"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:21:19.091091"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:21:20.396893"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:10:39.303509"
+    },
+    "last_updated": "2025-10-03T21:10:39.303699"
+  }
+}

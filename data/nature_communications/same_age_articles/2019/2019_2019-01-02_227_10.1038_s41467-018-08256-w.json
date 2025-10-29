@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701733",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08256-w",
+    "title": "A brain-wide functional map of the serotonergic responses to\nacute stress and fluoxetine",
+    "article_number": "350",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Joanes Grandjean",
+      "Alberto Corcoba",
+      "Martin C. Kahn",
+      "A. Louise Upton",
+      "Evan S. Deneris",
+      "Erich Seifritz",
+      "Fritjof Helmchen",
+      "Isabelle M. Mansuy",
+      "Edward O. Mann",
+      "Markus Rudin",
+      "Bechara J. Saab"
+    ]
+  },
+  "article_index": 227,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T17:59:07.089977"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T17:59:08.659025"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T17:59:10.039749"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T22:53:40.679051"
+    },
+    "last_updated": "2025-10-03T22:53:40.679242"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536156",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55327-2",
+    "title": "Northern Hemisphere sea ice variability in a transient CGCM simulation of the past 2.6 Ma",
+    "article_number": "39",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gagan Mandal",
+      "Soon-Il An",
+      "Jae-Heung Park",
+      "Kyung-Sook Yun",
+      "Chao Liu",
+      "Seungmok Paik"
+    ]
+  },
+  "article_index": 169,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:28.921955"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:30.488651"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:31.687376"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:24:13.350459"
+    },
+    "last_updated": "2025-10-03T23:24:13.350650"
+  }
+}

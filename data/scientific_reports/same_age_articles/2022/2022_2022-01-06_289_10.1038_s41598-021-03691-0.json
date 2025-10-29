@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.887685",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03691-0",
+    "title": "Effect of pulsed intravenous methylprednisolone with alternative low-dose prednisone on high-risk IgA nephropathy: a 18-month prospective clinical trial",
+    "article_number": "255",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yan Li",
+      "Rongguo Fu",
+      "Jie Gao",
+      "Li Wang",
+      "Zhaoyang Duan",
+      "Lifang Tian",
+      "Heng Ge",
+      "Xiaotao Ma",
+      "Yuzhan Zhang",
+      "Ke Li",
+      "Peihao Xu",
+      "Xuefei Tian",
+      "Zhao Chen"
+    ]
+  },
+  "article_index": 289,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:09:42.780369"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:09:44.331535"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:09:45.513992"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:51:08.313224"
+    },
+    "last_updated": "2025-10-03T21:51:08.313330"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.531283",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55562-7",
+    "title": "Reconfigurable and nonvolatile ferroelectric bulk photovoltaics based on 3R-WS",
+    "article_number": "230",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yue Gong",
+      "Ruihuan Duan",
+      "Yi Hu",
+      "Yao Wu",
+      "Song Zhu",
+      "Xingli Wang",
+      "Qijie Wang",
+      "Shu Ping Lau",
+      "Zheng Liu",
+      "Beng Kang Tay"
+    ]
+  },
+  "article_index": 132,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:21:09.258033"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:21:10.819473"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:21:12.054489"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:21:13.454118"
+    },
+    "last_updated": "2025-10-03T23:21:13.454166"
+  }
+}

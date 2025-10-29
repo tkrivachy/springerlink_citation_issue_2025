@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.725841",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08048-2",
+    "title": "Ultrafast data mining of molecular assemblies in multiplexed high-density super-resolution images",
+    "article_number": "119",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yandong Yin",
+      "Wei Ting Chelsea Lee",
+      "Eli Rothenberg"
+    ]
+  },
+  "article_index": 447,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T17:17:39.140499"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:17:40.689319"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T17:17:42.049169"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T22:39:19.654223"
+    },
+    "last_updated": "2025-10-03T22:39:19.654461"
+  }
+}

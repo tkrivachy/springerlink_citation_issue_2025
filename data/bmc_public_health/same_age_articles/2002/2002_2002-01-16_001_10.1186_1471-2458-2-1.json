@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.512189",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-1",
+    "title": "Reliability of race assessment based on the race of the ascendants: a cross-sectional study",
+    "article_number": "1",
+    "publication_date": "2002-01-16",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Sandra C Fuchs",
+      "Sylvia M Guimarães",
+      "Cristine Sortica",
+      "Fernanda Wainberg",
+      "Karine O Dias",
+      "Mariana Ughini",
+      "José Augusto S Castro",
+      "Flavio D Fuchs"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T11:53:46.348396"
+    },
+    "last_updated": "2025-10-03T20:41:30.858022",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:01:58.223437"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T12:01:59.549110"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T20:41:30.857831"
+    }
+  }
+}

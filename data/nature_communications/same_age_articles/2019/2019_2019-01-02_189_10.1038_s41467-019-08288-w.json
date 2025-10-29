@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697581",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08288-w",
+    "title": "In vivo proximity proteomics of nascent synapses reveals a novel regulator of cytoskeleton-mediated synaptic maturation",
+    "article_number": "386",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Erin F. Spence",
+      "Shataakshi Dube",
+      "Akiyoshi Uezu",
+      "Margaret Locke",
+      "Erik J. Soderblom",
+      "Scott H. Soderling"
+    ]
+  },
+  "article_index": 189,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T17:19:45.674362"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T17:19:47.218440"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T17:19:48.623762"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T22:40:02.147535"
+    },
+    "last_updated": "2025-10-03T22:40:02.147736"
+  }
+}

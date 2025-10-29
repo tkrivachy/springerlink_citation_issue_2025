@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.631020",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10313-x",
+    "title": "A conceptual model of functional health literacy to improve chronic airway disease outcomes",
+    "article_number": "252",
+    "publication_date": "2021-01-30",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Iraj Poureslami",
+      "Noah Tregobov",
+      "Jessica Shum",
+      "Austin McMillan",
+      "Alizeh Akhtar",
+      "Saron Kassay",
+      "Kassandra Starnes",
+      "Maryam Mahjoob",
+      "J. Mark FitzGerald"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:57:17.454938"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:57:19.096607"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:57:20.358311"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:23:34.529452"
+    },
+    "last_updated": "2025-10-03T21:23:34.529503"
+  }
+}

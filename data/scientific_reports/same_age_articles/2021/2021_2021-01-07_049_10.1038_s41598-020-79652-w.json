@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.209611",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79652-w",
+    "title": "Structural and microvascular changes of the peripapillary retinal nerve fiber layer in Von Hippel–Lindau disease: an OCT and OCT angiography study",
+    "article_number": "25",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Elisabetta Pilotto",
+      "Elisabetta Beatrice Nacci",
+      "Gilda De Mojà",
+      "Alfonso Massimiliano Ferrara",
+      "Raffaele Parrozzani",
+      "Davide Londei",
+      "Stefania Zovato",
+      "Edoardo Midena"
+    ]
+  },
+  "article_index": 49,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:53:41.796428"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:53:43.339071"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:53:44.629881"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:44:49.692636"
+    },
+    "last_updated": "2025-10-03T21:44:49.692731"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.676013",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44301-z",
+    "title": "Non-canonical interplay between glutamatergic NMDA and dopamine receptors shapes synaptogenesis",
+    "article_number": "27",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nathan Bénac",
+      "G. Ezequiel Saraceno",
+      "Corey Butler",
+      "Nahoko Kuga",
+      "Yuya Nishimura",
+      "Taiki Yokoi",
+      "Ping Su",
+      "Takuya Sasaki",
+      "Mar Petit-Pedrol",
+      "Rémi Galland",
+      "Vincent Studer",
+      "Fang Liu",
+      "Yuji Ikegaya",
+      "Jean-Baptiste Sibarita",
+      "Laurent Groc"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:05:33.603589"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:05:35.157879"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:05:36.442995"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:15:58.540281"
+    },
+    "last_updated": "2025-10-03T23:15:58.540512"
+  }
+}

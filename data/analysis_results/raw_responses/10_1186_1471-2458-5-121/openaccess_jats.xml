@@ -1,0 +1,1297 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-5-121</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">BMC1471-2458-5-121</article-id>
+          <article-id pub-id-type="manuscript">276</article-id>
+          <article-id pub-id-type="doi">10.1186/1471-2458-5-121</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Response of religious groups to HIV/AIDS as a sexually transmitted infection in Trinidad</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes">
+              <name name-style="western">
+                <surname>Genrich</surname>
+                <given-names>Gillian L</given-names>
+              </name>
+              <address>
+                <email>glgenrich@yahoo.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="corresp" rid="IDBMC147124585121_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Brathwaite</surname>
+                <given-names>Brader A</given-names>
+              </name>
+              <address>
+                <email>brada@wow.net</email>
+              </address>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution content-type="org-name">Fulbright Fellowship Program for U.S. Students, Port of Spain</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Trinidad</addr-line>
+              <addr-line content-type="state">West Indies</addr-line>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.416738.f</institution-id>
+                <institution-id institution-id-type="ISNI">0000000121630069</institution-id>
+                <institution content-type="org-name">NCID/DVRD/IDPA, Centers for Disease Control and Prevention</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">30333</addr-line>
+              <addr-line content-type="city">Atlanta</addr-line>
+              <addr-line content-type="state">GA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution content-type="org-name">Center for Medical Sciences Education, Faculty of Medical Sciences, UWI</institution>
+              </institution-wrap>
+              <addr-line content-type="city">St. Augustine</addr-line>
+              <addr-line content-type="state">TrinidadWest Indies</addr-line>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDBMC147124585121_cor1">
+              <label>a</label>
+              <email>glgenrich@yahoo.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>16</day>
+            <month>11</month>
+            <year>2005</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2005</year>
+          </pub-date>
+          <volume>5</volume>
+          <issue seq="121">1</issue>
+          <elocation-id>121</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>17</day>
+              <month>12</month>
+              <year>2004</year>
+            </date>
+            <date date-type="received">
+              <day>17</day>
+              <month>12</month>
+              <year>2004</year>
+            </date>
+            <date date-type="accepted">
+              <day>16</day>
+              <month>11</month>
+              <year>2005</year>
+            </date>
+            <date date-type="online">
+              <day>16</day>
+              <month>11</month>
+              <year>2005</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© Genrich and Brathwaite; licensee BioMed Central Ltd. 2005</copyright-statement>
+            <copyright-year>2005</copyright-year>
+            <copyright-holder>Genrich and Brathwaite; licensee BioMed Central Ltd.</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/2.0/">
+              <license-p>
+                This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/2.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/2.0/</ext-link>
+                ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>HIV/AIDS-related stigma and discrimination are significant determinants of HIV transmission in the Caribbean island nation of Trinidad and Tobago (T&amp;T), where the adult HIV/AIDS prevalence is 2.5%. T&amp;T is a spiritually-aware society and over 104 religious groups are represented. This religious diversity creates a complex social environment for the transmission of a sexually transmitted infection like HIV/AIDS. Religious leaders are esteemed in T&amp;T's society and may use their position and frequent interactions with the public to promote HIV/AIDS awareness, fight stigma and discrimination, and exercise compassion for people living with HIV/AIDS (PWHA). Some religious groups have initiated HIV/AIDS education programs within their membership, but previous studies suggest that HIV/AIDS remains a stigmatized infection in many religious organizations. The present study investigates how the perception of HIV/AIDS as a sexually transmitted infection impacts religious representatives' incentives to respond to HIV/AIDS in their congregations and communities. In correlation, the study explores how the experiences of PWHA in religious gatherings impact healing and coping with HIV/AIDS.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>Between November 2002 and April 2003, in-depth interviews were conducted with 11 religious representatives from 10 Christian, Hindu and Muslim denominations. The majority of respondents were leaders of religious services, while two were active congregation members. Religious groups were selected based upon the methods of Brathwaite. Briefly, 26 religious groups with the largest followings according to 2000 census data were identified in Trinidad and Tobago. From this original list, 10 religious groups in Northwest Trinidad were selected to comprise a representative sample of the island's main denominations. In-depth interviews with PWHA were conducted during the same study period, 2002–2003. Four individuals were selected from a care and support group located in Port of Spain based upon their perceived willingness to discuss religious affiliation and describe how living with a terminal infection has affected their spiritual lives. The interviewer, a United States Fulbright Scholar, explained the nature and purpose of the study to all participants. Relevant ethical procedures associated with the collection of interview data were adopted: interviews were conducted in a non-coercive manner and confidentiality was assured. All participants provided verbal consent, and agreed to be interviewed without financial or other incentive. Ethics approval was granted on behalf of the Caribbean Conference of Churches Ethics Committee. Interview questions followed a guideline, and employed an open-ended format to facilitate discussion. All interviews were recorded and transcribed by the interviewer.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>Religious representatives' opinions were grouped into the following categories: rationale for the spread of HIV/AIDS, abstinence, condom use, sexuality and homosexuality, compassion, experiences with PWHA, recommendations and current approach to addressing HIV/AIDS in congregations. Religious representatives expressed a measure of acceptance of HIV/AIDS and overwhelmingly upheld compassion for PWHA. Some statements, however, suggested that HIV/AIDS stigma pervades Trinidad's religious organizations. For many representatives, HIV/AIDS was associated with a promiscuous lifestyle and/or homosexuality. Representatives had varying levels of interaction with PWHA, but personal experiences were positively associated with current involvement in HIV/AIDS initiatives. All 4 PWHA interviewed identified themselves as belonging to Christian denominations. Three out of the 4 PWHA described discriminatory experiences with pastors or congregation members during gatherings for religious services. Nonetheless, PWHA expressed an important role for faith and religion in coping with HIV.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusion</title>
+              <p>Religious groups in Trinidad are being challenged to promote a clear and consistent response to the HIV/AIDS epidemic; a response that may reflect personal experiences and respect religious doctrine in the context of sex and sexuality. The study suggests that (1) religious leaders could improve their role in the fight against HIV/AIDS with education and sensitization-specifically aimed at dismantling the myths about HIV transmission, and the stereotyping of susceptible sub-populations, and (2) a consultative dialogue between PWHAs and religious leaders is pivotal to a successful faith-based HIV intervention in Trinidad.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Religious Group</kwd>
+            <kwd>Religious Leader</kwd>
+            <kwd>Religious Organization</kwd>
+            <kwd>Religious Doctrine</kwd>
+            <kwd>Discriminatory Experience</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>142</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2005</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2004</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>17</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2004_Article_276.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="ESMHint">
+          <title>Electronic supplementary material</title>
+          <p>
+            The online version of this article (doi:
+            <ext-link ns0:href="10.1186/1471-2458-5-121" ext-link-type="doi">10.1186/1471-2458-5-121</ext-link>
+            ) contains supplementary material, which is available to authorized users.
+          </p>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Background</title>
+          <p>
+            The HIV/AIDS epidemic in the Caribbean region is fuelled by stigma and discrimination, which are the most significant determinants of HIV infection and death from AIDS-related complications [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Trinidad and Tobago (T&amp;T), an island nation situated off the coast of Venezuela and home to 1.3 million citizens, [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ] shares with region members an incidence of HIV/AIDS second only to sub-Saharan Africa [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            ]. Since the first case of HIV was identified in Trinidad in 1983 in a homosexual male, [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ] the prevalence of HIV/AIDS in adults (15–49 years old) has grown to 2.5%, with half of all new infections occurring in young people between 15–24 years [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            ]. HIV is primarily transmitted through unprotected sexual intercourse, [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            ] and is fueled by multiple sexual partnerships, substance abuse, and migration and gender inequalities [
+            <xref ref-type="bibr" rid="CR7">7</xref>
+            ]. The Trinidad and Tobago Ministry of Health suspects the infection is underreported and the actual number of cases is twice as high [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            ].
+          </p>
+          <p>
+            Stigma and discrimination create barriers to HIV testing and treatment, care and support networks for people living with and affected by HIV/AIDS [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            , 
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ]. In Trinidad, few cases of HIV infection are diagnosed early in the course of infection and the average time from HIV diagnosis to death is only 13 months [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ]. Of all confirmed AIDS cases reported in 1999, 75% were identified as HIV positive within the same year as the AIDS diagnosis [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ]. The statistics suggest that individuals may fear testing, perhaps as a result of the stigmatization of HIV throughout Trinidad and Tobago's society.
+          </p>
+          <p>
+            T&amp;T is a spiritually-aware society where the majority of the population belongs to at least 1 of over 104 religious groups [
+            <xref ref-type="bibr" rid="CR10">10</xref>
+            ] that coexist peacefully, often participating in public celebrations of other faiths [
+            <xref ref-type="bibr" rid="CR11">11</xref>
+            ]. When the last census was taken, approximately 30% of the population was Roman Catholic, 24% Hindu, 11% Anglican, 6% Muslim, 3% Presbyterianism and 26% &quot;other&quot; [
+            <xref ref-type="bibr" rid="CR12">12</xref>
+            ]. Religious groups are geographically evenly distributed throughout the nation; active amongst the poorest communities and within areas of high HIV/AIDS prevalence [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ]. The pervasiveness of diverse religious ideologies thus creates a complex environment for the transmission of a sexually transmitted infection.
+          </p>
+          <p>
+            Religious leaders are esteemed, frequently exchange with the public and maintain an influential role in policy-making in Trinidad [
+            <xref ref-type="bibr" rid="CR11">11</xref>
+            ]. They may use their position to promote HIV/AIDS awareness, fight stigma and discrimination in communities, and exercise compassion to facilitate healing for people living with HIV/AIDS (PWHA). Some religious groups are involved in such efforts. In 2001, the Caribbean Conference of Churches (CCC), the Regional Ecumenical Organization of the Caribbean, brought 120 church leaders and church workers from across the region together in a consultation on 
+            <italic>&quot;Human Sexuality and HIV/AIDS in the Caribbean – A Theological Approach&quot;</italic>
+             [
+            <xref ref-type="bibr" rid="CR14">14</xref>
+            ]. The consultation raised awareness about the discrimination, fear, rejection, poverty and pain that PWHA may face in Trinidad's society.
+          </p>
+          <p>
+            Yet there are barriers to more active and widespread involvement in HIV/AIDS initiatives among religious groups in Trinidad. Debate over condom sales, for example, has hindered collaboration with public health organizations [
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            ] and religious groups have not been optimally integrated into the HIV/AIDS care and support network. Further, there are few local research studies that explore religious leaders' incentives to promote and gain involvement in faith-based HIV/AIDS initiatives. One investigation of the potential to inspire a faith-based response to HIV/AIDS in T&amp;T [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ] found that HIV/AIDS-related stigma and discrimination inhibited active involvement. The present research expands upon previous work by sampling both diverse religious groups in Trinidad, and individuals who are living with HIV/AIDS. Accordingly, this study investigates how the perception of HIV/AIDS as a sexually transmitted infection impacts religious leaders' incentives to become involved in HIV/AIDS initiatives, and how the experiences of PWHA in religious gatherings have impacted their healing and coping with HIV/AIDS.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <p>All relevant ethical procedures associated with collection of interview data were adopted, and the methods approved on behalf of the Caribbean Conference of Churches Ethics Committee. The interviewer explained the nature and purpose of the study to the participants and conducted the interviews in a non-coercive manner, with the assurance of confidentiality. All respondents provided verbal consent, and agreed to be interviewed without financial or other incentive.</p>
+          <sec id="Sec3">
+            <title>Selection of religious representatives</title>
+            <p>
+              Between November 2002 through April 2003, in-depth interviews were conducted with 11 consenting representatives from 10 religious organizations in Trinidad, including: Anglican, Open Bible, Pentecostal, Salvation Army, Unity School of Christianity, Seventh Day Adventists, Hindu, Jamaat al Muslimeen, Nation of Islam, and Roman Catholic (2 representatives). Selection of religious groups was based upon the methodology of Brathwaite [
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              ]. Briefly, 26 religious groups with the largest followings according to 2000 census data were identified in Trinidad and Tobago. Groups were categorized into Christian, Hindu, Muslim, and 'native' (Bahai, Orisha). From this original list, 10 representative groups from Christian, Hindu and Muslim denominations with large and small congregations, and located in Northwest Trinidad were selected. Potential participants were contacted by phone, the research plan described, and interviews arranged with willing participants. Religious respondents were generally leaders of religious services (pastors, priests, pundits), while 2 were active congregation members. The majority of interviews with Christian representatives were conducted in offices adjacent to churches. Other interviews were held in an agreed location such as the interviewee's home. Interviews ranged from 1–2.5 hours. Interview questions followed a guideline (see Figure 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ), but employed an open-ended question format to invite discussion of sensitive HIV/AIDS-related themes. Those themes were previously identified in a survey of 26 religious organizations, [
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              ] and included: rationale for the spread of HIV/AIDS, abstinence, condom use, sexuality and homosexuality, compassion, experiences with PWHA, and recommendations and current approach to addressing HIV/AIDS in congregations.
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>Interview Questions for Religious Representatives.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/12889_2004_Article_276_Fig1_HTML.jpg"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>People living with HIV/AIDS (PWHA)</title>
+            <p>
+              In-depth interviews with PWHA were conducted during the same study period, 2002–2003. Four PWHA (
+              <italic>P1–P4</italic>
+              ) were selected from an established HIV/AIDS support group in Port of Spain, Trinidad, based upon their perceived willingness to discuss sensitive issues and religious affiliation. Interview questions were open-ended, but followed a structured guideline (see Figure 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ).
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>Belief Systems Questionnaire for People Living with HIV/AIDS.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/12889_2004_Article_276_Fig2_HTML.jpg"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>The interviewer</title>
+            <p>The interviewer was a United States Fulbright Scholar who had studied HIV/AIDS and other public health issues, and intended to use the research on religious groups to stimulate faith-based contributions to ongoing HIV/AIDS initiatives in Trinidad. The interviewer was associated with the HIV/AIDS support group from which the 4 PWHA were selected, and had spent several hours each week interacting with the participants prior to the interviews. All interviews were audio recorded and transcribed by the interviewer.</p>
+          </sec>
+        </sec>
+        <sec id="Sec6" sec-type="results">
+          <title>Results</title>
+          <p>Verbatim statements with religious representatives were extracted from raw interview text and were categorized according to the following themes: rationale for the spread of HIV/AIDS, issues related to abstinence, condom use, sexuality, homosexuality, personal compassion and personal experiences with PWHAs. Similarly, the responses of PWHA were grouped into three main themes: response to HIV diagnosis, experiences in church, and current attitude toward religion.</p>
+          <sec id="Sec7">
+            <title>Introduction to religious groups</title>
+            <sec id="Sec8">
+              <title>Anglican Church (AC)</title>
+              <p>
+                In keeping with 
+                <italic>&quot;a more collegial approach to ministry,&quot;</italic>
+                 the Anglican community was engaged in educational programs, such as peer counseling, to sensitize and educate the clergy on issues surrounding HIV/AIDS. According to the 
+                <italic>AC</italic>
+                 representative, 
+                <italic>&quot;AIDS is one of our chief priorities: our thesis that the faith based communities must be part of the solution than a problem by being negative and adversarial versus pastoral....&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec9">
+              <title>Open Bible</title>
+              <p>
+                The respondent felt that because HIV/AIDS prevalence in T&amp;T had not reached critical proportions like in Africa, it was not an urgent problem. There was no written policy on HIV/AIDS because 
+                <italic>&quot;we have not had a lot of cases to deal with. I guess if we had that amount we would. We have treated every case on an individual basis.&quot;</italic>
+                 It was felt that if the problem were addressed on a national level, churches would necessarily unite to develop a joint initiative.
+              </p>
+            </sec>
+            <sec id="Sec10">
+              <title>Pentecostal</title>
+              <p>The representative upheld compassion for all individuals, recognizing the dignity of every human life. The organization would assist PWHA in order to help to facilitate conversion and lifestyle changes that would lead to an improved contribution to the community. HIV/AIDS has caused a devastation that requires communities and individuals to reexamine and change their behavior.</p>
+            </sec>
+            <sec id="Sec11">
+              <title>Roman Catholic (RCI, and RCII)</title>
+              <p>
+                <italic>RCI</italic>
+                 believed the degradation of the traditional family unit, the erosion of traditional cultural values and undefined rites of passage have contributed to the spread of HIV/AIDS. Religious instruction in the Church has failed to meet the present day needs and concerns of the congregation. 
+                <italic>RCII</italic>
+                 felt that HIV/AIDS must evoke a discussion of sexuality and of how individuals could prepare themselves to make informed, meaningful and healthy choices that reflect who they are and not simply what they want. To date, the Roman Catholic Church has very effectively delivered home health care to individuals suffering from AIDS-related complications through ministries such as Caritas.
+              </p>
+            </sec>
+            <sec id="Sec12">
+              <title>Salvation Army (SA)</title>
+              <p>
+                The Salvation Army was founded in 1878 by William Boothe, a Methodist minister in England, who wanted to help the poor of England receive food, shelter and clothing. Thus, the organization is based on a philosophy of outreach, serving community needs, helping the sick and the poor. 
+                <italic>SA</italic>
+                 &quot;does not 
+                <italic>condone sin...but we love the sinner</italic>
+                ,&quot; and would work with individuals to build a better lifestyle. 
+                <italic>SA</italic>
+                 advocated chastity, but condom use was preferred to acquiring HIV for individuals who choose to engage in sexual intercourse before marriage.
+              </p>
+            </sec>
+            <sec id="Sec13">
+              <title>Seventh Day Adventist (SDA)</title>
+              <p>There was a written policy on HIV/AIDS, but the interviewee was not familiar with the text in the policies. The interviewee was disappointed in the rate at which the SDA organization had responded to the HIV/AIDS epidemic in Trinidad and acknowledged that there was the need for further education of clergymen within the church. Increasing education in society and among the clergy was the most critical component of reducing the spread of the virus.</p>
+            </sec>
+            <sec id="Sec14">
+              <title>Unity School</title>
+              <p>
+                Unity was a small congregation of mostly women, who were described as traditional and conformist. HIV/AIDS did not affect the congregation and the representative did not have personal relationships or experiences with PWHA. The organization was not involved in outreach. Unity is based upon the philosophy that &quot;
+                <italic>human beings create their experiences by the activity of their thinking</italic>
+                .&quot; Therefore prayer is &quot;
+                <italic>creative thinking that heightens the connection with God</italic>
+                .&quot;
+              </p>
+            </sec>
+            <sec id="Sec15">
+              <title>Hindu</title>
+              <p>
+                The 
+                <italic>Hindu</italic>
+                 representative felt that HIV/AIDS occurred primarily among homosexuals and did not pose a significant problem for the Hindu organization. Furthermore, it was assumed that Hindus were less likely to acquire HIV due to high social and spiritual obligations to obey religious doctrine. According to the interviewee, HIV/AIDS was a medical problem. Although prayers and mantras are effective treatments and cures for disease, the organization was less concerned about bodily ailments than it is about eternal life. The interviewee felt that individuals living with HIV/AIDS in the Hindu community may feel discriminated against and ostracized because disease is an 
+                <italic>&quot;unhygienic situation;&quot;</italic>
+                 individuals living with HIV/AIDS are unclean and would be expected to stay away from organized worship. Compassion is inherent in Hinduism, but the religion does not provide the opportunity for confession and reconciliation.
+              </p>
+            </sec>
+            <sec id="Sec16">
+              <title>Nation of Islam (NOI)</title>
+              <p>
+                <italic>NOI</italic>
+                 supported a theory that HIV was man-made in a United States laboratory in a plan to control population growth. The 
+                <italic>NOI</italic>
+                 representative was skeptical of scientific literature and research on the efficacy of condoms and boldly supported abstinence as the only effective prevention of HIV and other STDs. 
+                <italic>NOI</italic>
+                 valued the individual, and is particularly protective of women. The organization fulfills the obligation to help anyone in need.
+              </p>
+            </sec>
+            <sec id="Sec17">
+              <title>Jamaat al Muslimeen</title>
+              <p>
+                This representative was highly active in HIV/AIDS education for the neediest urban communities. 
+                <italic>Jamaat al Muslimeen</italic>
+                 traveled on foot to reach individuals and families who demonstrated serious health risks, and provided education and condoms. However, the representative's activism, particularly in condom distribution, was not supported by the Jamaat al Muslimeen organization. According to the interviewee, the organization believed HIV/AIDS was a 
+                <italic>&quot;sin from God.&quot;</italic>
+              </p>
+            </sec>
+          </sec>
+          <sec id="Sec18">
+            <title>Rationale for the spread of HIV/AIDS</title>
+            <p>
+              Religious representatives described cultural, spiritual, and social factors that contributed to the spread of HIV/AIDS. 
+              <italic>RCI</italic>
+               believed that new opportunities for HIV transmission were born in the fragmentation of traditional family structure and the erosion of the influence of religious doctrine in society. According to the 
+              <italic>Pentecostal</italic>
+               representative, 
+              <italic>&quot;if you follow the pattern that is established here in the Word, that you are not going to get into trouble, or there will be no involvement in sexual accounts...like HIV...or any of the other kinds....&quot;</italic>
+               The 
+              <italic>Open Bible</italic>
+               representative 
+              <italic>&quot;really believe that this started with homosexuality. They can't find a cure for it...what you sow, you reap.&quot;</italic>
+            </p>
+            <p>
+              The &quot;Carnival mentality,&quot; was also felt to fuel the epidemic. Group representatives generally described how Carnival encouraged individuals to abandon their moral framework. The 
+              <italic>Hindu</italic>
+               representative did not feel that Hindus would engage in this behavior, however.
+            </p>
+            <p>
+              <italic>Pentecostal: &quot;It's what people are making of the Carnival mentality. If people would enjoy themselves and see Carnival as functional in terms of your socioeconomic...we will not have this kind of [situation]... [People] let their standards down...to do what they would not normally do. And this to me is prostituting Carnival...To go around and have sex, as if, you know, you have no control.&quot;</italic>
+            </p>
+            <p>
+              <italic>Open Bible: &quot;Carnival is one of the greatest contributors to AIDS...there is no limits, there is no restrictions. People just let down all there guards that they will have had all year...And only afterwards they realize they make mistakes...too late.&quot;</italic>
+            </p>
+            <p>
+              <italic>Hindu: &quot;You find too that around Carnival time...this is highlighted most of all, and you would find that many Hindus would not be seen in the streets taking part in Carnival. You may see [East] Indians, people of Indian descent, many of them would have already crossed over to other religions. And so the guard is already dropped...promiscuity, and licentiousness....&quot;</italic>
+            </p>
+          </sec>
+          <sec id="Sec19">
+            <title>Abstinence</title>
+            <p>There was little variability among religious groups in response to the organization's position on abstinence.</p>
+            <p>
+              <italic>Pentecostal: &quot;We are not going to tolerate at all any sexual activity outside of the bonds of marriage. We go in accordance with what the Word says that marriage is honorable in all, and the bed undefiled-the only time the bed is undefiled is when there is marriage.&quot;</italic>
+            </p>
+            <p>
+              <italic>Salvation Army: &quot;Sex before marriage is not acceptable in the Christian Church.&quot;</italic>
+            </p>
+            <p>
+              <italic>SDA: &quot;I believe that we are aware of the reality, of not everybody will abstain, but we would emphasize abstinence, from a doctrinal point of view, and because we believe that it is the safest... Our thing of abstinence is not strictly about avoiding HIV; abstinence is also about...pregnancy, it's about...sexual relationships, where you have amount of responsibility...If it's with somebody you are very interested in...not just a one night stand.&quot;</italic>
+            </p>
+            <p>
+              <italic>NOI: &quot;...the sole objective is to promote abstinence-not the fact that you can get an STD. I don't relate to that at all. And we don't go around, you know, promoting condom use, we promote abstinence because there is a much greater value attached to the individual, particularly the female that if she was sensitized and made aware of that and I think that would be much more effective for her than the condom.&quot;</italic>
+            </p>
+          </sec>
+          <sec id="Sec20">
+            <title>Condom use</title>
+            <p>Within Christian denominations and across religious groups, positions on condom use differed, ranging from an acceptance of condoms in lieu of the &quot;reality&quot; of HIV/AIDS, to a general contempt for their use as a substitute for self-control.</p>
+            <p>
+              <italic>SDA: &quot;From my personal point of view, you cannot promote the use of condoms, because in promoting the use of condoms, what you're actually doing is telling the person you cannot control your sexual urge. So because you cannot control your sexual urge, here is something to use when the urge comes...And you find that as a country growing, so many young people are contracting HIV in spite of the availability of condoms.&quot;</italic>
+            </p>
+            <p>
+              <italic>RCII: &quot;What I was very clear about myself was that...we are not talking about condoms as contraceptives when you talk HIV. That the church's condemnation of condoms is about contraception; you are talking about a contra-abortive, which is people dying.&quot;</italic>
+            </p>
+            <p>
+              <italic>Pentecostal</italic>
+              : 
+              <italic>&quot;We don't think that it is fair or right to distribute condoms to... like young people who are not married. You are not supposed to be actively involved with sex outside of marriage, so any person or persons outside of marriage, we feel, should not really have the use of any condom. Condoms within the marriage we feel, should, in our view, be a matter for the people involved.&quot;</italic>
+            </p>
+            <p>
+              <italic>Salvation Army: &quot;Sex before marriage is not acceptable in the Christian Church, but being practical in this day and age, better use a condom than get a disease.&quot;</italic>
+            </p>
+            <p>
+              <italic>Open Bible: &quot;...teaching the people the importance of not being promiscuous...providing condoms...that doesn't fix the problem...the problem is the individual...so start from small...there is a whole lifestyle that starts from a little child, and you have to start there.&quot;</italic>
+            </p>
+            <p>
+              <italic>NOI: &quot;I read one interesting quotation from a medical professional that has stayed with me. And it says that the AIDS virus passes through...the membrane of a condom like a golfball passes through a basketball hoop....&quot;</italic>
+            </p>
+            <p>
+              The 
+              <italic>Jamaat al Muslimeen</italic>
+               organization forbids condom use. However, the interviewee's position was in marked contrast to that held by the organization. The 
+              <italic>Jamaat al Muslimeen</italic>
+               representative carried condoms on foot to the poorest of Trinidad's communities in opposition to the philosophy of the organization:
+            </p>
+            <p>
+              <italic>Jamaat al Muslimeen: &quot;And what I do also is that I distribute condoms. And a lot of people that I have spoken to in the underdeveloped community, most of them use condoms sometimes, and sometimes they don't use condoms... we try to educate them towards the disease....&quot;</italic>
+            </p>
+          </sec>
+          <sec id="Sec21">
+            <title>Sexuality and homosexuality</title>
+            <p>
+              Adherence to religious doctrine and the fear of shame are thought of as protective factors that insulate the 
+              <italic>Hindu</italic>
+               group from a promiscuous lifestyle. The 
+              <italic>Unity</italic>
+               group felt that Trinidad and Tobago was 
+              <italic>&quot;probably the most promiscuous little country in the world.&quot;</italic>
+               Roman Catholic representatives were concerned about the growing number of young children voluntarily initiating sexual activity, and believed that sex among the youth was becoming a defining characteristic of the culture. The 
+              <italic>RCII</italic>
+               representative explained that gender equality provides enormous potential for mutuality, and needs to be explored by society.
+            </p>
+            <p>
+              <italic>RCII: &quot;Sex is a powerful potent force in human society.... For me the one thing that is difficult in Caribbean society that is distinct from some more traditional societies, is that the kind of rituals of initiation which have allowed people to claim manhood, womanhood without become sexually active in the open sense, those rituals don't exist.... Sexuality is extremely fragile...we talk about it simply as something that we do when in fact it is something that you are....&quot;</italic>
+            </p>
+            <p>
+              According to many representatives, education on sexuality in the context of religious doctrine was unnecessary, because religious tenets sufficiently define appropriate behavior: if one upheld the teachings in the sacred texts, HIV/AIDS would not be transmitted or acquired. The opinion on homosexuality was generally uniform across religious denominations, although personal attitudes varied in their degree of outrage; some groups called it 
+              <italic>&quot;abominable,&quot;</italic>
+               or 
+              <italic>&quot;sickening&quot;</italic>
+              . Some interviewees, however, expressed the potential for homosexuals to be converted, and adopt an acceptable form of behavior.
+            </p>
+            <p>
+              <italic>Open Bible: &quot;We are not against homosexuals but we don't promote homosexuality...we strongly disagree with it. We believe that God never intended for people to live in a homosexual relationship and so certainly we don't in any form or fashion, entertain it....&quot;</italic>
+            </p>
+            <p>
+              <italic>Unity: &quot;AIDS is not new. I don't think AIDS comes from any homosexual behavior. I think people are capable of loving.&quot;</italic>
+            </p>
+            <p>
+              <italic>SDA: &quot;From my personal observation I don't think that homosexuality is something that our ministers have a lot to do with...they have not done a lot of interacting.&quot;</italic>
+            </p>
+            <p>
+              <italic>Hindu: &quot;In all religions, sex is looked at as very sacred. Whereas you would not find the Hindu woman covered all over like the Muslim, they ought to be quite protected, and I think from the woman folk point of view, it is even less a threat. You would find that homosexuals mainly from the male contingency, and...he would be out there in the world, and he may encounter certain situations, and he may get into...this promiscuous activity and may become homosexual....&quot;</italic>
+            </p>
+          </sec>
+          <sec id="Sec22">
+            <title>Compassion and religious representatives' experiences with PWHA</title>
+            <p>
+              Personal interactions between group representatives and PWHA varied widely. Some representatives had buried individuals who had died from AIDS-related complications. The 
+              <italic>Jamaat al Muslimeen</italic>
+               representative personally contacted individuals and communities in Port of Spain affected by HIV/AIDS to provide them with condoms, support and education. In contrast, other representatives, including 
+              <italic>Open Bible</italic>
+              , 
+              <italic>Unity</italic>
+              , and 
+              <italic>Hindu</italic>
+              , reported little to no personal interaction with PWHA. Nonetheless, religious groups unanimously supported compassion for people living with and affected by HIV/AIDS. The expression of compassion was often associated with conversion and a desire to 
+              <italic>&quot;help the person change.&quot;</italic>
+            </p>
+            <p>
+              <italic>RCII: &quot;The point of breakthrough was to equate HIV positive persons with lepers in the Gospel story, so Jesus came for the lepers, he's come for them. Which is so horrible...but it was a way for the churches to open up to it...</italic>
+            </p>
+            <p>
+              <italic>&quot;There was a conversion process involved in many people... from AIDS as punishment from God to AIDS as a sad event in human history which now demands a response from those who say they believe in the name of God, but that that response must always be compassion....&quot;</italic>
+            </p>
+            <p>
+              <italic>Anglican: &quot;Last month I buried at least two persons with AIDS. A twenty-five year old male, thirty-eight year old female-she sold drugs and she also sold herself-her body. A sad, sad, sad moment...AIDS is not an academic thing here...it is very concrete....&quot;</italic>
+            </p>
+            <p>
+              <italic>Pentecostal: &quot;So we feel we need to relate with them treat with them as members like anyone else and we ought to show that the same kind of love, the same kind of respect...and we do that.&quot;</italic>
+            </p>
+            <p>
+              The 
+              <italic>Pentecostal</italic>
+               representative also articulated how myths about HIV transmission were dispelled in personal interactions with PWHA:
+            </p>
+            <p>
+              <italic>Pentecostal: &quot;Many of the myths are...HIV can be spread with the use of utensils-many believe in those myths even within the church...The fallacies...or the myths have been put to rest for us...because of the experiences we have had dealing with people who have had HIV....&quot;</italic>
+            </p>
+            <p>
+              <italic>Salvation Army: &quot;We actually had an HIV/AIDS person who was very close to us in our formal apartment...he was bold enough to tell us he had the problem, and so we helped him a great lot...we knew that he needed extra food...he was rejected from his own house, and we had to help him get settled...so we sort of have an idea...it is a problem that needs help. If you come to me and say I have HIV/AIDS, I am not going to say that you did something wrong... We have reached out into many areas of social work because we have a heart for people.&quot;</italic>
+            </p>
+            <p>
+              <italic>SDA: &quot;The churches responsibility is to show compassion. And not to check and find out how this person managed to get it. I think most Adventist churches are moving away from the medical fact....&quot;</italic>
+            </p>
+            <p>
+              <italic>Hindu: &quot;This religion is based upon compassion, if you do not have compassion, you are lacking in one of the major ingredients to be a Hindu. So we do not go about branding anybody, saying okay, you are a sinner. It is more understanding, it is also a recognition of the unhygienic situation that arises.&quot;</italic>
+            </p>
+            <p>
+              <italic>Jamaat al Muslimeen: &quot;I have a twenty-one year old girl, she's HIV positive...I was even trying to get her to get public assistance because she and the two children are HIV positive. And I really thought that she was trying to turn around her life. But she just kept going with men without condoms.&quot;</italic>
+            </p>
+            <p>
+              According to some religious representatives, coping with HIV/AIDS was different than coping with other terminal diseases that are not sexually transmitted, such as cancer: people living with HIV/AIDS come to church requesting confession, whereas people fighting cancer want to be healed. The 
+              <italic>RCII</italic>
+               represented expressed the contrast this way:
+            </p>
+            <p>
+              <italic>RCII: &quot;What she was showing was a different form from someone who has cancer. But the fear that I saw in her was different from the fear I saw in cancer patients. It was fear coupled with guilt, and of course she came asking me to pray plenty... you hear the AIDS people telling you that there's a certain anger with themselves.&quot;</italic>
+            </p>
+          </sec>
+          <sec id="Sec23">
+            <title>Recommendations and approach to addressing HIV/AIDS in congregations</title>
+            <p>
+              Religious organizations differed on how to confront the HIV/AIDS epidemic in Trinidad, if at all. Some representatives, like 
+              <italic>RCII</italic>
+              , began their involvement in HIV/AIDS care and support networks early in the epidemic, while others remained insulated.
+            </p>
+            <p>
+              <italic>RCII: &quot;But what they did very well was to train a number of people would could go into homes and provide home care for people who had nobody else to care for them...More recently, the schools have been involved in education and the Catholic Church is in the process of providing, producing a video about HIV.&quot;</italic>
+            </p>
+            <p>
+              <italic>Open Bible: &quot;I don't think there is a need to have something structured in place. I guess in Trinidad it is still a very private matter...I don't think that this can be addressed by any one local church, I think this is something that is more a national issue...and if it has to be dealt with then churches have to get together to deal with it because of the scope of it.&quot;</italic>
+            </p>
+            <p>
+              <italic>Anglican: &quot;If you don't arrest this AIDS thing...what will happen is that so much money will be spent on AIDS and people infected with the virus, you have little or no money to spend on cancer, and diabetes, and all the other things.&quot;</italic>
+            </p>
+            <p>
+              <italic>Pentecostal: &quot;Obey the word, abstain from sex, and avoid HIV.&quot;</italic>
+            </p>
+            <p>
+              <italic>SDA: &quot;We have been more or less targeting young people. A lot of workshops going on as well. We run a home care training workshop, we also do a sensitizing program for our young people...we try to bring across in as many of our programs as we can...activities that relate to HIV and AIDS, so that we are educating our young people. In terms of our ministerial staf...there are courses that they must necessarily do in the program... there is a health course that ministers must do while they are there in their training, and that of course exposes them to the myths and realities of HIV and AIDS....&quot;</italic>
+            </p>
+            <p>
+              <italic>Hindu: &quot;When I started thinking more deeply, I thought to myself, this is not so much of a Hindu perspective, or a Christian perspective, or a religious perspective, but a medical issue...I think that the avenue provided for help, is one of a spiritual environment. But it is not through religious bodies.&quot;</italic>
+            </p>
+          </sec>
+          <sec id="Sec24">
+            <title>Religion in the lives of PWHA</title>
+            <p>Both Roman Catholic representatives provided a rationale for seeking God to facilitate coping with an HIV diagnosis:</p>
+            <p>
+              <italic>RCI: &quot;Well, they're in a hopeless situation! They're beyond human help and so the next thing you turn toward God.&quot;</italic>
+            </p>
+            <p>
+              <italic>RCII: &quot;Because this is fundamentally a religious society. If you say you don't believe in God, doors close in your face. If you say you believe in God you stand a much better chance of getting help from certain quarters. Plus the psychology of HIV, you come face to face with your own mortality. Turning to God is probably the most natural thing to do...Once you enter into a mode where you think you're dying you go through a whole process of anger, of bargaining.&quot;</italic>
+            </p>
+            <p>
+              Four PWHA described their experiences in church and their spiritual journey subsequent to receiving an HIV diagnosis. One respondent agreed with religious representative, 
+              <italic>RC1</italic>
+              , in that HIV was a 
+              <italic>&quot;crisis&quot;</italic>
+               situation. Managing feelings of guilt were an important part of the initial coping process. When 1 of the interviewees was diagnosed with HIV, she felt she was being punished for committing a sin, and her pastor confirmed those feelings. All 4 individuals described discriminatory experiences by clergy or congregation members, but for 3 of the 4 PWHA, negative experiences did not affect attendance nor diminish a spiritual journey. HIV diagnosis generally inspired a desire to explore spirituality.
+            </p>
+            <p>
+              The first interviewee, 
+              <italic>P1</italic>
+              , went to church irregularly growing up. When she was diagnosed with HIV in her early twenties, the church provided peace and solitude during her 
+              <italic>&quot;crisis.&quot;</italic>
+               However, she stopped attending when she suspected her pastor ostracized PWHA.
+            </p>
+            <sec id="Sec25">
+              <title>Response to HIV diagnosis</title>
+              <p>
+                <italic>P1: &quot;With HIV that I went. Before I never really had any kind of crisis. If a boyfriend and I split up, that wasn't a crisis; they had other guys out there. It was really when I found out about my status...I would go to church and people would see me crying...crying down the place...just tears. Letting my heart pour out and talking to God.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec26">
+              <title>Experiences in church</title>
+              <p>
+                <italic>P1: &quot;I went to the church for solitude to get some sense of peace some kind of understanding as to why this is happening to me...we decided that I could speak to the pastor's wife. And she sat down with me and she said, you know she had a son who also died from it. I mean nobody would have expected a pastor's son to get HIV because they're not supposed to be living a promiscuous life...She comforted me and she told me you know I'm welcomed in this church at anytime.</italic>
+              </p>
+              <p>
+                <italic>I came and I told [my friend] about it. She knew the guy who died, her son. His family was not nice to him. His mother his father was not nice to him. For her to be giving me another story. It was unbelievable to think that they were not nice... I think that is one of the reasons too that I did not go back.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec27">
+              <title>Current attitude towards religion</title>
+              <p>
+                <italic>P1: &quot;I kind of gave up on myself and I started going to a lot of parties. So when Sunday came, I would go party Saturday night and when Sunday came I can't get up in the morning to go to church. And that kind of threw me off from going, from attending that. But I want to start back going.&quot;</italic>
+              </p>
+              <p>
+                <italic>P2</italic>
+                 grew up attending church daily with his mom, who was Roman Catholic. Later in life he experimented with drugs and sex. Near-death experiences were the impetus to reach out to a spiritual counselor, and he later became active in community outreach programs.
+              </p>
+            </sec>
+            <sec id="Sec28">
+              <title>Response to HIV diagnosis</title>
+              <p>
+                <italic>P2: &quot;I was thinking about dying all the time. The addicts felt sorry for me.</italic>
+              </p>
+              <p>
+                <italic>But I don't feel like dying anymore. It is only by the grace of God that I am not depressed. What I care about doing the right thing, taking my medication and learning more about it. I would like to carry the message to schools ...I don't feel any less than anybody because I know that Jesus Christ loves me and I trust him.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec29">
+              <title>Experiences in church</title>
+              <p>
+                <italic>P2: &quot;I talked to the pastor and a few of the deacons high in the Church and when I was sick they didn't come by. I felt they didn't respond as they should have. Last Saturday my pastor shook my hand.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec30">
+              <title>Current attitude towards religion</title>
+              <p>
+                <italic>P2: &quot;God is my armor, my weapon has made me overcome a lot of hurdles and a lot of hang-ups...it has played a very important part...even with my addiction my spirituality has changed a lot. I choose God.&quot;</italic>
+              </p>
+              <p>
+                <italic>P3</italic>
+                 was active in an SDA church, but before her HIV diagnosis was a member of an Islamic organization.
+              </p>
+            </sec>
+            <sec id="Sec31">
+              <title>Response to HIV diagnosis</title>
+              <p>
+                <italic>P3: &quot;It happened in 1995...and I couldn't believe that I was HIV positive, because at that time I was not educated about living healthy with HIV. So I thought to myself that it would be the end of the world for me.</italic>
+              </p>
+              <p>
+                <italic>...I decided, listen if I have to die I need to make peace with my God, whoever the creator is...I also had a friend, who was a Christian...and he said to me Christ could help you, Christ can heal you...I started reading the Bible, with a longing in my heart to find out...if the creator was hearing me or not. I used to pray like five times a day because my body was diminishing, my hair was falling off, I had sores all over my body...things just started getting clearer and clearer to me, and my eyes were just opened, slowly but continually being opened to what is real, what is the reality of life.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec32">
+              <title>Experiences in church</title>
+              <p>
+                <italic>P3: &quot;I was impressed to let the church know of the power of God, because I know it was a miracle, and I wanted them to know that the God that they serve is still in the business of doing miracles...But they did not respond to it very well, therefore I was faced with plenty stigma, and word got around...and I just saw everybody start whispering...Now I'm faced with a reality...if I get involved with anybody, everybody...scorn me, and any young man within the church comes around me, bet your bottom dollar someone's going to tell them, she's HIV positive.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec33">
+              <title>Current attitude towards religion</title>
+              <p>
+                <italic>P3: &quot;It's all well and fine that governments are looking into HIV care and treatment, but why isn't the religious sector taking part in a more meaningful way? Presently I am trying to get the Adventist, we already we have an AIDS ministry, but they are not involved in a holistic view in terms of educating even their own people, far less the general public.</italic>
+              </p>
+              <p>
+                <italic>The church has to play a very important role in the fight against HIV and AIDS... The reason that I think that the virus has mushroomed, is because of moral standards...moral standards have gone down.&quot;</italic>
+              </p>
+              <p>
+                <italic>P4</italic>
+                 regularly attended and was active in a Pentecostal church. The HIV diagnosis was confirmed at 18 years old.
+              </p>
+            </sec>
+            <sec id="Sec34">
+              <title>Response to HIV diagnosis</title>
+              <p>
+                <italic>P4: &quot;I thought I was being punished for my sins. That's what he said too. I am being punished. And I caused it on myself, and on and on and on he went. But I don't think that is true...The first camp I went to after I was diagnosed, I talked to a social worker. She used to really encourage me. The first time I went to her I was really depressed, and asked her if she thought God was punishing me for my sins. She said, is God evil? What about all the children born with HIV, are they being punished? Bad things happen to everybody.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec35">
+              <title>Experiences in church</title>
+              <p>
+                <italic>P4: &quot;I talk to my pastor. But I come to find out that he was not so trustworthy...I went to my pastor and I was talking to him about it and I find out that he was telling everybody...He said they needed to know so that they could pray, so the church could pray. But he just said that so he could tell everybody...Once the board knows-the board is family member leaders. I think everybody probably knew or was told by someone else. I still see him. I'll say hi. That was about a year and a half ago.</italic>
+              </p>
+              <p>
+                <italic>The last time I went to church I was talking to this little boy, and this woman told me not to touch him, if you touch him you will give him your germs. The boy was six months old. I learned a lot.&quot;</italic>
+              </p>
+            </sec>
+            <sec id="Sec36">
+              <title>Current attitude towards religion</title>
+              <p>
+                <italic>P4: &quot;Despite all the real bad things, I believe in my religion. I guess in every organization you'll find good people and bad people...I'm always really love my religion, love church and love God. To myself I feel comfortable, so I don't think people should influence my relationship with God, I'm really, really, really trying to work on it.&quot;</italic>
+              </p>
+            </sec>
+          </sec>
+        </sec>
+        <sec id="Sec37" sec-type="conclusions">
+          <title>Conclusion</title>
+          <p>
+            Christian, Hindu and Muslim religious representatives differed in their attitudes and opinions on the following themes: rationale for the spread of the HIV/AIDS epidemic in Trinidad, sexuality and homosexuality, condom use, processes for healing, and the impetus to become involved in faith-based initiatives. Levels of awareness about the prevalence of HIV/AIDS in Trinidad, susceptible sub-populations, and knowledge of the mechanisms of HIV transmission also varied. Religious representatives isolated subgroups who were believed to be particularly susceptible to HIV infection, and in so doing, implicitly articulated HIV/AIDS stigma in different ways. For example, the 
+            <italic>Hindu</italic>
+             representative believed that HIV infection was generally limited to homosexuals and promiscuous non-Hindus. For the 
+            <italic>SDA</italic>
+             and 
+            <italic>Pentecostal</italic>
+             representatives, HIV was synonymous with a promiscuous lifestyle and the transgression of abstinence.
+          </p>
+          <p>
+            Representatives were generally in agreement in their advocacy for the sanctity of marriage prior to engaging in sexual intercourse. In correlation, the 
+            <italic>SDA</italic>
+             representative felt that condoms facilitated the transgression of abstinence and the degradation of self-discipline. The 
+            <italic>NOI</italic>
+             representative felt that condoms aided and abetted promiscuity in society, but went further in claiming that condoms were not even an effective barrier against sexually transmitted infections. In contrast, the 
+            <italic>&quot;reality&quot;</italic>
+             of HIV/AIDS for the 
+            <italic>SA</italic>
+             representative led to a more accepting attitude toward condom use. The 
+            <italic>Jamaat al Muslimeen</italic>
+             and 
+            <italic>RCII</italic>
+             representatives had personal experiences with PWHA, and it was their understanding that condoms were life-saving tools. Thus, the present research also suggested that personal experiences and interactions among religious representatives and PWHA dispelled myths surrounding HIV/AIDS transmission, and sensitized individuals to the HIV/AIDS 
+            <italic>&quot;reality.&quot;</italic>
+             The 
+            <italic>SDA</italic>
+             interviewee believed that personal experiences with PWHA were critical to the HIV/AIDS sensitization process, and for dismantling myths about transmission.
+          </p>
+          <p>
+            The full potential for religious groups to contribute to HIV/AIDS awareness efforts is currently untapped. While the majority of representatives admit that HIV/AIDS is a serious problem that is affecting the country and the world, there was wide disparity in the impetus for implementing a faith-based initiative targeting HIV/AIDS-related issues. The 
+            <italic>Anglican</italic>
+             interviewee supported a proactive initiative and HIV/AIDS was among the Church's 5 priorities; however for the 
+            <italic>Pentecostal</italic>
+            , 
+            <italic>SDA</italic>
+            , 
+            <italic>Open Bible</italic>
+             and 
+            <italic>Hindu</italic>
+             groups, HIV/AIDS was not a priority that needed immediate attention and warranted discussion among congregations. According to the 
+            <italic>Pentecostal</italic>
+             representative, HIV could simply be avoided by adhering to the behavioral conduct outlined by Christian tenets. Despite the 
+            <italic>Jamaat al Muslimeen</italic>
+             representative's personal efforts in raising awareness about HIV/AIDS in rural communities, she felt that the &quot;mix&quot; of HIV/AIDS initiatives and faith-based communities invited stigmatization of PWHA.
+          </p>
+          <p>
+            Whether it was called 
+            <italic>&quot;divine purpose&quot;</italic>
+             according to the 
+            <italic>Hindu</italic>
+             representative, 
+            <italic>&quot;openness to the transcendent,&quot;</italic>
+             by the 
+            <italic>RCII</italic>
+             interviewee, or the 
+            <italic>&quot;God conscious part&quot;</italic>
+             by the 
+            <italic>Open Bible</italic>
+             representative, it was agreed that humankind are inherently spiritual beings; and that Trinidad is indeed a spiritually-aware society. For the 4 participants living with HIV/AIDS, all of whom identified themselves as Christians, an HIV diagnosis inspired an exploration of spirituality, and led to a deeper connection with God-despite experiences of isolation and discrimination in church. One PWHA was identified as HIV positive by her pastor during a worship service, so that he could exemplify deserving consequences of sexual behavior. The attitude of this pastor seems to reflect the opinion of the 
+            <italic>Open Bible</italic>
+             and 
+            <italic>Pentecostal</italic>
+             representatives: by abstaining from sex one avoids HIV. Other PWHA were also discriminated against by members of the congregation. Nonetheless, for 3 of the 4 individuals, negative and discriminatory experiences did not affect attendance in church nor attenuate a spiritual journey.
+          </p>
+          <p>
+            Religious representatives were generally willing to participate in a care-giving capacity for people with HIV/AIDS because these efforts were built into their existing mission. Religious groups in the past have publicly acknowledged a responsibility and desire to be involved in care-giving for people living with and affected by HIV/AIDS. For example, organizations such as the Roman Catholic-sponsored Caritas have been successful in home health care for PWHA and their families. At the 1998 Youth Summit, religious representatives formulated &quot;support resolutions,&quot; recognizing the need for their involvement in communities through the provision of information and counseling services for adolescents in society [
+            <xref ref-type="bibr" rid="CR16">16</xref>
+            ]. A 2001 report revealed that religious groups desired to improve their capacity to contribute to care and support [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ].
+          </p>
+          <p>
+            Regional conferences such as those led by the CCC indicate that religious groups are beginning to mobilize in confronting the HIV/AIDS epidemic. Since the completion of this study, in 2005, the CCC hosted another consultation with Faith Based Organizations to develop an HIV/AIDS policy and action plan, entitled, 
+            <italic>&quot;Guidelines for Caribbean Faith-Based Organizations in Developing Policies and Action Plans to deal with HIV/AIDS&quot;</italic>
+             [
+            <xref ref-type="bibr" rid="CR17">17</xref>
+            ]. The document is part of a collaborative effort, 
+            <italic>&quot;Building a Faith Based Response to HIV/AIDS in the Caribbean&quot;</italic>
+             to enhance the response of faith-based organizations to Trinidad's HIV/AIDS epidemic. Furthermore, the highest level of government supports the crucial role religious groups may play in mitigating the impact of HIV/AIDS stigma and discrimination. National HIV/AIDS prevention efforts involving faith-based organizations are mandated by the 5 year HIV/AIDS National Strategic Plan (NSP), whose goals include the provision of necessary support within a holistic framework for those persons infected and affected by HIV/AIDS. These goals are currently undertaken by the newly-formed National AIDS Coordinating Committee [
+            <xref ref-type="bibr" rid="CR18">18</xref>
+            ].
+          </p>
+          <p>Nonetheless, several religious representatives agreed that the pace of efforts on behalf of religious organizations has been too slow. The present research raises the following question: if HIV were not sexually transmitted, would religious organizations respond to the epidemic in the same way? The HIV/AIDS epidemic in Trinidad urgently calls upon religious groups to provide a clear and consistent response to issues of sex and sexuality that resonates with personal experience and respects religious doctrine. However, the present research highlights inconsistent attitudes and opinions on the moral and spiritual issues surrounding HIV/AIDS; such inconsistencies may serve as a barrier to a united faith-based initiative in Trinidad. Religious groups across all faiths and denominations are challenged to recognize that human beings are sexual beings; herein lays the dilemma for religious groups. A faith-based intervention must understand the complexity of preserving the central tenets of organized religion while embodying compassion for individuals as sexual beings.</p>
+          <p>This study was limited by a small sample size and the geographic location of Northwest Trinidad; this may affect the generalization of results throughout Trinidad and Tobago. On average, only one representative from each religious organization was interviewed, and opinions expressed did not necessarily reflect those of the religious organization as a whole. Nonetheless, HIV/AIDS-related stigma and discrimination will continue to fester throughout Trinidad and Tobago until all the republic's religious leaders, esteemed in the public eye, possess accurate information about HIV transmission, which may then be conveyed to congregations; and until religious leaders are sensitized to the experiences of PWHA. Prior to involvement in community-based education, care and HIV/AIDS support initiatives, religious leaders must possess compassion that is reinforced by personal experiences with PWHA. PWHA are receptive to faith-based counseling and support provided by religious leaders and congregation members. Thus, a consultative dialogue between PWHA and religious leaders is pivotal to a successful faith-based HIV/AIDS initiative in Trinidad.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>With deep appreciation we thank the Fulbright Fellowship Program and Institute for International Education for making this important investigation possible. The authors are sincerely grateful to all participants for willing to openly share their opinions and experiences. Special thanks to Dr. Dean Knolly Clarke for his insight and support.</p>
+        </ack>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="other">
+                The role of religious leaders in reducing stigma and discrimination related to HIV/AIDS. 2003, ICASA Satellite Session, Kenyatta International Conference Centre: A report of the round table discussion, [
+                <ext-link ns0:href="http://www.coreinitiative.org/pub/ICASAsymposiumonstigmareport.doc" ext-link-type="uri">http://www.coreinitiative.org/pub/ICASAsymposiumonstigmareport.doc</ext-link>
+                ]
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="other">
+                Epidemiologic Fact Sheets on HIV/AIDS and Sexually Transmitted Infections, 2000 Update. [
+                <ext-link ns0:href="http://www.paho.org/English/HCP/HCA/Tandt.pdf" ext-link-type="uri">http://www.paho.org/English/HCP/HCA/Tandt.pdf</ext-link>
+                ]
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="other">The Caribbean Regional Strategic Plan of Action for HIV/AIDS. Caribbean Task Force on HIV/AIDS. Draft. 2000</mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bartholomew</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Raju</surname>
+                    <given-names>CC</given-names>
+                  </name>
+                  <name>
+                    <surname>Jankey</surname>
+                    <given-names>N</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The acquired immune deficiency syndrome in Trinidad: A report on two cases</article-title>
+                <source>West Indian Med J</source>
+                <year>1983</year>
+                <volume>32</volume>
+                <issue>3</issue>
+                <fpage>177</fpage>
+                <lpage>80</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL2c%2FkslShtQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">6636722</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Ministry of Health (MOH)</collab>
+                </person-group>
+                <source>Health Sector Reform Programme of Trinidad &amp; Tobago, © 2000 Ministry of Health &amp; HSRP. The Government of Trinidad &amp; Tobago, All rights reserved</source>
+                <year>2005</year>
+                <comment>http://www.healthsectorreform.gov.tt/faqs.htm</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="other">
+                AIDS Cases by Exposure Category and Gender (T&amp;T): Reported Cases of AIDS by Major Exposure Category and Gender. 2001, [
+                <ext-link ns0:href="http://www.carec.org/data/aids/aidscases" ext-link-type="uri">http://www.carec.org/data/aids/aidscases</ext-link>
+                ]
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>UNAIDS</collab>
+                </person-group>
+                <source>Report on the Global AIDS epidemic, Executive Summary AND UNAIDS Fact Sheet HIV/AIDS in the Caribbean</source>
+                <year>2004</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Richards</surname>
+                  </name>
+                  <name>
+                    <surname>Peter</surname>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Discrimination Marks HIV Treatment in Trinidad and Tobago</article-title>
+                <source>Inter Press Service</source>
+                <year>2002</year>
+                <comment>http://www.aegis.com/news/ips/2002/IP021212.html</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="other">Ransome D: Prevention and care: Trinidad's twin messages. AIDS Watch. 1990, 5-7. 9</mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Murray</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <source>Religions in Trinidad and Tobago</source>
+                <year>1996</year>
+                <publisher-loc>Trinidad and Tobago</publisher-loc>
+                <publisher-name>Murray Enterprises</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="other">
+                Trinidad and Tobago International Religious Freedom Report 2003. Released by the Bureau of Democracy, Human Rights and Labor. [
+                <ext-link ns0:href="http://www.state.gov/g/drl/rls/irf/2003/24523.htm" ext-link-type="uri">http://www.state.gov/g/drl/rls/irf/2003/24523.htm</ext-link>
+                ]
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="other">
+                <italic>Statistics at a glance</italic>
+                , a publication of the Central Statistical Office, CSO, of the Ministry of Finance, Government of Trinidad and Tobago. 2001
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Brathwaite</surname>
+                  </name>
+                  <name>
+                    <surname>Brader</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Inventory and assessment of religious groups in Trinidad and Tobago and their response to AIDS/HIV</article-title>
+                <source>Unpublished</source>
+                <year>2001</year>
+                <comment>CAREC/GTZ</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Caribbean Conference of Churches (CCC)</collab>
+                </person-group>
+                <source>Caribbean Conference of Churches spearheads a regional faith-based response to HIV/AIDS</source>
+                <year>2005</year>
+                <comment>http://www.ccc-caribe.org/eng/releases/faithresponse_0105.htm</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Richards</surname>
+                  </name>
+                  <name>
+                    <surname>Peter</surname>
+                  </name>
+                </person-group>
+                <source>Health-Trinidad and Tobago: religious groups oppose condom sales</source>
+                <year>2001</year>
+                <comment>http://www.aegis.com/news/ips/2001/IP010628.html</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fournillier</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A report on the first phase of the study, Inventory and Assessment of Religious Groups and HIV/AIDS in Trinidad and Tobago</article-title>
+                <source>A project of NAIDS Program of the Ministry of Health</source>
+                <year>2000</year>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="other">
+                Guidelines for Caribbean faith-based organizations in developing policies and action plans to deal with HIV/AIDS. A project of the Canadian International Development Agency (CIDA) ESAC Programme, implemented by the Caribbean Conference of Churches (CCC). 2004, [
+                <ext-link ns0:href="http://www.pancap.org/documents/buildingafaith.pdf" ext-link-type="uri">http://www.pancap.org/documents/buildingafaith.pdf</ext-link>
+                ]
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alexis-Thomas</surname>
+                  </name>
+                  <name>
+                    <surname>Caroline</surname>
+                  </name>
+                </person-group>
+                <source>Personal communication</source>
+                <year>2004</year>
+                <comment>correspondence</comment>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+          <ref-list id="BSec1">
+            <title>Pre-publication history</title>
+            <ref id="CR19">
+              <mixed-citation publication-type="other">
+                The pre-publication history for this paper can be accessed here:
+                <ext-link ns0:href="http://www.biomedcentral.com/1471-2458/5/121/prepub" ext-link-type="uri">http://www.biomedcentral.com/1471-2458/5/121/prepub</ext-link>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec38">
+              <title>Authors’ original submitted files for images</title>
+              <p>
+                Below are the links to the authors’ original submitted files for images.
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Authors’ original submitted files for images">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/12889_2004_276_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Authors’ original file for figure 1</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+                <supplementary-material content-type="local-data" id="MOESM2" ns0:title="Authors’ original submitted files for images">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/12889_2004_276_MOESM2_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Authors’ original file for figure 2</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <glossary>
+          <title>Abbreviations</title>
+          <def-list>
+            <def-item>
+              <term>
+                <bold>AC</bold>
+              </term>
+              <def>
+                <p>Anglican Church</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>AIDS</bold>
+              </term>
+              <def>
+                <p>Acquired Immuno-Deficiency Syndrome</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>CAREC</bold>
+              </term>
+              <def>
+                <p>Caribbean Epidemiology Center</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>HIV</bold>
+              </term>
+              <def>
+                <p>Human Immunodeficiency Virus</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>NOI</bold>
+              </term>
+              <def>
+                <p>Nation of Islam</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>PWHA</bold>
+              </term>
+              <def>
+                <p>People Living with HIV/AIDS</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>RC</bold>
+              </term>
+              <def>
+                <p>
+                  Roman Catholic (group representatives, 
+                  <italic>RCI</italic>
+                   and 
+                  <italic>RCII</italic>
+                  )
+                </p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>SA</bold>
+              </term>
+              <def>
+                <p>Salvation Army</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>SDA</bold>
+              </term>
+              <def>
+                <p>Seventh Day Adventist</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <bold>STI</bold>
+              </term>
+              <def>
+                <p>Sexually Transmitted Infection</p>
+              </def>
+            </def-item>
+          </def-list>
+        </glossary>
+        <notes notes-type="Misc">
+          <title>Competing interests</title>
+          <p>The findings and conclusions in this report are those of Dr. Brathwaite and Ms. Genrich and do not necessarily represent the views of the funding agency, the Institute for International Education and Fulbright Fellowship Program, nor the organizations where the authors currently work, the University of the West Indies and the Centers for Disease Control and Prevention, respectively. There were no competing interests, financial or otherwise, in the present investigation, and no incentive on behalf of the Institute for International Education to obtain the results found. No fees or funding were obtained from any organization that could gain or lose from the publication of the manuscript, and no stocks or shares are held in any organization that stood to gain or lose financially from publication.</p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Authors' contributions</title>
+          <p>Dr. Brathwaite contributed to the design of the research method. Ms. Genrich carried out the in-depth interviews with the participants, religious representatives and individuals living with HIV/AIDS. Both Dr. Brathwaite and Ms. Genrich collaborated on the final analysis and manuscript preparation. Both authors read and approved the final manuscript.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301713",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56621-6",
+    "title": "Antagonistic interplay between pH and food resources affects copepod traits and performance in a year-round upwelling system",
+    "article_number": "62",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Victor M. Aguilera",
+      "Cristian A. Vargas",
+      "Hans G. Dam"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:27:49.191142"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:27:50.748499"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:27:52.061668"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:34:27.078640"
+    },
+    "last_updated": "2025-10-03T21:34:27.078843"
+  }
+}

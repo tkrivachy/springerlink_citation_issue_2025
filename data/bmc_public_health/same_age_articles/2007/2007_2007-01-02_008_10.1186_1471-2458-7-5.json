@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:20.135849",
+  "year": 2007,
+  "article_type": "comparison",
+  "publication_date": "2007-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-7-5",
+    "title": "Use of tobacco and alcohol by Swiss primary care physicians: a cross-sectional survey",
+    "article_number": "5",
+    "publication_date": "2007-01-12",
+    "volume": "7",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Paul Sebo",
+      "Martine Bouvier Gallacchi",
+      "Catherine Goehring",
+      "Beat Künzi",
+      "Patrick A Bovier"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T12:26:49.568591"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:26:51.154681"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T12:26:52.542726"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T20:50:56.391485"
+    },
+    "last_updated": "2025-10-03T20:50:56.391683"
+  }
+}

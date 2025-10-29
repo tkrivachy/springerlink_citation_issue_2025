@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.342221",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84613-8",
+    "title": "The prognostic and immunomodulatory role of the MMR system in patients with stomach adenocarcinoma",
+    "article_number": "180",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhihui Tian",
+      "Lili Yang",
+      "Rong Yang",
+      "Wenhui Yang"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:59:31.396273"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:59:32.926424"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:59:34.083615"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:32:38.535432"
+    },
+    "last_updated": "2025-10-03T22:32:38.535620"
+  }
+}

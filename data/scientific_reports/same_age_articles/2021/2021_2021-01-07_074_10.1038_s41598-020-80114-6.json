@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.213282",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80114-6",
+    "title": "Environmental biodegradability of recombinant structural protein",
+    "article_number": "242",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuya Tachibana",
+      "Sunita Darbe",
+      "Senri Hayashi",
+      "Alina Kudasheva",
+      "Haruna Misawa",
+      "Yuka Shibata",
+      "Ken-ichi Kasuya"
+    ]
+  },
+  "article_index": 74,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:45:26.125907"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:45:27.662185"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:45:28.989288"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:41:37.766271"
+    },
+    "last_updated": "2025-10-03T21:41:37.766493"
+  }
+}

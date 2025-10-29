@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.743185",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-S1-P15",
+    "title": "Web based application for Casemix Grouper (Online Casemix Grouper)",
+    "article_number": "P15",
+    "publication_date": "2014-01-29",
+    "volume": "14",
+    "issue": "Suppl 1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Hasrul Reeza Mustaffa",
+      "Syed Mohamed Aljunid",
+      "Zafar Ahmed",
+      "Syed Mohamad Hamzah Al-Junid"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T12:59:51.646748"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T12:59:53.169440"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T12:59:54.341463"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T21:02:41.203161"
+    },
+    "last_updated": "2025-10-03T21:02:41.203390"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.644173",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35761-w",
+    "title": "Tuning phenylalanine fluorination to assess aromatic contributions to protein function and stability in cells",
+    "article_number": "59",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Grace D. Galles",
+      "Daniel T. Infield",
+      "Colin J. Clark",
+      "Marcus L. Hemshorn",
+      "Shivani Manikandan",
+      "Frederico Fazan",
+      "Ali Rasouli",
+      "Emad Tajkhorshid",
+      "Jason D. Galpin",
+      "Richard B. Cooley",
+      "Ryan A. Mehl",
+      "Christopher A. Ahern"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:49:33.283129"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:49:35.040499"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:49:36.225512"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:10:30.397195"
+    },
+    "last_updated": "2025-10-03T23:10:30.397245"
+  }
+}

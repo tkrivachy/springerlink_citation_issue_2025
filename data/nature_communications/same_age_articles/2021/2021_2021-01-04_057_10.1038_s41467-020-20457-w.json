@@ -1,0 +1,71 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.183281",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20457-w",
+    "title": "Host and viral determinants for efficient SARS-CoV-2 infection of the human lung",
+    "article_number": "134",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hin Chu",
+      "Bingjie Hu",
+      "Xiner Huang",
+      "Yue Chai",
+      "Dongyan Zhou",
+      "Yixin Wang",
+      "Huiping Shuai",
+      "Dong Yang",
+      "Yuxin Hou",
+      "Xi Zhang",
+      "Terrence Tsz-Tai Yuen",
+      "Jian-Piao Cai",
+      "Anna Jinxia Zhang",
+      "Jie Zhou",
+      "Shuofeng Yuan",
+      "Kelvin Kai-Wang To",
+      "Ivy Hau-Yee Chan",
+      "Ko-Yung Sit",
+      "Dominic Chi-Chung Foo",
+      "Ian Yu-Hong Wong",
+      "Ada Tsui-Lin Ng",
+      "Tan To Cheung",
+      "Simon Ying-Kit Law",
+      "Wing-Kuk Au",
+      "Melinda A. Brindley",
+      "Zhiwei Chen",
+      "Kin-Hang Kok",
+      "Jasper Fuk-Woo Chan",
+      "Kwok-Yung Yuen"
+    ]
+  },
+  "article_index": 57,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T18:38:15.562169"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T18:38:17.101431"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T18:38:18.254058"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T23:06:46.366292"
+    },
+    "last_updated": "2025-10-03T23:06:46.366522"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.830013",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50465-x",
+    "title": "Native PLGA nanoparticles attenuate Aβ-seed induced tau aggregation under in vitro conditions: potential implication in Alzheimer’s disease pathology",
+    "article_number": "144",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Pallabi Sil Paul",
+      "Tark Patel",
+      "Jae-Young Cho",
+      "Allan Yarahmady",
+      "Aria Khalili",
+      "Valentyna Semenchenko",
+      "Holger Wille",
+      "Marianna Kulka",
+      "Sue-Ann Mok",
+      "Satyabrata Kar"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:40:59.461093"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:41:00.974550"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:41:02.207204"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T22:04:12.758970"
+    },
+    "last_updated": "2025-10-03T22:04:12.759162"
+  }
+}

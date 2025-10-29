@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.177853",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20319-5",
+    "title": "Structural basis for distinct inflammasome complex assembly by human NLRP1 and CARD8",
+    "article_number": "188",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qin Gong",
+      "Kim Robinson",
+      "Chenrui Xu",
+      "Phuong Thao Huynh",
+      "Kelvin Han Chung Chong",
+      "Eddie Yong Jun Tan",
+      "Jiawen Zhang",
+      "Zhao Zhi Boo",
+      "Daniel Eng Thiam Teo",
+      "Kenneth Lay",
+      "Yaming Zhang",
+      "John Soon Yew Lim",
+      "Wah Ing Goh",
+      "Graham Wright",
+      "Franklin L. Zhong",
+      "Bruno Reversade",
+      "Bin Wu"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:29:42.961225"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:29:44.529598"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:29:45.858477"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T23:03:57.971289"
+    },
+    "last_updated": "2025-10-03T23:03:57.971530"
+  }
+}

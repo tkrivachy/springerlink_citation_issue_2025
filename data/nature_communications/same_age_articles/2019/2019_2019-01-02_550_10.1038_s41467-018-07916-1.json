@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.736913",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07916-1",
+    "title": "Recognizing the quiet extinction of invertebrates",
+    "article_number": "50",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nico Eisenhauer",
+      "Aletta Bonn",
+      "Carlos A. Guerra"
+    ]
+  },
+  "article_index": 550,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:52:03.707242"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 226,
+      "retrieved_at": "2025-10-03T17:52:05.252176"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 211,
+      "retrieved_at": "2025-10-03T17:52:06.426094"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 252,
+      "retrieved_at": "2025-10-03T22:50:57.789730"
+    },
+    "last_updated": "2025-10-03T22:50:57.789923"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.388063",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82968-6",
+    "title": "Prognosis of patients with breast cancer who underwent breast-conserving surgery using a 3D-printed surgical guide after neoadjuvant chemotherapy",
+    "article_number": "86",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ah Yoon Kim",
+      "Sae Byul Lee",
+      "Tae Kyung Yoo",
+      "Ji Sun Kim",
+      "Il Yong Chung",
+      "Hee Joung Kim",
+      "Jong Won Lee",
+      "Byung Ho Son",
+      "Jae Ho Jeong",
+      "Hee Jin Lee",
+      "Nam kug Kim",
+      "BeomSeok Ko"
+    ]
+  },
+  "article_index": 367,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:37:00.935428"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:37:02.461275"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:53:04.055135"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:24:44.162402"
+    },
+    "last_updated": "2025-10-07T09:53:04.055374"
+  }
+}

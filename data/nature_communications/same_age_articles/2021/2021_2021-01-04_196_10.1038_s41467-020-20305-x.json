@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204333",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20305-x",
+    "title": "Experimental validation of a modeling framework for upconversion enhancement in 1D-photonic crystals",
+    "article_number": "104",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Clarissa L. M. Hofmann",
+      "Stefan Fischer",
+      "Emil H. Eriksen",
+      "Benedikt Bläsi",
+      "Christian Reitz",
+      "Deniz Yazicioglu",
+      "Ian A. Howard",
+      "Bryce S. Richards",
+      "Jan Christoph Goldschmidt"
+    ]
+  },
+  "article_index": 196,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:33:30.669275"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:33:32.219187"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:33:33.405253"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:05:10.161259"
+    },
+    "last_updated": "2025-10-03T23:05:10.161370"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.362332",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82733-9",
+    "title": "Production and properties of particleboard and paper from waste poppy straw",
+    "article_number": "339",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kateřina Hájková",
+      "Tomáš Holeček",
+      "Michaela Filipi",
+      "Josef Bárta",
+      "Adam Sikora",
+      "Uğur Özkan"
+    ]
+  },
+  "article_index": 133,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:05:21.690256"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:05:23.202669"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:37.066683"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:13:34.906629"
+    },
+    "last_updated": "2025-10-07T09:46:37.066738"
+  }
+}

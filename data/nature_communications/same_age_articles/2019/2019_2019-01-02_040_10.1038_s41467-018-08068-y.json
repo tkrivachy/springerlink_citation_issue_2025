@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.681312",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08068-y",
+    "title": "Solid Earth change and the evolution of the Antarctic Ice Sheet",
+    "article_number": "503",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pippa L. Whitehouse",
+      "Natalya Gomez",
+      "Matt A. King",
+      "Douglas A. Wiens"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:28:22.672264"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T17:28:24.309830"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T17:28:25.674758"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 152,
+      "retrieved_at": "2025-10-03T22:42:57.406461"
+    },
+    "last_updated": "2025-10-03T22:42:57.406653"
+  }
+}

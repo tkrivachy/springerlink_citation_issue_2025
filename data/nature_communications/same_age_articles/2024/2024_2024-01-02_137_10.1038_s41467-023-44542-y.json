@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.682852",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44542-y",
+    "title": "Innate immune and proinflammatory signals activate the Hippo pathway via a Tak1-STRIPAK-Tao axis",
+    "article_number": "145",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yinan Yang",
+      "Huijing Zhou",
+      "Xiawei Huang",
+      "Chengfang Wu",
+      "Kewei Zheng",
+      "Jingrong Deng",
+      "Yonggang Zheng",
+      "Jiahui Wang",
+      "Xiaofeng Chi",
+      "Xianjue Ma",
+      "Huimin Pan",
+      "Rui Shen",
+      "Duojia Pan",
+      "Bo Liu"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:01:08.622777"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:01:10.158516"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:01:11.455135"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:14:24.997523"
+    },
+    "last_updated": "2025-10-03T23:14:24.997717"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "json",
+  "test_doi": "10.1038/s41598-024-84388-y",
+  "safe_doi": "10_1038_s41598-024-84388-y",
+  "timestamp": "2025-10-20 14:12:16",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5624048709869385,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/json",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41598-024-84388-y",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'openAccess', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'subjects', 'disciplines']\ndoi: 10.1038/s41598-024-84388-y...\ntitle: Evidence of eared doves consumption and the potential toxic exposure during the Regional Development...\ncreators: [{'creator': 'Ordoñez-Araque, Roberto'}, {'creator': 'Mosquera, Andrés'}, {'creator': 'Román-Carrión...\npublicationName: Scientific Reports...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "openaccess_json.json"
+}

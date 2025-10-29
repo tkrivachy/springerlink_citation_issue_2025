@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.234885",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80084-9",
+    "title": "Pleiotropic genetic influence on birth weight and childhood obesity",
+    "article_number": "48",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Suvo Chatterjee",
+      "Marion Ouidir",
+      "Fasil Tekola-Ayele"
+    ]
+  },
+  "article_index": 185,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:37:30.033961"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:37:31.559137"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:37:32.801406"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:38:25.685321"
+    },
+    "last_updated": "2025-10-03T21:38:25.685555"
+  }
+}

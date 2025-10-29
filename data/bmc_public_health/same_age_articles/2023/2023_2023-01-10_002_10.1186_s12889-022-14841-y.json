@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.095040",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-022-14841-y",
+    "title": "Infrastructure, policy and regulatory interventions to increase physical activity to prevent cardiovascular diseases and diabetes: a systematic review",
+    "article_number": "112",
+    "publication_date": "2023-01-16",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Solange Durão",
+      "Jacob Burns",
+      "Bey-Marrié Schmidt",
+      "David Tumusiime",
+      "Ameer Hohlfeld",
+      "Lisa Pfadenhauer",
+      "Clémence Ongolo-Zogo",
+      "Eva Rehfuess",
+      "Tamara Kredo"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:12:22.116572"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:12:23.672533"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:12:25.099314"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:28:54.231295"
+    },
+    "last_updated": "2025-10-03T21:28:54.231521"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540136",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55444-y",
+    "title": "E4F1 coordinates pyruvate metabolism and the activity of the elongator complex to ensure translation fidelity during brain development",
+    "article_number": "67",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Michela Di Michele",
+      "Aurore Attina",
+      "Pierre-François Roux",
+      "Imène Tabet",
+      "Sophie Laguesse",
+      "Javier Florido",
+      "Morane Houdeville",
+      "Armelle Choquet",
+      "Betty Encislai",
+      "Giuseppe Arena",
+      "Carlo De Blasio",
+      "Olivia Wendling",
+      "François-Xavier Frenois",
+      "Laura Papon",
+      "Lucille Stuani",
+      "Maryse Fuentes",
+      "Céline Jahannault Talignani",
+      "Mélanie Rousseau",
+      "Justine Guégan",
+      "Yoan Buscail",
+      "Pierrick Dupré",
+      "Henri-Alexandre Michaud",
+      "Geneviève Rodier",
+      "Floriant Bellvert",
+      "Hanna Kulyk",
+      "Carole Ferraro Peyret",
+      "Hugo Mathieu",
+      "Pierre Close",
+      "Francesca Rapino",
+      "Cédric Chaveroux",
+      "Nelly Pirot",
+      "Lucie Rubio",
+      "Adeline Torro",
+      "Tania Sorg",
+      "Fabrice Ango",
+      "Christophe Hirtz",
+      "Vincent Compan",
+      "Elise Lebigot",
+      "Andrea Legati",
+      "Daniele Ghezzi",
+      "Laurent Nguyen",
+      "Alexandre David",
+      "Claude Sardet",
+      "Matthieu Lacroix",
+      "Laurent Le Cam"
+    ]
+  },
+  "article_index": 207,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:23:51.430180"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:23:52.954406"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:23:54.104119"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:22:08.018628"
+    },
+    "last_updated": "2025-10-03T23:22:08.018819"
+  }
+}

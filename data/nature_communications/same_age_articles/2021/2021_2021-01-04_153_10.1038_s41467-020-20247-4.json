@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.198673",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20247-4",
+    "title": "Neutralizing antibody titres in SARS-CoV-2 infections",
+    "article_number": "63",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Eric H. Y. Lau",
+      "Owen T. Y. Tsang",
+      "David S. C. Hui",
+      "Mike Y. W. Kwan",
+      "Wai-hung Chan",
+      "Susan S. Chiu",
+      "Ronald L. W. Ko",
+      "Kin H. Chan",
+      "Samuel M. S. Cheng",
+      "Ranawaka A. P. M. Perera",
+      "Benjamin J. Cowling",
+      "Leo L. M. Poon",
+      "Malik Peiris"
+    ]
+  },
+  "article_index": 153,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 321,
+      "retrieved_at": "2025-10-03T18:39:27.465371"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 318,
+      "retrieved_at": "2025-10-03T18:39:29.052419"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 309,
+      "retrieved_at": "2025-10-03T18:39:30.236428"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 350,
+      "retrieved_at": "2025-10-03T23:07:08.879457"
+    },
+    "last_updated": "2025-10-03T23:07:08.879520"
+  }
+}

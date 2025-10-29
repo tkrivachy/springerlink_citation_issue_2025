@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.685403",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8112-3",
+    "title": "Patients with more comorbidities have better detection of chronic conditions, but poorer management and control: findings from six middle-income countries",
+    "article_number": "9",
+    "publication_date": "2020-01-06",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Grace Sum",
+      "Gerald Choon-Huat Koh",
+      "Stewart W. Mercer",
+      "Lim Yee Wei",
+      "Azeem Majeed",
+      "Brian Oldenburg",
+      "John Tayu Lee"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T13:28:56.174873"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T13:28:57.749859"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:28:59.022318"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T21:13:24.643575"
+    },
+    "last_updated": "2025-10-03T21:13:24.643674"
+  }
+}

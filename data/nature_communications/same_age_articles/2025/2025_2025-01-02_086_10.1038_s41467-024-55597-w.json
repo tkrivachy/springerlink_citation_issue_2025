@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.521910",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55597-w",
+    "title": "Single-cell RNA sequencing identifies CXADR as a fate determinant of the placental exchange surface",
+    "article_number": "142",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dafina M. Angelova",
+      "Aleksandra Tsolova",
+      "Malwina Prater",
+      "Noura Ballasy",
+      "Wendi Bacon",
+      "Russell S. Hamilton",
+      "Danielle Blackwell",
+      "Ziyi Yu",
+      "Xin Li",
+      "Xin Liu",
+      "Myriam Hemberger",
+      "D. Stephen Charnock-Jones"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:37:55.749464"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:37:57.273522"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:37:58.427289"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:26:40.808474"
+    },
+    "last_updated": "2025-10-03T23:26:40.808540"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.879757",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13904-w",
+    "title": "Author Correction: Thyroid hormone induces progression and invasiveness of squamous cell carcinomas by promoting a ZEB-1/E-cadherin switch",
+    "article_number": "245",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Caterina Miro",
+      "Emery Di Cicco",
+      "Raffaele Ambrosio",
+      "Giuseppina Mancino",
+      "Daniela Di Girolamo",
+      "Annunziata Gaetana Cicatiello",
+      "Serena Sagliocchi",
+      "Annarita Nappi",
+      "Maria Angela De Stefano",
+      "Cristina Luongo",
+      "Dario Antonini",
+      "Feliciano Visconte",
+      "Silvia Varricchio",
+      "Gennaro Ilardi",
+      "Luigi Del Vecchio",
+      "Stefania Staibano",
+      "Anita Boelen",
+      "Cedric Blanpain",
+      "Caterina Missero",
+      "Domenico Salvatore",
+      "Monica Dentice"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:17:07.076681"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:17:08.598421"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:17:09.757800"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:59:32.692146"
+    },
+    "last_updated": "2025-10-03T22:59:32.692382"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.878057",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03967-5",
+    "title": "Geographic and temporal variation in racial and ethnic disparities in SARS-CoV-2 positivity between February 2020 and August 2021 in the United States",
+    "article_number": "273",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jacqueline M. Ferguson",
+      "Amy C. Justice",
+      "Thomas F. Osborne",
+      "Hoda S. Abdel Magid",
+      "Amanda L. Purnell",
+      "Christopher T. Rentsch"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:25:11.542936"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:25:13.109289"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:25:14.286356"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:57:54.505243"
+    },
+    "last_updated": "2025-10-03T21:57:54.505354"
+  }
+}

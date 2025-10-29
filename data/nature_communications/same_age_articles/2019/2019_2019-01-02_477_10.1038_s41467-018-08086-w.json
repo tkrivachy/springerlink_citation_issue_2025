@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.729105",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08086-w",
+    "title": "Author Correction: Molecular basis for the inhibition of the methyl-lysine binding function of 53BP1 by TIRR",
+    "article_number": "170",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiaxu Wang",
+      "Zenglin Yuan",
+      "Yaqi Cui",
+      "Rong Xie",
+      "Guang Yang",
+      "Muzaffer A. Kassab",
+      "Mengxi Wang",
+      "Yinliang Ma",
+      "Chen Wu",
+      "Xiaochun Yu",
+      "Xiuhua Liu"
+    ]
+  },
+  "article_index": 477,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:19:09.734614"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:19:11.270744"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:19:12.451913"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:39:47.977285"
+    },
+    "last_updated": "2025-10-03T22:39:47.977508"
+  }
+}

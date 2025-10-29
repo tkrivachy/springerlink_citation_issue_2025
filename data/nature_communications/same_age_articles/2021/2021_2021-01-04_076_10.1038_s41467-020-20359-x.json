@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.186552",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20359-x",
+    "title": "Seesaw conformations of Npl4 in the human p97 complex and the inhibitory mechanism of a disulfiram derivative",
+    "article_number": "121",
+    "publication_date": "2021-01-05",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Man Pan",
+      "Qingyun Zheng",
+      "Yuanyuan Yu",
+      "Huasong Ai",
+      "Yuan Xie",
+      "Xin Zeng",
+      "Chu Wang",
+      "Lei Liu",
+      "Minglei Zhao"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T18:36:35.339082"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T18:36:36.886269"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T18:36:38.244441"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T23:06:10.484764"
+    },
+    "last_updated": "2025-10-03T23:06:10.484956"
+  }
+}

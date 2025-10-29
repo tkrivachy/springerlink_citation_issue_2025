@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.710334",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08274-8",
+    "title": "Electric-field control of spin accumulation direction for spin-orbit torques",
+    "article_number": "248",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rahul Mishra",
+      "Farzad Mahfouzi",
+      "Dushyant Kumar",
+      "Kaiming Cai",
+      "Mengji Chen",
+      "Xuepeng Qiu",
+      "Nicholas Kioussis",
+      "Hyunsoo Yang"
+    ]
+  },
+  "article_index": 302,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:39:04.185073"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T17:39:05.738963"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T17:39:07.083671"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T22:46:39.811887"
+    },
+    "last_updated": "2025-10-03T22:46:39.812077"
+  }
+}

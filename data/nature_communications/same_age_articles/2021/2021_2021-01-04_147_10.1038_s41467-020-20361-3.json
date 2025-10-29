@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.197768",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20361-3",
+    "title": "Cardiomyocytes stimulate angiogenesis after ischemic injury in a ZEB2-dependent manner",
+    "article_number": "84",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Monika M. Gladka",
+      "Arwa Kohela",
+      "Bas Molenaar",
+      "Danielle Versteeg",
+      "Lieneke Kooijman",
+      "Jantine Monshouwer-Kloots",
+      "Veerle Kremer",
+      "Harmjan R. Vos",
+      "Manon M. H. Huibers",
+      "Jody J. Haigh",
+      "Danny Huylebroeck",
+      "Reinier A. Boon",
+      "Mauro Giacca",
+      "Eva van Rooij"
+    ]
+  },
+  "article_index": 147,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T18:24:58.859600"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T18:25:00.427762"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T18:25:01.609631"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T23:02:17.627994"
+    },
+    "last_updated": "2025-10-03T23:02:17.628186"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.185772",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20211-2",
+    "title": "Lossless integration of multiple electronic health records for identifying pleiotropy using summary statistics",
+    "article_number": "168",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ruowang Li",
+      "Rui Duan",
+      "Xinyuan Zhang",
+      "Thomas Lumley",
+      "Sarah Pendergrass",
+      "Christopher Bauer",
+      "Hakon Hakonarson",
+      "David S. Carrell",
+      "Jordan W. Smoller",
+      "Wei-Qi Wei",
+      "Robert Carroll",
+      "Digna R. Velez Edwards",
+      "Georgia Wiesner",
+      "Patrick Sleiman",
+      "Josh C. Denny",
+      "Jonathan D. Mosley",
+      "Marylyn D. Ritchie",
+      "Yong Chen",
+      "Jason H. Moore"
+    ]
+  },
+  "article_index": 72,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T18:31:45.775186"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:31:47.311762"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:31:48.598015"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:04:38.686215"
+    },
+    "last_updated": "2025-10-03T23:04:38.686450"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.863149",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50853-3",
+    "title": "Stochastic lithofacies and petrophysical property modeling for fast history matching in heterogeneous clastic reservoir applications",
+    "article_number": "22",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Watheq J. Al-Mudhafar",
+      "Hung Vo Thanh",
+      "David A. Wood",
+      "Baehyun Min"
+    ]
+  },
+  "article_index": 288,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:51:14.378629"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:51:15.883112"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:51:17.121574"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T22:08:13.451035"
+    },
+    "last_updated": "2025-10-03T22:08:13.451093"
+  }
+}

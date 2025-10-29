@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.870081",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04075-0",
+    "title": "Factors affecting drug retention of Janus kinase inhibitors in patients with rheumatoid arthritis: the ANSWER cohort study",
+    "article_number": "134",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kosuke Ebina",
+      "Toru Hirano",
+      "Yuichi Maeda",
+      "Wataru Yamamoto",
+      "Motomu Hashimoto",
+      "Koichi Murata",
+      "Akira Onishi",
+      "Sadao Jinno",
+      "Ryota Hara",
+      "Yonsu Son",
+      "Hideki Amuro",
+      "Tohru Takeuchi",
+      "Ayaka Yoshikawa",
+      "Masaki Katayama",
+      "Keiichi Yamamoto",
+      "Yasutaka Okita",
+      "Makoto Hirao",
+      "Yuki Etani",
+      "Atsushi Kumanogoh",
+      "Seiji Okada",
+      "Ken Nakata"
+    ]
+  },
+  "article_index": 123,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:20:03.921244"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T15:20:05.459231"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T15:20:06.654550"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T21:55:54.143835"
+    },
+    "last_updated": "2025-10-03T21:55:54.144025"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.703941",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08242-2",
+    "title": "An evolutionarily-conserved Wnt3/β-catenin/Sp5 feedback loop restricts head organizer activity in ",
+    "article_number": "312",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Matthias C. Vogg",
+      "Leonardo Beccari",
+      "Laura Iglesias Ollé",
+      "Christine Rampon",
+      "Sophie Vriz",
+      "Chrystelle Perruchoud",
+      "Yvan Wenger",
+      "Brigitte Galliot"
+    ]
+  },
+  "article_index": 246,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T18:02:42.322152"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T18:02:43.865715"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T18:02:45.268825"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T22:54:44.517482"
+    },
+    "last_updated": "2025-10-03T22:54:44.517569"
+  }
+}

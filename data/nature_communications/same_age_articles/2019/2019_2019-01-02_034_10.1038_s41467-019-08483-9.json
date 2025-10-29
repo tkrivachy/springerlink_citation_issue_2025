@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.680725",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08483-9",
+    "title": "Capturing chemical intuition in synthesis of metal-organic frameworks",
+    "article_number": "539",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Seyed Mohamad Moosavi",
+      "Arunraj Chidambaram",
+      "Leopold Talirz",
+      "Maciej Haranczyk",
+      "Kyriakos C. Stylianou",
+      "Berend Smit"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:00:44.761837"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 198,
+      "retrieved_at": "2025-10-03T18:00:46.283098"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T18:00:47.772992"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 207,
+      "retrieved_at": "2025-10-03T22:54:14.371450"
+    },
+    "last_updated": "2025-10-03T22:54:14.371551"
+  }
+}

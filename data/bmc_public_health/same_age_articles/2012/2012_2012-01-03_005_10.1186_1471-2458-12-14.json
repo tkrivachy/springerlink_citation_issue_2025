@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:06.673714",
+  "year": 2012,
+  "article_type": "comparison",
+  "publication_date": "2012-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-12-14",
+    "title": "A cross-sectional survey of prevalence and correlates of suicidal ideation and suicide attempts among prisoners in New South Wales, Australia",
+    "article_number": "14",
+    "publication_date": "2012-01-06",
+    "volume": "12",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Sarah Larney",
+      "Libby Topp",
+      "Devon Indig",
+      "Colmán O'Driscoll",
+      "David Greenberg"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T12:44:18.338772"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T12:44:19.904000"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T12:44:21.264950"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T20:57:11.055542"
+    },
+    "last_updated": "2025-10-03T20:57:11.055630"
+  }
+}

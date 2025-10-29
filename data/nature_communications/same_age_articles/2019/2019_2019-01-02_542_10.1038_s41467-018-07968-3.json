@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.736044",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07968-3",
+    "title": "The conformational changes coupling ATP hydrolysis and translocation in a bacterial DnaB helicase",
+    "article_number": "31",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Thomas Wiegand",
+      "Riccardo Cadalbert",
+      "Denis Lacabanne",
+      "Joanna Timmins",
+      "Laurent Terradot",
+      "Anja Böckmann",
+      "Beat H. Meier"
+    ]
+  },
+  "article_index": 542,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:11:16.693147"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:11:18.216492"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T17:11:19.569208"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T22:37:04.557536"
+    },
+    "last_updated": "2025-10-03T22:37:04.557625"
+  }
+}

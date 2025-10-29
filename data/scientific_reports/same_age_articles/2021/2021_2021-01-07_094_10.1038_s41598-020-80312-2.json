@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.215531",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80312-2",
+    "title": "Modular machine learning for Alzheimer's disease classification from retinal vasculature",
+    "article_number": "238",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jianqiao Tian",
+      "Glenn Smith",
+      "Han Guo",
+      "Boya Liu",
+      "Zehua Pan",
+      "Zijie Wang",
+      "Shuangyu Xiong",
+      "Ruogu Fang"
+    ]
+  },
+  "article_index": 94,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T14:36:26.726519"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T14:36:28.295049"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T14:36:29.448497"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T21:37:58.756621"
+    },
+    "last_updated": "2025-10-03T21:37:58.756815"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.650987",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10067-y",
+    "title": "Effects of Asian dust-derived particulate matter on ST-elevation myocardial infarction: retrospective, time series study",
+    "article_number": "68",
+    "publication_date": "2021-01-07",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Suji Lee",
+      "Whanhee Lee",
+      "Eunil Lee",
+      "Myung Ho Jeong",
+      "Seung-Woon Rha",
+      "Chong-Jin Kim",
+      "Shung Chull Chae",
+      "Hyo-Soo Kim",
+      "Hyeon-Cheol Gwon",
+      "Ho Kim"
+    ]
+  },
+  "article_index": 180,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:46:47.970647"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:46:49.541918"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:46:50.813237"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:19:52.125246"
+    },
+    "last_updated": "2025-10-03T21:19:52.125297"
+  }
+}

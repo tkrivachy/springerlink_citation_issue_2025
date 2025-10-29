@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.346990",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83669-w",
+    "title": "In silico analysis of mitochondrial DNA genes: implication for conservation of ",
+    "article_number": "106",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kushal Thakur",
+      "Deepika Sharma",
+      "Ankita Sharma",
+      "Amit Kumar Sharma",
+      "Danish Mahajan",
+      "Bhavna Brar",
+      "Hishani Kumari",
+      "Sandeep Kumar",
+      "Madhu Bala",
+      "Sunil Kumar",
+      "Rakesh Kumar"
+    ]
+  },
+  "article_index": 53,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:39:05.076293"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:39:06.635608"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:39:07.864072"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:25:30.960958"
+    },
+    "last_updated": "2025-10-03T22:25:30.961058"
+  }
+}

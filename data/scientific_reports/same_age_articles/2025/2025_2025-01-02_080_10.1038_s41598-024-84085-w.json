@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.349869",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84085-w",
+    "title": "Efficient control strategy for electric furnace temperature regulation using quadratic interpolation optimization",
+    "article_number": "154",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Serdar Ekinci",
+      "Davut Izci",
+      "Veysel Gider",
+      "Laith Abualigah",
+      "Mohit Bajaj",
+      "Ievgen Zaitsev"
+    ]
+  },
+  "article_index": 80,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:42:06.117509"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:42:07.629140"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:42:08.790090"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:26:37.887844"
+    },
+    "last_updated": "2025-10-03T22:26:37.887929"
+  }
+}

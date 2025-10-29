@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642257",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35758-5",
+    "title": "Nucleus accumbens circuit disinhibits lateral hypothalamus glutamatergic neurons contributing to morphine withdrawal memory in male mice",
+    "article_number": "71",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Huan Sheng",
+      "Chao Lei",
+      "Yu Yuan",
+      "Yali Fu",
+      "Dongyang Cui",
+      "Li Yang",
+      "Da Shao",
+      "Zixuan Cao",
+      "Hao Yang",
+      "Xinli Guo",
+      "Chenshan Chu",
+      "Yaxian Wen",
+      "Zhangyin Cai",
+      "Ming Chen",
+      "Bin Lai",
+      "Ping Zheng"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:55:37.268104"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:55:38.774712"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:55:40.024149"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T23:12:33.894756"
+    },
+    "last_updated": "2025-10-03T23:12:33.894947"
+  }
+}

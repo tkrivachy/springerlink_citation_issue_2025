@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.874319",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04419-w",
+    "title": "Predicting suspended sediment load in Peninsular Malaysia using support vector machine and deep learning algorithms",
+    "article_number": "302",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yusuf Essam",
+      "Yuk Feng Huang",
+      "Ahmed H. Birima",
+      "Ali Najah Ahmed",
+      "Ahmed El-Shafie"
+    ]
+  },
+  "article_index": 160,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T15:21:57.589019"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T15:21:59.104871"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T15:22:00.264460"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T21:56:37.160714"
+    },
+    "last_updated": "2025-10-03T21:56:37.160902"
+  }
+}

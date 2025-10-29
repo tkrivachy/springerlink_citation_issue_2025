@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.248678",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1357-6",
+    "title": "Maternal socioeconomic status and the risk of asthma among offspring",
+    "article_number": "27",
+    "publication_date": "2015-01-28",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Maijakaisa Harju",
+      "Leea Keski-Nisula",
+      "Leena Georgiadis",
+      "Kaisa Raatikainen",
+      "Sari Räisänen",
+      "Seppo Heinonen"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:17:51.663296"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:17:53.407382"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:17:54.690869"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:09:27.380186"
+    },
+    "last_updated": "2025-10-03T21:09:27.380237"
+  }
+}

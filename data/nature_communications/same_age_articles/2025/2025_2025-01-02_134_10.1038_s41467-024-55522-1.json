@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.531802",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55522-1",
+    "title": "Rational engineering of minimally immunogenic nucleases for gene therapy",
+    "article_number": "105",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rumya Raghavan",
+      "Mirco J. Friedrich",
+      "Indigo King",
+      "Samuel Chau-Duy-Tam Vo",
+      "Daniel Strebinger",
+      "Blake Lash",
+      "Michael Kilian",
+      "Michael Platten",
+      "Rhiannon K. Macrae",
+      "Yifan Song",
+      "Lucas Nivon",
+      "Feng Zhang"
+    ]
+  },
+  "article_index": 134,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:47:51.548246"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:47:53.115094"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:47:54.297711"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:30:20.796213"
+    },
+    "last_updated": "2025-10-03T23:30:20.796443"
+  }
+}

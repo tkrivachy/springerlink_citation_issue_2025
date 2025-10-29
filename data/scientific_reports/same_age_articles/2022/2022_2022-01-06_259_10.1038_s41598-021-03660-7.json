@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.884566",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03660-7",
+    "title": "A randomized trial to determine the minimum effective lidocaine volume for median nerve block using hydrodissection",
+    "article_number": "52",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Eric Dufour",
+      "Souhail Jaziri",
+      "Marie Alice Novillo",
+      "Lila Aubert",
+      "Anne Chambon",
+      "Rainer Kutz",
+      "Alexandre Vallée",
+      "Marc Fischler"
+    ]
+  },
+  "article_index": 259,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:00:54.921641"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:00:56.429374"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:00:57.584282"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:47:40.667299"
+    },
+    "last_updated": "2025-10-03T21:47:40.667532"
+  }
+}

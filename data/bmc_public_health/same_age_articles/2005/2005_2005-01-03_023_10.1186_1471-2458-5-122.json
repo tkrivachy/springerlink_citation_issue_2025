@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.956484",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-122",
+    "title": "Patient and health service delay in pulmonary tuberculosis patients attending a referral hospital: a cross-sectional study",
+    "article_number": "122",
+    "publication_date": "2005-11-24",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mpungu S Kiwuwa",
+      "Karamagi Charles",
+      "Mayanja Kizza Harriet"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T12:19:18.612750"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T12:19:20.177719"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 131,
+      "retrieved_at": "2025-10-03T12:19:21.629607"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T20:48:06.709518"
+    },
+    "last_updated": "2025-10-03T20:48:06.709613"
+  }
+}

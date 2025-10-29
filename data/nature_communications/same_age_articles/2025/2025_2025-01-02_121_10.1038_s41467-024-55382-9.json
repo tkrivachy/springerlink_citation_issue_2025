@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.526302",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55382-9",
+    "title": "Blobby is a synaptic active zone assembly protein required for memory in ",
+    "article_number": "271",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. Lützkendorf",
+      "T. Matkovic-Rachid",
+      "S. Liu",
+      "T. Götz",
+      "L. Gao",
+      "O. Turrel",
+      "M. Maglione",
+      "M. Grieger",
+      "S. Putignano",
+      "N. Ramesh",
+      "T. Ghelani",
+      "A. Neumann",
+      "N. Gimber",
+      "J. Schmoranzer",
+      "A. Stawrakakis",
+      "B. Brence",
+      "D. Baum",
+      "Kai Ludwig",
+      "M. Heine",
+      "T. Mielke",
+      "F. Liu",
+      "A. M. Walter",
+      "M. C. Wahl",
+      "S. J. Sigrist"
+    ]
+  },
+  "article_index": 121,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:26:41.278827"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:26:42.837051"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:26:44.043304"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:23:03.265036"
+    },
+    "last_updated": "2025-10-03T23:23:03.265233"
+  }
+}

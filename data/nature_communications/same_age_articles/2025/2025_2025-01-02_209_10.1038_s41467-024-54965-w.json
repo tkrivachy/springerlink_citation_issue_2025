@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540374",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54965-w",
+    "title": "A new class of natural anthelmintics targeting lipid metabolism",
+    "article_number": "305",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hala Zahreddine Fahs",
+      "Fathima S. Refai",
+      "Suma Gopinadhan",
+      "Yasmine Moussa",
+      "Hin Hark Gan",
+      "Yamanappa Hunashal",
+      "Gennaro Battaglia",
+      "Patricia G. Cipriani",
+      "Claire Ciancia",
+      "Nabil Rahiman",
+      "Stephan Kremb",
+      "Xin Xie",
+      "Yanthe E. Pearson",
+      "Glenn L. Butterfoss",
+      "Rick M. Maizels",
+      "Gennaro Esposito",
+      "Antony P. Page",
+      "Kristin C. Gunsalus",
+      "Fabio Piano"
+    ]
+  },
+  "article_index": 209,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:47:45.862192"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:47:47.432639"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:47:48.648580"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:30:18.766183"
+    },
+    "last_updated": "2025-10-03T23:30:18.766410"
+  }
+}

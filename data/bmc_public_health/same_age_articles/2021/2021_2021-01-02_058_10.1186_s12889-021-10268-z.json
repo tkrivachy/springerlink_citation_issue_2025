@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.635001",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10268-z",
+    "title": "Anemia and associated factors among adolescent girls and boys at 10–14 years in rural western China",
+    "article_number": "218",
+    "publication_date": "2021-01-26",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Zhonghai Zhu",
+      "Christopher R. Sudfeld",
+      "Yue Cheng",
+      "Qi Qi",
+      "Shaoru Li",
+      "Mohamed Elhoumed",
+      "Wenfang Yang",
+      "Suying Chang",
+      "Michael J. Dibley",
+      "Lingxia Zeng",
+      "Wafaie W. Fawzi"
+    ]
+  },
+  "article_index": 58,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T13:47:23.556446"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T13:47:25.098884"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T13:47:26.379736"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T21:20:04.825009"
+    },
+    "last_updated": "2025-10-03T21:20:04.825054"
+  }
+}

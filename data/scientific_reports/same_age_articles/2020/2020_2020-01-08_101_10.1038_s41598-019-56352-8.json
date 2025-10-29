@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.314165",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56352-8",
+    "title": "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection",
+    "article_number": "9",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Pedro A. B. Gomes",
+      "Yoshihiko Suhara",
+      "Patrícia Nunes-Silva",
+      "Luciano Costa",
+      "Helder Arruda",
+      "Giorgio Venturieri",
+      "Vera Lucia Imperatriz-Fonseca",
+      "Alex Pentland",
+      "Paulo de Souza",
+      "Gustavo Pessin"
+    ]
+  },
+  "article_index": 101,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T14:31:36.421640"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:31:37.990543"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:31:39.281026"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:35:57.771576"
+    },
+    "last_updated": "2025-10-03T21:35:57.771632"
+  }
+}

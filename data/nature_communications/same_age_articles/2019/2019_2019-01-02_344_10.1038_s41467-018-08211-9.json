@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.714935",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08211-9",
+    "title": "Structure of tRNA splicing enzyme Tpt1 illuminates the mechanism of RNA 2′-PO",
+    "article_number": "218",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ankan Banerjee",
+      "Annum Munir",
+      "Leonora Abdullahu",
+      "Masad J. Damha",
+      "Yehuda Goldgur",
+      "Stewart Shuman"
+    ]
+  },
+  "article_index": 344,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T17:26:43.749197"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T17:26:45.291060"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T17:26:46.468581"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T22:42:24.422949"
+    },
+    "last_updated": "2025-10-03T22:42:24.422996"
+  }
+}

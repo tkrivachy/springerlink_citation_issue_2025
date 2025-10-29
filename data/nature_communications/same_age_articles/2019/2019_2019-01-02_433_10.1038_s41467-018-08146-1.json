@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724425",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08146-1",
+    "title": "Partial proteasomal degradation of Lola triggers the male-to-female switch of a dimorphic courtship circuit",
+    "article_number": "166",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kosei Sato",
+      "Hiroki Ito",
+      "Atsushi Yokoyama",
+      "Gakuta Toba",
+      "Daisuke Yamamoto"
+    ]
+  },
+  "article_index": 433,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:00:20.126187"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:00:21.674577"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:00:22.983572"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T22:54:05.794206"
+    },
+    "last_updated": "2025-10-03T22:54:05.794434"
+  }
+}

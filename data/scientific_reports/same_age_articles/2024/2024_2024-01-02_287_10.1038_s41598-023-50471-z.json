@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.863048",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50471-z",
+    "title": "Low dose cadmium exposure regulates miR-381–ANO1 interaction in airway epithelial cells",
+    "article_number": "246",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Pooja Singh",
+      "Fu Jun Li",
+      "Kevin Dsouza",
+      "Crystal T Stephens",
+      "Huaxiu Zheng",
+      "Abhishek Kumar",
+      "Mark T. Dransfield",
+      "Veena B Antony"
+    ]
+  },
+  "article_index": 287,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:38:11.678671"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:38:13.243593"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:38:14.507454"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:03:09.659857"
+    },
+    "last_updated": "2025-10-03T22:03:09.660050"
+  }
+}

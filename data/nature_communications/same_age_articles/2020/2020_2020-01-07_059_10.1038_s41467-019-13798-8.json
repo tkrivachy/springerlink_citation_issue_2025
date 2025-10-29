@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.883454",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13798-8",
+    "title": "Forest management in southern China generates short term extensive carbon sequestration",
+    "article_number": "129",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaowei Tong",
+      "Martin Brandt",
+      "Yuemin Yue",
+      "Philippe Ciais",
+      "Martin Rudbeck Jepsen",
+      "Josep Penuelas",
+      "Jean-Pierre Wigneron",
+      "Xiangming Xiao",
+      "Xiao-Peng Song",
+      "Stephanie Horion",
+      "Kjeld Rasmussen",
+      "Sassan Saatchi",
+      "Lei Fan",
+      "Kelin Wang",
+      "Bing Zhang",
+      "Zhengchao Chen",
+      "Yuhang Wang",
+      "Xiaojun Li",
+      "Rasmus Fensholt"
+    ]
+  },
+  "article_index": 59,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 396,
+      "retrieved_at": "2025-10-03T18:13:52.453478"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 402,
+      "retrieved_at": "2025-10-03T18:13:53.967467"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 353,
+      "retrieved_at": "2025-10-03T18:13:55.623997"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 430,
+      "retrieved_at": "2025-10-03T22:58:22.474476"
+    },
+    "last_updated": "2025-10-03T22:58:22.474536"
+  }
+}

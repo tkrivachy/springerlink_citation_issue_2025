@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.244368",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1372-7",
+    "title": "Comparison of fieldworker interview and a pictorial diary method for recording morbidity of infants in semi-urban slums",
+    "article_number": "43",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Rahul Jacob Thomas",
+      "Karthikeyan Ramanujam",
+      "Vasanthakumar Velusamy",
+      "Saravanakumar Puthupalayam Kaliappan",
+      "Deepthi Kattula",
+      "Jayaprakash Muliyil",
+      "Gagandeep Kang"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T13:11:56.668873"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T13:11:58.258713"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:11:59.525984"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:07:11.070212"
+    },
+    "last_updated": "2025-10-03T21:07:11.070441"
+  }
+}

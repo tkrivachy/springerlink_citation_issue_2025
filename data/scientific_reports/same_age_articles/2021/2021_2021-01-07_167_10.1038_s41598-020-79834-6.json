@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.230659",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79834-6",
+    "title": "Different cellulosic polymers for synthesizing silver nanoparticles with antioxidant and antibacterial activities",
+    "article_number": "84",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ahmed A. H. Abdellatif",
+      "Hamad N. H. Alturki",
+      "Hesham M. Tawfeek"
+    ]
+  },
+  "article_index": 167,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:51:41.336691"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T14:51:42.906122"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T14:51:44.237035"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T21:44:03.105902"
+    },
+    "last_updated": "2025-10-03T21:44:03.106091"
+  }
+}

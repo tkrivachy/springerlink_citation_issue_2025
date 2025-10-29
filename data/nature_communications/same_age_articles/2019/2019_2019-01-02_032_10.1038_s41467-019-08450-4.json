@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.680528",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08450-4",
+    "title": "MANF antagonizes nucleotide exchange by the endoplasmic reticulum chaperone BiP",
+    "article_number": "541",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yahui Yan",
+      "Claudia Rato",
+      "Lukas Rohland",
+      "Steffen Preissler",
+      "David Ron"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T17:19:28.116313"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T17:19:29.667227"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T17:19:31.065052"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T22:39:55.971604"
+    },
+    "last_updated": "2025-10-03T22:39:55.971797"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.867262",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-00261-2",
+    "title": "Association between postoperative hypoalbuminemia and postoperative pulmonary imaging abnormalities patients undergoing craniotomy for brain tumors: a retrospective cohort study",
+    "article_number": "64",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Da-wei Zhao",
+      "Feng-chun Zhao",
+      "Xu-yang Zhang",
+      "Kai-yan Wei",
+      "Yi-bin Jiang",
+      "Dan Liu",
+      "Shui-xian Zhang",
+      "Hua Feng",
+      "Rong Hu"
+    ]
+  },
+  "article_index": 100,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:58:19.764743"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:58:21.272832"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:58:22.500545"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:46:43.071391"
+    },
+    "last_updated": "2025-10-03T21:46:43.071438"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.347799",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82687-y",
+    "title": "The anticancer activity of fucoidan coated selenium nanoparticles and curcumin nanoparticles against colorectal cancer lines",
+    "article_number": "287",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mohammed A. Al-Duais",
+      "Haddad A. El Rabey",
+      "Ghena M. Mohammed",
+      "Yahya S. Al-Awthan",
+      "Abdullah S. Althiyabi",
+      "Eman S. Attia",
+      "Samar M. Rezk",
+      "Ahmed A. Tayel"
+    ]
+  },
+  "article_index": 61,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T16:23:31.556361"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T16:23:33.101847"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:25.909964"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:20:05.469796"
+    },
+    "last_updated": "2025-10-07T09:50:25.910036"
+  }
+}

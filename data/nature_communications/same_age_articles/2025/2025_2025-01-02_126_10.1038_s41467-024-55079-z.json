@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.530558",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55079-z",
+    "title": "Respiratory processes of early-evolved hyperthermophiles in sulfidic and low-oxygen geothermal microbial communities",
+    "article_number": "277",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "William P. Inskeep",
+      "Zackary J. Jay",
+      "Luke J. McKay",
+      "Mensur Dlakić"
+    ]
+  },
+  "article_index": 126,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:44:27.455351"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:44:29.026002"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:44:30.191620"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:29:10.525772"
+    },
+    "last_updated": "2025-10-03T23:29:10.525965"
+  }
+}

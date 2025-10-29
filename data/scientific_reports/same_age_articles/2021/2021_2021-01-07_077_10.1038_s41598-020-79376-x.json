@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.213625",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79376-x",
+    "title": "Reconstruction of forest dynamics in the Western Palaearctic based on phylogeographic analysis of the ringlet butterfly ",
+    "article_number": "201",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Martin Wendt",
+      "Martin Husemann",
+      "Katja Kramp",
+      "Thomas Schmitt"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:53:24.366139"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:53:25.912832"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:53:27.083014"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:44:43.236203"
+    },
+    "last_updated": "2025-10-03T21:44:43.236252"
+  }
+}

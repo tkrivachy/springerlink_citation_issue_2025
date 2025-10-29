@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.678723",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08492-8",
+    "title": "Genome-wide gene-based analyses of weight loss interventions identify a potential role for ",
+    "article_number": "540",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Armand Valsesia",
+      "Qiao-Ping Wang",
+      "Nele Gheldof",
+      "Jérôme Carayol",
+      "Hélène Ruffieux",
+      "Teleri Clark",
+      "Victoria Shenton",
+      "Lisa J. Oyston",
+      "Gregory Lefebvre",
+      "Sylviane Metairon",
+      "Christian Chabert",
+      "Ondine Walter",
+      "Polina Mironova",
+      "Paulina Lau",
+      "Patrick Descombes",
+      "Nathalie Viguerie",
+      "Dominique Langin",
+      "Mary-Ellen Harper",
+      "Arne Astrup",
+      "Wim H. Saris",
+      "Robert Dent",
+      "Greg G. Neely",
+      "Jörg Hager"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:35:39.302706"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T17:35:40.857833"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T17:35:42.032781"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T22:45:33.366436"
+    },
+    "last_updated": "2025-10-03T22:45:33.366504"
+  }
+}

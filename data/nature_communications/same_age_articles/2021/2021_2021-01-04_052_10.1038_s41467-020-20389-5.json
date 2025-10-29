@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.182254",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20389-5",
+    "title": "Longitudinal evaluation of fecal microbiota transplantation for ameliorating calf diarrhea and improving growth performance",
+    "article_number": "161",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hyun Sik Kim",
+      "Tae Woong Whon",
+      "Hojun Sung",
+      "Yun-Seok Jeong",
+      "Eun Sung Jung",
+      "Na-Ri Shin",
+      "Dong-Wook Hyun",
+      "Pil Soo Kim",
+      "June-Young Lee",
+      "Choong Hwan Lee",
+      "Jin-Woo Bae"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:44:09.066744"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T18:44:10.612233"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T18:44:12.021696"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T23:08:44.621752"
+    },
+    "last_updated": "2025-10-03T23:08:44.621803"
+  }
+}

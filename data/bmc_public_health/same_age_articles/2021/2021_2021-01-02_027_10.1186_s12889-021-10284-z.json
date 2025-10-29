@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.631883",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10284-z",
+    "title": "Promoting mental health in migrants: a GHQ12-evaluation of a community health program in Sweden",
+    "article_number": "262",
+    "publication_date": "2021-02-02",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Olof Wrede",
+      "Jesper Löve",
+      "Junmei Miao Jonasson",
+      "Mamtuti Panneh",
+      "Gunilla Priebe"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:44:50.963099"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:44:52.570990"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:44:53.851975"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:19:10.188697"
+    },
+    "last_updated": "2025-10-03T21:19:10.188888"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.304934",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57053-y",
+    "title": "Aberrant expression of S-SCAM causes the loss of GABAergic synapses in hippocampal neurons",
+    "article_number": "83",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Seung Min Shin",
+      "Samantha Skaar",
+      "Eric Danielson",
+      "Sang H. Lee"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:32:39.394737"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:32:40.954467"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:32:42.250123"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:36:23.821667"
+    },
+    "last_updated": "2025-10-03T21:36:23.821861"
+  }
+}

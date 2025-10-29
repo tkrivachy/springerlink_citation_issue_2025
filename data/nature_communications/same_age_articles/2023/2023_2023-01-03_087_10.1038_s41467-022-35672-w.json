@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.651012",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35672-w",
+    "title": "Regional and tele-connected impacts of the Tibetan Plateau surface darkening",
+    "article_number": "32",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shuchang Tang",
+      "Anouk Vlug",
+      "Shilong Piao",
+      "Fei Li",
+      "Tao Wang",
+      "Gerhard Krinner",
+      "Laurent Z. X. Li",
+      "Xuhui Wang",
+      "Guangjian Wu",
+      "Yue Li",
+      "Yuan Zhang",
+      "Xu Lian",
+      "Tandong Yao"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:48:21.340973"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:48:22.878077"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:48:24.079449"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:10:05.079666"
+    },
+    "last_updated": "2025-10-03T23:10:05.079855"
+  }
+}

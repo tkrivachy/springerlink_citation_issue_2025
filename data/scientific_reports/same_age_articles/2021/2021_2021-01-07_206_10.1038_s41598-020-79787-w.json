@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.237050",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79787-w",
+    "title": "Effects of pre-extraction intermittent PTH administration on extraction socket healing in bisphosphonate administered ovariectomized rats",
+    "article_number": "54",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jae-Young Kim",
+      "Hyo-Won Jang",
+      "Jung-In Kim",
+      "In-Ho Cha"
+    ]
+  },
+  "article_index": 206,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:56:51.060299"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:56:52.607761"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:56:53.883088"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:46:07.439478"
+    },
+    "last_updated": "2025-10-03T21:46:07.439564"
+  }
+}

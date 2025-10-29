@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.852918",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04152-4",
+    "title": "Parental education is associated with differential engagement of neural pathways during inhibitory control",
+    "article_number": "260",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Christopher N. Cascio",
+      "Nina Lauharatanahirun",
+      "Gwendolyn M. Lawson",
+      "Martha J. Farah",
+      "Emily B. Falk"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:58:49.393144"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:58:50.950635"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:58:52.118622"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:46:54.088146"
+    },
+    "last_updated": "2025-10-03T21:46:54.088366"
+  }
+}

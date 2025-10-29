@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-13720-2</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-019-13720-2</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Wenzhong</given-names>
+              </name>
+              <address>
+                <email>wz30304@mail.ustc.edu.cn</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Xu</surname>
+                <given-names>Yinhan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4461-4664</contrib-id>
+              <name name-style="western">
+                <surname>Sun</surname>
+                <given-names>Daoyuan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Ni</surname>
+                <given-names>Sidao</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Wentzcovitch</surname>
+                <given-names>Renata</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Wu</surname>
+                <given-names>Zhongqing</given-names>
+              </name>
+              <address>
+                <email>wuzq10@ustc.edu.cn</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2020</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2020</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue>1</issue>
+          <elocation-id>64</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-019-13720-2</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-019-13720-2.pdf</uri>
+          <pub-history>
+            <event event-type="Correction">
+              <event-desc>An amendment to this paper has been published and can be accessed via a link at the top of the paper.</event-desc>
+              <date>
+                <day>4</day>
+                <month>5</month>
+                <year>2020</year>
+              </date>
+            </event>
+          </pub-history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2020</copyright-statement>
+          </permissions>
+          <related-article related-article-type="correction-forward" ext-link-type="doi" ns0:href="10.1038/s41467-020-16195-8"/>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Seismic heterogeneities detected in the lower mantle were proposed to be related to subducted oceanic crust. However, the velocity and density of subducted oceanic crust at lower-mantle conditions remain unknown. Here, we report ab initio results for the elastic properties of calcium ferrite‐type phases and determine the velocities and density of oceanic crust along different mantle geotherms. We find that the subducted oceanic crust shows a large negative shear velocity anomaly at the phase boundary between stishovite and CaCl
+              <sub>2</sub>
+              -type silica, which is highly consistent with the feature of mid-mantle scatterers. After this phase transition in silica, subducted oceanic crust will be visible as high-velocity heterogeneities as imaged by seismic tomography. This study suggests that the presence of subducted oceanic crust could provide good explanations for some lower-mantle seismic heterogeneities with different length scales except large low shear velocity provinces (LLSVPs).
+            </p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Seismology is a powerful tool to investigate Earth’s interior. Here, the authors combine numerical approaches with experimental results from previous studies to show a depth dependent behaviour of seismic waves in subducted oceanic crust in Earth’s mantle. The work challenges the currently accepted model of depth-independent seismic wave behaviour in oceanic crust.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="04">Earth Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0403">Geology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Special Program for Applied Research on Super Computation of the NSFC-Guangdong Joint Fund (the second phase). The calculations were partly conducted at the supercomputing center of USTC.</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

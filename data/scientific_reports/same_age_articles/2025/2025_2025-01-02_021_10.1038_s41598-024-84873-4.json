@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.343600",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84873-4",
+    "title": "Association between psoas muscle mass index and bone mineral density in patients undergoing hemodialysis",
+    "article_number": "544",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kiyonori Ito",
+      "Susumu Ookawara",
+      "Hidenori Sanayama",
+      "Hideo Kakuda",
+      "Chieko Kanai",
+      "Katsuo Iguchi",
+      "Mitsutoshi Shindo",
+      "Keisuke Tanno",
+      "Shun Ishibashi",
+      "Masafumi Kakei",
+      "Kaoru Tabei",
+      "Yoshiyuki Morishita"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:54:31.508957"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:54:33.061039"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:54:34.242483"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:31:04.844577"
+    },
+    "last_updated": "2025-10-03T22:31:04.844649"
+  }
+}

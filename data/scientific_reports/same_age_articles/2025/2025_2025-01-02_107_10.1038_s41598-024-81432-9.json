@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.357949",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-81432-9",
+    "title": "Correlation of triglyceride glucose index with all cause mortality in acute myocardial infarction patients following percutaneous coronary intervention",
+    "article_number": "243",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Guang Yang",
+      "Zilun Huang",
+      "Shanjie Wang",
+      "Shuang Yang"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:28:20.622585"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:28:22.170502"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:22.019156"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:21:42.306216"
+    },
+    "last_updated": "2025-10-07T09:51:22.019211"
+  }
+}

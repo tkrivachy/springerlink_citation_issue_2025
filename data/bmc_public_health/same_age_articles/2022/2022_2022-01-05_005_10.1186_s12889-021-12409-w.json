@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.579416",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12409-w",
+    "title": "The broad spectrum of COVID-like patients initially negative at RT-PCR testing: a cohort study",
+    "article_number": "45",
+    "publication_date": "2022-01-07",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Valeria Caramello",
+      "Alessandra Macciotta",
+      "Fabrizio Bar",
+      "Alessandro Mussa",
+      "Anna Maria De Leo",
+      "Alessandro Vincenzo De Salve",
+      "Fabio Nota",
+      "Carlotta Sacerdote",
+      "Fulvio Ricceri",
+      "Adriana Boccuzzi"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:04:41.773573"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:04:43.322795"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:04:44.564052"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:26:10.679538"
+    },
+    "last_updated": "2025-10-03T21:26:10.679727"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.957526",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-127",
+    "title": "Incidence of cancer in the area around Amsterdam Airport Schiphol in 1988–2003: a population-based ecological study",
+    "article_number": "127",
+    "publication_date": "2005-12-06",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Otto Visser",
+      "Joop H van Wijnen",
+      "Flora E van Leeuwen"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T12:16:23.601160"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T12:16:25.114418"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T12:16:26.359498"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T20:47:03.252499"
+    },
+    "last_updated": "2025-10-03T20:47:03.252700"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652772",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35700-9",
+    "title": "Endogenous IL-1 receptor antagonist restricts healthy and malignant myeloproliferation",
+    "article_number": "12",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alicia Villatoro",
+      "Vincent Cuminetti",
+      "Aurora Bernal",
+      "Carlos Torroja",
+      "Itziar Cossío",
+      "Alberto Benguría",
+      "Marc Ferré",
+      "Joanna Konieczny",
+      "Enrique Vázquez",
+      "Andrea Rubio",
+      "Peter Utnes",
+      "Almudena Tello",
+      "Xiaona You",
+      "Christopher G. Fenton",
+      "Ruth H. Paulssen",
+      "Jing Zhang",
+      "Fátima Sánchez-Cabo",
+      "Ana Dopazo",
+      "Anders Vik",
+      "Endre Anderssen",
+      "Andrés Hidalgo",
+      "Lorena Arranz"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:53:18.068827"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:53:19.626780"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:53:20.832459"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T23:11:46.346210"
+    },
+    "last_updated": "2025-10-03T23:11:46.346273"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.963690",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-65",
+    "title": "Municipal health expectancy in Japan: decreased healthy longevity of older people in socioeconomically disadvantaged areas",
+    "article_number": "65",
+    "publication_date": "2005-06-14",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yoshiharu Fukuda",
+      "Keiko Nakamura",
+      "Takehito Takano"
+    ]
+  },
+  "article_index": 94,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:21:43.810205"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T12:21:45.377393"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:21:46.679934"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T20:49:04.348252"
+    },
+    "last_updated": "2025-10-03T20:49:04.348486"
+  }
+}

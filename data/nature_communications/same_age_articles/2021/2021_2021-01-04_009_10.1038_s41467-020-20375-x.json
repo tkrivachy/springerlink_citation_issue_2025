@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.174202",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20375-x",
+    "title": "Resilin-mimetics as a smart biomaterial platform for biomedical applications",
+    "article_number": "149",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rajkamal Balu",
+      "Naba K. Dutta",
+      "Ankit K. Dutta",
+      "Namita Roy Choudhury"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:34:53.144377"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 111,
+      "retrieved_at": "2025-10-03T18:34:54.699532"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T18:34:55.878764"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T23:05:36.275555"
+    },
+    "last_updated": "2025-10-03T23:05:36.275741"
+  }
+}

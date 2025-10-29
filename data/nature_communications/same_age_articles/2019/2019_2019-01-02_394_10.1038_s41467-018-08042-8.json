@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.720180",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08042-8",
+    "title": "Mechano-chemical decomposition of organic friction modifiers with multiple reactive centres induces superlubricity of ta-C",
+    "article_number": "151",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Takuya Kuwahara",
+      "Pedro A. Romero",
+      "Stefan Makowski",
+      "Volker Weihnacht",
+      "Gianpietro Moras",
+      "Michael Moseler"
+    ]
+  },
+  "article_index": 394,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 142,
+      "retrieved_at": "2025-10-03T17:36:35.669466"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 157,
+      "retrieved_at": "2025-10-03T17:36:37.189465"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T17:36:38.618566"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 160,
+      "retrieved_at": "2025-10-03T22:45:49.698141"
+    },
+    "last_updated": "2025-10-03T22:45:49.698373"
+  }
+}

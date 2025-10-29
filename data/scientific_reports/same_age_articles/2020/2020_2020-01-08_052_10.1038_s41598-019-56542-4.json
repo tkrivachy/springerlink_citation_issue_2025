@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.305130",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56542-4",
+    "title": "Melanoma cell-derived exosomes in plasma of melanoma patients suppress functions of immune effector cells",
+    "article_number": "92",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Priyanka Sharma",
+      "Brenda Diergaarde",
+      "Soldano Ferrone",
+      "John M. Kirkwood",
+      "Theresa L. Whiteside"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 171,
+      "retrieved_at": "2025-10-03T14:25:20.447599"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T14:25:21.955806"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T14:25:23.147100"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T21:33:25.967587"
+    },
+    "last_updated": "2025-10-03T21:33:25.967774"
+  }
+}

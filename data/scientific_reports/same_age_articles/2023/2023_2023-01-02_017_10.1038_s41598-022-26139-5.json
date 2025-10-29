@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.101393",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26139-5",
+    "title": "Development of Kovacs model for electrical conductivity of carbon nanofiber–polymer systems",
+    "article_number": "7",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sajad Khalil Arjmandi",
+      "Jafar Khademzadeh Yeganeh",
+      "Yasser Zare",
+      "Kyong Yop Rhee"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T15:29:08.430190"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T15:29:09.978223"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T15:29:11.273057"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:59:29.277678"
+    },
+    "last_updated": "2025-10-03T21:59:29.277866"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.102253",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26476-5",
+    "title": "Effect of dialysis modalities on risk of hospitalization for gastrointestinal bleeding",
+    "article_number": "52",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chieh-Hsin Huang",
+      "Jo-Yen Chao",
+      "Tsai-Chieh Ling",
+      "Jia-Ling Wu",
+      "Junne-Ming Sung",
+      "Chien-Yao Sun",
+      "Ya-Yun Cheng",
+      "Yu-Tzu Chang"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:29:42.379195"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:29:43.942511"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:29:45.164858"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:59:44.852148"
+    },
+    "last_updated": "2025-10-03T21:59:44.852374"
+  }
+}

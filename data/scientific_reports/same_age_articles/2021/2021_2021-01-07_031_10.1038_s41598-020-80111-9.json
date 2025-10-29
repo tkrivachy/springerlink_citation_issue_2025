@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.207057",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80111-9",
+    "title": "FAK regulates IL-33 expression by controlling chromatin accessibility at c-Jun motifs",
+    "article_number": "229",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Billie G. C. Griffith",
+      "Rosanna Upstill-Goddard",
+      "Holly Brunton",
+      "Graeme R. Grimes",
+      "Andrew V. Biankin",
+      "Bryan Serrels",
+      "Adam Byron",
+      "Margaret C. Frame"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:49:39.788532"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:49:41.307930"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:49:42.563248"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:43:16.725662"
+    },
+    "last_updated": "2025-10-03T21:43:16.725730"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.191443",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20357-z",
+    "title": "ZBP1 promotes LPS-induced cell death and IL-1β release via RHIM-mediated interactions with RIPK1",
+    "article_number": "86",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hayley I. Muendlein",
+      "Wilson M. Connolly",
+      "Zoie Magri",
+      "Irina Smirnova",
+      "Vladimir Ilyukha",
+      "Avishekh Gautam",
+      "Alexei Degterev",
+      "Alexander Poltorak"
+    ]
+  },
+  "article_index": 105,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T18:30:40.755114"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:30:42.321309"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T18:30:43.493509"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T23:04:16.946711"
+    },
+    "last_updated": "2025-10-03T23:04:16.946898"
+  }
+}

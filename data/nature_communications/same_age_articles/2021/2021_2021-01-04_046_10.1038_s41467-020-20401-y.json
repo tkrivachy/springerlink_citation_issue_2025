@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.181015",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20401-y",
+    "title": "Cryo-EM analysis of the HCoV-229E spike glycoprotein reveals dynamic prefusion conformational changes",
+    "article_number": "141",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiyong Song",
+      "Yuejun Shi",
+      "Wei Ding",
+      "Tongxin Niu",
+      "Limeng Sun",
+      "Yubei Tan",
+      "Yong Chen",
+      "Jiale Shi",
+      "Qiqi Xiong",
+      "Xiaojun Huang",
+      "Shaobo Xiao",
+      "Yanping Zhu",
+      "Chongyun Cheng",
+      "Zhen F. Fu",
+      "Zhi-Jie Liu",
+      "Guiqing Peng"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:41:42.284991"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:41:43.793920"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:41:45.073583"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T23:07:57.258748"
+    },
+    "last_updated": "2025-10-03T23:07:57.258941"
+  }
+}

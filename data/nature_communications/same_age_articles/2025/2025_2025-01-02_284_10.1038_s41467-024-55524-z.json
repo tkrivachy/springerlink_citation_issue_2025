@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.554235",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55524-z",
+    "title": "A cross-entropy corrected hybrid multiconfiguration pair-density functional theory for complex molecular systems",
+    "article_number": "235",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rulin Feng",
+      "Igor Ying Zhang",
+      "Xin Xu"
+    ]
+  },
+  "article_index": 284,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:16:03.850011"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:16:05.720466"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:16:06.921732"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:19:31.715606"
+    },
+    "last_updated": "2025-10-03T23:19:31.715803"
+  }
+}

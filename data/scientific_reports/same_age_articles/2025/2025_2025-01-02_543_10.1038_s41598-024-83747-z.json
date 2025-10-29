@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.408299",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83747-z",
+    "title": "Chaos-enhanced manganese electrolysis: nodule suppression and improved efficiency using controllable chaotic electrical signals",
+    "article_number": "59",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jie Yang",
+      "Chunbiao Li",
+      "Qian Zhang",
+      "Zhihao Wu",
+      "Xin Zhang",
+      "Peiqiao Liu",
+      "Zuohua Liu",
+      "Changyuan Tao",
+      "Guocan Zheng",
+      "Yong Yang",
+      "Hanke Wei"
+    ]
+  },
+  "article_index": 543,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:02:01.256989"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:02.793821"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:04.002748"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:33:38.603210"
+    },
+    "last_updated": "2025-10-03T22:33:38.603260"
+  }
+}

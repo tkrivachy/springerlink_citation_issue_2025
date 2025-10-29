@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.667904",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44287-8",
+    "title": "The ALT pathway generates telomere fusions that can be detected in the blood of cancer patients",
+    "article_number": "82",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Francesc Muyas",
+      "Manuel José Gómez Rodriguez",
+      "Rita Cascão",
+      "Angela Afonso",
+      "Carolin M. Sauer",
+      "Claudia C. Faria",
+      "Isidro Cortés-Ciriano",
+      "Ignacio Flores"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T18:58:32.673514"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T18:58:34.238001"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:58:35.505470"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:13:35.353747"
+    },
+    "last_updated": "2025-10-03T23:13:35.353835"
+  }
+}

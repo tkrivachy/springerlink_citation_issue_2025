@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694564",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08287-x",
+    "title": "TAZ couples Hippo/Wnt signalling and insulin sensitivity through ",
+    "article_number": "421",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jun-Ha Hwang",
+      "A Rum Kim",
+      "Kyung Min Kim",
+      "Jung Il Park",
+      "Ho Taek Oh",
+      "Sung A Moon",
+      "Mi Ran Byun",
+      "Hana Jeong",
+      "Hyo Kyung Kim",
+      "Michael B. Yaffe",
+      "Eun Sook Hwang",
+      "Jeong-Ho Hong"
+    ]
+  },
+  "article_index": 160,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:57:28.623885"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T17:57:30.175785"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:57:31.443394"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T22:53:06.111965"
+    },
+    "last_updated": "2025-10-03T22:53:06.112010"
+  }
+}

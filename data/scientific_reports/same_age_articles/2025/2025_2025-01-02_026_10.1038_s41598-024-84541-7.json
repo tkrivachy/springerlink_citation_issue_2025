@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.344195",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84541-7",
+    "title": "Hybrid in-situ and ex-situ hydrolysis of catalytic epoxidation neem oil via a peracid mechanism",
+    "article_number": "147",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ismail Md. Rasib",
+      "Mohd Jumain Jalil",
+      "Nabisab Mujawar Mubarak",
+      "Intan Suhada Azmi"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:26:16.813311"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:26:18.335178"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:00.409310"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:21:02.235240"
+    },
+    "last_updated": "2025-10-07T09:51:00.409418"
+  }
+}

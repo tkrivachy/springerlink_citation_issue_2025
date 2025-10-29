@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.880895",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04055-4",
+    "title": "Objective to identify and verify the regulatory mechanism of DTNBP1 as a prognostic marker for hepatocellular carcinoma",
+    "article_number": "211",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xianyi Cheng",
+      "Dezhi Li",
+      "Tiangyang Qi",
+      "Jia Sun",
+      "Tao Zhou",
+      "Wei V. Zheng"
+    ]
+  },
+  "article_index": 223,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:12:06.741540"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:12:08.252872"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:12:09.402447"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:52:16.030188"
+    },
+    "last_updated": "2025-10-03T21:52:16.030411"
+  }
+}

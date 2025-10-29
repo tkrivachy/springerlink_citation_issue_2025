@@ -1,0 +1,162 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-023-50939-y",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-023-50939-y",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-023-50939-y"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-023-50939-y.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-023-50939-y"
+        }
+      ],
+      "title": "BAF45D-binding to HOX genes was differentially targeted in H9-derived spinal cord neural stem cells",
+      "creators": [
+        {
+          "creator": "Liu, Chang"
+        },
+        {
+          "creator": "Xie, Yuxin"
+        },
+        {
+          "creator": "Chen, Xueying"
+        },
+        {
+          "creator": "Liu, Lihua"
+        },
+        {
+          "creator": "Liu, Chao"
+        },
+        {
+          "creator": "Yin, Zongsheng"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-023-50939-y",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2024-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "14",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "11",
+      "journalId": "41598",
+      "onlineDate": "2024-01-02",
+      "coverDate": "2024-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": "Chromatin accessibility has been used to define how cells adopt region-specific neural fates. BAF45D is one of the subunits of a specialised chromatin remodelling BAF complex. It has been reported that BAF45D is expressed in spinal cord neural stem cells (NSCs) and regulates their fate specification. Within the developing vertebrate spinal cord, HOX genes exhibit spatially restricted expression patterns. However, the chromatin accessibility of BAF45D binding HOX genes in spinal cord NSCs is unclear. In the present study, we found that in H9-derived spinal cord NSCs, BAF45D targets TBX6 , a gene that regulates spinal cord neural mesodermal progenitors. Furthermore, BAF45D binding to the NES gene is much more enriched in H9-derived spinal cord NSCs chromatin compared to ESCs chromatin. In addition, BAF45D binding to anterior and trunk/central HOX genes, but not to lumbosacral HOX genes, was much more enriched in NSCs chromatin compared to ESCs chromatin. These results may shed new light on the role of BAF45D in regulating region-specific spinal cord NSCs by targeting HOX genes.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "China",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

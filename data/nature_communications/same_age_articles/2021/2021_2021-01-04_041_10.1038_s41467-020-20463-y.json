@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.180146",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20463-y",
+    "title": "A flexible electron-blocking interfacial shield for dendrite-free solid lithium metal batteries",
+    "article_number": "176",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hanyu Huo",
+      "Jian Gao",
+      "Ning Zhao",
+      "Dongxing Zhang",
+      "Nathaniel Graham Holmes",
+      "Xiaona Li",
+      "Yipeng Sun",
+      "Jiamin Fu",
+      "Ruying Li",
+      "Xiangxin Guo",
+      "Xueliang Sun"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:38:10.084949"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 190,
+      "retrieved_at": "2025-10-03T18:38:11.602539"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T18:38:12.774008"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 192,
+      "retrieved_at": "2025-10-03T23:06:44.049266"
+    },
+    "last_updated": "2025-10-03T23:06:44.049501"
+  }
+}

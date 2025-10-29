@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-S1-P8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/1471-2458-14-S1-P8</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Poster Presentation</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Maternal health insurance in Indonesia: assessment of a policy design</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Marthias</surname>
+                <given-names>Tiara</given-names>
+              </name>
+              <address>
+                <email>timarthias@gmail.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Kurniawan</surname>
+                <given-names>M Faozi</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Putri</surname>
+                <given-names>Likke</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>29</day>
+            <month>1</month>
+            <year>2014</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>1</month>
+            <year>2014</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>Suppl 1</issue>
+          <issue-title>Proceedings of the 7th Postgraduate Forum on Health Systems and Policies</issue-title>
+          <issue-sponsor>Publication of this supplement was funded by Faculty of Medicine, Naresuan University. The Supplement Editors declare that they have no competing interests.</issue-sponsor>
+          <elocation-id>P8</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-14-S1-P8</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-14-S1-P8</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© Marthias et al; licensee BioMed Central Ltd. 2014</copyright-statement>
+          </permissions>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Family Planning</kwd>
+            <kwd>Postnatal Care</kwd>
+            <kwd>Service Accessibility</kwd>
+            <kwd>Family Planning Programme</kwd>
+            <kwd>High Quality Service</kwd>
+          </kwd-group>
+          <conference>
+            <conf-name>7th Postgraduate Forum on Health Systems and Policies</conf-name>
+            <conf-loc>Phitsanulok, Thailand</conf-loc>
+            <conf-date>24-25 June 2013</conf-date>
+          </conference>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Supplement</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>Abstract</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>conf-event-url-1</meta-name>
+              <meta-value>http://www.med.nu.ac.th/PGF2013/</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

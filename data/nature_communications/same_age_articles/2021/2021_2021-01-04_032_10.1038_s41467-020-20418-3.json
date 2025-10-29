@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.178563",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20418-3",
+    "title": "Thioesterase-mediated side chain transesterification generates potent Gq signaling inhibitor FR900359",
+    "article_number": "144",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cornelia Hermes",
+      "René Richarz",
+      "Daniel A. Wirtz",
+      "Julian Patt",
+      "Wiebke Hanke",
+      "Stefan Kehraus",
+      "Jan Hendrik Voß",
+      "Jim Küppers",
+      "Tsubasa Ohbayashi",
+      "Vigneshwaran Namasivayam",
+      "Judith Alenfelder",
+      "Asuka Inoue",
+      "Peter Mergaert",
+      "Michael Gütschow",
+      "Christa E. Müller",
+      "Evi Kostenis",
+      "Gabriele M. König",
+      "Max Crüsemann"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:33:07.733128"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:33:09.241925"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:33:10.542315"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T23:05:03.732707"
+    },
+    "last_updated": "2025-10-03T23:05:03.732893"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.862667",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50723-y",
+    "title": "Fringe-fields-modulated double-gate tunnel-FET biosensor",
+    "article_number": "168",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Iman Chahardah Cherik",
+      "Saeed Mohammadi"
+    ]
+  },
+  "article_index": 284,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:37:20.917014"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:37:22.483305"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:37:23.807140"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T22:02:49.120594"
+    },
+    "last_updated": "2025-10-03T22:02:49.120788"
+  }
+}

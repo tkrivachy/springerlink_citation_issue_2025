@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.706392",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07840-4",
+    "title": "Metabolic diversity within the globally abundant Marine Group II Euryarchaea offers insight into ecological patterns",
+    "article_number": "271",
+    "publication_date": "2019-01-17",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Benjamin J. Tully"
+    ]
+  },
+  "article_index": 266,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T17:20:04.020439"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T17:20:05.557356"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T17:20:06.905419"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T22:40:09.067541"
+    },
+    "last_updated": "2025-10-03T22:40:09.067726"
+  }
+}

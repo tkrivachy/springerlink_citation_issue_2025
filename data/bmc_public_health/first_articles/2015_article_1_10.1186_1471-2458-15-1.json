@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:43.579389",
+  "year": 2015,
+  "article_type": "article_1",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/1471-2458-15-1",
+    "title": "Regional alcohol consumption and alcohol-related mortality in Great Britain: novel insights using retail sales data",
+    "article_number": "1",
+    "publication_date": "2015-01-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mark Robinson",
+      "Deborah Shipton",
+      "David Walsh",
+      "Bruce Whyte",
+      "Gerry McCartney"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 487,
+      "retrieved_at": "2025-10-03T13:08:34.967222"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 427,
+      "retrieved_at": "2025-10-03T13:08:36.545190"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 795,
+      "retrieved_at": "2025-10-03T13:08:38.629103"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 695,
+      "retrieved_at": "2025-10-03T21:05:56.636823"
+    },
+    "last_updated": "2025-10-03T21:05:56.636871"
+  }
+}

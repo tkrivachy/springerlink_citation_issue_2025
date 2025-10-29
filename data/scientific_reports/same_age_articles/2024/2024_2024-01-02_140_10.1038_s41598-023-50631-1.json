@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.841206",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50631-1",
+    "title": "Histogram-based features track Alzheimer's progression in brain MRI",
+    "article_number": "257",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nikaash Pasnoori",
+      "Thania Flores-Garcia",
+      "Buket D. Barkana"
+    ]
+  },
+  "article_index": 140,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:40:13.166001"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:40:14.725383"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:40:16.225531"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:03:50.323115"
+    },
+    "last_updated": "2025-10-03T22:03:50.323304"
+  }
+}

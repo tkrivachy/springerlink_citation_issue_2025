@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.423521",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3910-3",
+    "title": "Cardiovascular disease risk factors in a Nigerian population with impaired fasting blood glucose level and diabetes mellitus",
+    "article_number": "36",
+    "publication_date": "2017-01-06",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Victor M. Oguoma",
+      "Ezekiel U. Nwose",
+      "Ifeoma I. Ulasi",
+      "Adeseye A. Akintunde",
+      "Ekene E. Chukwukelu",
+      "Phillip T. Bwititi",
+      "Ross S. Richards",
+      "Timothy C. Skinner"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T13:23:15.481844"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T13:23:17.029191"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:23:18.297185"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T21:11:21.894133"
+    },
+    "last_updated": "2025-10-03T21:11:21.894319"
+  }
+}

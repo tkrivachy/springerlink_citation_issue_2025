@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204215",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20345-3",
+    "title": "Long first exons and epigenetic marks distinguish conserved pachytene piRNA clusters from other mammalian genes",
+    "article_number": "73",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tianxiong Yu",
+      "Kaili Fan",
+      "Deniz M. Özata",
+      "Gen Zhang",
+      "Yu Fu",
+      "William E. Theurkauf",
+      "Phillip D. Zamore",
+      "Zhiping Weng"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:24:40.419103"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:24:41.977514"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:24:43.294288"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T23:02:10.716679"
+    },
+    "last_updated": "2025-10-03T23:02:10.716871"
+  }
+}

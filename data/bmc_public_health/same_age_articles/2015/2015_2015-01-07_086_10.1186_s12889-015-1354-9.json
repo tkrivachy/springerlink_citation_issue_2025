@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.248389",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1354-9",
+    "title": "Good practice characteristics of diet and physical activity interventions and policies: an umbrella review",
+    "article_number": "19",
+    "publication_date": "2015-01-21",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Karolina Horodyska",
+      "Aleksandra Luszczynska",
+      "Matthijs van den Berg",
+      "Marieke Hendriksen",
+      "Gun Roos",
+      "Ilse De Bourdeaudhuij",
+      "Johannes Brug"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 120,
+      "retrieved_at": "2025-10-03T13:16:13.346556"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T13:16:15.009448"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T13:16:16.364884"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T21:08:50.764758"
+    },
+    "last_updated": "2025-10-03T21:08:50.764946"
+  }
+}

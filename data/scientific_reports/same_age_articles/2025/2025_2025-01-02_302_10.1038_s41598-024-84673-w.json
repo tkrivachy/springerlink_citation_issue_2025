@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.381197",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84673-w",
+    "title": "A novel deep synthesis-based insider intrusion detection (DS-IID) model for malicious insiders and AI-generated threats",
+    "article_number": "207",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hazem M. Kotb",
+      "Tarek Gaber",
+      "Salem AlJanah",
+      "Hossam M. Zawbaa",
+      "Mohammed Alkhathami"
+    ]
+  },
+  "article_index": 302,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:18:30.614482"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:18:32.167803"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:23.667789"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:18:13.441690"
+    },
+    "last_updated": "2025-10-07T09:49:23.668013"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.867400",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03645-6",
+    "title": "A novel 14-gene signature for overall survival in lung adenocarcinoma based on the Bayesian hierarchical Cox proportional hazards model",
+    "article_number": "27",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Na Sun",
+      "Jiadong Chu",
+      "Wei Hu",
+      "Xuanli Chen",
+      "Nengjun Yi",
+      "Yueping Shen"
+    ]
+  },
+  "article_index": 101,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:24:08.061397"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:24:09.621543"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:24:10.794829"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:57:27.422364"
+    },
+    "last_updated": "2025-10-03T21:57:27.422564"
+  }
+}

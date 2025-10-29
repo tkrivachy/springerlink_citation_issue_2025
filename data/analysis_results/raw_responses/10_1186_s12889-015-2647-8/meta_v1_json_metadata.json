@@ -1,0 +1,23 @@
+{
+  "endpoint": "meta_v1",
+  "format": "json",
+  "test_doi": "10.1186/s12889-015-2647-8",
+  "safe_doi": "10_1186_s12889-015-2647-8",
+  "timestamp": "2025-10-20 14:09:00",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.8442022800445557,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/meta/v1/json",
+    "params": {
+      "api_key": "7840cf20127b6139d41324d1fcc80058",
+      "q": "doi:10.1186/s12889-015-2647-8",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'openaccess', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'conferenceInfo', 'keyword', 'subjects', 'disciplines']\ndoi: 10.1186/s12889-015-2647-8...\ntitle: Five years after the accident, whiplash casualties still have poorer quality of life in the physical...\ncreators: [{'creator': 'Tournier, Charlène'}, {'creator': 'Hours, Martine'}, {'creator': 'Charnay, Pierrette'}...\npublicationName: BMC Public Health...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "meta_v1_json.json"
+}

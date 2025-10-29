@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:53.375781",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-023-17323-x",
+    "title": "Bilibili, TikTok, and YouTube as sources of information on gastric cancer: assessment and analysis of the content and quality",
+    "article_number": "57",
+    "publication_date": "2024-01-02",
+    "volume": "24",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Menghui Wang",
+      "Nan Yao",
+      "Jianming Wang",
+      "Wenjuan Chen",
+      "Yaobin Ouyang",
+      "Chuan Xie"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:18:31.277984"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T14:18:32.790819"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:18:34.090962"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T21:31:00.111238"
+    },
+    "last_updated": "2025-10-03T21:31:00.111463"
+  }
+}

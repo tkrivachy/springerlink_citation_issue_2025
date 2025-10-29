@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.691481",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44567-3",
+    "title": "A stabilization rule for metal carbido cluster bearing μ",
+    "article_number": "150",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Runnan Guan",
+      "Jing Huang",
+      "Jinpeng Xin",
+      "Muqing Chen",
+      "Pingwu Du",
+      "Qunxiang Li",
+      "Yuan-Zhi Tan",
+      "Shangfeng Yang",
+      "Su-Yuan Xie"
+    ]
+  },
+  "article_index": 162,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:05:57.849903"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:05:59.386248"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:06:00.563879"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:16:08.653546"
+    },
+    "last_updated": "2025-10-03T23:16:08.653645"
+  }
+}

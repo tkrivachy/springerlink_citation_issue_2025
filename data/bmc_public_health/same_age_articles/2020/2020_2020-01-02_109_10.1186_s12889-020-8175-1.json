@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.682620",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8175-1",
+    "title": "A systematic review and meta-analysis of the prevalence of hepatitis C virus infection in people who inject drugs in Iran",
+    "article_number": "62",
+    "publication_date": "2020-01-14",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Masoud Behzadifar",
+      "Meysam Behzadifar",
+      "Nicola Luigi Bragazzi"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:39:26.002209"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:39:27.509747"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:39:28.755708"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:17:11.795736"
+    },
+    "last_updated": "2025-10-03T21:17:11.795925"
+  }
+}

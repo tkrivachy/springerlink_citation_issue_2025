@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.169728",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-25",
+    "title": "Analysis of inadequate cervical smears using Shewhart control charts",
+    "article_number": "25",
+    "publication_date": "2004-06-29",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Wayne N Harrison",
+      "Mohammed A Mohammed",
+      "Michael K Wall",
+      "Tom P Marshall"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T12:11:00.577279"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T12:11:02.141096"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T12:11:03.397470"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T20:45:02.822472"
+    },
+    "last_updated": "2025-10-03T20:45:02.822539"
+  }
+}

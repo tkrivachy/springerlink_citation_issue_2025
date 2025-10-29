@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.881348",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13902-y",
+    "title": "Global warming changes tropical cyclone translation speed",
+    "article_number": "47",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Munehiko Yamaguchi",
+      "Johnny C. L. Chan",
+      "Il-Ju Moon",
+      "Kohei Yoshida",
+      "Ryo Mizuta"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T18:19:54.646520"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T18:19:56.200022"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T18:19:57.767669"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 153,
+      "retrieved_at": "2025-10-03T23:00:30.987099"
+    },
+    "last_updated": "2025-10-03T23:00:30.987286"
+  }
+}

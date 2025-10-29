@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.165832",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-54",
+    "title": "Females do not have more injury road accidents on Friday the 13th",
+    "article_number": "54",
+    "publication_date": "2004-11-16",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Igor Radun",
+      "Heikki Summala"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:06:33.408950"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T12:06:34.924235"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T12:06:36.211354"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T20:43:25.829021"
+    },
+    "last_updated": "2025-10-03T20:43:25.829213"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.826252",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50379-8",
+    "title": "Patient-related factors influencing the effectiveness and safety of Janus Kinase inhibitors in rheumatoid arthritis: a real-world study",
+    "article_number": "172",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Cristina Martinez-Molina",
+      "Ignasi Gich",
+      "Cesar Diaz-Torné",
+      "Hye S. Park",
+      "Anna Feliu",
+      "Silvia Vidal",
+      "Hèctor Corominas"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:57:36.350113"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T15:57:37.913627"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:57:39.077954"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T22:10:38.478301"
+    },
+    "last_updated": "2025-10-03T22:10:38.478540"
+  }
+}

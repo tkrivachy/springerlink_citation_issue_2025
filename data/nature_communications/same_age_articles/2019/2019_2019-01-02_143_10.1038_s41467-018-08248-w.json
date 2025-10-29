@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.692739",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08248-w",
+    "title": "Structural basis for species-selective targeting of Hsp90 in a pathogenic fungus",
+    "article_number": "402",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Luke Whitesell",
+      "Nicole Robbins",
+      "David S. Huang",
+      "Catherine A. McLellan",
+      "Tanvi Shekhar-Guturja",
+      "Emmanuelle V. LeBlanc",
+      "Catherine S. Nation",
+      "Raymond Hui",
+      "Ashley Hutchinson",
+      "Cathy Collins",
+      "Sharanya Chatterjee",
+      "Richard Trilles",
+      "Jinglin L. Xie",
+      "Damian J. Krysan",
+      "Susan Lindquist",
+      "John A. Porco",
+      "Utpal Tatu",
+      "Lauren E. Brown",
+      "Juan Pizarro",
+      "Leah E. Cowen"
+    ]
+  },
+  "article_index": 143,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T17:34:07.262730"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T17:34:08.814447"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T17:34:09.990708"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 107,
+      "retrieved_at": "2025-10-03T22:44:56.655939"
+    },
+    "last_updated": "2025-10-03T22:44:56.656128"
+  }
+}

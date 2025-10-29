@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.681215",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08459-9",
+    "title": "Emergence of a field-driven ",
+    "article_number": "530",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ciarán Hickey",
+      "Simon Trebst"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 162,
+      "retrieved_at": "2025-10-03T17:25:19.404083"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 147,
+      "retrieved_at": "2025-10-03T17:25:20.998216"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 138,
+      "retrieved_at": "2025-10-03T17:25:22.233819"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T22:41:54.033634"
+    },
+    "last_updated": "2025-10-03T22:41:54.033821"
+  }
+}

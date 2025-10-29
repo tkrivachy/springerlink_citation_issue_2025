@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.359781",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83544-8",
+    "title": "Non-targeted LC-MS metabolomics reveals serum metabolites for high-altitude adaptation in Tibetan donkeys",
+    "article_number": "46",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jing Wang",
+      "Yulong Feng",
+      "Shibo Xu",
+      "Ngodrup Tenzin",
+      "Haiyu Han",
+      "Dehong Gong",
+      "Fengxin Liu",
+      "Yujiang Sun",
+      "Shuqin Liu"
+    ]
+  },
+  "article_index": 124,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:24:17.601679"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:24:19.125515"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:34.344036"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:20:20.539233"
+    },
+    "last_updated": "2025-10-07T09:50:34.344256"
+  }
+}

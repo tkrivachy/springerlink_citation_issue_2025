@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.205447",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20341-7",
+    "title": "Atomically thin photoanode of InSe/graphene heterostructure",
+    "article_number": "91",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Haihong Zheng",
+      "Yizhen Lu",
+      "Kai-Hang Ye",
+      "Jinyuan Hu",
+      "Shuai Liu",
+      "Jiawei Yan",
+      "Yu Ye",
+      "Yuxi Guo",
+      "Zhan Lin",
+      "Jun Cheng",
+      "Yang Cao"
+    ]
+  },
+  "article_index": 204,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:22:30.748837"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:22:32.292033"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:22:33.582627"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T23:01:22.645680"
+    },
+    "last_updated": "2025-10-03T23:01:22.645732"
+  }
+}

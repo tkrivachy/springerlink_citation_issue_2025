@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.849380",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49995-1",
+    "title": "LC–MS profiling, in vitro and in silico C-ABL kinase inhibitory approach to identify potential anticancer agents from ",
+    "article_number": "73",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hem N. Naik",
+      "Dilip Kanjariya",
+      "Shahnaz Parveen",
+      "Iqrar Ahmed",
+      "Abha Meena",
+      "Harun Patel",
+      "Ramavatar Meena",
+      "Smita Jauhari"
+    ]
+  },
+  "article_index": 217,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:45:39.568968"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:45:41.081459"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:45:42.245279"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T22:06:06.242626"
+    },
+    "last_updated": "2025-10-03T22:06:06.242704"
+  }
+}

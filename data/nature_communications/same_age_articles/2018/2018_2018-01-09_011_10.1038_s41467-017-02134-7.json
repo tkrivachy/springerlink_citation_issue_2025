@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.605931",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02134-7",
+    "title": "Publisher Correction: Microbial community-level regulation explains soil carbon responses to long-term litter manipulations",
+    "article_number": "173",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Katerina Georgiou",
+      "Rose Z. Abramoff",
+      "John Harte",
+      "William J. Riley",
+      "Margaret S. Torn"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:36.079821",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T11:44:02.555096"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:07:12.509710"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:07:13.669094"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:35:36.079776"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606504",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02488-y",
+    "title": "GLP-1 release and vagal afferent activation mediate the beneficial metabolic and chronotherapeutic effects of ",
+    "article_number": "113",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yusaku Iwasaki",
+      "Mio Sendo",
+      "Katsuya Dezaki",
+      "Tohru Hira",
+      "Takehiro Sato",
+      "Masanori Nakata",
+      "Chayon Goswami",
+      "Ryohei Aoki",
+      "Takeshi Arai",
+      "Parmila Kumari",
+      "Masaki Hayakawa",
+      "Chiaki Masuda",
+      "Takashi Okada",
+      "Hiroshi Hara",
+      "Daniel J. Drucker",
+      "Yuichiro Yamada",
+      "Masaaki Tokuda",
+      "Toshihiko Yada"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:38.155546",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 147,
+      "retrieved_at": "2025-10-03T11:44:03.184365"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 155,
+      "retrieved_at": "2025-10-03T17:07:17.511304"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T17:07:18.670186"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T22:35:38.155495"
+    }
+  }
+}

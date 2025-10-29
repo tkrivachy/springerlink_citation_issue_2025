@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:40:57.087907",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-09",
+  "article_data": {
+    "doi": "10.1038/s41598-018-37290-3",
+    "title": "Repositioning salicylanilide anthelmintic drugs to treat adenovirus infections",
+    "article_number": "17",
+    "publication_date": "2019-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "José A. Marrugal-Lorenzo",
+      "Ana Serna-Gallego",
+      "Judith Berastegui-Cabrera",
+      "Jerónimo Pachón",
+      "Javier Sánchez-Céspedes"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:21:13.168446"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T14:21:14.690293"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T14:21:16.002193"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T21:31:52.726545"
+    },
+    "last_updated": "2025-10-03T21:31:52.726620"
+  }
+}

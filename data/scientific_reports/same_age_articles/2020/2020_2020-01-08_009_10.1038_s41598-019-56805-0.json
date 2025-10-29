@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.300736",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56805-0",
+    "title": "Modeling of the irradiation effect on some physicochemical properties of metoprolol tartrate for safe medical uses",
+    "article_number": "67",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Najoua Ouerfelli",
+      "Narcisa Vrinceanu",
+      "Ezzedine Mliki",
+      "Abdelgadir M. Homeida",
+      "Kamal A. Amin",
+      "Magdalena Ogrodowczyk",
+      "Fawziah S. Alshehri",
+      "Noureddine Ouerfelli"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:26:47.437642"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:26:48.951110"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:26:50.097634"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:34:01.493496"
+    },
+    "last_updated": "2025-10-03T21:34:01.493686"
+  }
+}

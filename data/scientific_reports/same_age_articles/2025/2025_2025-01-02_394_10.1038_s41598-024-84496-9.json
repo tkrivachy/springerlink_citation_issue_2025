@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.392060",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84496-9",
+    "title": "Development and construction of a portable wind tunnel for investigating wind erosion through the application of photogrammetry techniques",
+    "article_number": "178",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Noredin Rostami",
+      "Maryam Rabbani",
+      "Saman Esmaeilbeigi",
+      "Kamyar Hassanpour",
+      "Mohammad Hossein Shahmoradi",
+      "Mohammad Najafishoa",
+      "Zahra Ghobadian",
+      "Masood Varshosaz",
+      "Mehdi Norianfar"
+    ]
+  },
+  "article_index": 394,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:39.481338"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:40.989993"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:42.163038"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:27:12.264032"
+    },
+    "last_updated": "2025-10-03T22:27:12.264219"
+  }
+}

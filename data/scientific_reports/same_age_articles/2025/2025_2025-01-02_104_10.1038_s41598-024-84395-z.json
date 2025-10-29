@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.357617",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84395-z",
+    "title": "Iron induces blood-brain barrier alteration contributing to cognitive impairment in β-thalassaemia mice",
+    "article_number": "533",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Parinda Jamrus",
+      "Nuttanan Pholngam",
+      "Benjaporn Kiatpakdee",
+      "Kittikun Viwatpinyo",
+      "Jim Vadolas",
+      "Sukonthar Ngampramuan",
+      "Saovaros Svasti",
+      "Pornthip Chaichompoo"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:08:19.954652"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:08:21.473956"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:15.858958"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:14:44.187259"
+    },
+    "last_updated": "2025-10-07T09:47:15.859010"
+  }
+}

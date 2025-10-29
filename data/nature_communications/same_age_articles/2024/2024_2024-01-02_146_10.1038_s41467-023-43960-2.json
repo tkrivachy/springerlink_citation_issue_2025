@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.684030",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43960-2",
+    "title": "A genus in the bacterial phylum Aquificota appears to be endemic to Aotearoa-New Zealand",
+    "article_number": "179",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jean F. Power",
+      "Carlo R. Carere",
+      "Holly E. Welford",
+      "Daniel T. Hudson",
+      "Kevin C. Lee",
+      "John W. Moreau",
+      "Thijs J. G. Ettema",
+      "Anna-Louise Reysenbach",
+      "Charles K. Lee",
+      "Daniel R. Colman",
+      "Eric S. Boyd",
+      "Xochitl C. Morgan",
+      "Ian R. McDonald",
+      "S. Craig Cary",
+      "Matthew B. Stott"
+    ]
+  },
+  "article_index": 146,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T18:59:46.866520"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:59:48.438779"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:59:49.628683"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:13:59.432609"
+    },
+    "last_updated": "2025-10-03T23:13:59.432798"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.840367",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50622-2",
+    "title": "Entomotherapy as an alternative treatment for diseases due to Gram-negative bacteria in Burkina Faso",
+    "article_number": "7",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mamadou Ouango",
+      "Hama Cissé",
+      "Rahim Romba",
+      "Samuel Fogné Drabo",
+      "Rasmané Semdé",
+      "Aly Savadogo",
+      "Olivier Gnankiné"
+    ]
+  },
+  "article_index": 132,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:40:19.298228"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:40:20.845006"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:40:22.046148"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:03:52.176065"
+    },
+    "last_updated": "2025-10-03T22:03:52.176257"
+  }
+}

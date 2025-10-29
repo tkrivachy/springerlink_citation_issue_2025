@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.387867",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84267-6",
+    "title": "All-electrical recursive generation and time-domain mode division multiplexing of Hermite–Gaussian pulses for optical, THz and RF links",
+    "article_number": "486",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xiaonan Yu",
+      "Janosch Meier",
+      "Paulomi Mandal",
+      "Mohamed I. Hosni",
+      "Abhinand Venugopalan",
+      "Lingfei Wang",
+      "Thomas Schneider"
+    ]
+  },
+  "article_index": 365,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:51:32.974340"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:51:34.531887"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:35.700286"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:30:03.819264"
+    },
+    "last_updated": "2025-10-03T22:30:03.819495"
+  }
+}

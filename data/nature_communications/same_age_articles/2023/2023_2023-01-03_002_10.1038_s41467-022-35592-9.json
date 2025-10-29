@@ -1,0 +1,70 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.630886",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35592-9",
+    "title": "Integrated clinical and genomic analysis identifies driver events and molecular evolution of colitis-associated cancers",
+    "article_number": "110",
+    "publication_date": "2023-01-07",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Walid K. Chatila",
+      "Henry Walch",
+      "Jaclyn F. Hechtman",
+      "Sydney M. Moyer",
+      "Valeria Sgambati",
+      "David M. Faleck",
+      "Amitabh Srivastava",
+      "Laura Tang",
+      "Jamal Benhamida",
+      "Dorina Ismailgeci",
+      "Carl Campos",
+      "Fan Wu",
+      "Qing Chang",
+      "Efsevia Vakiani",
+      "Elisa de Stanchina",
+      "Martin R. Weiser",
+      "Maria Widmar",
+      "Rhonda K. Yantiss",
+      "Manish A. Shah",
+      "Adam J. Bass",
+      "Zsofia K. Stadler",
+      "Lior H. Katz",
+      "Ingo K. Mellinghoff",
+      "Nilay S. Sethi",
+      "Nikolaus Schultz",
+      "Karuna Ganesh",
+      "David Kelsen",
+      "Rona Yaeger"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:54:25.852372"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:54:27.419536"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:54:28.705489"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T23:12:08.059134"
+    },
+    "last_updated": "2025-10-03T23:12:08.059356"
+  }
+}

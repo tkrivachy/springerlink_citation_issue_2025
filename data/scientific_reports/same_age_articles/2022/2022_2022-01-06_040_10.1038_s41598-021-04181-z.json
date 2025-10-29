@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.853091",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04181-z",
+    "title": "Spherical harmonics to quantify cranial asymmetry in deformational plagiocephaly",
+    "article_number": "167",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jonas Grieb",
+      "Inés Barbero-García",
+      "José Luis Lerma"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:08:28.480173"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:08:30.038232"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:08:31.204457"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:50:40.843971"
+    },
+    "last_updated": "2025-10-03T21:50:40.844161"
+  }
+}

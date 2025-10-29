@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202277",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20299-6",
+    "title": "Interfacial jamming reinforced Pickering emulgel for arbitrary architected nanocomposite with connected nanomaterial matrix",
+    "article_number": "111",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuanyuan Zhang",
+      "Guangming Zhu",
+      "Biqin Dong",
+      "Feng Wang",
+      "Jiaoning Tang",
+      "Florian J. Stadler",
+      "Guanghui Yang",
+      "Shuxian Hong",
+      "Feng Xing"
+    ]
+  },
+  "article_index": 180,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:43:10.192688"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:43:11.882928"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:43:13.042784"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T23:08:22.945230"
+    },
+    "last_updated": "2025-10-03T23:08:22.945284"
+  }
+}

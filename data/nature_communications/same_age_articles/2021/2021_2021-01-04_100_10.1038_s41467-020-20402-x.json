@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.190682",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20402-x",
+    "title": "Enantioselective extraction of unprotected amino acids coupled with racemization",
+    "article_number": "125",
+    "publication_date": "2021-01-05",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Haofei Huang",
+      "Yingji Jin",
+      "Mukesh E. Shirbhate",
+      "Dayoung Kang",
+      "Misun Choi",
+      "Qian Chen",
+      "Youngmee Kim",
+      "Sung-Jin Kim",
+      "Il-Suk Byun",
+      "Ming Wang",
+      "Jean Bouffard",
+      "Seong Kyu Kim",
+      "Kwan Mook Kim"
+    ]
+  },
+  "article_index": 100,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:25:30.266557"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:25:31.783029"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:25:33.045955"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:02:28.888468"
+    },
+    "last_updated": "2025-10-03T23:02:28.888656"
+  }
+}

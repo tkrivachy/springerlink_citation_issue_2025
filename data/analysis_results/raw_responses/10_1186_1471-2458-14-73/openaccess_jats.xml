@@ -1,0 +1,3242 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-73</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">BMC1471-2458-14-73</article-id>
+          <article-id pub-id-type="manuscript">6266</article-id>
+          <article-id pub-id-type="doi">10.1186/1471-2458-14-73</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection" specific-use="SubjectSection">
+              <subject>Biostatistics and methods</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Assessing the construct validity and reliability of the parental perception on antibiotics (PAPA) scales</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Alumran</surname>
+                <given-names>Arwa</given-names>
+              </name>
+              <address>
+                <email>arwa.alumran@gmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Hou</surname>
+                <given-names>Xiang-Yu</given-names>
+              </name>
+              <address>
+                <email>x.hou@qut.edu.au</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Sun</surname>
+                <given-names>Jiandong</given-names>
+              </name>
+              <address>
+                <email>j1.sun@qut.edu.au</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Yousef</surname>
+                <given-names>Abdullah A</given-names>
+              </name>
+              <address>
+                <email>draayousef@yahoo.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes">
+              <name name-style="western">
+                <surname>Hurst</surname>
+                <given-names>Cameron</given-names>
+              </name>
+              <address>
+                <email>cphurst@gmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+              <xref ref-type="aff" rid="Aff6">6</xref>
+              <xref ref-type="corresp" rid="IDBMC147124581473_cor5">e</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.1024.7</institution-id>
+                <institution-id institution-id-type="ISNI">0000000089150953</institution-id>
+                <institution content-type="org-division">School of Public Health &amp; Social Work</institution>
+                <institution content-type="org-name">Queensland University of Technology</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">4059</addr-line>
+              <addr-line content-type="city">Brisbane</addr-line>
+              <country country="AU">Australia</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.1024.7</institution-id>
+                <institution-id institution-id-type="ISNI">0000000089150953</institution-id>
+                <institution content-type="org-division">Institute of Health and Biomedical Innovation</institution>
+                <institution content-type="org-name">Queensland University of Technology</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">4059</addr-line>
+              <addr-line content-type="city">Brisbane</addr-line>
+              <country country="AU">Australia</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.411975.f</institution-id>
+                <institution-id institution-id-type="ISNI">000000040607035X</institution-id>
+                <institution content-type="org-division">Health Information Management and Technology Department, College of Applied Medical Sciences</institution>
+                <institution content-type="org-name">University of Dammam</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Dammam</addr-line>
+              <country country="SA">Saudi Arabia</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.411975.f</institution-id>
+                <institution-id institution-id-type="ISNI">000000040607035X</institution-id>
+                <institution content-type="org-division">Paediatrics Pulmonary, Department of Paediatrics, College of Medicine</institution>
+                <institution content-type="org-name">University of Dammam</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Dammam</addr-line>
+              <country country="SA">Saudi Arabia</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.9786.0</institution-id>
+                <institution-id institution-id-type="ISNI">0000000404700856</institution-id>
+                <institution content-type="org-division">Clinical Epidemiology Unit, Faculty of Medicine</institution>
+                <institution content-type="org-name">Khon Kaen University, Srinagarind Hospital</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">40002</addr-line>
+              <addr-line content-type="city">Khon Kaen</addr-line>
+              <country country="TH">Thailand</country>
+            </aff>
+            <aff id="Aff6">
+              <label>6</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.9786.0</institution-id>
+                <institution-id institution-id-type="ISNI">0000000404700856</institution-id>
+                <institution content-type="org-division">Data Management and Statistical Analysis Center, Faculty of Public Health</institution>
+                <institution content-type="org-name">Khon Kaen University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">40002</addr-line>
+              <addr-line content-type="city">Khon Kaen</addr-line>
+              <country country="TH">Thailand</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDBMC147124581473_cor5">
+              <label>e</label>
+              <email>cphurst@gmail.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>23</day>
+            <month>1</month>
+            <year>2014</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2014</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue seq="57">1</issue>
+          <elocation-id>73</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>16</day>
+              <month>7</month>
+              <year>2013</year>
+            </date>
+            <date date-type="received">
+              <day>16</day>
+              <month>7</month>
+              <year>2013</year>
+            </date>
+            <date date-type="accepted">
+              <day>13</day>
+              <month>1</month>
+              <year>2014</year>
+            </date>
+            <date date-type="online">
+              <day>23</day>
+              <month>1</month>
+              <year>2014</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© Alumran et al.; licensee BioMed Central Ltd. 2014</copyright-statement>
+            <copyright-statement content-type="comment">
+              This article is published under license to BioMed Central Ltd. This is an open access article distributed under the terms of the Creative Commons Attribution License (
+              <ext-link ns0:href="http://creativecommons.org/licenses/by/2.0" ext-link-type="uri">http://creativecommons.org/licenses/by/2.0</ext-link>
+              ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+            </copyright-statement>
+            <copyright-year>2014</copyright-year>
+            <copyright-holder>Alumran et al.; licensee BioMed Central Ltd.</copyright-holder>
+            <license license-type="open-access" ns0:href="https://creativecommons.org/licenses/by/2.0">
+              <license-p>
+                <bold>Open Access</bold>
+                
+ This article is published under license to BioMed Central Ltd. This is an Open Access article is distributed under the terms of the Creative Commons Attribution License (
+  
+                <ext-link ns0:href="https://creativecommons.org/licenses/by/2.0" ext-link-type="uri">https://creativecommons.org/licenses/by/2.0</ext-link>
+                
+  ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+  
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>The overuse of antibiotics is becoming an increasing concern. Antibiotic resistance, which increases both the burden of disease, and the cost of health services, is perhaps the most profound impact of antibiotics overuse. Attempts have been made to develop instruments to measure the psychosocial constructs underlying antibiotics use, however, none of these instruments have undergone thorough psychometric validation. This study evaluates the psychometric properties of the Parental Perceptions on Antibiotics (PAPA) scales. The PAPA scales attempt to measure the factors influencing parental use of antibiotics in children.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>
+                1111 parents of children younger than 12 years old were recruited from primary schools’ parental meetings in the Eastern Province of Saudi Arabia from September 2012 to January 2013. The structure of the PAPA instrument was validated using Confirmatory Factor Analysis (CFA) with measurement model fit evaluated using the raw and scaled 
+                <italic>χ</italic>
+                <sup>2</sup>
+                , Goodness of Fit Index, and Root Mean Square Error of Approximation.
+              </p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>
+                A five-factor model was confirmed with the model showing good fit. Constructs in the model include: 
+                <italic>Knowledge and Beliefs, Behaviors, Sources of information, Adherence,</italic>
+                 and 
+                <italic>Awareness about antibiotics resistance</italic>
+                . The instrument was shown to have good internal consistency, and good discriminant and convergent validity.
+              </p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusion</title>
+              <p>The availability of an instrument able to measure the psychosocial factors underlying antibiotics usage allows the risk factors underlying antibiotic use and overuse to now be investigated.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Antibiotic overuse</kwd>
+            <kwd>Psychosocial</kwd>
+            <kwd>Measurement instrument</kwd>
+            <kwd>Reliability</kwd>
+            <kwd>Validity</kwd>
+            <kwd>Confirmatory factor analysis</kwd>
+            <kwd>Saudi Arabia</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>1327</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2014</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2013</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>7</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>16</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2013_Article_6266.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="ESMHint">
+          <title>Electronic supplementary material</title>
+          <p>
+            The online version of this article (doi:
+            <ext-link ns0:href="10.1186/1471-2458-14-73" ext-link-type="doi">10.1186/1471-2458-14-73</ext-link>
+            ) contains supplementary material, which is available to authorized users.
+          </p>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Background</title>
+          <p>
+            Antibiotics are helpful in treating bacterial infections and are effective in reducing mortality and morbidity rates worldwide [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Since their introduction, antibiotic usage has become very widespread. The increased usage of antibiotics increases the potential for antibiotic overuse and misuse [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            –
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ], including in children [
+            <xref ref-type="bibr" rid="CR10">10</xref>
+            ]. This growing global public health issue needs to be addressed and managed.
+          </p>
+          <p>
+            The overuse of antibiotics may cause several harmful effects at both the individual, and the community, level. One of the most important individual risk factors is the development of preventable adverse effects (e.g. adverse gastrointestinal effects) [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            , 
+            <xref ref-type="bibr" rid="CR11">11</xref>
+            ]. These adverse effects represent a more significant issue in children [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ]. Community level risk factors are potentially more serious, and include the development of antibacterial resistance and raising the burden of chronic diseases, which leads to an increase in unnecessary expenditure on health services [
+            <xref ref-type="bibr" rid="CR12">12</xref>
+            –
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            ].
+          </p>
+          <p>
+            Antibacterial resistance is a growing public health issue worldwide, and represents a risk to both the community and the individual [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            –
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ]. Antibiotic resistance is highly associated with the overuse of antibiotics to treat viral URTIs [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. With the emergence of antibacterial resistance, it is inadvisable to use antibiotics indiscriminately [
+            <xref ref-type="bibr" rid="CR16">16</xref>
+            ]. Promoting judicious use of antibiotics by parents could protect children from antibacterial resistance, especially in countries where antibiotics can be obtained without prescription.
+          </p>
+          <p>In many countries, the problem of antibiotic overuse is exacerbated as a result of policy shortfalls, or inadequate regulation on the distribution of antibiotics. In many of these countries, antibiotics can be purchased over-the-counter at pharmacies without a prescription from a doctor. This takes the decision of antibiotic use out of the hands of the medical professional, and places the decision to use antibiotics firmly with consumers and parents.</p>
+          <p>
+            Antibiotics are often inappropriately used to treat viral infections including most upper respiratory tract infections (URTIs). URTIs are the most common infections around the world [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            , 
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            –
+            <xref ref-type="bibr" rid="CR18">18</xref>
+            ]. Most infections of the upper respiratory tract are viral in nature and neither require, or are effectively treated by, antibiotics [
+            <xref ref-type="bibr" rid="CR19">19</xref>
+            ]. The use of antibiotics to treat viral URTIs is considered a misuse of antibiotics [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            , 
+            <xref ref-type="bibr" rid="CR20">20</xref>
+            –
+            <xref ref-type="bibr" rid="CR23">23</xref>
+            ]. Parents’ knowledge regarding URTIs and their treatment needs to be assessed in order to develop strategies that may reduce antibiotic overuse in children.
+          </p>
+          <p>
+            Several factors might cause a community to overuse antibiotics. These include: (1) factors related to policy controls and regulations governing availability of antibiotics; (2) factors related to public consumption such as attitudes, beliefs, knowledge of antibiotic use, and behaviors (e.g. over-the-counter medication and self-medication); (3) patients’ perceptions regarding patient-doctor interaction; and (4) patient satisfaction of experiences with antibiotics [
+            <xref ref-type="bibr" rid="CR24">24</xref>
+            –
+            <xref ref-type="bibr" rid="CR30">30</xref>
+            ]. In order to measure the factors associated with the public’s patterns of antibiotic use, a valid and reliable instrument able to tease out the psychosocial constructs representing consumers’ attitudes, beliefs and behaviors to antibiotics needs to be available. An extensive literature review concluded that, at this time, there is no validated instrument that measures the factors influencing parents’ use of antibiotics in children, in particular, or for patients, in general [
+            <xref ref-type="bibr" rid="CR31">31</xref>
+            ].
+          </p>
+          <p>
+            The parental perceptions on antibiotics (PAPA) instrument was developed [
+            <xref ref-type="bibr" rid="CR32">32</xref>
+            ] and has undergone preliminary validation [
+            <xref ref-type="bibr" rid="CR33">33</xref>
+            ] to assess the factors influencing parents’ use of antibiotics in children (especially with URTIs). Both survey items, and the domains in which they were grouped, were developed using a literature review [
+            <xref ref-type="bibr" rid="CR31">31</xref>
+            , 
+            <xref ref-type="bibr" rid="CR34">34</xref>
+            ] and content-validated by an extensive Delphi process using experts’ knowledge about the use of antibiotics [
+            <xref ref-type="bibr" rid="CR32">32</xref>
+            ]. The developed instrument (PAPA scales) needs to undergo further analysis of its psychometric properties to be considered fully valid and reliable for use in future research.
+          </p>
+          <sec id="Sec2">
+            <title>Construct validation</title>
+            <p>
+              Construct validity is the extent to which an instrument measures the construct that it is intended to measure. According to Ramaker 
+              <italic>et al.</italic>
+               (2002) [
+              <xref ref-type="bibr" rid="CR35">35</xref>
+              ], factor analysis is often used to measure the inter-correlation of the instrument’s components, which subsequently assists in condensing the number of dimensions in the instrument by grouping the related items under the same dimension. Construct validity is achieved when the tool: (1) measures the differences between contrasting groups of participants, (2) reflects the framework hypothesized in a hypothesis testing study, and (3) can undergo a confirmatory factor analysis which adequately establishes that the measurement model fits the actual data [
+              <xref ref-type="bibr" rid="CR36">36</xref>
+              ]. The aim of this study is to investigate the psychometric properties of the PAPA scales and to demonstrate preliminary evidence of construct validity of the PAPA instrument.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec3" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec4">
+            <title>Participants</title>
+            <p>
+              Like many analyses containing a large number of variables, CFA is generally too complex to prospectively power. Typically, little is known about minimal clinical differences and standard deviations associated with both observed and latent variables. Instead, ‘rules of thumb’ are used to guide in the selection of sample size. We used the sample size approach advocated by Comrey and Lee [
+              <xref ref-type="bibr" rid="CR37">37</xref>
+              ]: 100 = fair, 200 = good, 500 = very good, and &gt;1000 = excellent. We were conservative in the selection of sample size in case subgroup analyses were required (e.g. mother and fathers). Given the informal nature of the Comery and Lee [
+              <xref ref-type="bibr" rid="CR37">37</xref>
+              ] approach, it is important to note the effect sizes (i.e. magnitude of loadings and inter-factor correlations) to gauge the contextual importance of parameter estimates in any subsequent analysis.
+            </p>
+            <p>Participants comprised a sample of parents attending parental meetings in primary schools in the Eastern Province of Saudi Arabia. Of the 1395 people sampled, 1111 (79.6%) completed and returned their survey. Just over half of the participants were mothers (52%); the majority were not trained in health fields (88.8%); more than half of the sample were employed (57.2%); and only 1% were illiterate, with most of the sample having a diploma or a bachelors degree (62.2%). Parents were aged between 19 and 72 years (median = 37; mean = 38.11, SD = 7.7). Geographical background was reported with 44% of the participants stating they were originally from the Eastern Province, while the rest of the participants’ origins were equally distributed among the other provinces, with the exception of the Northern Province, which was represented by only 3.6% of the individuals.</p>
+          </sec>
+          <sec id="Sec5">
+            <title>Measures</title>
+            <p>
+              The PAPA instrument [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ] is a 32-item instrument that aims to measure the psychosocial factors influencing the overuse of antibiotics in children, especially with upper respiratory tract infections. Items in the instrument are available in Additional file 
+              <xref ref-type="supplementary-material" rid="MOESM1">1</xref>
+              . Depending on the nature of the item, parents were asked to rate on a 5-point Likert scale ranging from 
+              <italic>strongly disagree</italic>
+               to 
+              <italic>strongly agree</italic>
+               or from 
+              <italic>never</italic>
+               to 
+              <italic>always.</italic>
+               The development, translation, and preliminary validation of the PAPA scales are reported elsewhere [
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              , 
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ].
+            </p>
+            <p>The questionnaire measures the following criteria: (1) parents’ demographic characteristics such as gender, number of girls and boys in the family, health training, age, employment status and education levels, geographical background, when they moved to the Eastern Province, and monthly income; (2) child health-related history including the number of cold episodes and antibiotics (courses) used for the youngest child during the last year (ranging from never to more than 6 times a year), and whether any of the children in the family has ever had a serious infectious disease or a chronic disease; and (3) items relating to parents’ psychosocial factors influencing the parental use of antibiotics including knowledge and beliefs, behaviors, adherence, seeking information, awareness about antibiotics resistance, and parents’ perception about doctors’ prescribing behavior.</p>
+            <sec id="Sec6">
+              <title>Knowledge and beliefs</title>
+              <p>
+                The knowledge and beliefs scale includes 10 items that measure the extent of parents’ knowledge and beliefs with regards to antibiotics use. Knowledge and beliefs items include questions such as: measuring the parents’ perceptions regarding 
+                <italic>the necessity to use an antibiotic for: the common cold</italic>
+                 [KB1]
+                <italic>, and/or a sore throat</italic>
+                 [KB2]. This construct shows good internal consistency in this sample (Cronbach’s α = 0.836).
+              </p>
+            </sec>
+            <sec id="Sec7">
+              <title>Behaviors</title>
+              <p>
+                This 5-item scale assesses the behaviors of parents with regards to the use of antibiotics. Most of the behavior-related questions are about past experiences such as: 
+                <italic>In the past, I have stopped giving my child an antibiotic because my friends/family advised me to</italic>
+                 [B5]. This construct shows good internal consistency in this sample (Cronbach’s α = 0.771).
+              </p>
+            </sec>
+            <sec id="Sec8">
+              <title>Seeking information</title>
+              <p>
+                This 7-item construct assesses the sources parents use to get their health-related information such as: 
+                <italic>nurses and/or other allied health professionals</italic>
+                 [SI1]
+                <italic>.</italic>
+                 The Seeking information scale shows good internal consistency in this sample (Cronbach’s α = 0.834).
+              </p>
+            </sec>
+            <sec id="Sec9">
+              <title>Adherence</title>
+              <p>
+                This 5-items subscale assesses the level of parents’ adherence to specific doses of antibiotics in their children. It is represented by questions such as: 
+                <italic>skipping one or two antibiotic doses doesn’t make much difference</italic>
+                 [AD1]. This construct shows good internal consistency in this sample (Cronbach’s α = 0.765).
+              </p>
+            </sec>
+            <sec id="Sec10">
+              <title>Awareness about antibiotics resistance</title>
+              <p>
+                This is a 5-item factor that assesses the parents’ awareness about antibiotic resistance. It includes items such as: 
+                <italic>antibiotics can be harmful to one’s health</italic>
+                 [ABR1]
+                <italic>.</italic>
+                 The internal consistency in this sample for this construct appears to be moderate (Cronbach’s α = 0.462).
+              </p>
+              <p>
+                The 
+                <italic>Parents’ perception regarding doctors’ prescribing behaviors’</italic>
+                 (PPD) was also initially included in the instrument. This factor was included to measure how parents perceived the prescribing behavior of the doctor (e.g. Insufficiently forthcoming with a prescription for antibiotics). The PPD factor had adequately high loadings in the EFA analysis to warrant it’s consideration in the CFA [
+                <xref ref-type="bibr" rid="CR33">33</xref>
+                ]. However, in our initial CFA (the six factor instrument), the PPD items loaded somewhat lower than in the EFA, although they were still statistically significant (p &lt; 0.001). The main difficulty presented in the initial six-factor measurement model was that PPD factor was not associated with any of other factor in the measurement model. This implies the original six-factor instrument may be too broad in it’s specification, and this is reflected by the lack of fit of the six-factor model (raw 
+                <italic>χ</italic>
+                <sup>2</sup>
+                 = 3442.63, df = 579, p &lt; 0.001; 
+                <italic>χ</italic>
+                <sup>2</sup>
+                /
+                <italic>df</italic>
+                 = 5.946; GFI = 0.839; RSMEA = 0.067). Exclusion of the PPD items from the PAPA instrument substantially improved the model fit (see details in results section) so it was decided that a five-factor model (excluding PPD) might represent a more appropriately scoped model to measure parental perceptions about antibiotics.
+              </p>
+            </sec>
+          </sec>
+          <sec id="Sec11">
+            <title>Procedure</title>
+            <p>
+              This study was cross-sectional and employs a previously developed [
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              ], and preliminary validated instrument [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ]. Ethical clearances were obtained from Queensland University of Technology in Australia (Ethical approval number: 1200000022) and the Department of Development and Planning in the Ministry of Education in the Eastern Province in Saudi Arabia (Ethical approval number: 33505889). The Arabic questionnaire was distributed to parents of children younger than 12 years old in primary schools in the Eastern Province of Saudi Arabia in September 2012 to January 2013. Attending these meetings is considered a social obligation in Saudi Arabia, thus making the sample a representative one of the Saudi population, adding to the likelihood of external validity of the results. Participants’ consent was implied in the return of the completed questionnaire as shown in the questionnaire’s cover page.
+            </p>
+          </sec>
+          <sec id="Sec12">
+            <title>Instrument development</title>
+            <p>
+              The PAPA instrument was developed [
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              ] using a content evaluation panel of expert from Australia and Saudi Arabia; the panel of experts were used to conduct the brainstorming process [
+              <xref ref-type="bibr" rid="CR38">38</xref>
+              ]. The instrument’s items were derived from relevant literature, followed by a three-round Delphi Process using content experts. Experts included in preliminary development step came from areas such as: paediatrics, infectious diseases, epidemiology, family medicine, psychology and counselling, and social sciences.
+            </p>
+          </sec>
+          <sec id="Sec13">
+            <title>
+              A 
+              <italic>priori</italic>
+              model
+            </title>
+            <p>
+              After the development of the instrument [
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              ], parallel analysis and Exploratory Factor Analysis (EFA) using principal axis factoring were conducted to determine the number and nature of the underlying factors in the instrument [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ]. Six factors were produced from the analysis: knowledge and beliefs, behaviors, sources of information, adherence, awareness about antibiotics resistance, and parents’ perception regarding doctors’ prescribing behaviors. Also, the instrument’s reliability was established with Cronbach’s alpha = 0.78. The constructs produced in the priori model coincide with the constructs contextually available in the relevant literature [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ].
+            </p>
+            <p>
+              An Oblique (Promax) model was chosen after comparing principal axis factoring models with orthogonal (Varimax) and oblique rotations. The latter of these two models was clearly more realistic and revealed substantial correlations among many of the factors [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ].
+            </p>
+          </sec>
+          <sec id="Sec14">
+            <title>Statistical analysis</title>
+            <p>
+              After conducting the EFA analysis using Statistics Package for Social Sciences (SPSS v19: [
+              <xref ref-type="bibr" rid="CR39">39</xref>
+              ]), the resulting constructs from the EFA using Principal Axis Factoring [
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              ] were validated using Confirmatory Factor Analysis (CFA) in AMOS and Stata/SE v12. Results suggested that only five out of the six initial factors should be included in the final CFA model (see above). This study assesses the CFA using a different dataset from the one used in EFA (sample size 
+              <italic>n</italic>
+               = 1111).
+            </p>
+            <p>
+              We initially tried fitting our CFA model using Maximum Likelihood Estimation, but noticed that Generalized Least Squares provided a superior fit. The model fit was evaluated using the Goodness of Fit Index (GFI; [
+              <xref ref-type="bibr" rid="CR40">40</xref>
+              ]), Root Mean Square Error of Approximations (RMSEA; [
+              <xref ref-type="bibr" rid="CR41">41</xref>
+              ]), and the raw and modified 
+              <italic>χ</italic>
+              <sup>2</sup>
+               fit statistics. It is important to note that the raw and modified 
+              <italic>χ</italic>
+              <sup>2</sup>
+               are usually upwardly biased with sample size [
+              <xref ref-type="bibr" rid="CR42">42</xref>
+              , 
+              <xref ref-type="bibr" rid="CR43">43</xref>
+              ] and are included here only for convention. GFI evaluates the model fit by measuring the fit between an estimated model and the observed covariance matrix [
+              <xref ref-type="bibr" rid="CR40">40</xref>
+              ]. A GFI greater than 0.9 is considered a good fit [
+              <xref ref-type="bibr" rid="CR44">44</xref>
+              ]. The RMSEA evaluates the model fit by assessing how well an unknown but optimally chosen parameter estimates fit the population covariance matrix [
+              <xref ref-type="bibr" rid="CR42">42</xref>
+              ] and an RMSEA value of less than 0.06 suggests a good model fit [
+              <xref ref-type="bibr" rid="CR41">41</xref>
+              ].
+            </p>
+            <p>
+              To establish there was no bias in the pattern of missing values, missing values were analysed using Little’s MCAR test [
+              <xref ref-type="bibr" rid="CR45">45</xref>
+              ] to determine if the missing values are missing completely at random. Only 1.3% of the data was missing, and Little’s MCAR test [
+              <xref ref-type="bibr" rid="CR45">45</xref>
+              ] showed missing values were missing completely at random (p-value = 0.446). The frequency of missing values ranged from 0.4 to 3.3%. Expectation Maximization Technique [
+              <xref ref-type="bibr" rid="CR40">40</xref>
+              ] was used to impute missing values for the purpose of CFA, with all discrete variable imputations rounded to the nearest integer. The internal consistency of the PAPA scales was assessed using Cronbach’s alpha.
+            </p>
+            <p>
+              To evaluate Convergent validity, the Average Variance Extracted (AVE) for each construct was evaluated against its correlation with the other constructs. Where AVE was larger than the construct’s correlation with other constructs, then Convergent validity was considered to be confirmed [
+              <xref ref-type="bibr" rid="CR46">46</xref>
+              ]. Discriminant validity was established where Maximum Shared Variance (MSV) and the Average Shared Squared Variance (ASV) were both lower than the Average Variance Extracted (AVE) for all the constructs [
+              <xref ref-type="bibr" rid="CR47">47</xref>
+              ].
+            </p>
+            <p>The total score for each subscale was computed using the loadings for each item produced from the CFA. Each subscale was defined according to what it measures: (1) Knowledge and Beliefs [KB] measures the parents’ knowledge and beliefs about the appropriate use of antibiotics; (2) Behaviours [B] measures the parents’ appropriate behaviours regarding the use of antibiotics; (3) Seeking Information [SI] measures the extent to which parents are proactive in educating themselves about antibiotics from various sources; (4) Antibiotic Adherence [AD] measures the parents’ adherence to appropriate antibiotic doses; and (5) Awareness about antibiotic resistance [ABR] measures the parents’ awareness about antibiotic resistance.</p>
+            <p>A higher score in the ‘Knowledge and Beliefs’ scale means better knowledge regarding antibiotic use; a higher score in the ‘Behaviors’ scale means better judicious behavior regarding antibiotics use; a higher score in the ‘Adherence’ scale means better adherence to appropriate antibiotic doses; a higher score in the ‘Seeking Information’ scale means more eagerness to seek health-related information; and finally a higher score in the ‘Awareness about Antibiotics Resistance’ scale means better awareness regarding antibiotics resistance. All items worded negatively were reverse coded for the purpose of analysis.</p>
+          </sec>
+        </sec>
+        <sec id="Sec15" sec-type="results">
+          <title>Results</title>
+          <p>
+            The measurement model fit using CFA is shown in Figure 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            . The model fit the data adequately with a good GFI (GFI = 0.915) and RMSEA (RMSEA = 0.047). The raw 
+            <italic>χ</italic>
+            <sup>2</sup>
+             is 1470.334 and 
+            <italic>χ</italic>
+            <sup>2</sup>
+            /
+            <italic>df</italic>
+             is 3.484 with p-value &lt; 0.0001. However, the raw and scaled 
+            <italic>χ</italic>
+            <sup>2</sup>
+             are highly influenced by the sample size [
+            <xref ref-type="bibr" rid="CR42">42</xref>
+            ]. To test this hypothesis, we performed a post hoc analysis by randomly selecting 50% of the sample and rerunning the model; the new raw and scaled 
+            <italic>χ</italic>
+            <sup>2</sup>
+             are 875.123 and 2.074 respectively. Counter-intuitively, the 
+            <italic>χ</italic>
+            <sup>2</sup>
+             reduced dramatically with the reduction of sample size; this concurs with reports from other studies [
+            <xref ref-type="bibr" rid="CR43">43</xref>
+            ].
+            <fig id="Fig1" position="float">
+              <label>Figure 1</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>Confirmatory Factor Analysis model.</bold>
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/12889_2013_Article_6266_Fig1_HTML.jpg"/>
+            </fig>
+          </p>
+          <p>
+            The means and standard deviations of the individual items in the instrument are presented in Table 
+            <xref rid="Tab1" ref-type="table">1</xref>
+            , where 1 is for ‘Strongly disagree’ or ‘never’ and 5 is for ‘strongly agree’ or ‘always’ depending on the nature of the question.
+            <table-wrap id="Tab1">
+              <label>Table 1</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>EFA and CFA Loadings</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th rowspan="2">
+                      <p>Items</p>
+                    </th>
+                    <th colspan="2">
+                      <p>Loadings</p>
+                    </th>
+                    <th rowspan="2">
+                      <p>Mean (SD)</p>
+                    </th>
+                    <th rowspan="2">
+                      <p>Items</p>
+                    </th>
+                    <th colspan="2">
+                      <p>Loadings</p>
+                    </th>
+                    <th rowspan="2">
+                      <p>Mean (SD)</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th>
+                      <p>β</p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>
+                          <italic>u</italic>
+                        </bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>β</p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>
+                          <italic>u</italic>
+                        </bold>
+                      </p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <p>KB1</p>
+                    </td>
+                    <td>
+                      <p>-0.646</p>
+                    </td>
+                    <td>
+                      <p>-0.627</p>
+                    </td>
+                    <td>
+                      <p>2.8 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>B1</p>
+                    </td>
+                    <td>
+                      <p>
+                        <sup>a</sup>
+                      </p>
+                    </td>
+                    <td>
+                      <p>-0.443</p>
+                    </td>
+                    <td>
+                      <p>1.6 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB2</p>
+                    </td>
+                    <td>
+                      <p>-0.367</p>
+                    </td>
+                    <td>
+                      <p>-0.631</p>
+                    </td>
+                    <td>
+                      <p>3.2 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>B2</p>
+                    </td>
+                    <td>
+                      <p>-0.617</p>
+                    </td>
+                    <td>
+                      <p>-0.809</p>
+                    </td>
+                    <td>
+                      <p>1.7 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB3</p>
+                    </td>
+                    <td>
+                      <p>-0.292</p>
+                    </td>
+                    <td>
+                      <p>-0.461</p>
+                    </td>
+                    <td>
+                      <p>3.3 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>B3</p>
+                    </td>
+                    <td>
+                      <p>-0.609</p>
+                    </td>
+                    <td>
+                      <p>-0.534</p>
+                    </td>
+                    <td>
+                      <p>1.8 (1.1)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB4</p>
+                    </td>
+                    <td>
+                      <p>-0.264</p>
+                    </td>
+                    <td>
+                      <p>-0.574</p>
+                    </td>
+                    <td>
+                      <p>3.1 (1.1)</p>
+                    </td>
+                    <td>
+                      <p>B4</p>
+                    </td>
+                    <td>
+                      <p>-0.825</p>
+                    </td>
+                    <td>
+                      <p>-0.874</p>
+                    </td>
+                    <td>
+                      <p>1.8 (1.1)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB5</p>
+                    </td>
+                    <td>
+                      <p>-0.660</p>
+                    </td>
+                    <td>
+                      <p>-0.687</p>
+                    </td>
+                    <td>
+                      <p>3.2 (1.1)</p>
+                    </td>
+                    <td>
+                      <p>B5</p>
+                    </td>
+                    <td>
+                      <p>-0.318</p>
+                    </td>
+                    <td>
+                      <p>-0.426</p>
+                    </td>
+                    <td>
+                      <p>1.6 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB6</p>
+                    </td>
+                    <td>
+                      <p>-0.679</p>
+                    </td>
+                    <td>
+                      <p>-0.613</p>
+                    </td>
+                    <td>
+                      <p>2.9 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>B6</p>
+                    </td>
+                    <td>
+                      <p>-0.375</p>
+                    </td>
+                    <td>
+                      <p>-0.623</p>
+                    </td>
+                    <td>
+                      <p>1.6 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB7</p>
+                    </td>
+                    <td>
+                      <p>-0.719</p>
+                    </td>
+                    <td>
+                      <p>-0.672</p>
+                    </td>
+                    <td>
+                      <p>2.6 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>AD1</p>
+                    </td>
+                    <td>
+                      <p>-0.415</p>
+                    </td>
+                    <td>
+                      <p>-0.716</p>
+                    </td>
+                    <td>
+                      <p>1.9 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB8</p>
+                    </td>
+                    <td>
+                      <p>-0.669</p>
+                    </td>
+                    <td>
+                      <p>-0.749</p>
+                    </td>
+                    <td>
+                      <p>3.3 (1.1)</p>
+                    </td>
+                    <td>
+                      <p>AD2</p>
+                    </td>
+                    <td>
+                      <p>-0.772</p>
+                    </td>
+                    <td>
+                      <p>-0.902</p>
+                    </td>
+                    <td>
+                      <p>2.5 (1.3)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB9</p>
+                    </td>
+                    <td>
+                      <p>-0.591</p>
+                    </td>
+                    <td>
+                      <p>-0.628</p>
+                    </td>
+                    <td>
+                      <p>3.5 (1.0)</p>
+                    </td>
+                    <td>
+                      <p>AD3</p>
+                    </td>
+                    <td>
+                      <p>-0.697</p>
+                    </td>
+                    <td>
+                      <p>-0.517</p>
+                    </td>
+                    <td>
+                      <p>2.3 (1.2)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>KB10</p>
+                    </td>
+                    <td>
+                      <p>-0.405</p>
+                    </td>
+                    <td>
+                      <p>-0.594</p>
+                    </td>
+                    <td>
+                      <p>3.6 (1.0)</p>
+                    </td>
+                    <td>
+                      <p>AD4</p>
+                    </td>
+                    <td>
+                      <p>-0.508</p>
+                    </td>
+                    <td>
+                      <p>-0.697</p>
+                    </td>
+                    <td>
+                      <p>2.6 (1.3)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI1</p>
+                    </td>
+                    <td>
+                      <p>0.427</p>
+                    </td>
+                    <td>
+                      <p>0.472</p>
+                    </td>
+                    <td>
+                      <p>2.7 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>AD5</p>
+                    </td>
+                    <td>
+                      <p>-0.306</p>
+                    </td>
+                    <td>
+                      <p>-0.465</p>
+                    </td>
+                    <td>
+                      <p>1.7 (0.9)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI2</p>
+                    </td>
+                    <td>
+                      <p>0.812</p>
+                    </td>
+                    <td>
+                      <p>0.759</p>
+                    </td>
+                    <td>
+                      <p>2.8 (1.2)</p>
+                    </td>
+                    <td>
+                      <p>ABR1</p>
+                    </td>
+                    <td>
+                      <p>0.468</p>
+                    </td>
+                    <td>
+                      <p>0.444</p>
+                    </td>
+                    <td>
+                      <p>3.8 (1.1)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI3</p>
+                    </td>
+                    <td>
+                      <p>0.660</p>
+                    </td>
+                    <td>
+                      <p>0.621</p>
+                    </td>
+                    <td>
+                      <p>2.3 (1.0)</p>
+                    </td>
+                    <td>
+                      <p>ABR2</p>
+                    </td>
+                    <td>
+                      <p>0.572</p>
+                    </td>
+                    <td>
+                      <p>0.446</p>
+                    </td>
+                    <td>
+                      <p>3.3 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI4</p>
+                    </td>
+                    <td>
+                      <p>0.824</p>
+                    </td>
+                    <td>
+                      <p>0.773</p>
+                    </td>
+                    <td>
+                      <p>2.6 (1.1)</p>
+                    </td>
+                    <td>
+                      <p>ABR3</p>
+                    </td>
+                    <td>
+                      <p>0.587</p>
+                    </td>
+                    <td>
+                      <p>0.674</p>
+                    </td>
+                    <td>
+                      <p>3.8 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI5</p>
+                    </td>
+                    <td>
+                      <p>0.830</p>
+                    </td>
+                    <td>
+                      <p>0.789</p>
+                    </td>
+                    <td>
+                      <p>2.6 (1.1)</p>
+                    </td>
+                    <td>
+                      <p>ABR4</p>
+                    </td>
+                    <td>
+                      <p>0.186</p>
+                    </td>
+                    <td>
+                      <p>0.446</p>
+                    </td>
+                    <td>
+                      <p>3.7 (1.0)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI6</p>
+                    </td>
+                    <td>
+                      <p>0.657</p>
+                    </td>
+                    <td>
+                      <p>0.556</p>
+                    </td>
+                    <td>
+                      <p>3.3 (1.1)</p>
+                    </td>
+                    <td>
+                      <p>ABR5</p>
+                    </td>
+                    <td>
+                      <p>
+                        <sup>b</sup>
+                      </p>
+                    </td>
+                    <td>
+                      <p>
+                        0.422
+                        <sup>c</sup>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SI7</p>
+                    </td>
+                    <td>
+                      <p>0.281</p>
+                    </td>
+                    <td>
+                      <p>0.479</p>
+                    </td>
+                    <td>
+                      <p>2.6 (1.2)</p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>
+                  Standardized betas (β) from the Confirmatory Factor Analysis and loadings (
+                  <italic>u</italic>
+                  ) from the Exploratory Factors Analysis for the items in the instrument.
+                </p>
+                <p>All βs in the model are significant at the 0.001 level.</p>
+                <p>
+                  <sup>a</sup>
+                  The item was significantly correlated with its factor but had to be removed because it did not load contextually on the construct.
+                </p>
+                <p>
+                  <sup>b</sup>
+                  Item was removed from the CFA model because it was not significant.
+                </p>
+                <p>
+                  <sup>c</sup>
+                  Items associated with negative loadings in the EFA were reversed scored to get the positive loadings in CFA.
+                </p>
+                <p>
+                  <italic>Abbreviations</italic>
+                  : 
+                  <italic>KB</italic>
+                   Knowledge and beliefs, 
+                  <italic>B</italic>
+                   Behaviors, 
+                  <italic>SI</italic>
+                   Seeking Information, 
+                  <italic>AD</italic>
+                   Adherence, 
+                  <italic>ABR</italic>
+                   Awareness about Antibiotics Resistance.
+                </p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <p>
+            All items in the model loaded significantly at the 0.001 level of significance on their respective factors with standardized betas ranging from 0.19 to 0.83 as shown in Table 
+            <xref rid="Tab1" ref-type="table">1</xref>
+            . Out of the ten possible inter-factor correlations, four were significant (Table 
+            <xref rid="Tab2" ref-type="table">2</xref>
+            ). Furthermore, no substantial cross-loadings (beta &gt; 0.35) were observed in either the EFA [
+            <xref ref-type="bibr" rid="CR33">33</xref>
+            ], nor the CFA.
+            <table-wrap id="Tab2">
+              <label>Table 2</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>Inter-factor correlations</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th/>
+                    <th>
+                      <p>Knowledge and beliefs</p>
+                    </th>
+                    <th>
+                      <p>Seeking information</p>
+                    </th>
+                    <th>
+                      <p>Adherence</p>
+                    </th>
+                    <th>
+                      <p>Behaviors</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <p>Seeking information</p>
+                    </td>
+                    <td>
+                      <p>0.079</p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Adherence</p>
+                    </td>
+                    <td>
+                      <p>0.329*</p>
+                    </td>
+                    <td>
+                      <p>0.086</p>
+                    </td>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Behaviors</p>
+                    </td>
+                    <td>
+                      <p>0.212*</p>
+                    </td>
+                    <td>
+                      <p>0.143</p>
+                    </td>
+                    <td>
+                      <p>0.332*</p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Awareness about antibiotics resistance</p>
+                    </td>
+                    <td>
+                      <p>-0.154</p>
+                    </td>
+                    <td>
+                      <p>0.196*</p>
+                    </td>
+                    <td>
+                      <p>-0.138</p>
+                    </td>
+                    <td>
+                      <p>0.015</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>*Significant correlation (p&lt;0.05).</p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <p>
+            The construct ‘Awareness about antibiotics resistance’ showed only moderate to low internal consistency due to the inclusion of the item that asks about the use of antibiotics to treat bacterial infections. This item exhibited quite a low loading on its respective factor (β = 0.19) but it was included in the model since the item was considered to measure a very important aspect in the ABR scale and this item was shown to have statistically significant association with its factor (β
+            <sub>ABR4</sub>
+            : 0.186, p &lt; 0.001).
+          </p>
+          <p>
+            The AVE of the constructs in the study were measured and compared to the inter-factor correlations [
+            <xref ref-type="bibr" rid="CR46">46</xref>
+            ]. Preliminary evidence of convergent validity was determined when the AVE of each construct was higher than its correlation with other constructs. While discriminant validity of the PAPA scale was preliminarily determined by assessing the Maximum Shared Variance (MSV) and the Average Shared Squared Variance (ASV), both were found to be lower than the Average Variance Extracted (AVE) for all of the constructs in the scale [
+            <xref ref-type="bibr" rid="CR47">47</xref>
+            ]. Convergent and Discriminant validities results are available in Table 
+            <xref rid="Tab3" ref-type="table">3</xref>
+            .
+            <table-wrap id="Tab3">
+              <label>Table 3</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>Convergent and Discriminant validities assessment</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th>
+                      <p>Scales</p>
+                    </th>
+                    <th>
+                      <p>AVE</p>
+                    </th>
+                    <th>
+                      <p>MSV</p>
+                    </th>
+                    <th>
+                      <p>ASV</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <p>Knowledge and beliefs</p>
+                    </td>
+                    <td>
+                      <p>0.308</p>
+                    </td>
+                    <td>
+                      <p>0.108</p>
+                    </td>
+                    <td>
+                      <p>0.046</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Behaviors</p>
+                    </td>
+                    <td>
+                      <p>0.335</p>
+                    </td>
+                    <td>
+                      <p>0.110</p>
+                    </td>
+                    <td>
+                      <p>0.044</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Sources of Information</p>
+                    </td>
+                    <td>
+                      <p>0.451</p>
+                    </td>
+                    <td>
+                      <p>0.038</p>
+                    </td>
+                    <td>
+                      <p>0.018</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Antibiotics Adherence</p>
+                    </td>
+                    <td>
+                      <p>0.321</p>
+                    </td>
+                    <td>
+                      <p>0.110</p>
+                    </td>
+                    <td>
+                      <p>0.061</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Awareness about antibiotics resistance</p>
+                    </td>
+                    <td>
+                      <p>0.231</p>
+                    </td>
+                    <td>
+                      <p>0.038</p>
+                    </td>
+                    <td>
+                      <p>0.020</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>
+                  <italic>AVE</italic>
+                   Average Variance Extracted.
+                </p>
+                <p>
+                  <italic>MSV</italic>
+                   Maximum Shared Variance.
+                </p>
+                <p>
+                  <italic>ASV</italic>
+                   Average Shared Squared Variance.
+                </p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <p>
+            Common Method Bias was evaluated using Harman’s single factor test [
+            <xref ref-type="bibr" rid="CR48">48</xref>
+            ], which determines if the majority of the variance can be explained by a single factor. Common method bias occurs if there is a systematic source of measurement error [
+            <xref ref-type="bibr" rid="CR49">49</xref>
+            ]. In our model, the variance of a single factor was 18.36% indicating there is no common method bias.
+          </p>
+        </sec>
+        <sec id="Sec16" sec-type="discussion">
+          <title>Discussion</title>
+          <p>
+            The aim of this study was to validate the Parental Perceptions of Antibiotics scales. After producing 36 items from the EFA, CFA was conducted to test the validity of these items. Only 31 items were included in a 5-factor model for the CFA. The five remaining items did not fit the factor structure because: (1) a 3-item factor suggested by the EFA, Parents’ perception about doctors prescribing behavior, led to a poor specification for the initial CFA model; (2) one of the items from the ‘Awareness about antibiotics resistance’ construct was removed because it did not load significantly on its respective factor; and (3) one of the items in the ‘behaviors’ construct was removed since it measured attitudes rather than behavior, and also, another item in the same factor measured a similar aspect, but this latter item was worded to reflect behavior rather than attitude. The resulting 5-factor structure was confirmed as adequately fitting the data. The five factors were: 
+            <italic>Knowledge and Beliefs</italic>
+            , 
+            <italic>Behaviors</italic>
+            , 
+            <italic>Seeking Information</italic>
+            , 
+            <italic>Antibiotic adherence</italic>
+            , and 
+            <italic>Awareness about antibiotic resistance</italic>
+            .
+          </p>
+          <p>Our initial inclusion of a subscale to measure parental perceptions regarding doctors prescribing behaviour was revealed to have no place in the PAPA instrument. We still believe this is an important aspect to parental use/misuse of antibiotic in their children, but it may need to be measured separately.</p>
+          <p>The internal consistency of the individual factors is high except for one factor that demonstrated moderate-low internal consistency. The moderate-low internal consistency of the factor ‘Awareness about antibiotics resistance’ is due to the inclusion of an item with a low, but significant, loading. The item was included because it measures an important aspect.</p>
+          <p>
+            When parents were asked about the use of antibiotics for common cold, 36% stated that the use of antibiotic was appropriate, while 47% agreed in other studies [
+            <xref ref-type="bibr" rid="CR50">50</xref>
+            ]. Almost half of the sample believed that antibiotics cure children with common cold faster; this coincides with other studies [
+            <xref ref-type="bibr" rid="CR51">51</xref>
+            , 
+            <xref ref-type="bibr" rid="CR52">52</xref>
+            ]. In the study, 43% of the parents believed that antibiotics cure all types of infections including viral, fungal, and bacterial; this concurs with other studies with similar results [
+            <xref ref-type="bibr" rid="CR53">53</xref>
+            ]. In addition, 69% of parents agreed that antibiotics cure bacterial infections. When this aspect was measured in other studies, it produces similar results [
+            <xref ref-type="bibr" rid="CR52">52</xref>
+            ]. These measures of knowledge and beliefs coincide with other studies.
+          </p>
+          <p>
+            Most parents in the study show good-to-moderate awareness about antibiotic resistance; similar results have been documented in other studies [
+            <xref ref-type="bibr" rid="CR50">50</xref>
+            , 
+            <xref ref-type="bibr" rid="CR53">53</xref>
+            ]. More than half of the parents in our study (56%) indicated that they expect medication (including an antibiotic) when they visit the doctor for their child’s common cold. This result contrasts to the findings in other studies where only about 10% of the parents expected medication (including antibiotics) to treat the common cold [
+            <xref ref-type="bibr" rid="CR51">51</xref>
+            , 
+            <xref ref-type="bibr" rid="CR52">52</xref>
+            ]. This difference in the expectation of antibiotics between the Saudi population and those considered in other studies might be related to the parents’ knowledge or other parental psychosocial factors. Consequently, conducting studies similar to this one will inform researchers on the public’s current knowledge and other psychosocial factors related to the parental use of antibiotics in children and thus target these risk factors.
+          </p>
+          <p>
+            Approximately 33% of the parents in the study get their health-related information from books and scientific literature, 16% from family and/or friends, and 28% from the Internet. Larson et al. (2006) [
+            <xref ref-type="bibr" rid="CR53">53</xref>
+            ] measured the patient’s sources of information as well, and found that 44% get their health- related information from books and scientific literature, 36% from family and friends, and only 8% from the Internet. The difference in the frequency of getting health- related information from the Internet between our study and Larson et al. (2006) [
+            <xref ref-type="bibr" rid="CR53">53</xref>
+            ] is probably due to temporal variability; where in more recent times, is more accessible, and the usage of the internet to obtain information is now more culturally ingrained.
+          </p>
+          <p>
+            Some correlations were found within the psychosocial factors in the present study. For instance, parents’ knowledge and beliefs scale was correlated with antibiotics adherence, which is similar to results from other studies [
+            <xref ref-type="bibr" rid="CR54">54</xref>
+            ]. However, the absence of validated instruments for measuring constructs underlying antibiotic use means there is little empirical evidence regarding theory, making present theory in this area, somewhat speculative. In addition, some of the correlations identified in the present study seem contextually sensible. For instance, the positive association between antibiotic adherence and behavior, or the more proactive a parent is seeking of health-related information, the higher their awareness about antibiotic resistance.
+          </p>
+          <p>The questionnaire used in this study also measures the following criteria: (1) parents’ demographics characteristics such as: gender, number of girls and boys in the family, health training, age, employment status and education levels, geographical background, when they moved to the Eastern Province, and monthly income; and (2) child health-related history including the number of cold episodes and antibiotics used for the youngest child during the last year (ranging from never to more than 6 times a year), and whether any of the children in the family has ever had a serious infectious disease or a chronic disease.</p>
+          <p>A validated instrument that measures the psychosocial constructs underpinning antibiotic use will allow the investigation of two important sets of relationships. First, what are the parental characteristics associated with the knowledge and behavior relating to antibiotic use (and misuse) in children? Second, how do the various PAPA scales relate to parental practice in terms of administering antibiotics to their children? Further studies are needed to evaluate the PAPA scales (i.e. Knowledge and beliefs, Behaviors, Adherence, Seeking information, and Awareness about antibiotic resistance) against antibiotic consumption.</p>
+          <sec id="Sec17">
+            <title>Limitations</title>
+            <p>Since this is the first instrument of its kind to have been fully validated, there are no gold standards to evaluate criteria against it. Criterion related validity cannot be established for this instrument. Also, at this stage of the instrument’s development, we have little idea of its generalizability to other populations. Further studies of the psychometric properties of the PAPA scales in other populations is needed to fully construct validate this instrument.</p>
+          </sec>
+        </sec>
+        <sec id="Sec18" sec-type="conclusions">
+          <title>Conclusion</title>
+          <p>This is the first study to attempt a comprehensive psychometric validation of an instrument that measures the psychosocial constructs underlying parental use of antibiotics in their children. An instrument with a 5-factor structure, the PAPA scales, shows strong potential for construct validity. The effectiveness of the PAPA instrument in other populations needs to be established, thereby allowing the investigation of risk factors of antibiotic overuse in populations across the world. Discovering the factors influencing antibiotic use will assist decision-making processes with regards to the best interventions and policy formulations targeted to reduce antibiotic overuse within the community. This, in turn, may reduce the burden of antibacterial resistance, in turn leading to a decrease in the burden of severe infectious diseases caused by antibacterial resistance strains.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgment</title>
+          <p>I would like to thank the Department of Planning and Development in the Ministry of Education in the Eastern Province for their cooperation, and the parents who participated this study.</p>
+        </ack>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Teng</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Leong</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Aljunid</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Cheah</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotic prescription in upper respiratory tract infections</article-title>
+                <source>Asia Pac Fam Med</source>
+                <year>2004</year>
+                <volume>3</volume>
+                <fpage>38</fpage>
+                <lpage>45</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cebotarenco</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Bush</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reducing antibiotics for colds and flu: a student-taught program</article-title>
+                <source>Health Educ Res</source>
+                <year>2008</year>
+                <volume>23</volume>
+                <fpage>146</fpage>
+                <lpage>157</lpage>
+                <pub-id pub-id-type="doi">10.1093/her/cym008</pub-id>
+                <pub-id pub-id-type="pmid">17363360</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ahmed</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Saadi</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A survey of multiple prescriptions dispensed in Saudi Arabia</article-title>
+                <source>Pak J Pharm Sci</source>
+                <year>2005</year>
+                <volume>18</volume>
+                <fpage>1</fpage>
+                <lpage>2</lpage>
+                <pub-id pub-id-type="pmid">16431388</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Al-Faris</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Taweel</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Audit of prescribing patterns in Saudi primary health care: What lessons can be learned?</article-title>
+                <source>Ann Saudi Med</source>
+                <year>1999</year>
+                <volume>19</volume>
+                <fpage>317</fpage>
+                <lpage>321</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD2s%2Fnsl2htg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">17277531</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Irshaid</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Homrany</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Hamdi</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Adjepon-Yamoah</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Mahfouz</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A pharmacoepidemiological study of prescription pattern in outpatient clinics in Southwestern Saudi Arabia</article-title>
+                <source>Saudi Med J</source>
+                <year>2004</year>
+                <volume>25</volume>
+                <fpage>1864</fpage>
+                <lpage>1870</lpage>
+                <pub-id pub-id-type="pmid">15711656</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>JETACAR</collab>
+                </person-group>
+                <source>The use of Antibiotics in Food-Producing Animals</source>
+                <year>1999</year>
+                <publisher-loc>Australia</publisher-loc>
+                <publisher-name>Commonwealth Department of Health and Aged Care</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mainous</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hueston</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Davis</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Pearson</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Trends in antimicrobial prescribing for bronchitis and upper respiratory infections among adults and children</article-title>
+                <source>Am J Public Health</source>
+                <year>2003</year>
+                <volume>93</volume>
+                <fpage>1910</fpage>
+                <lpage>1914</lpage>
+                <pub-id pub-id-type="doi">10.2105/AJPH.93.11.1910</pub-id>
+                <pub-id pub-id-type="pmid">14600065</pub-id>
+                <pub-id pub-id-type="pmcid">1448075</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Simasek</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Blandino</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Treatment of the common cold</article-title>
+                <source>Am Fam Physician</source>
+                <year>2007</year>
+                <volume>75</volume>
+                <fpage>515</fpage>
+                <lpage>520</lpage>
+                <pub-id pub-id-type="pmid">17323712</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Simoes</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Cherian</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Chow</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Shahid-Salles</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Laxminarayan</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>John</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <source>Disease Control Priorities in Developing Countries</source>
+                <year>2006</year>
+                <edition>2</edition>
+                <publisher-loc>World Bank</publisher-loc>
+                <publisher-name>Washington (DC)</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Huang</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Rifas-Shiman</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Kleinman</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Kotch</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Schiff</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Stille</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Steingard</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Finkelstein</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Parental knowledge about antibiotic use: results of a cluster-randomized, multicommunity intervention</article-title>
+                <source>Pediatrics</source>
+                <year>2007</year>
+                <volume>119</volume>
+                <fpage>698</fpage>
+                <lpage>706</lpage>
+                <pub-id pub-id-type="doi">10.1542/peds.2006-2600</pub-id>
+                <pub-id pub-id-type="pmid">17403840</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Al-Hassan</surname>
+                    <given-names>MI</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Community pharmacy practice in Saudi Arabia: an overview</article-title>
+                <source>The Internet Journal of Pharmacology</source>
+                <year>2011</year>
+                <comment>http://ispub.com/IJPHARM/9/1/5301 Available from: [Last accessed on 2014 Jan 16]</comment>
+                <volume content-type="number-in-series">9</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sorkhou</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Qallaf</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Hajiah</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Sheibani</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Bayoomi</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Mustafa</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Perceptions of patients attending primary care in Kuwait regarding upper respiratory tract infections</article-title>
+                <source>Kuwait med J</source>
+                <year>2002</year>
+                <volume>34</volume>
+                <fpage>272</fpage>
+                <lpage>275</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mora</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Avila-Agtiero</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Umafia</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Jimenez</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Paris</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Faingezicht</surname>
+                    <given-names>I</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Epidemiologic observations of the judicious use of antibiotics in a pediatric teaching hospital</article-title>
+                <source>International Journal of Infectious Diseases</source>
+                <year>2002</year>
+                <volume>6</volume>
+                <fpage>74</fpage>
+                <lpage>77</lpage>
+                <pub-id pub-id-type="doi">10.1016/S1201-9712(02)90141-4</pub-id>
+                <pub-id pub-id-type="pmid">12044307</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Emanuele</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <source>Antibiotic resistance. AAOHN Journal</source>
+                <year>2010</year>
+                <volume>58</volume>
+                <fpage>363</fpage>
+                <lpage>365</lpage>
+                <pub-id pub-id-type="pmid">20839727</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>West</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Acute upper airway infections: childhood respiratory infections</article-title>
+                <source>Br Med Bull</source>
+                <year>2002</year>
+                <volume>61</volume>
+                <fpage>215</fpage>
+                <lpage>230</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD383lslGlsA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1093/bmb/61.1.215</pub-id>
+                <pub-id pub-id-type="pmid">11997308</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Green</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Symptomatic treatment of upper respiratory tract symptoms in children</article-title>
+                <source>SA Fam Pract</source>
+                <year>2006</year>
+                <volume>48</volume>
+                <fpage>14</fpage>
+                <lpage>19</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Palmer</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Bauchner</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Parents’ and physicians’ views on antibiotics</article-title>
+                <source>Pediatrics</source>
+                <year>1997</year>
+                <volume>99</volume>
+                <fpage>6</fpage>
+                <lpage>10</lpage>
+                <pub-id pub-id-type="doi">10.1542/peds.99.6.e6</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bhasin</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Budden</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Ketkar</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Pawar</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Current trends in the treatment of upper respiratory tract infections in neonates, infants and children: a survey</article-title>
+                <source>Indian J Pharmacol</source>
+                <year>2002</year>
+                <volume>34</volume>
+                <fpage>62</fpage>
+                <lpage>63</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wutzke</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Artist</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Kehoe</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Fletcher</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Mackson</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Weekes</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Evaluation of a national programme to reduce inappropriate use of antibiotics for upper respiratory tract infections: effects on consumer awareness, beliefs, attitudes and behaviour in Australia</article-title>
+                <source>Health Promotion International</source>
+                <year>2007</year>
+                <volume>22</volume>
+                <fpage>53</fpage>
+                <lpage>64</lpage>
+                <pub-id pub-id-type="doi">10.1093/heapro/dal034</pub-id>
+                <pub-id pub-id-type="pmid">17046966</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Arroll</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Kenealy</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotics for the common cold and acute purulent rhinitis (Review)</article-title>
+                <source>Cochrane Database of Systematic Reviews</source>
+                <year>2005</year>
+                <volume>3</volume>
+                <fpage>CD000247</fpage>
+                <pub-id pub-id-type="pmid">16034850</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fahey</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Stocks</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Thomas</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Systematic review of the treatment of upper respiratory tract infection</article-title>
+                <source>Arch Dis Child</source>
+                <year>1998</year>
+                <volume>79</volume>
+                <fpage>225</fpage>
+                <lpage>230</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK1M%2Fpt1WktA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1136/adc.79.3.225</pub-id>
+                <pub-id pub-id-type="pmid">9875017</pub-id>
+                <pub-id pub-id-type="pmcid">1717698</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hoa</surname>
+                    <given-names>NQ</given-names>
+                  </name>
+                  <name>
+                    <surname>Larson</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Chuc</surname>
+                    <given-names>NTK</given-names>
+                  </name>
+                  <name>
+                    <surname>Eriksson</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Trung</surname>
+                    <given-names>NV</given-names>
+                  </name>
+                  <name>
+                    <surname>Stalsby</surname>
+                    <given-names>CL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotics and paediatric acute respiratory infections in rural Vietnam: health-care providers, knowledge, practical competence and reported practice</article-title>
+                <source>Tropical Medicine &amp; International Health</source>
+                <year>2009</year>
+                <volume>14</volume>
+                <fpage>546</fpage>
+                <lpage>555</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1365-3156.2009.02267.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Skull</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Ford-Jones</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Kulin</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Einarson</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Child care center staff contribute to physician visits and pressure for antibiotic prescription</article-title>
+                <source>Arch Pediatr Adolesc Med</source>
+                <year>2000</year>
+                <volume>154</volume>
+                <fpage>180</fpage>
+                <lpage>183</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD3c7isleksA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1001/archpedi.154.2.180</pub-id>
+                <pub-id pub-id-type="pmid">10665606</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Awad</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Eltayeb</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Matowe</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Thalib</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Self-medication with antibiotics and antimalarials in the community of Khartoum State, Sudan</article-title>
+                <source>J Pharm Pharmaceut Sci</source>
+                <year>2005</year>
+                <volume>8</volume>
+                <fpage>326</fpage>
+                <lpage>331</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chan</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Tang</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Parental knowledge, attitudes and antibiotic use for acute upper respiratory tract infection in children attending a primary healthcare clinic in Malaysia</article-title>
+                <source>Singapore Med J</source>
+                <year>2006</year>
+                <volume>47</volume>
+                <fpage>266</fpage>
+                <lpage>270</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD287nvVGhsA%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">16572235</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mitsi</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Jelastopulu</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Basiaris</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Skoutelis</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Gogos</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Patterns of antibiotic use among adults and parents in the community: a questionnaire-based survey in a Greek urban population</article-title>
+                <source>Int J Antimicrob Agents</source>
+                <year>2005</year>
+                <volume>25</volume>
+                <fpage>439</fpage>
+                <lpage>443</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXjsVeht7Y%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2005.02.009</pub-id>
+                <pub-id pub-id-type="pmid">15848301</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Al-Azzam</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Husein</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Alzoubi</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Masadeh</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Al-Horani</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Self-medication with antibiotics in Jordanian population</article-title>
+                <source>IJOMEH</source>
+                <year>2007</year>
+                <volume>20</volume>
+                <fpage>373</fpage>
+                <lpage>380</lpage>
+                <pub-id pub-id-type="doi">10.2478/v10001-007-0038-9</pub-id>
+                <pub-id pub-id-type="pmid">18165197</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Grigoryan</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Burgerhof</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Haaijer-Ruskamp</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Degener</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Deschepper</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Monnet</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Di Matteo</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Scicluna</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Bara</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Lundborg</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Birkin</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Is self-medication with antibiotics in Europe driven by prescribed use?</article-title>
+                <source>J Antimicrob Chemother</source>
+                <year>2007</year>
+                <volume>59</volume>
+                <fpage>152</fpage>
+                <lpage>156</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD28XhtlChtLrI</pub-id>
+                <pub-id pub-id-type="doi">10.1093/jac/dkl457</pub-id>
+                <pub-id pub-id-type="pmid">17124192</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sarahroodi</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Arzi</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Sawalha</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Ashtarinezhad</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotics self-medication among southern Iranian university students</article-title>
+                <source>International Journal of Pharmacology</source>
+                <year>2010</year>
+                <volume>6</volume>
+                <fpage>48</fpage>
+                <lpage>52</lpage>
+                <pub-id pub-id-type="doi">10.3923/ijp.2010.48.52</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Crossley</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Eiser</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Children and their parents assessing the doctor–patient interaction: a rating system for doctors’ communication skills</article-title>
+                <source>Medical Education</source>
+                <year>2005</year>
+                <volume>39</volume>
+                <fpage>820</fpage>
+                <lpage>828</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1365-2929.2005.02230.x</pub-id>
+                <pub-id pub-id-type="pmid">16048624</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alumran</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hou</surname>
+                    <given-names>X-Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Hurst</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Validity and reliability of instruments designed to measure factors influencing the overuse of antibiotics</article-title>
+                <source>J Infect Public Health</source>
+                <year>2012</year>
+                <volume>5</volume>
+                <fpage>221</fpage>
+                <lpage>232</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.jiph.2012.03.003</pub-id>
+                <pub-id pub-id-type="pmid">22632596</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alumran</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hou</surname>
+                    <given-names>X-Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Hurst</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Assessing the overuse of antibiotics in children with URTIs in Saudi Arabia: development of the parental perception on antibiotics scale (PAPA scale)</article-title>
+                <source>J Epidemiol Glob Health</source>
+                <year>2013</year>
+                <volume>3</volume>
+                <fpage>3</fpage>
+                <lpage>10</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.jegh.2012.11.005</pub-id>
+                <pub-id pub-id-type="pmid">23856533</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alumran</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hou</surname>
+                    <given-names>X-Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Hurst</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Assessing the overuse of antibiotics in children in Saudi Arabia: validation of the parental perception on antibiotics scale (PAPA scale)</article-title>
+                <source>Health Qual Life Outcomes</source>
+                <year>2013</year>
+                <volume>11</volume>
+                <fpage>39</fpage>
+                <pub-id pub-id-type="doi">10.1186/1477-7525-11-39</pub-id>
+                <pub-id pub-id-type="pmid">23497151</pub-id>
+                <pub-id pub-id-type="pmcid">3600044</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alumran</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hurst</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Hou</surname>
+                    <given-names>X-Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotics overuse in children with upper respiratory tract infections in Saudi Arabia: risk factors and potential interventions</article-title>
+                <source>Clinical Medicine and Diagnostics</source>
+                <year>2011</year>
+                <volume>1</volume>
+                <fpage>8</fpage>
+                <lpage>16</lpage>
+                <pub-id pub-id-type="doi">10.5923/j.cmd.20110101.02</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ramaker</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Marinus</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Stiggelbout</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Van Hilten</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Systematic evaluation of rating scales for impairment and disability in Parkinson’s disease</article-title>
+                <source>Movement Disorders</source>
+                <year>2002</year>
+                <volume>17</volume>
+                <fpage>867</fpage>
+                <lpage>876</lpage>
+                <pub-id pub-id-type="doi">10.1002/mds.10248</pub-id>
+                <pub-id pub-id-type="pmid">12360535</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>DeVon</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Block</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Moyle-Wright</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Ernst</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Hayden</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Lazzara</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Savoy</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Kostas-Polston</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A Psychometric toolbox for testing validity and reliability</article-title>
+                <source>Journal of Nursing Scholarship</source>
+                <year>2007</year>
+                <volume>39</volume>
+                <fpage>155</fpage>
+                <lpage>164</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1547-5069.2007.00161.x</pub-id>
+                <pub-id pub-id-type="pmid">17535316</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Comrey</surname>
+                    <given-names>AL</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>HB</given-names>
+                  </name>
+                </person-group>
+                <source>A First Course in Factor Analysis</source>
+                <year>1992</year>
+                <publisher-loc>Hillsdale, NJ</publisher-loc>
+                <publisher-name>Erlbaum</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Colton</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Covert</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <source>Designing and Constructing Instruments for Social Research and Evaluation</source>
+                <year>2007</year>
+                <publisher-loc>San Francisco, CA</publisher-loc>
+                <publisher-name>Jossey-Bass</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>IBM</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <source>IBM SPSS Statistics for Windows</source>
+                <year>2010</year>
+                <edition>190</edition>
+                <publisher-loc>IBM Corp</publisher-loc>
+                <publisher-name>Armonk, NY</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tabachnick</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Fidell</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <source>Using Multivariate Statistics</source>
+                <year>2013</year>
+                <publisher-loc>New York</publisher-loc>
+                <publisher-name>Allyn and Bacon</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Browne</surname>
+                    <given-names>MW</given-names>
+                  </name>
+                  <name>
+                    <surname>Cudeck</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <source>Alternative Ways of Assessing Model fit</source>
+                <year>1993</year>
+                <publisher-loc>Beverly Hills, CA</publisher-loc>
+                <publisher-name>Sage</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hooper</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Coughlan</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Mullen</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Structural equation modelling: guidelines for determining model fit</article-title>
+                <source>The Electronic Journal of Business Research Methods</source>
+                <year>2008</year>
+                <volume>6</volume>
+                <fpage>53</fpage>
+                <lpage>60</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stallman</surname>
+                    <given-names>HM</given-names>
+                  </name>
+                  <name>
+                    <surname>Hurst</surname>
+                    <given-names>CP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The factor structure of the frost multidimensional perfectionism scale in university students</article-title>
+                <source>Australian Psychologist</source>
+                <year>2011</year>
+                <volume>46</volume>
+                <fpage>229</fpage>
+                <lpage>236</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1742-9544.2010.00010.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Byrne</surname>
+                    <given-names>BM</given-names>
+                  </name>
+                </person-group>
+                <source>Structural Equation Modeling with EQS and EQS/Windows</source>
+                <year>1994</year>
+                <publisher-loc>Thousand Oaks, CA</publisher-loc>
+                <publisher-name>Sage Publications</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Little</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A test of missing completely at random for multivariate data with missing values</article-title>
+                <source>Journal of American Statistical Association</source>
+                <year>1988</year>
+                <volume>83</volume>
+                <fpage>1198</fpage>
+                <lpage>1202</lpage>
+                <pub-id pub-id-type="doi">10.1080/01621459.1988.10478722</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gefen</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Straub</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Boudreau</surname>
+                    <given-names>M-C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Structural equation modeling and regression: guidelines for research practice</article-title>
+                <source>Communications of the AIS</source>
+                <year>2000</year>
+                <volume>4</volume>
+                <fpage>1</fpage>
+                <lpage>78</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR47">
+              <label>47.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hair</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Black</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Babin</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Anderson</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <source>Multivariate Data Analysis</source>
+                <year>2010</year>
+                <edition>7</edition>
+                <publisher-loc>Upper Saddle River, NJ, USA</publisher-loc>
+                <publisher-name>Prentice-Hall, Inc.</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR48">
+              <label>48.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Harman</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <source>Modern Factor Analysis</source>
+                <year>1976</year>
+                <edition>3</edition>
+                <publisher-loc>Chicago, IL</publisher-loc>
+                <publisher-name>University of Chicago Press</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR49">
+              <label>49.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Podsakoff</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>MacKenzie</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>J-Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Common method biases in behavioral research: a critical review of the literature and recommended remedies</article-title>
+                <source>Journal of Applied Psychology</source>
+                <year>2003</year>
+                <volume>88</volume>
+                <fpage>879</fpage>
+                <lpage>903</lpage>
+                <pub-id pub-id-type="doi">10.1037/0021-9010.88.5.879</pub-id>
+                <pub-id pub-id-type="pmid">14516251</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR50">
+              <label>50.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Corbett</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Gonzales</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Leeman-Castillo</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Flores</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Maselli</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kafadar</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Appropriate antibiotic use: Variation in knowledge and awareness by Hispanic ethnicity and language</article-title>
+                <source>Prev Med</source>
+                <year>2005</year>
+                <volume>40</volume>
+                <fpage>162</fpage>
+                <lpage>169</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.ypmed.2004.05.016</pub-id>
+                <pub-id pub-id-type="pmid">15533525</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR51">
+              <label>51.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cho</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Hongb</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Parkc</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Knowledge and beliefs of primary care physicians, pharmacists, and parents on antibiotic use for the pediatric common cold</article-title>
+                <source>Social Science &amp; Medicine</source>
+                <year>2004</year>
+                <volume>58</volume>
+                <fpage>623</fpage>
+                <lpage>629</lpage>
+                <pub-id pub-id-type="doi">10.1016/S0277-9536(03)00231-4</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR52">
+              <label>52.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Belongia</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Naimi</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Gale</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Besser</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotic use and upper respiratory infections: a survey of knowledge, attitudes, and experience in Wisconsin and Minnesota</article-title>
+                <source>Prev Med</source>
+                <year>2002</year>
+                <volume>34</volume>
+                <fpage>346</fpage>
+                <lpage>352</lpage>
+                <pub-id pub-id-type="doi">10.1006/pmed.2001.0992</pub-id>
+                <pub-id pub-id-type="pmid">11902851</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR53">
+              <label>53.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Larson</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Dilone</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Garcia</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Smolowitz</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Factors which influence Latino community members to self-prescribe antibiotics</article-title>
+                <source>Nursing Research</source>
+                <year>2006</year>
+                <volume>55</volume>
+                <fpage>94</fpage>
+                <lpage>102</lpage>
+                <pub-id pub-id-type="doi">10.1097/00006199-200603000-00004</pub-id>
+                <pub-id pub-id-type="pmid">16601621</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR54">
+              <label>54.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Burge</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>White</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Bajorek</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Bazaldua</surname>
+                    <given-names>O</given-names>
+                  </name>
+                  <name>
+                    <surname>Trevino</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Albright</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Wright</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Cigarroa</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Correlates of medication knowledge and adherence: findings from the residency research network of south Texas</article-title>
+                <source>Fam Med</source>
+                <year>2005</year>
+                <volume>37</volume>
+                <fpage>712</fpage>
+                <lpage>718</lpage>
+                <pub-id pub-id-type="pmid">16273450</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+          <ref-list id="BSec1">
+            <title>Pre-publication history</title>
+            <ref id="CR55">
+              <mixed-citation publication-type="other">
+                The pre-publication history for this paper can be accessed here:
+                <ext-link ns0:href="http://www.biomedcentral.com/1471-2458/14/73/prepub" ext-link-type="uri">http://www.biomedcentral.com/1471-2458/14/73/prepub</ext-link>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec19">
+              <title>Electronic supplementary material</title>
+              <p>
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Electronic supplementary material">
+                  <media mimetype="application" mime-subtype="msword" ns0:href="MediaObjects/12889_2013_6266_MOESM1_ESM.docx">
+                    <caption xml:lang="en">
+                      <p>Additonal file 1: Items in the PAPA scales.(DOCX 24 KB)</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+            <sec id="Sec20">
+              <title>Authors’ original submitted files for images</title>
+              <p>
+                Below are the links to the authors’ original submitted files for images.
+                <supplementary-material content-type="local-data" id="MOESM2" ns0:title="Authors’ original submitted files for images">
+                  <media mimetype="image" mime-subtype="tiff" ns0:href="MediaObjects/12889_2013_6266_MOESM2_ESM.tif">
+                    <caption xml:lang="en">
+                      <p>Authors’ original file for figure 1</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <glossary>
+          <title>Abbreviations</title>
+          <def-list>
+            <def-item>
+              <term>PAPA</term>
+              <def>
+                <p>Parents perceptions on antibiotics</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>URTI</term>
+              <def>
+                <p>Upper respiratory tract infection</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>KB</term>
+              <def>
+                <p>Knowledge and beliefs</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>B</term>
+              <def>
+                <p>Behaviors</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>AD</term>
+              <def>
+                <p>Adherence</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>SI</term>
+              <def>
+                <p>Seeking information</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>ABR</term>
+              <def>
+                <p>Awareness about antibiotic resistance</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>CFA</term>
+              <def>
+                <p>Confirmatory factor analysis</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>EFA</term>
+              <def>
+                <p>Exploratory factor analysis</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>GFI</term>
+              <def>
+                <p>Goodness of fit index</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>RMSEA</term>
+              <def>
+                <p>Root mean square error of approximations</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>AVE</term>
+              <def>
+                <p>Average variance extracted</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>MSV</term>
+              <def>
+                <p>Maximum shared variance</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>ASV</term>
+              <def>
+                <p>Average shared squared variance.</p>
+              </def>
+            </def-item>
+          </def-list>
+        </glossary>
+        <notes notes-type="Misc">
+          <title>Competing interests</title>
+          <p>The article processing fees are paid by Queensland University of Technology, Australia. There are no other competing interests relating to this research.</p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Authors’ contributions</title>
+          <p>AA and CH substantially participated in the conception and design of the study, and performed the statistical analysis and interpretation. AA and AY conducted data acquisition and AA drafted the manuscript. XH, JS, AY and CH helped to draft the manuscript and revising it critically for important intellectual content. All authors read and approved the final manuscript.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

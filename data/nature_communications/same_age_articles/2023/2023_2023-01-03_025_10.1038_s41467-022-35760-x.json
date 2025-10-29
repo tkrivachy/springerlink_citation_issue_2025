@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.634175",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35760-x",
+    "title": "One-dimensional semimetal contacts to two-dimensional semiconductors",
+    "article_number": "111",
+    "publication_date": "2023-01-07",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xuanzhang Li",
+      "Yang Wei",
+      "Zhijie Wang",
+      "Ya Kong",
+      "Yipeng Su",
+      "Gaotian Lu",
+      "Zhen Mei",
+      "Yi Su",
+      "Guangqi Zhang",
+      "Jianhua Xiao",
+      "Liang Liang",
+      "Jia Li",
+      "Qunqing Li",
+      "Jin Zhang",
+      "Shoushan Fan",
+      "Yuegang Zhang"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:51:37.934185"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:51:39.529609"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:51:40.796654"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T23:11:12.849050"
+    },
+    "last_updated": "2025-10-03T23:11:12.849241"
+  }
+}

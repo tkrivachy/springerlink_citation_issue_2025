@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.367478",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83711-x",
+    "title": "Model-free current control solution employing intelligent control for enhanced motor drive performance",
+    "article_number": "60",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Muhammad Usama",
+      "Jaehong Kim"
+    ]
+  },
+  "article_index": 179,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:57:55.859464"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:57:57.384637"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:57:58.710815"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:32:03.327423"
+    },
+    "last_updated": "2025-10-03T22:32:03.327498"
+  }
+}

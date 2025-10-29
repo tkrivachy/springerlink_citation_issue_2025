@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.253892",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78214-4",
+    "title": "Excess protein enabled dog domestication during severe Ice Age winters",
+    "article_number": "7",
+    "publication_date": "2021-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Maria Lahtinen",
+      "David Clinnick",
+      "Kristiina Mannermaa",
+      "J. Sakari Salonen",
+      "Suvi Viranta"
+    ]
+  },
+  "article_index": 251,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:34:42.516260"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:34:44.053276"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:34:45.388416"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T21:37:18.918431"
+    },
+    "last_updated": "2025-10-03T21:37:18.918517"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.676744",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44310-y",
+    "title": "IL-12 reprograms CAR-expressing natural killer T cells to long-lived Th1-polarized cells with potent antitumor activity",
+    "article_number": "89",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Elisa Landoni",
+      "Mark G. Woodcock",
+      "Gabriel Barragan",
+      "Gabriele Casirati",
+      "Vincenzo Cinella",
+      "Simone Stucchi",
+      "Leah M. Flick",
+      "Tracy A. Withers",
+      "Hanna Hudson",
+      "Giulia Casorati",
+      "Paolo Dellabona",
+      "Pietro Genovese",
+      "Barbara Savoldo",
+      "Leonid S. Metelitsa",
+      "Gianpietro Dotti"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T19:10:45.476527"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T19:10:47.042017"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:10:48.310941"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T23:17:43.958812"
+    },
+    "last_updated": "2025-10-03T23:17:43.958897"
+  }
+}

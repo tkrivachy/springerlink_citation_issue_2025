@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.755105",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-71",
+    "title": "Behavioral and technological interventions targeting glycemic control in a racially/ethnically diverse population: a randomized controlled trial",
+    "article_number": "71",
+    "publication_date": "2014-01-23",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Samuel N Forjuoh",
+      "Jane N Bolin",
+      "John C Huber Jr",
+      "Ann M Vuong",
+      "Omolola E Adepoju",
+      "Janet W Helduser",
+      "Dawn S Begaye",
+      "Anne Robertson",
+      "Darcy M Moudouni",
+      "Timethia J Bonner",
+      "Kenneth R McLeroy",
+      "Marcia G Ory"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:04:05.324217"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:04:06.898291"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T13:04:08.186801"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T21:04:19.593145"
+    },
+    "last_updated": "2025-10-03T21:04:19.593218"
+  }
+}

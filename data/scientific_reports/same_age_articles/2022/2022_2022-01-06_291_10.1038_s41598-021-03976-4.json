@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.887880",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03976-4",
+    "title": "Identifying gene expression profiles associated with neurogenesis and inflammation in the human subependymal zone from development through aging",
+    "article_number": "40",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mainá Bitar",
+      "Christin Weissleder",
+      "Hayley F. North",
+      "Misaki S. Clearwater",
+      "Oressia Zalucki",
+      "Glenda M. Halliday",
+      "Maree J. Webster",
+      "Michael Piper",
+      "Cynthia Shannon Weickert",
+      "Guy Barry"
+    ]
+  },
+  "article_index": 291,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:58:08.344553"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:58:09.865673"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:58:11.017146"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:46:38.337658"
+    },
+    "last_updated": "2025-10-03T21:46:38.337848"
+  }
+}

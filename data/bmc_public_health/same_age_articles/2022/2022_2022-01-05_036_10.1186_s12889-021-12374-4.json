@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.589710",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12374-4",
+    "title": "Sex education and self-poisoning in Sri Lanka: an explorative analysis",
+    "article_number": "26",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Grace Crowley",
+      "Piumee Bandara",
+      "Lalith Senarathna",
+      "Ayodhya Malalagama",
+      "Sonali Gunasekera",
+      "Thilini Rajapakse",
+      "Duleeka Knipe"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:05:58.350836"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:05:59.894968"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:06:01.192946"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:26:37.137796"
+    },
+    "last_updated": "2025-10-03T21:26:37.137981"
+  }
+}

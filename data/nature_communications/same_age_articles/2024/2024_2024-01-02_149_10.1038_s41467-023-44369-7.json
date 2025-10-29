@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.688561",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44369-7",
+    "title": "Decoding the gene regulatory network of endosperm differentiation in maize",
+    "article_number": "34",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yue Yuan",
+      "Qiang Huo",
+      "Ziru Zhang",
+      "Qun Wang",
+      "Juanxia Wang",
+      "Shuaikang Chang",
+      "Peng Cai",
+      "Karen M. Song",
+      "David W. Galbraith",
+      "Weixiao Zhang",
+      "Long Huang",
+      "Rentao Song",
+      "Zeyang Ma"
+    ]
+  },
+  "article_index": 149,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:11:54.173969"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T19:11:55.747277"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:11:57.033707"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T23:18:07.495829"
+    },
+    "last_updated": "2025-10-03T23:18:07.496020"
+  }
+}

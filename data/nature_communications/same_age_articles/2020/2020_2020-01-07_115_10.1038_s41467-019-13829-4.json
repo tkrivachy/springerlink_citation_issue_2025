@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.890536",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13829-4",
+    "title": "Electrooxidation enables highly regioselective dearomative annulation of indole and benzofuran derivatives",
+    "article_number": "3",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kun Liu",
+      "Wenxu Song",
+      "Yuqi Deng",
+      "Huiyue Yang",
+      "Chunlan Song",
+      "Takfaoui Abdelilah",
+      "Shengchun Wang",
+      "Hengjiang Cong",
+      "Shan Tang",
+      "Aiwen Lei"
+    ]
+  },
+  "article_index": 115,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:17:31.063132"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T18:17:32.580273"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T18:17:33.932633"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T22:59:41.686711"
+    },
+    "last_updated": "2025-10-03T22:59:41.686807"
+  }
+}

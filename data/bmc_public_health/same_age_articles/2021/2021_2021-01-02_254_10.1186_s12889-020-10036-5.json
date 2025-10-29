@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.658647",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10036-5",
+    "title": "An ecological approach to the development of an active aging measurement in urban areas (AAMU)",
+    "article_number": "4",
+    "publication_date": "2021-01-03",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Azadeh Lak",
+      "Parichehr Rashidghalam",
+      "S. Nouroddin Amiri",
+      "Phyo K. Myint",
+      "Hamid R. Baradaran"
+    ]
+  },
+  "article_index": 254,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:00:38.866991"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:00:40.526675"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:00:41.766471"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:24:44.567576"
+    },
+    "last_updated": "2025-10-03T21:24:44.567768"
+  }
+}

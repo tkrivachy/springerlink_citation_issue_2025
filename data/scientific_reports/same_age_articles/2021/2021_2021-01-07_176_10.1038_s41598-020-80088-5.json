@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.231678",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80088-5",
+    "title": "Analysis of paint traces to determine the ship responsible for a collision",
+    "article_number": "134",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "H. Lee",
+      "D. Lee",
+      "J. M. Seo"
+    ]
+  },
+  "article_index": 176,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:48:33.014552"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:48:34.566982"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:48:35.825661"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:42:51.960929"
+    },
+    "last_updated": "2025-10-03T21:42:51.961015"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.200015",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20315-9",
+    "title": "Improvement of obesity-associated disorders by a small-molecule drug targeting mitochondria of adipose tissue macrophages",
+    "article_number": "102",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yawei Wang",
+      "Binlin Tang",
+      "Lei Long",
+      "Peng Luo",
+      "Wei Xiang",
+      "Xueru Li",
+      "Huilan Wang",
+      "Qingzhi Jiang",
+      "Xu Tan",
+      "Shenglin Luo",
+      "Huijuan Li",
+      "Ziwen Wang",
+      "Zelin Chen",
+      "Yu Leng",
+      "Zhongyong Jiang",
+      "Yang Wang",
+      "Le Ma",
+      "Rui Wang",
+      "Chunyu Zeng",
+      "Zujuan Liu",
+      "Yu Wang",
+      "Hongming Miao",
+      "Chunmeng Shi"
+    ]
+  },
+  "article_index": 163,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:38:29.333393"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T18:38:30.885240"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T18:38:32.232693"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T23:06:50.438053"
+    },
+    "last_updated": "2025-10-03T23:06:50.438259"
+  }
+}

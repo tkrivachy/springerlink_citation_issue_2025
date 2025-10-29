@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.188305",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20609-y",
+    "title": "Author Correction: De novo emergence of adaptive membrane proteins from thymine-rich genomic sequences",
+    "article_number": "200",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nikolaos Vakirlis",
+      "Omer Acar",
+      "Brian Hsu",
+      "Nelson Castilho Coelho",
+      "S. Branden Van Oss",
+      "Aaron Wacholder",
+      "Kate Medetgul-Ernar",
+      "Ray W. Bowman",
+      "Cameron P. Hines",
+      "John Iannotta",
+      "Saurin Bipin Parikh",
+      "Aoife McLysaght",
+      "Carlos J. Camacho",
+      "Allyson F. O’Donnell",
+      "Trey Ideker",
+      "Anne-Ruxandra Carvunis"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:37:57.560945"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:37:59.069620"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:38:00.223850"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:06:36.651732"
+    },
+    "last_updated": "2025-10-03T23:06:36.651924"
+  }
+}

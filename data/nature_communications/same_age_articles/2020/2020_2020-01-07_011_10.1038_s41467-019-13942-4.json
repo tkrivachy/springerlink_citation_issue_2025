@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.877742",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13942-4",
+    "title": "Zinc-finger protein CNBP alters the 3-D structure of lncRNA ",
+    "article_number": "148",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Doo Nam Kim",
+      "Bernhard C. Thiel",
+      "Tyler Mrozowich",
+      "Scott P. Hennelly",
+      "Ivo L. Hofacker",
+      "Trushar R. Patel",
+      "Karissa Y. Sanbonmatsu"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:12:37.743772"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T18:12:39.309581"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:12:40.649192"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T22:57:59.509180"
+    },
+    "last_updated": "2025-10-03T22:57:59.509400"
+  }
+}

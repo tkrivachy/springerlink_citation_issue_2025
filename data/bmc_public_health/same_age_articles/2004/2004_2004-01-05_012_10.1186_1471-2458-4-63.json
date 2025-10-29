@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.165923",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-63",
+    "title": "Association between mortality from suicide in England and antidepressant prescribing: an ecological study",
+    "article_number": "63",
+    "publication_date": "2004-12-21",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Oliver WC Morgan",
+      "Clare Griffiths",
+      "Azeem Majeed"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T12:07:29.334919"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T12:07:30.857396"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:07:32.153398"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T20:43:47.268479"
+    },
+    "last_updated": "2025-10-03T20:43:47.268678"
+  }
+}

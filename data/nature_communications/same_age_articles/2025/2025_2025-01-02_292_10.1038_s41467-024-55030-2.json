@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.557765",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55030-2",
+    "title": "Hybrid electromagnetic and moisture energy harvesting enabled by ionic diode films",
+    "article_number": "312",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhenguo Gao",
+      "Cuiqin Fang",
+      "Yuanyuan Gao",
+      "Xin Yin",
+      "Siyuan Zhang",
+      "Jian Lu",
+      "Guanglei Wu",
+      "Hongjing Wu",
+      "Bingang Xu"
+    ]
+  },
+  "article_index": 292,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T19:28:21.853653"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T19:28:23.418545"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:24.616704"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T23:23:31.718865"
+    },
+    "last_updated": "2025-10-03T23:23:31.719055"
+  }
+}

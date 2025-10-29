@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.867013",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04214-7",
+    "title": "Meta-analysis of whole-genome gene expression datasets assessing the effects of ",
+    "article_number": "57",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hans-Juergen Schulten",
+      "Fatima Al-Adwani",
+      "Haneen A. Bin Saddeq",
+      "Heba Alkhatabi",
+      "Nofe Alganmi",
+      "Sajjad Karim",
+      "Deema Hussein",
+      "Khalid B. Al-Ghamdi",
+      "Awatif Jamal",
+      "Jaudah Al-Maghrabi",
+      "Mohammed H. Al-Qahtani"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:01:42.718415"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:01:44.246088"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:01:45.403113"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:47:58.516867"
+    },
+    "last_updated": "2025-10-03T21:47:58.517055"
+  }
+}

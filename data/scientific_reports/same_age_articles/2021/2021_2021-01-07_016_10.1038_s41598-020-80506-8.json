@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.204601",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80506-8",
+    "title": "Description of first nursery area for a pygmy devil ray species (",
+    "article_number": "132",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Marta D. Palacios",
+      "Edgar M. Hoyos-Padilla",
+      "Abel Trejo-Ramírez",
+      "Donald A. Croll",
+      "Felipe Galván-Magaña",
+      "Kelly M. Zilliacus",
+      "John B. O’Sullivan",
+      "James T. Ketchum",
+      "Rogelio González-Armas"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:33:52.345548"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:33:53.865343"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:33:55.126178"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:36:57.938099"
+    },
+    "last_updated": "2025-10-03T21:36:57.938293"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.710190",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08130-9",
+    "title": "Early preclinical detection of prions in the skin of prion-infected animals",
+    "article_number": "247",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zerui Wang",
+      "Matteo Manca",
+      "Aaron Foutz",
+      "Manuel V. Camacho",
+      "Gregory J. Raymond",
+      "Brent Race",
+      "Christina D. Orru",
+      "Jue Yuan",
+      "Pingping Shen",
+      "Baiya Li",
+      "Yue Lang",
+      "Johnny Dang",
+      "Alise Adornato",
+      "Katie Williams",
+      "Nicholas R. Maurer",
+      "Pierluigi Gambetti",
+      "Bin Xu",
+      "Witold Surewicz",
+      "Robert B. Petersen",
+      "Xiaoping Dong",
+      "Brian S. Appleby",
+      "Byron Caughey",
+      "Li Cui",
+      "Qingzhong Kong",
+      "Wen-Quan Zou"
+    ]
+  },
+  "article_index": 301,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:25:13.794125"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T17:25:15.361723"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T17:25:16.548630"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T22:41:51.946004"
+    },
+    "last_updated": "2025-10-03T22:41:51.946196"
+  }
+}

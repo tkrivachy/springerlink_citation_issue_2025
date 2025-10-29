@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.871674",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04417-y",
+    "title": "Chicken blastoderms and primordial germ cells possess a higher expression of DNA repair genes and lower expression of apoptosis genes to preserve their genome stability",
+    "article_number": "49",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Deivendran Rengaraj",
+      "Sohyoung Won",
+      "Kyung Min Jung",
+      "Seung Je Woo",
+      "Haerang Lee",
+      "Young Min Kim",
+      "Heebal Kim",
+      "Jae Yong Han"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:07:11.271797"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:07:12.796468"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:07:13.937450"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:50:10.860264"
+    },
+    "last_updated": "2025-10-03T21:50:10.860494"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.522624",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55476-4",
+    "title": "Sticky organisms create underwater biological adhesives driven by interactions between EGF- and GlcNAc- containing polysaccharides",
+    "article_number": "233",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jimin Choi",
+      "Seunghyeon Lee",
+      "Yongjin Lee",
+      "Dong Soo Hwang"
+    ]
+  },
+  "article_index": 92,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:43:59.996755"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:44:01.501046"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:44:02.687689"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:28:59.033674"
+    },
+    "last_updated": "2025-10-03T23:28:59.033862"
+  }
+}

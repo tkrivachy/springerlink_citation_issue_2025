@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.377255",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84888-x",
+    "title": "Impaired cardiac pumping function and increased afterload as determinants of early hemodynamic alterations in Cushing disease",
+    "article_number": "233",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Agnieszka Włochacz",
+      "Paweł Krzesiński",
+      "Beata Uziębło-Życzkowska",
+      "Przemysław Witek",
+      "Grzegorz Zieliński",
+      "Anna Kazimierczak",
+      "Robert Wierzbowski",
+      "Małgorzata Banak",
+      "Grzegorz Gielerak"
+    ]
+  },
+  "article_index": 264,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:33:19.695268"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:33:21.203808"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:20.462435"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:23:25.751514"
+    },
+    "last_updated": "2025-10-07T09:52:20.462492"
+  }
+}

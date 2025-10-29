@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.513851",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-12",
+    "title": "Oral cancer treatment costs in Greece and the effect of advanced disease",
+    "article_number": "12",
+    "publication_date": "2002-07-19",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Athanasios Zavras",
+      "Nikos Andreopoulos",
+      "Nikos Katsikeris",
+      "Dimitrios Zavras",
+      "Vassiliki Cartsos",
+      "Athanasios Vamvakidis"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T11:54:51.088122"
+    },
+    "last_updated": "2025-10-03T20:41:46.076526",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:02:29.749008"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:02:31.039919"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T20:41:46.076290"
+    }
+  }
+}

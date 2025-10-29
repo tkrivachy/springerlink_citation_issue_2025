@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-4-31</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/1471-2458-4-31</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">The usefulness of the Korean version of modified Mini-Mental State Examination (K-mMMSE) for dementia screening in community dwelling elderly people</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Jeong</surname>
+                <given-names>Seul-Ki</given-names>
+              </name>
+              <address>
+                <email>dialogue@dreamwiz.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Cho</surname>
+                <given-names>Ki-Hyun</given-names>
+              </name>
+              <address>
+                <email>kcho@chonnam.ac.kr</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Kim</surname>
+                <given-names>Jae-Min</given-names>
+              </name>
+              <address>
+                <email>jmkim@mail.chosun.ac.kr</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>30</day>
+            <month>7</month>
+            <year>2004</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2004</year>
+          </pub-date>
+          <volume>4</volume>
+          <issue>1</issue>
+          <elocation-id>31</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-4-31</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-4-31</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© Jeong et al; licensee BioMed Central Ltd. 2004</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>We assessed whether the Korean version of modified Mini-Mental State Examination (K-mMMSE) has improved performance as a screening test for cognitive impairment or dementia in a general population compared with the Korean Mini-Mental State Examination (K-MMSE).</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>Screening interviews were conducted with people aged 65 and over in Noam-dong, Namwon-city, Jeonbuk province. There were 522 community participants, of whom 235 underwent clinical and neuropsychological examination for diagnosis of dementia and Cognitive Impairment No Dementia (CIND). Sensitivity, specificity and areas under the receiver operating characteristic (ROC) curves for the K-mMMSE and the K-MMSE were the main outcome measures.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>
+                Cronbach's alpha for the K-mMMSE was 0.91, compared with 0.84 for the K-MMSE. The areas under the ROC curves in identifying all levels of CIND or dementia were 0.91 for the K-mMMSE and 0.89 for the K-MMSE (
+                <italic>P</italic>
+                 &lt; 0.05). For the K-mMMSE, the optimal cut-off score for a diagnosis of CIND was 69/70, which had a sensitivity of 0.86 and a specificity of 0.79, while, for a diagnosis of dementia, the optimal cut-off score of 59/60 had a sensitivity of 0.91 and a specificity of 0.78. The K-mMMSE also had a high test-retest reliability (
+                <italic>r</italic>
+                 = 0.89).
+              </p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusion</title>
+              <p>Our findings indicate that the K-mMMSE is more reliable and valid than the K-MMSE as a cognitive screen in a population based study of dementia. Considering the test characteristics, the K-MMSE and modified version are expected to be optimally used in clinical and epidemiologic fields.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Dementia</kwd>
+            <kwd>Mild Cognitive Impairment</kwd>
+            <kwd>Negative Likelihood Ratio</kwd>
+            <kwd>Positive Likelihood Ratio</kwd>
+            <kwd>Clinical Dementia Rate</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Psychological Testing</kwd>
+            <kwd>Psychological Assessment</kwd>
+            <kwd>Psychological Diagnostics</kwd>
+            <kwd>Psychometrics</kwd>
+            <kwd>Performance Assessment</kwd>
+            <kwd>Dementia</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

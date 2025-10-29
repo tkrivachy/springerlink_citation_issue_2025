@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.402015",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84821-2",
+    "title": "Bio particle swarm optimization and reinforcement learning algorithm for path planning of automated guided vehicles in dynamic industrial environments",
+    "article_number": "463",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shiwei Lin",
+      "Jianguo Wang",
+      "Bomin Huang",
+      "Xiaoying Kong",
+      "Hongwu Yang"
+    ]
+  },
+  "article_index": 485,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:41:54.661490"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:41:56.194442"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:41:57.391850"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:26:33.388409"
+    },
+    "last_updated": "2025-10-03T22:26:33.388459"
+  }
+}

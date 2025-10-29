@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.514758",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55545-8",
+    "title": "The giant genome of lily provides insights into the hybridization of cultivated lilies",
+    "article_number": "45",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuwei Liang",
+      "Qiang Gao",
+      "Fan Li",
+      "Yunpeng Du",
+      "Jian Wu",
+      "Wenqiang Pan",
+      "Shaokun Wang",
+      "Xiuhai Zhang",
+      "Mingfang Zhang",
+      "Xiaoming Song",
+      "Linlin Zhong",
+      "Fan Zhang",
+      "Yan Li",
+      "Zhiwei Wang",
+      "Danqing Li",
+      "Qing Duan",
+      "Shenchong Li",
+      "Chunlian Jin",
+      "Peihua Zhang",
+      "Yang Gu",
+      "Zhong-Hua Chen",
+      "Klaus F. X. Mayer",
+      "Xiaofan Zhou",
+      "Jihua Wang",
+      "Liangsheng Zhang"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:32:45.984116"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:32:47.531374"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:48.674364"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:24:55.753662"
+    },
+    "last_updated": "2025-10-03T23:24:55.753852"
+  }
+}

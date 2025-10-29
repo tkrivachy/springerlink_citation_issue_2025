@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.651331",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35693-5",
+    "title": "Unique ligand and kinase-independent roles of the insulin receptor in regulation of cell cycle, senescence and apoptosis",
+    "article_number": "57",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hirofumi Nagao",
+      "Ashok Kumar Jayavelu",
+      "Weikang Cai",
+      "Hui Pan",
+      "Jonathan M. Dreyfuss",
+      "Thiago M. Batista",
+      "Bruna B. Brandão",
+      "Matthias Mann",
+      "C. Ronald Kahn"
+    ]
+  },
+  "article_index": 90,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:53:51.876090"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:53:53.397402"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:53:54.668997"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T23:11:57.782567"
+    },
+    "last_updated": "2025-10-03T23:11:57.782761"
+  }
+}

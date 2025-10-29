@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.862472",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50763-4",
+    "title": "Notch intracellular domains form transcriptionally active heterodimeric complexes on sequence-paired sites",
+    "article_number": "218",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Tana R. Gazdik",
+      "Jacob J. Crow",
+      "Tyler Lawton",
+      "Chloe J. Munroe",
+      "Hannah Theriault",
+      "Travis M. Wood",
+      "Allan R. Albig"
+    ]
+  },
+  "article_index": 282,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:01:08.549204"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T16:01:10.123091"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:01:11.392775"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:12:00.492467"
+    },
+    "last_updated": "2025-10-03T22:12:00.492658"
+  }
+}

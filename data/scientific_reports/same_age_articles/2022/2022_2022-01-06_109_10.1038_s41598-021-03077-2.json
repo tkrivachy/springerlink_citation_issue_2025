@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.868402",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03077-2",
+    "title": "Parametric estimation of gyrotactic microorganism hybrid nanofluid flow between the conical gap of spinning disk-cone apparatus",
+    "article_number": "59",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hussam Alrabaiah",
+      "Muhammad Bilal",
+      "Muhammad Altaf Khan",
+      "Taseer Muhammad",
+      "Endris Yimer Legas"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:25:54.266483"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T15:25:55.880252"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T15:25:57.039384"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T21:58:10.972920"
+    },
+    "last_updated": "2025-10-03T21:58:10.973127"
+  }
+}

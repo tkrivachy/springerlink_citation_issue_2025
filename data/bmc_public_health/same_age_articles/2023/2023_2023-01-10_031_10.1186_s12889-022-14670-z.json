@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.099783",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-022-14670-z",
+    "title": "The potential public health impact of adolescent 4CMenB vaccination on ",
+    "article_number": "1",
+    "publication_date": "2023-01-10",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Katharine J. Looker",
+      "Ross Booton",
+      "Najida Begum",
+      "Ekkehard Beck",
+      "Jing Shen",
+      "Katherine M. E. Turner",
+      "Hannah Christensen"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T14:12:32.691626"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T14:12:34.229879"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:12:35.369783"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T21:28:57.246981"
+    },
+    "last_updated": "2025-10-03T21:28:57.247170"
+  }
+}

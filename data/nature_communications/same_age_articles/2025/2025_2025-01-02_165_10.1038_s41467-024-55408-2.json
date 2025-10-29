@@ -1,0 +1,76 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535665",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55408-2",
+    "title": "Small molecule APOL1 inhibitors as a precision medicine approach for APOL1-mediated kidney disease",
+    "article_number": "167",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Brandon Zimmerman",
+      "Leslie A. Dakin",
+      "Anne Fortier",
+      "Evanthia Nanou",
+      "Angelo Blasio",
+      "James Mann",
+      "Howard Miller",
+      "Marissa Fletcher",
+      "Tiansheng Wang",
+      "Suganthini Nanthakumar",
+      "Gizelle McCarthy",
+      "Caline Matar",
+      "Prachi Matsye",
+      "Guanyu Wang",
+      "Phillip Snyder",
+      "Kevin Daniel",
+      "Harsha Swamy",
+      "Kelly Sullivan",
+      "Franklin Bright",
+      "Audrey Powers",
+      "Kevin J. Gagnon",
+      "Fan Lu",
+      "Steven Paula",
+      "Suvarna Khare-Pandit",
+      "Larry Henry",
+      "Martine Hamel",
+      "Francois Denis",
+      "Olivier Nicolas",
+      "Niresh Hariparsad",
+      "Shyamesh Kumar",
+      "Jennifer Proctor",
+      "Timothy Senter",
+      "Brinley Furey",
+      "Mark E. Bunnage"
+    ]
+  },
+  "article_index": 165,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:22:17.993948"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:22:19.554814"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:22:20.703795"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:21:35.518916"
+    },
+    "last_updated": "2025-10-03T23:21:35.519109"
+  }
+}

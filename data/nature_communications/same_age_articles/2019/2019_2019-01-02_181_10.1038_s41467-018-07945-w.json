@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.696769",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07945-w",
+    "title": "No mass extinction for land plants at the Permian–Triassic transition",
+    "article_number": "384",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hendrik Nowak",
+      "Elke Schneebeli-Hermann",
+      "Evelyn Kustatscher"
+    ]
+  },
+  "article_index": 181,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:48:30.932188"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T17:48:32.436097"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T17:48:33.570869"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 120,
+      "retrieved_at": "2025-10-03T22:49:45.405587"
+    },
+    "last_updated": "2025-10-03T22:49:45.405639"
+  }
+}

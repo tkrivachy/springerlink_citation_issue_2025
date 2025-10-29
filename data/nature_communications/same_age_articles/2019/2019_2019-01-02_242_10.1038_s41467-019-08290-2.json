@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.703539",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08290-2",
+    "title": "Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs",
+    "article_number": "309",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Askar Yimit",
+      "Ogun Adebali",
+      "Aziz Sancar",
+      "Yuchao Jiang"
+    ]
+  },
+  "article_index": 242,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 163,
+      "retrieved_at": "2025-10-03T17:17:33.564914"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T17:17:35.112953"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 149,
+      "retrieved_at": "2025-10-03T17:17:36.302947"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 179,
+      "retrieved_at": "2025-10-03T22:39:17.581376"
+    },
+    "last_updated": "2025-10-03T22:39:17.581426"
+  }
+}

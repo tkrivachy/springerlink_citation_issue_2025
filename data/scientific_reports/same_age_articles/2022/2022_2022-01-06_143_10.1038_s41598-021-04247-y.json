@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.872339",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04247-y",
+    "title": "Colonoscopic image synthesis with generative adversarial network for enhanced detection of sessile serrated lesions using convolutional neural network",
+    "article_number": "261",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Dan Yoon",
+      "Hyoun-Joong Kong",
+      "Byeong Soo Kim",
+      "Woo Sang Cho",
+      "Jung Chan Lee",
+      "Minwoo Cho",
+      "Min Hyuk Lim",
+      "Sun Young Yang",
+      "Seon Hee Lim",
+      "Jooyoung Lee",
+      "Ji Hyun Song",
+      "Goh Eun Chung",
+      "Ji Min Choi",
+      "Hae Yeon Kang",
+      "Jung Ho Bae",
+      "Sungwan Kim"
+    ]
+  },
+  "article_index": 143,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T15:04:27.532097"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T15:04:29.098753"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:04:30.260048"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:49:10.645632"
+    },
+    "last_updated": "2025-10-03T21:49:10.645821"
+  }
+}

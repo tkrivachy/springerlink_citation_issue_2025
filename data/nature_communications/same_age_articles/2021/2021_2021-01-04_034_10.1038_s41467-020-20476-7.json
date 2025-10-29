@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.178921",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20476-7",
+    "title": "Thermoelectric current in a graphene Cooper pair splitter",
+    "article_number": "138",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Z. B. Tan",
+      "A. Laitinen",
+      "N. S. Kirsanov",
+      "A. Galda",
+      "V. M. Vinokur",
+      "M. Haque",
+      "A. Savin",
+      "D. S. Golubev",
+      "G. B. Lesovik",
+      "P. J. Hakonen"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:34:05.431228"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T18:34:06.928559"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:34:08.193698"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T23:05:22.434872"
+    },
+    "last_updated": "2025-10-03T23:05:22.434970"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.432850",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3998-5",
+    "title": "Childhood temperament predictors of adolescent physical activity",
+    "article_number": "8",
+    "publication_date": "2017-01-05",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "James A Janssen",
+      "Jacek Kolacz",
+      "Lilly Shanahan",
+      "Meghan J. Gangel",
+      "Susan D. Calkins",
+      "Susan P. Keane",
+      "Laurie Wideman"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T13:20:56.768040"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:20:58.293946"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:20:59.554093"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:10:32.008626"
+    },
+    "last_updated": "2025-10-03T21:10:32.008677"
+  }
+}

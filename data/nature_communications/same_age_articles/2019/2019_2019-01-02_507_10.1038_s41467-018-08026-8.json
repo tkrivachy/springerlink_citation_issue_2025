@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.732360",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08026-8",
+    "title": "Thrombospondin-3 augments injury-induced cardiomyopathy by intracellular integrin inhibition and sarcolemmal instability",
+    "article_number": "76",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tobias G. Schips",
+      "Davy Vanhoutte",
+      "Alexander Vo",
+      "Robert N. Correll",
+      "Matthew J. Brody",
+      "Hadi Khalil",
+      "Jason Karch",
+      "Andoria Tjondrokoesoemo",
+      "Michelle A. Sargent",
+      "Marjorie Maillet",
+      "Robert S. Ross",
+      "Jeffery D. Molkentin"
+    ]
+  },
+  "article_index": 507,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:34:59.914423"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:35:01.448815"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T17:35:02.831965"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:45:19.385524"
+    },
+    "last_updated": "2025-10-03T22:45:19.385716"
+  }
+}

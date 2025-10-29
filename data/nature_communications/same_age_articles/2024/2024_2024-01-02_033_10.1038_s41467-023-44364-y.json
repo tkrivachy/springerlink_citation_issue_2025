@@ -1,0 +1,72 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.669563",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44364-y",
+    "title": "Fatty acid synthesis suppresses dietary polyunsaturated fatty acid use",
+    "article_number": "45",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anna Worthmann",
+      "Julius Ridder",
+      "Sharlaine Y. L. Piel",
+      "Ioannis Evangelakos",
+      "Melina Musfeldt",
+      "Hannah Voß",
+      "Marie O’Farrell",
+      "Alexander W. Fischer",
+      "Sangeeta Adak",
+      "Monica Sundd",
+      "Hasibullah Siffeti",
+      "Friederike Haumann",
+      "Katja Kloth",
+      "Tatjana Bierhals",
+      "Markus Heine",
+      "Paul Pertzborn",
+      "Mira Pauly",
+      "Julia-Josefine Scholz",
+      "Suman Kundu",
+      "Marceline M. Fuh",
+      "Axel Neu",
+      "Klaus Tödter",
+      "Maja Hempel",
+      "Uwe Knippschild",
+      "Clay F. Semenkovich",
+      "Hartmut Schlüter",
+      "Joerg Heeren",
+      "Ludger Scheja",
+      "Christian Kubisch",
+      "Christian Schlein"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:57:57.539293"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:57:59.080946"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:58:00.365696"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:13:22.642752"
+    },
+    "last_updated": "2025-10-03T23:13:22.642941"
+  }
+}

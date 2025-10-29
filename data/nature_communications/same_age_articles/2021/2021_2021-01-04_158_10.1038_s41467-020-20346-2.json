@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.199330",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20346-2",
+    "title": "Metaxins are core components of mitochondrial transport adaptor complexes",
+    "article_number": "83",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yinsuo Zhao",
+      "Eli Song",
+      "Wenjuan Wang",
+      "Chung-Han Hsieh",
+      "Xinnan Wang",
+      "Wei Feng",
+      "Xiangming Wang",
+      "Kang Shen"
+    ]
+  },
+  "article_index": 158,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:38:23.692751"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T18:38:25.245125"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:38:26.440080"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T23:06:48.404626"
+    },
+    "last_updated": "2025-10-03T23:06:48.404674"
+  }
+}

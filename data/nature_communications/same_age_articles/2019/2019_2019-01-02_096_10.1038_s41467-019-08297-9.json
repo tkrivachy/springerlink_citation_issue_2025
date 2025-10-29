@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687534",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08297-9",
+    "title": "Optimal dosing of dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in young children",
+    "article_number": "480",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Palang Chotsiri",
+      "Issaka Zongo",
+      "Paul Milligan",
+      "Yves Daniel Compaore",
+      "Anyirékun Fabrice Somé",
+      "Daniel Chandramohan",
+      "Warunee Hanpithakpong",
+      "François Nosten",
+      "Brian Greenwood",
+      "Philip J. Rosenthal",
+      "Nicholas J. White",
+      "Jean-Bosco Ouédraogo",
+      "Joel Tarning"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:51:26.367348"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:51:27.913814"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T17:51:29.296972"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T22:50:44.653868"
+    },
+    "last_updated": "2025-10-03T22:50:44.654056"
+  }
+}

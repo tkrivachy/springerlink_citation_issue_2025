@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.102458",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26630-z",
+    "title": "Effects of ",
+    "article_number": "32",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ashley N. Sharpe",
+      "Maureen S. Oldach",
+      "Victor N. Rivas",
+      "Joanna L. Kaplan",
+      "Ashley L. Walker",
+      "Samantha L. Kovacs",
+      "Darren T. Hwee",
+      "Peadar Cremin",
+      "Bradley P. Morgan",
+      "Fady I. Malik",
+      "Samantha P. Harris",
+      "Joshua A. Stern"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:29:59.134007"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:30:00.739684"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:30:02.002941"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:59:51.875831"
+    },
+    "last_updated": "2025-10-03T21:59:51.876022"
+  }
+}

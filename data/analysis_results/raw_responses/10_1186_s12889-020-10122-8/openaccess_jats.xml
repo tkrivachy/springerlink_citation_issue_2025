@@ -1,0 +1,1678 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.w3.org/1998/Math/MathML">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-020-10122-8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s12889-020-10122-8</article-id>
+          <article-id pub-id-type="manuscript">10122</article-id>
+          <article-id pub-id-type="doi">10.1186/s12889-020-10122-8</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection" specific-use="SubjectSection">
+              <subject>Infectious Disease epidemiology</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Influence of air temperature and implemented veterinary measures on the incidence of human salmonellosis in the Czech Republic during 1998–2017</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Kynčl</surname>
+                <given-names>Jan</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au2">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4557-1910</contrib-id>
+              <name name-style="western">
+                <surname>Špačková</surname>
+                <given-names>Michaela</given-names>
+              </name>
+              <address>
+                <email>michaela.spackova@szu.cz</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs12889020101228_cor2">b</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Fialová</surname>
+                <given-names>Alena</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Kyselý</surname>
+                <given-names>Jan</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Malý</surname>
+                <given-names>Marek</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.425485.a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2184 1595</institution-id>
+                <institution content-type="org-division">Department of Infectious Diseases Epidemiology, Centre for Epidemiology and Microbiology</institution>
+                <institution content-type="org-name">National Institute of Public Health</institution>
+              </institution-wrap>
+              <addr-line content-type="street">Šrobárova 49/48</addr-line>
+              <addr-line content-type="postcode">100 00</addr-line>
+              <addr-line content-type="city">Prague</addr-line>
+              <country country="CZ">Czech Republic</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.4491.8</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1937 116X</institution-id>
+                <institution content-type="org-division">Department of Epidemiology and Biostatistics, Third Faculty of Medicine</institution>
+                <institution content-type="org-name">Charles University</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Prague</addr-line>
+              <country country="CZ">Czech Republic</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.425485.a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2184 1595</institution-id>
+                <institution content-type="org-division">Department of Biostatistics</institution>
+                <institution content-type="org-name">National Institute of Public Health</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Prague</addr-line>
+              <country country="CZ">Czech Republic</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.418095.1</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 1015 3316</institution-id>
+                <institution content-type="org-division">Institute of Atmospheric Physics</institution>
+                <institution content-type="org-name">Czech Academy of Sciences</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Prague</addr-line>
+              <country country="CZ">Czech Republic</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.15866.3c</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2238 631X</institution-id>
+                <institution content-type="org-division">Faculty of Environmental Sciences</institution>
+                <institution content-type="org-name">Czech University of Life Sciences</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Prague</addr-line>
+              <country country="CZ">Czech Republic</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs12889020101228_cor2">
+              <label>b</label>
+              <email>michaela.spackova@szu.cz</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>6</day>
+            <month>1</month>
+            <year>2021</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2021</year>
+          </pub-date>
+          <volume>21</volume>
+          <issue seq="55">1</issue>
+          <elocation-id>55</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>23</day>
+              <month>12</month>
+              <year>2020</year>
+            </date>
+            <date date-type="received">
+              <day>10</day>
+              <month>6</month>
+              <year>2020</year>
+            </date>
+            <date date-type="accepted">
+              <day>23</day>
+              <month>12</month>
+              <year>2020</year>
+            </date>
+            <date date-type="online">
+              <day>6</day>
+              <month>1</month>
+              <year>2021</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2021</copyright-statement>
+            <copyright-year>2021</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                . The Creative Commons Public Domain Dedication waiver (
+                <ext-link ns0:href="http://creativecommons.org/publicdomain/zero/1.0/" ext-link-type="uri">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>
+                ) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p id="Par1">The aim of our study was to analyse the influence of air temperature and implemented veterinary measures on salmonellosis incidence in the Czech Republic (CZ).</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p id="Par2">We conducted a descriptive analysis of salmonellosis as reported to the Czech national surveillance system during 1998–2017 and evaluated the influence of applied veterinary measures (started in January 2008) on salmonellosis incidence by comparing two 9-year periods (1998–2006, 2009–2017). Using a generalized additive model, we analysed association between monthly mean air temperature and log-transformed salmonellosis incidence over the entire twenty-year period.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p id="Par3">A total of 410,533 salmonellosis cases were reported during the study period in the CZ. Annual mean incidences of salmonellosis were 313.0/100,000 inhabitants before and 99.0/100,000 inhabitants after implementation of the veterinary measures. The time course of incidence was non-linear, with a sharp decline during 2006–2010. Significant association was found between disease incidence and air temperature. On average, the data indicated that within a common temperature range every 1 °C rise in air temperature contributed to a significant 6.2% increase in salmonellosis cases.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusions</title>
+              <p id="Par4">Significant non-linear effects of annual trend, within-year seasonality, and air temperature on the incidence of salmonellosis during 1998–2017 were found. Our study also demonstrates significant direct effect of preventive veterinary measures taken in poultry in reducing incidence of human salmonellosis in the CZ. The annual mean number of salmonellosis cases in the period after introducing the veterinary measures was only 32.5% of what it had been in the previous period.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Salmonellosis</kwd>
+            <kwd>Temperature</kwd>
+            <kwd>Weather</kwd>
+            <kwd>Veterinary measures</kwd>
+            <kwd>Gastrointestinal infections</kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Grantová Agentura České Republiky</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100001824</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">18-22125S</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Kyselý</surname>
+                  <given-names>Jan</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>63</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2020_Article_10122.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Background</title>
+          <p id="Par5">
+            <italic>Salmonellae</italic>
+             are among the most common bacterial foodborne pathogens worldwide and the second most commonly reported zoonotic agent in the European Union (EU), with notification rates of 20.1 cases per 100,000 population in 2018 [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. 
+            <italic>Salmonellae</italic>
+             caused 31% of all food- and water-borne outbreaks in the EU in 2018 [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. In the Czech Republic (CZ), 
+            <italic>Salmonella</italic>
+             was the leading causative agent of acute gastroenteritis until 2006. Since 2007, it has been the second most common after campylobacteriosis [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ].
+          </p>
+          <p id="Par6">
+            <italic>Salmonella</italic>
+             spp. are Gram-negative bacteria belonging to the 
+            <italic>Enterobacteriaceae</italic>
+             family. Subspecies of species 
+            <italic>S. enterica</italic>
+             are subdivided into more than 2500 serovars, many of which commonly colonize animals and infect humans [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            , 
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ]. Different 
+            <italic>Salmonella</italic>
+             serovars are also categorised as typhoidal (
+            <italic>S.</italic>
+             Typhi and 
+            <italic>S.</italic>
+             Paratyphi) and non-typhoidal (e.g. 
+            <italic>S.</italic>
+             Enteritidis, 
+            <italic>S.</italic>
+             Typhimurium, and 
+            <italic>S.</italic>
+             Infantis), based on causative agent and clinical symptoms [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            ]. In our study, we only consider non-typhoidal human salmonellosis as this is the most burdensome class of 
+            <italic>Salmonella</italic>
+             infections in humans within developed countries.
+          </p>
+          <p id="Par7">
+            <italic>Salmonella</italic>
+             usually causes gastroenteritis in humans. Systemic infections are rare [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            ]. Incubation periods of 
+            <italic>Salmonella</italic>
+             range from 6 to 72 h (most usually 12–36 h) [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            ]. 
+            <italic>Salmonella</italic>
+             bacteria tolerate various environmental conditions. They can grow at temperatures ranging from 8 to 45 °C and in pH range 4.0–9.0 [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            ]. The bacteria can persist for a long time in feed mill environments [
+            <xref ref-type="bibr" rid="CR7">7</xref>
+            ].
+          </p>
+          <p id="Par8">
+            It is estimated that 86% of human 
+            <italic>Salmonella</italic>
+             infections are of foodborne origin [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ]. Mass production and distribution of food disseminates pathogens rapidly [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ]. The foods most commonly associated with strong-evidence salmonellosis outbreaks in Europe are eggs, bakery products, mixed food, pig meat and products thereof, and poultry meat, followed by other food vehicles including vegetables and fruits [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. In food, the highest levels of 
+            <italic>Salmonella</italic>
+            -positive samples have occurred in poultry meat and other minced meat intended to be cooked before consumption [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Cross-contamination may of course also occur. The most important source of human salmonellosis at the EU level during 2007–2009 was estimated to be the laying hen reservoir (i.e. eggs), followed by pigs [
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ].
+          </p>
+          <p id="Par9">
+            Several possibilities exist for controlling 
+            <italic>Salmonella</italic>
+             in animals. Effort to reduce 
+            <italic>Salmonella</italic>
+             in poultry is coordinated through EU control programmes. The basic law on the control of 
+            <italic>Salmonella</italic>
+             and other specific foodborne zoonotic agents is Regulation (EC) No 2160/2003. Monitoring of 
+            <italic>Salmonella</italic>
+             spp. along the food chain is conducted in accordance with Regulation (EC) No 2073/2005, which lays down food safety and process hygiene criteria [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Implementation of the general and specific hygiene measures is based on Regulation (EC) No 852/2002 [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. In the CZ, the new veterinary strategies for reduction and control of 
+            <italic>Salmonella</italic>
+             in poultry in accordance with EU legislation were officially implemented in January 2008 (although some of these had been started 1 year earlier). These new programmes for 
+            <italic>Salmonella</italic>
+             reduction are conducted by the Czech State Veterinary Administration, a public administrative body under the Ministry of Agriculture, and are mainly based on principles of good husbandry, implementing consistent sanitation and zoohygienic measures, and ensuring the provision of healthy feed and water. The programmes are aimed at reducing the prevalence of 
+            <italic>Salmonella</italic>
+             in poultry and the environment and its transmission to humans via contaminated food. Four categories of poultry are monitored, including breeding stock imported from abroad and animals being produced for transport abroad. Details of the national programmes are available from the State Veterinary Administration [
+            <xref ref-type="bibr" rid="CR10">10</xref>
+            ]. Mandatory vaccination is another tool for controlling the occurrence of 
+            <italic>Salmonella</italic>
+             in poultry.
+          </p>
+          <p id="Par10">
+            Pork is also an important source causing human salmonellosis. Eradicating 
+            <italic>Salmonella</italic>
+             from pig farms can be both difficult and costly [
+            <xref ref-type="bibr" rid="CR11">11</xref>
+            ]. Regulation (EC) No. 218/2014 requires that competent authorities evaluate the implementation of slaughterhouse operators’ own checks for presence of 
+            <italic>Salmonella</italic>
+             in pig carcasses at slaughterhouses [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Other than as described above, data of food, animals, and feedstuffs are not collected in a harmonised manner, although these do still need to be monitored in accordance with Directive 2003/99/EC on the monitoring of zoonoses [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Preventive actions, including testing for 
+            <italic>Salmonella</italic>
+            , are mainly directed to avoiding contamination at feed mills and on farms. Along with technical and hygienic measures, vaccination is another possibility to prevent 
+            <italic>Salmonella</italic>
+             colonization in swine herds [
+            <xref ref-type="bibr" rid="CR12">12</xref>
+            ].
+          </p>
+          <p id="Par11">
+            Higher air temperatures may lead to increased foodborne illness. Within the range 7.5–37 °C, 
+            <italic>Salmonella</italic>
+             spp. multiply in food in direct proportion to changing temperature [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ]. In the absence of any control measures, therefore, increased air temperatures may accelerate bacterial reproduction at various points along the food chain, thus making the consequences of subsequent ingestion more severe. Air temperature may also influence people’s behaviour in ways that affect the chances for foodborne illness to occur (such as to prompt buying of ready-to-eat food or barbecuing in warmer weather) [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ]. Increased outdoor recreational activity may also increase the likelihood that people will be exposed to environmental sources of 
+            <italic>Salmonella</italic>
+             [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ]. Many studies have demonstrated positive associations between temperature and foodborne illness in a variety of geographical settings [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            , 
+            <xref ref-type="bibr" rid="CR14">14</xref>
+            , 
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            –
+            <xref ref-type="bibr" rid="CR16">16</xref>
+            ]. Linear associations have been noted between temperature and notifications of salmonellosis in European countries and Australia [
+            <xref ref-type="bibr" rid="CR17">17</xref>
+            ].
+          </p>
+          <p id="Par12">The aim of our study was to analyse the influence of air temperature and implemented veterinary measures on salmonellosis incidence in the CZ.</p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <p id="Par13">
+            Non-typhoidal salmonellosis is a mandatorily notifiable disease in the CZ and the reporting covers the whole population. The regional public health authorities therefore notify case-based data and related metadata of salmonellosis into the national surveillance system for infectious diseases (EpiDat) that is administered by the National Institute of Public Health. EpiDat contains all notified probable and confirmed cases that meet the case definition in accordance with Commission Implementing Decision (EU) No 2119/98/EC (of 19 March 2002). Specifically, any person meeting the clinical criteria with an epidemiological link is reported as a probable case and any person meeting the clinical and laboratory criteria is reported as a confirmed case. We analysed data on sporadic cases and household outbreaks of human non-typhoidal salmonellosis. Epidemics in the CZ are determined by the local health authorities conducting epidemiological investigation in the field while considering number of cases, mode of transmission, and common vehicle or source. Cases designated as epidemic were excluded due to their different characteristics and pattern of spreading. We analysed monthly case counts (by date of onset) notified during the period 1998–2017. Monthly mean air temperatures across the territory of CZ were provided by the Czech Hydrometeorological Institute [
+            <xref ref-type="bibr" rid="CR18">18</xref>
+            ]. Data on population were obtained from the Czech Statistical Office [
+            <xref ref-type="bibr" rid="CR19">19</xref>
+            ]. For descriptive purposes, data from two nine-year periods (1998–2006, 2009–2017) were compared while years 2007–2008, when the measures started and were implemented, were excluded from the comparison.
+          </p>
+          <p id="Par14">
+            The association between disease incidence and a set of explanatory variables (year, month, and temperature) was studied using a generalized additive model (GAM) [
+            <xref ref-type="bibr" rid="CR20">20</xref>
+            ] on data from the entire twenty-year period. Because the incidence is characterized by counts overdispersed relative to the Poisson distribution, a semiparametric negative-binomial GAM was used with smooth and potentially non-linear effects of annual trend, within-year seasonality, and monthly mean air temperature. The model fitting was based on the penalized likelihood and performed in R, version 3.4.3 [
+            <xref ref-type="bibr" rid="CR21">21</xref>
+            ] using the 
+            <italic>mgcv</italic>
+             package. The final model was selected with the aid of the Akaike information criterion. All tests were evaluated at the 5% significance level.
+          </p>
+          <p id="Par15">
+            The final model is specified as follows:
+
+            <disp-formula id="Equa">
+              <alternatives>
+                <ns1:math display="block" id="Equa_Math">
+                  <ns1:msub>
+                    <ns1:mi>N</ns1:mi>
+                    <ns1:mi>t</ns1:mi>
+                  </ns1:msub>
+                  <ns1:mo>~</ns1:mo>
+                  <ns1:mi mathvariant="normal">NB</ns1:mi>
+                  <ns1:mfenced close=")" open="(" separators=",">
+                    <ns1:msub>
+                      <ns1:mi>μ</ns1:mi>
+                      <ns1:mi>t</ns1:mi>
+                    </ns1:msub>
+                    <ns1:mi>θ</ns1:mi>
+                  </ns1:mfenced>
+                </ns1:math>
+                <tex-math id="Equa_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ {N}_t\sim \mathrm{NB}\left({\mu}_t,\theta \right) $$\end{document}</tex-math>
+                <graphic specific-use="web" mime-subtype="GIF" ns0:href="12889_2020_10122_Article_Equa.gif"/>
+              </alternatives>
+            </disp-formula>
+            and
+
+            <disp-formula id="Equb">
+              <alternatives>
+                <ns1:math display="block" id="Equb_Math">
+                  <ns1:mo>log</ns1:mo>
+                  <ns1:mspace width="0.25em"/>
+                  <ns1:msub>
+                    <ns1:mi>μ</ns1:mi>
+                    <ns1:mi>t</ns1:mi>
+                  </ns1:msub>
+                  <ns1:mo>=</ns1:mo>
+                  <ns1:msub>
+                    <ns1:mi>β</ns1:mi>
+                    <ns1:mn>0</ns1:mn>
+                  </ns1:msub>
+                  <ns1:mo>+</ns1:mo>
+                  <ns1:msub>
+                    <ns1:mi>s</ns1:mi>
+                    <ns1:mtext mathvariant="italic">Year</ns1:mtext>
+                  </ns1:msub>
+                  <ns1:mfenced close=")" open="(">
+                    <ns1:msub>
+                      <ns1:mi>y</ns1:mi>
+                      <ns1:mi>t</ns1:mi>
+                    </ns1:msub>
+                  </ns1:mfenced>
+                  <ns1:mo>+</ns1:mo>
+                  <ns1:msub>
+                    <ns1:mi>s</ns1:mi>
+                    <ns1:mtext mathvariant="italic">Season</ns1:mtext>
+                  </ns1:msub>
+                  <ns1:mfenced close=")" open="(">
+                    <ns1:msub>
+                      <ns1:mi>m</ns1:mi>
+                      <ns1:mi>t</ns1:mi>
+                    </ns1:msub>
+                  </ns1:mfenced>
+                  <ns1:mo>+</ns1:mo>
+                  <ns1:msub>
+                    <ns1:mi>s</ns1:mi>
+                    <ns1:mtext mathvariant="italic">Temp</ns1:mtext>
+                  </ns1:msub>
+                  <ns1:mfenced close=")" open="(">
+                    <ns1:msub>
+                      <ns1:mi>T</ns1:mi>
+                      <ns1:mi>t</ns1:mi>
+                    </ns1:msub>
+                  </ns1:mfenced>
+                  <ns1:mo>,</ns1:mo>
+                </ns1:math>
+                <tex-math id="Equb_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \log\ {\mu}_t={\beta}_0+{s}_{Year}\left({y}_t\right)+{s}_{Season}\left({m}_t\right)+{s}_{Temp}\left({T}_t\right), $$\end{document}</tex-math>
+                <graphic specific-use="web" mime-subtype="GIF" ns0:href="12889_2020_10122_Article_Equb.gif"/>
+              </alternatives>
+            </disp-formula>
+            where:
+          </p>
+          <p id="Par16">
+            <italic>t</italic>
+             is index of the month,
+          </p>
+          <p id="Par17">
+            <italic>N</italic>
+            <sub>
+              <italic>t</italic>
+            </sub>
+             is the number of salmonellosis cases in month 
+            <italic>t</italic>
+            ,
+          </p>
+          <p id="Par18">
+            <italic>μ</italic>
+            <sub>
+              <italic>t</italic>
+            </sub>
+             is the negative binomial intensity of salmonellosis occurrence,
+          </p>
+          <p id="Par19">
+            <italic>θ</italic>
+             is a parameter for overdispersion, where 
+            <inline-formula id="IEq1">
+              <alternatives>
+                <ns1:math display="inline" id="IEq1_Math">
+                  <ns1:mi>Var</ns1:mi>
+                  <ns1:mspace width="0.25em"/>
+                  <ns1:mfenced close=")" open="(">
+                    <ns1:msub>
+                      <ns1:mi mathvariant="normal">μ</ns1:mi>
+                      <ns1:mi>t</ns1:mi>
+                    </ns1:msub>
+                  </ns1:mfenced>
+                  <ns1:mo>=</ns1:mo>
+                  <ns1:msub>
+                    <ns1:mi mathvariant="normal">μ</ns1:mi>
+                    <ns1:mi>t</ns1:mi>
+                  </ns1:msub>
+                  <ns1:mo>+</ns1:mo>
+                  <ns1:msubsup>
+                    <ns1:mi mathvariant="normal">μ</ns1:mi>
+                    <ns1:mi>t</ns1:mi>
+                    <ns1:mn>2</ns1:mn>
+                  </ns1:msubsup>
+                  <ns1:mo>/</ns1:mo>
+                  <ns1:mi mathvariant="normal">θ</ns1:mi>
+                </ns1:math>
+                <tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \mathrm{Var}\ \left({\upmu}_t\right)={\upmu}_t+{\upmu}_t^2/\uptheta $$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="12889_2020_10122_Article_IEq1.gif"/>
+              </alternatives>
+            </inline-formula>
+            ,
+          </p>
+          <p id="Par20">
+            <italic>β</italic>
+            <sub>0</sub>
+             is the intercept term corresponding to the baseline level,
+          </p>
+          <p id="Par21">
+            <italic>s</italic>
+            <sub>
+              <italic>Year</italic>
+            </sub>
+             is smooth marginal effect of the trend over years estimated as thin-plate spline,
+          </p>
+          <p id="Par22">
+            <italic>s</italic>
+            <sub>
+              <italic>Season</italic>
+            </sub>
+             is smooth effect of seasonality (in monthly resolution) estimated as cyclic cubic regression spline, and
+          </p>
+          <p id="Par23">
+            <italic>s</italic>
+            <sub>
+              <italic>Temp</italic>
+            </sub>
+             is smooth marginal effect of temperature estimated as thin-plate spline.
+          </p>
+          <p id="Par24">Smooth components are presented along with 95% pointwise confidence intervals.</p>
+        </sec>
+        <sec id="Sec3" sec-type="results">
+          <title>Results</title>
+          <p id="Par25">In total, 440,470 salmonellosis cases were reported in the CZ during the study period. After excluding 29,937 (6.8%) epidemic cases, the remaining 410,533 sporadic and family outbreak salmonellosis cases were analysed. Of these cases, 228,249 (55.6%) occurred among children and adolescents up to 19 years of age. The sample comprised 196,780 (47.9%) males and 213,753 (52.1%) females.</p>
+          <p id="Par26">For a basic assessment of the conditions before and after the implementation of veterinary measures, the following analysis compared two nine-year periods, excluding the transitional period 2007–2008. In the first studied time period (1998–2006), we analysed 288,746 cases: 139,034 males (48.2%) and 149,712 females (51.8%), mean age 23.4 years. In the second period (2009–2017), we analysed 93,826 cases: 44,596 males (47.5%) and 49,230 females (52.5%), mean age 24.4 years. This means that the annual average number of salmonellosis cases occurring after introduction of the veterinary measures was only 32.5% of that observed in the previous period. The two studied periods did not differ in the proportions of cases in individual age groups. The mean annual incidence of salmonellosis was 313.0/100,000 inhabitants before and 99.0/100,000 inhabitants after implementation of the veterinary measures.</p>
+          <p id="Par27">
+            Overall trends were analysed in the entire data set. As clearly visible in Fig. 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            , there was a substantial decrease in the number of cases during 2007–2008. All predictors included in the GAM model are statistically significant (
+            <italic>p</italic>
+             &lt; 0.001). The adjusted R
+            <sup>2</sup>
+             (coefficient of determination) of 96.2% that was calculated indicates that the model explains a substantial part of the data variability. A detailed look at the output of the GAM model shows that the course of incidence over time is non-linear. After a slight decline at the beginning of the study period, the sharpest decline occurred in 2006–2009. This was followed by a slight increase and stabilization at a level that is substantially lower compared to the levels observed before imposition of the measures (Fig. 
+            <xref rid="Fig2" ref-type="fig">2</xref>
+            ). The seasonal component (Fig. 
+            <xref rid="Fig3" ref-type="fig">3</xref>
+            ) shows a clear within-year trend with a minimum in February and March and a maximum in August and September. The dependence of disease incidence on temperature is depicted by an S-shaped curve. Figure 
+            <xref rid="Fig4" ref-type="fig">4</xref>
+             shows that the relationship is almost linear in the temperature range 0–15 °C within which the vast majority of data falls, as indicated by the distribution marks on the x-axis in the form of a rug plot. At mean monthly temperature extremes, the curve approaches the asymptotes. On average, the data indicate that within the aforementioned temperature range every 1 °C increase in monthly air temperature contributed to a significant 6.2% increase in salmonellosis cases.
+
+            <fig id="Fig1" position="float">
+              <label>Fig. 1</label>
+              <caption xml:lang="en">
+                <p>Absolute numbers of salmonellosis cases and mean air temperature, by month, Czech Republic, 1998–2017</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/12889_2020_10122_Fig1_HTML.png" id="MO1"/>
+            </fig>
+            <fig id="Fig2" position="float">
+              <label>Fig. 2</label>
+              <caption xml:lang="en">
+                <p>Annual component of the model with 95% pointwise confidence interval</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/12889_2020_10122_Fig2_HTML.png" id="MO2"/>
+            </fig>
+            <fig id="Fig3" position="float">
+              <label>Fig. 3</label>
+              <caption xml:lang="en">
+                <p>Seasonal component of the model with 95% pointwise confidence interval</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/12889_2020_10122_Fig3_HTML.png" id="MO3"/>
+            </fig>
+            <fig id="Fig4" position="float">
+              <label>Fig. 4</label>
+              <caption xml:lang="en">
+                <p>Temperature component of the model with 95% pointwise confidence interval and marks on the x-axis indicating the distribution of the data</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/12889_2020_10122_Fig4_HTML.png" id="MO4"/>
+            </fig>
+          </p>
+        </sec>
+        <sec id="Sec4" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par28">
+            Salmonellosis has been a mandatorily notifiable disease in the CZ since 1951. Its incidence slowly increased in the country until the 1980s. Thereafter, a sharp increase in salmonellosis incidence was observed until 1995, consistent with a similar rise in other European countries [
+            <xref ref-type="bibr" rid="CR22">22</xref>
+            , 
+            <xref ref-type="bibr" rid="CR23">23</xref>
+            ]. The most probable causes of this sharp rise were an increase in pathogen invasiveness and the appearance of new phagotypes of 
+            <italic>Salmonella</italic>
+             Enteritidis in the factory-style farming within the European poultry sector [
+            <xref ref-type="bibr" rid="CR24">24</xref>
+            ]. After 1995, salmonellosis cases in the CZ declined slowly and with certain deviations until 2005. Thereafter, in accordance with international strategies for reducing 
+            <italic>Salmonella</italic>
+             in poultry that were implemented in the CZ between 2007 and 2008, we observed a sharp decline of salmonellosis until 2010. As the decline was already apparent before the measures entered into force, it is clear that the poultry producing companies had been preparing for them in advance. Sporadic cases of salmonellosis in the CZ during 2009–2017 averaged 99.0/100,000 inhabitants per year, while the total incidence of salmonellosis (including epidemic cases) was 103.9/100,000 per year. The present-day reduced incidence of human salmonellosis cases in the CZ is notably the result of consistent 
+            <italic>Salmonella</italic>
+             control in the country. Nevertheless, salmonellosis cases reported in the CZ are still five times higher than the EU average. The average EU notification rate was 20.1 cases per 100,000 population in 2018 while in the CZ it was 102.7/100,000 population [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. Notification rates in neighbouring Slovakia (124.8/100,000 population) are even higher compared to those in the CZ, and the lowest rates are being reported by Cyprus, Greece, Italy and Portugal (≤ 6.0/100,000 population) [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. It is not clear whether intercountry variation in reported incidence of salmonellosis is due to (a) different levels of true morbidity, (b) different methods of detection and reporting, or (c) a combination of the two.
+          </p>
+          <p id="Par29">
+            Confirming the findings of previous studies [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            , 
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            , 
+            <xref ref-type="bibr" rid="CR25">25</xref>
+            , 
+            <xref ref-type="bibr" rid="CR26">26</xref>
+            –
+            <xref ref-type="bibr" rid="CR27">27</xref>
+            ], substantial positive association was found between air temperature and non-typhoidal 
+            <italic>Salmonella</italic>
+             infections in the CZ during 1998–2017. Our calculations put this increase at 6.2% more salmonellosis cases per 1 °C rise within the monthly mean temperature range of 0–15 °C. This finding is underscored by the facts that, during the latter period of the analysed time span, the highest number of salmonellosis cases in summer was reported in 2015, which had the hottest summer (July–August) ever recorded, whereas the lowest number of cases in summer was reported in the coolest summer of 2011. It is known that higher temperatures enable quicker replication of 
+            <italic>Salmonella</italic>
+             which is able to multiply at ambient temperatures with generation time as low as 20 min [
+            <xref ref-type="bibr" rid="CR28">28</xref>
+            , 
+            <xref ref-type="bibr" rid="CR29">29</xref>
+            ]. Heat stress can induce enteritis in chickens with Salmonella present in their guts and its spread to other organs [
+            <xref ref-type="bibr" rid="CR28">28</xref>
+            , 
+            <xref ref-type="bibr" rid="CR30">30</xref>
+            ]. The potential risk arises through cross-contamination by food-handling with human cases appearing after consummation of contaminated meat [
+            <xref ref-type="bibr" rid="CR30">30</xref>
+            ]. It is therefore likely that with rising temperatures the risk of salmonellosis occurrence in humans will be increasing and hence also will the importance of preventive measures.
+          </p>
+          <p id="Par30">
+            Preventive veterinary and food safety measures are the most effective way to protect the public against the disease. EU-coordinated control programmes in poultry for combatting 
+            <italic>Salmonella</italic>
+            ’s spread through food consumption have constituted a major success story in the EU. To be most effective, efforts to reduce transmission of 
+            <italic>Salmonellae</italic>
+             via food and other routes should be implemented on a comprehensive scale [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ].
+          </p>
+          <sec id="Sec5">
+            <title>Limitations of the study</title>
+            <p id="Par31">
+              We did not consider incubation period of the disease in this analysis. Inasmuch as we analysed the monthly counts of cases by date of disease onset in relation to the monthly means of air temperature, we did not consider the incubation period of non-typhoidal 
+              <italic>Salmonella</italic>
+               (6–72 h, usually 12–36 h) to be a relevant factor for the analysis. This might very well be relevant in studies where weekly temperature or data for even shorter time periods (days) would be analysed.
+            </p>
+            <p id="Par32">Underreporting may generally result in underestimation of the true disease burden, and that applies also for the CZ. The Czech national reporting system has been well established already since the 1950s, and therefore we do not expect that substantial changes in underreporting rate during the study period would have biased the results. We assume that for analysing association between the disease incidence and air temperature, as well as in relation to the implemented veterinary measures, the precise number of cases is not the most relevant factor. More important are the actual trends. Nonetheless, slight demographic changes in the Czech population and food consumption patterns during the study period might be a limitation, as we did not control for these potential biases.</p>
+          </sec>
+        </sec>
+        <sec id="Sec6" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p id="Par33">
+            Statistical analysis based on the GAM model showed significant non-linear effects of annual trend, within-year seasonality, and air temperature on the incidence of non-typhoidal 
+            <italic>Salmonella</italic>
+             infections in the CZ during 1998–2017. The highest incidence corresponds to the highest mean temperatures above 15 °C. Our study also demonstrates significant direct effect of preventive veterinary measures taken in relation to poultry in reducing human salmonellosis in the CZ. The importance of these measures is likely to grow with increasing air temperatures. The annual average number of salmonellosis cases occurring after introduction of the veterinary measures was only about one-third of that observed in the previous period.
+          </p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We thank Helena Šebestová for handling of data on salmonellosis from the EpiDat system.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Authors’ contributions</title>
+          <p>JKyn conceived and designed the study, participated in analysing the data, and contributed to the text. MS drafted the initial version of the text and participated in all aspects of preparing the paper. AF and MM performed the statistical analyses and participated in writing the paper. JKys contributed to the text. All authors were involved in revising the manuscript and approved the final version.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>The study was supported by the Czech Science Foundation, project 18-22125S. The funding bodies played no role in the design of the study and collection, analysis, and interpretation of data and in writing the manuscript.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Availability of data and materials</title>
+          <p>The data for human salmonellosis that support the findings of this study are available from the national surveillance system for infectious diseases (EpiDat) that is administered by the National Institute of Public Health. The data are available also from the authors upon reasonable request and with permission of the National Institute of Public Health, namely from Jan Kynčl, M.D., Ph.D. at email address jan.kyncl@szu.cz. Monthly mean air temperatures are publicly provided by the Czech Hydrometeorological Institute on its web pages. Data on population characteristics are publicly available on the web pages of the Czech Statistical Office. Veterinary measures are described on the web pages of the Czech State Veterinary Administration.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1">
+            <title>Ethics approval and consent to participate</title>
+            <p id="Par34">Not applicable.</p>
+          </sec>
+          <sec id="FPar2">
+            <title>Consent for publication</title>
+            <p id="Par35">Not applicable.</p>
+          </sec>
+          <sec id="FPar3" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par36">The authors declare that they have no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="other">European Food Safety Authority. European Centre for Disease Prevention Control. The European Union one health 2018 zoonoses report. EFSA J. 2019;17(12):e05926.</mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Špačková</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Gašpárek</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Analysis of the most common food-and water-borne diseases in the Czech Republic, 2007-2017</article-title>
+                <source>Praktický lékař</source>
+                <year>2018</year>
+                <volume>98</volume>
+                <issue>6</issue>
+                <fpage>260</fpage>
+                <lpage>265</lpage>
+                <comment>In Czech</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wen</surname>
+                    <given-names>SC</given-names>
+                  </name>
+                  <name>
+                    <surname>Best</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Nourse</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Non-typhoidal Salmonella infections in children: review of literature and recommendations for management</article-title>
+                <source>J Paediatr Child Health</source>
+                <year>2017</year>
+                <volume>53</volume>
+                <issue>10</issue>
+                <fpage>936</fpage>
+                <lpage>941</lpage>
+                <pub-id pub-id-type="pmid">28556448</pub-id>
+                <pub-id pub-id-type="doi">10.1111/jpc.13585</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hendriksen</surname>
+                    <given-names>RS</given-names>
+                  </name>
+                  <name>
+                    <surname>Vieira</surname>
+                    <given-names>AR</given-names>
+                  </name>
+                  <name>
+                    <surname>Karlsmose</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Lo Fo Wong</surname>
+                    <given-names>DM</given-names>
+                  </name>
+                  <name>
+                    <surname>Jensen</surname>
+                    <given-names>AB</given-names>
+                  </name>
+                  <name>
+                    <surname>Wegener</surname>
+                    <given-names>HC</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Global monitoring of Salmonella serovar distribution from the World Health Organization global foodborne infections network country data Bank: results of quality assured laboratories from 2001 to 2007</article-title>
+                <source>Foodborne Pathog Dis</source>
+                <year>2011</year>
+                <volume>8</volume>
+                <issue>8</issue>
+                <fpage>887</fpage>
+                <lpage>900</lpage>
+                <pub-id pub-id-type="pmid">21492021</pub-id>
+                <pub-id pub-id-type="doi">10.1089/fpd.2010.0787</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Heymann</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                </person-group>
+                <source>Control of communicable diseases manual</source>
+                <year>2015</year>
+                <edition>20</edition>
+                <publisher-loc>Washington, DC</publisher-loc>
+                <publisher-name>American Public Health Association</publisher-name>
+                <fpage>532</fpage>
+                <lpage>539</lpage>
+                <pub-id pub-id-type="doi">10.2105/CCDM.2745</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hanes</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Miliotis</surname>
+                    <given-names>MD</given-names>
+                  </name>
+                  <name>
+                    <surname>Bier</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Nontyphoid Salmonella</article-title>
+                <source>International handbook of food-borne pathogens</source>
+                <year>2003</year>
+                <publisher-loc>New York</publisher-loc>
+                <publisher-name>Marcel Dekker</publisher-name>
+                <fpage>137</fpage>
+                <lpage>149</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="other">Alali WQ, Ricke SC. The ecology and control of bacterial pathogens in animal feed. In: Fink-Gremmels J, editor. Animal feed contamination. Effects on livestock and food safety. Cambridge: Woodhead Publishing Series in Food Science, Technology and Nutrition; 2012. p. 35-55.</mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Majowicz</surname>
+                    <given-names>SE</given-names>
+                  </name>
+                  <name>
+                    <surname>Musto</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Scallan</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Angulo</surname>
+                    <given-names>FJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Kirk</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>O'Brien</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The global burden of nontyphoidal Salmonella gastroenteritis</article-title>
+                <source>Clin Infect Dis</source>
+                <year>2010</year>
+                <volume>50</volume>
+                <issue>6</issue>
+                <fpage>882</fpage>
+                <lpage>889</lpage>
+                <pub-id pub-id-type="pmid">20158401</pub-id>
+                <pub-id pub-id-type="doi">10.1086/650733</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>De Knegt</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Pires</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Hald</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Attributing foodborne salmonellosis in humans to animal reservoirs in the European Union using a multi-country stochastic model</article-title>
+                <source>Epidemiol Infect</source>
+                <year>2015</year>
+                <volume>143</volume>
+                <issue>6</issue>
+                <fpage>1175</fpage>
+                <lpage>1186</lpage>
+                <pub-id pub-id-type="doi">10.1017/S0950268814001903</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>The State Veterinary Administration of the Czech Republic</collab>
+                </person-group>
+                <source>The national programmes to reduce prevalence of Salmonella in poultry</source>
+                <year>2019</year>
+                <comment>https://www.svscr.cz/zdravi-zvirat/programy-tlumeni-vyskytu-salmonel/. Accessed 20 May 2020</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hald</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <source>EFSA Panel on Biological Hazards; Scientific Opinion on a Quantitative Microbiological Risk Assessment of Salmonella in slaughter and breeder pigs</source>
+                <year>2010</year>
+                <pub-id pub-id-type="doi">10.2903/j.efsa.2010.1547</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wales</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Salmonella vaccination in pigs: a review</article-title>
+                <source>Zoonoses Public Health</source>
+                <year>2017</year>
+                <volume>64</volume>
+                <issue>1</issue>
+                <fpage>1</fpage>
+                <lpage>13</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC28notl2rtg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">26853216</pub-id>
+                <pub-id pub-id-type="doi">10.1111/zph.12256</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lake</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Gillespie</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Bentham</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Nichols</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Lane</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Adak</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A re-evaluation of the impact of temperature and climate change on foodborne illness</article-title>
+                <source>Epidemiol Infect</source>
+                <year>2009</year>
+                <volume>137</volume>
+                <issue>11</issue>
+                <fpage>1538</fpage>
+                <lpage>1547</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD1Mnislegsw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">19371450</pub-id>
+                <pub-id pub-id-type="doi">10.1017/S0950268809002477</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bentham</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Langford</surname>
+                    <given-names>IH</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Environmental temperatures and the incidence of food poisoning in England and Wales</article-title>
+                <source>Int J Biometeorol</source>
+                <year>2001</year>
+                <volume>45</volume>
+                <issue>1</issue>
+                <fpage>22</fpage>
+                <lpage>26</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD3MzkvValtw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">11411411</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s004840000083</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kovats</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Edwards</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Hajat</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Armstrong</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Ebi</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Menne</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The effect of temperature on food poisoning: a time-series analysis of salmonellosis in ten European countries</article-title>
+                <source>Epidemiol Infect</source>
+                <year>2004</year>
+                <volume>132</volume>
+                <issue>3</issue>
+                <fpage>443</fpage>
+                <lpage>453</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD2c3ovVKqsw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">15188714</pub-id>
+                <pub-id pub-id-type="pmcid">2870124</pub-id>
+                <pub-id pub-id-type="doi">10.1017/S0950268804001992</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>D’Souza</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>NG</given-names>
+                  </name>
+                  <name>
+                    <surname>Hall</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Moodie</surname>
+                    <given-names>KB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Does ambient temperature affect foodborne disease?</article-title>
+                <source>Epidemiol.</source>
+                <year>2004</year>
+                <volume>15</volume>
+                <issue>1</issue>
+                <fpage>86</fpage>
+                <lpage>92</lpage>
+                <pub-id pub-id-type="doi">10.1097/01.ede.0000101021.03453.3e</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>McMichael</surname>
+                    <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Woodruff</surname>
+                    <given-names>RE</given-names>
+                  </name>
+                  <name>
+                    <surname>Hales</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Climate change and human health: present and future risks</article-title>
+                <source>Lancet.</source>
+                <year>2006</year>
+                <volume>367</volume>
+                <issue>9513</issue>
+                <fpage>859</fpage>
+                <lpage>869</lpage>
+                <pub-id pub-id-type="pmid">16530580</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0140-6736(06)68079-3</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="other">
+                Czech Hydrometeorological Institute. Territorial air temperature, Historical data. 
+                <ext-link ns0:href="http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty?l=en" ext-link-type="uri">http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty?l=en</ext-link>
+                . Accessed 16 Jun 2019.
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="other">
+                Czech Statistical Office. 2019 
+                <ext-link ns0:href="https://www.czso.cz/csu/czso/obyvatelstvo_hu" ext-link-type="uri">https://www.czso.cz/csu/czso/obyvatelstvo_hu</ext-link>
+                . Accessed 3 Jan 2020.
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wood</surname>
+                    <given-names>SN</given-names>
+                  </name>
+                </person-group>
+                <source>Generalized additive models: an introduction with R</source>
+                <year>2017</year>
+                <edition>2</edition>
+                <publisher-loc>Chapman and Hall/CRC</publisher-loc>
+                <publisher-name>CRC press</publisher-name>
+                <pub-id pub-id-type="doi">10.1201/9781315370279</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="other">
+                R Core Team. R: A language and environment for statistical computing. R Foundation for Statistical Computing 2017. Vienna; 2017. 
+                <ext-link ns0:href="https://www.r-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>
+                . Accessed 7 Feb 2020.
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <collab>European Food Safety Authority, European Centre for Disease Prevention Control</collab>
+                </person-group>
+                <article-title xml:lang="en">The European Union summary report on trends and sources of zoonoses, zoonotic agents and food-borne outbreaks in 2016</article-title>
+                <source>EFSA J</source>
+                <year>2017</year>
+                <volume>15</volume>
+                <issue>12</issue>
+                <fpage>5077</fpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chlebicz</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Śliżewska</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Campylobacteriosis, salmonellosis, yersiniosis, and listeriosis as zoonotic foodborne diseases: a review</article-title>
+                <source>Int J Environ Res Public Health</source>
+                <year>2018</year>
+                <volume>15</volume>
+                <issue>5</issue>
+                <fpage>863</fpage>
+                <pub-id pub-id-type="pmcid">5981902</pub-id>
+                <pub-id pub-id-type="doi">10.3390/ijerph15050863</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXitl2ru7nI</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shah</surname>
+                    <given-names>DH</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhou</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Addwebi</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Davis</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <name>
+                    <surname>Orfe</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Call</surname>
+                    <given-names>DR</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Cell invasion of poultry-associated Salmonella enterica serovar Enteritidis isolates is associated with pathogenicity, motility and proteins secreted by the type III secretion system</article-title>
+                <source>Microbiol.</source>
+                <year>2011</year>
+                <volume>157</volume>
+                <issue>Pt 5</issue>
+                <fpage>1428</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXmvFGgtLg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1099/mic.0.044461-0</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Akil</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahmad</surname>
+                    <given-names>HA</given-names>
+                  </name>
+                  <name>
+                    <surname>Reddy</surname>
+                    <given-names>RS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effects of climate change on Salmonella infections</article-title>
+                <source>Foodborne Pathog Dis</source>
+                <year>2014</year>
+                <volume>11</volume>
+                <issue>12</issue>
+                <fpage>974</fpage>
+                <lpage>980</lpage>
+                <pub-id pub-id-type="pmid">25496072</pub-id>
+                <pub-id pub-id-type="pmcid">4346543</pub-id>
+                <pub-id pub-id-type="doi">10.1089/fpd.2014.1802</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Bi</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Hiller</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Climate variations and Salmonella infection in Australian subtropical and tropical regions</article-title>
+                <source>Sci Total Environ</source>
+                <year>2010</year>
+                <volume>408</volume>
+                <issue>3</issue>
+                <fpage>524</fpage>
+                <lpage>530</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhsVyqs73I</pub-id>
+                <pub-id pub-id-type="pmid">19922981</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.scitotenv.2009.10.068</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Carlton</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Woster</surname>
+                    <given-names>AP</given-names>
+                  </name>
+                  <name>
+                    <surname>DeWitt</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Goldstein</surname>
+                    <given-names>RS</given-names>
+                  </name>
+                  <name>
+                    <surname>Levy</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A systematic review and meta-analysis of ambient temperature and diarrhoeal diseases</article-title>
+                <source>Int J Epidemiol</source>
+                <year>2015</year>
+                <volume>45</volume>
+                <issue>1</issue>
+                <fpage>117</fpage>
+                <lpage>130</lpage>
+                <pub-id pub-id-type="pmid">26567313</pub-id>
+                <pub-id pub-id-type="pmcid">4881833</pub-id>
+                <pub-id pub-id-type="doi">10.1093/ije/dyv296</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stephen</surname>
+                    <given-names>DM</given-names>
+                  </name>
+                  <name>
+                    <surname>Barnett</surname>
+                    <given-names>AG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effect of temperature and precipitation on salmonellosis cases in south-East Queensland, Australia: an observational study</article-title>
+                <source>BMJ Open</source>
+                <year>2016</year>
+                <volume>6</volume>
+                <issue>2</issue>
+                <fpage>e010204</fpage>
+                <pub-id pub-id-type="pmid">26916693</pub-id>
+                <pub-id pub-id-type="pmcid">4769393</pub-id>
+                <pub-id pub-id-type="doi">10.1136/bmjopen-2015-010204</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yun</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Greiner</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Höller</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Messelhäusser</surname>
+                    <given-names>U</given-names>
+                  </name>
+                  <name>
+                    <surname>Rampp</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Klein</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Association between the ambient temperature and the occurrence of human Salmonella and campylobacter infections</article-title>
+                <source>Sci Rep</source>
+                <year>2016</year>
+                <volume>6</volume>
+                <issue>1</issue>
+                <fpage>1</fpage>
+                <lpage>7</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXlsVSktbc%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41598-016-0001-8</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Milazzo</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Giles</surname>
+                    <given-names>LC</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Koehler</surname>
+                    <given-names>AP</given-names>
+                  </name>
+                  <name>
+                    <surname>Hiller</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                  <name>
+                    <surname>Bi</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The effect of temperature on different Salmonella serotypes during warm seasons in a Mediterranean climate city, Adelaide, Australia</article-title>
+                <source>Epidemiol Infect</source>
+                <year>2016</year>
+                <volume>144</volume>
+                <issue>6</issue>
+                <fpage>1231</fpage>
+                <lpage>1240</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC28znsVGksQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">26522685</pub-id>
+                <pub-id pub-id-type="doi">10.1017/S0950268815002587</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <notes notes-type="Misc">
+          <title>Publisher’s Note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

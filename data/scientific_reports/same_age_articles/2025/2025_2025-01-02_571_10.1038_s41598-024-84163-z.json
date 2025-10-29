@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.411256",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84163-z",
+    "title": "Genome-scale evolution in local populations of wild chimpanzees",
+    "article_number": "548",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Takashi Hayakawa",
+      "Takushi Kishida",
+      "Yasuhiro Go",
+      "Eiji Inoue",
+      "Eri Kawaguchi",
+      "Tomoyuki Aizu",
+      "Hinako Ishizaki",
+      "Atsushi Toyoda",
+      "Asao Fujiyama",
+      "Tetsuro Matsuzawa",
+      "Chie Hashimoto",
+      "Takeshi Furuichi",
+      "Kiyokazu Agata"
+    ]
+  },
+  "article_index": 571,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:10:38.237293"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:10:39.777219"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:46.843274"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:15:35.765489"
+    },
+    "last_updated": "2025-10-07T09:47:46.843410"
+  }
+}

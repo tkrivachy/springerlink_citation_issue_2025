@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.730532",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07925-0",
+    "title": "Longevity defined as top 10% survivors and beyond is transmitted as a quantitative genetic trait",
+    "article_number": "35",
+    "publication_date": "2019-01-07",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Niels van den Berg",
+      "Mar Rodríguez-Girondo",
+      "Ingrid K. van Dijk",
+      "Rick J. Mourits",
+      "Kees Mandemakers",
+      "Angelique A. P. O. Janssens",
+      "Marian Beekman",
+      "Ken R. Smith",
+      "P. Eline Slagboom"
+    ]
+  },
+  "article_index": 490,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T18:04:50.836419"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T18:04:52.367166"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T18:04:53.695587"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T22:55:33.729259"
+    },
+    "last_updated": "2025-10-03T22:55:33.729318"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.890299",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13750-w",
+    "title": "Cascading and pulse-like ruptures during the 2019 Ridgecrest earthquakes in the Eastern California Shear Zone",
+    "article_number": "22",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kejie Chen",
+      "Jean-Philippe Avouac",
+      "Saif Aati",
+      "Chris Milliner",
+      "Fu Zheng",
+      "Chuang Shi"
+    ]
+  },
+  "article_index": 113,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T18:20:54.224308"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T18:20:55.773520"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T18:20:57.091506"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T23:00:50.639498"
+    },
+    "last_updated": "2025-10-03T23:00:50.639690"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.235778",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80093-8",
+    "title": "An enriched biosignature of gut microbiota-dependent metabolites characterizes maternal plasma in a mouse model of fetal alcohol spectrum disorder",
+    "article_number": "248",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Manjot S. Virdee",
+      "Nipun Saini",
+      "Colin D. Kay",
+      "Andrew P. Neilson",
+      "Sze Ting Cecilia Kwan",
+      "Kaylee K. Helfrich",
+      "Sandra M. Mooney",
+      "Susan M. Smith"
+    ]
+  },
+  "article_index": 193,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:49:16.663362"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:49:18.267827"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:49:19.440423"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T21:43:08.325833"
+    },
+    "last_updated": "2025-10-03T21:43:08.326026"
+  }
+}

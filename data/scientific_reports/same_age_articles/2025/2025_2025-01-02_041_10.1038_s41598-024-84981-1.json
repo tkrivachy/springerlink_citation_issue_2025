@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.345703",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84981-1",
+    "title": "Acquisition of similar properties by filters in the same stream of a multistream convolutional neural network",
+    "article_number": "67",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hiroshi Tamura"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:05:07.896879"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:05:09.457578"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:05:10.674903"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:34:44.803951"
+    },
+    "last_updated": "2025-10-03T22:34:44.804140"
+  }
+}

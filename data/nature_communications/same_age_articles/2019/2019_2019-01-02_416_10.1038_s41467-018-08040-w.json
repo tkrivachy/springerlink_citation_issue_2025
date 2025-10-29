@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.722544",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08040-w",
+    "title": "Post-exposure immunotherapy for two ebolaviruses and Marburg virus in nonhuman primates",
+    "article_number": "105",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jennifer M. Brannan",
+      "Shihua He",
+      "Katie A. Howell",
+      "Laura I. Prugar",
+      "Wenjun Zhu",
+      "Hong Vu",
+      "Sergey Shulenin",
+      "Shweta Kailasan",
+      "Henna Raina",
+      "Gary Wong",
+      "Md Niaz Rahim",
+      "Logan Banadyga",
+      "Kevin Tierney",
+      "Xuelian Zhao",
+      "Yuxing Li",
+      "Frederick W. Holtsberg",
+      "John M. Dye",
+      "Xiangguo Qiu",
+      "M. Javad Aman"
+    ]
+  },
+  "article_index": 416,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:06:20.802857"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:06:22.344800"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T18:06:23.498494"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T22:56:03.497532"
+    },
+    "last_updated": "2025-10-03T22:56:03.497725"
+  }
+}

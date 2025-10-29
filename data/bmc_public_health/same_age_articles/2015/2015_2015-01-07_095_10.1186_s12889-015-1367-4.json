@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.249262",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1367-4",
+    "title": "Stage of HIV presentation at initial clinic visit following a community-based HIV testing campaign in rural Kenya",
+    "article_number": "16",
+    "publication_date": "2015-01-21",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "John Haskew",
+      "Kenrick Turner",
+      "Gunnar Rø",
+      "Andrew Ho",
+      "Davies Kimanga",
+      "Shahnaaz Sharif"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T13:13:15.238082"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:13:16.740713"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:13:18.041253"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:07:48.822298"
+    },
+    "last_updated": "2025-10-03T21:07:48.822526"
+  }
+}

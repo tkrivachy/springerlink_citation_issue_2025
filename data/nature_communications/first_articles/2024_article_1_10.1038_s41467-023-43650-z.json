@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.665223",
+  "year": 2024,
+  "article_type": "article_1",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43650-z",
+    "title": "Cyclical palmitoylation regulates TLR9 signalling and systemic autoimmunity in mice",
+    "article_number": "1",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hai Ni",
+      "Yinuo Wang",
+      "Kai Yao",
+      "Ling Wang",
+      "Jiancheng Huang",
+      "Yongfang Xiao",
+      "Hongyao Chen",
+      "Bo Liu",
+      "Cliff Y. Yang",
+      "Jijun Zhao"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:56:02.387458"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 184,
+      "retrieved_at": "2025-10-03T18:56:03.952755"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:56:05.149302"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 280,
+      "retrieved_at": "2025-10-03T23:12:41.944498"
+    },
+    "last_updated": "2025-10-03T23:12:41.944548"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.525913",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55634-8",
+    "title": "Surface molecular engineering to enable processing of sulfide solid electrolytes in humid ambient air",
+    "article_number": "213",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mengchen Liu",
+      "Jessica J. Hong",
+      "Elias Sebti",
+      "Ke Zhou",
+      "Shen Wang",
+      "Shijie Feng",
+      "Tyler Pennebaker",
+      "Zeyu Hui",
+      "Qiushi Miao",
+      "Ershuang Lu",
+      "Nimrod Harpak",
+      "Sicen Yu",
+      "Jianbin Zhou",
+      "Jeong Woo Oh",
+      "Min-Sang Song",
+      "Jian Luo",
+      "Raphaële J. Clément",
+      "Ping Liu"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T19:37:16.837029"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T19:37:18.409229"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:37:19.577656"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:26:28.862688"
+    },
+    "last_updated": "2025-10-03T23:26:28.862790"
+  }
+}

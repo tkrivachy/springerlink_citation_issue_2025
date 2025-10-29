@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.650220",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35431-x",
+    "title": "Neoadjuvant therapy with immune checkpoint blockade, antiangiogenesis, and chemotherapy for locally advanced gastric cancer",
+    "article_number": "8",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Song Li",
+      "Wenbin Yu",
+      "Fei Xie",
+      "Haitao Luo",
+      "Zhimin Liu",
+      "Weiwei Lv",
+      "Duanbo Shi",
+      "Dexin Yu",
+      "Peng Gao",
+      "Cheng Chen",
+      "Meng Wei",
+      "Wenhao Zhou",
+      "Jiaqian Wang",
+      "Zhikun Zhao",
+      "Xin Dai",
+      "Qian Xu",
+      "Xue Zhang",
+      "Miao Huang",
+      "Kai Huang",
+      "Jian Wang",
+      "Jisheng Li",
+      "Lei Sheng",
+      "Lian Liu"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 158,
+      "retrieved_at": "2025-10-03T18:47:21.895828"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T18:47:23.448670"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T18:47:24.629595"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 192,
+      "retrieved_at": "2025-10-03T23:09:45.442754"
+    },
+    "last_updated": "2025-10-03T23:09:45.442942"
+  }
+}

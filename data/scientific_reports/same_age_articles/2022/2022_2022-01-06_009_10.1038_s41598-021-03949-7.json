@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.844526",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03949-7",
+    "title": "Microbial diversity in intensively farmed lake sediment contaminated by heavy metals and identification of microbial taxa bioindicators of environmental quality",
+    "article_number": "80",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "María Custodio",
+      "Ciro Espinoza",
+      "Richard Peñaloza",
+      "Tessy Peralta-Ortiz",
+      "Héctor Sánchez-Suárez",
+      "Alberto Ordinola-Zapata",
+      "Enedia Vieyra-Peña"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T15:03:47.515940"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T15:03:49.025586"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T15:03:50.176291"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T21:48:54.608424"
+    },
+    "last_updated": "2025-10-03T21:48:54.608497"
+  }
+}

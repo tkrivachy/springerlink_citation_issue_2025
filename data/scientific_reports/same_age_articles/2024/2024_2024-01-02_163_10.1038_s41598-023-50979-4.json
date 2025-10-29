@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.843630",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50979-4",
+    "title": "Community-based prevalence and associated factors of sarcopenia in the Vietnamese elderly",
+    "article_number": "17",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lan-Anh Thi Pham",
+      "Binh Thanh Nguyen",
+      "Dao Tieu Huynh",
+      "Binh-Minh Le Thi Nguyen",
+      "Phuong-Anh Nhat Tran",
+      "Tam Van Vo",
+      "Hy-Han Thi Bui",
+      "Truc Thanh Thai"
+    ]
+  },
+  "article_index": 163,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T16:02:07.453652"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T16:02:09.017529"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:02:10.207236"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T22:12:23.952757"
+    },
+    "last_updated": "2025-10-03T22:12:23.952827"
+  }
+}

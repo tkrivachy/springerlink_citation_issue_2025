@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.236662",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80103-9",
+    "title": "Thermoresponsive motor behavior is mediated by ring neuron circuits in the central complex of ",
+    "article_number": "155",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Edgar Buhl",
+      "Benjamin Kottler",
+      "James J. L. Hodge",
+      "Frank Hirth"
+    ]
+  },
+  "article_index": 202,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:49:10.675047"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:49:12.250113"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:49:13.437849"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:43:06.147321"
+    },
+    "last_updated": "2025-10-03T21:43:06.147627"
+  }
+}

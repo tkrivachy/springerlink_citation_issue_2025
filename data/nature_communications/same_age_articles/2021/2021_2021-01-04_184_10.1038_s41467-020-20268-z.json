@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202747",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20268-z",
+    "title": "Terahertz pulse shaping using diffractive surfaces",
+    "article_number": "37",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Muhammed Veli",
+      "Deniz Mengu",
+      "Nezih T. Yardimci",
+      "Yi Luo",
+      "Jingxi Li",
+      "Yair Rivenson",
+      "Mona Jarrahi",
+      "Aydogan Ozcan"
+    ]
+  },
+  "article_index": 184,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T18:40:54.198712"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 151,
+      "retrieved_at": "2025-10-03T18:40:55.772111"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 133,
+      "retrieved_at": "2025-10-03T18:40:56.941074"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 160,
+      "retrieved_at": "2025-10-03T23:07:39.599064"
+    },
+    "last_updated": "2025-10-03T23:07:39.599258"
+  }
+}

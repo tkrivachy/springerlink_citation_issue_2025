@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.510954",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55729-2",
+    "title": "2.5-dimensional covalent organic frameworks",
+    "article_number": "280",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tomoki Kitano",
+      "Syunto Goto",
+      "Xiaohan Wang",
+      "Takayuki Kamihara",
+      "Yoshihisa Sei",
+      "Yukihito Kondo",
+      "Takumi Sannomiya",
+      "Hidehiro Uekusa",
+      "Yoichi Murakami"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:21:03.313162"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:21:04.886305"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:21:06.075287"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:21:11.381467"
+    },
+    "last_updated": "2025-10-03T23:21:11.381553"
+  }
+}

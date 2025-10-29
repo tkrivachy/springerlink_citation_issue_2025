@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701018",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08081-1",
+    "title": "Cross-species genomic landscape comparison of human mucosal melanoma with canine oral and equine melanoma",
+    "article_number": "353",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kim Wong",
+      "Louise van der Weyden",
+      "Courtney R. Schott",
+      "Alastair Foote",
+      "Fernando Constantino-Casas",
+      "Sionagh Smith",
+      "Jane M. Dobson",
+      "Elizabeth P. Murchison",
+      "Hong Wu",
+      "Iwei Yeh",
+      "Douglas R. Fullen",
+      "Nancy Joseph",
+      "Boris C. Bastian",
+      "Rajiv M. Patel",
+      "Inigo Martincorena",
+      "Carla Daniela Robles-Espinoza",
+      "Vivek Iyer",
+      "Marieke L. Kuijjer",
+      "Mark J. Arends",
+      "Thomas Brenn",
+      "Paul W. Harms",
+      "Geoffrey A. Wood",
+      "David J. Adams"
+    ]
+  },
+  "article_index": 220,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 114,
+      "retrieved_at": "2025-10-03T18:01:01.800124"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 120,
+      "retrieved_at": "2025-10-03T18:01:03.371177"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 111,
+      "retrieved_at": "2025-10-03T18:01:04.572354"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T22:54:21.497101"
+    },
+    "last_updated": "2025-10-03T22:54:21.497289"
+  }
+}

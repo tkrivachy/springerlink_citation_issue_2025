@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.383021",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84310-6",
+    "title": "Multispanning membrane protein SIDT2 increases knockdown activity of gapmer antisense oligonucleotides",
+    "article_number": "586",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kohshi Kusumoto",
+      "Kiyomi Sasaki",
+      "Yasunori Uchida",
+      "Ayaka Utsumi",
+      "Tokuyuki Yoshida",
+      "Satoshi Obika",
+      "Takao Inoue",
+      "Keiichiro Okuhira"
+    ]
+  },
+  "article_index": 318,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:25:54.739038"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:25:56.253838"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:54.425722"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:20:54.093063"
+    },
+    "last_updated": "2025-10-07T09:50:54.425838"
+  }
+}

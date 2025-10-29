@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.229265",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80230-3",
+    "title": "The shifted balance of arginine metabolites in acute myocardial infarction patients and its clinical relevance",
+    "article_number": "83",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Patrycja Molek",
+      "Pawel Zmudzki",
+      "Aleksandra Wlodarczyk",
+      "Jadwiga Nessler",
+      "Jaroslaw Zalewski"
+    ]
+  },
+  "article_index": 162,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:42:26.912606"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:42:28.474385"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:42:29.674064"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:40:26.356575"
+    },
+    "last_updated": "2025-10-03T21:40:26.356662"
+  }
+}

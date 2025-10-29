@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.396793",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83793-7",
+    "title": "Validation of musculoskeletal segmentation model with uncertainty estimation for bone and muscle assessment in hip-to-knee clinical CT images",
+    "article_number": "125",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mazen Soufi",
+      "Yoshito Otake",
+      "Makoto Iwasa",
+      "Keisuke Uemura",
+      "Tomoki Hakotani",
+      "Masahiro Hashimoto",
+      "Yoshitake Yamada",
+      "Minoru Yamada",
+      "Yoichi Yokoyama",
+      "Masahiro Jinzaki",
+      "Suzushi Kusano",
+      "Masaki Takao",
+      "Seiji Okada",
+      "Nobuhiko Sugano",
+      "Yoshinobu Sato"
+    ]
+  },
+  "article_index": 438,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T16:54:09.075947"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:54:10.834719"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:54:11.996953"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:30:55.118619"
+    },
+    "last_updated": "2025-10-03T22:30:55.118811"
+  }
+}

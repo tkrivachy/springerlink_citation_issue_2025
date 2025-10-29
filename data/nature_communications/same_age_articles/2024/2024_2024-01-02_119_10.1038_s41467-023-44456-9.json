@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.678818",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44456-9",
+    "title": "Quantifying negative selection in human 3ʹ UTRs uncovers constrained targets of RNA-binding proteins",
+    "article_number": "85",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Scott D. Findlay",
+      "Lindsay Romo",
+      "Christopher B. Burge"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:07:00.602278"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:07:02.157066"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:07:03.329264"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:16:28.117491"
+    },
+    "last_updated": "2025-10-03T23:16:28.117735"
+  }
+}

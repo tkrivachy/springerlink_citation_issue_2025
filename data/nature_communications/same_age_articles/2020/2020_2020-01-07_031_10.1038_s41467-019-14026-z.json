@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880222",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14026-z",
+    "title": "Increasing neurogenesis refines hippocampal activity rejuvenating navigational learning strategies and contextual memory throughout life",
+    "article_number": "135",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gabriel Berdugo-Vega",
+      "Gonzalo Arias-Gil",
+      "Adrian López-Fernández",
+      "Benedetta Artegiani",
+      "Joanna M. Wasielewska",
+      "Chi-Chieh Lee",
+      "Michael T. Lippert",
+      "Gerd Kempermann",
+      "Kentaroh Takagaki",
+      "Federico Calegari"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T18:13:34.003132"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T18:13:35.601955"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T18:13:36.769924"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 149,
+      "retrieved_at": "2025-10-03T22:58:16.275622"
+    },
+    "last_updated": "2025-10-03T22:58:16.275708"
+  }
+}

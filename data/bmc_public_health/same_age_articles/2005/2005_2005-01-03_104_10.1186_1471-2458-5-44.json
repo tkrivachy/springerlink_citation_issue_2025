@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.964754",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-44",
+    "title": "Mental health literacy in an educational elite – an online survey among university students",
+    "article_number": "44",
+    "publication_date": "2005-05-09",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Christoph Lauber",
+      "Vladeta Ajdacic-Gross",
+      "Nadja Fritschi",
+      "Niklaus Stulz",
+      "Wulf Rössler"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T12:16:47.992267"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T12:16:49.534642"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T12:16:50.857086"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T20:47:13.998236"
+    },
+    "last_updated": "2025-10-03T20:47:13.998344"
+  }
+}

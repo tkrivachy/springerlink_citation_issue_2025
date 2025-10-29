@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.848304",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03495-2",
+    "title": "RETRACTED ARTICLE: Performance of\n            graphene-zinc oxide nanocomposite coated-glassy carbon electrode in the sensitive\n            determination of para-nitrophenol",
+    "article_number": "117",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Riyaz Ahmad Dar",
+      "Gowhar Ahmad Naikoo",
+      "Ashwini Kumar Srivastava",
+      "Israr Ul Hassan",
+      "Shashi P. Karna",
+      "Lily Giri",
+      "Ahamad M. H. Shaikh",
+      "Mashallah Rezakazemi",
+      "Waqar Ahmed"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:23:35.463769"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T15:23:37.056651"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T15:23:38.227125"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:57:14.128182"
+    },
+    "last_updated": "2025-10-03T21:57:14.128411"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.643173",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10178-0",
+    "title": "Uganda’s increasing dependence on development partner’s support for immunization – a five year resource tracking study (2012 – 2016)",
+    "article_number": "160",
+    "publication_date": "2021-01-19",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Carol Kamya",
+      "Christabel Abewe",
+      "Peter Waiswa",
+      "Gilbert Asiimwe",
+      "Faith Namugaya",
+      "Charles Opio",
+      "Immaculate Ampeire",
+      "Stephen Lagony",
+      "Charlotte Muheki"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:43:49.738061"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:43:51.283147"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:43:52.594794"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:18:47.220062"
+    },
+    "last_updated": "2025-10-03T21:18:47.220123"
+  }
+}

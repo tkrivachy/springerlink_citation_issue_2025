@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.545728",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55530-1",
+    "title": "Compressible, anti-fatigue, extreme environment adaptable, and biocompatible supramolecular organohydrogel enabled by lignosulfonate triggered noncovalent network",
+    "article_number": "160",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yihui Gu",
+      "Chao Xu",
+      "Yilin Wang",
+      "Jing Luo",
+      "Dongsheng Shi",
+      "Wenjuan Wu",
+      "Lu Chen",
+      "Yongcan Jin",
+      "Bo Jiang",
+      "Chaoji Chen"
+    ]
+  },
+  "article_index": 237,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:16:28.837002"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:16:30.394635"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:16:31.592136"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:19:40.377526"
+    },
+    "last_updated": "2025-10-03T23:19:40.377628"
+  }
+}

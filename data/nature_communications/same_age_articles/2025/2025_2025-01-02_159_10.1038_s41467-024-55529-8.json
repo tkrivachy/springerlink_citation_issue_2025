@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535007",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55529-8",
+    "title": "Hypoxia-tolerant polymeric photosensitizer prodrug for cancer photo-immunotherapy",
+    "article_number": "153",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jie Yu",
+      "Jiayan Wu",
+      "Jingsheng Huang",
+      "Cheng Xu",
+      "Mengke Xu",
+      "Clarence Zhi Han Koh",
+      "Kanyi Pu",
+      "Yan Zhang"
+    ]
+  },
+  "article_index": 159,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:21:32.259314"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:21:33.776076"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:21:34.950132"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T23:21:21.429612"
+    },
+    "last_updated": "2025-10-03T23:21:21.429687"
+  }
+}

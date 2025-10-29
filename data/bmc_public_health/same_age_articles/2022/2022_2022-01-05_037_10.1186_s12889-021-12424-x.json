@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.589921",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12424-x",
+    "title": "Background predictors of time to death in infancy: evidence from a survival analysis of the 2018 Nigeria DHS data",
+    "article_number": "15",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Michael Kunnuji",
+      "Idongesit Eshiet",
+      "Bright Opoku Ahinkorah",
+      "Temitope Omogbemi",
+      "Sanni Yaya"
+    ]
+  },
+  "article_index": 37,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:07:09.636761"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:07:11.188616"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:07:12.455393"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:27:05.359236"
+    },
+    "last_updated": "2025-10-03T21:27:05.359469"
+  }
+}

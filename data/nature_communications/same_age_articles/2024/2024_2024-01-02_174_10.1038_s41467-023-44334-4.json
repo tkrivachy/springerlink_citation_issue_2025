@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.692869",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44334-4",
+    "title": "Chronic oxytocin administration stimulates the oxytocinergic system in children with autism",
+    "article_number": "58",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Matthijs Moerkerke",
+      "Nicky Daniels",
+      "Laura Tibermont",
+      "Tiffany Tang",
+      "Margaux Evenepoel",
+      "Stephanie Van der Donck",
+      "Edward Debbaut",
+      "Jellina Prinsen",
+      "Viktoria Chubar",
+      "Stephan Claes",
+      "Bart Vanaudenaerde",
+      "Lynn Willems",
+      "Jean Steyaert",
+      "Bart Boets",
+      "Kaat Alaerts"
+    ]
+  },
+  "article_index": 174,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:01:38.713473"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:01:40.271762"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:01:41.452307"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T23:14:34.874303"
+    },
+    "last_updated": "2025-10-03T23:14:34.874533"
+  }
+}

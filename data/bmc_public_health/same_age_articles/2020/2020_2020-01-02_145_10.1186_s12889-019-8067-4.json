@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.687282",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8067-4",
+    "title": "Workers’ physical activity data contribute to estimating maximal oxygen consumption: a questionnaire study to concurrently assess workers’ sedentary behavior and cardiorespiratory fitness",
+    "article_number": "22",
+    "publication_date": "2020-01-08",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tomoaki Matsuo",
+      "Rina So",
+      "Masaya Takahashi"
+    ]
+  },
+  "article_index": 145,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:30:32.930240"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T13:30:34.478290"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T13:30:35.767871"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:13:58.258851"
+    },
+    "last_updated": "2025-10-03T21:13:58.259044"
+  }
+}

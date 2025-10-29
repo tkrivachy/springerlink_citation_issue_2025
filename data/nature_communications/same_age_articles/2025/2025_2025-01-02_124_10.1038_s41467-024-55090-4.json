@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.530309",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55090-4",
+    "title": "Intravenous liposomal irinotecan in metastatic triple-negative breast cancer after ≥ 2 prior lines of chemotherapy: a phase Ib study",
+    "article_number": "3",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ying Fan",
+      "Qingyuan Zhang",
+      "Min Yan",
+      "Xiujuan Qu",
+      "Yongmei Yin",
+      "Tao Sun",
+      "Jin Yang",
+      "Ying Wang",
+      "Xu Wang",
+      "Zhaofeng Niu",
+      "Xinshuai Wang",
+      "Sanyuan Sun",
+      "Weihong Zhao",
+      "Yanping Liu",
+      "Miao Niu",
+      "Xuemin Zhao",
+      "Binghe Xu"
+    ]
+  },
+  "article_index": 124,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:47:06.260234"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:47:07.815860"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:47:09.037691"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:30:04.959552"
+    },
+    "last_updated": "2025-10-03T23:30:04.959639"
+  }
+}

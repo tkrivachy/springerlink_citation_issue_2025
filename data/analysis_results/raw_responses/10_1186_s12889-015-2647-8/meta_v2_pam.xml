@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-015-2647-8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1186/s12889-015-2647-8</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Five years after the accident, whiplash casualties still have poorer quality of life in the physical domain than other mildly injured casualties: analysis of the ESPARR cohort</dc:title>
+            
+	    
+            <dc:creator>Tournier, Charlène</dc:creator>
+            
+	    
+            <dc:creator>Hours, Martine</dc:creator>
+            
+	    
+            <dc:creator>Charnay, Pierrette</dc:creator>
+            
+	    
+            <dc:creator>Chossegros, Laetitia</dc:creator>
+            
+	    
+            <dc:creator>Tardy, Hélène</dc:creator>
+            
+	    
+            <ns3:publicationName>BMC Public Health</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>1471-2458</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1186/s12889-015-2647-8</ns3:doi>
+            
+	    
+            <dc:publisher>BioMed Central</dc:publisher>
+            
+	    
+            <dc:publisher>BioMed Central</dc:publisher>
+            
+	    
+            <ns3:coverDate>2015-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2016-01-05</ns3:publicationDate>
+            
+	    
+            <ns3:volume>16</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>13</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1186/s12889-015-2647-8</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.biomedcentral.com/openurl?doi=10.1186/s12889-015-2647-8</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/s12889-015-2647-8</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Research article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2016 Tournier et al.</ns3:copyright>
+            
+	    
+            <ns3:keyword>Whiplash</ns3:keyword>
+            
+	    
+            <ns3:keyword>Quality of life</ns3:keyword>
+            
+	    
+            <ns3:keyword>Comparison</ns3:keyword>
+            
+	    
+            <ns3:keyword>ESPARR Cohort</ns3:keyword>
+            
+	    
+            <ns3:keyword>Prospective study</ns3:keyword>
+            
+	    
+            <ns3:keyword>5 year follow-up</ns3:keyword>
+            
+	    
+            <ns3:keyword>Mild injury</ns3:keyword>
+            
+	    
+            <ns3:keyword>Road-accident injury</ns3:keyword>
+            
+	    
+            <dc:subject>Medicine &amp; Public Health</dc:subject>
+            
+	    
+            <dc:subject>Public Health</dc:subject>
+            
+	    
+            <dc:subject>Medicine/Public Health, general</dc:subject>
+            
+	    
+            <dc:subject>Epidemiology</dc:subject>
+            
+	    
+            <dc:subject>Environmental Health</dc:subject>
+            
+	    
+            <dc:subject>Biostatistics</dc:subject>
+            
+	    
+            <dc:subject>Vaccine</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>Background</html:p>
+            <html:p>This study aims to compare health status and quality of life five years after a road accident between casualties with whiplash versus other mild injuries, to compare evolution of quality of life at 1 and 5 years after the accident, and to explore the relation between initial injury (whiplash vs. other) and quality of life.</html:p>
+            <html:p>Methods</html:p>
+            <html:p>The study used data from the ESPARR cohort (a representative cohort of road accident casualties) and included 167 casualties with “pure” whiplash and a population of 185 casualties with other mild injuries (MAIS-1). All subjects with lesions classified as cervical contusion (AIS code 310402) or neck sprain (AIS code 640278) were considered as whiplash casualties. Diagnosis was made by physicians, at the outset of hospital care, based on interview, clinical findings and X-ray. Whiplash injuries were then classified following the Quebec classification (grades 1 and 2). Quality of life was assessed on the WHOQoL-Bref questionnaire. Correlations between explanatory variables and quality of life were explored by Poisson regression and variance analysis.</html:p>
+            <html:p>Results</html:p>
+            <html:p>Between 1 and 5 years, global QoL improved for both whiplash and non-whiplash casualties; but, considering the two whiplash groups separately, improvement in grade 2 was much less than in grade 1. At 5 years, grade-2 whiplash casualties were more dissatisfied with their health (39.4 %; p  &lt; 0.05) than non-whiplash (24.3 %) or grade-1 whiplash casualties (27.0 %). Deteriorated quality of life in the mental, social and environmental domains was mainly related to psychological and socioeconomic factors for both whiplash and other mildly injured road-accident casualties. While PTSD was a major factor for the physical domain, whiplash remained a predictive factor after adjustment on PTSD; unsatisfactory health at 5 years, with deteriorated quality of life in the physical domain, was observed specifically in the whiplash group, pain playing a predominant intermediate role.</html:p>
+            <html:p>Conclusions</html:p>
+            <html:p>Deteriorated quality of life in the physical domain remained 5 years after the accident, specifically in the grade-2 whiplash group, pain playing a predominant intermediate role, which may be in line with the hypothesis of neuropathic pain.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>12889</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection>Global Health</topicalCollection>
+        <openAccess>true</openAccess>
+        <onlineDate>2016-01-05</onlineDate>
+        <authors>
+          <author>Tournier, Charlène</author>
+          <author>Hours, Martine</author>
+          <author>Charnay, Pierrette</author>
+          <author>Chossegros, Laetitia</author>
+          <author>Tardy, Hélène</author>
+        </authors>
+        <disciplines>
+          <discipline id="2977" term="Public Health"/>
+          <discipline id="4140" term="Epidemiology"/>
+          <discipline id="4264" term="Environmental Health"/>
+          <discipline id="5065" term="Biostatistics"/>
+          <discipline id="3357" term="Pharmacology"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">5 year follow-up</facet-value>
+      <facet-value count="1">Comparison</facet-value>
+      <facet-value count="1">ESPARR Cohort</facet-value>
+      <facet-value count="1">Mild injury</facet-value>
+      <facet-value count="1">Prospective study</facet-value>
+      <facet-value count="1">Quality of life</facet-value>
+      <facet-value count="1">Road-accident injury</facet-value>
+      <facet-value count="1">Whiplash</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2016</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">France</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

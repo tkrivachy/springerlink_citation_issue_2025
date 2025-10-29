@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606154",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02372-9",
+    "title": "Publisher Correction: Hierarchical self-entangled carbon nanotube tube networks",
+    "article_number": "107",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Fabian Schütt",
+      "Stefano Signetti",
+      "Helge Krüger",
+      "Sarah Röder",
+      "Daria Smazna",
+      "Sören Kaps",
+      "Stanislav N. Gorb",
+      "Yogendra Kumar Mishra",
+      "Nicola M. Pugno",
+      "Rainer Adelung"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:32.142302",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T11:44:01.578928"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:07:00.958197"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:07:02.274612"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:35:32.142165"
+    }
+  }
+}

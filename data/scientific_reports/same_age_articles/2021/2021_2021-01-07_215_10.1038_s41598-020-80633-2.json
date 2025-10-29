@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.240952",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80633-2",
+    "title": "Potential use of molecular and structural characterization of the gut bacterial community for postmortem interval estimation in Sprague Dawley rats",
+    "article_number": "225",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Huan Li",
+      "Siruo Zhang",
+      "Ruina Liu",
+      "Lu Yuan",
+      "Di Wu",
+      "E. Yang",
+      "Han Yang",
+      "Shakir Ullah",
+      "Hafiz Muhammad Ishaq",
+      "Hailong Liu",
+      "Zhenyuan Wang",
+      "Jiru Xu"
+    ]
+  },
+  "article_index": 215,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:34:53.057710"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:34:54.625432"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:34:55.820287"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:37:22.900810"
+    },
+    "last_updated": "2025-10-03T21:37:22.900907"
+  }
+}

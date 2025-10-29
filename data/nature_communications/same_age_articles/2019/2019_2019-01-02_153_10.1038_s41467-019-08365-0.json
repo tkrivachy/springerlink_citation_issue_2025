@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.693830",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08365-0",
+    "title": "Runx/Cbfβ complexes protect group 2 innate lymphoid cells from exhausted-like hyporesponsiveness during allergic airway inflammation",
+    "article_number": "447",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chizuko Miyamoto",
+      "Satoshi Kojo",
+      "Motoi Yamashita",
+      "Kazuyo Moro",
+      "Georges Lacaud",
+      "Katsuyuki Shiroguchi",
+      "Ichiro Taniuchi",
+      "Takashi Ebihara"
+    ]
+  },
+  "article_index": 153,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T17:15:03.621199"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:15:05.184292"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T17:15:06.466841"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T22:38:28.680928"
+    },
+    "last_updated": "2025-10-03T22:38:28.681130"
+  }
+}

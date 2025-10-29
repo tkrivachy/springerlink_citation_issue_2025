@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.200831",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20283-0",
+    "title": "Functional THz emitters based on Pancharatnam-Berry phase nonlinear metasurfaces",
+    "article_number": "30",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cormac McDonnell",
+      "Junhong Deng",
+      "Symeon Sideris",
+      "Tal Ellenbogen",
+      "Guixin Li"
+    ]
+  },
+  "article_index": 168,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T18:37:40.067527"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T18:37:41.600030"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T18:37:42.775863"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T23:06:29.632275"
+    },
+    "last_updated": "2025-10-03T23:06:29.632505"
+  }
+}

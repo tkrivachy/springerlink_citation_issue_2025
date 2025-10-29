@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.823690",
+  "year": 2011,
+  "article_type": "article_1",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-1",
+    "title": "The development of instruments to measure the work disability assessment behaviour of insurance physicians",
+    "article_number": "1",
+    "publication_date": "2011-01-03",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Romy Steenbeek",
+      "Antonius JM Schellart",
+      "Henny Mulders",
+      "Johannes R Anema",
+      "Herman Kroneman",
+      "Jan Besseling"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 334,
+      "retrieved_at": "2025-10-03T12:41:56.293539"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 318,
+      "retrieved_at": "2025-10-03T12:41:57.842309"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 576,
+      "retrieved_at": "2025-10-03T12:41:59.707003"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 526,
+      "retrieved_at": "2025-10-03T20:56:14.307880"
+    },
+    "last_updated": "2025-10-03T20:56:14.308073"
+  }
+}

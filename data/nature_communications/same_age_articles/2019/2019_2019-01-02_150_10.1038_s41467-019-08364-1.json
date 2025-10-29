@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.693525",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08364-1",
+    "title": "Light- and bias-induced structural variations in metal halide perovskites",
+    "article_number": "444",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dohyung Kim",
+      "Jae Sung Yun",
+      "Pankaj Sharma",
+      "Da Seul Lee",
+      "Jincheol Kim",
+      "Arman M. Soufiani",
+      "Shujuan Huang",
+      "Martin A. Green",
+      "Anita W. Y. Ho-Baillie",
+      "Jan Seidel"
+    ]
+  },
+  "article_index": 150,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:24:21.417681"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T17:24:22.921791"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T17:24:24.062703"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T22:41:32.296784"
+    },
+    "last_updated": "2025-10-03T22:41:32.296885"
+  }
+}

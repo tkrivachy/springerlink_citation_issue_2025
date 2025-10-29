@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244587",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80642-1",
+    "title": "Particulate matter emission sources and meteorological parameters combine to shape the airborne bacteria communities in the Ligurian coast, Italy",
+    "article_number": "175",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Giorgia Palladino",
+      "Pietro Morozzi",
+      "Elena Biagi",
+      "Erika Brattich",
+      "Silvia Turroni",
+      "Simone Rampelli",
+      "Laura Tositti",
+      "Marco Candela"
+    ]
+  },
+  "article_index": 224,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:47:57.583092"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:47:59.153256"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:48:00.462294"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:42:40.688914"
+    },
+    "last_updated": "2025-10-03T21:42:40.689013"
+  }
+}

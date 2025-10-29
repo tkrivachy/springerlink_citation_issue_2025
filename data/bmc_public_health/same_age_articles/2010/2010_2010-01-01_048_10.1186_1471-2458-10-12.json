@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.532623",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-12",
+    "title": "Diabetes mellitus and hypertension have comparable adverse effects on health-related quality of life",
+    "article_number": "12",
+    "publication_date": "2010-01-13",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tamara Poljičanin",
+      "Dea Ajduković",
+      "Mario Šekerija",
+      "Mirjana Pibernik-Okanović",
+      "Željko Metelko",
+      "Gorka Vuletić Mavrinac"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T12:38:25.667561"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:38:27.212156"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:38:28.546012"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T20:55:06.460825"
+    },
+    "last_updated": "2025-10-03T20:55:06.461018"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.688472",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08306-x",
+    "title": "Bisnorgammacerane traces predatory pressure and the persistent rise of algal ecosystems after Snowball Earth",
+    "article_number": "476",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lennart M. van Maldegem",
+      "Pierre Sansjofre",
+      "Johan W. H. Weijers",
+      "Klaus Wolkenstein",
+      "Paul K. Strother",
+      "Lars Wörmer",
+      "Jens Hefter",
+      "Benjamin J. Nettersheim",
+      "Yosuke Hoshino",
+      "Stefan Schouten",
+      "Jaap S. Sinninghe Damsté",
+      "Nilamoni Nath",
+      "Christian Griesinger",
+      "Nikolay B. Kuznetsov",
+      "Marcel Elie",
+      "Marcus Elvert",
+      "Erik Tegelaar",
+      "Gerd Gleixner",
+      "Christian Hallmann"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:03:34.132970"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:03:35.654643"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:03:36.837360"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T22:55:04.808960"
+    },
+    "last_updated": "2025-10-03T22:55:04.809158"
+  }
+}

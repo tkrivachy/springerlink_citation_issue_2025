@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.879337",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04367-5",
+    "title": "Analysis of postures for handwriting on touch screens without using tools",
+    "article_number": "296",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sara Marullo",
+      "Maria Pozzi",
+      "Monica Malvezzi",
+      "Domenico Prattichizzo"
+    ]
+  },
+  "article_index": 208,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:21:51.630252"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:21:53.370766"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:21:54.545267"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:56:34.936842"
+    },
+    "last_updated": "2025-10-03T21:56:34.937032"
+  }
+}

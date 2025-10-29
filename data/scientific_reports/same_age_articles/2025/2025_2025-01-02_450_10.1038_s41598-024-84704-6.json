@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.398261",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84704-6",
+    "title": "Protective effect of compound K against podocyte injury in chronic kidney disease by maintaining mitochondrial homeostasis",
+    "article_number": "435",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fugang Huang",
+      "Shuo Huang",
+      "Ke Sun",
+      "Yanhao Chen",
+      "Guanqun Xie",
+      "Jie Bao",
+      "Yongsheng Fan"
+    ]
+  },
+  "article_index": 450,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T17:00:40.053435"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:00:41.613431"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:00:42.835894"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:33:06.131544"
+    },
+    "last_updated": "2025-10-03T22:33:06.131735"
+  }
+}

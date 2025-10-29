@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.758961",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-25",
+    "title": "Rationale and study design of the Japan environment and children’s study (JECS)",
+    "article_number": "25",
+    "publication_date": "2014-01-10",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Toshihiro Kawamoto",
+      "Hiroshi Nitta",
+      "Katsuyuki Murata",
+      "Eisaku Toda",
+      "Naoya Tsukamoto",
+      "Manabu Hasegawa",
+      "Zentaro Yamagata",
+      "Fujio Kayama",
+      "Reiko Kishi",
+      "Yukihiro Ohya",
+      "Hirohisa Saito",
+      "Haruhiko Sago",
+      "Makiko Okuyama",
+      "Tsutomu Ogata",
+      "Susumu Yokoya",
+      "Yuji Koresawa",
+      "Yasuyuki Shibata",
+      "Shoji Nakayama",
+      "Takehiro Michikawa",
+      "Ayano Takeuchi",
+      "Hiroshi Satoh"
+    ]
+  },
+  "article_index": 129,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 705,
+      "retrieved_at": "2025-10-03T13:07:20.795532"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 697,
+      "retrieved_at": "2025-10-03T13:07:22.319786"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 654,
+      "retrieved_at": "2025-10-03T13:07:24.564501"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 744,
+      "retrieved_at": "2025-10-03T21:05:32.643909"
+    },
+    "last_updated": "2025-10-03T21:05:32.643957"
+  }
+}

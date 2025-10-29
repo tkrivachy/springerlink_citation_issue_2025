@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.398580",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84030-x",
+    "title": "Red blood cell parameters as biomarkers of retinopathy of prematurity in preterm infants born before 30 weeks of gestation",
+    "article_number": "264",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hajime Maeda",
+      "Hayato Go",
+      "Hajime Iwasa",
+      "Shun Hiruta",
+      "Hirotaka Ichikawa",
+      "Yukinori Sugano",
+      "Kei Ogasawara",
+      "Nobuo Momoi",
+      "Tetsuju Sekiryu",
+      "Mitsuaki Hosoya"
+    ]
+  },
+  "article_index": 453,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:05:57.355009"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:05:58.916158"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:45.596663"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:13:49.732517"
+    },
+    "last_updated": "2025-10-07T09:46:45.596872"
+  }
+}

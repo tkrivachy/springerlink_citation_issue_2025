@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.342027",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84824-z",
+    "title": "Factor associated with and risk of cardiovascular disease in people with uncontrolled hypertension",
+    "article_number": "375",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sara Ringwald-de Meyer",
+      "Roxane de La Harpe",
+      "Peter Vollenweider",
+      "Pedro Marques-Vidal",
+      "Julien Vaucher"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:11:53.618111"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:11:55.314585"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:07.905653"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:16:02.739713"
+    },
+    "last_updated": "2025-10-07T09:48:07.905869"
+  }
+}

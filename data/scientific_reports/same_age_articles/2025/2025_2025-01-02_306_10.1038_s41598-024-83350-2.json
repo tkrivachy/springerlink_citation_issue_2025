@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.381603",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83350-2",
+    "title": "Method for long-term room temperature storage of mouse freeze-dried sperm",
+    "article_number": "303",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuko Kamada",
+      "Kango Yamaji",
+      "Natsuki Ushigome",
+      "Daiyu Ito",
+      "Sayaka Wakayama",
+      "Kenichiro Hiraoka",
+      "Masaru Hayashi",
+      "Kiyotaka Kawai",
+      "Teruhiko Wakayama"
+    ]
+  },
+  "article_index": 306,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:09:21.682742"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:09:23.215348"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:28.593386"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:15:05.367721"
+    },
+    "last_updated": "2025-10-07T09:47:28.593613"
+  }
+}

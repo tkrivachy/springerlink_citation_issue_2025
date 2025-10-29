@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.834768",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50700-5",
+    "title": "Allele-specific effect of various dietary fatty acids and ETS1 transcription factor on SCD1 expression",
+    "article_number": "177",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kinga Tibori",
+      "Veronika Zámbó",
+      "Gabriella Orosz",
+      "Péter Szelényi",
+      "Farkas Sarnyai",
+      "Viola Tamási",
+      "Zsolt Rónai",
+      "Miklós Csala",
+      "Éva Kereszturi"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:48:24.760951"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:48:26.271418"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:48:27.472457"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:07:16.225245"
+    },
+    "last_updated": "2025-10-03T22:07:16.225292"
+  }
+}

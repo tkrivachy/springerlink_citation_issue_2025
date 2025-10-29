@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-12-11</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/1471-2458-12-11</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection">
+              <subject>Infectious Disease epidemiology</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Progress towards implementation of ACT malaria case-management in public health facilities in the Republic of Sudan: a cluster-sample survey</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Abdelgader</surname>
+                <given-names>Tarig M</given-names>
+              </name>
+              <address>
+                <email>tarigmohamad@hotmail.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Ibrahim</surname>
+                <given-names>Abdalla M</given-names>
+              </name>
+              <address>
+                <email>abdalla.ibrahim21@yahoo.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Elmardi</surname>
+                <given-names>Khalid A</given-names>
+              </name>
+              <address>
+                <email>khalidmrd9@hotmail.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Githinji</surname>
+                <given-names>Sophie</given-names>
+              </name>
+              <address>
+                <email>sgithinji@nairobi.kemri-wellcome.org</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Zurovac</surname>
+                <given-names>Dejan</given-names>
+              </name>
+              <address>
+                <email>dzurovac@nairobi.kemri-wellcome.org</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Snow</surname>
+                <given-names>Robert W</given-names>
+              </name>
+              <address>
+                <email>rsnow@nairobi.kemri-wellcome.org</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Noor</surname>
+                <given-names>Abdisalan M</given-names>
+              </name>
+              <address>
+                <email>anoor@nairobi.kemri-wellcome.org</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>6</day>
+            <month>1</month>
+            <year>2012</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2012</year>
+          </pub-date>
+          <volume>12</volume>
+          <issue>1</issue>
+          <elocation-id>11</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-12-11</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-12-11</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© Abdelgader et al; licensee BioMed Central Ltd. 2011</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>Effective malaria case-management based on artemisinin-based combination therapy (ACT) and parasitological diagnosis is a major pillar within the 2007-2012 National Malaria Strategic Plan in the Sudan. Three years after the launch of the strategy a health facility survey was undertaken to evaluate case-management practices and readiness of the health facilities and health workers to implement a new malaria case-management strategy.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>A cross-sectional, cluster sample survey was undertaken at public health facilities in 15 states of Sudan. Data were collected using quality-of-care assessment methods. The main outcomes were the proportions of facilities with ACTs and malaria diagnostics; proportions of health workers exposed to malaria related health systems support activities; and composite and individual indicators of case-management practices for febrile outpatients stratified by age, availability of ACTs and diagnostics, use of malaria diagnostics, and test result.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>We evaluated 244 facilities, 294 health workers and 1,643 consultations for febrile outpatients (425 &lt; 5 years and 1,218 ≥ 5 years). Health facility and health worker readiness was variable: chloroquine was available at only 5% of facilities, 73% stocked recommended artesunate and sulfadoxine/pyrimethamine (AS+SP), 51% had the capacity to perform parasitological diagnosis, 53% of health workers had received in-service training on ACTs, 24% were trained in the use of malaria Rapid Diagnostic Tests, and 19% had received a supervisory visit including malaria case-management. At all health facilities 46% of febrile patients were parasitologically tested and 35% of patients were both, tested and treated according to test result. At facilities where AS+SP and malaria diagnostics were available 66% of febrile patients were tested and 51% were both, tested and treated according to test result. Among test positive patients 64% were treated with AS+SP but 24% were treated with artemether monotherapy. Among test negative patients only 17% of patients were treated for malaria. The majority of ACT dispensing and counseling practices were suboptimal.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusions</title>
+              <p>Five years following change of the policy from chloroquine to ACTs and 3 years before the end of the new malaria strategic plan chloroquine was successfully phased out from public facilities in Sudan, however, an important gap remained in the availability of ACTs, diagnostic capacities and coverage with malaria case-management activities. The national scale-up of diagnostics, using the findings of this survey as well as future qualitative research, should present an opportunity not only to expand existing testing capacities but also to implement effective support interventions to bridge the health systems gaps and support corrective case-management measures, including the discontinuation of artemether monotherapy treatment.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Malaria</kwd>
+            <kwd>Health Worker</kwd>
+            <kwd>Artemether</kwd>
+            <kwd>Febrile Patient</kwd>
+            <kwd>Malaria Microscopy</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

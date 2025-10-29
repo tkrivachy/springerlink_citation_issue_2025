@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.711294",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08258-8",
+    "title": "Coupled ocean-atmosphere dynamics of the 2017 extreme coastal El Niño",
+    "article_number": "298",
+    "publication_date": "2019-01-17",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qihua Peng",
+      "Shang-Ping Xie",
+      "Dongxiao Wang",
+      "Xiao-Tong Zheng",
+      "Hong Zhang"
+    ]
+  },
+  "article_index": 310,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T17:56:57.669577"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:56:59.181407"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:57:00.543609"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T22:52:55.315667"
+    },
+    "last_updated": "2025-10-03T22:52:55.315752"
+  }
+}

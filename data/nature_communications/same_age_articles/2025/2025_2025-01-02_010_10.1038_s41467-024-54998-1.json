@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.511373",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54998-1",
+    "title": "Transition metal vacancy and position engineering enables reversible anionic redox reaction for sodium storage",
+    "article_number": "100",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Congcong Cai",
+      "Xinyuan Li",
+      "Jiantao Li",
+      "Ruohan Yu",
+      "Ping Hu",
+      "Ting Zhu",
+      "Tianyi Li",
+      "Sungsik Lee",
+      "Nuo Xu",
+      "Hao Fan",
+      "Jinsong Wu",
+      "Liang Zhou",
+      "Liqiang Mai",
+      "Khalil Amine"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:44:46.213990"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:44:47.768487"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:44:48.943982"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:29:16.659184"
+    },
+    "last_updated": "2025-10-03T23:29:16.659416"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:33.999546",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-6",
+    "title": "Suicide mortality trends by sex, age and method in Taiwan, 1971–2005",
+    "article_number": "6",
+    "publication_date": "2008-01-08",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jin-Jia Lin",
+      "Tsung-Hsueh Lu"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:32:16.769376"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T12:32:18.313213"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T12:32:19.481480"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T20:52:50.207192"
+    },
+    "last_updated": "2025-10-03T20:52:50.207419"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303462",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56146-y",
+    "title": "Long-term epilepsy-associated tumors: transcriptional signatures reflect clinical course",
+    "article_number": "96",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Daniel Delev",
+      "Karam Daka",
+      "Sabrina Heynckes",
+      "Annette Gaebelein",
+      "Pamela Franco",
+      "Dietmar Pfeifer",
+      "Marco Prinz",
+      "Oliver Schnell",
+      "Horst Urbach",
+      "Irina Mader",
+      "Jürgen Beck",
+      "Alexander Grote",
+      "Albert J. Becker",
+      "Dieter Henrik Heiland"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:23:09.132277"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:23:10.642789"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:23:11.900274"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:32:33.498548"
+    },
+    "last_updated": "2025-10-03T21:32:33.498786"
+  }
+}

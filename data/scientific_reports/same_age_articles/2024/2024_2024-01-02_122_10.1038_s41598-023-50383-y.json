@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.839343",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50383-y",
+    "title": "Changes in the equine facial repertoire during different orthopedic pain intensities",
+    "article_number": "129",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Katrina Ask",
+      "Marie Rhodin",
+      "Maheen Rashid-Engström",
+      "Elin Hernlund",
+      "Pia Haubro Andersen"
+    ]
+  },
+  "article_index": 122,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:37:32.095714"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:37:33.634789"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:37:34.801406"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T22:02:54.070565"
+    },
+    "last_updated": "2025-10-03T22:02:54.070642"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.632361",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10234-9",
+    "title": "Spatial variation in lymphatic filariasis risk factors of hotspot zones in Ghana",
+    "article_number": "230",
+    "publication_date": "2021-01-28",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Efiba Vidda Senkyire Kwarteng",
+      "Samuel Ato Andam-Akorful",
+      "Alexander Kwarteng",
+      "Da-Costa Boakye Asare",
+      "Jonathan Arthur Quaye-Ballard",
+      "Frank Badu Osei",
+      "Alfred Allan Duker"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:52:39.540525"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:52:41.051638"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:52:42.319364"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:21:53.823244"
+    },
+    "last_updated": "2025-10-03T21:21:53.823291"
+  }
+}

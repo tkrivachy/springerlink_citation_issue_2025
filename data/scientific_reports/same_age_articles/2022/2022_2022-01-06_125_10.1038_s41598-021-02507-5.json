@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.870309",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-02507-5",
+    "title": "Simple and rapid detection of common fetal aneuploidies using peptide nucleic acid probe-based real-time polymerase chain reaction",
+    "article_number": "150",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Subeen Hong",
+      "Seung Mi Lee",
+      "Sohee Oh",
+      "So Yeon Kim",
+      "Young Mi Jung",
+      "Sun Min Kim",
+      "Chan-Wook Park",
+      "Jong Kwan Jun",
+      "Byoung Jae Kim",
+      "Joong Shin Park"
+    ]
+  },
+  "article_index": 125,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:59:20.200138"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:59:21.714223"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:59:22.889594"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:47:06.788027"
+    },
+    "last_updated": "2025-10-03T21:47:06.788217"
+  }
+}

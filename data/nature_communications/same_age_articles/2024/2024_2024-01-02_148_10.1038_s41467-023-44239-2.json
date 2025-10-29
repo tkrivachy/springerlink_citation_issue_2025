@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.684242",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44239-2",
+    "title": "Mutant p53 gains oncogenic functions through a chromosomal instability-induced cytosolic DNA response",
+    "article_number": "180",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mei Zhao",
+      "Tianxiao Wang",
+      "Frederico O. Gleber-Netto",
+      "Zhen Chen",
+      "Daniel J. McGrail",
+      "Javier A. Gomez",
+      "Wutong Ju",
+      "Mayur A. Gadhikar",
+      "Wencai Ma",
+      "Li Shen",
+      "Qi Wang",
+      "Ximing Tang",
+      "Sen Pathak",
+      "Maria Gabriela Raso",
+      "Jared K. Burks",
+      "Shiaw-Yih Lin",
+      "Jing Wang",
+      "Asha S. Multani",
+      "Curtis R. Pickering",
+      "Junjie Chen",
+      "Jeffrey N. Myers",
+      "Ge Zhou"
+    ]
+  },
+  "article_index": 148,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:02:44.273080"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T19:02:45.808719"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:02:46.969088"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T23:14:56.516068"
+    },
+    "last_updated": "2025-10-03T23:14:56.516209"
+  }
+}

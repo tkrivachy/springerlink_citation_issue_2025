@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301899",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56500-0",
+    "title": "γ-AApeptides–based Small Molecule Ligands That Disaggregate Human Islet Amyloid Polypeptide",
+    "article_number": "95",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Olapeju Bolarinwa",
+      "Chunpu Li",
+      "Nawal Khadka",
+      "Qi Li",
+      "Yan Wang",
+      "Jianjun Pan",
+      "Jianfeng Cai"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:24:57.259245"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:24:58.790036"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:25:00.106313"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:33:16.780619"
+    },
+    "last_updated": "2025-10-03T21:33:16.780802"
+  }
+}

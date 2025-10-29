@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.847177",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50544-z",
+    "title": "High isolation 16-port massive MIMO antenna based negative index metamaterial for 5G mm-wave applications",
+    "article_number": "290",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Alya Ali Musaed",
+      "Samir Salem Al-Bawri",
+      "Wazie M. Abdulkawi",
+      "Khaled Aljaloud",
+      "Zubaida Yusoff",
+      "Mohammad Tariqul Islam"
+    ]
+  },
+  "article_index": 197,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:41:33.001682"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:41:34.521900"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:41:35.709173"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T22:04:27.527483"
+    },
+    "last_updated": "2025-10-03T22:04:27.527675"
+  }
+}

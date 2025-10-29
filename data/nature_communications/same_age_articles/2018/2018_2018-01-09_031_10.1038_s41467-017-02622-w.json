@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.608173",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02622-w",
+    "title": "TDRD5 binds piRNA precursors and selectively enhances pachytene piRNA processing in mice",
+    "article_number": "127",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Deqiang Ding",
+      "Jiali Liu",
+      "Uros Midic",
+      "Yingjie Wu",
+      "Kunzhe Dong",
+      "Ashley Melnick",
+      "Keith E. Latham",
+      "Chen Chen"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:01.365773",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T11:43:54.082846"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:05:52.496073"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T17:05:53.830963"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T22:35:01.365583"
+    }
+  }
+}

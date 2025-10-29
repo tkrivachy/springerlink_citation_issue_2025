@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607337",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02635-5",
+    "title": "Weakly perturbative imaging of interfacial water with submolecular resolution by atomic force microscopy",
+    "article_number": "122",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinbo Peng",
+      "Jing Guo",
+      "Prokop Hapala",
+      "Duanyun Cao",
+      "Runze Ma",
+      "Bowei Cheng",
+      "Limei Xu",
+      "Martin Ondráček",
+      "Pavel Jelínek",
+      "Enge Wang",
+      "Ying Jiang"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:34:59.009041",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T11:43:53.430807"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T17:05:47.172183"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 125,
+      "retrieved_at": "2025-10-03T17:05:48.599321"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 131,
+      "retrieved_at": "2025-10-03T22:34:59.008845"
+    }
+  }
+}

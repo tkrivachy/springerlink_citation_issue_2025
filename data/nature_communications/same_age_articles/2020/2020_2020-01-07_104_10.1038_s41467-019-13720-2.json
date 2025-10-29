@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889255",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13720-2",
+    "title": "Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities",
+    "article_number": "64",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wenzhong Wang",
+      "Yinhan Xu",
+      "Daoyuan Sun",
+      "Sidao Ni",
+      "Renata Wentzcovitch",
+      "Zhongqing Wu"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T18:19:06.085031"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:19:07.653835"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:19:08.997677"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T23:00:14.218696"
+    },
+    "last_updated": "2025-10-03T23:00:14.218743"
+  }
+}

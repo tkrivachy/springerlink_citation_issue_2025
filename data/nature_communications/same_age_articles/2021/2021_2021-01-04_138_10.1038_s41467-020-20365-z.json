@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.196382",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20365-z",
+    "title": "Programmable phase-change metasurfaces on waveguides for multimode photonic convolutional neural network",
+    "article_number": "96",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Changming Wu",
+      "Heshan Yu",
+      "Seokhyeong Lee",
+      "Ruoming Peng",
+      "Ichiro Takeuchi",
+      "Mo Li"
+    ]
+  },
+  "article_index": 138,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 297,
+      "retrieved_at": "2025-10-03T18:30:34.547551"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 311,
+      "retrieved_at": "2025-10-03T18:30:36.100755"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 260,
+      "retrieved_at": "2025-10-03T18:30:37.634269"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 360,
+      "retrieved_at": "2025-10-03T23:04:14.877685"
+    },
+    "last_updated": "2025-10-03T23:04:14.877875"
+  }
+}

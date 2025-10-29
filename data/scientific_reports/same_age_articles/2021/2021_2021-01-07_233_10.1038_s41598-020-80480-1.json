@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.245495",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80480-1",
+    "title": "Lead-free relaxor-ferroelectric thin films for energy harvesting from low-grade waste-heat",
+    "article_number": "111",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Amrit P. Sharma",
+      "Makhes K. Behera",
+      "Dhiren K. Pradhan",
+      "Sangram K. Pradhan",
+      "Carl E. Bonner",
+      "Messaoud Bahoura"
+    ]
+  },
+  "article_index": 233,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:40:21.995862"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:40:23.571851"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:40:24.895113"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T21:39:34.869475"
+    },
+    "last_updated": "2025-10-03T21:39:34.869667"
+  }
+}

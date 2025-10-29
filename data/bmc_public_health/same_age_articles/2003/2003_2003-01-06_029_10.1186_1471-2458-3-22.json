@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.852901",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-22",
+    "title": "A retrospective population based trend analysis on hospital admissions for lower respiratory illness among Swedish children from 1987 to 2000",
+    "article_number": "22",
+    "publication_date": "2003-07-11",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ove Björ",
+      "Lennart Bråbäck"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T11:57:33.772042"
+    },
+    "last_updated": "2025-10-03T20:42:21.039368",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T12:03:54.318632"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T12:03:55.613776"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T20:42:21.039157"
+    }
+  }
+}

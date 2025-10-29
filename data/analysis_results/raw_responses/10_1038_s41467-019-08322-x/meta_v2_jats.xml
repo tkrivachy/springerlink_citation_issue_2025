@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-08322-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-019-08322-x</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Publisher Correction</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Publisher Correction: Exocyst dynamics during vesicle tethering and fusion</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9183-9957</contrib-id>
+              <name name-style="western">
+                <surname>Ahmed</surname>
+                <given-names>Syed Mukhtar</given-names>
+              </name>
+              <address>
+                <email>syed.m.ahmed@vanderbilt.edu</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Nishida-Fukuda</surname>
+                <given-names>Hisayo</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Li</surname>
+                <given-names>Yuchong</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>McDonald</surname>
+                <given-names>W. Hayes</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Gradinaru</surname>
+                <given-names>Claudiu C.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Macara</surname>
+                <given-names>Ian G.</given-names>
+              </name>
+              <address>
+                <email>ian.g.macara@vanderbilt.edu</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>15</day>
+            <month>1</month>
+            <year>2019</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2019</year>
+          </pub-date>
+          <volume>10</volume>
+          <issue>1</issue>
+          <elocation-id>326</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-019-08322-x</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-019-08322-x.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2019</copyright-statement>
+          </permissions>
+          <related-article related-article-type="corrected-article" ext-link-type="doi" ns0:href="10.1038/s41467-018-07467-5"/>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>Erratum</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.099119",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-022-14926-8",
+    "title": "Low influenza vaccine uptake by healthcare workers caring for the elderly in South African old age homes and primary healthcare facilities",
+    "article_number": "91",
+    "publication_date": "2023-01-12",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mncengeli Sibanda",
+      "Johanna C. Meyer",
+      "Brian Godman",
+      "Rosemary J. Burnett"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:11:19.587501"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:11:21.116689"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:11:22.374469"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:28:33.170742"
+    },
+    "last_updated": "2025-10-03T21:28:33.170929"
+  }
+}

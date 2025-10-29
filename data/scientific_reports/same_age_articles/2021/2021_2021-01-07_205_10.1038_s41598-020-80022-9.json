@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.236953",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80022-9",
+    "title": "Graphene-based tunable hyperbolic microcavity",
+    "article_number": "74",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Michał Dudek",
+      "Rafał Kowerdziej",
+      "Alessandro Pianelli",
+      "Janusz Parka"
+    ]
+  },
+  "article_index": 205,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:34:03.214924"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T14:34:04.753973"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T14:34:05.942679"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:37:02.350717"
+    },
+    "last_updated": "2025-10-03T21:37:02.350910"
+  }
+}

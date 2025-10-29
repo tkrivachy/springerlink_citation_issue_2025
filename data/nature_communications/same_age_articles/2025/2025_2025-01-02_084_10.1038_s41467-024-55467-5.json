@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.521676",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55467-5",
+    "title": "Structural characterization of two γδ TCR/CD3 complexes",
+    "article_number": "318",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mohammed Hoque",
+      "John Benji Grigg",
+      "Trudy Ramlall",
+      "Jennifer Jones",
+      "Luke L. McGoldrick",
+      "John C. Lin",
+      "William C. Olson",
+      "Eric Smith",
+      "Matthew C. Franklin",
+      "Tong Zhang",
+      "Kei Saotome"
+    ]
+  },
+  "article_index": 84,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:45:01.875758"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:45:03.417546"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:04.605251"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:29:20.340199"
+    },
+    "last_updated": "2025-10-03T23:29:20.340432"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642669",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35776-3",
+    "title": "Auto-accelerated dehydrogenation of alkane assisted by in-situ formed olefins over boron nitride under aerobic conditions",
+    "article_number": "73",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhankai Liu",
+      "Ziyi Liu",
+      "Jie Fan",
+      "Wen-Duo Lu",
+      "Fan Wu",
+      "Bin Gao",
+      "Jian Sheng",
+      "Bin Qiu",
+      "Dongqi Wang",
+      "An-Hui Lu"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:50:34.166582"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:50:35.707123"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:50:36.867073"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T23:10:51.853033"
+    },
+    "last_updated": "2025-10-03T23:10:51.853222"
+  }
+}

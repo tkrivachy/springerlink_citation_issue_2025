@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.255567",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-014-1334-5",
+    "title": "A novel quantitative body shape score for detecting association between obesity and hypertension in China",
+    "article_number": "7",
+    "publication_date": "2015-01-17",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Shukang Wang",
+      "Yanxun Liu",
+      "Fangyu Li",
+      "Hongying Jia",
+      "Longjian Liu",
+      "Fuzhong Xue"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T13:13:55.084690"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T13:13:56.653836"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T13:13:57.934281"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T21:08:02.975127"
+    },
+    "last_updated": "2025-10-03T21:08:02.975174"
+  }
+}

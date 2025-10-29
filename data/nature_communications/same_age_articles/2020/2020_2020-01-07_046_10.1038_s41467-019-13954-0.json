@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.881907",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13954-0",
+    "title": "Two dominant boreal conifers use contrasting mechanisms to reactivate photosynthesis in the spring",
+    "article_number": "128",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qi Yang",
+      "Nicolás E. Blanco",
+      "Carmen Hermida-Carrera",
+      "Nóra Lehotai",
+      "Vaughan Hurry",
+      "Åsa Strand"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:10:37.174139"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T18:10:38.725035"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T18:10:40.112091"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T22:57:21.658424"
+    },
+    "last_updated": "2025-10-03T22:57:21.658863"
+  }
+}

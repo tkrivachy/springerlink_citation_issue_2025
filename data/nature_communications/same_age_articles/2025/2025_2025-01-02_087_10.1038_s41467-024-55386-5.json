@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.522027",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55386-5",
+    "title": "Reversible multivalent carrier redox exceeding intercalation capacity boundary",
+    "article_number": "343",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuanhe Sun",
+      "Rui Qi",
+      "Qi Lei",
+      "Wei Zhang",
+      "Haitao Li",
+      "Mengru Lin",
+      "Hao Shi",
+      "Jianrong Zeng",
+      "Wen Wen",
+      "Yi Gao",
+      "Xiaolong Li",
+      "Chunyi Zhi",
+      "Daming Zhu"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:29:22.829104"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:29:24.402934"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:29:25.569439"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:23:50.539843"
+    },
+    "last_updated": "2025-10-03T23:23:50.540032"
+  }
+}

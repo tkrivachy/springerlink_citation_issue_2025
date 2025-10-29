@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.719386",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07975-4",
+    "title": "Achieving three-dimensional lithium sulfide growth in lithium-sulfur batteries using high-donor-number anions",
+    "article_number": "188",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hyunwon Chu",
+      "Hyungjun Noh",
+      "Yun-Jung Kim",
+      "Seongmin Yuk",
+      "Ju-Hyuk Lee",
+      "Jinhong Lee",
+      "Hobeom Kwack",
+      "YunKyoung Kim",
+      "Doo-Kyung Yang",
+      "Hee-Tak Kim"
+    ]
+  },
+  "article_index": 386,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 249,
+      "retrieved_at": "2025-10-03T17:42:54.117344"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 302,
+      "retrieved_at": "2025-10-03T17:42:55.656746"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 267,
+      "retrieved_at": "2025-10-03T17:42:56.840059"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 315,
+      "retrieved_at": "2025-10-03T22:47:56.430487"
+    },
+    "last_updated": "2025-10-03T22:47:56.430535"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.230343",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80360-8",
+    "title": "Ion tracks in silicon formed by much lower energy deposition than the track formation threshold",
+    "article_number": "185",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "H. Amekura",
+      "M. Toulemonde",
+      "K. Narumi",
+      "R. Li",
+      "A. Chiba",
+      "Y. Hirano",
+      "K. Yamada",
+      "S. Yamamoto",
+      "N. Ishikawa",
+      "N. Okubo",
+      "Y. Saitoh"
+    ]
+  },
+  "article_index": 164,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:42:37.418139"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:42:38.938753"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:42:40.097769"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:40:31.025532"
+    },
+    "last_updated": "2025-10-03T21:40:31.025722"
+  }
+}

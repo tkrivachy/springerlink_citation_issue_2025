@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.166895",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-55",
+    "title": "The lack of public health research output from India",
+    "article_number": "55",
+    "publication_date": "2004-11-25",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Lalit Dandona",
+      "Yegnanarayana S Sivan",
+      "Mukkamala N Jyothi",
+      "VS Udaya Bhaskar",
+      "Rakhi Dandona"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:07:59.246281"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T12:08:00.774060"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T12:08:02.048138"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T20:43:58.595907"
+    },
+    "last_updated": "2025-10-03T20:43:58.595960"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.853189",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-38",
+    "title": "Household item ownership and self-rated health: material and psychosocial explanations",
+    "article_number": "38",
+    "publication_date": "2003-11-30",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Hynek Pikhart",
+      "Martin Bobak",
+      "Richard Rose",
+      "Michael Marmot"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T11:57:30.387876"
+    },
+    "last_updated": "2025-10-03T20:42:07.835260",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:03:22.578544"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T12:03:23.876979"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T20:42:07.835052"
+    }
+  }
+}

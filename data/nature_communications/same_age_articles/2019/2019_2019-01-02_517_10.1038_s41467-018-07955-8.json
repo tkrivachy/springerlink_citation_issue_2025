@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.733369",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07955-8",
+    "title": "Tiny droplets of ocean island basalts unveil Earth’s deep chlorine cycle",
+    "article_number": "60",
+    "publication_date": "2019-01-04",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Takeshi Hanyu",
+      "Kenji Shimizu",
+      "Takayuki Ushikubo",
+      "Jun-Ichi Kimura",
+      "Qing Chang",
+      "Morihisa Hamada",
+      "Motoo Ito",
+      "Hikaru Iwamori",
+      "Tsuyoshi Ishikawa"
+    ]
+  },
+  "article_index": 517,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:14:39.805139"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T17:14:41.338288"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T17:14:42.649714"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T22:38:20.161079"
+    },
+    "last_updated": "2025-10-03T22:38:20.161269"
+  }
+}

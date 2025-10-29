@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.203599",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79669-1",
+    "title": "Coronary artery lumen complexity as a new marker for refractory symptoms in patients with vasospastic angina",
+    "article_number": "13",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Atsushi Tanaka",
+      "Akira Taruya",
+      "Kyosuke Shibata",
+      "Kota Fuse",
+      "Yosuke Katayama",
+      "Mao Yokoyama",
+      "Manabu Kashiwagi",
+      "Ota Shingo",
+      "Takashi Akasaka",
+      "Nobuhiro Kato"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:57:22.947861"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:57:24.513161"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:57:25.794425"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:46:19.178582"
+    },
+    "last_updated": "2025-10-03T21:46:19.178641"
+  }
+}

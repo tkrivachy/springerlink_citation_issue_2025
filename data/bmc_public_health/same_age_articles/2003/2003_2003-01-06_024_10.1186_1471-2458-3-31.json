@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.852215",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-31",
+    "title": "An evaluation of completeness of tuberculosis notification in the United Kingdom",
+    "article_number": "31",
+    "publication_date": "2003-10-06",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jayshree Pillaye",
+      "Aileen Clarke"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T11:57:31.507240"
+    },
+    "last_updated": "2025-10-03T20:42:11.597986",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T12:03:31.355769"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T12:03:32.674759"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T20:42:11.597798"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.718211",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08217-3",
+    "title": "Intensiometric biosensors visualize the activity of multiple small GTPases in vivo",
+    "article_number": "211",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jihoon Kim",
+      "Sangkyu Lee",
+      "Kanghoon Jung",
+      "Won Chan Oh",
+      "Nury Kim",
+      "Seungkyu Son",
+      "YoungJu Jo",
+      "Hyung-Bae Kwon",
+      "Won Do Heo"
+    ]
+  },
+  "article_index": 375,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:00:32.619775"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:00:34.183618"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:00:35.384767"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T22:54:09.837541"
+    },
+    "last_updated": "2025-10-03T22:54:09.837735"
+  }
+}

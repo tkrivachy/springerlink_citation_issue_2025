@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.722854",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07987-0",
+    "title": "Dickkopf-3 links HSF1 and YAP/TAZ signalling to control aggressive behaviours in cancer-associated fibroblasts",
+    "article_number": "130",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nicola Ferrari",
+      "Romana Ranftl",
+      "Ievgeniia Chicherova",
+      "Neil D. Slaven",
+      "Emad Moeendarbary",
+      "Aaron J. Farrugia",
+      "Maxine Lam",
+      "Maria Semiannikova",
+      "Marie C. W. Westergaard",
+      "Julia Tchou",
+      "Luca Magnani",
+      "Fernando Calvo"
+    ]
+  },
+  "article_index": 419,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:59:01.607276"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T17:59:03.151200"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 125,
+      "retrieved_at": "2025-10-03T17:59:04.336535"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T22:53:38.362367"
+    },
+    "last_updated": "2025-10-03T22:53:38.362564"
+  }
+}

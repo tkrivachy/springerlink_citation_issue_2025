@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.636793",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10266-1",
+    "title": "Prevalence of depression symptoms and associated sociodemographic and clinical correlates among Syrian refugees in Lebanon",
+    "article_number": "217",
+    "publication_date": "2021-01-26",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Hady Naal",
+      "Dana Nabulsi",
+      "Nour El Arnaout",
+      "Lina Abdouni",
+      "Hani Dimassi",
+      "Ranime Harb",
+      "Shadi Saleh"
+    ]
+  },
+  "article_index": 74,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T13:59:06.781453"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T13:59:08.298946"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T13:59:09.586274"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T21:24:10.620734"
+    },
+    "last_updated": "2025-10-03T21:24:10.620924"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.608897",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02624-8",
+    "title": "Human cytomegalovirus-encoded US9 targets MAVS and STING signaling to evade type I interferon immune responses",
+    "article_number": "125",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hyun jin Choi",
+      "Areum Park",
+      "Sujin Kang",
+      "Eunhye Lee",
+      "Taeyun A. Lee",
+      "Eun A. Ra",
+      "Jiseon Lee",
+      "Sungwook Lee",
+      "Boyoun Park"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:40.325964",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T11:44:03.845248"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T17:07:22.258616"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T17:07:23.662760"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 100,
+      "retrieved_at": "2025-10-03T22:35:40.325865"
+    }
+  }
+}

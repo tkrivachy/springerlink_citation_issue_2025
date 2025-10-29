@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.564591",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55118-9",
+    "title": "Engineering spatially-confined conduits to tune nerve self-organization and allodynic responses via YAP-mediated mechanotransduction",
+    "article_number": "66",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaobin Luo",
+      "Jia Yang",
+      "Yonggang Zhao",
+      "Toshitatsu Nagayasu",
+      "Junlin Chen",
+      "Peilun Hu",
+      "Zhi He",
+      "Zifan Li",
+      "Jun Wu",
+      "Zhe Zhao",
+      "Guman Duan",
+      "Xiaodan Sun",
+      "Lingyun Zhao",
+      "Yongwei Pan",
+      "Xiumei Wang"
+    ]
+  },
+  "article_index": 313,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:30:15.952914"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:30:17.532210"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:18.729147"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:24:08.806172"
+    },
+    "last_updated": "2025-10-03T23:24:08.806398"
+  }
+}

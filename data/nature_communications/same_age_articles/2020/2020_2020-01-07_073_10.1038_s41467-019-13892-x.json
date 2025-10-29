@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.885188",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13892-x",
+    "title": "Single-cell analysis based dissection of clonality in myelofibrosis",
+    "article_number": "73",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Elena Mylonas",
+      "Kenichi Yoshida",
+      "Mareike Frick",
+      "Kaja Hoyer",
+      "Friederike Christen",
+      "Jaspal Kaeda",
+      "Matthias Obenaus",
+      "Daniel Noerenberg",
+      "Cornelius Hennch",
+      "Willy Chan",
+      "Yotaro Ochi",
+      "Yuichi Shiraishi",
+      "Yusuke Shiozawa",
+      "Thorsten Zenz",
+      "Christopher C. Oakes",
+      "Birgit Sawitzki",
+      "Michaela Schwarz",
+      "Lars Bullinger",
+      "Philipp le Coutre",
+      "Matthew J. J. Rose-Zerilli",
+      "Seishi Ogawa",
+      "Frederik Damm"
+    ]
+  },
+  "article_index": 73,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:21:37.641132"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T18:21:39.220789"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T18:21:40.573179"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T23:01:05.774874"
+    },
+    "last_updated": "2025-10-03T23:01:05.775066"
+  }
+}

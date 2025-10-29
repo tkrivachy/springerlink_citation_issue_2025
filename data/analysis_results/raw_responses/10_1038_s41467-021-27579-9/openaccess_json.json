@@ -1,0 +1,498 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-021-27579-9",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-021-27579-9",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-021-27579-9"
+        }
+      ],
+      "title": "The 2018 European heatwave led to stem dehydration but not to consistent growth reductions in forests",
+      "creators": [
+        {
+          "ORCID": "0000-0003-2674-1731",
+          "creator": "Salomón, Roberto L."
+        },
+        {
+          "creator": "Peters, Richard L."
+        },
+        {
+          "ORCID": "0000-0001-9438-0582",
+          "creator": "Zweifel, Roman"
+        },
+        {
+          "ORCID": "0000-0002-8479-3209",
+          "creator": "Sass-Klaassen, Ute G. W."
+        },
+        {
+          "ORCID": "0000-0002-7955-5847",
+          "creator": "Stegehuis, Annemiek I."
+        },
+        {
+          "ORCID": "0000-0002-2324-0723",
+          "creator": "Smiljanic, Marko"
+        },
+        {
+          "ORCID": "0000-0003-0521-2523",
+          "creator": "Poyatos, Rafael"
+        },
+        {
+          "creator": "Babst, Flurin"
+        },
+        {
+          "ORCID": "0000-0002-1254-4254",
+          "creator": "Cienciala, Emil"
+        },
+        {
+          "ORCID": "0000-0002-7070-3292",
+          "creator": "Fonti, Patrick"
+        },
+        {
+          "ORCID": "0000-0003-3032-8042",
+          "creator": "Lerink, Bas J. W."
+        },
+        {
+          "ORCID": "0000-0002-0770-003X",
+          "creator": "Lindner, Marcus"
+        },
+        {
+          "ORCID": "0000-0002-2332-7298",
+          "creator": "Martinez-Vilalta, Jordi"
+        },
+        {
+          "ORCID": "0000-0003-0840-1477",
+          "creator": "Mencuccini, Maurizio"
+        },
+        {
+          "ORCID": "0000-0002-9761-074X",
+          "creator": "Nabuurs, Gert-Jan"
+        },
+        {
+          "ORCID": "0000-0002-5218-6682",
+          "creator": "Maaten, Ernst"
+        },
+        {
+          "ORCID": "0000-0002-8566-4599",
+          "creator": "Arx, Georg"
+        },
+        {
+          "ORCID": "0000-0002-0059-3964",
+          "creator": "Bär, Andreas"
+        },
+        {
+          "ORCID": "0000-0002-8130-6137",
+          "creator": "Akhmetzyanov, Linar"
+        },
+        {
+          "creator": "Balanzategui, Daniel"
+        },
+        {
+          "ORCID": "0000-0001-9602-4629",
+          "creator": "Bellan, Michal"
+        },
+        {
+          "creator": "Bendix, Jörg"
+        },
+        {
+          "creator": "Berveiller, Daniel"
+        },
+        {
+          "ORCID": "0000-0001-9743-614X",
+          "creator": "Blaženec, Miroslav"
+        },
+        {
+          "ORCID": "0000-0002-3922-2108",
+          "creator": "Čada, Vojtěch"
+        },
+        {
+          "creator": "Carraro, Vinicio"
+        },
+        {
+          "creator": "Cecchini, Sébastien"
+        },
+        {
+          "ORCID": "0000-0002-5700-7209",
+          "creator": "Chan, Tommy"
+        },
+        {
+          "ORCID": "0000-0003-3980-2142",
+          "creator": "Conedera, Marco"
+        },
+        {
+          "ORCID": "0000-0003-0906-9402",
+          "creator": "Delpierre, Nicolas"
+        },
+        {
+          "ORCID": "0000-0003-3442-1711",
+          "creator": "Delzon, Sylvain"
+        },
+        {
+          "ORCID": "0000-0002-5546-1918",
+          "creator": "Ditmarová, Ľubica"
+        },
+        {
+          "creator": "Dolezal, Jiri"
+        },
+        {
+          "creator": "Dufrêne, Eric"
+        },
+        {
+          "ORCID": "0000-0001-5163-1599",
+          "creator": "Edvardsson, Johannes"
+        },
+        {
+          "creator": "Ehekircher, Stefan"
+        },
+        {
+          "ORCID": "0000-0002-7123-6403",
+          "creator": "Forner, Alicia"
+        },
+        {
+          "creator": "Frouz, Jan"
+        },
+        {
+          "ORCID": "0000-0002-8670-6199",
+          "creator": "Ganthaler, Andrea"
+        },
+        {
+          "ORCID": "0000-0001-9632-9625",
+          "creator": "Gryc, Vladimír"
+        },
+        {
+          "ORCID": "0000-0002-8955-2770",
+          "creator": "Güney, Aylin"
+        },
+        {
+          "ORCID": "0000-0001-5800-6999",
+          "creator": "Heinrich, Ingo"
+        },
+        {
+          "ORCID": "0000-0002-1257-885X",
+          "creator": "Hentschel, Rainer"
+        },
+        {
+          "creator": "Janda, Pavel"
+        },
+        {
+          "ORCID": "0000-0003-0047-2123",
+          "creator": "Ježík, Marek"
+        },
+        {
+          "ORCID": "0000-0001-9677-5094",
+          "creator": "Kahle, Hans-Peter"
+        },
+        {
+          "ORCID": "0000-0001-9985-7650",
+          "creator": "Knüsel, Simon"
+        },
+        {
+          "ORCID": "0000-0003-2475-2111",
+          "creator": "Krejza, Jan"
+        },
+        {
+          "ORCID": "0000-0001-9815-9746",
+          "creator": "Kuberski, Łukasz"
+        },
+        {
+          "creator": "Kučera, Jiří"
+        },
+        {
+          "ORCID": "0000-0002-2040-6150",
+          "creator": "Lebourgeois, François"
+        },
+        {
+          "creator": "Mikoláš, Martin"
+        },
+        {
+          "ORCID": "0000-0002-7460-0100",
+          "creator": "Matula, Radim"
+        },
+        {
+          "ORCID": "0000-0002-3319-4396",
+          "creator": "Mayr, Stefan"
+        },
+        {
+          "ORCID": "0000-0002-5197-7044",
+          "creator": "Oberhuber, Walter"
+        },
+        {
+          "ORCID": "0000-0002-6718-2756",
+          "creator": "Obojes, Nikolaus"
+        },
+        {
+          "ORCID": "0000-0003-2208-7285",
+          "creator": "Osborne, Bruce"
+        },
+        {
+          "ORCID": "0000-0002-3674-4904",
+          "creator": "Paljakka, Teemu"
+        },
+        {
+          "ORCID": "0000-0003-2442-8522",
+          "creator": "Plichta, Roman"
+        },
+        {
+          "ORCID": "0000-0003-2555-2496",
+          "creator": "Rabbel, Inken"
+        },
+        {
+          "ORCID": "0000-0001-7359-8320",
+          "creator": "Rathgeber, Cyrille B. K."
+        },
+        {
+          "ORCID": "0000-0003-4433-4021",
+          "creator": "Salmon, Yann"
+        },
+        {
+          "ORCID": "0000-0002-1965-8932",
+          "creator": "Saunders, Matthew"
+        },
+        {
+          "ORCID": "0000-0002-4933-5296",
+          "creator": "Scharnweber, Tobias"
+        },
+        {
+          "ORCID": "0000-0001-6354-6105",
+          "creator": "Sitková, Zuzana"
+        },
+        {
+          "ORCID": "0000-0002-3255-6834",
+          "creator": "Stangler, Dominik Florian"
+        },
+        {
+          "ORCID": "0000-0002-9556-0144",
+          "creator": "Stereńczak, Krzysztof"
+        },
+        {
+          "ORCID": "0000-0003-4918-8668",
+          "creator": "Stojanović, Marko"
+        },
+        {
+          "ORCID": "0000-0001-7284-8244",
+          "creator": "Střelcová, Katarína"
+        },
+        {
+          "creator": "Světlík, Jan"
+        },
+        {
+          "creator": "Svoboda, Miroslav"
+        },
+        {
+          "ORCID": "0000-0001-6697-3858",
+          "creator": "Tobin, Brian"
+        },
+        {
+          "creator": "Trotsiuk, Volodymyr"
+        },
+        {
+          "ORCID": "0000-0003-1730-947X",
+          "creator": "Urban, Josef"
+        },
+        {
+          "creator": "Valladares, Fernando"
+        },
+        {
+          "ORCID": "0000-0001-9386-9554",
+          "creator": "Vavrčík, Hanuš"
+        },
+        {
+          "ORCID": "0000-0002-6645-7674",
+          "creator": "Vejpustková, Monika"
+        },
+        {
+          "ORCID": "0000-0002-1790-8563",
+          "creator": "Walthert, Lorenz"
+        },
+        {
+          "ORCID": "0000-0003-4964-2402",
+          "creator": "Wilmking, Martin"
+        },
+        {
+          "creator": "Zin, Ewa"
+        },
+        {
+          "ORCID": "0000-0001-9635-0686",
+          "creator": "Zou, Junliang"
+        },
+        {
+          "ORCID": "0000-0001-6252-0704",
+          "creator": "Steppe, Kathy"
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "doi": "10.1038/s41467-021-27579-9",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2022-01-10",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "13",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "11",
+      "journalId": "41467",
+      "openAccess": "true",
+      "onlineDate": "2022-01-10",
+      "coverDate": "2022-12",
+      "copyright": "©2022 The Author(s)",
+      "abstract": {
+        "p": "Heatwaves exert disproportionately strong and sometimes irreversible impacts on forest ecosystems. These impacts remain poorly understood at the tree and species level and across large spatial scales. Here, we investigate the effects of the record-breaking 2018 European heatwave on tree growth and tree water status using a collection of high-temporal resolution dendrometer data from 21 species across 53 sites. Relative to the two preceding years, annual stem growth was not consistently reduced by the 2018 heatwave but stems experienced twice the temporary shrinkage due to depletion of water reserves. Conifer species were less capable of rehydrating overnight than broadleaves across gradients of soil and atmospheric drought, suggesting less resilience toward transient stress. In particular, Norway spruce and Scots pine experienced extensive stem dehydration. Our high-resolution dendrometer network was suitable to disentangle the effects of a severe heatwave on tree growth and desiccation at large-spatial scales in situ, and provided insights on which species may be more vulnerable to climate extremes.",
+        "h1": "Abstract"
+      },
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword"
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2022",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Austria",
+          "count": "1"
+        },
+        {
+          "value": "Belgium",
+          "count": "1"
+        },
+        {
+          "value": "China",
+          "count": "1"
+        },
+        {
+          "value": "Czech Republic",
+          "count": "1"
+        },
+        {
+          "value": "Finland",
+          "count": "1"
+        },
+        {
+          "value": "France",
+          "count": "1"
+        },
+        {
+          "value": "Germany",
+          "count": "1"
+        },
+        {
+          "value": "Ireland",
+          "count": "1"
+        },
+        {
+          "value": "Italy",
+          "count": "1"
+        },
+        {
+          "value": "Netherlands",
+          "count": "1"
+        },
+        {
+          "value": "Poland",
+          "count": "1"
+        },
+        {
+          "value": "Russia",
+          "count": "1"
+        },
+        {
+          "value": "Slovakia",
+          "count": "1"
+        },
+        {
+          "value": "Spain",
+          "count": "1"
+        },
+        {
+          "value": "Sweden",
+          "count": "1"
+        },
+        {
+          "value": "Switzerland",
+          "count": "1"
+        },
+        {
+          "value": "Turkey",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

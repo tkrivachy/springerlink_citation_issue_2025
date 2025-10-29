@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.424462",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3913-0",
+    "title": "Metabolic syndrome and depressive symptoms among rural Northeast general population in China",
+    "article_number": "43",
+    "publication_date": "2017-01-06",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Shasha Yu",
+      "Hongmei Yang",
+      "Xiaofan Guo",
+      "Liqiang Zheng",
+      "Yingxian Sun"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:20:46.526294"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:20:48.049141"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:20:49.382021"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:10:28.216887"
+    },
+    "last_updated": "2025-10-03T21:10:28.216943"
+  }
+}

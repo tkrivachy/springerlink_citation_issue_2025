@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.246394",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80199-z",
+    "title": "miR299a-5p promotes renal fibrosis by suppressing the antifibrotic actions of follistatin",
+    "article_number": "88",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Neel Mehta",
+      "Renzhong Li",
+      "Dan Zhang",
+      "Asfia Soomro",
+      "Juehua He",
+      "Ivan Zhang",
+      "Melissa MacDonald",
+      "Bo Gao",
+      "Joan C. Krepinsky"
+    ]
+  },
+  "article_index": 241,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:52:34.391190"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:52:35.924895"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:52:37.109846"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:44:25.032310"
+    },
+    "last_updated": "2025-10-03T21:44:25.032551"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.411846",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84545-3",
+    "title": "Prediction of heavy metal spatial distribution in soils of typical industrial zones utilizing 3D convolutional neural networks",
+    "article_number": "396",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chao Liu",
+      "Lan Chen",
+      "Guoqing Ni",
+      "Xiuhe Yuan",
+      "Shuai He",
+      "Sheng Miao"
+    ]
+  },
+  "article_index": 576,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:20:17.408724"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:20:18.923641"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:46.984159"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:18:56.470463"
+    },
+    "last_updated": "2025-10-07T09:49:46.984695"
+  }
+}

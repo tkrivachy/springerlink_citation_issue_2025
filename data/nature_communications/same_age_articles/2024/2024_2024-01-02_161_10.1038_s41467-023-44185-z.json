@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.691369",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44185-z",
+    "title": "Programmable high-dimensional Hamiltonian in a photonic waveguide array",
+    "article_number": "50",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yang Yang",
+      "Robert J. Chapman",
+      "Ben Haylock",
+      "Francesco Lenzini",
+      "Yogesh N. Joglekar",
+      "Mirko Lobino",
+      "Alberto Peruzzo"
+    ]
+  },
+  "article_index": 161,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:10:56.961401"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:10:58.530038"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:10:59.798418"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:17:47.779811"
+    },
+    "last_updated": "2025-10-03T23:17:47.779897"
+  }
+}

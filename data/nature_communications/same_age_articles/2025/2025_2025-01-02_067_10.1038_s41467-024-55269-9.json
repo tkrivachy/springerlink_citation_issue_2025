@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.519391",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55269-9",
+    "title": "Dynamic representation of appetitive and aversive stimuli in nucleus accumbens shell D1- and D2-medium spiny neurons",
+    "article_number": "59",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ana Verónica Domingues",
+      "Tawan T. A. Carvalho",
+      "Gabriela J. Martins",
+      "Raquel Correia",
+      "Bárbara Coimbra",
+      "Ricardo Bastos-Gonçalves",
+      "Marcelina Wezik",
+      "Rita Gaspar",
+      "Luísa Pinto",
+      "Nuno Sousa",
+      "Rui M. Costa",
+      "Carina Soares-Cunha",
+      "Ana João Rodrigues"
+    ]
+  },
+  "article_index": 67,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:22:58.564944"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:23:00.116986"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:23:01.331114"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:21:50.725068"
+    },
+    "last_updated": "2025-10-03T23:21:50.725148"
+  }
+}

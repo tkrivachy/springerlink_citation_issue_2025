@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.104582",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27243-2",
+    "title": "Cyst identification in retinal optical coherence tomography images using hidden Markov model",
+    "article_number": "12",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Niloofarsadat Mousavi",
+      "Maryam Monemian",
+      "Parisa Ghaderi Daneshmand",
+      "Mohammad Mirmohammadsadeghi",
+      "Maryam Zekri",
+      "Hossein Rabbani"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:28:17.458152"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:28:18.987037"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:28:20.278839"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:59:08.097224"
+    },
+    "last_updated": "2025-10-03T21:59:08.097455"
+  }
+}

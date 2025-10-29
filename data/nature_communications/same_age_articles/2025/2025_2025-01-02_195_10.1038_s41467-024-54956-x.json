@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.538923",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54956-x",
+    "title": "Globally scalable glacier mapping by deep learning matches expert delineation accuracy",
+    "article_number": "43",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Konstantin A. Maslov",
+      "Claudio Persello",
+      "Thomas Schellenberger",
+      "Alfred Stein"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:41:30.548687"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:41:32.114950"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:41:33.316285"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:28:02.260823"
+    },
+    "last_updated": "2025-10-03T23:28:02.260910"
+  }
+}

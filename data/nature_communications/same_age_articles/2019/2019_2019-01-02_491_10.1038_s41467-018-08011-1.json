@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.730634",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08011-1",
+    "title": "Promotion of homology-directed DNA repair by polyamines",
+    "article_number": "65",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chih-Ying Lee",
+      "Guan-Chin Su",
+      "Wen-Yen Huang",
+      "Min-Yu Ko",
+      "Hsin-Yi Yeh",
+      "Geen-Dong Chang",
+      "Sung-Jan Lin",
+      "Peter Chi"
+    ]
+  },
+  "article_index": 491,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T17:41:55.344267"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T17:41:56.861412"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T17:41:57.998455"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T22:47:29.961837"
+    },
+    "last_updated": "2025-10-03T22:47:29.962025"
+  }
+}

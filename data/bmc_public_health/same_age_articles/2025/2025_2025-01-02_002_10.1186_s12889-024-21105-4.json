@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:56.213131",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-024-21105-4",
+    "title": "Dengue’s climate conundrum: how vegetation and temperature shape mosquito populations and disease outbreaks",
+    "article_number": "4",
+    "publication_date": "2025-01-02",
+    "volume": "25",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Nur Athen Mohd Hardy Abdullah",
+      "Nazri Che Dom",
+      "Siti Aekball Salleh",
+      "Rahmat Dapari",
+      "Nopadol Precha"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:20:55.769363"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:20:57.325000"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:20:58.561407"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:31:46.334780"
+    },
+    "last_updated": "2025-10-03T21:31:46.334834"
+  }
+}

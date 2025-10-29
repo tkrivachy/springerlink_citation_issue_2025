@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652255",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35668-6",
+    "title": "The rapid and highly parallel identification of antibodies with defined biological activities by SLISY",
+    "article_number": "17",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Steve Lu",
+      "Austin K. Mattox",
+      "P. Aitana Azurmendi",
+      "Ilias Christodoulou",
+      "Katharine M. Wright",
+      "Maria Popoli",
+      "Zan Chen",
+      "Surojit Sur",
+      "Yana Li",
+      "Challice L. Bonifant",
+      "Chetan Bettegowda",
+      "Nickolas Papadopoulos",
+      "Shibin Zhou",
+      "Sandra B. Gabelli",
+      "Bert Vogelstein",
+      "Kenneth W. Kinzler"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:55:19.592834"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T18:55:21.148699"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:55:22.427771"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:12:26.716833"
+    },
+    "last_updated": "2025-10-03T23:12:26.717027"
+  }
+}

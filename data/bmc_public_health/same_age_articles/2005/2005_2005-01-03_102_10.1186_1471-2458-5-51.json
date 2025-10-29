@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.964555",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-51",
+    "title": "Self-rated health in Pakistan: results of a national health survey",
+    "article_number": "51",
+    "publication_date": "2005-05-19",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Khabir Ahmad",
+      "Tazeen H Jafar",
+      "Nish Chaturvedi"
+    ]
+  },
+  "article_index": 102,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:15:27.083525"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T12:15:28.632042"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T12:15:29.989052"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T20:46:43.518942"
+    },
+    "last_updated": "2025-10-03T20:46:43.519145"
+  }
+}

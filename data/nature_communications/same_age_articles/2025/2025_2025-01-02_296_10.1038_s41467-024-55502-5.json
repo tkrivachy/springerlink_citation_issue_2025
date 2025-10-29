@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.558202",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55502-5",
+    "title": "A synthetic methylotroph achieves accelerated cell growth by alleviating transcription-replication conflicts",
+    "article_number": "31",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xin Meng",
+      "Guipeng Hu",
+      "Xiaomin Li",
+      "Cong Gao",
+      "Wei Song",
+      "Wanqing Wei",
+      "Jing Wu",
+      "Liming Liu"
+    ]
+  },
+  "article_index": 296,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:15:41.397067"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:15:42.968016"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:44.167173"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:19:25.297547"
+    },
+    "last_updated": "2025-10-03T23:19:25.297661"
+  }
+}

@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-021-27579-9</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-021-27579-9</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41467-021-27579-9</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41467-021-27579-9.pdf</ns2:url>
+          <dc:title>The 2018 European heatwave led to stem dehydration but not to consistent growth reductions in forests</dc:title>
+          <dc:creator>Salomón, Roberto L.</dc:creator>
+          <dc:creator>Peters, Richard L.</dc:creator>
+          <dc:creator>Zweifel, Roman</dc:creator>
+          <dc:creator>Sass-Klaassen, Ute G. W.</dc:creator>
+          <dc:creator>Stegehuis, Annemiek I.</dc:creator>
+          <dc:creator>Smiljanic, Marko</dc:creator>
+          <dc:creator>Poyatos, Rafael</dc:creator>
+          <dc:creator>Babst, Flurin</dc:creator>
+          <dc:creator>Cienciala, Emil</dc:creator>
+          <dc:creator>Fonti, Patrick</dc:creator>
+          <dc:creator>Lerink, Bas J. W.</dc:creator>
+          <dc:creator>Lindner, Marcus</dc:creator>
+          <dc:creator>Martinez-Vilalta, Jordi</dc:creator>
+          <dc:creator>Mencuccini, Maurizio</dc:creator>
+          <dc:creator>Nabuurs, Gert-Jan</dc:creator>
+          <dc:creator>Maaten, Ernst</dc:creator>
+          <dc:creator>Arx, Georg</dc:creator>
+          <dc:creator>Bär, Andreas</dc:creator>
+          <dc:creator>Akhmetzyanov, Linar</dc:creator>
+          <dc:creator>Balanzategui, Daniel</dc:creator>
+          <dc:creator>Bellan, Michal</dc:creator>
+          <dc:creator>Bendix, Jörg</dc:creator>
+          <dc:creator>Berveiller, Daniel</dc:creator>
+          <dc:creator>Blaženec, Miroslav</dc:creator>
+          <dc:creator>Čada, Vojtěch</dc:creator>
+          <dc:creator>Carraro, Vinicio</dc:creator>
+          <dc:creator>Cecchini, Sébastien</dc:creator>
+          <dc:creator>Chan, Tommy</dc:creator>
+          <dc:creator>Conedera, Marco</dc:creator>
+          <dc:creator>Delpierre, Nicolas</dc:creator>
+          <dc:creator>Delzon, Sylvain</dc:creator>
+          <dc:creator>Ditmarová, Ľubica</dc:creator>
+          <dc:creator>Dolezal, Jiri</dc:creator>
+          <dc:creator>Dufrêne, Eric</dc:creator>
+          <dc:creator>Edvardsson, Johannes</dc:creator>
+          <dc:creator>Ehekircher, Stefan</dc:creator>
+          <dc:creator>Forner, Alicia</dc:creator>
+          <dc:creator>Frouz, Jan</dc:creator>
+          <dc:creator>Ganthaler, Andrea</dc:creator>
+          <dc:creator>Gryc, Vladimír</dc:creator>
+          <dc:creator>Güney, Aylin</dc:creator>
+          <dc:creator>Heinrich, Ingo</dc:creator>
+          <dc:creator>Hentschel, Rainer</dc:creator>
+          <dc:creator>Janda, Pavel</dc:creator>
+          <dc:creator>Ježík, Marek</dc:creator>
+          <dc:creator>Kahle, Hans-Peter</dc:creator>
+          <dc:creator>Knüsel, Simon</dc:creator>
+          <dc:creator>Krejza, Jan</dc:creator>
+          <dc:creator>Kuberski, Łukasz</dc:creator>
+          <dc:creator>Kučera, Jiří</dc:creator>
+          <dc:creator>Lebourgeois, François</dc:creator>
+          <dc:creator>Mikoláš, Martin</dc:creator>
+          <dc:creator>Matula, Radim</dc:creator>
+          <dc:creator>Mayr, Stefan</dc:creator>
+          <dc:creator>Oberhuber, Walter</dc:creator>
+          <dc:creator>Obojes, Nikolaus</dc:creator>
+          <dc:creator>Osborne, Bruce</dc:creator>
+          <dc:creator>Paljakka, Teemu</dc:creator>
+          <dc:creator>Plichta, Roman</dc:creator>
+          <dc:creator>Rabbel, Inken</dc:creator>
+          <dc:creator>Rathgeber, Cyrille B. K.</dc:creator>
+          <dc:creator>Salmon, Yann</dc:creator>
+          <dc:creator>Saunders, Matthew</dc:creator>
+          <dc:creator>Scharnweber, Tobias</dc:creator>
+          <dc:creator>Sitková, Zuzana</dc:creator>
+          <dc:creator>Stangler, Dominik Florian</dc:creator>
+          <dc:creator>Stereńczak, Krzysztof</dc:creator>
+          <dc:creator>Stojanović, Marko</dc:creator>
+          <dc:creator>Střelcová, Katarína</dc:creator>
+          <dc:creator>Světlík, Jan</dc:creator>
+          <dc:creator>Svoboda, Miroslav</dc:creator>
+          <dc:creator>Tobin, Brian</dc:creator>
+          <dc:creator>Trotsiuk, Volodymyr</dc:creator>
+          <dc:creator>Urban, Josef</dc:creator>
+          <dc:creator>Valladares, Fernando</dc:creator>
+          <dc:creator>Vavrčík, Hanuš</dc:creator>
+          <dc:creator>Vejpustková, Monika</dc:creator>
+          <dc:creator>Walthert, Lorenz</dc:creator>
+          <dc:creator>Wilmking, Martin</dc:creator>
+          <dc:creator>Zin, Ewa</dc:creator>
+          <dc:creator>Zou, Junliang</dc:creator>
+          <dc:creator>Steppe, Kathy</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2041-1723</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:volume>13</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>11</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2022-01-10</onlineDate>
+          <ns2:coverDate>2022-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41467-021-27579-9</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2022-01-10</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-021-27579-9</ns2:url>
+          <ns2:copyright>©2022 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <p>Forest dynamics are monitored at large scales with remote sensing, but individual tree data are necessary for ground-truthing and mechanistic insights. This study on high temporal resolution dendrometer data across Europe reveals that the 2018 heatwave affected tree physiology and growth in unexpected way.</p>
+        <h1>Abstract</h1>
+        <p>Heatwaves exert disproportionately strong and sometimes irreversible impacts on forest ecosystems. These impacts remain poorly understood at the tree and species level and across large spatial scales. Here, we investigate the effects of the record-breaking 2018 European heatwave on tree growth and tree water status using a collection of high-temporal resolution dendrometer data from 21 species across 53 sites. Relative to the two preceding years, annual stem growth was not consistently reduced by the 2018 heatwave but stems experienced twice the temporary shrinkage due to depletion of water reserves. Conifer species were less capable of rehydrating overnight than broadleaves across gradients of soil and atmospheric drought, suggesting less resilience toward transient stress. In particular, Norway spruce and Scots pine experienced extensive stem dehydration. Our high-resolution dendrometer network was suitable to disentangle the effects of a severe heatwave on tree growth and desiccation at large-spatial scales in situ, and provided insights on which species may be more vulnerable to climate extremes.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Austria</facet-value>
+      <facet-value count="1">Belgium</facet-value>
+      <facet-value count="1">China</facet-value>
+      <facet-value count="1">Czech Republic</facet-value>
+      <facet-value count="1">Finland</facet-value>
+      <facet-value count="1">France</facet-value>
+      <facet-value count="1">Germany</facet-value>
+      <facet-value count="1">Ireland</facet-value>
+      <facet-value count="1">Italy</facet-value>
+      <facet-value count="1">Netherlands</facet-value>
+      <facet-value count="1">Poland</facet-value>
+      <facet-value count="1">Russia</facet-value>
+      <facet-value count="1">Slovakia</facet-value>
+      <facet-value count="1">Spain</facet-value>
+      <facet-value count="1">Sweden</facet-value>
+      <facet-value count="1">Switzerland</facet-value>
+      <facet-value count="1">Turkey</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.960213",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-93",
+    "title": "Methodological aspects of a GIS-based environmental health inspection program used in the Athens 2004 Olympic and Para Olympic Games",
+    "article_number": "93",
+    "publication_date": "2005-09-02",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Christos Hadjichristodoulou",
+      "Elpidoforos S Soteriades",
+      "Virginia Kolonia",
+      "Matthew E Falagas",
+      "Efstathios Pantelopoulos",
+      "Georgios Panagakos",
+      "Varvara Mouchtouri",
+      "Jeni Kremastinou"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T12:15:17.113617"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T12:15:18.617802"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T12:15:19.916570"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T20:46:39.310582"
+    },
+    "last_updated": "2025-10-03T20:46:39.310773"
+  }
+}

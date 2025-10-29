@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.734511",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07991-4",
+    "title": "Microglia and amyloid precursor protein coordinate control of transient ",
+    "article_number": "58",
+    "publication_date": "2019-01-04",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yifan Wu",
+      "Shuqi Du",
+      "Jennifer L. Johnson",
+      "Hui-Ying Tung",
+      "Cameron T. Landers",
+      "Yuwei Liu",
+      "Brittany G. Seman",
+      "Robert T. Wheeler",
+      "Mauro Costa-Mattioli",
+      "Farrah Kheradmand",
+      "Hui Zheng",
+      "David B. Corry"
+    ]
+  },
+  "article_index": 528,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:49:45.126608"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T17:49:46.642521"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T17:49:47.796486"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T22:50:10.612279"
+    },
+    "last_updated": "2025-10-03T22:50:10.612522"
+  }
+}

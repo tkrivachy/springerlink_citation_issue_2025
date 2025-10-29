@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.842931",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50067-7",
+    "title": "Excitation of optical tamm state for photonic spin hall enhancement",
+    "article_number": "175",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Amit Kumar Goyal",
+      "Divyanshu Divyanshu",
+      "Yehia Massoud"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:34:44.681398"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T15:34:46.197029"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:34:47.479612"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T22:01:46.456477"
+    },
+    "last_updated": "2025-10-03T22:01:46.456669"
+  }
+}

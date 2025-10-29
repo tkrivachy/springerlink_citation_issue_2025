@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.835960",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50769-y",
+    "title": "wideband high-gain low-profile series-fed antenna integrated with optimized metamaterials for 5G millimeter wave applications",
+    "article_number": "185",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bashar A. F. Esmail",
+      "Slawomir Koziel",
+      "Anna Pietrenko-Dabrowska",
+      "Dustin Isleifson"
+    ]
+  },
+  "article_index": 90,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:36:06.973665"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:36:08.518917"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:36:09.716731"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:02:17.350964"
+    },
+    "last_updated": "2025-10-03T22:02:17.351157"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.651738",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35711-6",
+    "title": "Revealing the relationship between liquid fragility and medium-range order in silicate glasses",
+    "article_number": "13",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ying Shi",
+      "Binghui Deng",
+      "Ozgur Gulbiten",
+      "Mathieu Bauchy",
+      "Qi Zhou",
+      "Jörg Neuefeind",
+      "Stephen R. Elliott",
+      "Nicholas J. Smith",
+      "Douglas C. Allan"
+    ]
+  },
+  "article_index": 94,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:52:49.595167"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:52:51.173034"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:52:52.454623"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T23:11:36.316730"
+    },
+    "last_updated": "2025-10-03T23:11:36.316811"
+  }
+}

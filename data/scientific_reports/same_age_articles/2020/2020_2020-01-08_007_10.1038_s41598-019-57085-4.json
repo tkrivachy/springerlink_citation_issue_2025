@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.300549",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57085-4",
+    "title": "The effect of NAMPT deletion in projection neurons on the function and structure of neuromuscular junction (NMJ) in mice",
+    "article_number": "99",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Samuel Lundt",
+      "Nannan Zhang",
+      "Xiaowan Wang",
+      "Luis Polo-Parada",
+      "Shinghua Ding"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:24:33.890697"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:24:35.453910"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:24:36.641334"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:33:07.669056"
+    },
+    "last_updated": "2025-10-03T21:33:07.669249"
+  }
+}

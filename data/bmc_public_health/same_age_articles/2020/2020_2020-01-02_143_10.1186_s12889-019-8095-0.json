@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.686959",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8095-0",
+    "title": "Hypertension and diabetes treatment affordability and government expenditures following changes in patient cost sharing in the “Farmácia popular” program in Brazil: an interrupted time series study",
+    "article_number": "24",
+    "publication_date": "2020-01-08",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Isabel Cristina Martins Emmerick",
+      "Mônica Rodrigues Campos",
+      "Rondineli Mendes da Silva",
+      "Luisa Arueira Chaves",
+      "Andréa Dâmaso Bertoldi",
+      "Dennis Ross-Degnan",
+      "Vera Lucia Luiza"
+    ]
+  },
+  "article_index": 143,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:38:46.191871"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:38:47.887876"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T13:38:49.160231"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:16:58.169829"
+    },
+    "last_updated": "2025-10-03T21:16:58.170017"
+  }
+}

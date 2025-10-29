@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.408809",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83455-8",
+    "title": "Prognostic signature and therapeutic drug identification for dilated cardiomyopathy based on necroptosis via bioinformatics and experimental validation",
+    "article_number": "319",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Han Yang",
+      "Zhenwei Wang",
+      "Yawei Xu",
+      "Yimei Du",
+      "Haibo Yang",
+      "Yang Lu"
+    ]
+  },
+  "article_index": 548,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:21:24.080755"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:21:25.649066"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:58.839500"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:19:17.961872"
+    },
+    "last_updated": "2025-10-07T09:49:58.839594"
+  }
+}

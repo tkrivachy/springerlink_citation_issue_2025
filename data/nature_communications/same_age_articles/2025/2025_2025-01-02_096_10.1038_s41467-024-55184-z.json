@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.523209",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55184-z",
+    "title": "Asynchronicity of deglacial permafrost thawing controlled by millennial-scale climate variability",
+    "article_number": "290",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xinwei Yan",
+      "Xu Zhang",
+      "Bo Liu",
+      "Huw T. Mithan",
+      "John Hellstrom",
+      "Sophie Nuber",
+      "Russell Drysdale",
+      "Junjie Wu",
+      "Fangyuan Lin",
+      "Ning Zhao",
+      "Yuao Zhang",
+      "Wengang Kang",
+      "Jianbao Liu"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:46:53.154732"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:46:54.666566"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:46:55.847785"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:30:00.040727"
+    },
+    "last_updated": "2025-10-03T23:30:00.040774"
+  }
+}

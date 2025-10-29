@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.754669",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-82",
+    "title": "Physical activity and sleep profiles in Finnish men and women",
+    "article_number": "82",
+    "publication_date": "2014-01-27",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Heini Wennman",
+      "Erkki Kronholm",
+      "Timo Partonen",
+      "Asko Tolvanen",
+      "Markku Peltonen",
+      "Tommi Vasankari",
+      "Katja Borodulin"
+    ]
+  },
+  "article_index": 91,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T13:00:53.656015"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:00:55.204945"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:00:56.501960"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T21:03:05.609597"
+    },
+    "last_updated": "2025-10-03T21:03:05.609785"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244891",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80467-y",
+    "title": "Retraction Note: The melanocortin signaling cAMP axis accelerates repair and reduces mutagenesis of platinum-induced DNA damage",
+    "article_number": "847",
+    "publication_date": "2021-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Stuart G. Jarrett",
+      "Katharine M. Carter",
+      "Brent J. Shelton",
+      "John A. D’Orazio"
+    ]
+  },
+  "article_index": 227,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:55:25.637303"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:55:27.138705"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:55:28.289780"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:45:28.561791"
+    },
+    "last_updated": "2025-10-03T21:45:28.561984"
+  }
+}

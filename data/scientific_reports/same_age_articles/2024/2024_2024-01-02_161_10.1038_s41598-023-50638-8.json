@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.843435",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50638-8",
+    "title": "Verification study on how macrofungal fruitbody formation can be predicted by artificial neural network",
+    "article_number": "278",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Katalin Somfalvi-Tóth",
+      "Ildikó Jócsák",
+      "Ferenc Pál-Fám"
+    ]
+  },
+  "article_index": 161,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:02:18.750305"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:02:20.292286"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:02:21.509895"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:12:28.827203"
+    },
+    "last_updated": "2025-10-03T22:12:28.827269"
+  }
+}

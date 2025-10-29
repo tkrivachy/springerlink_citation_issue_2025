@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.182934",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20497-2",
+    "title": "Properties and dynamics of meron topological spin textures in the two-dimensional magnet CrCl",
+    "article_number": "185",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mathias Augustin",
+      "Sarah Jenkins",
+      "Richard F. L. Evans",
+      "Kostya S. Novoselov",
+      "Elton J. G. Santos"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T18:31:22.468736"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T18:31:24.040637"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T18:31:25.400911"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T23:04:30.103253"
+    },
+    "last_updated": "2025-10-03T23:04:30.103494"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.846869",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50162-9",
+    "title": "The interaction between MALAT1 and TUG1 with dietary fatty acid quality indices on visceral adiposity index and body adiposity index",
+    "article_number": "12",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Niloufar Rasaei",
+      "Fatemeh Gholami",
+      "Mahsa Samadi",
+      "Farideh Shiraseb",
+      "Alireza Khadem",
+      "Mir Saeed Yekaninejad",
+      "Solaleh Emamgholipour",
+      "Khadijeh Mirzaei"
+    ]
+  },
+  "article_index": 194,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:43:28.097291"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:43:29.671661"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:43:30.869576"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:05:13.582528"
+    },
+    "last_updated": "2025-10-03T22:05:13.582719"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.638011",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35698-0",
+    "title": "Illustrating new understanding of adsorbed water on silica for inducing tetrahedral cobalt(II) for propane dehydrogenation",
+    "article_number": "100",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zijun Huang",
+      "Dedong He",
+      "Weihua Deng",
+      "Guowu Jin",
+      "Ke Li",
+      "Yongming Luo"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:50:22.633128"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:50:24.191612"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T18:50:25.368273"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T23:10:48.172881"
+    },
+    "last_updated": "2025-10-03T23:10:48.172964"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.868536",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03989-z",
+    "title": "Comprehensive quantitative analysis of alternative splicing variants reveals the ",
+    "article_number": "199",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jan Hojny",
+      "Romana Michalkova",
+      "Eva Krkavcova",
+      "Quang Hiep Bui",
+      "Michaela Bartu",
+      "Kristyna Nemejcova",
+      "Marta Kalousova",
+      "Petra Kleiblova",
+      "Pavel Dundr",
+      "Ivana Struzinska"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:12:51.602398"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:12:53.150376"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:12:54.312114"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:52:33.999884"
+    },
+    "last_updated": "2025-10-03T21:52:34.000074"
+  }
+}

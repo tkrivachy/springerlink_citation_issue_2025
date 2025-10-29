@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.527636",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-35",
+    "title": "A tuberculin skin test survey among Ghanaian school children",
+    "article_number": "35",
+    "publication_date": "2010-01-26",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kennedy Kwasi Addo",
+      "Susan van den Hof",
+      "Gloria Ivy Mensah",
+      "Adukwei Hesse",
+      "Christian Bonsu",
+      "Kwadwo Ansah Koram",
+      "Felix Kwami Afutu",
+      "Frank Adae Bonsu"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T12:39:43.627538"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T12:39:45.314056"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T12:39:46.606643"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T20:55:25.858708"
+    },
+    "last_updated": "2025-10-03T20:55:25.858916"
+  }
+}

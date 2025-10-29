@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.824508",
+  "year": 2011,
+  "article_type": "comparison",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-2",
+    "title": "Perceived risk, anxiety, and behavioural responses of the general public during the early phase of the Influenza A (H1N1) pandemic in the Netherlands: results of three consecutive online surveys",
+    "article_number": "2",
+    "publication_date": "2011-01-03",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Marloes Bults",
+      "Desirée JMA Beaujean",
+      "Onno de Zwart",
+      "Gerjo Kok",
+      "Pepijn van Empelen",
+      "Jim E van Steenbergen",
+      "Jan Hendrik Richardus",
+      "Hélène ACM Voeten"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 467,
+      "retrieved_at": "2025-10-03T12:43:34.805380"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 342,
+      "retrieved_at": "2025-10-03T12:43:36.644392"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 366,
+      "retrieved_at": "2025-10-03T12:43:38.283905"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 432,
+      "retrieved_at": "2025-10-03T20:56:54.433947"
+    },
+    "last_updated": "2025-10-03T20:56:54.434139"
+  }
+}

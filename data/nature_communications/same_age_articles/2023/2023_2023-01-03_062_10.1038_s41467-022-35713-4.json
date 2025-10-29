@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643868",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35713-4",
+    "title": "An ISO-certified genomics workflow for identification and surveillance of antimicrobial resistance",
+    "article_number": "60",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Norelle L. Sherry",
+      "Kristy A. Horan",
+      "Susan A. Ballard",
+      "Anders Gonҫalves da Silva",
+      "Claire L. Gorrie",
+      "Mark B. Schultz",
+      "Kerrie Stevens",
+      "Mary Valcanis",
+      "Michelle L. Sait",
+      "Timothy P. Stinear",
+      "Benjamin P. Howden",
+      "Torsten Seemann"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T18:54:49.443317"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T18:54:51.190304"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:54:52.368541"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T23:12:16.591391"
+    },
+    "last_updated": "2025-10-03T23:12:16.591480"
+  }
+}

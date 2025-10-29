@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.395197",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-80861-w",
+    "title": "Annual migrations, vertical habitat use and fidelity of Atlantic bluefin tuna tracked from waters off the United Kingdom",
+    "article_number": "293",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Thomas W. Horton",
+      "Francis C. T. Binney",
+      "Samantha Birch",
+      "Barbara A. Block",
+      "Owen M. Exeter",
+      "Francesco Garzon",
+      "Alex Plaster",
+      "David Righton",
+      "Jeroen van der Kooij",
+      "Matthew J. Witt",
+      "Lucy A. Hawkes"
+    ]
+  },
+  "article_index": 423,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:44:13.437142"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:44:14.987782"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:44:16.195123"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:27:23.344959"
+    },
+    "last_updated": "2025-10-03T22:27:23.345159"
+  }
+}

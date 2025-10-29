@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.200959",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20203-2",
+    "title": "A framework to predict the price of energy for the end-users with applications to monetary and energy policies",
+    "article_number": "18",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Stefanos G. Baratsas",
+      "Alexander M. Niziolek",
+      "Onur Onel",
+      "Logan R. Matthews",
+      "Christodoulos A. Floudas",
+      "Detlef R. Hallermann",
+      "Sorin M. Sorescu",
+      "Efstratios N. Pistikopoulos"
+    ]
+  },
+  "article_index": 169,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:43:28.252232"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:43:29.806915"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:43:31.099091"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T23:08:29.012854"
+    },
+    "last_updated": "2025-10-03T23:08:29.013045"
+  }
+}

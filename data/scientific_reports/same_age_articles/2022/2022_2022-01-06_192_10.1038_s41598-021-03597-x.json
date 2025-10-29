@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.877750",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03597-x",
+    "title": "Electrical performance of efficient quad-crescent-shaped Si nanowire solar cell",
+    "article_number": "48",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ramy El-Bashar",
+      "Mohamed Hussein",
+      "Salem F. Hegazy",
+      "Yehia Badr",
+      "B. M. A. Rahman",
+      "Kenneth T. V. Grattan",
+      "Mohamed Farhat. O. Hameed",
+      "Salah S. A. Obayya"
+    ]
+  },
+  "article_index": 192,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:20:27.864696"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:20:29.372934"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:20:30.537384"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:56:02.539288"
+    },
+    "last_updated": "2025-10-03T21:56:02.539519"
+  }
+}

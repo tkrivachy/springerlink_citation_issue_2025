@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.690307",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07876-6",
+    "title": "Chromosome conformation capture resolved near complete genome assembly of broomcorn millet",
+    "article_number": "464",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Junpeng Shi",
+      "Xuxu Ma",
+      "Jihong Zhang",
+      "Yingsi Zhou",
+      "Minxuan Liu",
+      "Liangliang Huang",
+      "Silong Sun",
+      "Xiangbo Zhang",
+      "Xiang Gao",
+      "Wei Zhan",
+      "Pinghua Li",
+      "Lun Wang",
+      "Ping Lu",
+      "Haiming Zhao",
+      "Weibin Song",
+      "Jinsheng Lai"
+    ]
+  },
+  "article_index": 121,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:20:45.246365"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 110,
+      "retrieved_at": "2025-10-03T17:20:46.785294"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T17:20:48.173712"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T22:40:21.925512"
+    },
+    "last_updated": "2025-10-03T22:40:21.925701"
+  }
+}

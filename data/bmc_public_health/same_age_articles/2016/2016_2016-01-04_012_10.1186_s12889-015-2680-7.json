@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:50:10.193347",
+  "year": 2016,
+  "article_type": "comparison",
+  "publication_date": "2016-01-04",
+  "article_data": {
+    "doi": "10.1186/s12889-015-2680-7",
+    "title": "The usefulness of school-based syndromic surveillance for detecting malaria epidemics: experiences from a pilot project in Ethiopia",
+    "article_number": "20",
+    "publication_date": "2016-01-09",
+    "volume": "16",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ruth A. Ashton",
+      "Takele Kefyalew",
+      "Esey Batisso",
+      "Tessema Awano",
+      "Zelalem Kebede",
+      "Gezahegn Tesfaye",
+      "Tamiru Mesele",
+      "Sheleme Chibsa",
+      "Richard Reithinger",
+      "Simon J. Brooker"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:19:03.365016"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:19:04.956908"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:19:06.204288"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:09:54.169029"
+    },
+    "last_updated": "2025-10-03T21:09:54.169220"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.681416",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08463-z",
+    "title": "Marine biofilms constitute a bank of hidden microbial diversity and functional potential",
+    "article_number": "517",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Weipeng Zhang",
+      "Wei Ding",
+      "Yong-Xin Li",
+      "Chunkit Tam",
+      "Salim Bougouffa",
+      "Ruojun Wang",
+      "Bite Pei",
+      "Hoyin Chiang",
+      "Pokman Leung",
+      "Yanhong Lu",
+      "Jin Sun",
+      "He Fu",
+      "Vladimir B Bajic",
+      "Hongbin Liu",
+      "Nicole S. Webster",
+      "Pei-Yuan Qian"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T17:47:20.116409"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T17:47:21.631609"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 125,
+      "retrieved_at": "2025-10-03T17:47:23.201427"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T22:49:20.804774"
+    },
+    "last_updated": "2025-10-03T22:49:20.804964"
+  }
+}

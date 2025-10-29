@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202049",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20441-4",
+    "title": "Coherence resonance in influencer networks",
+    "article_number": "72",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ralf Tönjes",
+      "Carlos E. Fiore",
+      "Tiago Pereira"
+    ]
+  },
+  "article_index": 178,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:23:42.027000"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:23:43.550757"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:23:44.821715"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T23:01:48.750219"
+    },
+    "last_updated": "2025-10-03T23:01:48.750305"
+  }
+}

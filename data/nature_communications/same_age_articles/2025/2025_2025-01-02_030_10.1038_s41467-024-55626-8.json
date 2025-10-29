@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.514311",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55626-8",
+    "title": "Spin polarization induced by atomic strain of MBene promotes the ·O",
+    "article_number": "197",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhaoli Liu",
+      "Wenzhe Gao",
+      "Lizhi Liu",
+      "Yixuan Gao",
+      "Cui Zhang",
+      "Long Chen",
+      "Fan Lv",
+      "Jiafeng Xi",
+      "Ting Du",
+      "Linpin Luo",
+      "Junchen Zhuo",
+      "Wentao Zhang",
+      "Yanwei Ji",
+      "Yizhong Shen",
+      "Wen Liu",
+      "Jianlong Wang",
+      "Mingchuan Luo",
+      "Shaojun Guo"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:38:55.736307"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:38:57.300803"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:38:58.502700"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T23:27:02.620978"
+    },
+    "last_updated": "2025-10-03T23:27:02.621193"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.850515",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04095-w",
+    "title": "Endoscopic ultrasound-guided fine-needle biopsy as a tool for studying the intra-tumoral microbiome in pancreatic ductal adenocarcinoma: a pilot study",
+    "article_number": "107",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chia-Sheng Chu",
+      "Chi-Ying Yang",
+      "Chun-Chieh Yeh",
+      "Ro-Ting Lin",
+      "Chi-Ching Chen",
+      "Li-Yuan Bai",
+      "Mien-Chie Hung",
+      "Chun-Che Lin",
+      "Chun-Ying Wu",
+      "Jaw-Town Lin"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:21:03.174839"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:21:04.715307"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:21:05.882451"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:56:16.863211"
+    },
+    "last_updated": "2025-10-03T21:56:16.863444"
+  }
+}

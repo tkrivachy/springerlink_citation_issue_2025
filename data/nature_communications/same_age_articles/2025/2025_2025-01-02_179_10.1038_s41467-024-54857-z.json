@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.537174",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54857-z",
+    "title": "Experimental identification of topological defects in 2D colloidal glass",
+    "article_number": "55",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Vinay Vaibhav",
+      "Arabinda Bera",
+      "Amelia C. Y. Liu",
+      "Matteo Baggioli",
+      "Peter Keim",
+      "Alessio Zaccone"
+    ]
+  },
+  "article_index": 179,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:43:04.899849"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:43:06.427853"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:43:07.577133"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T23:28:39.791141"
+    },
+    "last_updated": "2025-10-03T23:28:39.791362"
+  }
+}

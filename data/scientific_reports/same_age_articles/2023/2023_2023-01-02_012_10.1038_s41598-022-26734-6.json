@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.100911",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26734-6",
+    "title": "Genetic parameters of feather corticosterone and fault bars and correlations with production traits in turkeys (",
+    "article_number": "38",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Emily M. Leishman",
+      "Ryley J. Vanderhout",
+      "Emhimad A. Abdalla",
+      "Nienke van Staaveren",
+      "Anna Naim",
+      "Shai Barbut",
+      "Benjamin J. Wood",
+      "Alexandra Harlander-Matauschek",
+      "Christine F. Baes"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:32:19.396176"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:32:20.957098"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:32:22.239128"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:00:46.652984"
+    },
+    "last_updated": "2025-10-03T22:00:46.653064"
+  }
+}

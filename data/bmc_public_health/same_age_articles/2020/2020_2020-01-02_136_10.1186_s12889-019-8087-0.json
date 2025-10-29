@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.686119",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8087-0",
+    "title": "Associations between psychoactive substance use and sensation seeking behavior among drivers in Norway",
+    "article_number": "23",
+    "publication_date": "2020-01-08",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ragnhild E. G. Jamt",
+      "Hallvard Gjerde",
+      "Håvard Furuhaugen",
+      "Giovanni Romeo",
+      "Vigdis Vindenes",
+      "Jan G. Ramaekers",
+      "Stig T. Bogstrand"
+    ]
+  },
+  "article_index": 136,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:36:03.505407"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:36:05.078008"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:36:06.311187"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:15:58.440096"
+    },
+    "last_updated": "2025-10-03T21:15:58.440147"
+  }
+}

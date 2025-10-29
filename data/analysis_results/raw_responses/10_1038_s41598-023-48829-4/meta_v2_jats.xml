@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-48829-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-023-48829-4</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Examining double standards in layoff preferences and expectations for gender, age, and ethnicity when violating the social norm of vaccination</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7176-4775</contrib-id>
+              <name name-style="western">
+                <surname>Moya</surname>
+                <given-names>Cristóbal</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6491-0754</contrib-id>
+              <name name-style="western">
+                <surname>Sattler</surname>
+                <given-names>Sebastian</given-names>
+              </name>
+              <address>
+                <email>sebastian.sattler@uni-bielefeld.de</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8991-0892</contrib-id>
+              <name name-style="western">
+                <surname>Taflinger</surname>
+                <given-names>Shannon</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8090-6886</contrib-id>
+              <name name-style="western">
+                <surname>Sauer</surname>
+                <given-names>Carsten</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2024</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2024</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>1</issue>
+          <elocation-id>39</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-023-48829-4</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-023-48829-4.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Whether vaccination refusal is perceived as a social norm violation that affects layoff decisions has not been tested. Also unknown is whether ascribed low-status groups are subject to double standards when they violate norms, experiencing stronger sanctions in layoff preferences and expectations, and whether work performance attenuates such sanctioning. Therefore, we study layoff preferences and expectations using a discrete choice experiment within a large representative online survey in Germany (
+              <italic>N</italic>
+               = 12,136). Respondents chose between two employee profiles, each with information about ascribed characteristics signaling different status groups (gender, age, and ethnicity), work performance (work quality and quantity, and social skills), and whether the employees refused to vaccinate against COVID-19. We found that employees who refused vaccination were more likely to be preferred and expected to be laid off. Respondents also expected double standards regarding layoffs due to vaccination refusal, hence, harsher treatment of females and older employees. Nonetheless, their preferences did not reflect such double standards. We found little support that high work performance attenuates these sanctions and double standards, opening questions about the conditions under which social biases arise. Our results suggest detrimental consequences of vaccination refusal for individuals, the labor market, and acceptance of health policies.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Public Health</kwd>
+            <kwd>Pediatrics</kwd>
+            <kwd>Medical Ethics</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="17">Psychology and Cognitive Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1701">Psychology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="15">Commerce, Management, Tourism and Services</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1503">Business and Management</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Deutsche Forschungsgemeinschaft</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100001659</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">SA 2992/3-1</award-id>
+              <award-id award-type="FundRef grant">MA 7556/1-1</award-id>
+              <award-id award-type="FundRef grant">KR 4060/6-1</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sattler</surname>
+                  <given-names>Sebastian</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sattler</surname>
+                  <given-names>Sebastian</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sattler</surname>
+                  <given-names>Sebastian</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Universität Bielefeld (3146)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <funding-statement>Open Access funding enabled and organized by Projekt DEAL.</funding-statement>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

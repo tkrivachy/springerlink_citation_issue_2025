@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.308725",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56492-x",
+    "title": "Reformation of the Electron Internal Transport Barrier with the Appearance of a Magnetic Island",
+    "article_number": "5",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "N. Kenmochi",
+      "T. Minami",
+      "T. Mizuuchi",
+      "C. Takahashi",
+      "G. M. Weir",
+      "K. Nishioka",
+      "S. Kobayashi",
+      "Y. Nakamura",
+      "H. Okada",
+      "S. Kado",
+      "S. Yamamoto",
+      "S. Ohshima",
+      "S. Konoshima",
+      "Y. Ohtani",
+      "K. Nagasaki"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:27:43.598597"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:27:45.157147"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:27:46.426172"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:34:25.131617"
+    },
+    "last_updated": "2025-10-03T21:34:25.131807"
+  }
+}

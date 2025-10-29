@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.630925",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10304-y",
+    "title": "Quantifying and characterizing hourly human exposure to malaria vectors bites to address residual malaria transmission during dry and rainy seasons in rural Southwest Burkina Faso",
+    "article_number": "251",
+    "publication_date": "2021-01-30",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "D. D. Soma",
+      "B. Zogo",
+      "P. Taconet",
+      "A. Somé",
+      "S. Coulibaly",
+      "L. Baba-Moussa",
+      "G. A. Ouédraogo",
+      "A. Koffi",
+      "C. Pennetier",
+      "K. R. Dabiré",
+      "N. Moiroux"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:50:09.033985"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:50:10.563783"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:50:11.809140"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:21:01.768167"
+    },
+    "last_updated": "2025-10-03T21:21:01.768396"
+  }
+}

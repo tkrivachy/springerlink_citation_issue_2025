@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.825016",
+  "year": 2011,
+  "article_type": "comparison",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-7",
+    "title": "Using Routinely Collected Hospital Data for Child Maltreatment Surveillance: Issues, Methods and Patterns",
+    "article_number": "7",
+    "publication_date": "2011-01-05",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kirsten McKenzie",
+      "Debbie A Scott"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T12:42:42.232248"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:42:43.779485"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T12:42:45.101019"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T20:56:31.946851"
+    },
+    "last_updated": "2025-10-03T20:56:31.946953"
+  }
+}

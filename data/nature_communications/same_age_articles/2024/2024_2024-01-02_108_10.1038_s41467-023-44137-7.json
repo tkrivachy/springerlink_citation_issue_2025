@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.677674",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44137-7",
+    "title": "Integrative genotyping of cancer and immune phenotypes by long-read sequencing",
+    "article_number": "32",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Livius Penter",
+      "Mehdi Borji",
+      "Adi Nagler",
+      "Haoxiang Lyu",
+      "Wesley S. Lu",
+      "Nicoletta Cieri",
+      "Katie Maurer",
+      "Giacomo Oliveira",
+      "Aziz M. Al’Khafaji",
+      "Kiran V. Garimella",
+      "Shuqiang Li",
+      "Donna S. Neuberg",
+      "Jerome Ritz",
+      "Robert J. Soiffer",
+      "Jacqueline S. Garcia",
+      "Kenneth J. Livak",
+      "Catherine J. Wu"
+    ]
+  },
+  "article_index": 108,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:57:45.313565"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:57:46.859312"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:57:48.033694"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T23:13:17.344319"
+    },
+    "last_updated": "2025-10-03T23:13:17.344550"
+  }
+}

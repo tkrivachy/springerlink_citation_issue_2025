@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.667458",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8257-0",
+    "title": "Association between convenience stores near schools and obesity among school-aged children in Beijing, China",
+    "article_number": "150",
+    "publication_date": "2020-01-31",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Shuang Zhou",
+      "Yu Cheng",
+      "Lan Cheng",
+      "Di Wang",
+      "Qin Li",
+      "Zheng Liu",
+      "Hai-Jun Wang"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:34:57.395110"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:34:58.951104"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:35:00.202485"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:15:34.258010"
+    },
+    "last_updated": "2025-10-03T21:15:34.258196"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.722333",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08123-8",
+    "title": "CD73 expression on effector T cells sustained by TGF-β facilitates tumor resistance to anti-4-1BB/CD137 therapy",
+    "article_number": "150",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Siqi Chen",
+      "Jie Fan",
+      "Minghui Zhang",
+      "Lei Qin",
+      "Donye Dominguez",
+      "Alan Long",
+      "Gaoxiang Wang",
+      "Renqiang Ma",
+      "Huabin Li",
+      "Yi Zhang",
+      "Deyu Fang",
+      "Jeffrey Sosman",
+      "Bin Zhang"
+    ]
+  },
+  "article_index": 414,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T17:55:06.614279"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T17:55:08.177723"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T17:55:09.362212"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T22:52:17.262163"
+    },
+    "last_updated": "2025-10-03T22:52:17.262393"
+  }
+}

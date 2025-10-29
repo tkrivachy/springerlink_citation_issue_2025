@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.226239",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80513-9",
+    "title": "Glycemic indices predict outcomes after aneurysmal subarachnoid hemorrhage: a retrospective single center comparative analysis",
+    "article_number": "158",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Matthew K. McIntyre",
+      "Mohamed Halabi",
+      "Boyi Li",
+      "Andrew Long",
+      "Alexander Van Hoof",
+      "Adil Afridi",
+      "Chirag Gandhi",
+      "Meic Schmidt",
+      "Chad Cole",
+      "Justin Santarelli",
+      "Fawaz Al-Mufti",
+      "Christian A. Bowers"
+    ]
+  },
+  "article_index": 155,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:46:43.790740"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:46:45.357650"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:46:46.533830"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:42:07.255200"
+    },
+    "last_updated": "2025-10-03T21:42:07.255434"
+  }
+}

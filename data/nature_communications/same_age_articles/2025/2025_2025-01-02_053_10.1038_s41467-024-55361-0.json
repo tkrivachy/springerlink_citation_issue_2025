@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.517672",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55361-0",
+    "title": "Drug inhibition and substrate transport mechanisms of human VMAT2",
+    "article_number": "323",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Feiwen Wei",
+      "Huihui Liu",
+      "Wei Zhang",
+      "Jufang Wang",
+      "Yanqing Zhang"
+    ]
+  },
+  "article_index": 53,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:38:23.998678"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:38:25.570178"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:38:26.774722"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:26:52.024603"
+    },
+    "last_updated": "2025-10-03T23:26:52.024792"
+  }
+}

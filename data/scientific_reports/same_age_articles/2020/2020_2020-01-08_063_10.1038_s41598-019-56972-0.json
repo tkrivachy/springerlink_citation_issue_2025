@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.306264",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56972-0",
+    "title": "Concordance of copy number abnormality detection using SNP arrays and Multiplex Ligation-dependent Probe Amplification (MLPA) in acute lymphoblastic leukaemia",
+    "article_number": "45",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Matthew Bashton",
+      "Robin Hollis",
+      "Sarra Ryan",
+      "Claire J. Schwab",
+      "John Moppett",
+      "Christine J. Harrison",
+      "Anthony V. Moorman",
+      "Amir Enshaei"
+    ]
+  },
+  "article_index": 63,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:25:48.899690"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:25:50.405747"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:25:51.670228"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:33:38.215828"
+    },
+    "last_updated": "2025-10-03T21:33:38.215886"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.735008",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07907-2",
+    "title": "The non-canonical SMC protein SmcHD1 antagonises TAD formation and compartmentalisation on the inactive X chromosome",
+    "article_number": "30",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Michal R. Gdula",
+      "Tatyana B. Nesterova",
+      "Greta Pintacuda",
+      "Jonathan Godwin",
+      "Ye Zhan",
+      "Hakan Ozadam",
+      "Michael McClellan",
+      "Daniella Moralli",
+      "Felix Krueger",
+      "Catherine M. Green",
+      "Wolf Reik",
+      "Skirmantas Kriaucionis",
+      "Edith Heard",
+      "Job Dekker",
+      "Neil Brockdorff"
+    ]
+  },
+  "article_index": 532,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:19:51.533180"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 100,
+      "retrieved_at": "2025-10-03T17:19:53.076094"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T17:19:54.462638"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T22:40:04.438457"
+    },
+    "last_updated": "2025-10-03T22:40:04.438650"
+  }
+}

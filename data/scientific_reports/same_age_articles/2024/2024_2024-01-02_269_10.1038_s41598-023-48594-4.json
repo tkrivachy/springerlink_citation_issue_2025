@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.861124",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-48594-4",
+    "title": "Improving long COVID-related text classification: a novel end-to-end domain-adaptive paraphrasing framework",
+    "article_number": "85",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sai Ashish Somayajula",
+      "Onkar Litake",
+      "Youwei Liang",
+      "Ramtin Hosseini",
+      "Shamim Nemati",
+      "David O. Wilson",
+      "Robert N. Weinreb",
+      "Atul Malhotra",
+      "Pengtao Xie"
+    ]
+  },
+  "article_index": 269,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:36:41.283930"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:36:42.818927"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:36:44.004298"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:02:31.572496"
+    },
+    "last_updated": "2025-10-03T22:02:31.572690"
+  }
+}

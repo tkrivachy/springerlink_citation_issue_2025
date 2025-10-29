@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.366848",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84863-6",
+    "title": "Generative adversarial synthetic neighbors-based unsupervised anomaly detection",
+    "article_number": "16",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lan Chen",
+      "Hong Jiang",
+      "Lizhong Wang",
+      "Jun Li",
+      "Manhua Yu",
+      "Yong Shen",
+      "Xusheng Du"
+    ]
+  },
+  "article_index": 173,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:51:26.937286"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:51:28.505496"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:29.726187"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:30:01.783754"
+    },
+    "last_updated": "2025-10-03T22:30:01.783947"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.211011",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80509-5",
+    "title": "Nuclear IL-33 restrains the early conversion of fibroblasts to an extracellular matrix-secreting phenotype",
+    "article_number": "108",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Francesca Gatti",
+      "Sobuj Mia",
+      "Clara Hammarström",
+      "Nadine Frerker",
+      "Bjarte Fosby",
+      "Junbai Wang",
+      "Wojciech Pietka",
+      "Olav Sundnes",
+      "Johanna Hol",
+      "Monika Kasprzycka",
+      "Guttorm Haraldsen"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:55:05.624286"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:55:07.170136"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T14:55:08.349602"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T21:45:21.945171"
+    },
+    "last_updated": "2025-10-03T21:45:21.945424"
+  }
+}

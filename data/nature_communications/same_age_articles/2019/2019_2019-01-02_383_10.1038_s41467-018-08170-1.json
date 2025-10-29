@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.719000",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08170-1",
+    "title": "Suicide among cancer patients",
+    "article_number": "207",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nicholas G. Zaorsky",
+      "Ying Zhang",
+      "Leonard Tuanquin",
+      "Shirley M. Bluethmann",
+      "Henry S. Park",
+      "Vernon M. Chinchilli"
+    ]
+  },
+  "article_index": 383,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 184,
+      "retrieved_at": "2025-10-03T17:15:53.917173"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 219,
+      "retrieved_at": "2025-10-03T17:15:55.481802"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 219,
+      "retrieved_at": "2025-10-03T17:15:57.016136"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 282,
+      "retrieved_at": "2025-10-03T22:38:45.608565"
+    },
+    "last_updated": "2025-10-03T22:38:45.608755"
+  }
+}

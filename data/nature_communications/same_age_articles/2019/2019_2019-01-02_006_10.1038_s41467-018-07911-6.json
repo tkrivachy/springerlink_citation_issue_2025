@@ -1,0 +1,70 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.676985",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07911-6",
+    "title": "RORγt inhibition selectively targets IL-17 producing iNKT and γδ-T cells enriched in Spondyloarthritis patients",
+    "article_number": "9",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Koen Venken",
+      "Peggy Jacques",
+      "Céline Mortier",
+      "Mark E. Labadia",
+      "Tine Decruy",
+      "Julie Coudenys",
+      "Kathleen Hoyt",
+      "Anita L. Wayne",
+      "Robert Hughes",
+      "Michael Turner",
+      "Sofie Van Gassen",
+      "Liesbet Martens",
+      "Dustin Smith",
+      "Christian Harcken",
+      "Joseph Wahle",
+      "Chao-Ting Wang",
+      "Eveline Verheugen",
+      "Nadia Schryvers",
+      "Gaëlle Varkas",
+      "Heleen Cypers",
+      "Ruth Wittoek",
+      "Yves Piette",
+      "Lieve Gyselbrecht",
+      "Serge Van Calenbergh",
+      "Filip Van den Bosch",
+      "Yvan Saeys",
+      "Gerald Nabozny",
+      "Dirk Elewaut"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 233,
+      "retrieved_at": "2025-10-03T18:04:15.171899"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 246,
+      "retrieved_at": "2025-10-03T18:04:16.732007"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 241,
+      "retrieved_at": "2025-10-03T18:04:18.304036"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 266,
+      "retrieved_at": "2025-10-03T22:55:20.970602"
+    },
+    "last_updated": "2025-10-03T22:55:20.970792"
+  }
+}

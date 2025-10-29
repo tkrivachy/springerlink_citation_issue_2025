@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202633",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20309-7",
+    "title": "Simultaneous Zn",
+    "article_number": "109",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hongbao Fang",
+      "Shanshan Geng",
+      "Mingang Hao",
+      "Qixin Chen",
+      "Minglun Liu",
+      "Chunyan Liu",
+      "Zhiqi Tian",
+      "Chengjun Wang",
+      "Takanori Takebe",
+      "Jun-Lin Guan",
+      "Yuncong Chen",
+      "Zijian Guo",
+      "Weijiang He",
+      "Jiajie Diao"
+    ]
+  },
+  "article_index": 183,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T18:22:36.477054"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T18:22:38.058687"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T18:22:39.238644"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T23:01:24.728236"
+    },
+    "last_updated": "2025-10-03T23:01:24.728461"
+  }
+}

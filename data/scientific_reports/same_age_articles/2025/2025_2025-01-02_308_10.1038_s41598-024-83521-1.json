@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.381797",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83521-1",
+    "title": "An information gap decision theory and improved gradient-based optimizer for robust optimization of renewable energy systems in distribution network",
+    "article_number": "346",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fude Duan",
+      "Ali Basem",
+      "Sadek Habib Ali",
+      "Teeb Basim Abbas",
+      "Mahdiyeh Eslami",
+      "Mahdi Jafari Shahbazzadeh"
+    ]
+  },
+  "article_index": 308,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:58:34.738367"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:58:36.285056"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:58:37.559386"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:32:19.226110"
+    },
+    "last_updated": "2025-10-03T22:32:19.226300"
+  }
+}

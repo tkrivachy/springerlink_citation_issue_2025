@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.641251",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35222-4",
+    "title": "Targeted systematic evolution of an RNA platform neutralizing DNMT1 function and controlling DNA methylation",
+    "article_number": "99",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Carla L. Esposito",
+      "Ida Autiero",
+      "Annamaria Sandomenico",
+      "H. Li",
+      "Mahmoud A. Bassal",
+      "Maria L. Ibba",
+      "Dongfang Wang",
+      "Lucrezia Rinaldi",
+      "Simone Ummarino",
+      "Giulia Gaggi",
+      "Marta Borchiellini",
+      "Piotr Swiderski",
+      "Menotti Ruvo",
+      "Silvia Catuogno",
+      "Alexander K. Ebralidze",
+      "Marcin Kortylewski",
+      "Vittorio de Franciscis",
+      "Annalisa Di Ruscio"
+    ]
+  },
+  "article_index": 38,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:47:16.343692"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:47:17.903885"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:47:19.084569"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:09:43.195205"
+    },
+    "last_updated": "2025-10-03T23:09:43.195437"
+  }
+}

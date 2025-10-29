@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.515123",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55464-8",
+    "title": "Compound electron acceleration at planetary foreshocks",
+    "article_number": "77",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaofei Shi",
+      "Anton Artemyev",
+      "Vassilis Angelopoulos",
+      "Terry Liu",
+      "Lynn B. Wilson III"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:44:10.900689"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:44:12.469168"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:44:13.665967"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:29:03.753441"
+    },
+    "last_updated": "2025-10-03T23:29:03.753504"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:53.376006",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-023-17512-8",
+    "title": "Modifiable lifestyle, mental health status and diabetic retinopathy in U.S. adults aged 18–64 years with diabetes: a population-based cross-sectional study from NHANES 1999–2018",
+    "article_number": "11",
+    "publication_date": "2024-01-02",
+    "volume": "24",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Bo Li",
+      "Chuandi Zhou",
+      "Chufeng Gu",
+      "Xiaoyun Cheng",
+      "Yujie Wang",
+      "Chenxin Li",
+      "Mingming Ma",
+      "Ying Fan",
+      "Xun Xu",
+      "Haibing Chen",
+      "Zhi Zheng"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:17:35.865363"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:17:37.447293"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:17:38.761276"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:30:40.621268"
+    },
+    "last_updated": "2025-10-03T21:30:40.621314"
+  }
+}

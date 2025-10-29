@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.411056",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84204-7",
+    "title": "Association between systemic immune inflammation index and cataract incidence from 2005 to 2008",
+    "article_number": "499",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xiang Li",
+      "Guo-lei Du",
+      "Shi-Nan Wu",
+      "Yi-qing Sun",
+      "Si-Qi Zhang",
+      "Zhi-Jie Zhang",
+      "Jia-feng Tang"
+    ]
+  },
+  "article_index": 569,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:25:59.835026"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:26:01.350374"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:55.576327"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:20:56.042879"
+    },
+    "last_updated": "2025-10-07T09:50:55.576411"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.359679",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84023-w",
+    "title": "The development of an efficient artificial intelligence-based classification approach for colorectal cancer response to radiochemotherapy: deep learning vs. machine learning",
+    "article_number": "62",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fatemeh Bahrambanan",
+      "Meysam Alizamir",
+      "Kayhan Moradveisi",
+      "Salim Heddam",
+      "Sungwon Kim",
+      "Seunghyun Kim",
+      "Meysam Soleimani",
+      "Saeid Afshar",
+      "Amir Taherkhani"
+    ]
+  },
+  "article_index": 123,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:27:02.941701"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:27:04.483793"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:07.621706"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:21:16.137321"
+    },
+    "last_updated": "2025-10-07T09:51:07.621923"
+  }
+}

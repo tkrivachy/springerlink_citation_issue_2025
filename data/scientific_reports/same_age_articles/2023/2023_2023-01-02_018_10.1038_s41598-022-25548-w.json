@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.101488",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-25548-w",
+    "title": "Simulation of electrical conductivity for polymer silver nanowires systems",
+    "article_number": "5",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ali Mohammadpour-Haratbar",
+      "Yasser Zare",
+      "Kyong Yop Rhee"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T15:31:21.580962"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T15:31:23.092830"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:31:24.344353"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T22:00:23.970398"
+    },
+    "last_updated": "2025-10-03T22:00:23.970445"
+  }
+}

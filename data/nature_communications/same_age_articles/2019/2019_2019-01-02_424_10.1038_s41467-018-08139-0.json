@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723389",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08139-0",
+    "title": "The conservation value of human-modified landscapes for the world’s primates",
+    "article_number": "152",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Carmen Galán-Acedo",
+      "Víctor Arroyo-Rodríguez",
+      "Ellen Andresen",
+      "Luis Verde Arregoitia",
+      "Ernesto Vega",
+      "Carlos A. Peres",
+      "Robert M. Ewers"
+    ]
+  },
+  "article_index": 424,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:29:25.342011"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 110,
+      "retrieved_at": "2025-10-03T17:29:26.860731"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T17:29:28.008359"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 117,
+      "retrieved_at": "2025-10-03T22:43:22.811665"
+    },
+    "last_updated": "2025-10-03T22:43:22.811857"
+  }
+}

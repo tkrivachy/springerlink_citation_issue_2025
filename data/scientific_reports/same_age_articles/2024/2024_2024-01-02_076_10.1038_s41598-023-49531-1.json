@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.834559",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49531-1",
+    "title": "Effects of combined extreme cold and drought stress on growth, photosynthesis, and physiological characteristics of cool-season grasses",
+    "article_number": "116",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Juanxia Li",
+      "Xiaoming Bai",
+      "Fu Ran",
+      "Caizhong Zhang",
+      "Yubang Yan",
+      "Ping Li",
+      "Hui Chen"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T15:51:55.145379"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T15:51:56.680716"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:51:57.851840"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T22:08:30.084601"
+    },
+    "last_updated": "2025-10-03T22:08:30.084793"
+  }
+}

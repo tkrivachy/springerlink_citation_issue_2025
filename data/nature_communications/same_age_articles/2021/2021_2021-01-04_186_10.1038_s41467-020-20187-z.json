@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202980",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20187-z",
+    "title": "Group 2i Isochrysidales produce characteristic alkenones reflecting sea ice distribution",
+    "article_number": "15",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Karen Jiaxi Wang",
+      "Yongsong Huang",
+      "Markus Majaneva",
+      "Simon T. Belt",
+      "Sian Liao",
+      "Joseph Novak",
+      "Tyler R. Kartzinel",
+      "Timothy D. Herbert",
+      "Nora Richter",
+      "Patricia Cabedo-Sanz"
+    ]
+  },
+  "article_index": 186,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:23:30.136067"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:23:31.640543"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:23:32.951299"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T23:01:44.331610"
+    },
+    "last_updated": "2025-10-03T23:01:44.331796"
+  }
+}

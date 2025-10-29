@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.656361",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10041-8",
+    "title": "An experience of mass administration of fractional dose inactivated polio vaccine through intradermal needle-free injectors in Karachi, Sindh, Pakistan",
+    "article_number": "44",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Umar Farooq Bullo",
+      "Jaishri Mehraj",
+      "Syed Musa Raza",
+      "Shumaila Rasool",
+      "Noreen Naz Ansari",
+      "Ahmed Ali Shaikh",
+      "Zamir Ali Phul",
+      "Sohail Ahmed Memon",
+      "Rehan Iqbal Baloch",
+      "Zahoor Ahmed Baloch",
+      "Shoukat Ali Chandio"
+    ]
+  },
+  "article_index": 232,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:45:57.226961"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:45:58.785744"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:46:00.039778"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:19:33.550056"
+    },
+    "last_updated": "2025-10-03T21:19:33.550244"
+  }
+}

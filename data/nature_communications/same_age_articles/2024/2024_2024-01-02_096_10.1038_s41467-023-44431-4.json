@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.676433",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44431-4",
+    "title": "Universal microbial reworking of dissolved organic matter along environmental gradients",
+    "article_number": "187",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Erika C. Freeman",
+      "Erik J. S. Emilson",
+      "Thorsten Dittmar",
+      "Lucas P. P. Braga",
+      "Caroline E. Emilson",
+      "Tobias Goldhammer",
+      "Christine Martineau",
+      "Gabriel Singer",
+      "Andrew J. Tanentzap"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:06:33.017308"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T19:06:34.604442"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:06:35.751883"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T23:16:19.618370"
+    },
+    "last_updated": "2025-10-03T23:16:19.618500"
+  }
+}

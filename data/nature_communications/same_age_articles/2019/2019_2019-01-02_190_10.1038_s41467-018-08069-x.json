@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697678",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08069-x",
+    "title": "Enhancer hijacking activates oncogenic transcription factor NR4A3 in acinic cell carcinomas of the salivary glands",
+    "article_number": "368",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Florian Haller",
+      "Matthias Bieg",
+      "Rainer Will",
+      "Cindy Körner",
+      "Dieter Weichenhan",
+      "Alexander Bott",
+      "Naveed Ishaque",
+      "Pavlo Lutsik",
+      "Evgeny A. Moskalev",
+      "Sarina K. Mueller",
+      "Marion Bähr",
+      "Angelika Woerner",
+      "Birgit Kaiser",
+      "Claudia Scherl",
+      "Marlen Haderlein",
+      "Kortine Kleinheinz",
+      "Rainer Fietkau",
+      "Heinrich Iro",
+      "Roland Eils",
+      "Arndt Hartmann",
+      "Christoph Plass",
+      "Stefan Wiemann",
+      "Abbas Agaimy"
+    ]
+  },
+  "article_index": 190,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 163,
+      "retrieved_at": "2025-10-03T17:56:12.470145"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 173,
+      "retrieved_at": "2025-10-03T17:56:14.009024"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T17:56:15.202668"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 184,
+      "retrieved_at": "2025-10-03T22:52:40.339841"
+    },
+    "last_updated": "2025-10-03T22:52:40.340030"
+  }
+}

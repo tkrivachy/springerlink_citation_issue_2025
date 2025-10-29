@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.675112",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44323-7",
+    "title": "Deep learning-driven fragment ion series classification enables highly precise and sensitive de novo peptide sequencing",
+    "article_number": "151",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daniela Klaproth-Andrade",
+      "Johannes Hingerl",
+      "Yanik Bruns",
+      "Nicholas H. Smith",
+      "Jakob Träuble",
+      "Mathias Wilhelm",
+      "Julien Gagneur"
+    ]
+  },
+  "article_index": 85,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T18:59:34.785841"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:59:36.331993"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:59:37.646484"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:13:55.085351"
+    },
+    "last_updated": "2025-10-03T23:13:55.085404"
+  }
+}

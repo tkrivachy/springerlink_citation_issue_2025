@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.514445",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55204-y",
+    "title": "Cooperative integration of spatially resolved multi-omics data with COSMOS",
+    "article_number": "27",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuansheng Zhou",
+      "Xue Xiao",
+      "Lei Dong",
+      "Chen Tang",
+      "Guanghua Xiao",
+      "Lin Xu"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:41:14.383259"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:41:15.944539"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:41:17.129468"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:27:56.451728"
+    },
+    "last_updated": "2025-10-03T23:27:56.451803"
+  }
+}

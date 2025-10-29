@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.846668",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50625-z",
+    "title": null,
+    "article_number": "110",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yutaka Kawano",
+      "Maki Tanaka",
+      "Yasushi Satoh",
+      "Shigekazu Sugino",
+      "Jun Suzuki",
+      "Masaki Fujishima",
+      "Eri Okumura",
+      "Hideo Takekoshi",
+      "Osamu Uehara",
+      "Shintaro Sugita",
+      "Yoshihiro Abiko",
+      "Tetsu Tomonari",
+      "Hironori Tanaka",
+      "Hidekatsu Takeda",
+      "Tetsuji Takayama"
+    ]
+  },
+  "article_index": 192,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:58:39.225475"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:58:40.771687"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:58:42.018028"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:11:00.738640"
+    },
+    "last_updated": "2025-10-03T22:11:00.738831"
+  }
+}

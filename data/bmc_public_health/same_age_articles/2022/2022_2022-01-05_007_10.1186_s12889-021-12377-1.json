@@ -1,0 +1,80 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.580266",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12377-1",
+    "title": "Premature mortality attributable to COVID-19: potential years of life lost in 17 countries around the world, January–August 2020",
+    "article_number": "54",
+    "publication_date": "2022-01-09",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Maider Pagola Ugarte",
+      "Souzana Achilleos",
+      "Annalisa Quattrocchi",
+      "John Gabel",
+      "Ourania Kolokotroni",
+      "Constantina Constantinou",
+      "Nicoletta Nicolaou",
+      "Jose Manuel Rodriguez-Llanes",
+      "Qian Huang",
+      "Olesia Verstiuk",
+      "Nataliia Pidmurniak",
+      "Jennifer Wenjing Tao",
+      "Bo Burström",
+      "Petra Klepac",
+      "Ivan Erzen",
+      "Mario Chong",
+      "Manuel Barron",
+      "Terje P. Hagen",
+      "Zhanna Kalmatayeva",
+      "Kairat Davletov",
+      "Inbar Zucker",
+      "Zalman Kaufman",
+      "Maia Kereselidze",
+      "Levan Kandelaki",
+      "Nolwenn Le Meur",
+      "Lucy Goldsmith",
+      "Julia A. Critchley",
+      "Maria Angelica Pinilla",
+      "Gloria Isabel Jaramillo",
+      "Domingos Teixeira",
+      "Lara Ferrero Goméz",
+      "Jackeline Lobato",
+      "Carolina Araújo",
+      "Joseph Cuthbertson",
+      "Catherine M. Bennett",
+      "Antonis Polemitis",
+      "Andreas Charalambous",
+      "Christiana A. Demetriou"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:06:34.546540"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:06:36.102674"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:06:37.392522"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:26:49.488184"
+    },
+    "last_updated": "2025-10-03T21:26:49.488232"
+  }
+}

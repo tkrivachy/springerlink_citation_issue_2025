@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.343009",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84532-8",
+    "title": "Logical reasoning for human activity recognition based on multisource data from wearable device",
+    "article_number": "380",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mahmood Alsaadi",
+      "Ismail Keshta",
+      "Janjhyam Venkata Naga Ramesh",
+      "Divya Nimma",
+      "Mohammad Shabaz",
+      "Nirupma pathak",
+      "Pavitar Parkash Singh",
+      "Sherzod Kiyosov",
+      "Mukesh Soni"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:06:54.489679"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:06:56.061121"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:57.386296"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:14:12.658267"
+    },
+    "last_updated": "2025-10-07T09:46:57.386553"
+  }
+}

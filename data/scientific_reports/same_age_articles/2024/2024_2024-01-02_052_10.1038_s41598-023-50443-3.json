@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.832026",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50443-3",
+    "title": "Characterization of dabrafenib-induced drug insensitivity via cellular barcoding and collateral sensitivity to second-line therapeutics",
+    "article_number": "286",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Rana Can Baygin",
+      "Kubra Celikbas Yilmaz",
+      "Ahmet Acar"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:48:30.335628"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:48:31.887781"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:48:33.173151"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:07:18.376379"
+    },
+    "last_updated": "2025-10-03T22:07:18.376509"
+  }
+}

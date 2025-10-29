@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "json",
+  "test_doi": "10.1038/s41598-023-50939-y",
+  "safe_doi": "10_1038_s41598-023-50939-y",
+  "timestamp": "2025-10-07 12:23:09",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.49481201171875,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/json",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41598-023-50939-y",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'openAccess', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'subjects', 'disciplines']\ndoi: 10.1038/s41598-023-50939-y...\ntitle: BAF45D-binding to HOX genes was differentially targeted in H9-derived spinal cord neural stem cells...\ncreators: [{'creator': 'Liu, Chang'}, {'creator': 'Xie, Yuxin'}, {'creator': 'Chen, Xueying'}, {'creator': 'Li...\npublicationName: Scientific Reports...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "openaccess_json.json"
+}

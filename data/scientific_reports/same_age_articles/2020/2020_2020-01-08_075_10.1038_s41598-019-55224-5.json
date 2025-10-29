@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.307639",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-55224-5",
+    "title": "Predicting calvarial morphology in sagittal craniosynostosis",
+    "article_number": "3",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Oyvind Malde",
+      "Connor Cross",
+      "Chien L. Lim",
+      "Arsalan Marghoub",
+      "Michael L. Cunningham",
+      "Richard A. Hopper",
+      "Mehran Moazen"
+    ]
+  },
+  "article_index": 75,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:32:14.761695"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T14:32:16.267851"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:32:17.455237"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T21:36:14.751058"
+    },
+    "last_updated": "2025-10-03T21:36:14.751119"
+  }
+}

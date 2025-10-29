@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.386674",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84258-7",
+    "title": "Estimating forest aboveground carbon sink based on landsat time series and its response to climate change",
+    "article_number": "589",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kun Yang",
+      "Kai Luo",
+      "Jialong Zhang",
+      "Bo Qiu",
+      "Feiping Wang",
+      "Qinglin Xiao",
+      "Jun Cao",
+      "Yunrun He",
+      "Jian Yang"
+    ]
+  },
+  "article_index": 354,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:09:32.582788"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:09:34.088224"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:30.966280"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:15:10.255573"
+    },
+    "last_updated": "2025-10-07T09:47:30.966396"
+  }
+}

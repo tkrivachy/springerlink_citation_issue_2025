@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.883798",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13884-x",
+    "title": "Charge distribution guided by grain crystallographic orientations in polycrystalline battery materials",
+    "article_number": "83",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhengrui Xu",
+      "Zhisen Jiang",
+      "Chunguang Kuai",
+      "Rong Xu",
+      "Changdong Qin",
+      "Yan Zhang",
+      "Muhammad Mominur Rahman",
+      "Chenxi Wei",
+      "Dennis Nordlund",
+      "Cheng-Jun Sun",
+      "Xianghui Xiao",
+      "Xi-Wen Du",
+      "Kejie Zhao",
+      "Pengfei Yan",
+      "Yijin Liu",
+      "Feng Lin"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T18:10:50.124873"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 176,
+      "retrieved_at": "2025-10-03T18:10:51.643519"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 149,
+      "retrieved_at": "2025-10-03T18:10:53.116465"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 198,
+      "retrieved_at": "2025-10-03T22:57:25.849109"
+    },
+    "last_updated": "2025-10-03T22:57:25.849296"
+  }
+}

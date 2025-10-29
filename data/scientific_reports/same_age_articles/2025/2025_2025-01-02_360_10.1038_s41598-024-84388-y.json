@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.387366",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84388-y",
+    "title": "Evidence of eared doves consumption and the potential toxic exposure during the Regional Development period in Quito-Ecuador",
+    "article_number": "554",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Roberto Ordoñez-Araque",
+      "Andrés Mosquera",
+      "José Luis Román-Carrión",
+      "Paul Vargas-Jentzsch",
+      "Luis Ramos-Guerrero",
+      "José Luis Rivera-Parra",
+      "Martha Romero-Bastidas",
+      "Carlos Montalvo-Puente",
+      "Jenny Ruales"
+    ]
+  },
+  "article_index": 360,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:50:46.375010"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:50:47.878479"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:50:49.052389"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:29:45.531293"
+    },
+    "last_updated": "2025-10-03T22:29:45.531521"
+  }
+}

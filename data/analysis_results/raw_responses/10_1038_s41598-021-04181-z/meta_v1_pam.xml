@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-021-04181-z</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-021-04181-z</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41598-021-04181-z</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41598-021-04181-z.pdf</ns2:url>
+          <dc:title>Spherical harmonics to quantify cranial asymmetry in deformational plagiocephaly</dc:title>
+          <dc:creator>Grieb, Jonas</dc:creator>
+          <dc:creator>Barbero-García, Inés</dc:creator>
+          <dc:creator>Lerma, José Luis</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2045-2322</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:volume>12</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>10</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2022-01-07</onlineDate>
+          <ns2:coverDate>2022-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41598-021-04181-z</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2022-01-07</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-021-04181-z</ns2:url>
+          <ns2:copyright>©2022 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Cranial deformation and deformational plagiocephaly (DP) in particular affect an important percentage of infants. The assessment and diagnosis of the deformation are commonly carried by manual measurements that provide low interuser accuracy. Another approach is the use of three-dimensional (3D) models. Nevertheless, in most cases, deformation measurements are carried out manually on the 3D model. It is necessary to develop methodologies for the detection of DP that are automatic, accurate and take profit on the high quantity of information of the 3D models. Spherical harmonics are proposed as a new methodology to identify DP from head 3D models. The ideal fitted ellipsoid for each head is computed and the orthogonal distances between head and ellipsoid are obtained. Finally, the distances are modelled using spherical harmonics. Spherical harmonic coefficients of degree 2 and order − 2 are identified as the correct ones to represent the asymmetry characteristic of DP. The obtained coefficient is compared to other anthropometric deformation indexes, such as Asymmetry Index, Oblique Cranial Length Ratio, Posterior Asymmetry Index and Anterior Asymmetry Index. The coefficient of degree 2 and order − 2 with a maximum degree of 4 is found to provide better results than the commonly computed anthropometric indexes in the detection of DP.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Spain</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

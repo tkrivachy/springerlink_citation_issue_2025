@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.764317",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-11",
+    "title": "Spatio-temporal analysis on enterovirus cases through integrated surveillance in Taiwan",
+    "article_number": "11",
+    "publication_date": "2014-01-08",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ta-Chien Chan",
+      "Jing-Shiang Hwang",
+      "Rung-Hung Chen",
+      "Chwan-Chuen King",
+      "Po-Huang Chiang"
+    ]
+  },
+  "article_index": 159,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T12:56:28.243731"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T12:56:29.840170"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:56:31.125476"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:01:28.706023"
+    },
+    "last_updated": "2025-10-03T21:01:28.706074"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.826163",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49600-5",
+    "title": "Striatal dopamine neurotransmission is altered in age- and region-specific manner in a Parkinson’s disease transgenic mouse",
+    "article_number": "164",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jose Medina-Luque",
+      "Patrick Piechocinski",
+      "Paul Feyen",
+      "Carmelo Sgobio",
+      "Jochen Herms"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:43:10.903833"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:43:12.441889"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:43:13.643230"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:05:07.155406"
+    },
+    "last_updated": "2025-10-03T22:05:07.155599"
+  }
+}

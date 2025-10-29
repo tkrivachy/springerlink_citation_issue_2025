@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.176580",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20424-5",
+    "title": "Conditional quantum operation of two exchange-coupled single-donor spin qubits in a MOS-compatible silicon device",
+    "article_number": "181",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mateusz T. Ma̧dzik",
+      "Arne Laucht",
+      "Fay E. Hudson",
+      "Alexander M. Jakob",
+      "Brett C. Johnson",
+      "David N. Jamieson",
+      "Kohei M. Itoh",
+      "Andrew S. Dzurak",
+      "Andrea Morello"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:33:18.715762"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:33:20.280277"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T18:33:21.479019"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T23:05:06.030154"
+    },
+    "last_updated": "2025-10-03T23:05:06.030371"
+  }
+}

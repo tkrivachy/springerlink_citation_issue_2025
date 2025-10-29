@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.654967",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10052-5",
+    "title": "Association between stroke occurrence and changes in atmospheric circulation",
+    "article_number": "42",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jone Vencloviene",
+      "Ricardas Radisauskas",
+      "Daina Kranciukaite-Butylkiniene",
+      "Abdonas Tamosiunas",
+      "Vidmantas Vaiciulis",
+      "Daiva Rastenyte"
+    ]
+  },
+  "article_index": 218,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:53:00.405906"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:53:01.940688"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:53:03.199765"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:22:01.987215"
+    },
+    "last_updated": "2025-10-03T21:22:01.987265"
+  }
+}

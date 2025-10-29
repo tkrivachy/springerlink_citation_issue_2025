@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.308031",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56840-x",
+    "title": "Pain perception during social interactions is modulated by self-related and moral contextual cues",
+    "article_number": "41",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Valentina Nicolardi",
+      "Maria Serena Panasiti",
+      "Mariagrazia D’Ippolito",
+      "Gian Luigi Pecimo",
+      "Salvatore Maria Aglioti"
+    ]
+  },
+  "article_index": 79,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:29:58.962878"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:30:00.525029"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:30:01.677816"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:35:19.387811"
+    },
+    "last_updated": "2025-10-03T21:35:19.388002"
+  }
+}

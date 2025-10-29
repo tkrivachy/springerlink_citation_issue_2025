@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.824921",
+  "year": 2011,
+  "article_type": "comparison",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-6",
+    "title": "Childhood vaccination in informal urban settlements in Nairobi, Kenya: Who gets vaccinated?",
+    "article_number": "6",
+    "publication_date": "2011-01-04",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Martin K Mutua",
+      "Elizabeth Kimani-Murage",
+      "Remare R Ettarh"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 220,
+      "retrieved_at": "2025-10-03T12:43:13.135461"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T12:43:14.656744"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 149,
+      "retrieved_at": "2025-10-03T12:43:16.107444"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 161,
+      "retrieved_at": "2025-10-03T20:56:47.286625"
+    },
+    "last_updated": "2025-10-03T20:56:47.286812"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244790",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80629-y",
+    "title": "Publisher Correction: Age and sex affect deep learning prediction of cardiometabolic risk factors from retinal images",
+    "article_number": "1198",
+    "publication_date": "2021-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nele Gerrits",
+      "Bart Elen",
+      "Toon Van Craenendonck",
+      "Danai Triantafyllidou",
+      "Ioannis N. Petropoulos",
+      "Rayaz A. Malik",
+      "Patrick De Boever"
+    ]
+  },
+  "article_index": 226,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:55:19.416602"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:55:20.970217"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:55:22.192973"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T21:45:26.332483"
+    },
+    "last_updated": "2025-10-03T21:45:26.332678"
+  }
+}

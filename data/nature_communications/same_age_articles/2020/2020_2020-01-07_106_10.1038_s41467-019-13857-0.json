@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889490",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13857-0",
+    "title": "Enabling remote quantum emission in 2D semiconductors via porous metallic networks",
+    "article_number": "5",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jose J. Fonseca",
+      "Andrew L. Yeats",
+      "Brandon Blue",
+      "Maxim K. Zalalutdinov",
+      "Todd Brintlinger",
+      "Blake S. Simpkins",
+      "Daniel C. Ratchford",
+      "James C. Culbertson",
+      "Joel Q. Grim",
+      "Samuel G. Carter",
+      "Masa Ishigami",
+      "Rhonda M. Stroud",
+      "Cory D. Cress",
+      "Jeremy T. Robinson"
+    ]
+  },
+  "article_index": 106,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:18:01.971197"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:18:03.502836"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:18:04.687655"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T22:59:52.332779"
+    },
+    "last_updated": "2025-10-03T22:59:52.332866"
+  }
+}

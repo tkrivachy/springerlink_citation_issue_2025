@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.839858",
+  "year": 2022,
+  "article_type": "article_1",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-99269-x",
+    "title": "Management of validation of HPLC method for determination of acetylsalicylic acid impurities in a new pharmaceutical product",
+    "article_number": "1",
+    "publication_date": "2022-01-06",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Małgorzata Kowalska",
+      "Magdalena Woźniak",
+      "Michał Kijek",
+      "Paulina Mitrosz",
+      "Jerzy Szakiel",
+      "Paweł Turek"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1455,
+      "retrieved_at": "2025-10-03T14:57:57.633381"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1900,
+      "retrieved_at": "2025-10-03T14:57:59.165306"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1706,
+      "retrieved_at": "2025-10-03T14:58:00.340141"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2116,
+      "retrieved_at": "2025-10-03T21:46:33.601933"
+    },
+    "last_updated": "2025-10-03T21:46:33.602046"
+  }
+}

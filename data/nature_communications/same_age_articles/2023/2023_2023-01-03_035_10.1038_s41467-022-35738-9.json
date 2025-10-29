@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.640906",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35738-9",
+    "title": "Computational conjugate adaptive optics microscopy for longitudinal through-skull imaging of cortical myelin",
+    "article_number": "105",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yongwoo Kwon",
+      "Jin Hee Hong",
+      "Sungsam Kang",
+      "Hojun Lee",
+      "Yonghyeon Jo",
+      "Ki Hean Kim",
+      "Seokchan Yoon",
+      "Wonshik Choi"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:44:43.668270"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:44:45.231655"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:44:46.410734"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:08:54.820129"
+    },
+    "last_updated": "2025-10-03T23:08:54.820217"
+  }
+}

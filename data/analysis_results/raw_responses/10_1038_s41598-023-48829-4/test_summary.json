@@ -1,0 +1,69 @@
+{
+  "test_doi": "10.1038/s41598-023-48829-4",
+  "timestamp": "2025-10-20 14:05:26",
+  "total_tests": 12,
+  "successful_tests": 12,
+  "success_rate": "100.0%",
+  "test_results": {
+    "meta_v1_json": {
+      "success": true,
+      "endpoint": "meta_v1",
+      "format": "json"
+    },
+    "meta_v1_jsonp": {
+      "success": true,
+      "endpoint": "meta_v1",
+      "format": "jsonp"
+    },
+    "meta_v1_pam": {
+      "success": true,
+      "endpoint": "meta_v1",
+      "format": "pam"
+    },
+    "meta_v1_jats": {
+      "success": true,
+      "endpoint": "meta_v1",
+      "format": "jats"
+    },
+    "meta_v2_json": {
+      "success": true,
+      "endpoint": "meta_v2",
+      "format": "json"
+    },
+    "meta_v2_jsonp": {
+      "success": true,
+      "endpoint": "meta_v2",
+      "format": "jsonp"
+    },
+    "meta_v2_pam": {
+      "success": true,
+      "endpoint": "meta_v2",
+      "format": "pam"
+    },
+    "meta_v2_jats": {
+      "success": true,
+      "endpoint": "meta_v2",
+      "format": "jats"
+    },
+    "openaccess_json": {
+      "success": true,
+      "endpoint": "openaccess",
+      "format": "json"
+    },
+    "openaccess_jsonp": {
+      "success": true,
+      "endpoint": "openaccess",
+      "format": "jsonp"
+    },
+    "openaccess_pam": {
+      "success": true,
+      "endpoint": "openaccess",
+      "format": "pam"
+    },
+    "openaccess_jats": {
+      "success": true,
+      "endpoint": "openaccess",
+      "format": "jats"
+    }
+  }
+}

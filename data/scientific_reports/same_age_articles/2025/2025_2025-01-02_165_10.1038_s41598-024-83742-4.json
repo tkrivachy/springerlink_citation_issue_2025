@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.365952",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83742-4",
+    "title": "Multi-omic biomarker panel in pancreatic cyst fluid and serum predicts patients at a high risk of pancreatic cancer development",
+    "article_number": "129",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Laura E. Kane",
+      "Gregory S. Mellotte",
+      "Eimear Mylod",
+      "Paul Dowling",
+      "Simone Marcone",
+      "Caitriona Scaife",
+      "Elaine M. Kenny",
+      "Michael Henry",
+      "Paula Meleady",
+      "Paul F. Ridgway",
+      "Finbar MacCarthy",
+      "Kevin C. Conlon",
+      "Barbara M. Ryan",
+      "Stephen G. Maher"
+    ]
+  },
+  "article_index": 165,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:51:54.138095"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:51:55.711785"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:56.933413"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:30:10.699737"
+    },
+    "last_updated": "2025-10-03T22:30:10.699823"
+  }
+}

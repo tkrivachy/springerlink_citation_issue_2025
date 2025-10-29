@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.713632",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08175-w",
+    "title": "Controlling the shape of 3D microstructures by temperature and light",
+    "article_number": "232",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marc Hippler",
+      "Eva Blasco",
+      "Jingyuan Qu",
+      "Motomu Tanaka",
+      "Christopher Barner-Kowollik",
+      "Martin Wegener",
+      "Martin Bastmeyer"
+    ]
+  },
+  "article_index": 332,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:27:47.649165"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 267,
+      "retrieved_at": "2025-10-03T17:27:49.195624"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 242,
+      "retrieved_at": "2025-10-03T17:27:50.401620"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 270,
+      "retrieved_at": "2025-10-03T22:42:46.900032"
+    },
+    "last_updated": "2025-10-03T22:42:46.900082"
+  }
+}

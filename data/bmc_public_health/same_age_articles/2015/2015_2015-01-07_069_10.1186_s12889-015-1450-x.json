@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.246509",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1450-x",
+    "title": "Effects of mediterranean diet on lung function in smokers: a randomised, parallel and controlled protocol",
+    "article_number": "74",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mar Sorlí-Aguilar",
+      "Francisco Martín-Luján",
+      "Antoni Santigosa-Ayala",
+      "Josep Lluís Piñol-Moreso",
+      "Gemma Flores-Mateo",
+      "Josep Basora-Gallisà",
+      "Victoria Arija-Val",
+      "Rosa Solà-Alberich"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:10:44.153934"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:10:45.718140"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:10:46.979016"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:06:44.209428"
+    },
+    "last_updated": "2025-10-03T21:06:44.209479"
+  }
+}

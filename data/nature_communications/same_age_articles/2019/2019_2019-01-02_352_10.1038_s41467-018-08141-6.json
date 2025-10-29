@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.715769",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08141-6",
+    "title": "An orderly single-trial organization of population dynamics in premotor cortex predicts behavioral variability",
+    "article_number": "216",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ziqiang Wei",
+      "Hidehiko Inagaki",
+      "Nuo Li",
+      "Karel Svoboda",
+      "Shaul Druckmann"
+    ]
+  },
+  "article_index": 352,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:33:37.625591"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T17:33:39.382844"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T17:33:40.652680"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T22:44:48.848031"
+    },
+    "last_updated": "2025-10-03T22:44:48.848218"
+  }
+}

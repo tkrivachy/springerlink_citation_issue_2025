@@ -1,0 +1,160 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-019-56542-4",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-019-56542-4",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-019-56542-4"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-019-56542-4.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-019-56542-4"
+        }
+      ],
+      "title": "Melanoma cell-derived exosomes in plasma of melanoma patients suppress functions of immune effector cells",
+      "creators": [
+        {
+          "creator": "Sharma, Priyanka"
+        },
+        {
+          "creator": "Diergaarde, Brenda"
+        },
+        {
+          "creator": "Ferrone, Soldano"
+        },
+        {
+          "creator": "Kirkwood, John M."
+        },
+        {
+          "ORCID": "0000-0001-7316-6181",
+          "creator": "Whiteside, Theresa L."
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-019-56542-4",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2020-01-09",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "10",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "11",
+      "journalId": "41598",
+      "onlineDate": "2020-01-09",
+      "coverDate": "2020-12",
+      "copyright": "©2020 The Author(s)",
+      "abstract": "Melanoma patients’ plasma contains exosomes produced by malignant and normal cells. Plasma exosomes were isolated and separated by immunocapture into two fractions: melanoma cell-derived exosomes (MTEX) and normal cell-derived exosomes (non-MTEX). Immunosuppressive effects of MTEX on primary human immune cells were evaluated. Exosomes were isolated from plasma of 12 melanoma patients and six healthy donors (HDs). Expression levels of 19 immunoregulatory proteins in MTEX, non-MTEX and HDs exosomes were evaluated by on-bead flow cytometry. Functional/phenotypic changes induced in CD8^+ T or natural killer (NK) cells by MTEX or non-MTEX were compared. Plasma protein levels were higher in patients than HDs ( P  < 0.0009). In patients, MTEX accounted for 23–66% of total exosomes. MTEX were enriched in immunosuppressive proteins ( P  = 0.03). MTEX, but not HDs exosomes, inhibited CD69 expression ( P  ≤ 0.0008), induced apoptosis ( P  ≤ 0.0009) and suppressed proliferation ( P  ≤ 0.002) in CD8^+ T cells and downregulated NKG2D expression in NK cells ( P  = 0.001). Non-MTEX were enriched in immunostimulatory proteins ( P  = 0.002) and were only weakly immunosuppressive. Elevated MTEX/total exosome ratios and, surprisingly, non-MTEX ability to induce apoptosis of CD8^+ T cells emerged as positive correlates of disease stage. MTEX emerge as the major mechanism of tumor-induced immune suppression and as an underestimated barrier to successful melanoma immunotherapy.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

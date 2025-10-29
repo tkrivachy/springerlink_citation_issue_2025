@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.223604",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79689-x",
+    "title": "Pressure and temperature predictions of Al",
+    "article_number": "60",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Meisam Babanezhad",
+      "Iman Behroyan",
+      "Azam Marjani",
+      "Saeed Shirazian"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:43:59.799320"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:44:01.330004"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:44:02.596747"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:41:04.175888"
+    },
+    "last_updated": "2025-10-03T21:41:04.176078"
+  }
+}

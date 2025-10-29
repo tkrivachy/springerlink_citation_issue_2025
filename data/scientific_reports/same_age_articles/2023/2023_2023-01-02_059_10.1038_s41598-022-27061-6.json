@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.105676",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27061-6",
+    "title": "Self-cleaning superhydrophobic fly ash geopolymer",
+    "article_number": "44",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Prinya Chindaprasirt",
+      "Peerapong Jitsangiam",
+      "Pumipat K. Pachana",
+      "Ubolluk Rattanasak"
+    ]
+  },
+  "article_index": 59,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:31:14.937907"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:31:16.442628"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:31:17.725417"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T22:00:21.621985"
+    },
+    "last_updated": "2025-10-03T22:00:21.622050"
+  }
+}

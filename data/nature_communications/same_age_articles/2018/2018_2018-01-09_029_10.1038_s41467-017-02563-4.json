@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607963",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02563-4",
+    "title": "3D single-molecule super-resolution microscopy with a tilted light sheet",
+    "article_number": "123",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anna-Karin Gustavsson",
+      "Petar N. Petrov",
+      "Maurice Y. Lee",
+      "Yoav Shechtman",
+      "W. E. Moerner"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:36:04.326566",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T11:44:09.507866"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 170,
+      "retrieved_at": "2025-10-03T17:08:20.408627"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 163,
+      "retrieved_at": "2025-10-03T17:08:21.590958"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 191,
+      "retrieved_at": "2025-10-03T22:36:04.326363"
+    }
+  }
+}

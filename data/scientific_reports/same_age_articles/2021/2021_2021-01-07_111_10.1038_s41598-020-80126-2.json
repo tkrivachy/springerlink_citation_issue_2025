@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.217574",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80126-2",
+    "title": "Drivers use active gaze to monitor waypoints during automated driving",
+    "article_number": "263",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Callum Mole",
+      "Jami Pekkanen",
+      "William E. A. Sheppard",
+      "Gustav Markkula",
+      "Richard M. Wilkie"
+    ]
+  },
+  "article_index": 111,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:57:51.236264"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:57:52.950743"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:57:54.199503"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:46:31.728271"
+    },
+    "last_updated": "2025-10-03T21:46:31.728379"
+  }
+}

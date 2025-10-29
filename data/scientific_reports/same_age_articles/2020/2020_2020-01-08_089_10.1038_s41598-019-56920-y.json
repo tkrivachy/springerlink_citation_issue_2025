@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.309026",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56920-y",
+    "title": "GPU acceleration of a model-based iterative method for Digital Breast Tomosynthesis",
+    "article_number": "43",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "R. Cavicchioli",
+      "J. Cheng Hu",
+      "E. Loli Piccolomini",
+      "E. Morotti",
+      "L. Zanni"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:29:52.910206"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:29:54.449863"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:29:55.713175"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:35:17.304257"
+    },
+    "last_updated": "2025-10-03T21:35:17.304354"
+  }
+}

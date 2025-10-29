@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.793138",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-47",
+    "title": "Mortality profiles in a country facing epidemiological transition: An analysis of registered data",
+    "article_number": "47",
+    "publication_date": "2009-02-02",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Luis Huicho",
+      "Miguel Trelles",
+      "Fernando Gonzales",
+      "Walter Mendoza",
+      "Jaime Miranda"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T12:34:23.334016"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T12:34:24.841351"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T12:34:26.135183"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T20:53:34.983895"
+    },
+    "last_updated": "2025-10-03T20:53:34.983941"
+  }
+}

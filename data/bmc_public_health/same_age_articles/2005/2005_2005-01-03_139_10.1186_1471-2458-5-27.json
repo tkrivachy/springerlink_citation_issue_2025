@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.968281",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-27",
+    "title": "Smoking and tooth discolouration: findings from a national cross-sectional study",
+    "article_number": "27",
+    "publication_date": "2005-03-24",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mhd N Alkhatib",
+      "Ruth D Holt",
+      "Raman Bedi"
+    ]
+  },
+  "article_index": 139,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T12:12:25.502396"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T12:12:27.096162"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T12:12:28.407471"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T20:45:35.186856"
+    },
+    "last_updated": "2025-10-03T20:45:35.187050"
+  }
+}

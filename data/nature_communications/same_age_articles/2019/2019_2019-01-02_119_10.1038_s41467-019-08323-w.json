@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.690026",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08323-w",
+    "title": "Platinum-trimer decorated cobalt-palladium core-shell nanocatalyst with promising performance for oxygen reduction reaction",
+    "article_number": "440",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sheng Dai",
+      "Jyh-Pin Chou",
+      "Kuan-Wen Wang",
+      "Yang-Yang Hsu",
+      "Alice Hu",
+      "Xiaoqing Pan",
+      "Tsan-Yao Chen"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:39:55.763007"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T17:39:57.266513"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T17:39:58.420882"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 161,
+      "retrieved_at": "2025-10-03T22:46:57.133503"
+    },
+    "last_updated": "2025-10-03T22:46:57.133556"
+  }
+}

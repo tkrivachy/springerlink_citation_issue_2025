@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.403884",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84288-1",
+    "title": "Rapid detection of the invasive tomato leaf miner, ",
+    "article_number": "573",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Arindam Kumar",
+      "Damini Diksha",
+      "Susheel Kumar Sharma",
+      "P. R. Shashank",
+      "D. Nandhini",
+      "Soham Ray",
+      "Nitika Gupta",
+      "Mukesh Kumar Dhillon"
+    ]
+  },
+  "article_index": 503,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:47:19.278583"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:47:20.801352"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:47:21.964244"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:28:30.121725"
+    },
+    "last_updated": "2025-10-03T22:28:30.121913"
+  }
+}

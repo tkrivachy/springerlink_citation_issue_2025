@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.629508",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10278-x",
+    "title": "Interventions to improve health literacy among Aboriginal and Torres Strait Islander Peoples: a systematic review",
+    "article_number": "248",
+    "publication_date": "2021-01-30",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Simone Nash",
+      "Amit Arora"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T14:02:15.256189"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:02:16.788686"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T14:02:18.086502"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T21:25:18.446447"
+    },
+    "last_updated": "2025-10-03T21:25:18.446636"
+  }
+}

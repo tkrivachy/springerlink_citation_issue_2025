@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.511502",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55437-x",
+    "title": "Harnessing orbital Hall effect in spin-orbit torque MRAM",
+    "article_number": "130",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rahul Gupta",
+      "Chloé Bouard",
+      "Fabian Kammerbauer",
+      "J. Omar Ledesma-Martin",
+      "Arnab Bose",
+      "Iryna Kononenko",
+      "Sylvain Martin",
+      "Perrine Usé",
+      "Gerhard Jakob",
+      "Marc Drouard",
+      "Mathias Kläui"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T19:35:40.727658"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:35:42.289019"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:35:43.503680"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:25:55.749993"
+    },
+    "last_updated": "2025-10-03T23:25:55.750182"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.691598",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08303-0",
+    "title": "Genomic diversity landscape of the honey bee gut microbiota",
+    "article_number": "446",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kirsten M. Ellegaard",
+      "Philipp Engel"
+    ]
+  },
+  "article_index": 132,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T17:51:14.699926"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 236,
+      "retrieved_at": "2025-10-03T17:51:16.233791"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 215,
+      "retrieved_at": "2025-10-03T17:51:17.421764"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 259,
+      "retrieved_at": "2025-10-03T22:50:40.371908"
+    },
+    "last_updated": "2025-10-03T22:50:40.372096"
+  }
+}

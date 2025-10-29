@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.653206",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35666-8",
+    "title": "Southern hemisphere eastern boundary upwelling systems emerging as future marine heatwave hotspots under greenhouse warming",
+    "article_number": "28",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shengpeng Wang",
+      "Zhao Jing",
+      "Lixin Wu",
+      "Shantong Sun",
+      "Qihua Peng",
+      "Hong Wang",
+      "Yu Zhang",
+      "Jian Shi"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:44:21.616842"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:44:23.167303"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:44:24.372529"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:08:48.909532"
+    },
+    "last_updated": "2025-10-03T23:08:48.909632"
+  }
+}

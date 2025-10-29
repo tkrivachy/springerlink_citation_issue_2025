@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.671162",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44311-x",
+    "title": "Initial-site characterization of hydrogen migration following strong-field double-ionization of ethanol",
+    "article_number": "74",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Travis Severt",
+      "Eleanor Weckwerth",
+      "Balram Kaderiya",
+      "Peyman Feizollah",
+      "Bethany Jochim",
+      "Kurtis Borne",
+      "Farzaneh Ziaee",
+      "Kanaka Raju P",
+      "Kevin D. Carnes",
+      "Marcos Dantus",
+      "Daniel Rolles",
+      "Artem Rudenko",
+      "Eric Wells",
+      "Itzik Ben-Itzhak"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:14:07.248685"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:14:08.809691"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:14:10.043871"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:18:54.662391"
+    },
+    "last_updated": "2025-10-03T23:18:54.662582"
+  }
+}

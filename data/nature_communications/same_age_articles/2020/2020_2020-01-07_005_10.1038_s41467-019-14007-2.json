@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.877080",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14007-2",
+    "title": "Reply to “Convergent and divergent selection in sympatry drive plumage evolution in woodpeckers”",
+    "article_number": "145",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Eliot T. Miller",
+      "Gavin M. Leighton",
+      "Benjamin G. Freeman",
+      "Alexander C. Lees",
+      "Russell A. Ligon"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:14:10.504886"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:14:12.053732"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:14:13.242652"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:58:27.119180"
+    },
+    "last_updated": "2025-10-03T22:58:27.119227"
+  }
+}

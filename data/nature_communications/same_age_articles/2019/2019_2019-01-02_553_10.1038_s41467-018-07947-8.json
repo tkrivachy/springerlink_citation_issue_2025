@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.737337",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07947-8",
+    "title": "Ultrasensitive detection of miRNA with an antimonene-based surface plasmon resonance sensor",
+    "article_number": "28",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tianyu Xue",
+      "Weiyuan Liang",
+      "Yawen Li",
+      "Yuanhui Sun",
+      "Yuanjiang Xiang",
+      "Yupeng Zhang",
+      "Zhigao Dai",
+      "Yanhong Duo",
+      "Leiming Wu",
+      "Kun Qi",
+      "Bannur Nanjunda Shivananju",
+      "Lijun Zhang",
+      "Xiaoqiang Cui",
+      "Han Zhang",
+      "Qiaoliang Bao"
+    ]
+  },
+  "article_index": 553,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T17:37:06.643693"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 656,
+      "retrieved_at": "2025-10-03T17:37:08.190439"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 595,
+      "retrieved_at": "2025-10-03T17:37:10.076266"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 684,
+      "retrieved_at": "2025-10-03T22:45:59.539573"
+    },
+    "last_updated": "2025-10-03T22:45:59.539660"
+  }
+}

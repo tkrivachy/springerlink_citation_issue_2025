@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.692660",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44626-9",
+    "title": "Nanowire-assisted electrochemical perforation of graphene oxide nanosheets for molecular separation",
+    "article_number": "164",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hai Liu",
+      "Xinxi Huang",
+      "Yang Wang",
+      "Baian Kuang",
+      "Wanbin Li"
+    ]
+  },
+  "article_index": 172,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T19:02:16.668169"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T19:02:18.222605"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:02:19.410956"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T23:14:48.005708"
+    },
+    "last_updated": "2025-10-03T23:14:48.005900"
+  }
+}

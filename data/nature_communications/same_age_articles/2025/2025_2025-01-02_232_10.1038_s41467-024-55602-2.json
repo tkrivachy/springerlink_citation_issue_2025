@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.545169",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55602-2",
+    "title": "Surface remodeling and inversion of cell-matrix interactions underlie community recognition and dispersal in ",
+    "article_number": "327",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alexis Moreau",
+      "Danh T. Nguyen",
+      "Alexander J. Hinbest",
+      "Anthony Zamora",
+      "Ranjuna Weerasekera",
+      "Katherine Matej",
+      "Xuening Zhou",
+      "Sandra Sanchez",
+      "Ignacio Rodriguez Brenes",
+      "Jung-Shen Benny Tai",
+      "Carey D. Nadell",
+      "Wai-Leung Ng",
+      "Vernita Gordon",
+      "Natalia L. Komarova",
+      "Rich Olson",
+      "Ying Li",
+      "Jing Yan"
+    ]
+  },
+  "article_index": 232,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:38:07.911923"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:38:09.466852"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:38:10.615212"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:26:45.396506"
+    },
+    "last_updated": "2025-10-03T23:26:45.396696"
+  }
+}

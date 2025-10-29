@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.858804",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50879-7",
+    "title": "A machine learning-based classification model to support university students with dyslexia with personalized tools and strategies",
+    "article_number": "273",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Andrea Zingoni",
+      "Juri Taborri",
+      "Giuseppe Calabrò"
+    ]
+  },
+  "article_index": 247,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T15:36:30.408632"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T15:36:31.918143"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:36:33.066663"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T22:02:26.348193"
+    },
+    "last_updated": "2025-10-03T22:02:26.348425"
+  }
+}

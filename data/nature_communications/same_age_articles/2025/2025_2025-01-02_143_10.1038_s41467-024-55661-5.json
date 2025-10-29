@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.533183",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55661-5",
+    "title": "Polysulfur-based bulking of dynamin-related protein 1 prevents ischemic sulfide catabolism and heart failure in mice",
+    "article_number": "276",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Akiyuki Nishimura",
+      "Seiryo Ogata",
+      "Xiaokang Tang",
+      "Kowit Hengphasatporn",
+      "Keitaro Umezawa",
+      "Makoto Sanbo",
+      "Masumi Hirabayashi",
+      "Yuri Kato",
+      "Yuko Ibuki",
+      "Yoshito Kumagai",
+      "Kenta Kobayashi",
+      "Yasunari Kanda",
+      "Yasuteru Urano",
+      "Yasuteru Shigeta",
+      "Takaaki Akaike",
+      "Motohiro Nishida"
+    ]
+  },
+  "article_index": 143,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:48:26.071952"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:48:27.593993"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:48:28.801063"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:30:33.511794"
+    },
+    "last_updated": "2025-10-03T23:30:33.511981"
+  }
+}

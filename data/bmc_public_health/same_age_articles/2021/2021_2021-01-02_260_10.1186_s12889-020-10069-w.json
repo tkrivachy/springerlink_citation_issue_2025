@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.659238",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10069-w",
+    "title": "Estimation of losses of quality-adjusted life expectancy attributed to the combination of cognitive impairment and multimorbidity among Chinese adults aged 45 years and older",
+    "article_number": "24",
+    "publication_date": "2021-01-05",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Suting Xiong",
+      "Siyuan Liu",
+      "Yanan Qiao",
+      "Dingliu He",
+      "Chaofu Ke",
+      "Yueping Shen"
+    ]
+  },
+  "article_index": 260,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:04:21.558759"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:04:23.101776"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:04:24.410244"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:26:03.436602"
+    },
+    "last_updated": "2025-10-03T21:26:03.436793"
+  }
+}

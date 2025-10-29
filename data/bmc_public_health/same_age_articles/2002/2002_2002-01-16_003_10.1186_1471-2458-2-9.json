@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.512465",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-9",
+    "title": "The association between secondhand smoke and the risk of developing acute coronary syndromes, among non-smokers, under the presence of several cardiovascular risk factors: The CARDIO2000 case-control study",
+    "article_number": "9",
+    "publication_date": "2002-05-24",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Demosthenes B Panagiotakos",
+      "Christina Chrysohoou",
+      "Christos Pitsavos",
+      "Ioanna Papaioannou",
+      "John Skoumas",
+      "Christodoulos Stefanadis",
+      "Pavlos Toutouzas"
+    ]
+  },
+  "article_index": 3,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T11:53:12.175052"
+    },
+    "last_updated": "2025-10-03T20:41:20.305130",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T12:01:31.192452"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T12:01:32.502577"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T20:41:20.305082"
+    }
+  }
+}

@@ -1,0 +1,1785 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-84983-z</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-024-84983-z</article-id>
+          <article-id pub-id-type="manuscript">84983</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-024-84983-z</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/308</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/4019/2773</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Post-myocardial infarction ventricular septal defects: incidence and treatment trends during and after the COVID-19 pandemic</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Nasso</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="author-notes" rid="fn1"/>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au2">
+              <name name-style="western">
+                <surname>Condello</surname>
+                <given-names>Ignazio</given-names>
+              </name>
+              <address>
+                <email>ignicondello@hotmail.it</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff13">13</xref>
+              <xref ref-type="corresp" rid="IDs4159802484983z_cor2">b</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Vignaroli</surname>
+                <given-names>Walter</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="author-notes" rid="fn1"/>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Antonazzo</surname>
+                <given-names>Andrea</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Bartolomucci</surname>
+                <given-names>Francesco</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Pala</surname>
+                <given-names>Barbara</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Larosa</surname>
+                <given-names>Claudio</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Pingitore</surname>
+                <given-names>Annachiara</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff6">6</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Amodeo</surname>
+                <given-names>Vincenzo</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff7">7</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Montemurro</surname>
+                <given-names>Vincenzo</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff8">8</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>D’Abramo</surname>
+                <given-names>Mizar</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff9">9</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <name name-style="western">
+                <surname>Ceravolo</surname>
+                <given-names>Roberto</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff10">10</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <name name-style="western">
+                <surname>Donato</surname>
+                <given-names>Domenica</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <name name-style="western">
+                <surname>Fratto</surname>
+                <given-names>Pasquale</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <name name-style="western">
+                <surname>De Rosis</surname>
+                <given-names>Maria Grazia</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff11">11</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au16">
+              <name name-style="western">
+                <surname>Diaferia</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff12">12</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au17">
+              <name name-style="western">
+                <surname>Torraco</surname>
+                <given-names>Rita</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff12">12</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au18">
+              <name name-style="western">
+                <surname>Contegiacomo</surname>
+                <given-names>Gaetano</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au19">
+              <name name-style="western">
+                <surname>Lembo</surname>
+                <given-names>Guido</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au20">
+              <name name-style="western">
+                <surname>Brigiani</surname>
+                <given-names>Mario Siro</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au21">
+              <name name-style="western">
+                <surname>Santarpino</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au22">
+              <name name-style="western">
+                <surname>Speziale</surname>
+                <given-names>Giuseppe</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.513136.3</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1785 1004</institution-id>
+                <institution content-type="org-division">Department of Cardiovascular Surgery</institution>
+                <institution content-type="org-name">GVM Care &amp; Research, Anthea Hospital</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Bari</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of Cardiovascular Surgery</institution>
+                <institution content-type="org-name">GVM Care &amp; Research, San Carlo di Nancy</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Roma</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution content-type="org-division">CardioThoracoVascular Department</institution>
+                <institution content-type="org-name">Great Metropolitan Hospital “Bianchi Melacrino Morelli”</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Reggio Calabria</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of Cardiology</institution>
+                <institution content-type="org-name">Hospital of Andria</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Andria</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02be6w209</institution-id>
+                <institution-id institution-id-type="GRID">grid.7841.a</institution-id>
+                <institution content-type="org-division">Division of Cardiology, Department of Clinical and Molecular Medicine</institution>
+                <institution content-type="org-name">Sapienza University of Rome, Sant’Andrea Hospital</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Rome</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff6">
+              <label>6</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02be6w209</institution-id>
+                <institution-id institution-id-type="GRID">grid.7841.a</institution-id>
+                <institution content-type="org-division">Department of General and Specialistic Surgery “Paride Stefanini”</institution>
+                <institution content-type="org-name">Sapienza University of Rome</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Rome</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff7">
+              <label>7</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of Cardiology</institution>
+                <institution content-type="org-name">“Santa Maria degli Ungheresi” Hospital</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Polistena</addr-line>
+              <addr-line content-type="state">R.C</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff8">
+              <label>8</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of cardiology</institution>
+                <institution content-type="org-name"> CDC Scilla ASP Reggio Calabria</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Calabria</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff9">
+              <label>9</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/02be6w209</institution-id>
+                <institution-id institution-id-type="GRID">grid.7841.a</institution-id>
+                <institution content-type="org-division">Department of Clinical, Internal Medicine, Anesthesiology and Cardiovascular Sciences</institution>
+                <institution content-type="org-name">Sapienza University of Rome</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Rome</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff10">
+              <label>10</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of Cardiology</institution>
+                <institution content-type="org-name">Hospital Giovanni Paolo II</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Lamezia Terme</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff11">
+              <label>11</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/00eq8n589</institution-id>
+                <institution-id institution-id-type="GRID">grid.435974.8</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1758 7282</institution-id>
+                <institution content-type="org-name">Azienda Sanitaria Locale</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Bari</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff12">
+              <label>12</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of Cardiology</institution>
+                <institution content-type="org-name">“M. Di Miccoli” Hospital</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Barletta</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+            <aff id="Aff13">
+              <label>13</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.513136.3</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1785 1004</institution-id>
+                <institution content-type="org-name">Anthea Hospital GVM Care &amp; Research</institution>
+              </institution-wrap>
+              <addr-line content-type="street">Via Camillo Rosalba n 35</addr-line>
+              <addr-line content-type="postcode">70124</addr-line>
+              <addr-line content-type="city">Bari</addr-line>
+              <country country="IT">Italy</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <fn id="fn1" fn-type="equal">
+              <p>Giuseppe Nasso and Walter Vignaroli contributed equally to this work.</p>
+            </fn>
+            <corresp id="IDs4159802484983z_cor2">
+              <label>b</label>
+              <email>ignicondello@hotmail.it</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue seq="454">1</issue>
+          <elocation-id>445</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>30</day>
+              <month>12</month>
+              <year>2024</year>
+            </date>
+            <date date-type="received">
+              <day>16</day>
+              <month>8</month>
+              <year>2024</year>
+            </date>
+            <date date-type="accepted">
+              <day>30</day>
+              <month>12</month>
+              <year>2024</year>
+            </date>
+            <date date-type="online">
+              <day>2</day>
+              <month>1</month>
+              <year>2025</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2025</copyright-statement>
+            <copyright-year>2025</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Ventricular septal defect (VSD) is a serious complication of myocardial infarction (MI), with its global incidence significantly reduced in recent years due to advances in coronary reperfusion techniques. However, during the COVID-19 pandemic, there was an unexpected rise in the incidence of post-MI VSD, likely driven by delays in seeking treatment. This study retrospectively analyzed 10 cases of post-MI VSD treated at our hospitals from March 2018 to August 2023, comparing incidence rates across pre-pandemic, pandemic, and post-pandemic periods. The findings revealed a notable increase in VSD cases during the pandemic, with six cases occurring in two years, compared to only two cases in each of the pre-pandemic and post-pandemic periods. Despite these fluctuations, surgical intervention remained a crucial and effective treatment, with 60% of patients surviving the 30-day follow-up. The study underscores the impact of delayed treatment on VSD incidence during the pandemic and highlights the critical need for timely medical intervention to manage severe MI complications effectively.</p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>COVID-19 pandemic</kwd>
+            <kwd>Ventricular Setpal defect</kwd>
+            <kwd>Myocardial infarction</kwd>
+            <kwd>Post-MI complications</kwd>
+            <kwd>Delayed treatment</kwd>
+            <kwd>Surgical correction</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1103">Clinical Sciences</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>603</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2025</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>Springer Nature Limited</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2025</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>30</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2024_Article_84983.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>output-medium</meta-name>
+              <meta-value>All</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            Myocardial infarction (MI) refers to a heart attack resulting in damage to the heart muscle. MI occurs when coronary arteries become narrowed or blocked by plaques composed of cholesterol and fat deposits, leading to blood clots that reduce or inhibit blood flow to the heart
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . The rupture of the left ventricular myocardium during an acute MI can affect the free wall, interventricular septum, or papillary muscles
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . Among these, ventricular septal defect (VSD) is one of the most severe complications, typically occurring 4 to 14 days post-MI when necrosis is advanced, and collateral coronary flow has not improved
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . The global incidence of post-MI VSD has significantly decreased from 1–3–0.2%, largely due to improvements in rapid coronary reperfusion, as outlined in the latest ESC/EACTS guidelines
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              ,
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+            . Despite this, mechanical complications of MI remain critical. For instance, research from the National Inpatient Sample (NIS) database shows that such complications occur in 0.27% of patients with ST-segment elevation myocardial infarction (STEMI) and 0.04% with non-ST-segment elevation myocardial infarction (NSTEMI), with a global mortality rate of 42.4% for those affected
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            .Approximately 60% of VSDs are located in the anterior or apical portion of the ventricular septum due to anterior MI, while the remaining 40% occur in the posterior portion, associated with posterior MI
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . These cases often present with hemodynamic instability or cardiogenic shock, frequently necessitating urgent intra-aortic balloon pump (IABP) insertion. Unfortunately, even with surgical intervention, morbidity and mortality rates remain high
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            , with mortality rates exceeding 87% within two months for patients treated solely with medication. Surgical intervention remains the gold standard for treating post-MI VSD, although outcomes are often suboptimal due to hemodynamic instability and tissue fragility.Recent advancements in surgical techniques and percutaneous interventions, such as the Amplatzer™ Septal Occluder, have improved success rates in selected patients, enhancing procedural outcomes
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . The choice between percutaneous and surgical interventions depends on factors like VSD size, location, the patient’s hemodynamic stability, and comorbid conditions. For example, percutaneous closure may be preferred for small to medium-sized defects or in patients with high surgical risk
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            . While early mechanical circulatory support (MCS) shows promise in stabilizing patients before delayed surgical repair, outcomes vary widely due to differences in patient status and the surgical techniques employed
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+              , 
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              –
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            .During the COVID-19 pandemic, there was an observed increase in the incidence of VSD, attributed to delayed hospitalizations for MI. The fear of contracting the virus led many patients to postpone treatment, resulting in increased cardiac damage and tissue fragility, which likely contributed to the rise in VSD cases
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              ,
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . This study aims to analyze the incidence of VSD during and after the COVID-19 period, with a focus on the time from symptom onset to surgery and other relevant patient characteristics. We present data from 10 cases of post-MI VSD treated at our hospitals from January 2018 to December 2023, comparing incidence rates between pre-pandemic, pandemic, and post-pandemic periods.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="results">
+          <title>Results</title>
+          <p id="Par3">
+            A total of 10 cases of post-MI VSD treated with surgical closure were documented, with 6 patients (60%) surviving and 4 patients (40%) dying within the 30-day follow-up period. Of the 10 patients, 6 were male (60%), and the mean age was 64.3 ± 10.12 years. The mean EuroSCORE was 28.14 ± 10.79, and the mean ejection fraction (EF) was 34.5 ± 5.67%. The most common comorbidities were hypertension (80%) and dyslipidemia (60%). Coronary revascularization was performed in 9 out of 10 patients (90%): 2 patients underwent PCI, 6 patients underwent CABG, and 1 patient underwent a combination of PCI and CABG. VSD was anterior in 3 patients (30%) and posterior in 7 patients (70%), with the LAD being the most commonly implicated vessel (90%). Detailed clinical data for these patients are provided in Table 
+            <xref rid="Tab1" ref-type="table">1</xref>
+            .
+          </p>
+          <p id="Par4">
+            <table-wrap id="Tab1">
+              <label>Table 1</label>
+              <caption xml:lang="en">
+                <p>Detailed general clinical data of patients.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left">
+                      <p>Patient</p>
+                    </th>
+                    <th align="left">
+                      <p>Sex</p>
+                    </th>
+                    <th align="left">
+                      <p>Age</p>
+                    </th>
+                    <th align="left">
+                      <p>Vsd location</p>
+                    </th>
+                    <th align="left" colspan="2">
+                      <p>EF (%)</p>
+                    </th>
+                    <th align="left">
+                      <p>Revascularization</p>
+                    </th>
+                    <th align="left">
+                      <p>IABP/ ECMO</p>
+                    </th>
+                    <th align="left">
+                      <p>Survival</p>
+                    </th>
+                    <th align="left">
+                      <p>Year</p>
+                    </th>
+                    <th align="left">
+                      <p>Time to surgery (days)</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">
+                      <p>#1</p>
+                    </td>
+                    <td align="left">
+                      <p>F</p>
+                    </td>
+                    <td align="left">
+                      <p>60</p>
+                    </td>
+                    <td align="left">
+                      <p>Anterior</p>
+                    </td>
+                    <td align="left">
+                      <p>35</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>CABG on LAD</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>Yes</p>
+                    </td>
+                    <td align="left">
+                      <p>2018</p>
+                    </td>
+                    <td align="left">
+                      <p>17</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#2</p>
+                    </td>
+                    <td align="left">
+                      <p>M</p>
+                    </td>
+                    <td align="left">
+                      <p>75</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>25</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>CABG on LAD, OM and RCA</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>No</p>
+                    </td>
+                    <td align="left">
+                      <p>2019</p>
+                    </td>
+                    <td align="left">
+                      <p>27</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#3</p>
+                    </td>
+                    <td align="left">
+                      <p>M</p>
+                    </td>
+                    <td align="left">
+                      <p>55</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>30</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>CABG on LAD</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP</p>
+                    </td>
+                    <td align="left">
+                      <p>No</p>
+                    </td>
+                    <td align="left">
+                      <p>2020</p>
+                    </td>
+                    <td align="left">
+                      <p>38</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#4</p>
+                    </td>
+                    <td align="left">
+                      <p>F</p>
+                    </td>
+                    <td align="left">
+                      <p>60</p>
+                    </td>
+                    <td align="left">
+                      <p>Anterior</p>
+                    </td>
+                    <td align="left">
+                      <p>40</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>PCI on LAD</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>Yes</p>
+                    </td>
+                    <td align="left">
+                      <p>2020</p>
+                    </td>
+                    <td align="left">
+                      <p>14</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#5</p>
+                    </td>
+                    <td align="left">
+                      <p>M</p>
+                    </td>
+                    <td align="left">
+                      <p>67</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>35</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>PCI on RCA + CABG on LAD</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>Yes</p>
+                    </td>
+                    <td align="left">
+                      <p>2020</p>
+                    </td>
+                    <td align="left">
+                      <p>23</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#6</p>
+                    </td>
+                    <td align="left">
+                      <p>F</p>
+                    </td>
+                    <td align="left">
+                      <p>79</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>25</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>PCI on LAD and RCA</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>No</p>
+                    </td>
+                    <td align="left">
+                      <p>2021</p>
+                    </td>
+                    <td align="left">
+                      <p>8</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#7</p>
+                    </td>
+                    <td align="left">
+                      <p>F</p>
+                    </td>
+                    <td align="left">
+                      <p>65</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>35</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>CABG on LAD, RCA and OM</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>No</p>
+                    </td>
+                    <td align="left">
+                      <p>2021</p>
+                    </td>
+                    <td align="left">
+                      <p>6</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#8</p>
+                    </td>
+                    <td align="left">
+                      <p>M</p>
+                    </td>
+                    <td align="left">
+                      <p>69</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>40</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>No</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>Yes</p>
+                    </td>
+                    <td align="left">
+                      <p>2021</p>
+                    </td>
+                    <td align="left">
+                      <p>9</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#9</p>
+                    </td>
+                    <td align="left">
+                      <p>M</p>
+                    </td>
+                    <td align="left">
+                      <p>42</p>
+                    </td>
+                    <td align="left">
+                      <p>Posterior</p>
+                    </td>
+                    <td align="left">
+                      <p>40</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>CABG on LAD and RCA</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP + ECMO</p>
+                    </td>
+                    <td align="left">
+                      <p>Yes</p>
+                    </td>
+                    <td align="left">
+                      <p>2022</p>
+                    </td>
+                    <td align="left">
+                      <p>5</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>#10</p>
+                    </td>
+                    <td align="left">
+                      <p>M</p>
+                    </td>
+                    <td align="left">
+                      <p>71</p>
+                    </td>
+                    <td align="left">
+                      <p>Anterior</p>
+                    </td>
+                    <td align="left">
+                      <p>40</p>
+                    </td>
+                    <td align="left" colspan="2">
+                      <p>CABG on LAD</p>
+                    </td>
+                    <td align="left">
+                      <p>IABP</p>
+                    </td>
+                    <td align="left">
+                      <p>Yes</p>
+                    </td>
+                    <td align="left">
+                      <p>2023</p>
+                    </td>
+                    <td align="left">
+                      <p>17</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>VSD: ventricular septal defect, EF: ejection fraction, IABP: intra-aortic balloon pump, ECMO: extra-corporeal membrane oxygenation, CABG: coronary artery bypass grafting, PCI: percutaneous coronary intervention, CXA: circumflex artery, LAD: left anterior descending artery, LIMA: left internal mammary artery, MI: myocardial infarction, RCA: right coronary artery, TTE: trans thoracic echocardiography, VSD: ventricular septal defect.</p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <sec id="Sec3">
+            <title>Case presentations</title>
+            <p id="Par5">
+              <list list-type="bullet">
+                <list-item>
+                  <p id="Par6">
+                    <italic>Patient 1 (2018)</italic>
+                    : A 60-year-old woman presented with NYHA class IV heart failure, dyslipidemia, arterial hypertension, an EF of 35%, and a EuroSCORE of 18.51%. She experienced moderate dyspnea and chest pain. Coronary angiography revealed LAD occlusion, and a failed PCI attempt was followed by IABP placement. After 10 days, a new pansystolic murmur and an anterior VSD (17 mm) were detected on TEE. Surgery was delayed for one week (17 days from onset), and the VSD was closed with a LIMA-LAD graft. Post-operatively, the patient required ECMO support, which was removed on the third day. She was discharged from the ICU after 7 days and from the hospital 15 days post-surgery.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par7">
+                    <italic>Patient 2 (2019)</italic>
+                    : A 75-year-old man with NYHA class IV, dyslipidemia, obesity, arterial hypertension, obliterated lower limb arteries, mild kidney disease, poor mobility, an EF of 25%, and a EuroSCORE of 35.89% presented with severe dyspnea and a new pansystolic murmur. TTE revealed a posterior VSD (22 mm). Angiography showed RCA occlusion and severe LM stenosis. Surgery was delayed for one week (27 days from onset), and the defect was closed with three grafts. Despite ECMO support, the patient experienced heart failure and multi-organ involvement, leading to death on the 10th post-operative day.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par8">
+                    <italic>Patient 3 (2020)</italic>
+                    : A 55-year-old man presented with NYHA class IV heart failure, dyslipidemia, obesity, arterial hypertension, an EF of 30%, and a EuroSCORE of 23.76%. TTE revealed a posterior VSD (21 mm). Angiography showed RCA occlusion and LAD stenosis. Surgery was postponed for one week (38 days from onset), but the patient suffered a stroke post-operatively and died one week later.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par9">
+                    <italic>Patient 4 (2020)</italic>
+                    : A 60-year-old woman with NYHA class IV heart failure, obliterated lower limb arteries, an EF of 40%, and a EuroSCORE of 19% experienced cardiac arrest during PCI. TTE showed an anterior VSD (22 mm). Surgery was delayed for two weeks (14 days from onset). The post-operative course was complicated by sepsis, and she was discharged 45 days after surgery.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par10">
+                    <italic>Patient 5 (2020)</italic>
+                    : A 67-year-old man with NYHA class IV heart failure, a family history of heart disease, an EF of 35%, and a history of repeated PCI, with a EuroSCORE of 14.46%, presented with continuous chest pain, elevated troponins, and a new pansystolic murmur. Angiography revealed RCA occlusion and LAD stenosis. Surgery was performed two weeks later (23 days from onset). The VSD was closed, and a single bypass (LIMA-LAD) was grafted. The patient was discharged from the ICU after 10 days and from the hospital two weeks later.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par11">
+                    <italic>Patient 6 (2021)</italic>
+                    : A 79-year-old woman with NYHA class IV heart failure, dyslipidemia, obesity, arterial hypertension, an EF of 25%, diabetes, and a history of PCI, with a EuroSCORE of 48.99%, presented with dyspnea and a new pansystolic murmur. TTE revealed a posterior VSD (16 mm). Surgery was postponed for 3 days (8 days from onset) due to hemodynamic instability. The defect was closed, but residual VSD and heart failure led to her death two days later.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par12">
+                    <italic>Patient 7 (2021)</italic>
+                    : A 65-year-old woman with NYHA class IV heart failure, dyslipidemia, obesity, arterial hypertension, an EF of 35%, and diabetes, with a EuroSCORE of 31.52%, presented after a cardiac arrest. Angiography revealed LAD occlusion and severe RCA and CXA stenosis. TTE showed a posterior VSD (23 mm). Surgery was performed the next day (6 days from onset), but the patient died the following day from multi-organ failure.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par13">
+                    <italic>Patient 8 (2021)</italic>
+                    : A 69-year-old man with a BMI of 32, NYHA class IV heart failure, smoking history, arterial hypertension, diabetes, COPD, and an EF of 40%, with a EuroSCORE of 33.99%, presented with severe dyspnea and a new pansystolic murmur. TTE showed a posterior VSD (15 mm). The patient went into cardiogenic shock and required emergency surgery. He was discharged one month later.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par14">
+                    <italic>Patient 9 (2022)</italic>
+                    : A 42-year-old man with NYHA class IV heart failure, dyslipidemia, arterial hypertension, a family history of heart disease, and an EF of 40%, with a EuroSCORE of 10.69%, presented with severe dyspnea and a new pansystolic murmur. Angiography revealed RCA occlusion and LAD stenosis. Emergency surgery was performed (5 days from onset). The patient was discharged from the ICU after 41 days and from the hospital one week later.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par15">
+                    <italic>Patient 10 (2023)</italic>
+                    : A 71-year-old man with NYHA class IV heart failure, smoking history, arterial hypertension, diabetes, COPD, and an EF of 40%, with a EuroSCORE of 30.94%, presented with severe dyspnea and a new pansystolic murmur. TEE showed an anterior VSD (18 mm). Surgery was postponed for 7 days (17 days from onset). The VSD was closed, and a single bypass (LIMA-LAD) was grafted. The patient was discharged three weeks later. (Fig. 
+                    <xref rid="Fig1" ref-type="fig">1</xref>
+                    )
+                  </p>
+                </list-item>
+              </list>
+            </p>
+            <p id="Par16">
+              <fig id="Fig1" position="float">
+                <label>Fig. 1</label>
+                <caption xml:lang="en">
+                  <p>Surgical view of apical approach for Ventricular Septal Defect repair.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_84983_Fig1_HTML.png"/>
+              </fig>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec4">
+          <title>Primary outcome</title>
+          <p id="Par17">
+            The incidence of post-MI VSD from 2018 to 2023 varied, with notable peaks in 2020 and 2021, each with three cases. In 2018 and 2019, only one case was reported each year, while in 2022 and 2023, one case was reported annually (Fig. 
+            <xref rid="Fig2" ref-type="fig">2</xref>
+            ). To better understand the incidence of VSD, these results were compared against the total number of MI cases. During the pre-COVID-19 period, the incidence of MI averaged around 400 cases annually (2018: 395 cases; 2019: 401 cases). During COVID-19, a slight decrease in MI incidence occurred (2020: 365 cases; 2021: 380 cases). Post-COVID-19, the incidence of MI returned to initial levels (2022: 410 cases; 2023: 403 cases).
+          </p>
+          <p id="Par18">
+            <fig id="Fig2" position="float">
+              <label>Fig. 2</label>
+              <caption xml:lang="en">
+                <p>Annual Incidence of VSD Post-Myocardial Infarction from 2018 to 2023. The graph illustrates the number of cases reported each year, with one case in 2018 and 2019, three cases in 2020 and 2021, and one case in 2022 and 2023.</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_84983_Fig2_HTML.png"/>
+            </fig>
+          </p>
+        </sec>
+        <sec id="Sec5">
+          <title>Secondary outcomes</title>
+          <p id="Par19">The mean hospitalization time for surviving patients was 36.25 ± 12.58 days. The mean time from symptom onset to surgery was 16.4 ± 9.96 days, with 60% of patients undergoing surgery within 14 days. Hemodynamic support was provided with both ECMO and IABP in 80% of cases, while only IABP was used in the remaining 20%. The overall survival rate was 60% (6/10). Among patients who underwent surgery within 14 days of the acute event, the survival rate was 50% (2/4), whereas for those who had surgery after 14 days, the survival rate was 66% (4/6). Notably, survival was 100% in patients with anterior VSD (3/3) but only 42% in patients with posterior VSD (3/7).</p>
+          <p id="Par20">
+            A Kaplan-Meier survival analysis (Fig. 
+            <xref rid="Fig2" ref-type="fig">3</xref>
+            ) demonstrated a steep initial decline in survival probability within the first few days post-surgery, reflecting early mortality. Specifically, survival probability dropped to approximately 70% within the first week, indicating that 3 out of the 10 patients died shortly after the operation. However, the survival curve plateaued as the follow-up period progressed, with the survival probability stabilizing at around 50% by day 30. This stabilization underscores the critical importance of early post-operative care in improving patient outcomes.
+          </p>
+          <p id="Par21">
+            <fig id="Fig3" position="float">
+              <label>Fig. 3</label>
+              <caption xml:lang="en">
+                <p>Kaplan-Meier Survival Estimate for Post-MI VSD Repair Patients.</p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_84983_Fig3_HTML.png"/>
+            </fig>
+          </p>
+        </sec>
+        <sec id="Sec6" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par22">
+            The incidence of ventricular septal defects (VSDs) as a complication of myocardial infarction (MI) has significantly decreased from 1–3–0.2% with the advent of early coronary reperfusion
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+            . VSDs typically develop 4 to 14 days post-MI when necrosis is advanced, and collateral coronary flow has not yet improved
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . However, their incidence increases in cases of delayed coronary reperfusion
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . The optimal timing for VSD repair remains a subject of ongoing debate. Early intervention carries the risk of operating on fragile tissues, while delayed intervention can result in right ventricular failure
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . Current guidelines from the American College of Cardiology Foundation/American Heart Association and the European Society of Cardiology recommend early surgical intervention only for hemodynamically unstable patients
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            . Despite surgery being the definitive treatment, mortality rates remain high
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+            </sup>
+            . Tirone E. David has suggested that early surgery provides the best long-term survival outcomes, whereas delaying surgery in hemodynamically stable patients can lead to cardiogenic shock and multi-organ failure
+            <sup>
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            . Conversely, Matteucci et al. reported that emergent VSD corrections are associated with higher operative mortality
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            . Similarly, Cinq-Mars et al. found that a shorter interval between acute MI and surgery is an independent predictor of 30-day and long-term mortality
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+            </sup>
+            . Our findings, however, are influenced by the small sample size and did not reveal significant differences in outcomes between patients who underwent surgery at least 14 days after the acute event—allowing for scar tissue formation—and those requiring emergency surgery. Achieving a 14-day delay is challenging, as demonstrated by our experience, where only 50% of patients (4 out of 8) reached this threshold. Our Kaplan-Meier analysis underscores the significant early risk associated with post-MI VSD repair, evidenced by a sharp decline in survival probability within the initial days following surgery. This steep drop indicates that patients are particularly vulnerable during the early postoperative phase. However, the analysis also shows that patients who survive beyond this critical period tend to experience significantly improved long-term survival. The plateau in the survival curve after the initial decline suggests that once patients overcome the immediate postoperative risks, their chances of long-term survival increase markedly. These findings emphasize the critical need for vigilant monitoring and intensive care during the immediate postoperative period. This phase is crucial for identifying and managing complications that may arise after surgery. Intensive care units (ICUs) must be equipped with advanced monitoring tools and staffed by healthcare professionals experienced in postoperative care for cardiac surgery patients. Proactive management of potential complications, such as heart failure, arrhythmias, and infections, can significantly improve patient outcomes. The data suggest that comprehensive postoperative care is essential to support patients through this high-risk period. Effective ICU care involves continuous monitoring, rapid response to clinical changes, and appropriate therapeutic interventions. By ensuring that patients receive intensive care and close observation immediately after surgery, healthcare providers can reduce early mortality rates and enhance overall survival prospects for individuals undergoing post-MI VSD repair. The debate also extends to the choice between surgical and percutaneous approaches. Transcatheter closure has shown variable outcomes. Tirone E. David describes it as a complex procedure with no clear evidence of superiority over surgery
+            <sup>
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            . Conversely, Faccini et al. reported that percutaneous closure can be safe and effective if performed in highly specialized centers on appropriately selected patients
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            . Xia et al. concur, suggesting that delayed percutaneous closure is feasible in patients without serious organ dysfunction
+            <sup>
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . Another crucial factor is the location of the VSD. In our cases, survival rates varied significantly based on VSD location. The mortality rate was higher in patients with posterior VSD (50%) compared to those with anterior VSD (0%). This discrepancy is likely influenced by the higher incidence of posterior VSD (75%), often associated with right coronary artery MI and a less evident clinical presentation. These findings are consistent with those of Matteucci et al., who reported a correlation between posterior VSD and increased mortality
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            , but contradict the findings of Ghosh et al., who did not observe differences between the two groups
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . The COVID-19 pandemic also impacted the incidence of VSD, with a significant increase in annual cases coinciding with a reduction in the incidence of myocardial infarction. Numerous reports have highlighted delayed hospitalization during the pandemic and the subsequent increase in cardiac complications
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              ,
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+            . During this period, patients often chose to stay home rather than seek hospital care, fearing COVID-19 infection during a heart attack. This decision led to increased cardiac damage and tissue fragility, contributing to the appearance of VSD. D’Abramo et al. reported a significant delay in patients seeking hospital care due to fear of infection, which significantly increased the incidence of post-MI VSD
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . Our data confirm an increased incidence of post-MI VSD during the pandemic (6 cases over two years compared to one case in the previous year), but more importantly, a return to normalcy post-pandemic (2 cases in the following two years). These findings underscore the importance of timely intervention and the need for specialized centers to manage post-MI VSD effectively, especially considering the impact of external factors such as the COVID-19 pandemic. Future research should focus on larger, multicenter studies to validate our results and explore the optimal timing for VSD repair. Additionally, the development and evaluation of new treatment modalities, including advanced percutaneous techniques, could improve patient outcomes. This study has several limitations, including the small sample size and the retrospective nature of the analysis. Additionally, potential biases may have influenced our results, and larger, prospective studies are needed to confirm our findings. The exclusion criterion of 85 years could also have affected the overall incidence results.
+          </p>
+        </sec>
+        <sec id="Sec7" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p id="Par23">Ventricular septal defect (VSD) remains one of the most severe complications following myocardial infarction (MI), particularly in patients who experience delays in treatment. The COVID-19 pandemic exacerbated this issue, as many patients postponed seeking medical care due to fear of infection, leading to an increased incidence of post-MI VSD. However, with the gradual resolution of the pandemic, the incidence of post-MI VSD has returned to pre-pandemic levels. These findings underscore the critical importance of timely medical intervention in preventing severe complications like VSD and highlight the need for continued vigilance in patient care, even during public health crises.</p>
+          <sec id="Sec8">
+            <title>Methods</title>
+            <p id="Par24">This retrospective analysis included 10 patients who underwent post-myocardial infarction (MI) ventricular septal defect (VSD) repair surgery at Anthea Hospital GVM Care &amp; Research in Bari and Bianchi Melacrino Morelli Hospital in Reggio Calabria, Italy, between January 2018 and December 2023. The cohort was divided as follows: 2 patients in 2018–2019, 6 patients in 2020–2021, and 2 patients in 2022–2023. Data were extracted from electronic health records by trained clinical researchers, focusing on hospitalization details, including length of stay, complications, and discharge status. Patients discharged alive were contacted for a follow-up interview via telephone 30 days post-discharge to assess their recovery and any recurrent symptoms.</p>
+          </sec>
+        </sec>
+        <sec id="Sec9">
+          <title>Inclusion and exclusion criteria</title>
+          <p id="Par25">Inclusion criteria were as follows: (1) Acute Myocardial Infarction (AMI) diagnosed according to the Universal Definition of Myocardial Infarction (fourth edition) with VSD confirmed via ultrasonography or ventriculography following AMI, and (2) informed consent obtained from the patient or their legal guardian. Exclusion criteria included: (1) Informed consent not obtained from the patient or their legal guardian, or the patient declined to adhere to treatment or follow-up, and (2) patients older than 85 years.</p>
+        </sec>
+        <sec id="Sec10">
+          <title>Surgical procedure</title>
+          <p id="Par26">
+            The VSD repair was performed under extracorporeal circulation and cardioplegic arrest. The defect was accessed via the left ventricle and closed using a single patch of bovine pericardium. The patch was secured with U-stitches of polypropylene (3 − 0, 4 − 0, or 5 − 0 depending on the surgeon’s preference) to the healthy endocardium, reinforced with a continuous polypropylene suture. The ventricular access was then closed with two continuous sutures, reinforced with Teflon strips in polypropylene (2 − 0 or 3 − 0 based on the suture size). Figure 
+            <xref rid="Fig3" ref-type="fig">1</xref>
+             illustrates the surgical view of an apical approach for VSD repair.
+          </p>
+          <sec id="Sec11">
+            <title>Outcomes</title>
+            <p id="Par27">General clinical data were collected on the hospitalization of all 10 patients who underwent attempted surgical post-MI VSD closure. Six patients survived to discharge and were followed up for 30 days. Primary outcomes included the incidence of post-MI VSD across the years analyzed (2018–2023). Secondary outcomes included mean hospitalization time for surviving patients, the mean time from symptom onset to surgery, and the overall survival rate. A survival analysis was conducted to compare patients treated with surgery before and after 15 days from symptom onset.</p>
+          </sec>
+          <sec id="Sec12">
+            <title>Statistical analysis</title>
+            <p id="Par28">Data were analyzed using STATA version 16.0 (StataCorp, College Station, Texas, USA). Continuous variables were expressed as means ± standard deviations, and categorical variables were expressed as frequencies and percentages. Kaplan-Meier curves were used to perform the survival analysis.</p>
+          </sec>
+          <sec id="Sec13">
+            <title>Ethical considerations</title>
+            <p id="Par29">This study was approved by the institutional review board (IRB) of each participating hospital. Informed consent was obtained from all patients or their legal guardians. Patient confidentiality was maintained by anonymizing data and using secure databases for data storage and analysis.</p>
+          </sec>
+        </sec>
+      </body>
+      <back>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>Author Contributions: Conceptualization, G.N. and I.C.: methodology, G.N, W.V., and G.S.(Speziale): validation: G.N., W.V., A.A., F.B., B.P., C.L., S.S., A.P., V.A., V.M., R.B., R.C., D.D., P.F., M.D.R., M.G.D.R, B.M., G.D., R.T., G.G., G.S. (santarpino), G.L., M.S.B. and G.S. (speziale); formal analysis W.V., I.C. and B.P., data curation: G.N., W.V., A.A., F.B., B.P., C.L., S.S., A.P., V.A., V.M., M.D.A., R.C., D.D., P.F., M.G.D.R., G.D., R.T., G.C., G.S. (santarpino), I.C., G.L., and M.S.B. writing—original draft preparation G.N., W.V., A.A. and B.P.,; writing—review and editing I.C., G.N., W.V., F.B., B.P. and G.S.; supervision, G.N., M.S.B., I.C., G.S. (Santarpino) and G.S. (Speziale); All authors have read and agreed to the published version of the manuscript.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>This research received no external funding.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>The original contributions presented in the study are included in the article, further inquiries can be directed to the corresponding author.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <title>Declarations</title>
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par30">The authors declare no competing interests.</p>
+          </sec>
+          <sec id="FPar2">
+            <title>Institutional review board statement</title>
+            <p id="Par31">The study conforms to the ethical principles of the Good Clinical Practice, the Helsinki Declaration, and is in compliance with the current Italian regulations. This study was approved by the Institutional Review Board of Anthea Hospital-Bari, code 011-2024, date 31 January 2024.</p>
+          </sec>
+          <sec id="FPar3">
+            <title>Informed consent</title>
+            <p id="Par32">Informed consent was obtained from all subjects involved in the study and written informed consent has been obtained from the patient(s) to publish this paper. Patient confidentiality was maintained by anonymizing data and using secure databases for data storage and analysis.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lu</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Sun</surname>
+                    <given-names>RR</given-names>
+                  </name>
+                  <name>
+                    <surname>Zheng</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Myocardial infarction: symptoms and treatments</article-title>
+                <source>Cell. Biochem. Biophys.</source>
+                <year>2015</year>
+                <volume>72</volume>
+                <fpage>865</fpage>
+                <lpage>867</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXhvFCitbo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s12013-015-0553-4</pub-id>
+                <pub-id pub-id-type="pmid">25638347</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1101.93060</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Murphy</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Goldberg</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mechanical complications of myocardial infarction</article-title>
+                <source>Am. J. Med.</source>
+                <year>2022</year>
+                <volume>135</volume>
+                <fpage>1401</fpage>
+                <lpage>1409</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.amjmed.2022.08.017</pub-id>
+                <pub-id pub-id-type="pmid">36075485</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1424.53044</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shafiei</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Jannati</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Jannati</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Optimal time repair of ventricular septal rupture post myocardial infarction</article-title>
+                <source>J. Saudi Hear. Assoc.</source>
+                <year>2020</year>
+                <volume>32</volume>
+                <fpage>288</fpage>
+                <lpage>294</lpage>
+                <pub-id pub-id-type="doi">10.37616/2212-5043.1120</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1481.94107</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Neumann</surname>
+                    <given-names>FJ</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">2018 ESC/EACTS guidelines on myocardial revascularization</article-title>
+                <source>Eur. Heart J.</source>
+                <year>2019</year>
+                <volume>40</volume>
+                <fpage>87</fpage>
+                <lpage>165</lpage>
+                <pub-id pub-id-type="doi">10.1093/eurheartj/ehy394</pub-id>
+                <pub-id pub-id-type="pmid">30165437</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0075.23903</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Crenshaw</surname>
+                    <given-names>BS</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Risk factors, angiographic patterns, and outcomes in patients with ventricular septal defect complicating acute myocardial infarction</article-title>
+                <source>Circulation</source>
+                <year>2000</year>
+                <volume>101</volume>
+                <fpage>27</fpage>
+                <lpage>32</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD3c%2Fos1OktA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1161/01.CIR.101.1.27</pub-id>
+                <pub-id pub-id-type="pmid">10618300</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1295.78003</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Elbadawi</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Temporal trends and outcomes of Mechanical complications in patients with Acute myocardial infarction</article-title>
+                <source>JACC Cardiovasc. Interv</source>
+                <year>2019</year>
+                <volume>12</volume>
+                <fpage>1825</fpage>
+                <lpage>1836</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.jcin.2019.04.039</pub-id>
+                <pub-id pub-id-type="pmid">31537282</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1470.32101</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="other">
+                Çelmeta, B. et al. Postinfarction ventricular septal defect closure. 
+                <italic>Multimedia manual of cardiothoracic surgery: MMCTS</italic>
+                .
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wilson</surname>
+                    <given-names>WM</given-names>
+                  </name>
+                  <name>
+                    <surname>Horlick</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Management of post-myocardial infarction ventricular septal rupture</article-title>
+                <source>EuroIntervention J. Eur. Collab. Work Gr Interv Cardiol. Eur. Soc. Cardiol.</source>
+                <year>2016</year>
+                <volume>12</volume>
+                <issue>Suppl X</issue>
+                <fpage>X18</fpage>
+                <lpage>X23</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shi</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Surgical repair of post myocardial infarction ventricular septal defect: a retrospective analysis of a single institution experience</article-title>
+                <source>J. Cardiothorac. Surg.</source>
+                <year>2023</year>
+                <volume>18</volume>
+                <fpage>313</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXmtF2ks7g%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1186/s13019-023-02418-8</pub-id>
+                <pub-id pub-id-type="pmid">37950265</pub-id>
+                <pub-id pub-id-type="pmcid">10638688</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1165.11068</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="other">
+                Ghosh, S. et al. Surgical outcomes of post-myocardial infarction ventricular septal Defect/Rupture: a systematic review and Meta-analysis. 
+                <italic>Cureus</italic>
+                 ;
+                <bold>15</bold>
+                . (2023).
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Daggett</surname>
+                    <given-names>WM</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Surgery for post-myocardial infarct ventricular septal defect</article-title>
+                <source>Ann. Surg.</source>
+                <year>1977</year>
+                <volume>186</volume>
+                <fpage>260</fpage>
+                <lpage>271</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaE2s3ktV2qsw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1097/00000658-197709000-00004</pub-id>
+                <pub-id pub-id-type="pmid">302110</pub-id>
+                <pub-id pub-id-type="pmcid">1396347</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Jeppsson</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Surgical repair of post infarction ventricular septal defects: a national experience</article-title>
+                <source>Eur. J. Cardio-thoracic Surg.</source>
+                <year>2005</year>
+                <volume>27</volume>
+                <fpage>216</fpage>
+                <lpage>221</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.ejcts.2004.10.037</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0825.73742</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Al-Bulushi</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Post-infarction Ventricular Septal defect: a quarter century experience</article-title>
+                <source>Sultan Qaboos Univ. Med. J.</source>
+                <year>2023</year>
+                <volume>23</volume>
+                <fpage>22</fpage>
+                <lpage>30</lpage>
+                <pub-id pub-id-type="doi">10.18295/squmj.12.2023.076</pub-id>
+                <pub-id pub-id-type="pmid">38161766</pub-id>
+                <pub-id pub-id-type="pmcid">10754311</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1533.93151</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Abramo</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Increased incidence of postmyocardial infarction ventricular septal defects during Covid-19 pandemic: a case series</article-title>
+                <source>J. Card Surg.</source>
+                <year>2022</year>
+                <volume>37</volume>
+                <fpage>1759</fpage>
+                <lpage>1763</lpage>
+                <pub-id pub-id-type="doi">10.1111/jocs.16430</pub-id>
+                <pub-id pub-id-type="pmid">35315186</pub-id>
+                <pub-id pub-id-type="pmcid">9115124</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1499.74081</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bates</surname>
+                    <given-names>ER</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reperfusion therapy reduces the risk of myocardial rupture complicating St-elevation myocardial infarction</article-title>
+                <source>J. Am. Heart Assoc.</source>
+                <year>2014</year>
+                <volume>3</volume>
+                <fpage>1</fpage>
+                <lpage>3</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014miec.book.....B</pub-id>
+                <pub-id pub-id-type="doi">10.1161/JAHA.114.001368</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1315.37049</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Renzi</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Does public reporting improve the quality of hospital care for acute myocardial infarction? Results from a regional outcome evaluation program in Italy</article-title>
+                <source>Int. J. Qual. Heal Care</source>
+                <year>2014</year>
+                <volume>26</volume>
+                <fpage>223</fpage>
+                <lpage>230</lpage>
+                <pub-id pub-id-type="doi">10.1093/intqhc/mzu041</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1329.76039</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="other">
+                Gara, O. PT et al. 2013 ACCF/AHA Guideline for the management of ST-Elevation myocardial infarction: executive Summary. 
+                <italic>Circulation</italic>
+                <bold>127</bold>
+                , 529–555 (2013).
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ibanez</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">2017 ESC guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation</article-title>
+                <source>Eur. Heart J.</source>
+                <year>2018</year>
+                <volume>39</volume>
+                <fpage>119</fpage>
+                <lpage>177</lpage>
+                <pub-id pub-id-type="doi">10.1093/eurheartj/ehx393</pub-id>
+                <pub-id pub-id-type="pmid">28886621</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0926.54001</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gong</surname>
+                    <given-names>FF</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Mechanical complications of Acute myocardial infarction: a review</article-title>
+                <source>JAMA Cardiol.</source>
+                <year>2021</year>
+                <volume>6</volume>
+                <fpage>341</fpage>
+                <lpage>349</lpage>
+                <pub-id pub-id-type="doi">10.1001/jamacardio.2020.3690</pub-id>
+                <pub-id pub-id-type="pmid">33295949</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1189.34126</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>David</surname>
+                    <given-names>TE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Post-infarction ventricular septal rupture</article-title>
+                <source>Ann. Cardiothorac. Surg.</source>
+                <year>2022</year>
+                <volume>11</volume>
+                <fpage>261</fpage>
+                <lpage>267</lpage>
+                <pub-id pub-id-type="doi">10.21037/acs-2021-ami-111</pub-id>
+                <pub-id pub-id-type="pmid">35733715</pub-id>
+                <pub-id pub-id-type="pmcid">9207689</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Matteucci</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Surgical Repair of Postinfarction Ventricular Septal rupture: systematic review and Meta-analysis</article-title>
+                <source>Ann. Thorac. Surg.</source>
+                <year>2021</year>
+                <volume>112</volume>
+                <fpage>326</fpage>
+                <lpage>337</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.athoracsur.2020.08.050</pub-id>
+                <pub-id pub-id-type="pmid">33157063</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1121.81057</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cinq-Mars</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Risk factors of mortality after surgical correction of ventricular septal defect following myocardial infarction: retrospective analysis and review of the literature</article-title>
+                <source>Int. J. Cardiol.</source>
+                <year>2016</year>
+                <volume>206</volume>
+                <fpage>27</fpage>
+                <lpage>36</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.ijcard.2015.12.011</pub-id>
+                <pub-id pub-id-type="pmid">26773765</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="other">
+                Faccini, A. &amp; Butera, G. Techniques, timing, and prognosis of Transcatheter Post myocardial infarction ventricular septal defect repair. 
+                <italic>Curr. Cardiol. Rep.</italic>
+                 ;
+                <bold>21</bold>
+                . (2019).
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Xia</surname>
+                    <given-names>Q</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Ventricular septal defect complicating myocardial infarction: a case of delayed percutaneous transcatheter closure</article-title>
+                <source>J. Card Surg.</source>
+                <year>2022</year>
+                <volume>37</volume>
+                <fpage>5579</fpage>
+                <lpage>5583</lpage>
+                <pub-id pub-id-type="doi">10.1111/jocs.17118</pub-id>
+                <pub-id pub-id-type="pmid">36335617</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1505.94023</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="other">
+                Kitahara, S. et al. COVID-19 pandemic is associated with mechanical complications in patients with ST-elevation myocardial infarction. 
+                <italic>Open. Hear.</italic>
+                 ;
+                <bold>8</bold>
+                . (2021).
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bonnet</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Panagides</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">ST-segment elevation myocardial infarction: management and association with prognosis during the COVID-19 pandemic in France</article-title>
+                <source>Arch. Cardiovasc. Dis.</source>
+                <year>2021</year>
+                <volume>114</volume>
+                <fpage>340</fpage>
+                <lpage>351</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.acvd.2021.01.005</pub-id>
+                <pub-id pub-id-type="pmid">33926830</pub-id>
+                <pub-id pub-id-type="pmcid">9056233</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <notes notes-type="Misc">
+          <title>Publisher’s note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

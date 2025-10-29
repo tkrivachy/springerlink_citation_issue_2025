@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701124",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08252-0",
+    "title": "Lignin-polysaccharide interactions in plant secondary cell walls revealed by solid-state NMR",
+    "article_number": "347",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xue Kang",
+      "Alex Kirui",
+      "Malitha C. Dickwella Widanage",
+      "Frederic Mentink-Vigier",
+      "Daniel J. Cosgrove",
+      "Tuo Wang"
+    ]
+  },
+  "article_index": 221,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 414,
+      "retrieved_at": "2025-10-03T17:32:16.225094"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 445,
+      "retrieved_at": "2025-10-03T17:32:17.733588"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 397,
+      "retrieved_at": "2025-10-03T17:32:18.889202"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 469,
+      "retrieved_at": "2025-10-03T22:44:20.558115"
+    },
+    "last_updated": "2025-10-03T22:44:20.558213"
+  }
+}

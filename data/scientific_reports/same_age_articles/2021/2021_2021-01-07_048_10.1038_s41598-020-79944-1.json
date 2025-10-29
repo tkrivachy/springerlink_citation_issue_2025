@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.209484",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79944-1",
+    "title": "The establishment of a regression model from four modes of ultrasound to predict the activity of Crohn's disease",
+    "article_number": "77",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jigang Jing",
+      "Yuting Wu",
+      "Hu Zhang",
+      "Yan Zhang",
+      "Jingxi Mu",
+      "Yan Luo",
+      "Hua Zhuang"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:37:18.924896"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:37:20.467035"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:37:21.656974"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:38:21.233733"
+    },
+    "last_updated": "2025-10-03T21:38:21.233923"
+  }
+}

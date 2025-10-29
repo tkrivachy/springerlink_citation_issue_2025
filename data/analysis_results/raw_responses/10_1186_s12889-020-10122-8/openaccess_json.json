@@ -1,0 +1,208 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/s12889-020-10122-8",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/s12889-020-10122-8",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/s12889-020-10122-8"
+        }
+      ],
+      "title": "Influence of air temperature and implemented veterinary measures on the incidence of human salmonellosis in the Czech Republic during 1998–2017",
+      "creators": [
+        {
+          "creator": "Kynčl, Jan"
+        },
+        {
+          "ORCID": "0000-0002-4557-1910",
+          "creator": "Špačková, Michaela"
+        },
+        {
+          "creator": "Fialová, Alena"
+        },
+        {
+          "creator": "Kyselý, Jan"
+        },
+        {
+          "creator": "Malý, Marek"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "doi": "10.1186/s12889-020-10122-8",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2021-01-06",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "21",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "Infectious Disease epidemiology",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "7",
+      "journalId": "12889",
+      "openAccess": "true",
+      "onlineDate": "2021-01-06",
+      "coverDate": "2021-12",
+      "copyright": "©2021 The Author(s)",
+      "abstract": {
+        "h1": "Abstract",
+        "p": [
+          "Background",
+          "The aim of our study was to analyse the influence of air temperature and implemented veterinary measures on salmonellosis incidence in the Czech Republic (CZ).",
+          "Methods",
+          "We conducted a descriptive analysis of salmonellosis as reported to the Czech national surveillance system during 1998–2017 and evaluated the influence of applied veterinary measures (started in January 2008) on salmonellosis incidence by comparing two 9-year periods (1998–2006, 2009–2017). Using a generalized additive model, we analysed association between monthly mean air temperature and log-transformed salmonellosis incidence over the entire twenty-year period.",
+          "Results",
+          "A total of 410,533 salmonellosis cases were reported during the study period in the CZ. Annual mean incidences of salmonellosis were 313.0/100,000 inhabitants before and 99.0/100,000 inhabitants after implementation of the veterinary measures. The time course of incidence was non-linear, with a sharp decline during 2006–2010. Significant association was found between disease incidence and air temperature. On average, the data indicated that within a common temperature range every 1 °C rise in air temperature contributed to a significant 6.2% increase in salmonellosis cases.",
+          "Conclusions",
+          "Significant non-linear effects of annual trend, within-year seasonality, and air temperature on the incidence of salmonellosis during 1998–2017 were found. Our study also demonstrates significant direct effect of preventive veterinary measures taken in poultry in reducing incidence of human salmonellosis in the CZ. The annual mean number of salmonellosis cases in the period after introducing the veterinary measures was only 32.5% of what it had been in the previous period."
+        ]
+      },
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Gastrointestinal infections",
+          "count": "1"
+        },
+        {
+          "value": "Salmonellosis",
+          "count": "1"
+        },
+        {
+          "value": "Temperature",
+          "count": "1"
+        },
+        {
+          "value": "Veterinary measures",
+          "count": "1"
+        },
+        {
+          "value": "Weather",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2021",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Czech Republic",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

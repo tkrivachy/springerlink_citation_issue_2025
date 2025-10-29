@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.559316",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55560-9",
+    "title": "Bioinspired concise synthesis of caged Sesquiterpenoids Artatrovirenols A and B",
+    "article_number": "322",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yunxia Yang",
+      "Dong Xie",
+      "Liang Huo",
+      "Yue Liu",
+      "Jinbo Duan",
+      "Huilin Li",
+      "Pan-Pan Zhou",
+      "Xingang Xie",
+      "Xuegong She"
+    ]
+  },
+  "article_index": 307,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:22:46.704681"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:22:48.223889"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:22:49.392741"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:21:46.225802"
+    },
+    "last_updated": "2025-10-03T23:21:46.225990"
+  }
+}

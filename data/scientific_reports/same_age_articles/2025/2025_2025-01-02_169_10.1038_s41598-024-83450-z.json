@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.366447",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83450-z",
+    "title": "An integrated approach using social support theory and technology acceptance model to investigate the sustainable use of digital learning technologies",
+    "article_number": "342",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sultan Hammad Alshammari",
+      "Abeer F. Alkhwaldi"
+    ]
+  },
+  "article_index": 169,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T16:06:26.504283"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T16:06:28.013552"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:51.500213"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T22:14:00.765648"
+    },
+    "last_updated": "2025-10-07T09:46:51.500388"
+  }
+}

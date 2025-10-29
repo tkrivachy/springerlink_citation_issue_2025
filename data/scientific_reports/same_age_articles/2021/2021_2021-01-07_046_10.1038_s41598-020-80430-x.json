@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.209117",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80430-x",
+    "title": "DNA sequences performs as natural language processing by exploiting deep learning algorithm for the identification of N4-methylcytosine",
+    "article_number": "212",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Abdul Wahab",
+      "Hilal Tayara",
+      "Zhenyu Xuan",
+      "Kil To Chong"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T14:39:13.887904"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T14:39:15.399951"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T14:39:16.689414"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T21:39:07.959597"
+    },
+    "last_updated": "2025-10-03T21:39:07.959787"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.539844",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55695-9",
+    "title": "Li",
+    "article_number": "112",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xing Zhou",
+      "Chia-Yu Chang",
+      "Dongfang Yu",
+      "Kai Zhang",
+      "Zhi Li",
+      "Shi-Kai Jiang",
+      "Yizhou Zhu",
+      "Yongyao Xia",
+      "Bing Joe Hwang",
+      "Yonggang Wang"
+    ]
+  },
+  "article_index": 204,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:23:22.329053"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:23:23.914686"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:23:25.120078"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:21:56.851386"
+    },
+    "last_updated": "2025-10-03T23:21:56.851585"
+  }
+}

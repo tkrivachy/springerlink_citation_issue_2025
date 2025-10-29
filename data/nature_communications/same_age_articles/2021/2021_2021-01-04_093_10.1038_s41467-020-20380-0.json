@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.189466",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20380-0",
+    "title": "Green synthesis of graphite from CO",
+    "article_number": "119",
+    "publication_date": "2021-01-05",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chu Liang",
+      "Yun Chen",
+      "Min Wu",
+      "Kai Wang",
+      "Wenkui Zhang",
+      "Yongping Gan",
+      "Hui Huang",
+      "Jian Chen",
+      "Yang Xia",
+      "Jun Zhang",
+      "Shiyou Zheng",
+      "Hongge Pan"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T18:22:53.730878"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T18:22:55.296317"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T18:22:56.480679"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T23:01:30.837484"
+    },
+    "last_updated": "2025-10-03T23:01:30.837676"
+  }
+}

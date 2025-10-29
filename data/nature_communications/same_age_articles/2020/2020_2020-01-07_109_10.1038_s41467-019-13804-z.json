@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889834",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13804-z",
+    "title": "Microparticle traction force microscopy reveals subcellular force exertion patterns in immune cell–target interactions",
+    "article_number": "20",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daan Vorselen",
+      "Yifan Wang",
+      "Miguel M. de Jesus",
+      "Pavak K. Shah",
+      "Matthew J. Footer",
+      "Morgan Huse",
+      "Wei Cai",
+      "Julie A. Theriot"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 113,
+      "retrieved_at": "2025-10-03T18:21:13.081068"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 133,
+      "retrieved_at": "2025-10-03T18:21:14.635455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 113,
+      "retrieved_at": "2025-10-03T18:21:15.834138"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T23:00:57.085563"
+    },
+    "last_updated": "2025-10-03T23:00:57.085629"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.249070",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-014-1341-6",
+    "title": "Atrial fibrillation and cycling: six year follow-up of the Taupo bicycle study",
+    "article_number": "23",
+    "publication_date": "2015-01-21",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Alistair Woodward",
+      "Sandar Tin Tin",
+      "Rob N Doughty",
+      "Shanthi Ameratunga"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:10:08.224072"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:10:09.794764"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:10:11.069102"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:06:30.165446"
+    },
+    "last_updated": "2025-10-03T21:06:30.165637"
+  }
+}

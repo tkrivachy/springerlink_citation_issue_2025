@@ -1,0 +1,223 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/1471-2458-12-11",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/1471-2458-12-11",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/1471-2458-12-11"
+        }
+      ],
+      "title": "Progress towards implementation of ACT malaria case-management in public health facilities in the Republic of Sudan: a cluster-sample survey",
+      "creators": [
+        {
+          "creator": "Abdelgader, Tarig M"
+        },
+        {
+          "creator": "Ibrahim, Abdalla M"
+        },
+        {
+          "creator": "Elmardi, Khalid A"
+        },
+        {
+          "creator": "Githinji, Sophie"
+        },
+        {
+          "creator": "Zurovac, Dejan"
+        },
+        {
+          "creator": "Snow, Robert W"
+        },
+        {
+          "creator": "Noor, Abdisalan M"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "doi": "10.1186/1471-2458-12-11",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2012-01-06",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "12",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "Infectious Disease epidemiology",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "12",
+      "journalId": "12889",
+      "openAccess": "true",
+      "onlineDate": "2012-01-06",
+      "coverDate": "2012-12",
+      "copyright": "©2011 Abdelgader et al; licensee BioMed Central Ltd.",
+      "abstract": {
+        "h1": "Abstract",
+        "p": [
+          "Background",
+          "Effective malaria case-management based on artemisinin-based combination therapy (ACT) and parasitological diagnosis is a major pillar within the 2007-2012 National Malaria Strategic Plan in the Sudan. Three years after the launch of the strategy a health facility survey was undertaken to evaluate case-management practices and readiness of the health facilities and health workers to implement a new malaria case-management strategy.",
+          "Methods",
+          "A cross-sectional, cluster sample survey was undertaken at public health facilities in 15 states of Sudan. Data were collected using quality-of-care assessment methods. The main outcomes were the proportions of facilities with ACTs and malaria diagnostics; proportions of health workers exposed to malaria related health systems support activities; and composite and individual indicators of case-management practices for febrile outpatients stratified by age, availability of ACTs and diagnostics, use of malaria diagnostics, and test result.",
+          "Results",
+          "We evaluated 244 facilities, 294 health workers and 1,643 consultations for febrile outpatients (425 < 5 years and 1,218 ≥ 5 years). Health facility and health worker readiness was variable: chloroquine was available at only 5% of facilities, 73% stocked recommended artesunate and sulfadoxine/pyrimethamine (AS+SP), 51% had the capacity to perform parasitological diagnosis, 53% of health workers had received in-service training on ACTs, 24% were trained in the use of malaria Rapid Diagnostic Tests, and 19% had received a supervisory visit including malaria case-management. At all health facilities 46% of febrile patients were parasitologically tested and 35% of patients were both, tested and treated according to test result. At facilities where AS+SP and malaria diagnostics were available 66% of febrile patients were tested and 51% were both, tested and treated according to test result. Among test positive patients 64% were treated with AS+SP but 24% were treated with artemether monotherapy. Among test negative patients only 17% of patients were treated for malaria. The majority of ACT dispensing and counseling practices were suboptimal.",
+          "Conclusions",
+          "Five years following change of the policy from chloroquine to ACTs and 3 years before the end of the new malaria strategic plan chloroquine was successfully phased out from public facilities in Sudan, however, an important gap remained in the availability of ACTs, diagnostic capacities and coverage with malaria case-management activities. The national scale-up of diagnostics, using the findings of this survey as well as future qualitative research, should present an opportunity not only to expand existing testing capacities but also to implement effective support interventions to bridge the health systems gaps and support corrective case-management measures, including the discontinuation of artemether monotherapy treatment."
+        ]
+      },
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Artemether",
+          "count": "1"
+        },
+        {
+          "value": "Febrile Patient",
+          "count": "1"
+        },
+        {
+          "value": "Health Worker",
+          "count": "1"
+        },
+        {
+          "value": "Malaria",
+          "count": "1"
+        },
+        {
+          "value": "Malaria Microscopy",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2012",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Kenya",
+          "count": "1"
+        },
+        {
+          "value": "Sudan",
+          "count": "1"
+        },
+        {
+          "value": "United Kingdom",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

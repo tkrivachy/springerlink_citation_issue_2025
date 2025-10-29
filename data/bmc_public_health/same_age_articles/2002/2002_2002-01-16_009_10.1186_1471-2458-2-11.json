@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.513080",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-11",
+    "title": "Interactions of pathogens and irritant chemicals in land-applied sewage sludges (biosolids)",
+    "article_number": "11",
+    "publication_date": "2002-06-28",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "David L Lewis",
+      "David K Gattie",
+      "Marc E Novak",
+      "Susan Sanchez",
+      "Charles Pumphrey"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T11:54:51.660528"
+    },
+    "last_updated": "2025-10-03T20:41:47.675168",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T12:02:34.144595"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:02:35.493018"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T20:41:47.675070"
+    }
+  }
+}

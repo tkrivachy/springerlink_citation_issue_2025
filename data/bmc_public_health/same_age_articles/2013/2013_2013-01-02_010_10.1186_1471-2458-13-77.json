@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.808158",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-77",
+    "title": "Sustainable development and public health: rating European countries",
+    "article_number": "77",
+    "publication_date": "2013-01-28",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kristina Seke",
+      "Natasa Petrovic",
+      "Veljko Jeremic",
+      "Jovanka Vukmirovic",
+      "Biljana Kilibarda",
+      "Milan Martic"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T12:48:33.706414"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T12:48:35.219152"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T12:48:36.550181"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T20:58:41.807021"
+    },
+    "last_updated": "2025-10-03T20:58:41.807107"
+  }
+}

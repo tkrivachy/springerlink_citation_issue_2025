@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.522510",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55517-y",
+    "title": "Stabilization of oxygen vacancy ordering and electrochemical-proton-insertion-and-extraction-induced large resistance modulation in strontium iron cobalt oxides Sr(Fe,Co)O",
+    "article_number": "56",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yosuke Isoda",
+      "Thanh Ngoc Pham",
+      "Ryotaro Aso",
+      "Shuri Nakamizo",
+      "Takuya Majima",
+      "Saburo Hosokawa",
+      "Kiyofumi Nitta",
+      "Yoshitada Morikawa",
+      "Yuichi Shimakawa",
+      "Daisuke Kan"
+    ]
+  },
+  "article_index": 91,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:31.198981"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:45:32.731109"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:33.942143"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:29:31.028288"
+    },
+    "last_updated": "2025-10-03T23:29:31.028521"
+  }
+}

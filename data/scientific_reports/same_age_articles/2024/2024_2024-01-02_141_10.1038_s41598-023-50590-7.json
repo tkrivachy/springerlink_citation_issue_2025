@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.841307",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50590-7",
+    "title": "Naturally occurring quercetin and myricetin as potent inhibitors for human ectonucleotide pyrophosphatase/phosphodiesterase 1",
+    "article_number": "125",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Peeradon Duangiad",
+      "Bodee Nutho",
+      "Thawatchai Chaijarasphong",
+      "Noppawan Phumala Morales",
+      "Thunyarat Pongtharangkul",
+      "Itaru Hamachi",
+      "Akio Ojida",
+      "Jirarut Wongkongkatep"
+    ]
+  },
+  "article_index": 141,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:49:59.913004"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:50:01.452300"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:50:02.657999"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:07:48.209647"
+    },
+    "last_updated": "2025-10-03T22:07:48.209694"
+  }
+}

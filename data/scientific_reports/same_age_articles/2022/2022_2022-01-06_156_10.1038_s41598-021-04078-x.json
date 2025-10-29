@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.873885",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04078-x",
+    "title": "Influence of brain atrophy using semiquantitative analysis in [",
+    "article_number": "168",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hiroki Nosaka",
+      "Masahisa Onoguchi",
+      "Hiroyuki Tsushima",
+      "Masaya Suda",
+      "Satoshi Kurata",
+      "Ayano Onoma",
+      "Ryosuke Murakawa"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:22:38.993442"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:22:40.529761"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:22:41.719969"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:56:52.142832"
+    },
+    "last_updated": "2025-10-03T21:56:52.142879"
+  }
+}

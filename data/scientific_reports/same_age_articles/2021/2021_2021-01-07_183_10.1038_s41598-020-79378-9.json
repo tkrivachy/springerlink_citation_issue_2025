@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.234674",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79378-9",
+    "title": "Octenidine-based hydrogel shows anti-inflammatory and protease-inhibitory capacities in wounded human skin",
+    "article_number": "32",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Saskia Seiser",
+      "Lukas Janker",
+      "Nina Zila",
+      "Michael Mildner",
+      "Ana Rakita",
+      "Johannes Matiasek",
+      "Andrea Bileck",
+      "Christopher Gerner",
+      "Verena Paulitschke",
+      "Adelheid Elbe-Bürger"
+    ]
+  },
+  "article_index": 183,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:41:17.839643"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:41:19.349168"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:41:20.655684"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:39:58.680907"
+    },
+    "last_updated": "2025-10-03T21:39:58.681098"
+  }
+}

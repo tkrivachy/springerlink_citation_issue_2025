@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.191288",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20438-z",
+    "title": "Real-time multispeckle spectral-temporal measurement unveils the complexity of spatiotemporal solitons",
+    "article_number": "67",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuankai Guo",
+      "Xiaoxiao Wen",
+      "Wei Lin",
+      "Wenlong Wang",
+      "Xiaoming Wei",
+      "Zhongmin Yang"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:29:54.852760"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:29:56.428850"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:29:57.745652"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:04:02.267404"
+    },
+    "last_updated": "2025-10-03T23:04:02.267452"
+  }
+}

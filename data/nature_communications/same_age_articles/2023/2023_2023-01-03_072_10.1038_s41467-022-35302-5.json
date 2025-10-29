@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.648132",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35302-5",
+    "title": "Thermal fluctuations of the lipid membrane determine particle uptake into Giant Unilamellar Vesicles",
+    "article_number": "65",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yareni A. Ayala",
+      "Ramin Omidvar",
+      "Winfried Römer",
+      "Alexander Rohrbach"
+    ]
+  },
+  "article_index": 72,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:47:46.132553"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T18:47:47.683849"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:47:48.947246"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:09:53.707085"
+    },
+    "last_updated": "2025-10-03T23:09:53.707281"
+  }
+}

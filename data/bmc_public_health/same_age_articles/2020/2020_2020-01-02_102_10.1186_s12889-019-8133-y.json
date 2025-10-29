@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.681789",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8133-y",
+    "title": "Prevalence and associated factors of foot ulcer among diabetic patients in Ethiopia: a systematic review and meta-analysis",
+    "article_number": "41",
+    "publication_date": "2020-01-10",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tadesse Tolossa",
+      "Belayneh Mengist",
+      "Diriba Mulisa",
+      "Getahun Fetensa",
+      "Ebisa Turi",
+      "Amanuel Abajobir"
+    ]
+  },
+  "article_index": 102,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T13:40:01.406217"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T13:40:02.951588"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T13:40:04.261769"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T21:17:24.806425"
+    },
+    "last_updated": "2025-10-03T21:17:24.806612"
+  }
+}

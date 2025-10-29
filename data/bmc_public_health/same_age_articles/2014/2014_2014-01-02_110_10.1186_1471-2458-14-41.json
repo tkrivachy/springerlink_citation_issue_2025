@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.756962",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-41",
+    "title": "Influenza vaccines and influenza antiviral drugs in Africa: are they available and do guidelines for their use exist?",
+    "article_number": "41",
+    "publication_date": "2014-01-16",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jazmin Duque",
+      "Meredith L McMorrow",
+      "Adam L Cohen"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T12:59:46.603658"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T12:59:48.126588"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T12:59:49.448456"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T21:02:39.641827"
+    },
+    "last_updated": "2025-10-03T21:02:39.641900"
+  }
+}

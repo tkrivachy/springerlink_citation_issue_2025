@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.533961",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55630-y",
+    "title": "General synthesis of neighboring dual-atomic sites with a specific pre-designed distance via an interfacial-fixing strategy",
+    "article_number": "334",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yan Yan",
+      "Rui Yu",
+      "Mingkai Liu",
+      "Zehua Qu",
+      "Jifeng Yang",
+      "Siyuan He",
+      "Hongliang Li",
+      "Jie Zeng"
+    ]
+  },
+  "article_index": 149,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:41:25.275054"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:41:26.793459"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:41:27.986182"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T23:28:00.402355"
+    },
+    "last_updated": "2025-10-03T23:28:00.402431"
+  }
+}

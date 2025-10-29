@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.795138",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-17",
+    "title": "Using surveillance data to monitor entry into care of newly diagnosed HIV-infected persons: San Francisco, 2006–2007",
+    "article_number": "17",
+    "publication_date": "2009-01-14",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Nicola M Zetola",
+      "Kyle Bernstein",
+      "Katherine Ahrens",
+      "Julia L Marcus",
+      "Susan Philip",
+      "Giuliano Nieri",
+      "Diane Jones",
+      "C Bradley Hare",
+      "Ling Hsu",
+      "Susan Scheer",
+      "Jeffrey D Klausner"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T12:35:35.800702"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T12:35:37.365423"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:35:38.650228"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T20:53:58.915503"
+    },
+    "last_updated": "2025-10-03T20:53:58.915693"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.105578",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26775-x",
+    "title": "Inner mitochondrial membrane protein Prohibitin 1 mediates Nix-induced, Parkin-independent mitophagy",
+    "article_number": "18",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kibrom M. Alula",
+      "Yaritza Delgado-Deida",
+      "Rosemary Callahan",
+      "Andreas Till",
+      "Lucia Underwood",
+      "Winston E. Thompson",
+      "Rhonda F. Souza",
+      "Themistocles Dassopoulos",
+      "Joseph Onyiah",
+      "K. Venuprasad",
+      "Arianne L. Theiss"
+    ]
+  },
+  "article_index": 58,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:32:13.768289"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:32:15.341957"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:32:16.617401"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T22:00:44.486060"
+    },
+    "last_updated": "2025-10-03T22:00:44.486159"
+  }
+}

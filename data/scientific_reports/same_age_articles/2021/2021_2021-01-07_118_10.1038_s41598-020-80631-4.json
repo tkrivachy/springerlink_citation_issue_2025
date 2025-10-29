@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221024",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80631-4",
+    "title": "Response of bacterial and fungal communities to high petroleum pollution in different soils",
+    "article_number": "164",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Polina Galitskaya",
+      "Liliya Biktasheva",
+      "Sergey Blagodatsky",
+      "Svetlana Selivanovskaya"
+    ]
+  },
+  "article_index": 118,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:33:18.592843"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T14:33:20.150760"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T14:33:21.345946"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T21:36:42.771734"
+    },
+    "last_updated": "2025-10-03T21:36:42.771925"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.308618",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56856-3",
+    "title": "MMP-10 is Increased in Early Stage Diabetic Kidney Disease and can be Reduced by Renin-Angiotensin System Blockade",
+    "article_number": "26",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "José María Mora-Gutiérrez",
+      "José Antonio Rodríguez",
+      "María A. Fernández-Seara",
+      "Josune Orbe",
+      "Francisco Javier Escalada",
+      "María José Soler",
+      "María Fernanda Slon Roblero",
+      "Marta Riera",
+      "José Antonio Páramo",
+      "Nuria Garcia-Fernandez"
+    ]
+  },
+  "article_index": 85,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T14:27:38.038368"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:27:39.565679"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:27:40.755867"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:34:23.191091"
+    },
+    "last_updated": "2025-10-03T21:34:23.191139"
+  }
+}

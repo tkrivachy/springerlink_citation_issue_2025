@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.198260",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20240-x",
+    "title": "Longitudinal dynamics of gut bacteriome, mycobiome and virome after fecal microbiota transplantation in graft-versus-host disease",
+    "article_number": "65",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Fen Zhang",
+      "Tao Zuo",
+      "Yun Kit Yeoh",
+      "Frankie W. T. Cheng",
+      "Qin Liu",
+      "Whitney Tang",
+      "Kitty C. Y. Cheung",
+      "Keli Yang",
+      "Chun Pan Cheung",
+      "Chow Chung Mo",
+      "Mamie Hui",
+      "Francis K. L. Chan",
+      "Chi-Kong Li",
+      "Paul K. S. Chan",
+      "Siew C. Ng"
+    ]
+  },
+  "article_index": 150,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:31:03.757742"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:31:05.256616"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T18:31:06.571862"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T23:04:23.400175"
+    },
+    "last_updated": "2025-10-03T23:04:23.400415"
+  }
+}

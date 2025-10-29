@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.876008",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03994-2",
+    "title": "Ultra-fast data sanitization of SRAM by back-biasing to resist a cold boot attack",
+    "article_number": "35",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Seong-Joo Han",
+      "Joon-Kyu Han",
+      "Gyeong-Jun Yun",
+      "Mun-Woo Lee",
+      "Ji-Man Yu",
+      "Yang-Kyu Choi"
+    ]
+  },
+  "article_index": 175,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:07:05.754482"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:07:07.281730"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:07:08.447478"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T21:50:08.864800"
+    },
+    "last_updated": "2025-10-03T21:50:08.864887"
+  }
+}

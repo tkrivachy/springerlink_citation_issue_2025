@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.243768",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1397-y",
+    "title": "Evaluation of the integrated disease surveillance and response system for infectious diseases control in northern Ghana",
+    "article_number": "75",
+    "publication_date": "2015-02-04",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Martin Nyaaba Adokiya",
+      "John Koku Awoonor-Williams",
+      "Inuwa Yau Barau",
+      "Claudia Beiersmann",
+      "Olaf Mueller"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T13:13:45.153025"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T13:13:46.708159"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T13:13:47.973504"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T21:07:59.860645"
+    },
+    "last_updated": "2025-10-03T21:07:59.860839"
+  }
+}

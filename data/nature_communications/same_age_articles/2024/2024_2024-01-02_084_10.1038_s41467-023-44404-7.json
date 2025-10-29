@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.675007",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44404-7",
+    "title": "The impact of extreme heat on lake warming in China",
+    "article_number": "70",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Weijia Wang",
+      "Kun Shi",
+      "Xiwen Wang",
+      "Yunlin Zhang",
+      "Boqiang Qin",
+      "Yibo Zhang",
+      "R. Iestyn Woolway"
+    ]
+  },
+  "article_index": 84,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T19:07:36.277316"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T19:07:37.808818"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:07:38.990281"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T23:16:41.217176"
+    },
+    "last_updated": "2025-10-03T23:16:41.217398"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.564079",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55610-2",
+    "title": "MARTRE family proteins negatively regulate CCR4-NOT activity to protect poly(A) tail length and promote translation of maternal mRNA",
+    "article_number": "248",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jing Yang",
+      "Jiachen Bu",
+      "Bowen Liu",
+      "Yusheng Liu",
+      "Zhuqiang Zhang",
+      "Ziyi Li",
+      "Falong Lu",
+      "Bing Zhu",
+      "Yingfeng Li"
+    ]
+  },
+  "article_index": 310,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:31:44.029898"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:31:45.607004"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:46.783939"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:24:36.028216"
+    },
+    "last_updated": "2025-10-03T23:24:36.028443"
+  }
+}

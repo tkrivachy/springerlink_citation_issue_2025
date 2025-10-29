@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.105383",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27267-8",
+    "title": "A new dataset for mongolian online handwritten recognition",
+    "article_number": "26",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuecai Pan",
+      "Daoerji Fan",
+      "Huijuan Wu",
+      "Da Teng"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:31:56.028134"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:31:57.554364"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:31:58.836307"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T22:00:38.053627"
+    },
+    "last_updated": "2025-10-03T22:00:38.053713"
+  }
+}

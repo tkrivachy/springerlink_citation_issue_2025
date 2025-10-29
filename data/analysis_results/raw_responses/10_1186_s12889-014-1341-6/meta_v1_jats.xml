@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-014-1341-6</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/s12889-014-1341-6</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection">
+              <subject>Chronic Disease epidemiology</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Atrial fibrillation and cycling: six year follow-up of the Taupo bicycle study</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Woodward</surname>
+                <given-names>Alistair</given-names>
+              </name>
+              <address>
+                <email>a.woodward@auckland.ac.nz</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Tin Tin</surname>
+                <given-names>Sandar</given-names>
+              </name>
+              <address>
+                <email>s.tintin@auckland.ac.nz</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Doughty</surname>
+                <given-names>Rob N</given-names>
+              </name>
+              <address>
+                <email>r.doughty@auckland.ac.nz</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Ameratunga</surname>
+                <given-names>Shanthi</given-names>
+              </name>
+              <address>
+                <email>s.ameratunga@auckland.ac.nz</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>21</day>
+            <month>1</month>
+            <year>2015</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2015</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue>1</issue>
+          <elocation-id>23</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/s12889-014-1341-6</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/s12889-014-1341-6</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© Woodward et al.; licensee BioMed Central. 2015</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p id="Par1">Atrial Fibrillation (AF) is the most common sustained cardiac arrhythmia, and the incidence of AF is increased markedly among elite athletes. It is not clear how lesser levels of physical activity in the general population influence AF. We asked whether participation in the Taupo Cycle Challenge was associated with increased hospital admissions due to AF, and within the cohort, whether admissions for AF were related to frequency and intensity of cycling.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p id="Par2">Participants in the 2006 Lake Taupo Cycle Challenge, New Zealand’s largest mass cycling event, were invited to complete an on-line questionnaire. Those who agreed (n = 2590, response rate = 43.1%) were followed up by record linkage via the National Minimum Health Database from December 1 2006 until June 30 2013, to identify admissions to hospital due to AF.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p id="Par3">The age and gender standardized admission rate for AF was similar in the Taupo cohort (19.60 per 10,000 per year) and the national population over the same period (2006-2011) (19.45 per 10,000 per year). Within the study cohort (men only), for every additional hour spent cycling per week the risk changed by 0.90 (95% confidence interval 0.79 – 1.01). This result did not change appreciably after adjustment for age and height.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusions</title>
+              <p id="Par4">Hospital admission due to AF was not increased above the national rate in this group of non-elite cyclists, and within the group the rate of AF did not increase with amount of cycling. The level of activity undertaken by this cohort of cyclists was, on average, not sufficient to increase the risk of hospitalization for AF.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Cycling</kwd>
+            <kwd>Cardiac arrhythmias</kwd>
+            <kwd>Physical activity</kwd>
+            <kwd>Atrial fibrillation</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

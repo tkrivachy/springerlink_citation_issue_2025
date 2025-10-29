@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.729306",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07859-7",
+    "title": "Enhancement of the gut barrier integrity by a microbial metabolite through the Nrf2 pathway",
+    "article_number": "89",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rajbir Singh",
+      "Sandeep Chandrashekharappa",
+      "Sobha R. Bodduluri",
+      "Becca V. Baby",
+      "Bindu Hegde",
+      "Niranjan G. Kotla",
+      "Ankita A. Hiwale",
+      "Taslimarif Saiyed",
+      "Paresh Patel",
+      "Matam Vijay-Kumar",
+      "Morgan G. I. Langille",
+      "Gavin M. Douglas",
+      "Xi Cheng",
+      "Eric C. Rouchka",
+      "Sabine J. Waigel",
+      "Gerald W. Dryden",
+      "Houda Alatassi",
+      "Huang-Ge Zhang",
+      "Bodduluri Haribabu",
+      "Praveen K. Vemula",
+      "Venkatakrishna R. Jala"
+    ]
+  },
+  "article_index": 479,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 530,
+      "retrieved_at": "2025-10-03T17:23:12.394754"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 571,
+      "retrieved_at": "2025-10-03T17:23:13.899648"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 511,
+      "retrieved_at": "2025-10-03T17:23:15.710916"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 604,
+      "retrieved_at": "2025-10-03T22:41:08.946301"
+    },
+    "last_updated": "2025-10-03T22:41:08.946359"
+  }
+}

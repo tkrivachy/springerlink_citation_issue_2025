@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.172396",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20379-7",
+    "title": "EGFR/SRC/ERK-stabilized YTHDF2 promotes cholesterol dysregulation and invasive growth of glioblastoma",
+    "article_number": "177",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Runping Fang",
+      "Xin Chen",
+      "Sicong Zhang",
+      "Hui Shi",
+      "Youqiong Ye",
+      "Hailing Shi",
+      "Zhongyu Zou",
+      "Peng Li",
+      "Qing Guo",
+      "Li Ma",
+      "Chuan He",
+      "Suyun Huang"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:31:39.230574"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 233,
+      "retrieved_at": "2025-10-03T18:31:40.767827"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 200,
+      "retrieved_at": "2025-10-03T18:31:42.314235"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 248,
+      "retrieved_at": "2025-10-03T23:04:36.641424"
+    },
+    "last_updated": "2025-10-03T23:04:36.641619"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.534792",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55569-0",
+    "title": "Revealing the excited-state mechanisms of the polymorphs of a hot exciton material",
+    "article_number": "258",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ziqi Deng",
+      "Chao Huang",
+      "Yunfeng Luo",
+      "Jiaxing He",
+      "Lan Li",
+      "Xinyu Pang",
+      "Guanheng Huang",
+      "David Lee Phillips"
+    ]
+  },
+  "article_index": 157,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:36:25.156794"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:36:26.705678"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:36:27.881559"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:26:10.379677"
+    },
+    "last_updated": "2025-10-03T23:26:10.379869"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.199191",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20256-3",
+    "title": "Direct printing of functional 3D objects using polymerization-induced phase separation",
+    "article_number": "55",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bhavana Deore",
+      "Kathleen L. Sampson",
+      "Thomas Lacelle",
+      "Nathan Kredentser",
+      "Jacques Lefebvre",
+      "Luke Steven Young",
+      "Joseph Hyland",
+      "Rony E. Amaya",
+      "Jamshid Tanha",
+      "Patrick R. L. Malenfant",
+      "Hendrick W. de Haan",
+      "Chantal Paquet"
+    ]
+  },
+  "article_index": 157,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:43:57.223175"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T18:43:58.776712"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:43:59.927953"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T23:08:39.876859"
+    },
+    "last_updated": "2025-10-03T23:08:39.877047"
+  }
+}

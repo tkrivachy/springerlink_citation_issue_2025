@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.648268",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10089-6",
+    "title": "Intervention development of a brief messaging intervention for a randomised controlled trial to improve diabetes treatment adherence in sub-Saharan Africa",
+    "article_number": "147",
+    "publication_date": "2021-01-15",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Natalie Leon",
+      "Hazel Namadingo",
+      "Kirsty Bobrow",
+      "Sara Cooper",
+      "Amelia Crampin",
+      "Bruno Pauly",
+      "Naomi Levitt",
+      "Andrew Farmer"
+    ]
+  },
+  "article_index": 153,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:54:20.178688"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:54:21.729524"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:54:23.014014"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:22:30.197916"
+    },
+    "last_updated": "2025-10-03T21:22:30.198101"
+  }
+}

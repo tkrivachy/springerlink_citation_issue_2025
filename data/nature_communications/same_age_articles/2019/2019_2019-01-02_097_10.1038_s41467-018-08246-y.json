@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687734",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08246-y",
+    "title": "Hydrogen-based metabolism as an ancestral trait in lineages sibling to the Cyanobacteria",
+    "article_number": "463",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Paula B. Matheus Carnevali",
+      "Frederik Schulz",
+      "Cindy J. Castelle",
+      "Rose S. Kantor",
+      "Patrick M. Shih",
+      "Itai Sharon",
+      "Joanne M. Santini",
+      "Matthew R. Olm",
+      "Yuki Amano",
+      "Brian C. Thomas",
+      "Karthik Anantharaman",
+      "David Burstein",
+      "Eric D. Becraft",
+      "Ramunas Stepanauskas",
+      "Tanja Woyke",
+      "Jillian F. Banfield"
+    ]
+  },
+  "article_index": 97,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T17:16:34.086705"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T17:16:35.660890"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T17:16:36.811885"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T22:38:58.757845"
+    },
+    "last_updated": "2025-10-03T22:38:58.757897"
+  }
+}

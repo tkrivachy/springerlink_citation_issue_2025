@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-35759-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-022-35759-4</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">The learnability of Pauli noise</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5904-6906</contrib-id>
+              <name name-style="western">
+                <surname>Chen</surname>
+                <given-names>Senrui</given-names>
+              </name>
+              <address>
+                <email>csenrui@uchicago.edu</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1297-6396</contrib-id>
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Yunchao</given-names>
+              </name>
+              <address>
+                <email>yunchaoliu@berkeley.edu</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6522-5820</contrib-id>
+              <name name-style="western">
+                <surname>Otten</surname>
+                <given-names>Matthew</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Seif</surname>
+                <given-names>Alireza</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9627-0210</contrib-id>
+              <name name-style="western">
+                <surname>Fefferman</surname>
+                <given-names>Bill</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0000-9342</contrib-id>
+              <name name-style="western">
+                <surname>Jiang</surname>
+                <given-names>Liang</given-names>
+              </name>
+              <address>
+                <email>liang.jiang@uchicago.edu</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>4</day>
+            <month>1</month>
+            <year>2023</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2023</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>1</issue>
+          <elocation-id>52</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-022-35759-4</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-022-35759-4.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2023</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Recently, several quantum benchmarking algorithms have been developed to characterize noisy quantum gates on today’s quantum devices. A fundamental issue in benchmarking is that not everything about quantum noise is learnable due to the existence of gauge freedom, leaving open the question what information is learnable and what is not, which is unclear even for a single CNOT gate. Here we give a precise characterization of the learnability of Pauli noise channels attached to Clifford gates using graph theoretical tools. Our results reveal the optimality of cycle benchmarking in the sense that it can extract all learnable information about Pauli noise. We experimentally demonstrate noise characterization of IBM’s CNOT gate up to 2 unlearnable degrees of freedom, for which we obtain bounds using physical constraints. In addition, we show that an attempt to extract unlearnable information by ignoring state preparation noise yields unphysical estimates, which is used to lower bound the state preparation noise.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Characterisation of quantum hardware requires clear indications on what can and cannot be learned about quantum noise. Here, the authors show how to characterise learnable degrees of freedom of a Clifford gate using tools from algebraic graph theory.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="02">Physical Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0206">Quantum Physics</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>United States Department of Defense | United States Air Force | AFMC | Air Force Research Laboratory (AFRL)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100006602</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">FA8649-21-P-0781</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Jiang</surname>
+                  <given-names>Liang</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

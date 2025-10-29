@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.187499",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20444-1",
+    "title": "Boosting thermo-photocatalytic CO",
+    "article_number": "123",
+    "publication_date": "2021-01-05",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yingxuan Li",
+      "Danping Hui",
+      "Yuqing Sun",
+      "Ying Wang",
+      "Zhijian Wu",
+      "Chuanyi Wang",
+      "Jincai Zhao"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T18:27:40.161984"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T18:27:41.710605"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T18:27:42.915268"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T23:03:12.768861"
+    },
+    "last_updated": "2025-10-03T23:03:12.769053"
+  }
+}

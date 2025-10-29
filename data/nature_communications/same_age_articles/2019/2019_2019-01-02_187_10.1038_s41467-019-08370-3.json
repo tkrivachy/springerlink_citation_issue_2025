@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697379",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08370-3",
+    "title": "High-throughput single-cell rheology in complex samples by dynamic real-time deformability cytometry",
+    "article_number": "415",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bob Fregin",
+      "Fabian Czerwinski",
+      "Doreen Biedenweg",
+      "Salvatore Girardo",
+      "Stefan Gross",
+      "Konstanze Aurich",
+      "Oliver Otto"
+    ]
+  },
+  "article_index": 187,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:50:07.031279"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T17:50:08.596410"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 110,
+      "retrieved_at": "2025-10-03T17:50:09.767673"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T22:50:16.866606"
+    },
+    "last_updated": "2025-10-03T22:50:16.866795"
+  }
+}

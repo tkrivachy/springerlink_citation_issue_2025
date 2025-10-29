@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.368670",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-80929-7",
+    "title": "A novel energy pattern factor-based optimized approach for assessing Weibull parameters for wind power applications",
+    "article_number": "37",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ghulam Abbas",
+      "Arshad Ali",
+      "Mohamed Tahar Ben Othman",
+      "Muhammad Wasim Nawaz",
+      "Ateeq Ur Rehman",
+      "Habib Hamam"
+    ]
+  },
+  "article_index": 191,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:04:44.685941"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:04:46.197091"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:29.694912"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:13:21.099731"
+    },
+    "last_updated": "2025-10-07T09:46:29.695122"
+  }
+}

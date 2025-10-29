@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.666137",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44352-2",
+    "title": "Gene regulation and speciation in a migratory divide between songbirds",
+    "article_number": "98",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Matthew I. M. Louder",
+      "Hannah Justen",
+      "Abigail A. Kimmitt",
+      "Koedi S. Lawley",
+      "Leslie M. Turner",
+      "J. David Dickman",
+      "Kira E. Delmore"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:10:32.287682"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:10:33.842256"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:10:35.085779"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:17:39.683160"
+    },
+    "last_updated": "2025-10-03T23:17:39.683258"
+  }
+}

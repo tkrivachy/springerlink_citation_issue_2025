@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.203303",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80326-w",
+    "title": "Hypoxia-induced amniotic fluid stem cell secretome augments cardiomyocyte proliferation and enhances cardioprotective effects under hypoxic-ischemic conditions",
+    "article_number": "163",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Marek Kukumberg",
+      "Tatsanee Phermthai",
+      "Suparat Wichitwiengrat",
+      "Xiaoyuan Wang",
+      "Subramanian Arjunan",
+      "Suet Yen Chong",
+      "Chui-Yee Fong",
+      "Jiong-Wei Wang",
+      "Abdul Jalil Rufaihah",
+      "Citra Nurfarah Zaini Mattar"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:42:59.854146"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:43:01.585840"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:43:02.864597"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:40:40.964666"
+    },
+    "last_updated": "2025-10-03T21:40:40.964855"
+  }
+}

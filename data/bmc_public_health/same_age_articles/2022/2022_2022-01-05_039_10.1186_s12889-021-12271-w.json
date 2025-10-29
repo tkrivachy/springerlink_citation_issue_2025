@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.590362",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12271-w",
+    "title": "Relation of corona-specific health literacy to use of and trust in information sources during the COVID-19 pandemic",
+    "article_number": "42",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Saskia Maria De Gani",
+      "Fabian Marc Pascal Berger",
+      "Elena Guggiari",
+      "Rebecca Jaks"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:04:51.601709"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:04:53.140034"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:04:54.408568"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:26:13.901489"
+    },
+    "last_updated": "2025-10-03T21:26:13.901683"
+  }
+}

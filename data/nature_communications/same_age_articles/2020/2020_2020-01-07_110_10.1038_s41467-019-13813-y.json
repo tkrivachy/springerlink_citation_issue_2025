@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889958",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13813-y",
+    "title": "Distinction between pristine and disorder-perturbed charge density waves in ZrTe",
+    "article_number": "98",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Li Yue",
+      "Shangjie Xue",
+      " Jiarui Li",
+      "Wen Hu",
+      "Andi Barbour",
+      "Feipeng Zheng",
+      "Lichen Wang",
+      "Ji Feng",
+      "Stuart B. Wilkins",
+      "Claudio Mazzoli",
+      "Riccardo Comin",
+      "Yuan Li"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:17:24.966871"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:17:26.539869"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:17:27.828379"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T22:59:39.159643"
+    },
+    "last_updated": "2025-10-03T22:59:39.159833"
+  }
+}

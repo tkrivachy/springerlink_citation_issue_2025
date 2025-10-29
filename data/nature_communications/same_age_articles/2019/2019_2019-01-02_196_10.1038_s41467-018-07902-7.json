@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.698391",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07902-7",
+    "title": "Molecular memory with downstream logic processing exemplified by switchable and self-indicating guest capture and release",
+    "article_number": "49",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Brian Daly",
+      "Thomas S. Moody",
+      "Allen J. M. Huxley",
+      "Chaoyi Yao",
+      "Benjamin Schazmann",
+      "Andre Alves-Areias",
+      "John F. Malone",
+      "H. Q. Nimal Gunaratne",
+      "Peter Nockemann",
+      "A. Prasanna de Silva"
+    ]
+  },
+  "article_index": 196,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:00:38.878132"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:00:40.388964"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T18:00:41.577622"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T22:54:11.870817"
+    },
+    "last_updated": "2025-10-03T22:54:11.871010"
+  }
+}

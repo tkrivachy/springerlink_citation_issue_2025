@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.248285",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1437-7",
+    "title": "Tuberculosis treatment delays and associated factors within the Zimbabwe national tuberculosis programme",
+    "article_number": "29",
+    "publication_date": "2015-01-29",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kudakwashe C Takarinda",
+      "Anthony D Harries",
+      "Barnet Nyathi",
+      "Mkhokheli Ngwenya",
+      "Tsitsi Mutasa-Apollo",
+      "Charles Sandy"
+    ]
+  },
+  "article_index": 85,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T13:14:40.119044"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T13:14:41.686415"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T13:14:43.029693"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T21:08:18.971095"
+    },
+    "last_updated": "2025-10-03T21:08:18.971289"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.839138",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50716-x",
+    "title": "Finite element analysis and clinical study of chest wall reconstruction using carbon fiber artificial rib",
+    "article_number": "97",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xiang Zhang",
+      "Zhixia Cai",
+      "Bo Liu",
+      "Jiqiao Liao",
+      "Fenglei Yu",
+      "Zhoujian Tan",
+      "Bin Wang",
+      "Mei Yang",
+      "Bowen Zhang"
+    ]
+  },
+  "article_index": 120,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:33:41.229231"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:33:42.739474"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:33:43.889332"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:01:21.698868"
+    },
+    "last_updated": "2025-10-03T22:01:21.699058"
+  }
+}

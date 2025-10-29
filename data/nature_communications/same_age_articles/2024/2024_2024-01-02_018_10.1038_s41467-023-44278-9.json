@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.667610",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44278-9",
+    "title": "Dipeptide coacervates as artificial membraneless organelles for bioorthogonal catalysis",
+    "article_number": "39",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shoupeng Cao",
+      "Tsvetomir Ivanov",
+      "Julian Heuer",
+      "Calum T. J. Ferguson",
+      "Katharina Landfester",
+      "Lucas Caire da Silva"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T19:06:04.791496"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T19:06:06.353708"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T19:06:07.688952"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T23:16:10.695051"
+    },
+    "last_updated": "2025-10-03T23:16:10.695149"
+  }
+}

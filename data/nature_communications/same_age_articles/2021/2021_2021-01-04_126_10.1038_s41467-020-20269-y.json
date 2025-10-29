@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.194704",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20269-y",
+    "title": "Steroid hormones sulfatase inactivation extends lifespan and ameliorates age-related diseases",
+    "article_number": "49",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mercedes M. Pérez-Jiménez",
+      "José M. Monje-Moreno",
+      "Ana María Brokate-Llanos",
+      "Mónica Venegas-Calerón",
+      "Alicia Sánchez-García",
+      "Paula Sansigre",
+      "Amador Valladares",
+      "Sara Esteban-García",
+      "Irene Suárez-Pereira",
+      "Javier Vitorica",
+      "José Julián Ríos",
+      "Marta Artal-Sanz",
+      "Ángel M. Carrión",
+      "Manuel J. Muñoz"
+    ]
+  },
+  "article_index": 126,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:27:29.076072"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:27:30.607149"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:27:31.754355"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T23:03:08.450786"
+    },
+    "last_updated": "2025-10-03T23:03:08.450975"
+  }
+}

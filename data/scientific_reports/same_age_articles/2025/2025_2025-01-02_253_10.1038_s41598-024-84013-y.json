@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.376066",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84013-y",
+    "title": "Investigating the effect of parameters in the thermodynamic analysis of the solid oxide fuel cell cycle using response surface methodology",
+    "article_number": "181",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hadi Ghaebi",
+      "Elahe Soleymani"
+    ]
+  },
+  "article_index": 253,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:09.773164"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:11.290353"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:12.480741"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:27:44.454198"
+    },
+    "last_updated": "2025-10-03T22:27:44.454420"
+  }
+}

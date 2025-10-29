@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.735306",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07851-1",
+    "title": "Lattice engineering enables definition of molecular features allowing for potent small-molecule inhibition of HIV-1 entry",
+    "article_number": "47",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yen-Ting Lai",
+      "Tao Wang",
+      "Sijy O’Dell",
+      "Mark K. Louder",
+      "Arne Schön",
+      "Crystal S. F. Cheung",
+      "Gwo-Yu Chuang",
+      "Aliaksandr Druz",
+      "Bob Lin",
+      "Krisha McKee",
+      "Dongjun Peng",
+      "Yongping Yang",
+      "Baoshan Zhang",
+      "Alon Herschhorn",
+      "Joseph Sodroski",
+      "Robert T. Bailer",
+      "Nicole A. Doria-Rose",
+      "John R. Mascola",
+      "David R. Langley",
+      "Peter D. Kwong"
+    ]
+  },
+  "article_index": 535,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:04:21.769491"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T18:04:23.337474"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:04:24.492024"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T22:55:22.927064"
+    },
+    "last_updated": "2025-10-03T22:55:22.927252"
+  }
+}

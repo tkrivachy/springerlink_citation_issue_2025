@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.517268",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55572-5",
+    "title": "PIM2 inhibition promotes MCL1 dependency in plasma cells involving integrated stress response-driven NOXA expression",
+    "article_number": "256",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marion Haas",
+      "Sabrina Cherfa",
+      "Léa Nguyen",
+      "Maxence Bourgoin",
+      "Gersende Caron",
+      "Elise Dessauge",
+      "Tony Marchand",
+      "Laurent Delpy",
+      "Patrick Auberger",
+      "Jérôme Moreaux",
+      "Arnaud Jacquel",
+      "Thierry Fest"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:22:52.276007"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:22:53.808456"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:22:54.999029"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:21:48.622260"
+    },
+    "last_updated": "2025-10-03T23:21:48.622481"
+  }
+}

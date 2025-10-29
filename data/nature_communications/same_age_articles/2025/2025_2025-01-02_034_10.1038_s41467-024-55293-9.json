@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.514887",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55293-9",
+    "title": "Ultra robust negative differential resistance memristor for hardware neuron circuit implementation",
+    "article_number": "48",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yifei Pei",
+      "Biao Yang",
+      "Xumeng Zhang",
+      "Hui He",
+      "Yong Sun",
+      "Jianhui Zhao",
+      "Pei Chen",
+      "Zhanfeng Wang",
+      "Niefeng Sun",
+      "Shixiong Liang",
+      "Guodong Gu",
+      "Qi Liu",
+      "Shushen Li",
+      "Xiaobing Yan"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:45:37.185170"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:45:38.754633"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:39.930398"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:29:33.201557"
+    },
+    "last_updated": "2025-10-03T23:29:33.201667"
+  }
+}

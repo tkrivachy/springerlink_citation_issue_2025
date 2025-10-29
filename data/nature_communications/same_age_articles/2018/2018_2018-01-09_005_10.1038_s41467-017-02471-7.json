@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.604031",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02471-7",
+    "title": "Mapping the microscale origins of magnetic resonance image contrast with subcellular diamond magnetometry",
+    "article_number": "131",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hunter C. Davis",
+      "Pradeep Ramesh",
+      "Aadyot Bhatnagar",
+      "Audrey Lee-Gosselin",
+      "John F. Barry",
+      "David R. Glenn",
+      "Ronald L. Walsworth",
+      "Mikhail G. Shapiro"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:34:54.884537",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T11:43:52.147573"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T17:05:36.940645"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T17:05:38.309375"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T22:34:54.884319"
+    }
+  }
+}

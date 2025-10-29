@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.853385",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-18",
+    "title": "Awareness of vaccination status and its predictors among working people in Switzerland",
+    "article_number": "18",
+    "publication_date": "2003-06-02",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Chung-Yol Lee",
+      "Claudine Naguel",
+      "Danielle Gyurech",
+      "Nicole Duvoisin",
+      "Julian Schilling"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T11:56:27.955985"
+    },
+    "last_updated": "2025-10-03T20:42:02.134234",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T12:03:09.320033"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T12:03:10.651299"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T20:42:02.134039"
+    }
+  }
+}

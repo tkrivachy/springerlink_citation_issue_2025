@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.205919",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20199-9",
+    "title": "Long-read metagenomics using PromethION uncovers oral bacteriophages and their interaction with host bacteria",
+    "article_number": "27",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Koji Yahara",
+      "Masato Suzuki",
+      "Aki Hirabayashi",
+      "Wataru Suda",
+      "Masahira Hattori",
+      "Yutaka Suzuki",
+      "Yusuke Okazaki"
+    ]
+  },
+  "article_index": 208,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:34:36.911482"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:34:38.426667"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:34:39.793247"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T23:05:32.319012"
+    },
+    "last_updated": "2025-10-03T23:05:32.319115"
+  }
+}

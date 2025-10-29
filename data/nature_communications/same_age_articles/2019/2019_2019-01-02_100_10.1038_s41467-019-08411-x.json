@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.688060",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08411-x",
+    "title": "Nuclear lipid droplets derive from a lipoprotein precursor and regulate phosphatidylcholine synthesis",
+    "article_number": "473",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kamil Sołtysik",
+      "Yuki Ohsaki",
+      "Tsuyako Tatematsu",
+      "Jinglei Cheng",
+      "Toyoshi Fujimoto"
+    ]
+  },
+  "article_index": 100,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 113,
+      "retrieved_at": "2025-10-03T18:00:14.683497"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T18:00:16.248966"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T18:00:17.391970"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T22:54:03.835222"
+    },
+    "last_updated": "2025-10-03T22:54:03.835449"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.700807",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08166-x",
+    "title": "A highly efficient and faithful MDS patient-derived xenotransplantation model for pre-clinical studies",
+    "article_number": "366",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuanbin Song",
+      "Anthony Rongvaux",
+      "Ashley Taylor",
+      "Tingting Jiang",
+      "Toma Tebaldi",
+      "Kunthavai Balasubramanian",
+      "Arun Bagale",
+      "Yunus Kasim Terzi",
+      "Rana Gbyli",
+      "Xiaman Wang",
+      "Xiaoying Fu",
+      "Yimeng Gao",
+      "Jun Zhao",
+      "Nikolai Podoltsev",
+      "Mina Xu",
+      "Natalia Neparidze",
+      "Ellice Wong",
+      "Richard Torres",
+      "Emanuela M. Bruscia",
+      "Yuval Kluger",
+      "Markus G. Manz",
+      "Richard A. Flavell",
+      "Stephanie Halene"
+    ]
+  },
+  "article_index": 218,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T18:08:24.162614"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:08:25.704168"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T18:08:26.849217"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T22:56:41.606912"
+    },
+    "last_updated": "2025-10-03T22:56:41.606987"
+  }
+}

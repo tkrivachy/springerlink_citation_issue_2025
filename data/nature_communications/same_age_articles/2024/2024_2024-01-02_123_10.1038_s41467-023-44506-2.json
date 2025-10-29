@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.679337",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44506-2",
+    "title": "A distant global control region is essential for normal expression of anterior ",
+    "article_number": "136",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andrea Wilderman",
+      "Eva D’haene",
+      "Machteld Baetens",
+      "Tara N. Yankee",
+      "Emma Wentworth Winchester",
+      "Nicole Glidden",
+      "Ellen Roets",
+      "Jo Van Dorpe",
+      "Sandra Janssens",
+      "Danny E. Miller",
+      "Miranda Galey",
+      "Kari M. Brown",
+      "Rolf W. Stottmann",
+      "Sarah Vergult",
+      "K. Nicole Weaver",
+      "Samantha A. Brugmann",
+      "Timothy C. Cox",
+      "Justin Cotney"
+    ]
+  },
+  "article_index": 123,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:11:14.364552"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:11:15.919092"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:11:17.214769"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:17:53.601569"
+    },
+    "last_updated": "2025-10-03T23:17:53.601668"
+  }
+}

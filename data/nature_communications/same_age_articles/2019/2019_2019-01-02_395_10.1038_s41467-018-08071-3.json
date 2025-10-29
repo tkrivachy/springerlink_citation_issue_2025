@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.720281",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08071-3",
+    "title": "Altered chemistry of oxygen and iron under deep Earth conditions",
+    "article_number": "153",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jin Liu",
+      "Qingyang Hu",
+      "Wenli Bi",
+      "Liuxiang Yang",
+      "Yuming Xiao",
+      "Paul Chow",
+      "Yue Meng",
+      "Vitali B. Prakapenka",
+      "Ho-Kwang Mao",
+      "Wendy L. Mao"
+    ]
+  },
+  "article_index": 395,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:25:38.270657"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:25:39.810366"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:25:41.207096"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T22:42:00.841254"
+    },
+    "last_updated": "2025-10-03T22:42:00.841487"
+  }
+}

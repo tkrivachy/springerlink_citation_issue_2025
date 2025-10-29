@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.451289",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3924-x",
+    "title": "Collaboration between employers and occupational health service providers: a systematic review of key characteristics",
+    "article_number": "22",
+    "publication_date": "2017-01-05",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jaana I. Halonen",
+      "Salla Atkins",
+      "Hanna Hakulinen",
+      "Sanna Pesonen",
+      "Jukka Uitti"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T13:23:41.489801"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:23:43.088097"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T13:23:44.457116"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T21:11:31.289571"
+    },
+    "last_updated": "2025-10-03T21:11:31.289673"
+  }
+}

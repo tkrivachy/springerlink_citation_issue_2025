@@ -1,0 +1,75 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.520808",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55036-w",
+    "title": "Pantothenate kinase 4 controls skeletal muscle substrate metabolism",
+    "article_number": "345",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Adriana Miranda-Cervantes",
+      "Andreas M. Fritzen",
+      "Steffen H. Raun",
+      "Ondřej Hodek",
+      "Lisbeth L. V. Møller",
+      "Kornelia Johann",
+      "Luisa Deisen",
+      "Paul Gregorevic",
+      "Anders Gudiksen",
+      "Anna Artati",
+      "Jerzy Adamski",
+      "Nicoline R. Andersen",
+      "Casper M. Sigvardsen",
+      "Christian S. Carl",
+      "Christian T. Voldstedlund",
+      "Rasmus Kjøbsted",
+      "Stefanie M. Hauck",
+      "Peter Schjerling",
+      "Thomas E. Jensen",
+      "Alberto Cebrian-Serrano",
+      "Markus Jähnert",
+      "Pascal Gottmann",
+      "Ingo Burtscher",
+      "Heiko Lickert",
+      "Henriette Pilegaard",
+      "Annette Schürmann",
+      "Matthias H. Tschöp",
+      "Thomas Moritz",
+      "Timo D. Müller",
+      "Lykke Sylow",
+      "Bente Kiens",
+      "Erik A. Richter",
+      "Maximilian Kleinert"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:33:14.877382"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:33:16.531946"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:33:17.749397"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:25:06.123587"
+    },
+    "last_updated": "2025-10-03T23:25:06.123783"
+  }
+}

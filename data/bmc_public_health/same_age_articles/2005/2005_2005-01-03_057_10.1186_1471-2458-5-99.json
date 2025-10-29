@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.959917",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-99",
+    "title": "ELSID-Diabetes study-evaluation of a large scale implementation of disease management programmes for patients with type 2 diabetes. Rationale, design and conduct – a study protocol [ISRCTN08471887]",
+    "article_number": "99",
+    "publication_date": "2005-10-04",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Stefanie Joos",
+      "Thomas Rosemann",
+      "Marc Heiderhoff",
+      "Michel Wensing",
+      "Sabine Ludt",
+      "Jochen Gensichen",
+      "Petra Kaufmann-Kolle",
+      "Joachim Szecsenyi"
+    ]
+  },
+  "article_index": 57,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T12:14:31.515167"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T12:14:33.025268"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T12:14:34.309855"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T20:46:24.043521"
+    },
+    "last_updated": "2025-10-03T20:46:24.043607"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.684334",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8124-z",
+    "title": "Discrimination in healthcare as a barrier to care: experiences of socially disadvantaged populations in France from a nationally representative survey",
+    "article_number": "31",
+    "publication_date": "2020-01-09",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Joshua G. Rivenbark",
+      "Mathieu Ichou"
+    ]
+  },
+  "article_index": 121,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 114,
+      "retrieved_at": "2025-10-03T13:32:31.366579"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T13:32:32.883127"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T13:32:34.293183"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 133,
+      "retrieved_at": "2025-10-03T21:14:42.569085"
+    },
+    "last_updated": "2025-10-03T21:14:42.569172"
+  }
+}

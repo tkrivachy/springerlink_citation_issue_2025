@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.710532",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08161-2",
+    "title": "Observation of the 4π-periodic Josephson effect in indium arsenide nanowires",
+    "article_number": "245",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dominique Laroche",
+      "Daniël Bouman",
+      "David J. van Woerkom",
+      "Alex Proutski",
+      "Chaitanya Murthy",
+      "Dmitry I. Pikulin",
+      "Chetan Nayak",
+      "Ruben J. J. van Gulik",
+      "Jesper Nygård",
+      "Peter Krogstrup",
+      "Leo P. Kouwenhoven",
+      "Attila Geresdi"
+    ]
+  },
+  "article_index": 304,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T17:57:51.305542"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T17:57:52.858410"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T17:57:54.266952"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T22:53:15.462096"
+    },
+    "last_updated": "2025-10-03T22:53:15.462196"
+  }
+}

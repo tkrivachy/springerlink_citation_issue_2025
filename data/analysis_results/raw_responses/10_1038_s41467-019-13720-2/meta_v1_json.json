@@ -1,0 +1,153 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-019-13720-2",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-019-13720-2",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-019-13720-2"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-019-13720-2.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-019-13720-2"
+        }
+      ],
+      "title": "Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities",
+      "creators": [
+        {
+          "creator": "Wang, Wenzhong"
+        },
+        {
+          "creator": "Xu, Yinhan"
+        },
+        {
+          "ORCID": "0000-0003-4461-4664",
+          "creator": "Sun, Daoyuan"
+        },
+        {
+          "creator": "Ni, Sidao"
+        },
+        {
+          "creator": "Wentzcovitch, Renata"
+        },
+        {
+          "creator": "Wu, Zhongqing"
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "openaccess": "true",
+      "doi": "10.1038/s41467-019-13720-2",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2020-01-07",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "11",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "8",
+      "journalId": "41467",
+      "onlineDate": "2020-01-07",
+      "coverDate": "2020-12",
+      "copyright": "©2020 The Author(s)",
+      "abstract": "Seismic heterogeneities detected in the lower mantle were proposed to be related to subducted oceanic crust. However, the velocity and density of subducted oceanic crust at lower-mantle conditions remain unknown. Here, we report ab initio results for the elastic properties of calcium ferrite‐type phases and determine the velocities and density of oceanic crust along different mantle geotherms. We find that the subducted oceanic crust shows a large negative shear velocity anomaly at the phase boundary between stishovite and CaCl_2-type silica, which is highly consistent with the feature of mid-mantle scatterers. After this phase transition in silica, subducted oceanic crust will be visible as high-velocity heterogeneities as imaged by seismic tomography. This study suggests that the presence of subducted oceanic crust could provide good explanations for some lower-mantle seismic heterogeneities with different length scales except large low shear velocity provinces (LLSVPs). Seismology is a powerful tool to investigate Earth’s interior. Here, the authors combine numerical approaches with experimental results from previous studies to show a depth dependent behaviour of seismic waves in subducted oceanic crust in Earth’s mantle. The work challenges the currently accepted model of depth-independent seismic wave behaviour in oceanic crust.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "China",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

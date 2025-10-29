@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.676771",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07882-8",
+    "title": "Double-slit photoelectron interference in strong-field ionization of the neon dimer",
+    "article_number": "1",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Maksim Kunitski",
+      "Nicolas Eicke",
+      "Pia Huber",
+      "Jonas Köhler",
+      "Stefan Zeller",
+      "Jörg Voigtsberger",
+      "Nikolai Schlott",
+      "Kevin Henrichs",
+      "Hendrik Sann",
+      "Florian Trinter",
+      "Lothar Ph. H. Schmidt",
+      "Anton Kalinin",
+      "Markus S. Schöffler",
+      "Till Jahnke",
+      "Manfred Lein",
+      "Reinhard Dörner"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6397,
+      "retrieved_at": "2025-10-03T17:29:08.920873"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7832,
+      "retrieved_at": "2025-10-03T17:29:10.525852"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8497,
+      "retrieved_at": "2025-10-03T17:29:11.671456"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9007,
+      "retrieved_at": "2025-10-03T22:43:16.160888"
+    },
+    "last_updated": "2025-10-03T22:43:16.161078"
+  }
+}

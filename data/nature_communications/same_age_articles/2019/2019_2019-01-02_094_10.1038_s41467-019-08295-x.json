@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687329",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08295-x",
+    "title": "A five-residue motif for the design of domain swapping in proteins",
+    "article_number": "452",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Neha Nandwani",
+      "Parag Surana",
+      "Hitendra Negi",
+      "Nahren M. Mascarenhas",
+      "Jayant B. Udgaonkar",
+      "Ranabir Das",
+      "Shachi Gosavi"
+    ]
+  },
+  "article_index": 94,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:55:35.998793"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:55:37.527938"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T17:55:39.383564"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:52:27.205797"
+    },
+    "last_updated": "2025-10-03T22:52:27.205951"
+  }
+}

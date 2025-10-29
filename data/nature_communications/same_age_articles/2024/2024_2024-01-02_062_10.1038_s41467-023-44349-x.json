@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.672597",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44349-x",
+    "title": "Stabilization of Pin1 by USP34 promotes Ubc9 isomerization and protein sumoylation in glioma stem cells",
+    "article_number": "40",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qiuhong Zhu",
+      "Panpan Liang",
+      "Hao Meng",
+      "Fangzhen Li",
+      "Wei Miao",
+      "Cuiying Chu",
+      "Wei Wang",
+      "Dongxue Li",
+      "Cong Chen",
+      "Yu Shi",
+      "Xingjiang Yu",
+      "Yifang Ping",
+      "Chaoshi Niu",
+      "Hai-bo Wu",
+      "Aili Zhang",
+      "Xiu-wu Bian",
+      "Wenchao Zhou"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T19:07:58.533191"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:08:00.046371"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:08:01.200259"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:16:49.364908"
+    },
+    "last_updated": "2025-10-03T23:16:49.365101"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.657563",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10080-1",
+    "title": "The potential role of local pharmacies to assess asthma control: an Italian cross-sectional study",
+    "article_number": "19",
+    "publication_date": "2021-01-05",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "M. Caminati",
+      "L. Cegolon",
+      "M. Bacchini",
+      "N. Segala",
+      "A. Dama",
+      "C. Bovo",
+      "B. Olivieri",
+      "F. Furci",
+      "G. Senna"
+    ]
+  },
+  "article_index": 243,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:53:45.320627"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:53:46.902885"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:53:48.188172"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:22:18.084203"
+    },
+    "last_updated": "2025-10-03T21:22:18.084440"
+  }
+}

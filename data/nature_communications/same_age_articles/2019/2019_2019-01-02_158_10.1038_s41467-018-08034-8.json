@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694363",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08034-8",
+    "title": "Engineering of high-precision base editors for site-specific single nucleotide replacement",
+    "article_number": "439",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Junjie Tan",
+      "Fei Zhang",
+      "Daniel Karcher",
+      "Ralph Bock"
+    ]
+  },
+  "article_index": 158,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 147,
+      "retrieved_at": "2025-10-03T17:14:10.540833"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T17:14:12.092457"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 154,
+      "retrieved_at": "2025-10-03T17:14:13.524307"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 177,
+      "retrieved_at": "2025-10-03T22:38:08.481869"
+    },
+    "last_updated": "2025-10-03T22:38:08.482062"
+  }
+}

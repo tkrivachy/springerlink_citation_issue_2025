@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.399916",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84632-5",
+    "title": "Assessment of soil classification based on cone penetration test data for Kaifeng area using optimized support vector machine",
+    "article_number": "438",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hanliang Bian",
+      "Zhongxun Sun",
+      "Jiahan Bian",
+      "Zhaowei Qu",
+      "Jianwei Zhang",
+      "Xiangchun Xu"
+    ]
+  },
+  "article_index": 465,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:49:48.148658"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:49:49.718863"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:49:50.927700"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:29:21.603914"
+    },
+    "last_updated": "2025-10-03T22:29:21.604104"
+  }
+}

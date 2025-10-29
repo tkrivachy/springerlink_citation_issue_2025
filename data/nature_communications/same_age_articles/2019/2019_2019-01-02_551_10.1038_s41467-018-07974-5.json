@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.737015",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07974-5",
+    "title": "Retrotranspositional landscape of Asian rice revealed by 3000 genomes",
+    "article_number": "24",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marie-Christine Carpentier",
+      "Ernandes Manfroi",
+      "Fu-Jin Wei",
+      "Hshin-Ping Wu",
+      "Eric Lasserre",
+      "Christel Llauro",
+      "Emilie Debladis",
+      "Roland Akakpo",
+      "Yue-Ie Hsing",
+      "Olivier Panaud"
+    ]
+  },
+  "article_index": 551,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T17:15:14.888614"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T17:15:16.394368"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T17:15:17.566951"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T22:38:32.771515"
+    },
+    "last_updated": "2025-10-03T22:38:32.771616"
+  }
+}

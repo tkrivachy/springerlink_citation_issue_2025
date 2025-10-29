@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.389054",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84146-0",
+    "title": "pACP-HybDeep: predicting anticancer peptides using binary tree growth based transformer and structural feature encoding with deep-hybrid learning",
+    "article_number": "565",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Maqsood Hayat",
+      "Wajdi Alghamdi",
+      "Shahid Akbar",
+      "Ali Raza",
+      "Rabiah Abdul Kadir",
+      "Mahidur R. Sarker"
+    ]
+  },
+  "article_index": 377,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T16:47:24.382415"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T16:47:25.922702"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:47:27.098186"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T22:28:32.294864"
+    },
+    "last_updated": "2025-10-03T22:28:32.295049"
+  }
+}

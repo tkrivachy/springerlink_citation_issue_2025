@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.792756",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-42",
+    "title": "Burden of disease due to cancer in Spain",
+    "article_number": "42",
+    "publication_date": "2009-01-30",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Nerea Fernández de Larrea-Baz",
+      "Elena Álvarez-Martín",
+      "Consuelo Morant-Ginestar",
+      "Ricard Gènova-Maleras",
+      "Ángel Gil",
+      "Beatriz Pérez-Gómez",
+      "Gonzalo López-Abente"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T12:34:08.442309"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T12:34:10.155364"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:34:11.423003"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T20:53:28.901108"
+    },
+    "last_updated": "2025-10-03T20:53:28.901301"
+  }
+}

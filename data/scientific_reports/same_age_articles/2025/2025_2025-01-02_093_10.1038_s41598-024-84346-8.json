@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.351205",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84346-8",
+    "title": "Microfluidic 3D cell culture: potential application of collagen hydrogels with an optimal dose of bioactive glasses",
+    "article_number": "569",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Faezeh Ghobadi",
+      "Maryam Saadatmand",
+      "Sara Simorgh",
+      "Peiman Brouki Milan"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:29:51.215443"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:29:52.744026"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:40.845317"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:22:18.207371"
+    },
+    "last_updated": "2025-10-07T09:51:40.845560"
+  }
+}

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-12-11</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/1471-2458-12-11</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-12-11</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-12-11</ns2:url>
+          <dc:title>Progress towards implementation of ACT malaria case-management in public health facilities in the Republic of Sudan: a cluster-sample survey</dc:title>
+          <dc:creator>Abdelgader, Tarig M</dc:creator>
+          <dc:creator>Ibrahim, Abdalla M</dc:creator>
+          <dc:creator>Elmardi, Khalid A</dc:creator>
+          <dc:creator>Githinji, Sophie</dc:creator>
+          <dc:creator>Zurovac, Dejan</dc:creator>
+          <dc:creator>Snow, Robert W</dc:creator>
+          <dc:creator>Noor, Abdisalan M</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>1471-2458</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Research article</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:volume>12</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection>Infectious Disease epidemiology</topicalCollection>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>12</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2012-01-06</onlineDate>
+          <ns2:coverDate>2012-12</ns2:coverDate>
+          <ns2:doi>10.1186/1471-2458-12-11</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2012-01-06</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1186/1471-2458-12-11</ns2:url>
+          <ns2:copyright>©2011 Abdelgader et al; licensee BioMed Central Ltd.</ns2:copyright>
+          <ns2:keyword>Malaria</ns2:keyword>
+          <ns2:keyword>Health Worker</ns2:keyword>
+          <ns2:keyword>Artemether</ns2:keyword>
+          <ns2:keyword>Febrile Patient</ns2:keyword>
+          <ns2:keyword>Malaria Microscopy</ns2:keyword>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Background</p>
+        <p>Effective malaria case-management based on artemisinin-based combination therapy (ACT) and parasitological diagnosis is a major pillar within the 2007-2012 National Malaria Strategic Plan in the Sudan. Three years after the launch of the strategy a health facility survey was undertaken to evaluate case-management practices and readiness of the health facilities and health workers to implement a new malaria case-management strategy.</p>
+        <p>Methods</p>
+        <p>A cross-sectional, cluster sample survey was undertaken at public health facilities in 15 states of Sudan. Data were collected using quality-of-care assessment methods. The main outcomes were the proportions of facilities with ACTs and malaria diagnostics; proportions of health workers exposed to malaria related health systems support activities; and composite and individual indicators of case-management practices for febrile outpatients stratified by age, availability of ACTs and diagnostics, use of malaria diagnostics, and test result.</p>
+        <p>Results</p>
+        <p>We evaluated 244 facilities, 294 health workers and 1,643 consultations for febrile outpatients (425 &lt; 5 years and 1,218 ≥ 5 years). Health facility and health worker readiness was variable: chloroquine was available at only 5% of facilities, 73% stocked recommended artesunate and sulfadoxine/pyrimethamine (AS+SP), 51% had the capacity to perform parasitological diagnosis, 53% of health workers had received in-service training on ACTs, 24% were trained in the use of malaria Rapid Diagnostic Tests, and 19% had received a supervisory visit including malaria case-management. At all health facilities 46% of febrile patients were parasitologically tested and 35% of patients were both, tested and treated according to test result. At facilities where AS+SP and malaria diagnostics were available 66% of febrile patients were tested and 51% were both, tested and treated according to test result. Among test positive patients 64% were treated with AS+SP but 24% were treated with artemether monotherapy. Among test negative patients only 17% of patients were treated for malaria. The majority of ACT dispensing and counseling practices were suboptimal.</p>
+        <p>Conclusions</p>
+        <p>Five years following change of the policy from chloroquine to ACTs and 3 years before the end of the new malaria strategic plan chloroquine was successfully phased out from public facilities in Sudan, however, an important gap remained in the availability of ACTs, diagnostic capacities and coverage with malaria case-management activities. The national scale-up of diagnostics, using the findings of this survey as well as future qualitative research, should present an opportunity not only to expand existing testing capacities but also to implement effective support interventions to bridge the health systems gaps and support corrective case-management measures, including the discontinuation of artemether monotherapy treatment.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Artemether</facet-value>
+      <facet-value count="1">Febrile Patient</facet-value>
+      <facet-value count="1">Health Worker</facet-value>
+      <facet-value count="1">Malaria</facet-value>
+      <facet-value count="1">Malaria Microscopy</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2012</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Kenya</facet-value>
+      <facet-value count="1">Sudan</facet-value>
+      <facet-value count="1">United Kingdom</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

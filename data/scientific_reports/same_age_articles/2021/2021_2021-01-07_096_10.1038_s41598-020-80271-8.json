@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.215853",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80271-8",
+    "title": "Analysis of human mitochondrial genome co-occurrence networks of Asian population at varying altitudes",
+    "article_number": "133",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Rahul K. Verma",
+      "Alena Kalyakulina",
+      "Cristina Giuliani",
+      "Pramod Shinde",
+      "Ajay Deep Kachhvah",
+      "Mikhail Ivanchenko",
+      "Sarika Jalan"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:47:30.394512"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:47:31.962888"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:47:33.201802"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:42:29.807502"
+    },
+    "last_updated": "2025-10-03T21:42:29.807694"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221732",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79732-x",
+    "title": "Assessing coral sperm motility",
+    "article_number": "61",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nikolas Zuchowicz",
+      "Jonathan Daly",
+      "Jessica Bouwmeester",
+      "Claire Lager",
+      "E. Michael Henley",
+      "C. Isabel Nuñez Lendo",
+      "Mary Hagedorn"
+    ]
+  },
+  "article_index": 124,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:42:10.690473"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:42:12.250467"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:42:13.417369"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:40:19.166570"
+    },
+    "last_updated": "2025-10-03T21:40:19.166621"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.309222",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56549-x",
+    "title": "Sympatric competitors have driven the evolution of temporal activity patterns in ",
+    "article_number": "27",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hung Ngoc Nguyen",
+      "Chih-Ming Hung",
+      "Ming-Yuan Yang",
+      "Si-Min Lin"
+    ]
+  },
+  "article_index": 91,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:29:13.989943"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:29:15.528253"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:29:16.703653"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:35:00.323111"
+    },
+    "last_updated": "2025-10-03T21:35:00.323210"
+  }
+}

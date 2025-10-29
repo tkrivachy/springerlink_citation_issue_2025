@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.104779",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27203-w",
+    "title": "Comparison of long-term outcomes in simultaneous pancreas-kidney transplant versus simultaneous deceased donor pancreas and living donor kidney transplant",
+    "article_number": "49",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jin-Myung Kim",
+      "Youngmin Ko",
+      "Minha Choi",
+      "Hye Eun Kwon",
+      "Jae Jun Lee",
+      "Joo Hee Jung",
+      "Hyunwook Kwon",
+      "Young Hoon Kim",
+      "Sung Shin"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:32:31.284282"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:32:32.847476"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:32:34.111441"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:00:51.278914"
+    },
+    "last_updated": "2025-10-03T22:00:51.279102"
+  }
+}

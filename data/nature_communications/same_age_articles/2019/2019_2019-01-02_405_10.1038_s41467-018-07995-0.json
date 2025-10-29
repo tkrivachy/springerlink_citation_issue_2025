@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.721285",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07995-0",
+    "title": "Long-lasting field-free alignment of large molecules inside helium nanodroplets",
+    "article_number": "133",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Adam S. Chatterley",
+      "Constant Schouder",
+      "Lars Christiansen",
+      "Benjamin Shepperson",
+      "Mette Heidemann Rasmussen",
+      "Henrik Stapelfeldt"
+    ]
+  },
+  "article_index": 405,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:57:45.610187"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T17:57:47.159100"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T17:57:48.521980"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T22:53:13.207013"
+    },
+    "last_updated": "2025-10-03T22:53:13.207201"
+  }
+}

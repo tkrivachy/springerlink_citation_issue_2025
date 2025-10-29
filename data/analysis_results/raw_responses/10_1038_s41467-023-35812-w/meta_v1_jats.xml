@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-023-35812-w</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-023-35812-w</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Creating bulk ultrastable glasses by random particle bonding</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Ozawa</surname>
+                <given-names>Misaki</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Iwashita</surname>
+                <given-names>Yasutaka</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7405-2178</contrib-id>
+              <name name-style="western">
+                <surname>Kob</surname>
+                <given-names>Walter</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9260-1951</contrib-id>
+              <name name-style="western">
+                <surname>Zamponi</surname>
+                <given-names>Francesco</given-names>
+              </name>
+              <address>
+                <email>f.zamponi@gmail.com</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2023</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2023</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>1</issue>
+          <elocation-id>113</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-023-35812-w</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-023-35812-w.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2023</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">A recent breakthrough in glass science has been the synthesis of ultrastable glasses via physical vapor deposition techniques. These samples display enhanced thermodynamic, kinetic and mechanical stability, with important implications for fundamental science and technological applications. However, the vapor deposition technique is limited to atomic, polymer and organic glass-formers and is only able to produce thin film samples. Here, we propose a novel approach to generate ultrastable glassy configurations in the bulk, via random particle bonding, and using computer simulations we show that this method does indeed allow for the production of ultrastable glasses. Our technique is in principle applicable to any molecular or soft matter system, such as colloidal particles with tunable bonding interactions, thus opening the way to the design of a large class of ultrastable glasses.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Viable methods for the production of ultrastable glasses are much sought after. A potential approach for creating bulk ultrastable glasses, based on random particle bonding scenarios, is now numerically investigated. The method is expected to be applicable to molecular and colloidal glasses.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="03">Chemical Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0306">Physical Chemistry (incl. Structural)</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>EC | Horizon 2020 Framework Programme (EU Framework Programme for Research and Innovation H2020)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100010661</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">723955</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Zamponi</surname>
+                  <given-names>Francesco</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

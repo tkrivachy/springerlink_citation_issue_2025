@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643268",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35083-x",
+    "title": "Intermediate water circulation drives distribution of Pliocene Oxygen Minimum Zones",
+    "article_number": "40",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Catherine V. Davis",
+      "Elizabeth C. Sibert",
+      "Peter H. Jacobs",
+      "Natalie Burls",
+      "Pincelli M. Hull"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:50:52.231505"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:50:53.792182"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T18:50:55.087778"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:10:58.264826"
+    },
+    "last_updated": "2025-10-03T23:10:58.264873"
+  }
+}

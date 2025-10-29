@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202394",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20259-0",
+    "title": "Targeting USP47 overcomes tyrosine kinase inhibitor resistance and eradicates leukemia stem/progenitor cells in chronic myelogenous leukemia",
+    "article_number": "51",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hu Lei",
+      "Han-Zhang Xu",
+      "Hui-Zhuang Shan",
+      "Meng Liu",
+      "Ying Lu",
+      "Zhi-Xiao Fang",
+      "Jin Jin",
+      "Bo Jing",
+      "Xin-Hua Xiao",
+      "Shen-Meng Gao",
+      "Feng-Hou Gao",
+      "Li Xia",
+      "Li Yang",
+      "Li-Gen Liu",
+      "Wei-Wei Wang",
+      "Chuan-Xu Liu",
+      "Yin Tong",
+      "Yun-Zhao Wu",
+      "Jun-Ke Zheng",
+      "Guo-Qiang Chen",
+      "Li Zhou",
+      "Ying-Li Wu"
+    ]
+  },
+  "article_index": 181,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:27:01.155347"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T18:27:02.700542"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:27:03.860988"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T23:02:58.411466"
+    },
+    "last_updated": "2025-10-03T23:02:58.411656"
+  }
+}

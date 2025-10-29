@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.843337",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49429-y",
+    "title": "Aortic calcification correlates with pseudoaneurysm or penetrating aortic ulcer of different etiologies",
+    "article_number": "25",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Siting Li",
+      "Haoxuan Kan",
+      "Zhili Liu",
+      "Rong Zeng",
+      "Jiang Shao",
+      "Yuexin Chen",
+      "Wei Ye",
+      "Yuehong Zheng"
+    ]
+  },
+  "article_index": 160,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:41:39.128289"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:41:40.647441"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:41:41.846286"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:04:29.870890"
+    },
+    "last_updated": "2025-10-03T22:04:29.871082"
+  }
+}

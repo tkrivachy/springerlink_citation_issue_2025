@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.203090",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20358-y",
+    "title": "Single-cell transcriptome profiling of the vaginal wall in women with severe anterior vaginal prolapse",
+    "article_number": "87",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yaqian Li",
+      "Qing-Yang Zhang",
+      "Bao-Fa Sun",
+      "Yidi Ma",
+      "Ye Zhang",
+      "Min Wang",
+      "Congcong Ma",
+      "Honghui Shi",
+      "Zhijing Sun",
+      "Juan Chen",
+      "Yun-Gui Yang",
+      "Lan Zhu"
+    ]
+  },
+  "article_index": 187,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:39:51.134129"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:39:52.826278"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:39:54.173827"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T23:07:17.901918"
+    },
+    "last_updated": "2025-10-03T23:07:17.902111"
+  }
+}

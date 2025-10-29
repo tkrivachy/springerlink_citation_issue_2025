@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-S1-P8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/1471-2458-14-S1-P8</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Maternal health insurance in Indonesia: assessment of a policy design</dc:title>
+          <dc:creator>Marthias, Tiara</dc:creator>
+          <dc:creator>Kurniawan, M Faozi</dc:creator>
+          <dc:creator>Putri, Likke</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn>1471-2458</ns2:issn>
+          <ns2:genre>Abstract</ns2:genre>
+          <ns2:genre>Poster presentation</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:doi>10.1186/1471-2458-14-S1-P8</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2014-01-29</ns2:publicationDate>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>1</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1186/1471-2458-14-S1-P8</ns2:url>
+          <ns2:copyright>©2014 Marthias et al; licensee BioMed Central Ltd.</ns2:copyright>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body/>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Family Planning</facet-value>
+      <facet-value count="1">Family Planning Programme</facet-value>
+      <facet-value count="1">High Quality Service</facet-value>
+      <facet-value count="1">Postnatal Care</facet-value>
+      <facet-value count="1">Service Accessibility</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2014</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Indonesia</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

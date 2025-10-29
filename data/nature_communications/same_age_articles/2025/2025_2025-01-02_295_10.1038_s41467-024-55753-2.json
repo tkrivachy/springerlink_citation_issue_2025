@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.558096",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55753-2",
+    "title": "Floatable artificial leaf to couple oxygen-tolerant CO",
+    "article_number": "274",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhiyong Zhang",
+      "Yang Wang",
+      "Yangen Xie",
+      "Toru Tsukamoto",
+      "Qi Zhao",
+      "Qing Huang",
+      "Xingmiao Huang",
+      "Boyang Zhang",
+      "Wenjing Song",
+      "Chuncheng Chen",
+      "Hua Sheng",
+      "Jincai Zhao"
+    ]
+  },
+  "article_index": 295,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:39:32.656404"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:39:34.174573"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:39:35.324981"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:27:15.717438"
+    },
+    "last_updated": "2025-10-03T23:27:15.717657"
+  }
+}

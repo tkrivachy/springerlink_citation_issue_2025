@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.731370",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07933-0",
+    "title": "Selective on-surface covalent coupling based on metal-organic coordination template",
+    "article_number": "70",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shuaipeng Xing",
+      "Zhe Zhang",
+      "Xiyu Fei",
+      "Wei Zhao",
+      "Ran Zhang",
+      "Tao Lin",
+      "Danli Zhao",
+      "Huanxin Ju",
+      "Hu Xu",
+      "Jian Fan",
+      "Junfa Zhu",
+      "Yu-qiang Ma",
+      "Ziliang Shi"
+    ]
+  },
+  "article_index": 498,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:14:51.731692"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:14:53.266827"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T17:14:54.606657"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T22:38:24.233319"
+    },
+    "last_updated": "2025-10-03T22:38:24.233417"
+  }
+}

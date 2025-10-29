@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.716581",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08066-0",
+    "title": "A recent increase in global wave power as a consequence of oceanic warming",
+    "article_number": "205",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Borja G. Reguero",
+      "Iñigo J. Losada",
+      "Fernando J. Méndez"
+    ]
+  },
+  "article_index": 360,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 347,
+      "retrieved_at": "2025-10-03T17:52:09.010380"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 358,
+      "retrieved_at": "2025-10-03T17:52:10.529218"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 316,
+      "retrieved_at": "2025-10-03T17:52:12.211819"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 391,
+      "retrieved_at": "2025-10-03T22:50:59.917882"
+    },
+    "last_updated": "2025-10-03T22:50:59.918074"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.530705",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55088-y",
+    "title": "A flexible catheter-based sensor array for upper airway soft tissues pressure monitoring",
+    "article_number": "287",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiang Shang",
+      "Xiaoxiao Ma",
+      "Peikai Zou",
+      "Chenxiao Huang",
+      "Zhechen Lao",
+      "Junhan Wang",
+      "Tingshu Jiang",
+      "Yanzhe Fu",
+      "Jiebo Li",
+      "Shaoxing Zhang",
+      "Ruya Li",
+      "Yubo Fan"
+    ]
+  },
+  "article_index": 127,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:19:06.508951"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:19:08.057587"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:19:09.220685"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T23:20:33.513432"
+    },
+    "last_updated": "2025-10-03T23:20:33.513622"
+  }
+}

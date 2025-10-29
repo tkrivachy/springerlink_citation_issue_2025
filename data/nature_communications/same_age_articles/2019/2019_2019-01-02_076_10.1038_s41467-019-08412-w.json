@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685464",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08412-w",
+    "title": "A tetracycline-dependent ribozyme switch allows conditional induction of gene expression in ",
+    "article_number": "491",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lena A. Wurmthaler",
+      "Monika Sack",
+      "Karina Gense",
+      "Jörg S. Hartig",
+      "Martin Gamerdinger"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T18:04:57.039709"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:04:58.556996"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:04:59.863530"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T22:55:35.718184"
+    },
+    "last_updated": "2025-10-03T22:55:35.718272"
+  }
+}

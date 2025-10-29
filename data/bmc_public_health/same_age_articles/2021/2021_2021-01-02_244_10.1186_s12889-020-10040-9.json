@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.657660",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10040-9",
+    "title": "Obesity and overall mortality: findings from the Jackson Heart Study",
+    "article_number": "50",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yuan-I Min",
+      "Yan Gao",
+      "Pramod Anugu",
+      "Anshul Anugu",
+      "Adolfo Correa"
+    ]
+  },
+  "article_index": 244,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T13:55:01.002550"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:55:02.554318"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:55:03.863660"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:22:47.064925"
+    },
+    "last_updated": "2025-10-03T21:22:47.065126"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682136",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08410-y",
+    "title": "Publisher Correction: Z-ring membrane anchors associate with cell wall synthases to initiate bacterial cell division",
+    "article_number": "591",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Manuel Pazos",
+      "Katharina Peters",
+      "Mercedes Casanova",
+      "Pilar Palacios",
+      "Michael VanNieuwenhze",
+      "Eefjan Breukink",
+      "Miguel Vicente",
+      "Waldemar Vollmer"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:22:53.812344"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:22:55.368404"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:22:56.613996"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:41:02.076638"
+    },
+    "last_updated": "2025-10-03T22:41:02.076704"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.378377",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84134-4",
+    "title": "DSIA U-Net: deep shallow interaction with attention mechanism UNet for remote sensing satellite images",
+    "article_number": "549",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Naga Surekha Jonnala",
+      "Renuka Chowdary Bheemana",
+      "Krishna Prakash",
+      "Shonak Bansal",
+      "Arpit Jain",
+      "Vaibhav Pandey",
+      "Mohammad Rashed Iqbal Faruque",
+      "K. S. Al-mugren"
+    ]
+  },
+  "article_index": 275,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T16:59:42.248633"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T16:59:43.795718"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:59:44.994022"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T22:32:43.496667"
+    },
+    "last_updated": "2025-10-03T22:32:43.496859"
+  }
+}

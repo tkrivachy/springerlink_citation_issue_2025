@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.715468",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08168-9",
+    "title": "Optogenetic stimulation of medial prefrontal cortex ",
+    "article_number": "223",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Brendan D. Hare",
+      "Ryota Shinohara",
+      "Rong Jian Liu",
+      "Santosh Pothula",
+      "Ralph J. DiLeone",
+      "Ronald S. Duman"
+    ]
+  },
+  "article_index": 349,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:38:52.203051"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 189,
+      "retrieved_at": "2025-10-03T17:38:53.717158"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 177,
+      "retrieved_at": "2025-10-03T17:38:55.135318"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 204,
+      "retrieved_at": "2025-10-03T22:46:35.484384"
+    },
+    "last_updated": "2025-10-03T22:46:35.484442"
+  }
+}

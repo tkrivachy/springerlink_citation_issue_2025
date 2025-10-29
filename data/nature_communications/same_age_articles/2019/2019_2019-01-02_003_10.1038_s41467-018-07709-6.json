@@ -1,0 +1,85 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.676656",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07709-6",
+    "title": "Capturing variation impact on molecular interactions in the IMEx Consortium mutations data set",
+    "article_number": "10",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. Khadake",
+      "J. Khadake",
+      "B. Meldal",
+      "S. Panni",
+      "D. Thorneycroft",
+      "K. van Roey",
+      "S. Abbani",
+      "L. Salwinski",
+      "M. Pellegrini",
+      "M. Iannuccelli",
+      "L. Licata",
+      "G. Cesareni",
+      "B. Roechert",
+      "A. Bridge",
+      "M. G. Ammari",
+      "F. McCarthy",
+      "F. Broackes-Carter",
+      "N. H. Campbell",
+      "A. N. Melidoni",
+      "M. Rodriguez-Lopez",
+      "R. C. Lovering",
+      "S. Jagannathan",
+      "C. Chen",
+      "D. J. Lynn",
+      "S. Ricard-Blum",
+      "U. Mahadevan",
+      "A. Raghunath",
+      "N. del-Toro",
+      "M. Duesbury",
+      "M. Koch",
+      "L. Perfetto",
+      "A. Shrivastava",
+      "D. Ochoa",
+      "O. Wagih",
+      "J. Piñero",
+      "M. Kotlyar",
+      "C. Pastrello",
+      "P. Beltrao",
+      "L. I. Furlong",
+      "I. Jurisica",
+      "H. Hermjakob",
+      "S. Orchard",
+      "P. Porras"
+    ]
+  },
+  "article_index": 3,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 192,
+      "retrieved_at": "2025-10-03T17:45:36.520834"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 155,
+      "retrieved_at": "2025-10-03T17:45:38.095606"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T17:45:39.593091"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 199,
+      "retrieved_at": "2025-10-03T22:48:46.661586"
+    },
+    "last_updated": "2025-10-03T22:48:46.661778"
+  }
+}

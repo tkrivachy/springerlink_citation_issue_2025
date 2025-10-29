@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303368",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57078-3",
+    "title": "Long-term spatio-temporal precipitation variations in China with precipitation surface interpolated by ANUSPLIN",
+    "article_number": "81",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Binbin Guo",
+      "Jing Zhang",
+      "Xianyong Meng",
+      "Tingbao Xu",
+      "Yongyu Song"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T14:27:32.416351"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T14:27:33.931839"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T14:27:35.091305"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 145,
+      "retrieved_at": "2025-10-03T21:34:19.712912"
+    },
+    "last_updated": "2025-10-03T21:34:19.713101"
+  }
+}

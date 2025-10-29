@@ -1,0 +1,144 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-020-80345-7",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-020-80345-7",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-020-80345-7"
+        }
+      ],
+      "title": "Assessing ZNF154 methylation in patient plasma as a multicancer marker in liquid biopsies from colon, liver, ovarian and pancreatic cancer patients",
+      "creators": [
+        {
+          "creator": "Miller, Brendan F."
+        },
+        {
+          "creator": "Petrykowska, Hanna M."
+        },
+        {
+          "creator": "Elnitski, Laura"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "doi": "10.1038/s41598-020-80345-7",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2021-01-08",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "11",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "13",
+      "journalId": "41598",
+      "openAccess": "true",
+      "onlineDate": "2021-01-08",
+      "coverDate": "2021-12",
+      "copyright": "©2021 This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply",
+      "abstract": {
+        "h1": "Abstract",
+        "p": "One epigenetic hallmark of many cancer types is differential DNA methylation occurring at multiple loci compared to normal tissue. Detection and assessment of the methylation state at a specific locus could be an effective cancer diagnostic. We assessed the effectiveness of hypermethylation at the CpG island of ZNF154 , a previously reported multi-cancer specific signature for use in a blood-based cancer detection assay. To predict its effectiveness, we compared methylation levels of 3698 primary tumors encompassing 11 solid cancers, 724 controls, 2711 peripheral blood cell samples, and 350 noncancer disease tissues from publicly available methylation array datasets. We performed a single-molecule high-resolution DNA melt analysis on 71 plasma samples from cancer patients and 20 noncancer individuals to assess ZNF154 methylation as a candidate diagnostic metric in liquid biopsy and compared results to KRAS mutation frequency in the case of pancreatic carcinoma. We documented ZNF154 hypermethylation in early stage tumors, which did not increase in most noncancer disease or with respect to age or sex in peripheral blood cells, suggesting it is a promising target in liquid biopsy. ZNF154 cfDNA methylation discriminated cases from healthy donor plasma samples in minimal plasma volumes and outperformed KRAS mutation frequency in pancreatic cancer."
+      },
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword"
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2021",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

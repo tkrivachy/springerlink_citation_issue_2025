@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.886311",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03358-w",
+    "title": "Resilience of countries to COVID-19 correlated with trust",
+    "article_number": "75",
+    "publication_date": "2022-01-06",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Timothy M. Lenton",
+      "Chris A. Boulton",
+      "Marten Scheffer"
+    ]
+  },
+  "article_index": 276,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:01:00.820872"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T15:01:02.397671"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T15:01:03.720197"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T21:47:42.829602"
+    },
+    "last_updated": "2025-10-03T21:47:42.829792"
+  }
+}

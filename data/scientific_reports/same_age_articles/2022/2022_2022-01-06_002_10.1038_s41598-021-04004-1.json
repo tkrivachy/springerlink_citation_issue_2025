@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.842210",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04004-1",
+    "title": "A scoring system combining clinical, radiological, and histopathological examinations for differential diagnosis between lipoma and atypical lipomatous tumor/well-differentiated liposarcoma",
+    "article_number": "237",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yohei Asano",
+      "Shinji Miwa",
+      "Norio Yamamoto",
+      "Katsuhiro Hayashi",
+      "Akihiko Takeuchi",
+      "Kentaro Igarashi",
+      "Hirotaka Yonezawa",
+      "Yoshihiro Araki",
+      "Sei Morinaga",
+      "Takayuki Nojima",
+      "Hiroko Ikeda",
+      "Hiroyuki Tsuchiya"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:04:44.618591"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T15:04:46.179997"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:04:47.349422"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T21:49:16.860695"
+    },
+    "last_updated": "2025-10-03T21:49:16.860886"
+  }
+}

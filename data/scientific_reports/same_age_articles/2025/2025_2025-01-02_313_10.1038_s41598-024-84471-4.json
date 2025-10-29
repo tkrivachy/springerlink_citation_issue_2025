@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.382485",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84471-4",
+    "title": "Genetic analysis and association detection of agronomic traits in maize genotypes",
+    "article_number": "399",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Seyyed Mohammad Sadegh Hosseini",
+      "Mohammadreza Shiri",
+      "Khodadad Mostafavi",
+      "Abdollah Mohammadi",
+      "Seyyed Mehdi Miri"
+    ]
+  },
+  "article_index": 313,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:41:30.929703"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:41:32.489575"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:41:33.659742"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:26:27.231572"
+    },
+    "last_updated": "2025-10-03T22:26:27.231776"
+  }
+}

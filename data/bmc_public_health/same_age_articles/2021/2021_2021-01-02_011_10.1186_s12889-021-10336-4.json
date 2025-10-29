@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.630214",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10336-4",
+    "title": "Responsibility for chemical exposures: perspectives from small beauty salons and auto shops in southern metropolitan Tucson",
+    "article_number": "271",
+    "publication_date": "2021-02-02",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Amanda A. Lee",
+      "Maia Ingram",
+      "Carolina Quijada",
+      "Andres Yubeta",
+      "Imelda Cortez",
+      "Nathan Lothrop",
+      "Paloma Beamer"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:00:44.054621"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:00:45.580288"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:00:46.828346"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:24:46.311545"
+    },
+    "last_updated": "2025-10-03T21:24:46.311736"
+  }
+}

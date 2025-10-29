@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701632",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08392-x",
+    "title": "Author Correction: Single human B cell-derived monoclonal anti-",
+    "article_number": "394",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "F. M. Rudkin",
+      "I. Raziunaite",
+      "H. Workman",
+      "S. Essono",
+      "R. Belmonte",
+      "D. M. MacCallum",
+      "E. M. Johnson",
+      "L. Silva",
+      "A. S. Palma",
+      "T. Feizi",
+      "A. Jensen",
+      "L. P. Erwig",
+      "N. A. R. Gow"
+    ]
+  },
+  "article_index": 226,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:47:50.646004"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:47:52.216057"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T17:47:53.403080"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:49:31.080608"
+    },
+    "last_updated": "2025-10-03T22:49:31.080697"
+  }
+}

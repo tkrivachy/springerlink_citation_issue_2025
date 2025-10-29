@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.423037",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3939-3",
+    "title": "A comparative assessment of major international disasters: the need for exposure assessment, systematic emergency preparedness, and lifetime health care",
+    "article_number": "46",
+    "publication_date": "2017-01-07",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Roberto G. Lucchini",
+      "Dana Hashim",
+      "Sushma Acquilla",
+      "Angela Basanets",
+      "Pier Alberto Bertazzi",
+      "Andrey Bushmanov",
+      "Michael Crane",
+      "Denise J. Harrison",
+      "William Holden",
+      "Philip J. Landrigan",
+      "Benjamin J. Luft",
+      "Paolo Mocarelli",
+      "Nailya Mazitova",
+      "James Melius",
+      "Jacqueline M. Moline",
+      "Koji Mori",
+      "David Prezant",
+      "Joan Reibman",
+      "Dori B. Reissman",
+      "Alexander Stazharau",
+      "Ken Takahashi",
+      "Iris G. Udasin",
+      "Andrew C. Todd"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T13:22:59.497683"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T13:23:01.124583"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T13:23:02.472178"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T21:11:16.623948"
+    },
+    "last_updated": "2025-10-03T21:11:16.623995"
+  }
+}

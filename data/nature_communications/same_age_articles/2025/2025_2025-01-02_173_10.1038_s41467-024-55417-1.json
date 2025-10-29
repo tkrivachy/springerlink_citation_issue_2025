@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536562",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55417-1",
+    "title": "Robust skin-integrated conductive biogel for high-fidelity detection under mechanical stress",
+    "article_number": "88",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tian Li",
+      "Haobo Qi",
+      "Cancan Zhao",
+      "Zhenming Li",
+      "Wei Zhou",
+      "Guanjin Li",
+      "Hao Zhuo",
+      "Wei Zhai"
+    ]
+  },
+  "article_index": 173,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:37:33.228138"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T19:37:34.758482"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:37:35.960448"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:26:32.618117"
+    },
+    "last_updated": "2025-10-03T23:26:32.618179"
+  }
+}

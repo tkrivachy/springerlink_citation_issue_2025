@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.688791",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07891-7",
+    "title": "China’s coal mine methane regulations have not curbed growing emissions",
+    "article_number": "303",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Scot M. Miller",
+      "Anna M. Michalak",
+      "Robert G. Detmers",
+      "Otto P. Hasekamp",
+      "Lori M. P. Bruhwiler",
+      "Stefan Schwietzke"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:02:53.972676"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 165,
+      "retrieved_at": "2025-10-03T18:02:55.504453"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T18:02:56.679157"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 190,
+      "retrieved_at": "2025-10-03T22:54:49.334727"
+    },
+    "last_updated": "2025-10-03T22:54:49.334803"
+  }
+}

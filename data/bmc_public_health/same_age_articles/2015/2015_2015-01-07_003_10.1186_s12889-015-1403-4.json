@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.238365",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1403-4",
+    "title": "Differences in diabetes prevalence and inequalities in disease management and glycaemic control by immigrant status: a population-based study (Italy)",
+    "article_number": "87",
+    "publication_date": "2015-02-06",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Paola Ballotari",
+      "Stefania Caroli",
+      "Francesca Ferrari",
+      "Gabriele Romani",
+      "Greci Marina",
+      "Antonio Chiarenza",
+      "Valeria Manicardi",
+      "Paolo Giorgi Rossi"
+    ]
+  },
+  "article_index": 3,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T13:10:18.218925"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T13:10:19.776704"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T13:10:21.101015"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:06:34.639784"
+    },
+    "last_updated": "2025-10-03T21:06:34.639977"
+  }
+}

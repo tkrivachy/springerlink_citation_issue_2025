@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.190533",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20693-0",
+    "title": "Publisher Correction: Increasing the reproducibility of fluid biomarker studies in neurodegenerative studies",
+    "article_number": "196",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Niklas Mattsson-Carlgren",
+      "Sebastian Palmqvist",
+      "Kaj Blennow",
+      "Oskar Hansson"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:36:29.970822"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:36:31.494518"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:36:32.652180"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:06:08.391872"
+    },
+    "last_updated": "2025-10-03T23:06:08.392066"
+  }
+}

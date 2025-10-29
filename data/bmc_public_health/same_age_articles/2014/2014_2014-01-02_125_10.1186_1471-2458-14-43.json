@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.758566",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-43",
+    "title": "Effect size and cost-effectiveness estimates of breast and cervical cancer screening reminders by population size through complete enumeration of Japanese local municipalities",
+    "article_number": "43",
+    "publication_date": "2014-01-16",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Shigekazu Komoto",
+      "Yuji Nishiwaki",
+      "Tomonori Okamura",
+      "Hideo Tanaka",
+      "Toru Takebayashi"
+    ]
+  },
+  "article_index": 125,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T12:56:38.454897"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T12:56:39.981105"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T12:56:41.225014"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:01:32.699823"
+    },
+    "last_updated": "2025-10-03T21:01:32.700015"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723280",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08082-0",
+    "title": "Improved state-level influenza nowcasting in the United States leveraging Internet-based data and network approaches",
+    "article_number": "147",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Fred S. Lu",
+      "Mohammad W. Hattab",
+      "Cesar Leonardo Clemente",
+      "Matthew Biggerstaff",
+      "Mauricio Santillana"
+    ]
+  },
+  "article_index": 423,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T17:16:58.770520"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T17:17:00.297228"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:17:01.611674"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T22:39:06.944281"
+    },
+    "last_updated": "2025-10-03T22:39:06.944405"
+  }
+}

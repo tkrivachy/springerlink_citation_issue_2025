@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.231056",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79973-w",
+    "title": "Metal concentrations in coastal sharks from The Bahamas with a focus on the Caribbean Reef shark",
+    "article_number": "218",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Oliver N. Shipley",
+      "Cheng-Shiuan Lee",
+      "Nicholas S. Fisher",
+      "James K. Sternlicht",
+      "Sami Kattan",
+      "Erica R. Staaterman",
+      "Neil Hammerschlag",
+      "Austin J. Gallagher"
+    ]
+  },
+  "article_index": 170,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:54:48.044026"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:54:49.573609"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:54:50.838848"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:45:14.991937"
+    },
+    "last_updated": "2025-10-03T21:45:14.992128"
+  }
+}

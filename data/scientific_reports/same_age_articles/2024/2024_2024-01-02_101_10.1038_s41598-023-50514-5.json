@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.837151",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50514-5",
+    "title": "Molecular identification and genotyping of hepatitis E virus from Southern Punjab, Pakistan",
+    "article_number": "223",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Muhammad Muddassir Ali",
+      "Mehek Gul",
+      "Muhammad Imran",
+      "Muhammad Ijaz",
+      "Shahan Azeem",
+      "Arif Ullah",
+      "Hafiz Muhammad Farooq Yaqub"
+    ]
+  },
+  "article_index": 101,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:44:44.346257"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:44:45.913768"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:44:47.105175"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:05:44.706557"
+    },
+    "last_updated": "2025-10-03T22:05:44.706659"
+  }
+}

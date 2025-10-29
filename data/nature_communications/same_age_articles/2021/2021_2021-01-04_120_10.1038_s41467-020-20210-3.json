@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.193927",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20210-3",
+    "title": "Analysing the mechanism of mitochondrial oxidation-induced cell death using a multifunctional iridium(III) photosensitiser",
+    "article_number": "26",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chaiheon Lee",
+      "Jung Seung Nam",
+      "Chae Gyu Lee",
+      "Mingyu Park",
+      "Chang-Mo Yoo",
+      "Hyun-Woo Rhee",
+      "Jeong Kon Seo",
+      "Tae-Hyuk Kwon"
+    ]
+  },
+  "article_index": 120,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T18:41:24.744164"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:41:26.274256"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T18:41:27.597487"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T23:07:50.246688"
+    },
+    "last_updated": "2025-10-03T23:07:50.246781"
+  }
+}

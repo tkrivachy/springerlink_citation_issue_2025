@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.201336",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20292-z",
+    "title": "Order and stochasticity in the folding of individual ",
+    "article_number": "41",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sergey V. Ulianov",
+      "Vlada V. Zakharova",
+      "Aleksandra A. Galitsyna",
+      "Pavel I. Kos",
+      "Kirill E. Polovnikov",
+      "Ilya M. Flyamer",
+      "Elena A. Mikhaleva",
+      "Ekaterina E. Khrameeva",
+      "Diego Germini",
+      "Mariya D. Logacheva",
+      "Alexey A. Gavrilov",
+      "Alexander S. Gorsky",
+      "Sergey K. Nechaev",
+      "Mikhail S. Gelfand",
+      "Yegor S. Vassetzky",
+      "Alexander V. Chertovich",
+      "Yuri Y. Shevelyov",
+      "Sergey V. Razin"
+    ]
+  },
+  "article_index": 172,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:29:26.310168"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T18:29:27.821108"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T18:29:28.969559"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T23:03:51.923181"
+    },
+    "last_updated": "2025-10-03T23:03:51.923230"
+  }
+}

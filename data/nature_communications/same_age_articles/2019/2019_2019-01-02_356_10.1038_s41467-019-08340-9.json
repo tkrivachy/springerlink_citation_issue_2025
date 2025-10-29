@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.716188",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08340-9",
+    "title": "Publisher Correction: Non-canonical nucleosides and chemistry of the emergence of life",
+    "article_number": "325",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sidney Becker",
+      "Christina Schneider",
+      "Antony Crisp",
+      "Thomas Carell"
+    ]
+  },
+  "article_index": 356,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:39:37.973683"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:39:39.530240"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:39:40.751074"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:46:50.621365"
+    },
+    "last_updated": "2025-10-03T22:46:50.621569"
+  }
+}

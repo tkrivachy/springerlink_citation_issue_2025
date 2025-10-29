@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.867770",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04100-2",
+    "title": "Magnetic capsulate triboelectric nanogenerators",
+    "article_number": "89",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Pengcheng Jiao",
+      "Ali Matin Nazar",
+      "King-James Idala Egbe",
+      "Kaveh Barri",
+      "Amir H. Alavi"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:12:29.643252"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T15:12:31.147101"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T15:12:32.346752"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T21:52:25.227660"
+    },
+    "last_updated": "2025-10-03T21:52:25.227845"
+  }
+}

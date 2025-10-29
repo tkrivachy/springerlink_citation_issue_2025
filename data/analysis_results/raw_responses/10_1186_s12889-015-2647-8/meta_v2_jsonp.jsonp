@@ -1,0 +1,226 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/s12889-015-2647-8",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/s12889-015-2647-8",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl?doi=10.1186/s12889-015-2647-8"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/s12889-015-2647-8"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/s12889-015-2647-8"
+        }
+      ],
+      "title": "Five years after the accident, whiplash casualties still have poorer quality of life in the physical domain than other mildly injured casualties: analysis of the ESPARR cohort",
+      "creators": [
+        {
+          "creator": "Tournier, Charlène"
+        },
+        {
+          "creator": "Hours, Martine"
+        },
+        {
+          "creator": "Charnay, Pierrette"
+        },
+        {
+          "creator": "Chossegros, Laetitia"
+        },
+        {
+          "creator": "Tardy, Hélène"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "openaccess": "true",
+      "doi": "10.1186/s12889-015-2647-8",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2016-01-05",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "16",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "Global Health",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "13",
+      "journalId": "12889",
+      "onlineDate": "2016-01-05",
+      "coverDate": "2015-12",
+      "copyright": "©2016 Tournier et al.",
+      "abstract": "Background This study aims to compare health status and quality of life five years after a road accident between casualties with whiplash versus other mild injuries, to compare evolution of quality of life at 1 and 5 years after the accident, and to explore the relation between initial injury (whiplash vs. other) and quality of life. Methods The study used data from the ESPARR cohort (a representative cohort of road accident casualties) and included 167 casualties with “pure” whiplash and a population of 185 casualties with other mild injuries (MAIS-1). All subjects with lesions classified as cervical contusion (AIS code 310402) or neck sprain (AIS code 640278) were considered as whiplash casualties. Diagnosis was made by physicians, at the outset of hospital care, based on interview, clinical findings and X-ray. Whiplash injuries were then classified following the Quebec classification (grades 1 and 2). Quality of life was assessed on the WHOQoL-Bref questionnaire. Correlations between explanatory variables and quality of life were explored by Poisson regression and variance analysis. Results Between 1 and 5 years, global QoL improved for both whiplash and non-whiplash casualties; but, considering the two whiplash groups separately, improvement in grade 2 was much less than in grade 1. At 5 years, grade-2 whiplash casualties were more dissatisfied with their health (39.4 %; p  < 0.05) than non-whiplash (24.3 %) or grade-1 whiplash casualties (27.0 %). Deteriorated quality of life in the mental, social and environmental domains was mainly related to psychological and socioeconomic factors for both whiplash and other mildly injured road-accident casualties. While PTSD was a major factor for the physical domain, whiplash remained a predictive factor after adjustment on PTSD; unsatisfactory health at 5 years, with deteriorated quality of life in the physical domain, was observed specifically in the whiplash group, pain playing a predominant intermediate role. Conclusions Deteriorated quality of life in the physical domain remained 5 years after the accident, specifically in the grade-2 whiplash group, pain playing a predominant intermediate role, which may be in line with the hypothesis of neuropathic pain.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Whiplash",
+        "Quality of life",
+        "Comparison",
+        "ESPARR Cohort",
+        "Prospective study",
+        "5 year follow-up",
+        "Mild injury",
+        "Road-accident injury"
+      ],
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "5 year follow-up",
+          "count": "1"
+        },
+        {
+          "value": "Comparison",
+          "count": "1"
+        },
+        {
+          "value": "ESPARR Cohort",
+          "count": "1"
+        },
+        {
+          "value": "Mild injury",
+          "count": "1"
+        },
+        {
+          "value": "Prospective study",
+          "count": "1"
+        },
+        {
+          "value": "Quality of life",
+          "count": "1"
+        },
+        {
+          "value": "Road-accident injury",
+          "count": "1"
+        },
+        {
+          "value": "Whiplash",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2016",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

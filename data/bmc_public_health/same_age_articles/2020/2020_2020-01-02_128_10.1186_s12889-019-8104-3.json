@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.685144",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8104-3",
+    "title": "Replicating state Quitline innovations to increase reach: findings from three states",
+    "article_number": "7",
+    "publication_date": "2020-01-06",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Paula A. Keller",
+      "Rebecca K. Lien",
+      "Laura A. Beebe",
+      "Jane Parker",
+      "Paola Klein",
+      "Randi B. Lachter",
+      "Stephen Gillaspy"
+    ]
+  },
+  "article_index": 128,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:33:26.113717"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:33:27.620165"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:33:28.917233"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:15:02.019024"
+    },
+    "last_updated": "2025-10-03T21:15:02.019215"
+  }
+}

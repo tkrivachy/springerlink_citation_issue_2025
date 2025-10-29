@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.730433",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07923-2",
+    "title": "The transcription factor STAT5 catalyzes Mannich ligation reactions yielding inhibitors of leukemic cell proliferation",
+    "article_number": "66",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ee Lin Wong",
+      "Eric Nawrotzky",
+      "Christoph Arkona",
+      "Boo Geun Kim",
+      "Samuel Beligny",
+      "Xinning Wang",
+      "Stefan Wagner",
+      "Michael Lisurek",
+      "Dirk Carstanjen",
+      "Jörg Rademann"
+    ]
+  },
+  "article_index": 489,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T17:18:57.545400"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:18:59.092595"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T17:19:00.383053"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T22:39:43.155660"
+    },
+    "last_updated": "2025-10-03T22:39:43.155720"
+  }
+}

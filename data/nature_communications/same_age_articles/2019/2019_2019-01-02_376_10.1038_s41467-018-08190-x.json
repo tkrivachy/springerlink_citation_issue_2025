@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.718308",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08190-x",
+    "title": "A macrophage-based screen identifies antibacterial compounds selective for intracellular ",
+    "article_number": "197",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Michael J. Ellis",
+      "Caressa N. Tsai",
+      "Jarrod W. Johnson",
+      "Shawn French",
+      "Wael Elhenawy",
+      "Steffen Porwollik",
+      "Helene Andrews-Polymenis",
+      "Michael McClelland",
+      "Jakob Magolan",
+      "Brian K. Coombes",
+      "Eric D. Brown"
+    ]
+  },
+  "article_index": 376,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T17:47:39.463187"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:47:41.015052"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T17:47:42.344875"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T22:49:27.311168"
+    },
+    "last_updated": "2025-10-03T22:49:27.311392"
+  }
+}

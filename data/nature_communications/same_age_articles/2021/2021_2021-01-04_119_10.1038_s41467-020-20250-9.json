@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.193692",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20250-9",
+    "title": "Hydroxamic acid-modified peptide microarrays for profiling isozyme-selective interactions and inhibition of histone deacetylases",
+    "article_number": "62",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Carlos Moreno-Yruela",
+      "Michael Bæk",
+      "Adela-Eugenie Vrsanova",
+      "Clemens Schulte",
+      "Hans M. Maric",
+      "Christian A. Olsen"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:38:52.865038"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:38:54.448063"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:38:55.646227"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:06:58.909782"
+    },
+    "last_updated": "2025-10-03T23:06:58.909971"
+  }
+}

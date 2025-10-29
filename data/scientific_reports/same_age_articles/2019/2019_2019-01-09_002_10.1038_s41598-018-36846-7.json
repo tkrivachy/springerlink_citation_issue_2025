@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:40:57.086236",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-09",
+  "article_data": {
+    "doi": "10.1038/s41598-018-36846-7",
+    "title": "A novel scaffold for EGFR inhibition: Introducing ",
+    "article_number": "14",
+    "publication_date": "2019-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Daniel Nascimento do Amaral",
+      "Jonas Lategahn",
+      "Harold Hilarion Fokoue",
+      "Eduardo Miguez Bastos da Silva",
+      "Carlos Mauricio R. Sant’Anna",
+      "Daniel Rauh",
+      "Eliezer J. Barreiro",
+      "Stefan Laufer",
+      "Lidia Moreira Lima"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:22:16.789701"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:22:18.340798"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:22:19.611954"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T21:32:16.779381"
+    },
+    "last_updated": "2025-10-03T21:32:16.779457"
+  }
+}

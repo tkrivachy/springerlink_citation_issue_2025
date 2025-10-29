@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221156",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80420-z",
+    "title": "Unveiling the neuromechanical mechanisms underlying the synergistic interactions in human sensorimotor system",
+    "article_number": "203",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "S. Honarvar",
+      "C. Kim",
+      "Y. Diaz-Mercado",
+      "K. Koh",
+      "H. J. Kwon",
+      "T. Kiemel",
+      "M. Caminita",
+      "J. O. Hahn",
+      "J. K. Shim"
+    ]
+  },
+  "article_index": 119,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:39:52.547426"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:39:54.139568"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:39:55.330810"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:39:21.081611"
+    },
+    "last_updated": "2025-10-03T21:39:21.081662"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.850594",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50922-7",
+    "title": "The local variation of the Gaussian modulus enables different pathways for fluid lipid vesicle fusion",
+    "article_number": "23",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Matteo Bottacchiari",
+      "Mirko Gallo",
+      "Marco Bussoletti",
+      "Carlo Massimo Casciola"
+    ]
+  },
+  "article_index": 229,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:48:36.592460"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:48:38.095875"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:48:39.255283"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:07:20.289121"
+    },
+    "last_updated": "2025-10-03T22:07:20.289195"
+  }
+}

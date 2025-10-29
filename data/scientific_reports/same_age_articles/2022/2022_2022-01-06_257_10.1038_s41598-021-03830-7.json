@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.884370",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03830-7",
+    "title": "Assessing cerebral blood flow, oxygenation and cytochrome c oxidase stability in preterm infants during the first 3 days after birth",
+    "article_number": "181",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ajay Rajaram",
+      "Daniel Milej",
+      "Marianne Suwalski",
+      "Lilian Kebaya",
+      "Matthew Kewin",
+      "Lawrence Yip",
+      "Sandrine de Ribaupierre",
+      "Victor Han",
+      "Mamadou Diop",
+      "Soume Bhattacharya",
+      "Keith St. Lawrence"
+    ]
+  },
+  "article_index": 257,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:19:24.678140"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:19:26.236249"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:19:27.433393"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T21:55:38.487161"
+    },
+    "last_updated": "2025-10-03T21:55:38.487215"
+  }
+}

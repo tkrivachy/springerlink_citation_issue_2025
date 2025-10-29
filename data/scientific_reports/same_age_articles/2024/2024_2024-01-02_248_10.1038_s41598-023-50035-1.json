@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.858906",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50035-1",
+    "title": "Cytokine signature in convalescent SARS-CoV-2 patients with inflammatory bowel disease receiving vedolizumab",
+    "article_number": "186",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Simone Dallari",
+      "Vicky Martinez Pazos",
+      "Juan Munoz Eusse",
+      "Judith Wellens",
+      "Craig Thompson",
+      "Jean-Frederic Colombel",
+      "Jack Satsangi",
+      "Ken Cadwell",
+      "Serre-Yu Wong",
+      "Jessica Anne Neil",
+      "Jessica Anne Neil",
+      "Stela Sota",
+      "Kyung Ku Jang",
+      "Krystal Ching",
+      "Mericien Venzon",
+      "Xiaomin Yao",
+      "Lucie Bernard",
+      "Xin Chen",
+      "Michael Tankelevich",
+      "Reema Navalurkar",
+      "Rebekah Dixon",
+      "Drew S. Helmus",
+      "Marcia Mukanga Lange",
+      "Emily Spiera",
+      "Lodoe Sangmo"
+    ]
+  },
+  "article_index": 248,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:35:55.210796"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:35:56.728136"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:35:57.912650"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:02:12.797265"
+    },
+    "last_updated": "2025-10-03T22:02:12.797502"
+  }
+}

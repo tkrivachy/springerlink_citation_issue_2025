@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.877186",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13946-0",
+    "title": "Conversion of a conventional superconductor into a topological superconductor by topological proximity effect",
+    "article_number": "159",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "C. X. Trang",
+      "N. Shimamura",
+      "K. Nakayama",
+      "S. Souma",
+      "K. Sugawara",
+      "I. Watanabe",
+      "K. Yamauchi",
+      "T. Oguchi",
+      "K. Segawa",
+      "T. Takahashi",
+      "Yoichi Ando",
+      "T. Sato"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:13:28.284023"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T18:13:29.794861"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T18:13:31.000476"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T22:58:14.500269"
+    },
+    "last_updated": "2025-10-03T22:58:14.500366"
+  }
+}

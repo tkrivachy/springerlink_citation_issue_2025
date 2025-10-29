@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.346280",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84188-4",
+    "title": "Sex differences in aggression and its neural substrate in a cichlid fish",
+    "article_number": "84",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lillian R. Jackson",
+      "Mariam Dumitrascu",
+      "Beau A. Alward"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:04:35.224386"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:04:36.738413"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:04:37.904915"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:34:35.521189"
+    },
+    "last_updated": "2025-10-03T22:34:35.521416"
+  }
+}

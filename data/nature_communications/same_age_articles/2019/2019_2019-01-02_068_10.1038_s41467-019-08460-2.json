@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.684297",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08460-2",
+    "title": "Enhanced strength–ductility synergy in ultrafine-grained eutectic high-entropy alloys by inheriting microstructural lamellae",
+    "article_number": "489",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Peijian Shi",
+      "Weili Ren",
+      "Tianxiang Zheng",
+      "Zhongming Ren",
+      "Xueling Hou",
+      "Jianchao Peng",
+      "Pengfei Hu",
+      "Yanfei Gao",
+      "Yunbo Zhong",
+      "Peter K. Liaw"
+    ]
+  },
+  "article_index": 68,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 722,
+      "retrieved_at": "2025-10-03T17:18:17.276879"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 760,
+      "retrieved_at": "2025-10-03T17:18:18.824515"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 655,
+      "retrieved_at": "2025-10-03T17:18:20.697621"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 786,
+      "retrieved_at": "2025-10-03T22:39:31.661666"
+    },
+    "last_updated": "2025-10-03T22:39:31.661857"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.643271",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10206-z",
+    "title": "Subjective sleep quality and association with depression syndrome, chronic diseases and health-related physical fitness in the middle-aged and elderly",
+    "article_number": "164",
+    "publication_date": "2021-01-19",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Min-Fang Hsu",
+      "Kang-Yun Lee",
+      "Tsung-Ching Lin",
+      "Wen-Te Liu",
+      "Shu-Chuan Ho"
+    ]
+  },
+  "article_index": 111,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T14:00:48.719914"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T14:00:50.232306"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:00:51.555088"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T21:24:48.049881"
+    },
+    "last_updated": "2025-10-03T21:24:48.050067"
+  }
+}

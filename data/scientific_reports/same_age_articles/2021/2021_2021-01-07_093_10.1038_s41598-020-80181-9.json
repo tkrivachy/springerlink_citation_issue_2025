@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.215418",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80181-9",
+    "title": "Sensitive detection of extremely small iron oxide nanoparticles in living mice using MP2RAGE with advanced image co-registration",
+    "article_number": "106",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Joong H. Kim",
+      "Stephen Dodd",
+      "Frank Q. Ye",
+      "Andrew K. Knutsen",
+      "Duong Nguyen",
+      "Haitao Wu",
+      "Shiran Su",
+      "Simone Mastrogiacomo",
+      "Thomas J. Esparza",
+      "Rolf E. Swenson",
+      "David L. Brody"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:40:56.380107"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:40:57.894217"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:40:59.059221"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:39:48.410721"
+    },
+    "last_updated": "2025-10-03T21:39:48.410916"
+  }
+}

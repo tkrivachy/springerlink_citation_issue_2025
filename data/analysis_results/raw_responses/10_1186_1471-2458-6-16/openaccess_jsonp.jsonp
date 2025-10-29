@@ -1,0 +1,202 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/1471-2458-6-16",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/1471-2458-6-16",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/1471-2458-6-16"
+        }
+      ],
+      "title": "All-cause and Cardiovascular mortality among ethnic German immigrants from the Former Soviet Union: a cohort study",
+      "creators": [
+        {
+          "creator": "Ronellenfitsch, Ulrich"
+        },
+        {
+          "creator": "Kyobutungi, Catherine"
+        },
+        {
+          "creator": "Becher, Heiko"
+        },
+        {
+          "creator": "Razum, Oliver"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "doi": "10.1186/1471-2458-6-16",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2006-01-26",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "6",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "12",
+      "journalId": "12889",
+      "openAccess": "true",
+      "onlineDate": "2006-01-26",
+      "coverDate": "2006-12",
+      "copyright": "©2006 Ronellenfitsch et al; licensee BioMed Central Ltd.",
+      "abstract": {
+        "h1": "Abstract",
+        "p": [
+          "Background",
+          "Migration is a phenomenon of particular Public Health importance. Since 1990, almost 2 million ethnic Germans ( Aussiedler ) have migrated from the former Soviet Union (FSU) to Germany. This study compares their overall and cardiovascular disease (CVD) mortality to that of Germany's general population. Because of high overall and CVD mortality in the FSU and low socio-economic status of Aussiedler in Germany, we hypothesize that their mortality is higher.",
+          "Methods",
+          "We conducted a retrospective cohort study for 1990–2002 with data of 34,393 Aussiedler . We assessed vital status at population registries and causes of death at the state statistical office. We calculated standardized mortality ratios (SMRs) for the whole cohort and substrata of covariables such as age, sex and family size. To assess multivariate effects, we used Poisson regression.",
+          "Results",
+          "1657 cohort members died before December 31, 2002, and 680 deaths (41.03%) were due to CVD. The SMR for the whole cohort was 0.85 (95%-CI 0.81–0.89) for all causes of death and 0.79 (95%-CI 0.73–0.85) for CVD. SMRs were higher than one for younger Aussiedler and lower for older ones. There was no clear effect of duration of stay on SMRs. For 1990–93, SMRs were significantly lower than in subsequent years. In families comprising at least five members upon arrival in Germany, SMRs were significantly lower than in smaller families.",
+          "Conclusion",
+          "In contrast to our hypothesis on migrants' health, overall and CVD mortality among Aussiedler is lower than in Germany's general population. Possible explanations are a substantially better health status of Aussiedler in the FSU as compared to the local average, a higher perceived socio-economic status of Aussiedler in Germany, or selection effects. SMR differences between substrata need further exploration, and risk factor data are needed."
+        ]
+      },
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Cohort Member",
+          "count": "1"
+        },
+        {
+          "value": "Former Soviet Union",
+          "count": "1"
+        },
+        {
+          "value": "Healthy Migrant Effect",
+          "count": "1"
+        },
+        {
+          "value": "Host Country",
+          "count": "1"
+        },
+        {
+          "value": "Risk Factor Profile",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2006",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

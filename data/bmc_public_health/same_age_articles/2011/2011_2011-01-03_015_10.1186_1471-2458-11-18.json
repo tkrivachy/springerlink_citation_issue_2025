@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.825789",
+  "year": 2011,
+  "article_type": "comparison",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-18",
+    "title": "Internet-based Self-Assessment after the Tsunami: lessons learned",
+    "article_number": "18",
+    "publication_date": "2011-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Stefan Vetter",
+      "Astrid Rossegger",
+      "Thomas Elbert",
+      "Juliane Gerth",
+      "Frank Urbaniok",
+      "Arja Laubacher",
+      "Wulf Rossler",
+      "Jérôme Endrass"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T12:42:27.201228"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T12:42:28.777137"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T12:42:30.054982"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T20:56:26.713026"
+    },
+    "last_updated": "2025-10-03T20:56:26.713115"
+  }
+}

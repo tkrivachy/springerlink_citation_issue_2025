@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.831825",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49063-8",
+    "title": "Evaluating the hidden potential of deashed biochar in mitigating salinity stress for cultivation of fenugreek",
+    "article_number": "141",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shoucheng Huang",
+      "Ping Huang",
+      "Misbah Hareem",
+      "Muhammad Tahzeeb-ul-Hassan",
+      "Uzma Younis",
+      "Khadim Dawar",
+      "Shah Fahad",
+      "Saleh H. Salmen",
+      "Mohammad Javed Ansari",
+      "Subhan Danish"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T16:00:06.742253"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T16:00:08.250508"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T16:00:09.503571"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T22:11:36.792550"
+    },
+    "last_updated": "2025-10-03T22:11:36.792738"
+  }
+}

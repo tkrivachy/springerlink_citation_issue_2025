@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.878404",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13837-4",
+    "title": "Sensing of HIV-1 by TLR8 activates human T cells and reverses latency",
+    "article_number": "147",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hany Zekaria Meås",
+      "Markus Haug",
+      "Marianne Sandvold Beckwith",
+      "Claire Louet",
+      "Liv Ryan",
+      "Zhenyi Hu",
+      "Johannes Landskron",
+      "Svein Arne Nordbø",
+      "Kjetil Taskén",
+      "Hang Yin",
+      "Jan Kristian Damås",
+      "Trude Helen Flo"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T18:15:57.656423"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T18:15:59.214012"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T18:16:00.541261"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T22:59:06.359619"
+    },
+    "last_updated": "2025-10-03T22:59:06.359808"
+  }
+}

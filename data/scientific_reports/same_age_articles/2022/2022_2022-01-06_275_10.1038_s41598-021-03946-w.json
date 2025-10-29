@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.886207",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03946-w",
+    "title": "Network models of prostate cancer immune microenvironments identify ROMO1 as heterogeneity and prognostic marker",
+    "article_number": "192",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lei Wang",
+      "Xudong Liu",
+      "Zhe Liu",
+      "Yafan Wang",
+      "Mengdi Fan",
+      "Jinyue Yin",
+      "Yu Zhang",
+      "Ying Ma",
+      "Jia Luo",
+      "Rui Li",
+      "Xue Zhao",
+      "Peiju Zhang",
+      "Lijun Zhao",
+      "Jinke Fan",
+      "Yuxuan Chen",
+      "Wei Lu",
+      "Xinqiang Song"
+    ]
+  },
+  "article_index": 275,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:12:24.125656"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:12:25.651933"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:12:26.937346"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:52:23.040817"
+    },
+    "last_updated": "2025-10-03T21:52:23.041005"
+  }
+}

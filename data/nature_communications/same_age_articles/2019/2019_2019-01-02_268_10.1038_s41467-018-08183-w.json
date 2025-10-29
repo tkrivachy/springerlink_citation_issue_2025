@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.706596",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08183-w",
+    "title": "tACS motor system effects can be caused by transcutaneous stimulation of peripheral nerves",
+    "article_number": "266",
+    "publication_date": "2019-01-17",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Boateng Asamoah",
+      "Ahmad Khatoun",
+      "Myles Mc Laughlin"
+    ]
+  },
+  "article_index": 268,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:51:32.065315"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 228,
+      "retrieved_at": "2025-10-03T17:51:33.606263"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 221,
+      "retrieved_at": "2025-10-03T17:51:34.791389"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 250,
+      "retrieved_at": "2025-10-03T22:50:46.553438"
+    },
+    "last_updated": "2025-10-03T22:50:46.553527"
+  }
+}

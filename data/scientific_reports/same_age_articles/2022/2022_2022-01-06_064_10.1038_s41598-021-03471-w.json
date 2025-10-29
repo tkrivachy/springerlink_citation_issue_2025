@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.861056",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03471-w",
+    "title": "High ",
+    "article_number": "77",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hui-Ju Chang",
+      "Ueng-Cheng Yang",
+      "Mei-Yu Lai",
+      "Chen-Hsin Chen",
+      "Yang-Cheng Fann"
+    ]
+  },
+  "article_index": 64,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:10:23.408727"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:10:24.991411"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:10:26.151508"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:51:28.448181"
+    },
+    "last_updated": "2025-10-03T21:51:28.448401"
+  }
+}

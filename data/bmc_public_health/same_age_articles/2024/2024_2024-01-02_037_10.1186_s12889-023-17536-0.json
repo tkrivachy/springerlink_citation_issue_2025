@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:53.378355",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-023-17536-0",
+    "title": "A response playbook for early detection and population surveillance of new SARS-CoV-2 variants in a regional public health laboratory",
+    "article_number": "59",
+    "publication_date": "2024-01-02",
+    "volume": "24",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Hannah J. Barbian",
+      "Alyse Kittner",
+      "Richard Teran",
+      "Sofiya Bobrovska",
+      "Xueting Qiu",
+      "Kayla English",
+      "Stefan J. Green",
+      "Isaac Ghinai",
+      "Massimo Pacilli",
+      "Mary K. Hayden"
+    ]
+  },
+  "article_index": 37,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T14:17:46.596500"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:17:48.208819"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:17:49.433228"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:30:43.736291"
+    },
+    "last_updated": "2025-10-03T21:30:43.736518"
+  }
+}

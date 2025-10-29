@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.590563",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12361-9",
+    "title": "Medicines and vaccines supply chains challenges in Nigeria: a scoping review",
+    "article_number": "11",
+    "publication_date": "2022-01-05",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Victory O. Olutuase",
+      "Chinwe J. Iwu-Jaja",
+      "Cynthia P. Akuoko",
+      "Emmanuel O. Adewuyi",
+      "Vishnu Khanal"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T14:05:43.569703"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T14:05:45.075620"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:05:46.369167"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T21:26:32.308368"
+    },
+    "last_updated": "2025-10-03T21:26:32.308559"
+  }
+}

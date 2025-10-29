@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536855",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55376-7",
+    "title": "Overcoming optical losses in thin metal-based recombination layers for efficient n-i-p perovskite-organic tandem solar cells",
+    "article_number": "154",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jingjing Tian",
+      "Chao Liu",
+      "Karen Forberich",
+      "Anastasia Barabash",
+      "Zhiqiang Xie",
+      "Shudi Qiu",
+      "Jiwon Byun",
+      "Zijian Peng",
+      "Kaicheng Zhang",
+      "Tian Du",
+      "Sanjayan Sathasivam",
+      "Thomas J. Macdonald",
+      "Lirong Dong",
+      "Chaohui Li",
+      "Jiyun Zhang",
+      "Marcus Halik",
+      "Vincent M. Le Corre",
+      "Andres Osvet",
+      "Thomas Heumüller",
+      "Ning Li",
+      "Yinhua Zhou",
+      "Larry Lüer",
+      "Christoph J. Brabec"
+    ]
+  },
+  "article_index": 176,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:23:28.345791"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:23:30.039149"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:23:31.214276"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T23:21:59.039798"
+    },
+    "last_updated": "2025-10-03T23:21:59.040002"
+  }
+}

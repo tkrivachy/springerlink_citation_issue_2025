@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301034",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57081-8",
+    "title": "Quantum dephasing induced by non-Markovian random telegraph noise",
+    "article_number": "88",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xiangji Cai"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T14:23:36.273845"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T14:23:37.819566"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T14:23:44.148901"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T21:32:46.244261"
+    },
+    "last_updated": "2025-10-03T21:32:46.244494"
+  }
+}

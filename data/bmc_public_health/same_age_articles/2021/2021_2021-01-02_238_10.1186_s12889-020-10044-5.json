@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.656980",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10044-5",
+    "title": "Lifestyle, psychological stress, and incidence of adolescent constipation: results from the Toyama birth cohort study",
+    "article_number": "47",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Masaaki Yamada",
+      "Michikazu Sekine",
+      "Takashi Tatsuse",
+      "Yuko Fujimura"
+    ]
+  },
+  "article_index": 238,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:54:25.378407"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:54:26.906770"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:54:28.166395"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:22:31.803317"
+    },
+    "last_updated": "2025-10-03T21:22:31.803518"
+  }
+}

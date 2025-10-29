@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.729205",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07829-z",
+    "title": "Histone H3 binding to the PHD1 domain of histone demethylase KDM5A enables active site remodeling",
+    "article_number": "94",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "James E. Longbotham",
+      "Cynthia M. Chio",
+      "Venkatasubramanian Dharmarajan",
+      "Michael J. Trnka",
+      "Idelisse Ortiz Torres",
+      "Devrishi Goswami",
+      "Karen Ruiz",
+      "Alma L. Burlingame",
+      "Patrick R. Griffin",
+      "Danica Galonić Fujimori"
+    ]
+  },
+  "article_index": 478,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:53:12.406199"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T17:53:13.978004"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:53:15.170654"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T22:51:26.289161"
+    },
+    "last_updated": "2025-10-03T22:51:26.289391"
+  }
+}

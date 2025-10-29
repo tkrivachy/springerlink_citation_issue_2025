@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.197344",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20303-z",
+    "title": "Hepatocyte-specific IL11 cis-signaling drives lipotoxicity and underlies the transition from NAFLD to NASH",
+    "article_number": "66",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinrui Dong",
+      "Sivakumar Viswanathan",
+      "Eleonora Adami",
+      "Brijesh K. Singh",
+      "Sonia P. Chothani",
+      "Benjamin Ng",
+      "Wei Wen Lim",
+      "Jin Zhou",
+      "Madhulika Tripathi",
+      "Nicole S. J. Ko",
+      "Shamini G. Shekeran",
+      "Jessie Tan",
+      "Sze Yun Lim",
+      "Mao Wang",
+      "Pei Min Lio",
+      "Paul M. Yen",
+      "Sebastian Schafer",
+      "Stuart A. Cook",
+      "Anissa A. Widjaja"
+    ]
+  },
+  "article_index": 144,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T18:32:02.698522"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T18:32:04.253531"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T18:32:05.652848"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T23:04:42.744869"
+    },
+    "last_updated": "2025-10-03T23:04:42.745061"
+  }
+}

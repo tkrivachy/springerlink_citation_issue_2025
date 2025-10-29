@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.673579",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44116-y",
+    "title": "ECOLE: Learning to call copy number variants on whole exome sequencing data",
+    "article_number": "132",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Berk Mandiracioglu",
+      "Furkan Ozden",
+      "Gun Kaynar",
+      "Mehmet Alper Yilmaz",
+      "Can Alkan",
+      "A. Ercument Cicek"
+    ]
+  },
+  "article_index": 71,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:03:53.966434"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:03:55.537459"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:03:56.822240"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:15:20.636745"
+    },
+    "last_updated": "2025-10-03T23:15:20.636805"
+  }
+}

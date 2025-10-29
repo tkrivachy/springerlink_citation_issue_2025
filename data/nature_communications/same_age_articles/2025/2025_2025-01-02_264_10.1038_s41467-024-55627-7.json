@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.552179",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55627-7",
+    "title": "High-entropy alloys catalyzing polymeric transformation of water pollutants with remarkably improved electron utilization efficiency",
+    "article_number": "148",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ziwei Yao",
+      "Yidi Chen",
+      "Xiaodan Wang",
+      "Kunsheng Hu",
+      "Shiying Ren",
+      "Jinqiang Zhang",
+      "Zhao Song",
+      "Nanqi Ren",
+      "Xiaoguang Duan"
+    ]
+  },
+  "article_index": 264,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T19:35:29.544032"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T19:35:31.063488"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:35:32.236599"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T23:25:51.851690"
+    },
+    "last_updated": "2025-10-03T23:25:51.851879"
+  }
+}

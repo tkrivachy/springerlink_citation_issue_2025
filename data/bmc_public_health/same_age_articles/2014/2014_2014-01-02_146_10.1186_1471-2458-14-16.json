@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.763035",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-16",
+    "title": "Mental health problems in the 10",
+    "article_number": "16",
+    "publication_date": "2014-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Åse Sagatun",
+      "Sonja Heyerdahl",
+      "Tore Wentzel-Larsen",
+      "Lars Lien"
+    ]
+  },
+  "article_index": 146,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T12:54:18.404093"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T12:54:19.966504"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T12:54:21.319642"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T21:00:40.499869"
+    },
+    "last_updated": "2025-10-03T21:00:40.499965"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687956",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08326-7",
+    "title": "Indirect tail states formation by thermal-induced polar fluctuations in halide perovskites",
+    "article_number": "484",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bo Wu",
+      "Haifeng Yuan",
+      "Qiang Xu",
+      "Julian A. Steele",
+      "David Giovanni",
+      "Pascal Puech",
+      "Jianhui Fu",
+      "Yan Fong Ng",
+      "Nur Fadilah Jamaludin",
+      "Ankur Solanki",
+      "Subodh Mhaisalkar",
+      "Nripan Mathews",
+      "Maarten B. J. Roeffaers",
+      "Michael Grätzel",
+      "Johan Hofkens",
+      "Tze Chien Sum"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T18:07:28.011054"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T18:07:29.557886"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:07:30.949180"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T22:56:27.499967"
+    },
+    "last_updated": "2025-10-03T22:56:27.500043"
+  }
+}

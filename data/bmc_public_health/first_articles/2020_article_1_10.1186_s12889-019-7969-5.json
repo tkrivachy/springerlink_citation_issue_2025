@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:53:55.317571",
+  "year": 2020,
+  "article_type": "article_1",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-7969-5",
+    "title": "Correlates, facilitators and barriers of physical activity among primary care patients with prediabetes in Singapore – a mixed methods approach",
+    "article_number": "1",
+    "publication_date": "2020-01-02",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Raymond Boon Tar Lim",
+      "Wei Keong Wee",
+      "Wei Chek For",
+      "Jayalakshmy Aarthi Ananthanarayanan",
+      "Ying Hua Soh",
+      "Lynette Mei Lim Goh",
+      "Dede Kam Tyng Tham",
+      "Mee Lian Wong"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 454,
+      "retrieved_at": "2025-10-03T13:28:24.895499"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 401,
+      "retrieved_at": "2025-10-03T13:28:26.477731"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 533,
+      "retrieved_at": "2025-10-03T13:28:28.319430"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 534,
+      "retrieved_at": "2025-10-03T21:13:12.936618"
+    },
+    "last_updated": "2025-10-03T21:13:12.936704"
+  }
+}

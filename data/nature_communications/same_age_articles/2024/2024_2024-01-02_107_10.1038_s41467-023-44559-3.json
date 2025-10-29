@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.677574",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44559-3",
+    "title": "ApoL6 associates with lipid droplets and disrupts Perilipin1-HSL interaction to inhibit lipolysis",
+    "article_number": "186",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuhui Wang",
+      "Hai P. Nguyen",
+      "Pengya Xue",
+      "Ying Xie",
+      "Danielle Yi",
+      "Frances Lin",
+      "Jennie Dinh",
+      "Jose A. Viscarra",
+      "Nnejiuwa U. Ibe",
+      "Robin E. Duncan",
+      "Hei S. Sul"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:56:36.750528"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:56:38.321613"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:56:39.523076"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:12:54.050423"
+    },
+    "last_updated": "2025-10-03T23:12:54.050485"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.705687",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07774-x",
+    "title": "Structure and electrochromism of two-dimensional octahedral molecular sieve h’-WO",
+    "article_number": "327",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Julie Besnardiere",
+      "Binghua Ma",
+      "Almudena Torres-Pardo",
+      "Gilles Wallez",
+      "Houria Kabbour",
+      "José M. González-Calbet",
+      "Hans Jürgen Von Bardeleben",
+      "Benoit Fleury",
+      "Valérie Buissette",
+      "Clément Sanchez",
+      "Thierry Le Mercier",
+      "Sophie Cassaignon",
+      "David Portehault"
+    ]
+  },
+  "article_index": 261,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:27:36.633126"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 117,
+      "retrieved_at": "2025-10-03T17:27:38.156759"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 107,
+      "retrieved_at": "2025-10-03T17:27:39.518386"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 119,
+      "retrieved_at": "2025-10-03T22:42:42.857165"
+    },
+    "last_updated": "2025-10-03T22:42:42.857253"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.705100",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08195-6",
+    "title": "Ocean temperature impact on ice shelf extent in the eastern Antarctic Peninsula",
+    "article_number": "304",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Johan Etourneau",
+      "Giovanni Sgubin",
+      "Xavier Crosta",
+      "Didier Swingedouw",
+      "Verónica Willmott",
+      "Loïc Barbara",
+      "Marie-Noëlle Houssais",
+      "Stefan Schouten",
+      "Jaap S. Sinninghe Damsté",
+      "Hugues Goosse",
+      "Carlota Escutia",
+      "Julien Crespin",
+      "Guillaume Massé",
+      "Jung-Hyun Kim"
+    ]
+  },
+  "article_index": 257,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T17:52:15.082386"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T17:52:16.606158"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T17:52:17.757472"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T22:51:02.015660"
+    },
+    "last_updated": "2025-10-03T22:51:02.015860"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.888605",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04203-w",
+    "title": "Theoretical studies on the two-photon absorption of II–VI semiconductor nano clusters",
+    "article_number": "110",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Deyang Yu",
+      "YangYang Hu",
+      "Guiling Zhang",
+      "Weiqi Li",
+      "Yongyuan Jiang"
+    ]
+  },
+  "article_index": 298,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:10:40.221417"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:10:41.755053"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:10:42.930009"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:51:35.897227"
+    },
+    "last_updated": "2025-10-03T21:51:35.897276"
+  }
+}

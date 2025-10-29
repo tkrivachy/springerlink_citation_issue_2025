@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "json",
+  "test_doi": "10.1038/s41467-019-13720-2",
+  "safe_doi": "10_1038_s41467-019-13720-2",
+  "timestamp": "2025-10-20 14:08:03",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5422654151916504,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/json",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41467-019-13720-2",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'openAccess', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'subjects', 'disciplines']\ndoi: 10.1038/s41467-019-13720-2...\ntitle: Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heter...\ncreators: [{'creator': 'Wang, Wenzhong'}, {'creator': 'Xu, Yinhan'}, {'ORCID': '0000-0003-4461-4664', 'creator...\npublicationName: Nature Communications...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "openaccess_json.json"
+}

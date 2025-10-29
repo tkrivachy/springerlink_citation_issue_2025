@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535468",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55448-8",
+    "title": "diaTracer enables spectrum-centric analysis of diaPASEF proteomics data",
+    "article_number": "95",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kai Li",
+      "Guo Ci Teo",
+      "Kevin L. Yang",
+      "Fengchao Yu",
+      "Alexey I. Nesvizhskii"
+    ]
+  },
+  "article_index": 163,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:44:16.552862"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:44:18.096577"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:44:19.241086"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:29:06.043078"
+    },
+    "last_updated": "2025-10-03T23:29:06.043283"
+  }
+}

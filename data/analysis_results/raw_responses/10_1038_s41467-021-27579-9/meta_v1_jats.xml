@@ -1,0 +1,681 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-021-27579-9</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-021-27579-9</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">The 2018 European heatwave led to stem dehydration but not to consistent growth reductions in forests</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2674-1731</contrib-id>
+              <name name-style="western">
+                <surname>Salomón</surname>
+                <given-names>Roberto L.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Peters</surname>
+                <given-names>Richard L.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9438-0582</contrib-id>
+              <name name-style="western">
+                <surname>Zweifel</surname>
+                <given-names>Roman</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8479-3209</contrib-id>
+              <name name-style="western">
+                <surname>Sass-Klaassen</surname>
+                <given-names>Ute G. W.</given-names>
+              </name>
+              <address>
+                <email>ute.sassklaassen@wur.nl</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7955-5847</contrib-id>
+              <name name-style="western">
+                <surname>Stegehuis</surname>
+                <given-names>Annemiek I.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2324-0723</contrib-id>
+              <name name-style="western">
+                <surname>Smiljanic</surname>
+                <given-names>Marko</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0521-2523</contrib-id>
+              <name name-style="western">
+                <surname>Poyatos</surname>
+                <given-names>Rafael</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Babst</surname>
+                <given-names>Flurin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1254-4254</contrib-id>
+              <name name-style="western">
+                <surname>Cienciala</surname>
+                <given-names>Emil</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7070-3292</contrib-id>
+              <name name-style="western">
+                <surname>Fonti</surname>
+                <given-names>Patrick</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3032-8042</contrib-id>
+              <name name-style="western">
+                <surname>Lerink</surname>
+                <given-names>Bas J. W.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0770-003X</contrib-id>
+              <name name-style="western">
+                <surname>Lindner</surname>
+                <given-names>Marcus</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2332-7298</contrib-id>
+              <name name-style="western">
+                <surname>Martinez-Vilalta</surname>
+                <given-names>Jordi</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0840-1477</contrib-id>
+              <name name-style="western">
+                <surname>Mencuccini</surname>
+                <given-names>Maurizio</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9761-074X</contrib-id>
+              <name name-style="western">
+                <surname>Nabuurs</surname>
+                <given-names>Gert-Jan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au16">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5218-6682</contrib-id>
+              <name name-style="western">
+                <surname>van der Maaten</surname>
+                <given-names>Ernst</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au17">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8566-4599</contrib-id>
+              <name name-style="western">
+                <surname>von Arx</surname>
+                <given-names>Georg</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au18">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0059-3964</contrib-id>
+              <name name-style="western">
+                <surname>Bär</surname>
+                <given-names>Andreas</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au19">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8130-6137</contrib-id>
+              <name name-style="western">
+                <surname>Akhmetzyanov</surname>
+                <given-names>Linar</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au20">
+              <name name-style="western">
+                <surname>Balanzategui</surname>
+                <given-names>Daniel</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au21">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9602-4629</contrib-id>
+              <name name-style="western">
+                <surname>Bellan</surname>
+                <given-names>Michal</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au22">
+              <name name-style="western">
+                <surname>Bendix</surname>
+                <given-names>Jörg</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au23">
+              <name name-style="western">
+                <surname>Berveiller</surname>
+                <given-names>Daniel</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au24">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9743-614X</contrib-id>
+              <name name-style="western">
+                <surname>Blaženec</surname>
+                <given-names>Miroslav</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au25">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3922-2108</contrib-id>
+              <name name-style="western">
+                <surname>Čada</surname>
+                <given-names>Vojtěch</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au26">
+              <name name-style="western">
+                <surname>Carraro</surname>
+                <given-names>Vinicio</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au27">
+              <name name-style="western">
+                <surname>Cecchini</surname>
+                <given-names>Sébastien</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au28">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5700-7209</contrib-id>
+              <name name-style="western">
+                <surname>Chan</surname>
+                <given-names>Tommy</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au29">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3980-2142</contrib-id>
+              <name name-style="western">
+                <surname>Conedera</surname>
+                <given-names>Marco</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au30">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0906-9402</contrib-id>
+              <name name-style="western">
+                <surname>Delpierre</surname>
+                <given-names>Nicolas</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au31">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3442-1711</contrib-id>
+              <name name-style="western">
+                <surname>Delzon</surname>
+                <given-names>Sylvain</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au32">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5546-1918</contrib-id>
+              <name name-style="western">
+                <surname>Ditmarová</surname>
+                <given-names>Ľubica</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au33">
+              <name name-style="western">
+                <surname>Dolezal</surname>
+                <given-names>Jiri</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au34">
+              <name name-style="western">
+                <surname>Dufrêne</surname>
+                <given-names>Eric</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au35">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5163-1599</contrib-id>
+              <name name-style="western">
+                <surname>Edvardsson</surname>
+                <given-names>Johannes</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au36">
+              <name name-style="western">
+                <surname>Ehekircher</surname>
+                <given-names>Stefan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au37">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7123-6403</contrib-id>
+              <name name-style="western">
+                <surname>Forner</surname>
+                <given-names>Alicia</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au38">
+              <name name-style="western">
+                <surname>Frouz</surname>
+                <given-names>Jan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au39">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8670-6199</contrib-id>
+              <name name-style="western">
+                <surname>Ganthaler</surname>
+                <given-names>Andrea</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au40">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9632-9625</contrib-id>
+              <name name-style="western">
+                <surname>Gryc</surname>
+                <given-names>Vladimír</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au41">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8955-2770</contrib-id>
+              <name name-style="western">
+                <surname>Güney</surname>
+                <given-names>Aylin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au42">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5800-6999</contrib-id>
+              <name name-style="western">
+                <surname>Heinrich</surname>
+                <given-names>Ingo</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au43">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1257-885X</contrib-id>
+              <name name-style="western">
+                <surname>Hentschel</surname>
+                <given-names>Rainer</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au44">
+              <name name-style="western">
+                <surname>Janda</surname>
+                <given-names>Pavel</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au45">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0047-2123</contrib-id>
+              <name name-style="western">
+                <surname>Ježík</surname>
+                <given-names>Marek</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au46">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9677-5094</contrib-id>
+              <name name-style="western">
+                <surname>Kahle</surname>
+                <given-names>Hans-Peter</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au47">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9985-7650</contrib-id>
+              <name name-style="western">
+                <surname>Knüsel</surname>
+                <given-names>Simon</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au48">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2475-2111</contrib-id>
+              <name name-style="western">
+                <surname>Krejza</surname>
+                <given-names>Jan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au49">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9815-9746</contrib-id>
+              <name name-style="western">
+                <surname>Kuberski</surname>
+                <given-names>Łukasz</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au50">
+              <name name-style="western">
+                <surname>Kučera</surname>
+                <given-names>Jiří</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au51">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2040-6150</contrib-id>
+              <name name-style="western">
+                <surname>Lebourgeois</surname>
+                <given-names>François</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au52">
+              <name name-style="western">
+                <surname>Mikoláš</surname>
+                <given-names>Martin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au53">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7460-0100</contrib-id>
+              <name name-style="western">
+                <surname>Matula</surname>
+                <given-names>Radim</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au54">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3319-4396</contrib-id>
+              <name name-style="western">
+                <surname>Mayr</surname>
+                <given-names>Stefan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au55">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5197-7044</contrib-id>
+              <name name-style="western">
+                <surname>Oberhuber</surname>
+                <given-names>Walter</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au56">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6718-2756</contrib-id>
+              <name name-style="western">
+                <surname>Obojes</surname>
+                <given-names>Nikolaus</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au57">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2208-7285</contrib-id>
+              <name name-style="western">
+                <surname>Osborne</surname>
+                <given-names>Bruce</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au58">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3674-4904</contrib-id>
+              <name name-style="western">
+                <surname>Paljakka</surname>
+                <given-names>Teemu</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au59">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2442-8522</contrib-id>
+              <name name-style="western">
+                <surname>Plichta</surname>
+                <given-names>Roman</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au60">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2555-2496</contrib-id>
+              <name name-style="western">
+                <surname>Rabbel</surname>
+                <given-names>Inken</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au61">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7359-8320</contrib-id>
+              <name name-style="western">
+                <surname>Rathgeber</surname>
+                <given-names>Cyrille B. K.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au62">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4433-4021</contrib-id>
+              <name name-style="western">
+                <surname>Salmon</surname>
+                <given-names>Yann</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au63">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1965-8932</contrib-id>
+              <name name-style="western">
+                <surname>Saunders</surname>
+                <given-names>Matthew</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au64">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4933-5296</contrib-id>
+              <name name-style="western">
+                <surname>Scharnweber</surname>
+                <given-names>Tobias</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au65">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6354-6105</contrib-id>
+              <name name-style="western">
+                <surname>Sitková</surname>
+                <given-names>Zuzana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au66">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3255-6834</contrib-id>
+              <name name-style="western">
+                <surname>Stangler</surname>
+                <given-names>Dominik Florian</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au67">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9556-0144</contrib-id>
+              <name name-style="western">
+                <surname>Stereńczak</surname>
+                <given-names>Krzysztof</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au68">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4918-8668</contrib-id>
+              <name name-style="western">
+                <surname>Stojanović</surname>
+                <given-names>Marko</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au69">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7284-8244</contrib-id>
+              <name name-style="western">
+                <surname>Střelcová</surname>
+                <given-names>Katarína</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au70">
+              <name name-style="western">
+                <surname>Světlík</surname>
+                <given-names>Jan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au71">
+              <name name-style="western">
+                <surname>Svoboda</surname>
+                <given-names>Miroslav</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au72">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6697-3858</contrib-id>
+              <name name-style="western">
+                <surname>Tobin</surname>
+                <given-names>Brian</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au73">
+              <name name-style="western">
+                <surname>Trotsiuk</surname>
+                <given-names>Volodymyr</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au74">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1730-947X</contrib-id>
+              <name name-style="western">
+                <surname>Urban</surname>
+                <given-names>Josef</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au75">
+              <name name-style="western">
+                <surname>Valladares</surname>
+                <given-names>Fernando</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au76">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9386-9554</contrib-id>
+              <name name-style="western">
+                <surname>Vavrčík</surname>
+                <given-names>Hanuš</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au77">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6645-7674</contrib-id>
+              <name name-style="western">
+                <surname>Vejpustková</surname>
+                <given-names>Monika</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au78">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1790-8563</contrib-id>
+              <name name-style="western">
+                <surname>Walthert</surname>
+                <given-names>Lorenz</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au79">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4964-2402</contrib-id>
+              <name name-style="western">
+                <surname>Wilmking</surname>
+                <given-names>Martin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au80">
+              <name name-style="western">
+                <surname>Zin</surname>
+                <given-names>Ewa</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au81">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9635-0686</contrib-id>
+              <name name-style="western">
+                <surname>Zou</surname>
+                <given-names>Junliang</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au82">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6252-0704</contrib-id>
+              <name name-style="western">
+                <surname>Steppe</surname>
+                <given-names>Kathy</given-names>
+              </name>
+              <address>
+                <email>kathy.steppe@UGent.be</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>10</day>
+            <month>1</month>
+            <year>2022</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2022</year>
+          </pub-date>
+          <volume>13</volume>
+          <issue>1</issue>
+          <elocation-id>28</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-021-27579-9</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-021-27579-9.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2022</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Heatwaves exert disproportionately strong and sometimes irreversible impacts on forest ecosystems. These impacts remain poorly understood at the tree and species level and across large spatial scales. Here, we investigate the effects of the record-breaking 2018 European heatwave on tree growth and tree water status using a collection of high-temporal resolution dendrometer data from 21 species across 53 sites. Relative to the two preceding years, annual stem growth was not consistently reduced by the 2018 heatwave but stems experienced twice the temporary shrinkage due to depletion of water reserves. Conifer species were less capable of rehydrating overnight than broadleaves across gradients of soil and atmospheric drought, suggesting less resilience toward transient stress. In particular, Norway spruce and Scots pine experienced extensive stem dehydration. Our high-resolution dendrometer network was suitable to disentangle the effects of a severe heatwave on tree growth and desiccation at large-spatial scales in situ, and provided insights on which species may be more vulnerable to climate extremes.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Forest dynamics are monitored at large scales with remote sensing, but individual tree data are necessary for ground-truthing and mechanistic insights. This study on high temporal resolution dendrometer data across Europe reveals that the 2018 heatwave affected tree physiology and growth in unexpected way.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="06">Biological Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0602">Ecology</kwd>
+                <kwd content-type="term" vocab-term-identifier="0607">Plant Biology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="05">Environmental Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0501">Ecological Applications</kwd>
+                <kwd content-type="term" vocab-term-identifier="0502">Environmental Science and Management</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>COST Action network STReESS (grant FP1106)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

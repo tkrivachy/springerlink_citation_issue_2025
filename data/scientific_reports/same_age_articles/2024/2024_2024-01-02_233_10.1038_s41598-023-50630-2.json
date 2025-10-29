@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.851225",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50630-2",
+    "title": "Effects of poly (ADP-ribose) polymerase inhibitor treatment on the repair process of ischemic acute kidney injury",
+    "article_number": "159",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Junseok Jeon",
+      "Kyungho Lee",
+      "Hye Ryoun Jang",
+      "Kyeong Eun Yang",
+      "Cheol-Jung Lee",
+      "Hyeonju Ahn",
+      "Woong-Yang Park",
+      "Jung Eun Lee",
+      "Ghee Young Kwon",
+      "Yoon-Goo Kim",
+      "Wooseong Huh"
+    ]
+  },
+  "article_index": 233,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:44:26.221550"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:44:27.786478"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:44:28.956092"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:05:35.091722"
+    },
+    "last_updated": "2025-10-03T22:05:35.091915"
+  }
+}

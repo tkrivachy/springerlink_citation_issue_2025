@@ -1,0 +1,3280 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-020-80345-7</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-020-80345-7</article-id>
+          <article-id pub-id-type="manuscript">80345</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-020-80345-7</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/53/2421</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/337/176/1988</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">
+              Assessing 
+              <italic>ZNF154</italic>
+               methylation in patient plasma as a multicancer marker in liquid biopsies from colon, liver, ovarian and pancreatic cancer patients
+            </article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Miller</surname>
+                <given-names>Brendan F.</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Petrykowska</surname>
+                <given-names>Hanna M.</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au3">
+              <name name-style="western">
+                <surname>Elnitski</surname>
+                <given-names>Laura</given-names>
+              </name>
+              <address>
+                <email>elnitski@mail.nih.gov</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs41598020803457_cor3">c</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.94365.3d</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2297 5165</institution-id>
+                <institution content-type="org-division">Translational and Functional Genomics Branch, National Human Genome Research Institute</institution>
+                <institution content-type="org-name">National Institutes of Health</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">20892</addr-line>
+              <addr-line content-type="city">Bethesda</addr-line>
+              <addr-line content-type="state">MD</addr-line>
+              <country country="US">USA</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41598020803457_cor3">
+              <label>c</label>
+              <email>elnitski@mail.nih.gov</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>8</day>
+            <month>1</month>
+            <year>2021</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2021</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue seq="220">1</issue>
+          <elocation-id>221</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>21</day>
+              <month>12</month>
+              <year>2020</year>
+            </date>
+            <date date-type="received">
+              <day>4</day>
+              <month>8</month>
+              <year>2020</year>
+            </date>
+            <date date-type="accepted">
+              <day>8</day>
+              <month>12</month>
+              <year>2020</year>
+            </date>
+            <date date-type="online">
+              <day>8</day>
+              <month>1</month>
+              <year>2021</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2021</copyright-statement>
+            <copyright-year>2021</copyright-year>
+            <copyright-holder>This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              One epigenetic hallmark of many cancer types is differential DNA methylation occurring at multiple loci compared to normal tissue. Detection and assessment of the methylation state at a specific locus could be an effective cancer diagnostic. We assessed the effectiveness of hypermethylation at the CpG island of 
+              <italic>ZNF154</italic>
+              , a previously reported multi-cancer specific signature for use in a blood-based cancer detection assay. To predict its effectiveness, we compared methylation levels of 3698 primary tumors encompassing 11 solid cancers, 724 controls, 2711 peripheral blood cell samples, and 350 noncancer disease tissues from publicly available methylation array datasets. We performed a single-molecule high-resolution DNA melt analysis on 71 plasma samples from cancer patients and 20 noncancer individuals to assess 
+              <italic>ZNF154</italic>
+               methylation as a candidate diagnostic metric in liquid biopsy and compared results to 
+              <italic>KRAS</italic>
+               mutation frequency in the case of pancreatic carcinoma. We documented 
+              <italic>ZNF154</italic>
+               hypermethylation in early stage tumors, which did not increase in most noncancer disease or with respect to age or sex in peripheral blood cells, suggesting it is a promising target in liquid biopsy. 
+              <italic>ZNF154</italic>
+               cfDNA methylation discriminated cases from healthy donor plasma samples in minimal plasma volumes and outperformed 
+              <italic>KRAS</italic>
+               mutation frequency in pancreatic cancer.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1112">Oncology and Carcinogenesis</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Division of Intramural Research, National Human Genome Research Institute</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>24534</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>21</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2020_Article_80345.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-online-date-year</meta-name>
+              <meta-value>2022</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-online-date-month</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-online-date-day</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            Many cancer cases go undetected until patients develop symptoms, at which time the disease has often progressed to an advanced stage with poor treatment outcomes. For example, over half of patients with pancreatic cancer are diagnosed only after their disease has metastasized to sites distant from the original tumor, at which point the 5-year survival rate is only 3%
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . A molecular screening test capable of detecting cancer could allow patients to be diagnosed even in the absence of signs and symptoms, which could lead to earlier treatment and thus improved survival rates. Liquid biopsies, which detect circulating tumor cells or DNA (ctDNA) within a patient’s blood, hold great promise as the basis for such molecular screening tests: they are minimally invasive, convenient, and could potentially detect many different types of cancer at once. In addition, liquid biopsies can be performed when tissue biopsies are not feasible—because of the position of a tumor within the body, for example—and they may better capture the scope of tumor heterogeneity than do tissue biopsies
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . Before a liquid biopsy-based screening test is developed, however, suitable biomarkers must be developed. Here we test the suitability of one such candidate biomarker, DNA methylation at the 
+            <italic>ZNF154</italic>
+             locus, for this purpose; we initially discovered methylation near the transcriptional start site of this this gene in a search for a multicancer marker
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+              ,
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            , and it has subsequently been implicated as a tumor suppressor
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par3">
+            Historically, developing a ctDNA biomarker suitable for screening purposes has proven challenging. ctDNA-based liquid biopsies are already being used today as companion tests. For example, tests that detect 
+            <italic>EGFR</italic>
+             mutations in ctDNA have been approved to guide therapy for non-small cell lung cancer
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            . Blood-based screening tests must pass a more rigorous hurdle, however, as they have to be able to detect the very low amounts of ctDNA present in blood samples at all stages of cancer, preferably including the very earliest stages, and be sufficiently sensitive and specific for the target disease
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . Fortunately, increasingly sensitive technology is capable of detecting ever lower frequencies of ctDNA
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            , presenting new opportunities to increase the sensitivity of molecular screening tests if promising biomarkers are identified.
+          </p>
+          <p id="Par4">
+            Recently, methylation signatures have been shown to correctly classify cancer versus normal tissue samples with high accuracy in many types of cancer
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . Thus far in our analyses, 
+            <italic>ZNF154</italic>
+             shows promise as a pan-cancer biomarker suitable for blood-based screening. We have shown that 
+            <italic>ZNF154</italic>
+            , in particular, is methylated in 15 of 16 solid tumor types represented in the Cancer Genome Atlas (TCGA), whereas methylation levels in control samples are consistently low
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . Moreover, our in silico analyses suggest that 
+            <italic>ZNF154</italic>
+             methylation can be used to detect tumor signal in plasma samples as well, with a predicted AUC of up to 0.96 when ctDNA accounts for as little as 1% of cell-free DNA (cfDNA), for colon, lung, breast, stomach, and endometrial tumors
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par5">
+            The next logical step is to see whether 
+            <italic>ZNF154</italic>
+             methylation can be used to detect tumors of various types in actual patient plasma samples. In addition to verifying that 
+            <italic>ZNF154</italic>
+             methylation is elevated in the plasma of patients with cancer, it is important to establish that methylation of this gene is not correlated with demographic factors such as age or sex, as previous studies have found for other loci
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              , 
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              –
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+            . It will also be important to confirm that 
+            <italic>ZNF154</italic>
+             methylation is not elevated in the plasma of patients with non-cancer diseases. Thus, in this proof-of-concept study, we set out to determine whether 
+            <italic>ZNF154</italic>
+             methylation is a suitable biomarker for a multi-cancer, plasma-based screening test. We show that 
+            <italic>ZNF154</italic>
+             methylation is elevated in early-stage tissue samples from 10 different cancer types; is not meaningfully associated with age, sex, or non-cancer conditions; results in AUCs of up to 0.87 when used to identify plasma samples from cases versus healthy donors for multiple cancer types in the context of a liquid biopsy; and outperforms 
+            <italic>KRAS</italic>
+             mutations as a plasma biomarker for pancreatic cancer. Notably, our 
+            <italic>ZNF154</italic>
+             methylation detection method achieved 100% sensitivity and 80% specificity when used on plasma from patients with early-stage pancreatic adenocarcinoma, encouraging future studies to validate its effectiveness in early stage tumors.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec3">
+            <title>Samples and datasets</title>
+            <sec id="Sec4">
+              <title>
+                <italic>ZNF154</italic>
+                 hypermethylation and mutation frequency in tumor samples
+              </title>
+              <p id="Par6">
+                We analyzed 
+                <italic>ZNF154</italic>
+                 methylation at position cg21790626 in Illumina 450 K methylation array data derived from 3389 solid tumor samples from 10 solid tumor types and 27 K methylation array data from 302 ovarian carcinoma solid tumor samples, provided by The Cancer Genome Atlas (Table 
+                <xref rid="Tab1" ref-type="table">1</xref>
+                ). We also analyzed mutation data for the same samples using information from cBioPortal
+                <sup>
+                  <xref ref-type="bibr" rid="CR14">14</xref>
+                </sup>
+                . Only TCGA tumor types with both methylation array data and mutation data available were further studied.
+                <table-wrap id="Tab1">
+                  <label>Table 1</label>
+                  <caption xml:lang="en">
+                    <p>Illumina 450 K and 27 K methylation array data for tumor versus control tissue samples.</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left">
+                          <p>Cancer type</p>
+                        </th>
+                        <th align="left">
+                          <p>Description</p>
+                        </th>
+                        <th align="left">
+                          <p>Controls</p>
+                        </th>
+                        <th align="left">
+                          <p>Tumors</p>
+                        </th>
+                        <th align="left">
+                          <p>Pathological stage I tumors</p>
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            BLCA
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Bladder urothelial carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>21</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>130</p>
+                        </td>
+                        <td align="left">
+                          <p>2</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            BRCA
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Breast invasive carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>82</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>664</p>
+                        </td>
+                        <td align="left">
+                          <p>50</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            HNSC
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Head and neck squamous cell carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>45</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>510</p>
+                        </td>
+                        <td align="left">
+                          <p>23</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            KIRC
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Kidney renal clear cell carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>160</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>263</p>
+                        </td>
+                        <td align="left">
+                          <p>128</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            KIRP
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Kidney renal papillary cell carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>45</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>267</p>
+                        </td>
+                        <td align="left">
+                          <p>70</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            LIHC
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Liver hepatocellular carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>50</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>373</p>
+                        </td>
+                        <td align="left">
+                          <p>49</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            LUAD
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Lung adenocarcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>32</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>185</p>
+                        </td>
+                        <td align="left">
+                          <p>3</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            PAAD
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Pancreatic adenocarcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>10</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>150</p>
+                        </td>
+                        <td align="left">
+                          <p>21</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            PRAD
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Prostate adenocarcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>49</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>498</p>
+                        </td>
+                        <td align="left">
+                          <p>NA</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            STAD
+                            <sup>b</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Stomach adenocarcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>2</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>349</p>
+                        </td>
+                        <td align="left">
+                          <p>2</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            OV
+                            <sup>a</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Ovarian carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>12</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>302</p>
+                        </td>
+                        <td align="left">
+                          <p>NA</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            Serous_EOC
+                            <sup>c</sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Serous epithelial ovarian carcinoma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>216</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>7</p>
+                        </td>
+                        <td align="left">
+                          <p>7</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>
+                      <sup>a</sup>
+                      27 K methylation array data from TCGA.
+                    </p>
+                    <p>
+                      <sup>b</sup>
+                      450 K methylation array data from TCGA.
+                    </p>
+                    <p>
+                      <sup>c</sup>
+                      450 K methylation array data for serous subtype pathological stage I tumors (GSE72021)
+                      <sup>
+                        <xref ref-type="bibr" rid="CR15">15</xref>
+                      </sup>
+                       and fallopian tube controls (GSE74845)
+                      <sup>
+                        <xref ref-type="bibr" rid="CR16">16</xref>
+                      </sup>
+                      .
+                    </p>
+                  </table-wrap-foot>
+                </table-wrap>
+              </p>
+            </sec>
+            <sec id="Sec5">
+              <title>
+                <italic>ZNF154</italic>
+                 hypermethylation in early-stage tumor samples
+              </title>
+              <p id="Par7">
+                We analyzed Illumina 450 K methylation array data from TCGA again, this time in stage I tumor samples from 9 different tumor types (BLCA, BRCA, HNSC, KIRC, KIRP, LIHC, LUAD, PAAD, STAD) and clinical stage I serous subtype epithelial ovarian carcinoma samples. In this analysis, we included pathological stage I tumors from the tumor types listed in Table 
+                <xref rid="Tab1" ref-type="table">1</xref>
+                , with the exception of prostate adenocarcinoma (PRAD) and ovarian carcinoma (OV) as there were no pathological stage I cases available. For early stage serous epithelial ovarian carcinoma, we included clinical stage I serous subtype ovarian carcinoma samples profiled by Illumina 450 K methylation arrays from Bartlett et al.
+                <sup>
+                  <xref ref-type="bibr" rid="CR15">15</xref>
+                </sup>
+                 (Serous epithelial ovarian carcinoma [Serous_EOC] Table 
+                <xref rid="Tab1" ref-type="table">1</xref>
+                , GEO accession GSE72021). Serous_EOC controls were fallopian tube tissue samples obtained from Bartlett et al.
+                <sup>
+                  <xref ref-type="bibr" rid="CR16">16</xref>
+                </sup>
+                 (GEO accession GSE74845).
+              </p>
+            </sec>
+            <sec id="Sec6">
+              <title>
+                <italic>ZNF154</italic>
+                 hypermethylation in tissue samples from individuals without cancer
+              </title>
+              <p id="Par8">
+                We investigated associations between 
+                <italic>ZNF154</italic>
+                 methylation, age, and sex using TCGA Illumina 450 K human methylation array data from 2711 peripheral blood cell samples collected from patients without cancer (GEO accession GSE55763, described in
+                <sup>
+                  <xref ref-type="bibr" rid="CR17">17</xref>
+                </sup>
+                ). We also analyzed 
+                <italic>ZNF154</italic>
+                 methylation in tissue samples collected from patients with disease conditions other than cancer, using Illumina 450 K human methylation array data from NCBI’s Gene Expression Omnibus (
+                <ext-link ns0:href="https://www.ncbi.nlm.nih.gov/geo/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/geo/</ext-link>
+                ) and other sources (Table 
+                <xref rid="Tab2" ref-type="table">2</xref>
+                ).
+                <table-wrap id="Tab2">
+                  <label>Table 2</label>
+                  <caption xml:lang="en">
+                    <p>Illumina 450 K methylation array data for tissue samples collected from donors without cancer.</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left">
+                          <p>Data source and/or publication</p>
+                        </th>
+                        <th align="left">
+                          <p>Description</p>
+                        </th>
+                        <th align="left">
+                          <p>Sample count</p>
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="3">
+                          <p>
+                            GSE42921
+                            <sup>
+                              <xref ref-type="bibr" rid="CR18">18</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Colon mucosa: normal controls</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>12</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Colon mucosa: Crohn’s disease</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>5</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Colon muscosa: ulcerative colitis</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>5</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2">
+                          <p>
+                            GSE81211
+                            <sup>
+                              <xref ref-type="bibr" rid="CR19">19</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Colon biopsy: normal</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>3</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Colon biopsy: ulcerative colitis</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>8</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2">
+                          <p>
+                            GSE85566
+                            <sup>
+                              <xref ref-type="bibr" rid="CR20">20</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Airway epithelial cells: asthma</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>74</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Airway epithelial cells: control</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>41</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2">
+                          <p>
+                            Dayeh et al.
+                            <sup>
+                              <xref ref-type="bibr" rid="CR21">21</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Pancreatic islets: type 2 diabetes</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>15</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Pancreatic islets: non-diabetic</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>34</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2">
+                          <p>
+                            GSE87621
+                            <sup>
+                              <xref ref-type="bibr" rid="CR22">22</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Endometriosis (cultured primary cells)</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>4</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Control (cultured primary endometrial stromal cells)</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>5</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2">
+                          <p>
+                            GSE49542
+                            <sup>
+                              <xref ref-type="bibr" rid="CR23">23</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Non-alcoholic fatty liver disease, mild (frozen liver biopsies)</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>35</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>Non-alcoholic fatty liver disease, advanced (frozen liver biopsies)</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>24</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            GSE50874
+                            <sup>
+                              <xref ref-type="bibr" rid="CR24">24</xref>
+                              ,
+                              <xref ref-type="bibr" rid="CR25">25</xref>
+                            </sup>
+                          </p>
+                        </td>
+                        <td align="left">
+                          <p>Kidney fibrosis</p>
+                        </td>
+                        <td char="." align="char">
+                          <p>85</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </p>
+            </sec>
+            <sec id="Sec7">
+              <title>
+                Counts of methylated 
+                <italic>ZNF154</italic>
+                 fragments in plasma samples from individuals with and without cancer assessed by DNA melt curve analysis
+              </title>
+              <p id="Par9">
+                We analyzed 
+                <italic>ZNF154</italic>
+                 methylation in plasma samples purchased from Fox Chase Cancer Center, from 4 patients with colon cancer, 4 with liver cancer, 17 with pancreatic cancer, and 38 with ovarian carcinoma, as well as from 20 healthy donors without cancer. These samples encompassed approximately 1.5–4 mL (mLs) of plasma each and were obtained from donors with cancers at stage III and IV. An additional 8 plasma samples from patients with early-stage pancreatic cancer (1 stage I sample and 7 stage II samples) were also collected. Half of the available plasma for the pancreatic cancer samples and healthy donors was processed for use with DREAMing analysis
+                <sup>
+                  <xref ref-type="bibr" rid="CR26">26</xref>
+                </sup>
+                , whereas the remaining half was processed for 
+                <italic>KRAS</italic>
+                 mutation screening via ddPCR (see subsequent sections). Additional sample information can be found in Supplementary Table 
+                <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+                . All samples were obtained as commercial items and were covered under the Fox Chase Cancer Center Biorepository IRB review information.
+              </p>
+            </sec>
+          </sec>
+          <sec id="Sec8">
+            <title>Data analyses</title>
+            <sec id="Sec9">
+              <title>Illumina 450 K methylation array data analysis</title>
+              <p id="Par10">
+                Beta values were beta-mixture quantile (BMIQ) normalized
+                <sup>
+                  <xref ref-type="bibr" rid="CR27">27</xref>
+                </sup>
+                 and probes overlapping known SNPs were removed. Beta values were extracted for each sample from the previously identified 
+                <italic>ZNF154</italic>
+                 probe of interest (Illumina Infinium HumanMethylation450 (450 K) BeadChip array probe cg21790626).
+              </p>
+            </sec>
+            <sec id="Sec10">
+              <title>Analysis of cancer gene mutation frequency</title>
+              <p id="Par11">
+                We obtained count data for cancer gene mutations from Genome Data Analysis Center (GDAC) Firehose Legacy files downloaded from cBioPortal (
+                <ext-link ns0:href="https://www.cbioportal.org/" ext-link-type="uri">https://www.cbioportal.org/</ext-link>
+                )
+                <sup>
+                  <xref ref-type="bibr" rid="CR14">14</xref>
+                </sup>
+                . For each cancer type, cancer-associated genes were defined as those that were mutated in &gt; 10% of tumors based on cBioPortal “Mutated Genes” table and also present in the OncoKB database
+                <sup>
+                  <xref ref-type="bibr" rid="CR28">28</xref>
+                </sup>
+                . In the case of KIRP, no gene was mutated in &gt; 10% of tumors so the top mutated gene was chosen instead. Thus, each cancer type assessed had its own set of cancer-associated genes. For a given cancer type, the proportion of tumors that contained a non-silent single nucleotide polymorphism mutation within one of the genes of the corresponding cancer type gene set was determined.
+              </p>
+            </sec>
+            <sec id="Sec11">
+              <title>Analysis of cancer hypermethylation frequency</title>
+              <p id="Par12">The frequency of tumors that were hypermethylated for a given cancer type was defined as the proportion of tumors whose beta value at cg21790626 was greater than a beta value cutoff at this site. The cutoff was defined as the beta value greater than 95% of the associated normal samples.</p>
+            </sec>
+          </sec>
+          <sec id="Sec12">
+            <title>cfDNA extraction</title>
+            <p id="Par13">
+              We performed cfDNA extraction and subsequent bisulfite conversion following previously published methods
+              <sup>
+                <xref ref-type="bibr" rid="CR29">29</xref>
+              </sup>
+               with the following modifications: the NeoGeneStar cfDNA Purification Kit with Pretreatment (NeoGeneStar, Somerset, NJ, USA) was used to extract cfDNA, which was bound to NeoGeneStar beads. Instead of eluting as per the standard protocol, we added 20 μL AE buffer to the 1.5 mL Eppendorf tube (Eppendorf, Hauppauge, NY, USA) containing the beads with bound cfDNA after the wash steps. From here, we then either proceeded with the Zymo Lightning Conversion kit (Zymo Research, Irvine, CA, USA) by adding 130 μL of conversion reagent to the 20 µL AE and bead solution (see below), or split the elution to perform ddPCR 
+              <italic>KRAS</italic>
+               mutation screening on one half of the elution and bisulfite conversion in the remaining half via the Zymo Lightning Conversion Kit with spin columns following standard procedures.
+            </p>
+          </sec>
+          <sec id="Sec13">
+            <title>ddPCR in plasma samples</title>
+            <p id="Par14">For the cfDNA elutions (see previous section) that were split, the elution half intended for ddPCR was first cleaned using Zymo DNA Clean and Concentrator-5 (Zymo Research, Irvine, CA, USA) using standard procedures and eluted twice in 10 μL of Zymo DNA Elution buffer. The elutions were then combined and DNA concentration was measured using the Invitrogen Qubit 3.0 Fluorometer and stored at − 80 °C.</p>
+            <p id="Par15">
+              To calculate the genomic copies of mutated 
+              <italic>KRAS</italic>
+               present in cfDNA extracted from plasma samples, we used the BioRad ddPCR 
+              <italic>KRAS</italic>
+               G12/G13 Screening Kit (which targets 7 different 
+              <italic>KRAS</italic>
+               mutations G12A, G12C, G12D, G12R, G12S, G12V, G13D) (BioRad product number: 1863506) (BioRad, Hercules, CA, USA), using standard instructions with a C1000 Touch Thermo Cycler and the QX200 Droplet Generator and Reader System and an annealing temperature of 60 °C. 5 μL of a given sample elution was used as input for each reaction and at least two reactions for each sample were performed until the entire sample was used. Droplets were read on a QX200 Droplet Reader and data was analyzed using QuantaSoft software.
+            </p>
+          </sec>
+          <sec id="Sec14">
+            <title>
+              Calculation of 
+              <italic>KRAS</italic>
+               MtAF
+            </title>
+            <p id="Par16">
+              The normalized 
+              <italic>KRAS</italic>
+               mutant allele frequency for a given sample was calculated by first dividing the counts of mutant 
+              <italic>KRAS</italic>
+               droplets detected by the total amplified droplets (wild-type plus mutant 
+              <italic>KRAS</italic>
+              ) measured for all ddPCR reactions for that sample. Then, these mutant allele fractions were adjusted by dividing by the estimated volume of plasma assayed in ddPCR for the sample. This was determined by multiplying the total starting volume of plasma for a given sample by the fraction of the elution that was used as input for the ddPCR assay. Sample plasma volumes assessed in ddPCR and MtAFs can be viewed in Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+              .
+            </p>
+          </sec>
+          <sec id="Sec15">
+            <title>
+              DREAMing analysis of 
+              <italic>ZNF154</italic>
+               methylation
+            </title>
+            <p id="Par17">
+              DREAMing is a highly sensitive DNA melt-based approach for detection of utra-rare methylated DNA fragments in patient samples such as blood plasma, as previously described
+              <sup>
+                <xref ref-type="bibr" rid="CR26">26</xref>
+                ,
+                <xref ref-type="bibr" rid="CR30">30</xref>
+                ,
+                <xref ref-type="bibr" rid="CR31">31</xref>
+              </sup>
+              . In brief, this is achieved by assuming a bisulfite-converted sample containing a mix of epialleles (an epiallele being a sequence of DNA with a particular DNA methylation pattern), in which the methylated epialleles of interest are diluted in a background of the unmethylated epialleles. The sample is partitioned across many microtiter wells such that each well contains unmethylated background epialleles but the methylated epialleles will be distributed into only some of the wells based on a Poissonian distribution. PCR followed by high resolution melt analysis is performed and each well will exhibit one of two melt curves. Wells containing only unmethylated DNA will exhibit a single melt peak at a characteristic temperature, Tmu. On the other hand, wells that contain a methylated epiallele will exhibit 2 melt peaks: 1 from the unmethylated epialleles and 1 (higher-temperature) melt peak that is derived from the amplicons of the methylated epiallele. We can then determine the relative methylation density of each detected epiallele by observing the melt temperature of their respective secondary peaks, which will be proportional to the methylation density (number of methylated CpGs) of their respective template epiallele. As the frequency of the secondary melt peaks follow a Poissonian distribution, the methylation of each epiallele can be determined and quantitated at single copy sensitivity.
+            </p>
+            <p id="Par18">
+              We bisulfite converted cfDNA from plasma samples by adding 130 μL Zymo Lightning Conversion Reagent to the 20 μL AE, cfDNA and NeoGeneStar bead solution in a 1.5 mL Eppendorf tube (see above, cfDNA extraction). For elutions that were split, volume was brought up to 20 μL with water before addition of the 130 μL Zymo Lightning Conversion Reagent. Samples were then incubated at 98 °C for 8 min followed by incubation at 56 °C for 1 h in the dark. 400 μL Zymo M-Binding was added to the samples, and the solution was gently mixed by pipetting, followed by incubation at room temperature for 5 min. Beads were gently spun down and tubes were placed onto a magnetic rack until the liquid cleared. Liquid was aspirated off, followed by addition of 400 μL Zymo Wash buffer, and subsequent steps followed the standard protocol for the Zymo Lightning Kit with Beads. Two elutions were performed, with beads incubated at 60 °C for 5 min with 50 μL Zymo Elution buffer each time, and each elution was stored separately at − 20 °C. cfDNA concentration measurements were preformed using TaqMan qPCR with primers specific to the 100 bp bisulfite-converted sequence of beta-actin and DREAMing reactions as previously described
+              <sup>
+                <xref ref-type="bibr" rid="CR26">26</xref>
+                ,
+                <xref ref-type="bibr" rid="CR30">30</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par19">
+              Melt peaks of the products amplified in the DREAMing reactions were largely bimodal and represented either unmethylated or methylated DNA fragments with methylation densities equivalent to 1 or more methylated CpG sites. Counts of methylated melt peaks (i.e. proxies for detected fragments) were normalized by dividing by the equivalent volume of plasma loaded into the DREAMing assay for a given sample. The volume of plasma used for a sample assayed in DREAMing was determined from the cfDNA concentration by taking the fraction of bisulfite converted beta-actin targets loaded into all DREAMing wells for a given sample and multiplying the starting plasma volume by that amount. Please see Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+               for the equivalent volume of plasma and normalized counts of methylated 
+              <italic>ZNF154</italic>
+               cfDNA per mL of plasma for each sample.
+            </p>
+          </sec>
+          <sec id="Sec16">
+            <title>DREAMing sensitivity</title>
+            <p id="Par20">
+              To test the sensitivity of the DREAMing assay targeting methylated cfDNA fragments of 
+              <italic>ZNF154</italic>
+               we generated spike-ins of single molecules of fully methylated bisulfite converted mimetic synthetic 
+              <italic>ZNF154</italic>
+               targets (Integrated DNA Technologies, Coralville, IA, USA) in a background of unmethylated bisulfite converted male genomic DNA (Promega, Madison, WI, USA). DREAMing primers: F: 5′-GGGCGATATTGGTAGGGATT-3′; R: 5′-AAATATATTCACCGAATCAAAAATAACAAAA-3′; 175 bp fully methylated mimetic: 5′-GGGCGATATTGGTAGGGATTCGGGGATAGCGGTTTTTATTTTAGGTTTGACGTGGGTTTTTTAGGGCGGCGTCGTTAAGGTTTAGACGTTTTCGTGTAGGAGGGACGACGATTTTTTTTACGTTTTCGTGGTTTTAATTCGGCGTTTTGTTATTTTTGATTCGGTGAATATATTT-3′. DREAMing reaction master mixes were designed as described above such that either 3 or 5 copies of fully methylated bisulfite converted mimetic synthetic 
+              <italic>ZNF154</italic>
+               targets were expected to be diluted across 12 wells, with each well expected to have 200 copies of unmethylated bisulfite converted male genomic DNA. Each reaction was repeated a total of 5 times and the observed peaks of fully methylated bisulfite converted mimetic synthetic 
+              <italic>ZNF154</italic>
+               were recorded. The mean absolute error for the measurement of detecting 3 or 5 copies of fully methylated bisulfite converted mimetic synthetic 
+              <italic>ZNF154</italic>
+               target was calculated.
+            </p>
+          </sec>
+          <sec id="Sec17">
+            <title>Statistical analyses</title>
+            <p id="Par21">Receiver operating characteristic curves, area under the curve (AUC) calculations, optimal cutoffs, and associated sensitivity and specificities were computed using python version 3.7.5 and the package sklearn 0.21.0.</p>
+          </sec>
+        </sec>
+        <sec id="Sec18" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec19">
+            <title>
+              <italic>ZNF154</italic>
+               hypermethylation and mutation frequency in tumor samples
+            </title>
+            <p id="Par22">
+              On the basis of our previous results
+              <sup>
+                <xref ref-type="bibr" rid="CR3">3</xref>
+                ,
+                <xref ref-type="bibr" rid="CR4">4</xref>
+              </sup>
+              , we hypothesized that 
+              <italic>ZNF154</italic>
+               hypermethylation would occur more frequently in individual cancer types than the most common cancer mutations. To test this hypothesis, we compared the frequency of methylation at probe cg21790626 (the CpG site we had previously determined to be the best 
+              <italic>ZNF154</italic>
+               methylation marker
+              <sup>
+                <xref ref-type="bibr" rid="CR3">3</xref>
+                ,
+                <xref ref-type="bibr" rid="CR4">4</xref>
+              </sup>
+              ) with the frequency of 52 mutations in cancer-associated genes for 11 solid tumor types from TCGA (N = 3691 for all tumor samples, N = 510 for all healthy tissue samples). Here, cancer-associated genes were defined as those present in the OncoKB database that were expected to be mutated in &gt; 10% of samples for a given tumor type, based on cBioPortal mutation frequencies. For each tumor type, we established a 
+              <italic>ZNF154</italic>
+               beta value hypermethylation cutoff that would exclude 95% of control samples. These beta value cutoffs values ranged from 0.016 to 0.523 with a median value of 0.161; using these cutoffs, we found that 
+              <italic>ZNF154</italic>
+               was hypermethylated in 50.6–98.6% of tumor samples, depending on the tumor type (for example, 52% PRAD and 92.4% OV). For comparison, we used 
+              <italic>TP53</italic>
+              , which was identified as a top recurrently mutated gene in all tumor types, except for KIRC and KIRP, in which only 3.0% and 1.9% of tumors contained 
+              <italic>TP53</italic>
+               mutations. For the other 9 cancer types, 
+              <italic>TP53</italic>
+               mutations—located at any position in the gene—were present in 9.8% (for PRAD) to 73.2% (for OV) of samples, depending on the tumor type. Thus, 
+              <italic>ZNF154</italic>
+               hypermethylation at cg21790626 was present in approximately 1.5–26.6 times the number of tumor samples as 
+              <italic>TP53</italic>
+               mutations, depending on the tumor type (Table 
+              <xref rid="Tab3" ref-type="table">3</xref>
+              ).
+              <table-wrap id="Tab3">
+                <label>Table 3</label>
+                <caption xml:lang="en">
+                  <p>Frequency of tumors mutated or hypermethylated in cancer-associated driver gene sets for each cancer type.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Cancer type</p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          Recurrently mutated genes selected in cancer-associated driver gene set for given cancer type
+                          <sup>a</sup>
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          Percent tumors mutated (%)
+                          <sup>b</sup>
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          Beta value hypermethylation cutoff
+                          <sup>c</sup>
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          Percent tumors hypermethylated (%)
+                          <sup>d</sup>
+                        </p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>OV</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (73.2%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>73.2</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.313</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>92.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>BRCA</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>PI3K3CA</italic>
+                           (31.6%), 
+                          <italic>TP53</italic>
+                           (24.8%), 
+                          <italic>CDH1</italic>
+                           (7.1%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>54.2</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.190</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>74.4</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>PAAD</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>KRAS</italic>
+                           (90.7%), 
+                          <italic>TP53</italic>
+                           (61.3%), 
+                          <italic>SMAD4</italic>
+                           (16.7%), 
+                          <italic>CDKN2A</italic>
+                           (10.7%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>95.3</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.070</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>90.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>LUAD</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (41.1%), 
+                          <italic>KRAS</italic>
+                           (31.9%), 
+                          <italic>LRP1B</italic>
+                           (25.4%), 
+                          <italic>PCLO</italic>
+                           (18.4%), 
+                          <italic>STK11</italic>
+                           (8.6%), 
+                          <italic>KEAP1</italic>
+                           (15.1%), 
+                          <italic>RELN</italic>
+                           (14.1%), 
+                          <italic>FAT4</italic>
+                           (15.7%), 
+                          <italic>EGFR</italic>
+                           (9.2%), 
+                          <italic>PTPRD</italic>
+                           (13.5%), 
+                          <italic>CPS1</italic>
+                           (10.3%), 
+                          <italic>GRIN2A</italic>
+                           (10.8%), 
+                          <italic>NF1</italic>
+                           (8.1%), 
+                          <italic>EPHA5</italic>
+                           (9.2%), 
+                          <italic>FAT1</italic>
+                           (10.8%), 
+                          <italic>MKI67</italic>
+                           (8.6%), 
+                          <italic>SETBP1</italic>
+                           (8.1%), 
+                          <italic>NOTCH4</italic>
+                           (10.3%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>85.4</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.071</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>75.7</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>LIHC</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (24.1%), 
+                          <italic>CTNNB1</italic>
+                           (25.2%), 
+                          <italic>ALB</italic>
+                           (4.3%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>46.9</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.058</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>90.1</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>KIRP</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>MET</italic>
+                           (7.5%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>7.5</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.025</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>50.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>PRAD</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (9.8%), 
+                          <italic>SPOP</italic>
+                           (11.0%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>20.5</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.523</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>52.0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>HNSC</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (59.8%), 
+                          <italic>FAT1</italic>
+                           (15.9%), 
+                          <italic>CDKN2A</italic>
+                           (17.5%), 
+                          <italic>PIK3CA</italic>
+                           (18.0%), 
+                          <italic>NOTCH1</italic>
+                           (14.5%), 
+                          <italic>LRP1B</italic>
+                           (17.1%), 
+                          <italic>KMT2D</italic>
+                           (12.7%), 
+                          <italic>PCLO</italic>
+                           (15.3%), 
+                          <italic>NSD1</italic>
+                           (9.2%), 
+                          <italic>CASP8</italic>
+                           (9.2%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>85.3</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.181</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>98.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>STAD</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (39.3%), 
+                          <italic>LRP1B</italic>
+                           (24.6%), 
+                          <italic>ARID1A</italic>
+                           (12.0%), 
+                          <italic>FAT4</italic>
+                           (18.6%), 
+                          <italic>PCLO</italic>
+                           (16.0%), 
+                          <italic>KMT2D</italic>
+                           (10.0%), 
+                          <italic>PIK3CA</italic>
+                           (16.9%), 
+                          <italic>ACVR2A</italic>
+                           (1.4%), 
+                          <italic>LRRK2</italic>
+                           (13.5%), 
+                          <italic>KMT2C</italic>
+                           (8.6%), 
+                          <italic>CIC</italic>
+                           (8.9%), 
+                          <italic>UBR5</italic>
+                           (4.3%), 
+                          <italic>PREX2</italic>
+                           (11.7%), 
+                          <italic>APC</italic>
+                           (7.7%), 
+                          <italic>ERBB4</italic>
+                           (11.5%), 
+                          <italic>TRRAP</italic>
+                           (10.6%), 
+                          <italic>RNF213</italic>
+                           (9.7%), 
+                          <italic>STK19</italic>
+                           (0.3%), 
+                          <italic>KMT2B</italic>
+                           (4.6%), 
+                          <italic>RPL22</italic>
+                           (1.7%), 
+                          <italic>PTPRT</italic>
+                           (8.9%), 
+                          <italic>PRKDC</italic>
+                           (7.4%), 
+                          <italic>ZFHX3</italic>
+                           (7.2%), 
+                          <italic>RELN</italic>
+                           (9.7%), 
+                          <italic>EP400</italic>
+                           (7.7%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>82.5</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.161</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>96.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>BLCA</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>TP53</italic>
+                           (45.4%), 
+                          <italic>ARID1A</italic>
+                           (16.9%), 
+                          <italic>KDM6A</italic>
+                           (15.4%), 
+                          <italic>PIK3CA</italic>
+                           (20.0%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>63.8</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.316</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>94.6</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>KIRC</p>
+                      </td>
+                      <td align="left">
+                        <p>
+                          <italic>VHL</italic>
+                           (36.1%), 
+                          <italic>PBRM1</italic>
+                           (19.8%), 
+                          <italic>SETD2</italic>
+                           (9.5%)
+                        </p>
+                      </td>
+                      <td char="." align="char">
+                        <p>52.9</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.016</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>75.3</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>
+                    <sup>a</sup>
+                    Percentages indicate the fraction of tumors from a given cancer type with a non-silent single nucleotide polymorphism in the given gene of the cancer-associated gene set.
+                  </p>
+                  <p>
+                    <sup>b</sup>
+                    A tumor is considered mutated if it is mutated in any of the genes in the corresponding cancer-associated gene set.
+                  </p>
+                  <p>
+                    <sup>c</sup>
+                    Beta value cutoff for a given cancer type at methylation array probe cg21790626 that is greater than 95% of the controls.
+                  </p>
+                  <p>
+                    <sup>d</sup>
+                    Hypermethylation for each cancer type based on a beta value cutoff above 95% of the controls for that given cancer type.
+                  </p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+            <p id="Par23">
+              Next, for each tumor type, we again utilized the 
+              <italic>ZNF154</italic>
+               beta value hypermethylation cutoff sufficient to exclude 95% of control samples and compared the percentage of tumors with 
+              <italic>ZNF154</italic>
+               hypermethylation with the percentage of tumors that harbored 
+              <italic>any</italic>
+               cancer-associated gene mutation in the given cancer-type gene set (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ). The list of cancer-associated genes for each cancer type considered can be viewed in Table 
+              <xref rid="Tab3" ref-type="table">3</xref>
+              . 
+              <italic>ZNF154</italic>
+               hypermethylation was less frequent than the combinations of cancer-associated gene mutations in only two cancer types. For example, in pancreatic adenocarcinoma samples we found 86.7% hypermethylated versus 95.3% mutated in the common set of PAAD cancer genes, (where 90.7% of tumors harbored a 
+              <italic>KRAS</italic>
+               mutation and the remaining 4.6% had a mutation in another PAAD cancer gene: 
+              <italic>TP53</italic>
+              , 
+              <italic>SMAD4</italic>
+              , or 
+              <italic>CDKN2A</italic>
+              ). 
+              <italic>ZNF154</italic>
+               hypermethylation was also less frequent than cancer-associated gene mutations in lung adenocarcinoma (75.7% hypermethylated versus 85.4% mutated in the common set of LUAD cancer genes), where most samples harbored either 
+              <italic>KRAS</italic>
+               or 
+              <italic>TP53</italic>
+               mutations (31.9% and 41.1% respectively). For all other tumor types investigated (9 out of 11), however, 
+              <italic>ZNF154</italic>
+               hypermethylation was more common than cancer-associated gene mutations. The difference in recurrent hypermethylation versus mutations across tumors was particularly extreme in the case of kidney renal papillary carcinoma, in which 135 out of 267 tumors were hypermethylated but only 20 were mutated in a common set of cancer-associated genes. Thus, we concluded that 
+              <italic>ZNF154</italic>
+               hypermethylation can be at least as recurrent as the most common cancer-associated mutations, making it a biomarker worthy of further investigation.
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>
+                    Percentage of tumors that displayed 
+                    <italic>ZNF154</italic>
+                     hypermethylation at the probe cg21790626 versus percentage of tumors that displayed mutations in a set of cancer-associated genes for the given cancer type. The percent tumors with a mutation in a cancer gene set on the x-axis are the fraction of tumors that have a mutation in any of the cancer genes of the associated cancer gene set. Methylation data were obtained from The Cancer Genome Atlas and mutation data were obtained from cBioPortal. *A cancer-associated gene was included in a set if it was listed in the OncoKB database and expected to be recurrently mutated in &gt; 10% of samples for a given tumor type, based on cBioPortal mutation frequencies. Lists of cancer associated genes for each cancer type are located in Table 
+                    <xref rid="Tab3" ref-type="table">3</xref>
+                    . 
+                    <italic>BLCA</italic>
+                     bladder urothelial carcinoma (n = 130), 
+                    <italic>BRCA</italic>
+                     breast invasive carcinoma (n = 664), 
+                    <italic>HNSC</italic>
+                     head and neck squamous cell carcinoma (n = 510), 
+                    <italic>KIRC</italic>
+                     kidney renal clear cell carcinoma (n = 263), 
+                    <italic>KIRP</italic>
+                     kidney renal papillary cell carcinoma (n = 267), 
+                    <italic>LIHC</italic>
+                     liver hepatocellular carcinoma (n = 373), 
+                    <italic>LUAD</italic>
+                     lung adenocarcinoma (n = 185), 
+                    <italic>OV</italic>
+                     ovarian carcinoma (n = 302), 
+                    <italic>PAAD</italic>
+                     pancreatic adenocarcinoma (n = 150), 
+                    <italic>PRAD</italic>
+                     prostate adenocarcinoma (n = 498), 
+                    <italic>STAD</italic>
+                     stomach adenocarcinoma (n = 349).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80345_Fig1_HTML.png" id="MO1"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec20">
+            <title>
+              Frequency of 
+              <italic>ZNF154</italic>
+               hypermethylation in early-stage tumor samples
+            </title>
+            <p id="Par24">
+              The earlier that a biomarker can be detected in the course of tumorigenesis, the more helpful it will be for screening purposes. Thus, we next analyzed 
+              <italic>ZNF154</italic>
+               methylation at probe cg21790626 in stage I samples, as available from 10 solid tumor types, as well as healthy control tissues, using Illumina 450 K methylation array data from either TCGA or serous epithelial ovarian carcinoma (Bartlett et al.
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+              </sup>
+               [Serous_EOC] in Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              , GEO accession GSE72021), and normal fallopian tube controls (Bartlett et al.
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+               GEO accession GSE74845). For all but 2 tumor types investigated, 
+              <italic>ZNF154</italic>
+               was significantly hypermethylated with respect to control samples (
+              <italic>p</italic>
+               &lt; 0.001; Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ). The two exceptions were lung and stomach adenocarcinoma. For both of these tumor types, few cases were available for analysis (3 for the former, 2 for the latter); the data for stomach adenocarcinoma suggest that if more cases had been available for analysis as seen for bladder cancer, significant hypermethylation might have been detected at 
+              <italic>ZNF154</italic>
+              .
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    <italic>ZNF154</italic>
+                     methylation in stage I solid tumors. The probe cg21790626 was measured in 10 types of stage I solid tumor (red) or healthy tissue samples (blue), in Illumina 450 K methylation microarray data provided by TCGA or Bartlett et al. (Serous_EOC
+                    <sup>
+                      <xref ref-type="bibr" rid="CR15">15</xref>
+                    </sup>
+                    , n = 7, and fallopian tube controls
+                    <sup>
+                      <xref ref-type="bibr" rid="CR16">16</xref>
+                    </sup>
+                    , n = 216). Significant hypermethylation was found for all tumor types except for LUAD and STAD. “
+                    <italic>ns</italic>
+                    ” not significant; *
+                    <italic>p</italic>
+                     &lt; 0.05; **
+                    <italic>p</italic>
+                     &lt; 0.01; ***
+                    <italic>p</italic>
+                     &lt; 0.001; p values derived from Wilcoxon rank sum two-sided tests. Data plotted as standard box plot and whiskers. 
+                    <italic>BLCA</italic>
+                     bladder urothelial carcinoma, 
+                    <italic>BRCA</italic>
+                     breast invasive carcinoma, 
+                    <italic>HNSC</italic>
+                     head and neck squamous cell carcinoma, 
+                    <italic>KIRC</italic>
+                     kidney renal clear cell carcinoma, 
+                    <italic>KIRP</italic>
+                     kidney renal papillary cell carcinoma, 
+                    <italic>LIHC</italic>
+                     liver hepatocellular carcinoma, 
+                    <italic>LUAD</italic>
+                     lung adenocarcinoma, 
+                    <italic>PAAD</italic>
+                     pancreatic adenocarcinoma, 
+                    <italic>STAD</italic>
+                     stomach adenocarcinoma, 
+                    <italic>Serous_EOC</italic>
+                     serous subtype epithelial ovarian carcinoma.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80345_Fig2_HTML.png" id="MO2"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec21">
+            <title>
+              <italic>ZNF154</italic>
+               methylation in tissue samples from individuals without cancer
+            </title>
+            <p id="Par25">
+              To be a viable screening biomarker, 
+              <italic>ZNF154</italic>
+               methylation levels in cfDNA should not be associated with demographic factors such as age or sex. Most cfDNA in blood comes from circulating white blood cells
+              <sup>
+                <xref ref-type="bibr" rid="CR32">32</xref>
+              </sup>
+              ; thus, we tested the hypothesis that 
+              <italic>ZNF154</italic>
+               methylation levels are not meaningfully elevated with age or sex by analyzing methylation at probe cg21790626 in TCGA Illumina 450 K methylation microarray data from 2711 circulating white blood cell samples (i.e., whole peripheral blood cell samples) from individuals without cancer. First, we stratified the samples by sex and partitioned them into bins based on the age of the peripheral blood sample donor. While we observed a positive correlation between the methylation level (beta value) at the probe of interest and patient age, no peripheral blood samples surpassed a beta value of 0.2 (female median beta value = 0.038; male median beta value = 0.042). Beta values below 0.2 are typically interpreted as a locus being lowly or unmethylated
+              <sup>
+                <xref ref-type="bibr" rid="CR33">33</xref>
+              </sup>
+              , indicating that this genomic locus remains largely unmethylated even in older patients of either sex (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              ). Therefore, assessing the methylation at 
+              <italic>ZNF154</italic>
+               in a blood-based assay should not be expected to be compromised by noncancer conditions like patient age or sex.
+              <fig id="Fig3" position="float">
+                <label>Figure 3</label>
+                <caption xml:lang="en">
+                  <p>
+                    <italic>ZNF154</italic>
+                     methylation in 2711 peripheral blood cell samples collected from individuals without cancer, stratified by sex and age. Methylation was measured at probe cg21790626 in Illumina 450 K methylation array data provided by Lehne et al. (GEO accession GSE55763, described in
+                    <sup>
+                      <xref ref-type="bibr" rid="CR17">17</xref>
+                    </sup>
+                    ). Pearson correlation coefficients for beta value versus donor age for all samples (ρ), samples from only female donors (ρ
+                    <sub>F</sub>
+                    ), or samples from only male donors (ρ
+                    <sub>M</sub>
+                    ), are indicated below the figure panels. Data plotted as standard box plot and whiskers.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80345_Fig3_HTML.png" id="MO3"/>
+              </fig>
+            </p>
+            <p id="Par26">
+              To be a viable screening biomarker, 
+              <italic>ZNF154</italic>
+               methylation levels should not be elevated in non-cancer health conditions; that is, methylation should be specific for cancer conditions and not elevated in other diseases, to avoid false positives. To test the hypothesis that 
+              <italic>ZNF154</italic>
+               hypermethylation is limited to tumors, we analyzed 
+              <italic>ZNF154</italic>
+               methylation at probe cg21790626 in array data from the following seven datasets (Table 
+              <xref rid="Tab2" ref-type="table">2</xref>
+              ): (1) colon mucosa taken from patients with Crohn’s disease, ulcerative colitis, or healthy control individuals; (2) colon tissue taken from patients with ulcerative colitis or healthy controls; (3) airway epithelial cells in individuals with and without asthma; (4) pancreatic islet cells in individuals with and without type 2 diabetes; (5) endometrial primary cells in individuals with and without endometriosis; (6) liver biopsies in individuals with mild and advanced non-alcoholic fatty liver disease; and (7) kidney biopsies in individuals with kidney fibrosis (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              ). For each noncancer set of disease samples with associated control samples, we assessed the difference in beta value distributions and observed significant differences only in ulcerative colitis with respect to colon mucosa (p &lt; 0.05)—where disease samples showed lower methylation, asthma for airway epithelial cells (p &lt; 0.001)—showing higher than normal methylation, and type 2 diabetes for pancreatic islet cells (p &lt; 0.05)—also showing lower methylation than normals. Only in the case of asthma were the methylation levels at 
+              <italic>ZNF154</italic>
+               significantly higher than that of the normal control epithelial cells. For reference, we compared the 
+              <italic>ZNF154</italic>
+               methylation levels seen in control and tumor tissues from our preceeding TCGA analyses. Those beta value thresholds were required to exceed 95% of the TCGA normal controls to call tumors hypermethylated. There, a beta value threshold of 0.071 captured 95% of LUAD normal controls, and here the maximum beta value observed for the asthma samples was 0.068 (i.e., less than the TCGA normal control samples). Additionally, the methylation cutoff calculated for PAAD normal controls was 0.070 and the maximum beta value observed here for the type 2 diabetes samples was 0.034.
+              <fig id="Fig4" position="float">
+                <label>Figure 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    <italic>ZNF154</italic>
+                     methylation in 365 tissue and peripheral blood cell samples from individuals with and without various non-cancer conditions. Methylation was measured at probe cg21790626 in Illumina 450 K methylation array data from each dataset. 
+                    <italic>NAFLD</italic>
+                     non-alcoholic fatty liver disease. Airway epithelial cells, pancreatic islet cells and ulcerative colitis showed significant differences between cases and controls (*
+                    <italic>p</italic>
+                     &lt; 0.05, ***
+                    <italic>p</italic>
+                     &lt; 0.001; 
+                    <italic>ns</italic>
+                     not significant, two-sided Wilcoxon rank sum), with 332 samples showing beta values &lt; 0.20.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80345_Fig4_HTML.png" id="MO4"/>
+              </fig>
+            </p>
+            <p id="Par27">
+              With respect to the normal colon mucosa and the colon tissue samples, the majority of beta values were above 0.2. This is consistent with our previous observation that the methylation level at 
+              <italic>ZNF154</italic>
+               appears to be elevated in the gastrointestinal tract
+              <sup>
+                <xref ref-type="bibr" rid="CR4">4</xref>
+              </sup>
+              . This suggests that DNA released from cells in the colon could contribute to a background methylation level present in the cfDNA pool at the 
+              <italic>ZNF154</italic>
+               locus. Interestingly, with respect to the 450 K methylation array datasets shown here, we observed a decrease in methylation in samples from patients with either Crohn’s disease or ulcerative colitis in two independent studies (GSE42921 and GSE81211). Therefore, noncancer disease in the gastrointenstinal tract may actually decrease the methylation level at 
+              <italic>ZNF154</italic>
+               and prevent detection of false positives. Nonetheless, only 18 of the 350 samples analyzed (5.14%) displayed a beta value ≥ 0.2. Thus, we concluded that, with rare exceptions, 
+              <italic>ZNF154</italic>
+               is not hypermethylated (i.e., compared to normal) in non-cancer conditions we examined.
+            </p>
+          </sec>
+          <sec id="Sec22">
+            <title>
+              Methylated 
+              <italic>ZNF154</italic>
+               cfDNA levels in plasma samples from individuals with and without cancer
+            </title>
+            <p id="Par28">
+              Having demonstrated that 
+              <italic>ZNF154</italic>
+               methylation has the potential to be a promising multicancer marker in tissue samples, we wanted to investigate its use in plasma samples. We opted for an orthogonal approach toward detection of methylated cfDNA. This involved several components: (1) adaptation of a methylation on beads (MOB) extraction protocol for cfDNA
+              <sup>
+                <xref ref-type="bibr" rid="CR29">29</xref>
+              </sup>
+               to increase the efficiency of cfDNA recovery from plasma samples by a median of approximately 2.5-fold over other methods, and (2) adoption of a PCR-based high resolution DNA melt technique called DREAMing
+              <sup>
+                <xref ref-type="bibr" rid="CR26">26</xref>
+              </sup>
+               to identify rare, heterogeneously methylated DNA fragments in clinical samples. The method of DREAMing depends on sequence differences between methylated and unmethylated DNA molecules after bisulfite conversion and subsequent targeted amplification (where unmethylated “C”s become “T”s), which melt at different temperatures due to differences in base pairing energies. Multiple methylated CpGs in the amplicon additively increase the melt temperature peak. Primers to amplify our target 
+              <italic>ZNF154</italic>
+               locus were designed for the DREAMing assay, such that they were preferentially biased toward amplification of methylated DNA (see “
+              <xref rid="Sec2" ref-type="sec">Methods</xref>
+              ”). The primers targeted a region that encompassed 14 internal CpG sites including the site assessed at cg21790626 by methylation arrays (Supplementary Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+              ). The sensitivity of the 
+              <italic>ZNF154</italic>
+               DREAMing assay was tested by spike-in of single molecules of fully methylated bisulfite-converted mimetic synthetic 
+              <italic>ZNF154</italic>
+               target into a background of bisulfite-converted gDNA from human male DNA (See “
+              <xref rid="Sec2" ref-type="sec">Methods</xref>
+              ”; Supplementary Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+              ).
+            </p>
+            <p id="Par29">
+              We queried the methylation status of plasma derived 
+              <italic>ZNF154</italic>
+               cfDNA fragments from a new cohort of patient plasma samples. These encompassed pancreatic (early-stage I, n = 1; early-stage II, n = 7; late-stage III–IV, n = 17), serous ovarian (late-stage III–IV, n = 38), liver (late-stage IV, n = 4), and colon cancer (late-stage IV, n = 4), as well as 20 healthy control donors (Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+              ). The median age of the control healthy donors was significantly higher than the ovarian and pancreatic cancer patient samples (controls median age = 71.5, ovarian cancer patient median age = 59.0, 
+              <italic>p</italic>
+               &lt; 0.001 Wilcoxon two-sided rank sum; pancreas cancer patient median age = 60.0, 
+              <italic>p</italic>
+               &lt; 0.01 Wilcoxon two-sided rank sum, Supplementary Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S3</xref>
+              ). The older age of the controls may result in a higher background level of methylation at 
+              <italic>ZNF154</italic>
+               in these samples. While this may effectively require using a more stringent threshold, this would also increase the confidence in any discriminating signal observed in the cancer patient cases as the methylation level would also need to be higher than any methylation potentially due to age.
+            </p>
+            <p id="Par30">
+              We took advantage of the single molecule sensitivity (quasi-quantitative nature) of the DREAMing assay, which allows for direct measurement of individual methylated fragment counts of cfDNA of interest, and tested the hypothesis that the concentration of methylated 
+              <italic>ZNF154</italic>
+               fragments (i.e., fragments where we detected at least 1 methylated CpG site per DNA molecule) per mL of plasma could be helpful in classifying plasma samples from cases versus controls. Each sample set of cancer patient plasma had a significantly higher concentration of methylated 
+              <italic>ZNF154</italic>
+               cfDNA fragments per mL than the normal controls (late-stage pancreatic cancer median normalized fragments = 19.47/mL plasma; ovarian cancer median normalized fragments = 27.30/mL plasma; normal controls median normalized fragments = 11.38/mL plasma) (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              A). Early-stage pancreatic cancer samples also had a significantly higher concentration of methylated 
+              <italic>ZNF154</italic>
+               cfDNA fragments per mL of plasma than the normal controls (median normalized fragments = 18.6/mL plasma) suggesting that methylated 
+              <italic>ZNF154</italic>
+               cfDNA may be an effective marker for detection of earlier stage cancers in liquid biopsies. With respect to the liver and colon cancer sample sets, each had higher median normalized fragments of methylated 
+              <italic>ZNF154</italic>
+               cfDNA (14.56/mL and 64.49/mL, respectively) than the controls, although this was not significant, likely a result of the small size of these cohorts (Supplementary Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S4</xref>
+              ).
+              <fig id="Fig5" position="float">
+                <label>Figure 5</label>
+                <caption xml:lang="en">
+                  <p>
+                    Measurement of methylated 
+                    <italic>ZNF154</italic>
+                     fragments in plasma samples for cancer patient cases versus controls. A fragment is considered methylated if at least 1 of the 14 CpG sites measured per DREAMing amplicon is methylated. (
+                    <bold>A</bold>
+                    ) Distribution of normalized methylated 
+                    <italic>ZNF154</italic>
+                     cfDNA fragments per mL of plasma from patients with late-stage (stage III–IV, n = 17, red) pancreatic, early-stage (stage I–II, n = 8, red) pancreatic, or late-stage ovarian (stage III–IV, n = 38, red) cancer, or normal controls (n = 20, blue). Data are plotted using standard box and whisker plots. (
+                    <bold>B</bold>
+                    ) Receiver operating characteristic curves showing the classification performance of the normalized fraction of methylated 
+                    <italic>ZNF154</italic>
+                     cfDNA fragments per mL of plasma for the late-stage pancreatic, early-stage pancreatic, or ovarian cancer samples versus normal controls. Red circles indicate the optimal TPR and FPR combination based on the maximum positive difference between the TPR and FPR. ***
+                    <italic>p</italic>
+                     &lt; 0.001; **
+                    <italic>p</italic>
+                     &lt; 0.01, Wilcoxon rank sum two-sided test. 
+                    <italic>AUC</italic>
+                     area under the curve, 
+                    <italic>FPR</italic>
+                     false-positive rate, 
+                    <italic>TPR</italic>
+                     true positive rate.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80345_Fig5_HTML.png" id="MO5"/>
+              </fig>
+            </p>
+            <p id="Par31">
+              We next derived optimal cutoffs based on the metric of normalized fragments of methylated 
+              <italic>ZNF154</italic>
+               cfDNA per mL of plasma and used these to classify cases from controls for each sample set. We found optimal sensitivity/specificity ratios using receiver operating characteristic curve (ROC) plots, where we counted the total number of normalized methylated fragments for samples and controls. Optimal cutoffs were defined as those which maximized the positive difference between true positive rate and false positive rate (TPR–FPR). Overall classification performance of using the metric of normalized methylated fragments was measured as the area under the curve (AUC) of the ROC. We achieved AUC of 0.85 for late-stage pancreas (optimal sensitivity/specificity = 94.1%/80.0%), 0.87 for early-stage pancreas (optimal sensitivity/specificity = 100%/80%), and 0.85 for ovarian cancer (optimal sensitivity/specificity = 86.8%/80.0%) (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              B; Table 
+              <xref rid="Tab4" ref-type="table">4</xref>
+              ). Although the sample size for the liver and colon cancer cohorts was small, we achieved optimal sensitivity/specificity ratios of 50.0%/90.0% and 75.0%/100.0%, respectively, suggesting 
+              <italic>ZNF154</italic>
+               methylation may also be useful as a cancer marker in liquid biopsies from patients with these cancer types as well, although more extensive sample cohorts will be needed. Interestingly, the four normal controls with the highest normalized fragments per mL, and thus reducing the overall specificity based on the derived cutoffs, were also all above 80 years old, suggesting that age or conditions associated with age should be further studied for any effect on concentration of methylated 
+              <italic>ZNF154</italic>
+               cfDNA in the circulation (Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+              ).
+              <table-wrap id="Tab4">
+                <label>Table 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    Optimal cutoffs of normalized methylated 
+                    <italic>ZNF154</italic>
+                     cfDNA fragments per mL plasma and the resulting classification AUCs, and optimal true positive rate (TPR) and false positive rate (FPR) for each plasma sample set.
+                  </p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Sample set</p>
+                      </th>
+                      <th align="left">
+                        <p>Cutoff (normalized fragments/mL plasma)</p>
+                      </th>
+                      <th align="left">
+                        <p>AUC</p>
+                      </th>
+                      <th align="left">
+                        <p>TPR</p>
+                      </th>
+                      <th align="left">
+                        <p>FPR</p>
+                      </th>
+                      <th align="left">
+                        <p>Sample size (tumor/normal)</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>Late stage pancreatic cancer</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>14.69</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.85</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.94</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.20</p>
+                      </td>
+                      <td align="left">
+                        <p>17/20</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Early stage pancreatic cancer</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>15.96</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.87</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>1.00</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.20</p>
+                      </td>
+                      <td align="left">
+                        <p>8/20</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Ovarian cancer</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>13.81</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.85</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.87</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.20</p>
+                      </td>
+                      <td align="left">
+                        <p>38/20</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Liver cancer</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>21.89</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.48</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.50</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.10</p>
+                      </td>
+                      <td align="left">
+                        <p>4/20</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>Colon cancer</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>29.83</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.75</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.75</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0.00</p>
+                      </td>
+                      <td align="left">
+                        <p>4/20</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </p>
+          </sec>
+          <sec id="Sec23">
+            <title>
+              Performance of 
+              <italic>ZNF154</italic>
+               hypermethylation and KRAS mutation in classifying plasma samples from individuals with and without pancreatic cancer
+            </title>
+            <p id="Par32">
+              Above, we found that 
+              <italic>ZNF154</italic>
+               hypermethylation in Illumina methylation array data (90.7%) was as frequent as 
+              <italic>KRAS</italic>
+               mutations (90.7%) for the PAAD samples (Table 
+              <xref rid="Tab3" ref-type="table">3</xref>
+              ), making pancreatic cancer an interesting case study for comparing the utility of the two markers for classifying samples from blood. Finding an effective marker for detecting pancreatic cancer is also of special interest because this type of cancer is currently typically detected at a late stage, when outcomes are very poor. For these reasons, we decided to conduct a head-to-head comparison of 
+              <italic>ZNF154</italic>
+               hypermethylation versus 
+              <italic>KRAS</italic>
+               mutation for classifying plasma samples taken from individuals with and without pancreatic cancer.
+            </p>
+            <p id="Par33">
+              We experimentally analyzed 
+              <italic>KRAS</italic>
+               mutations using ddPCR on the same 17 plasma samples from patients with late-stage pancreatic cancer, 8 patients with early-stage pancreatic cancer, and 20 individuals without cancer, using the same plasma input volumes used for the DREAMing analysis. We observed mutant 
+              <italic>KRAS</italic>
+               fragments in 9 of 17 (52.9%) late-stage pancreatic cancer samples vs. 7 of 20 (35%) control samples after collectively targeting 7 different 
+              <italic>KRAS</italic>
+               alterations in the cfDNA (Fig. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              ; Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+              ). The late-stage pancreatic cancer cases had higher median 
+              <italic>KRAS</italic>
+               mutant allele frequencies (MtAF) when normalized for mLs of plasma input (median MtAF = 7.07e−4; Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+               with respect to the controls (control median MtAF = 0.0; control maximum MtAF = 1.44e−3) and this difference was statistically significant (
+              <italic>p</italic>
+               = 0.036, Wilcoxon one-sided rank sum test). However, the sample set of 8 early-stage (I and II) pancreatic cancer plasma samples had no detectable 
+              <italic>KRAS</italic>
+               mutant cfDNA. Using the 
+              <italic>KRAS</italic>
+               MtAF cutoff to distinguish between late-stage case versus healthy donor plasma samples resulted in an AUC of 0.67 (optimal MtAF cutoff of 7.07e−4 yielded a sensitivity/specificity of 53%/95%). These findings, in comparison to our previous measurements of 
+              <italic>ZNF154</italic>
+               cfDNA methylation (i.e., AUC = 0.85 at late stage), indicate that 
+              <italic>ZNF154</italic>
+               has potential to outperform even the most common cancer-associated mutations when used to classify plasma samples from individuals with and without cancer. Moreover, 
+              <italic>ZNF154</italic>
+               may be particularly helpful in detecting early-stage disease (AUC for early stage was 0.87), as shown for this small sample size of pancreatic cancers.
+              <fig id="Fig6" position="float">
+                <label>Figure 6</label>
+                <caption xml:lang="en">
+                  <p>
+                    Classification performance of the 
+                    <italic>KRAS</italic>
+                     mutant allele fraction (MtAF) in the cfDNA of 17 late-stage or 8 early-stage pancreatic cancer patient plasma sample cases and 20 healthy donors without cancer. (
+                    <bold>A</bold>
+                    ) Distribution of 
+                    <italic>KRAS</italic>
+                     MtAFs in cases and controls. Counts are plotted as a standard box and whiskers plot. Pancreas Late has 2 outliers not shown (see Supplementary Table 
+                    <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+                     for full list of values). (
+                    <bold>B</bold>
+                    ) Receiver operating characteristic curve for the classification of late-stage pancreatic cases and control donors using the sample 
+                    <italic>KRAS</italic>
+                     MtAF. The red circle indicates the optimal MtAF cutoff based on the maximum positive difference between the TPR and FPR (optimal cutoff yielding 53% sensitivity/95% specificity). *
+                    <italic>p</italic>
+                     &lt; 0.05; 
+                    <italic>ns</italic>
+                     not significant, Wilcoxon rank sum one-sided test. 
+                    <italic>AUC</italic>
+                     area under the curve, 
+                    <italic>FPR</italic>
+                     false-positive rate, 
+                    <italic>TPR</italic>
+                     true positive rate.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80345_Fig6_HTML.png" id="MO6"/>
+              </fig>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec24" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par34">
+            In this proof-of-concept study, we set out to determine whether 
+            <italic>ZNF154</italic>
+             methylation appears to be a suitable biomarker for a multi-cancer, plasma-based screen
+            <bold>.</bold>
+             We found that 
+            <italic>ZNF154</italic>
+             hypermethylation occurs in tissue samples from patients with early-stage tumors in 10 different cancer types; is not meaningfully associated with age or sex, or elevated in non-cancer conditions; and displays promising performance when used to classify plasma samples as tumor versus healthy donor controls, with AUCs of 0.85 for late-stage ovarian cancer, and 0.85 or 0.87 for late- or early-stage pancreatic cancer.
+          </p>
+          <p id="Par35">
+            One key finding from our study was the importance of how methylation is quantified in plasma samples. We found that if 
+            <italic>ZNF154</italic>
+             methylation was quantified using the average methylation levels in each sample, tumor signals in plasma often went undetected because of background signals in control samples. The 
+            <italic>ZNF154</italic>
+             locus can be methylated in tissues of the gastrointestinal tract (see Figs. 
+            <xref rid="Fig2" ref-type="fig">2</xref>
+            , 
+            <xref rid="Fig4" ref-type="fig">4</xref>
+            ), and it is possible that cfDNA derived from these tissues could contribute to this background methylation signal observed in healthy donor cfDNA. It will be important to establish a larger set of control samples to fully characterize the extent of background methylation and refine our classification cutoffs. In this study, the single-molecule sensitivity of the DREAMing DNA melting curve analysis used herein allowed us to use all methylated fragments of 
+            <italic>ZNF154</italic>
+             cfDNA (heterogeneously methylated as well as fully methylated), which increased the amount of signal detectable and likely increased our ability to detect signal above background. For example, we found that we could only detect plasma samples for patients with early-stage pancreatic cancer reliably when we considered counts of all methylated cfDNA fragments. This finding contradicts the expected efficacy of a binary test like methylation-specific PCR.
+          </p>
+          <p id="Par36">
+            The ability of 
+            <italic>ZNF154</italic>
+             methylation to outperform 
+            <italic>KRAS</italic>
+             mutations for the detection pancreatic cancer in patient plasma may reflect technical differences between the assays used and biological differences between DNA methylation and mutations. ddPCR and DREAMing are both are highly sensitive techniques and can detect rare DNA molecules robustly
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              ,
+              <xref ref-type="bibr" rid="CR31">31</xref>
+              ,
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            . However, the targets of each assay are disparate and therefore difficult to directly compare. For ddPCR we utilized TaqMan probes to target 7 different 
+            <italic>KRAS</italic>
+             point mutations. In contrast, for the DREAMing assay, we designed PCR primers to preferentially amplify methylated DNA of interest and subsequently performed a variation of DNA high resolution melt (HRM)
+            <sup>
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+             to quantify the number of epialleles (i.e., DNA fragments from the same genomic location but with different methylation patterns) with different methylation densities (e.g., 1–14 internal CpGs methylated). It is important to note that this differs from other methylation detection assays like MSP, which only detect heavily or fully methylated epialleles
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            . By including 
+            <italic>ZNF154</italic>
+             DNA fragments with any methylation detected, albeit heterogeneous or complete methylation, (i.e., any number of the 14 internal CpGs methylated), we were able to increase the number of methylated epialleles targetable for cancer detection and thus increased the ability to distinguish pancreatic cancer patients from healthy controls. Additionally, one of the shortfalls of the 
+            <italic>KRAS</italic>
+             mutations was that these were present in 7/20 of the control samples, which lowered assay specificity. While methylated 
+            <italic>ZNF154</italic>
+             fragments were also detected in the healthy controls, these levels were sufficiently low, enabling us to maintain high specificity, which is also consistent with the observation that 
+            <italic>ZNF154</italic>
+             hypermethylation is an early event in cancers, including pancreatic cancer, and is also absent in noncancer conditions, as we show in this study.
+          </p>
+          <p id="Par37">
+            <italic>ZNF154’</italic>
+            s performance at identifying plasma samples from patients with cancer is competitive with that of other proposed biomarkers. For example, in this study, 
+            <italic>ZNF154</italic>
+             methylation outperformed 
+            <italic>KRAS</italic>
+             mutations in pancreatic cancer, when counts of any methylated 
+            <italic>ZNF154</italic>
+             fragment were used to classify cancer versus control plasma samples. 
+            <italic>ZNF154</italic>
+             methylation also should be compared with methylation of a recently proposed pan-cancer biomarker, Gasdermin E (
+            <italic>GSDME</italic>
+            )
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            . When 
+            <italic>GSDME</italic>
+             was used to identify various tumor types based on methylation in tissue samples, its reported AUCs are 0.84–0.97; these values are similar to what we have reported previously for 
+            <italic>ZNF154</italic>
+             in various tumor types (AUCS ≥ 0.95)
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . However, 
+            <italic>GSDME</italic>
+             methylation has not yet been tested in plasma samples, as 
+            <italic>ZNF154</italic>
+             has in this study.
+          </p>
+          <p id="Par38">
+            The preliminary results presented in this article suggest that 
+            <italic>ZNF154</italic>
+             methylation also appears to be competitive with the multi-marker CancerSEEK test, a blood test that analyzes levels of 8 proteins and the presence of mutations at 1933 distinct genomic positions in cfDNA
+            <sup>
+              <xref ref-type="bibr" rid="CR38">38</xref>
+            </sup>
+            . CancerSEEK’s reported median sensitivity across 8 cancer types was 70%, ranging from 98% in ovarian cancer to 33% in breast cancer. Its median sensitivity for stage I cancers was 43% overall, ranging from 20% for esophageal cancer to 100% for liver cancer. Finally, its overall specificity was ≥ 99%. Analysis of methylation at 
+            <italic>ZNF154</italic>
+             is considerably simpler, cheaper, and faster than CancerSEEK, and achieves similar detection sensitivity with respect to colorectal and pancreatic cancer detection by only using a single genomic locus. Some of the proteins used by CancerSEEK are also elevated in people with inflammatory disease
+            <sup>
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+            , so the test’s false-positive rate is likely to be elevated in real-world populations, whereas 
+            <italic>ZNF154</italic>
+             does not appear to be methylated in non-cancer conditions. While methylation array data derived from tissues of the gastrointestinal tract indicated elevated methylation at 
+            <italic>ZNF154</italic>
+            , patients with Crohn’s disease or ulcerative colitis actually had reduced methylation levels relative to healthy controls. One important difference between 
+            <italic>ZNF154</italic>
+             methylation and CancerSEEK is the ability of CancerSEEK to localize cancer to a small number of anatomic sites in a median of 83% of patients, which 
+            <italic>ZNF154</italic>
+             methylation cannot do. Neverthless, given recent reports of elevated mutation rates stemming from clonal hematopeosis, the false positive rates of mutation screening will need to be carefully evaluated
+            <sup>
+              <xref ref-type="bibr" rid="CR40">40</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par39">
+            In conclusion, our research indicates that 
+            <italic>ZNF154</italic>
+             methylation testing in plasma may be a method capable of detecting multiple cancer types. This report provides proof of concept that 
+            <italic>ZNF154</italic>
+             is a biomarker worthy of further study in the context of liquid biopsy-based lab testing or screening for cancer. However, although 
+            <italic>ZNF154</italic>
+            ′s performance in this study was satisfactory, it could also potentially be followed by additional markers that can help pinpoint the organ of origin for ctDNA, to aid diagnosis. Nonetheless, the ability of a single locus to achieve similar sensitivities to alternative methods that rely on hundreds or thousands of different markers suggests that the 
+            <italic>ZNF154</italic>
+             assay presented here may be more applicable to the clinic. The assay itself is simpler, requires less patient material (we were able to detect discriminating signal with less than 2 mL of patient plasma), easier to implement (requires a qPCR machine and easily acquired reagents), and less expensive than current ultra-deep sequencing approaches.
+          </p>
+          <p id="Par40">
+            In future studies, we plan to investigate 
+            <italic>ZNF154</italic>
+             methylation in larger validation sets of plasma samples from patients with cancer of different types and stages, as well as larger control sample cohorts. In a previous study, 
+            <italic>ZNF154</italic>
+             methylation was shown to be unhelpful for identifying thyroid tumors
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            , so it will be important to clarify which types of cancer the marker will miss. Eventually, it may be worthwhile to investigate 
+            <italic>ZNF154</italic>
+             in a clinical trial, potentially as a marker used to screen patients at high risk of developing cancer
+            <sup>
+              <xref ref-type="bibr" rid="CR41">41</xref>
+            </sup>
+            , providing that technical sensitivity can be achieved.
+          </p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>The authors thank Kristin Harper, PhD, of Harper Health &amp; Science Communications, LLC, for providing writing and editorial support in accordance with Good Publication Practice (GPP3) guidelines, Gennady Margolin for advice and feedback, Ryan Winters and Denise Connolly at the Fox Chase Cancer Center Biosample Repository Facility, and the NCI genomics core—Steve Shema and Dr. Valery Bliskovsky for assistance with ddPCR assays.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>Conception, data acquisition, analysis and interpretation, and manuscript writing: B.F.M., L.E. Data acquisition and technical support: H.P. Acquisition of funding: L.E.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>Supported by the Intramural Program of the National Human Genome Research Institutes, the National Institutes of Health.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>
+            Data from publicly accessible collections are listed in Table 
+            <xref rid="Tab2" ref-type="table">2</xref>
+            . The analysis code to reproduce the figures present here can be found at: 
+            <ext-link ns0:href="https://github.com/bmill3r/ZNF154_Manuscript" ext-link-type="uri">https://github.com/bmill3r/ZNF154_Manuscript</ext-link>
+            .
+          </p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par42">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>American Cancer Society</collab>
+                </person-group>
+                <source>Cancer Facts and Figures 2019</source>
+                <year>2019</year>
+                <publisher-loc>New York</publisher-loc>
+                <publisher-name>American Cancer Society</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tanić</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Beck</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Epigenome-wide association studies for cancer biomarker discovery in circulating cell-free DNA: Technical advances and challenges</article-title>
+                <source>Curr. Opin. Genet. Dev.</source>
+                <year>2017</year>
+                <volume>42</volume>
+                <fpage>48</fpage>
+                <lpage>55</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXisFSitrc%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.gde.2017.01.017</pub-id>
+                <pub-id pub-id-type="pmid">28391083</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Margolin</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Robust detection of DNA hypermethylation of ZNF154 as a pan-cancer locus with in silico modeling for blood-based diagnostic development</article-title>
+                <source>J. Mol. Diagn.</source>
+                <year>2016</year>
+                <volume>18</volume>
+                <fpage>283</fpage>
+                <lpage>298</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XitlCnsbk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.jmoldx.2015.11.004</pub-id>
+                <pub-id pub-id-type="pmid">26857064</pub-id>
+                <pub-id pub-id-type="pmcid">4816708</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sanchez-Vega</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Recurrent patterns of DNA methylation in the ZNF154, CASP8, and VHL promoters across a wide spectrum of human solid epithelial tumors and cancer cell lines</article-title>
+                <source>Epigenetics</source>
+                <year>2013</year>
+                <volume>8</volume>
+                <fpage>1355</fpage>
+                <lpage>1372</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXntlWnsLs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.4161/epi.26701</pub-id>
+                <pub-id pub-id-type="pmid">24149212</pub-id>
+                <pub-id pub-id-type="pmcid">3933495</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hu</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Candidate tumor suppressor ZNF154 suppresses invasion and metastasis in NPC by inhibiting the EMT via Wnt/beta-catenin signalling</article-title>
+                <source>Oncotarget</source>
+                <year>2017</year>
+                <volume>8</volume>
+                <fpage>85749</fpage>
+                <lpage>85758</lpage>
+                <pub-id pub-id-type="doi">10.18632/oncotarget.20479</pub-id>
+                <pub-id pub-id-type="pmid">29156753</pub-id>
+                <pub-id pub-id-type="pmcid">5689643</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="other">
+                FDA approves first blood test to detect gene mutation associated with non-small cell lung cancer. 
+                <ext-link ns0:href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-blood-test-detect-gene-mutation-associated-non-small-cell-lung-cancer" ext-link-type="uri">https://www.fda.gov/news-events/press-announcements/fda-approves-first-blood-test-detect-gene-mutation-associated-non-small-cell-lung-cancer</ext-link>
+                 (2016).
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alix-Panabières</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Pantel</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Clinical applications of circulating tumor cells and circulating tumor DNA as liquid biopsy</article-title>
+                <source>Cancer Discov.</source>
+                <year>2016</year>
+                <volume>6</volume>
+                <fpage>479</fpage>
+                <lpage>491</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XntlOqsro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1158/2159-8290.CD-15-1483</pub-id>
+                <pub-id pub-id-type="pmid">26969689</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Domínguez-Vigil</surname>
+                    <given-names>IG</given-names>
+                  </name>
+                  <name>
+                    <surname>Moreno-Martínez</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>JY</given-names>
+                  </name>
+                  <name>
+                    <surname>Roehrl</surname>
+                    <given-names>MHA</given-names>
+                  </name>
+                  <name>
+                    <surname>Barrera-Saldaña</surname>
+                    <given-names>HA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The dawn of the liquid biopsy in the fight against cancer</article-title>
+                <source>Oncotarget</source>
+                <year>2017</year>
+                <volume>9</volume>
+                <fpage>2912</fpage>
+                <lpage>2922</lpage>
+                <pub-id pub-id-type="doi">10.18632/oncotarget.23131</pub-id>
+                <pub-id pub-id-type="pmid">29416824</pub-id>
+                <pub-id pub-id-type="pmcid">5788692</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hao</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">DNA methylation markers for diagnosis and prognosis of common cancers</article-title>
+                <source>Proc. Natl. Acad. Sci. USA</source>
+                <year>2017</year>
+                <volume>114</volume>
+                <fpage>7414</fpage>
+                <lpage>7419</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhtVKhsrbN</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.1703577114</pub-id>
+                <pub-id pub-id-type="pmid">28652331</pub-id>
+                <pub-id pub-id-type="pmcid">5514741</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Screening dys-methylation genes and rules for cancer diagnosis by using the pan-cancer study</article-title>
+                <source>IEEE Access.</source>
+                <year>2019</year>
+                <volume>8</volume>
+                <fpage>489</fpage>
+                <lpage>501</lpage>
+                <pub-id pub-id-type="doi">10.1109/ACCESS.2019.2961402</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Boks</surname>
+                    <given-names>MP</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The relationship of DNA methylation with age, gender and genotype in twins and healthy controls</article-title>
+                <source>PLoS One</source>
+                <year>2009</year>
+                <volume>4</volume>
+                <fpage>e6767</fpage>
+                <lpage>e6767</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2009PLoSO...4.6767B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhtVOiurrK</pub-id>
+                <pub-id pub-id-type="doi">10.1371/journal.pone.0006767</pub-id>
+                <pub-id pub-id-type="pmid">19774229</pub-id>
+                <pub-id pub-id-type="pmcid">2747671</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Day</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Differential DNA methylation with age displays both common and dynamic features across human tissues that are influenced by CpG landscape</article-title>
+                <source>Genome Biol.</source>
+                <year>2013</year>
+                <volume>14</volume>
+                <fpage>R102</fpage>
+                <lpage>R102</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXjsValtbY%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1186/gb-2013-14-9-r102</pub-id>
+                <pub-id pub-id-type="pmid">24034465</pub-id>
+                <pub-id pub-id-type="pmcid">4053985</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Florath</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Butterbach</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Müller</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Bewerunge-Hudler</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Brenner</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cross-sectional and longitudinal changes in DNA methylation with age: An epigenome-wide analysis revealing over 60 novel age-associated CpG sites</article-title>
+                <source>Hum. Mol. Genet.</source>
+                <year>2014</year>
+                <volume>23</volume>
+                <fpage>1186</fpage>
+                <lpage>1201</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXitFWiuro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1093/hmg/ddt531</pub-id>
+                <pub-id pub-id-type="pmid">24163245</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gao</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal</article-title>
+                <source>Sci. Signal</source>
+                <year>2013</year>
+                <volume>6</volume>
+                <fpage>1</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXmsFGhtbw%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/scisignal.2004088</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bartlett</surname>
+                    <given-names>TE</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Intra-gene DNA methylation variability is a clinically independent prognostic marker in women's cancers</article-title>
+                <source>PLoS One</source>
+                <year>2015</year>
+                <volume>10</volume>
+                <fpage>e0143178</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXitV2hs7zM</pub-id>
+                <pub-id pub-id-type="doi">10.1371/journal.pone.0143178</pub-id>
+                <pub-id pub-id-type="pmid">26629914</pub-id>
+                <pub-id pub-id-type="pmcid">4667934</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bartlett</surname>
+                    <given-names>TE</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Epigenetic reprogramming of fallopian tube fimbriae in BRCA mutation carriers defines early ovarian cancer evolution</article-title>
+                <source>Nat. Commun.</source>
+                <year>2016</year>
+                <volume>7</volume>
+                <fpage>11620</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016NatCo...711620B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28Xos12lu7c%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ncomms11620</pub-id>
+                <pub-id pub-id-type="pmid">27216078</pub-id>
+                <pub-id pub-id-type="pmcid">4890182</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lehne</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A coherent approach for analysis of the Illumina HumanMethylation450 BeadChip improves data quality and performance in epigenome-wide association studies</article-title>
+                <source>Genome Biol.</source>
+                <year>2015</year>
+                <volume>16</volume>
+                <fpage>37</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXmvFequ7g%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1186/s13059-015-0600-x</pub-id>
+                <pub-id pub-id-type="pmid">25853392</pub-id>
+                <pub-id pub-id-type="pmcid">4365767</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Harris</surname>
+                    <given-names>RA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">DNA methylation-associated colonic mucosal immune and defense responses in treatment-naive pediatric ulcerative colitis</article-title>
+                <source>Epigenetics</source>
+                <year>2014</year>
+                <volume>9</volume>
+                <fpage>1131</fpage>
+                <lpage>1137</lpage>
+                <pub-id pub-id-type="doi">10.4161/epi.29446</pub-id>
+                <pub-id pub-id-type="pmid">24937444</pub-id>
+                <pub-id pub-id-type="pmcid">4164498</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kang</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A genome-wide methylation approach identifies a new hypermethylated gene panel in ulcerative colitis</article-title>
+                <source>Int. J. Mol. Sci.</source>
+                <year>2016</year>
+                <pub-id pub-id-type="doi">10.3390/ijms17081291</pub-id>
+                <pub-id pub-id-type="pmid">27999372</pub-id>
+                <pub-id pub-id-type="pmcid">5187939</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nicodemus-Johnson</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">DNA methylation in lung cells is associated with asthma endotypes and genetic risk</article-title>
+                <source>JCI Insight</source>
+                <year>2016</year>
+                <volume>1</volume>
+                <fpage>e90151</fpage>
+                <pub-id pub-id-type="doi">10.1172/jci.insight.90151</pub-id>
+                <pub-id pub-id-type="pmid">27942592</pub-id>
+                <pub-id pub-id-type="pmcid">5139904</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dayeh</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Genome-wide DNA methylation analysis of human pancreatic islets from type 2 diabetic and non-diabetic donors identifies candidate genes that influence insulin secretion</article-title>
+                <source>PLoS Genet.</source>
+                <year>2014</year>
+                <volume>10</volume>
+                <fpage>e1004160</fpage>
+                <lpage>e1004160</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhsVGlsbzO</pub-id>
+                <pub-id pub-id-type="doi">10.1371/journal.pgen.1004160</pub-id>
+                <pub-id pub-id-type="pmid">24603685</pub-id>
+                <pub-id pub-id-type="pmcid">3945174</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yotova</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Epigenetic alterations affecting transcription factors and signaling pathways in stromal cells of endometriosis</article-title>
+                <source>PLoS One</source>
+                <year>2017</year>
+                <volume>12</volume>
+                <fpage>e0170859</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXnvVOmtL4%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1371/journal.pone.0170859</pub-id>
+                <pub-id pub-id-type="pmid">28125717</pub-id>
+                <pub-id pub-id-type="pmcid">5268815</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Murphy</surname>
+                    <given-names>SK</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Relationship between methylome and transcriptome in patients with nonalcoholic fatty liver disease</article-title>
+                <source>Gastroenterology</source>
+                <year>2013</year>
+                <volume>145</volume>
+                <fpage>1076</fpage>
+                <lpage>1087</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhs1Oru7jE</pub-id>
+                <pub-id pub-id-type="doi">10.1053/j.gastro.2013.07.047</pub-id>
+                <pub-id pub-id-type="pmid">23916847</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ko</surname>
+                    <given-names>YA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Cytosine methylation changes in enhancer regions of core pro-fibrotic genes characterize kidney fibrosis development</article-title>
+                <source>Genome Biol.</source>
+                <year>2013</year>
+                <volume>14</volume>
+                <fpage>R108</fpage>
+                <pub-id pub-id-type="doi">10.1186/gb-2013-14-10-r108</pub-id>
+                <pub-id pub-id-type="pmid">24098934</pub-id>
+                <pub-id pub-id-type="pmcid">4053753</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bontha</surname>
+                    <given-names>SV</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Effects of DNA methylation on progression to interstitial fibrosis and tubular atrophy in renal allograft biopsies: A multi-omics approach</article-title>
+                <source>Am. J. Transplant.</source>
+                <year>2017</year>
+                <volume>17</volume>
+                <fpage>3060</fpage>
+                <lpage>3075</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhvVeisrrL</pub-id>
+                <pub-id pub-id-type="doi">10.1111/ajt.14372</pub-id>
+                <pub-id pub-id-type="pmid">28556588</pub-id>
+                <pub-id pub-id-type="pmcid">5734859</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Pisanic</surname>
+                    <given-names>TR</given-names>
+                    <suffix>2nd</suffix>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">DREAMing: A simple and ultrasensitive method for assessing intratumor epigenetic heterogeneity directly from liquid biopsies</article-title>
+                <source>Nucleic Acids Res.</source>
+                <year>2015</year>
+                <volume>43</volume>
+                <fpage>e154</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XhsVektbvJ</pub-id>
+                <pub-id pub-id-type="doi">10.1093/nar/gkv795</pub-id>
+                <pub-id pub-id-type="pmid">26304549</pub-id>
+                <pub-id pub-id-type="pmcid">4678844</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Teschendorff</surname>
+                    <given-names>AE</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A beta-mixture quantile normalization method for correcting probe design bias in Illumina Infinium 450 k DNA methylation data</article-title>
+                <source>Bioinformatics</source>
+                <year>2013</year>
+                <volume>29</volume>
+                <fpage>189</fpage>
+                <lpage>196</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhtFygsro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1093/bioinformatics/bts680</pub-id>
+                <pub-id pub-id-type="pmid">23175756</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chakravarty</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">OncoKB: A precision oncology knowledge base</article-title>
+                <source>JCO Precis Oncol.</source>
+                <year>2017</year>
+                <pub-id pub-id-type="doi">10.1200/PO.17.00011</pub-id>
+                <pub-id pub-id-type="pmid">28890946</pub-id>
+                <pub-id pub-id-type="pmcid">5558263</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Keeley</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Extraction and processing of circulating DNA from large sample volumes using methylation on beads for the detection of rare epigenetic events</article-title>
+                <source>Clin. Chim. Acta</source>
+                <year>2013</year>
+                <volume>425</volume>
+                <fpage>169</fpage>
+                <lpage>175</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhsF2gurfP</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.cca.2013.07.023</pub-id>
+                <pub-id pub-id-type="pmid">23911908</pub-id>
+                <pub-id pub-id-type="pmcid">3963364</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Miller</surname>
+                    <given-names>BF</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Leveraging locus-specific epigenetic heterogeneity to improve the performance of blood-based DNA methylation biomarkers</article-title>
+                <source>Clin.. Epigenet.</source>
+                <year>2020</year>
+                <volume>12</volume>
+                <fpage>154</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXitFOhurbK</pub-id>
+                <pub-id pub-id-type="doi">10.1186/s13148-020-00939-w</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>O'Keefe</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Facile profiling of molecular heterogeneity by microfluidic digital melt</article-title>
+                <source>Sci. Adv.</source>
+                <year>2018</year>
+                <volume>4</volume>
+                <fpage>eaat6459</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018SciA....4.6459O</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhsF2jurzF</pub-id>
+                <pub-id pub-id-type="doi">10.1126/sciadv.aat6459</pub-id>
+                <pub-id pub-id-type="pmid">30263958</pub-id>
+                <pub-id pub-id-type="pmcid">6157960</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Snyder</surname>
+                    <given-names>MW</given-names>
+                  </name>
+                  <name>
+                    <surname>Kircher</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Hill</surname>
+                    <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Daza</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <name>
+                    <surname>Shendure</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cell-free DNA comprises an in vivo nucleosome footprint that informs its tissues-of-origin</article-title>
+                <source>Cell</source>
+                <year>2016</year>
+                <volume>164</volume>
+                <fpage>57</fpage>
+                <lpage>68</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XhtFShsbs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.cell.2015.11.050</pub-id>
+                <pub-id pub-id-type="pmid">26771485</pub-id>
+                <pub-id pub-id-type="pmcid">4715266</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Du</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Comparison of Beta-value and M-value methods for quantifying methylation levels by microarray analysis</article-title>
+                <source>BMC Bioinform.</source>
+                <year>2010</year>
+                <volume>11</volume>
+                <fpage>587</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXhsFChu7nM</pub-id>
+                <pub-id pub-id-type="doi">10.1186/1471-2105-11-587</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Vessies</surname>
+                    <given-names>DCL</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Performance of four platforms for KRAS mutation detection in plasma cell-free DNA: ddPCR, Idylla, COBAS z480 and BEAMing</article-title>
+                <source>Sci. Rep.</source>
+                <year>2020</year>
+                <volume>10</volume>
+                <fpage>8122</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020NatSR..10.8122V</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXpslyrsbs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41598-020-64822-7</pub-id>
+                <pub-id pub-id-type="pmid">32415199</pub-id>
+                <pub-id pub-id-type="pmcid">7229219</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wojdacz</surname>
+                    <given-names>TK</given-names>
+                  </name>
+                  <name>
+                    <surname>Dobrovic</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hansen</surname>
+                    <given-names>LL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Methylation-sensitive high-resolution melting</article-title>
+                <source>Nat. Protoc.</source>
+                <year>2008</year>
+                <volume>3</volume>
+                <fpage>1903</fpage>
+                <lpage>1908</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1cXhsFCru7vL</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nprot.2008.191</pub-id>
+                <pub-id pub-id-type="pmid">19180074</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Herman</surname>
+                    <given-names>JG</given-names>
+                  </name>
+                  <name>
+                    <surname>Graff</surname>
+                    <given-names>JR</given-names>
+                  </name>
+                  <name>
+                    <surname>Myohanen</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Nelkin</surname>
+                    <given-names>BD</given-names>
+                  </name>
+                  <name>
+                    <surname>Baylin</surname>
+                    <given-names>SB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Methylation-specific PCR: A novel PCR assay for methylation status of CpG islands</article-title>
+                <source>Proc. Natl. Acad. Sci. USA</source>
+                <year>1996</year>
+                <volume>93</volume>
+                <fpage>9821</fpage>
+                <lpage>9826</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1996PNAS...93.9821H</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK28XlsFeht7Y%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.93.18.9821</pub-id>
+                <pub-id pub-id-type="pmid">8790415</pub-id>
+                <pub-id pub-id-type="pmcid">38513</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ibrahim</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Op de Beeck</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Fransen</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Peeters</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Van Camp</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The gasdermin E gene has potential as a pan-cancer biomarker, while discriminating between different tumor types</article-title>
+                <source>Cancers (Basel)</source>
+                <year>2019</year>
+                <volume>11</volume>
+                <fpage>1810</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXnsFChsLo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.3390/cancers11111810</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cohen</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Detection and localization of surgically resectable cancers with a multi-analyte blood test</article-title>
+                <source>Science</source>
+                <year>2018</year>
+                <volume>359</volume>
+                <fpage>926</fpage>
+                <lpage>930</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018Sci...359..926C</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXjtVWgtrs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.aar3247</pub-id>
+                <pub-id pub-id-type="pmid">29348365</pub-id>
+                <pub-id pub-id-type="pmcid">6080308</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kaiser</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">'Liquid biopsy' for cancer promises early detection</article-title>
+                <source>Science</source>
+                <year>2018</year>
+                <volume>359</volume>
+                <fpage>259</fpage>
+                <lpage>259</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018Sci...359..259K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhvFygtro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.359.6373.259</pub-id>
+                <pub-id pub-id-type="pmid">29348215</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Razavi</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">High-intensity sequencing reveals the sources of plasma circulating cell-free DNA variants</article-title>
+                <source>Nat. Med.</source>
+                <year>2019</year>
+                <volume>25</volume>
+                <fpage>1928</fpage>
+                <lpage>1937</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXitlajtLvK</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41591-019-0652-7</pub-id>
+                <pub-id pub-id-type="pmid">31768066</pub-id>
+                <pub-id pub-id-type="pmcid">7061455</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bardelli</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Pantel</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Liquid biopsies, what we do not know (yet)</article-title>
+                <source>Cancer Cell</source>
+                <year>2017</year>
+                <volume>31</volume>
+                <fpage>172</fpage>
+                <lpage>179</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXis1ylt7Y%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ccell.2017.01.002</pub-id>
+                <pub-id pub-id-type="pmid">28196593</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec26">
+              <title>Supplementary Information</title>
+              <p id="Par43">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary Information">
+                  <media mimetype="application" mime-subtype="msword" ns0:href="MediaObjects/41598_2020_80345_MOESM1_ESM.docx">
+                    <caption xml:lang="en">
+                      <p>Supplementary Information.</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary Information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41598-020-80345-7" ext-link-type="doi">https://doi.org/10.1038/s41598-020-80345-7</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Publisher's note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

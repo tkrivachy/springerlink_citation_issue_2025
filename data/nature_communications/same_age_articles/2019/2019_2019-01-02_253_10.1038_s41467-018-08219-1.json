@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704663",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08219-1",
+    "title": "Apparent latent structure within the UK Biobank sample has implications for epidemiological analysis",
+    "article_number": "333",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Simon Haworth",
+      "Ruth Mitchell",
+      "Laura Corbin",
+      "Kaitlin H. Wade",
+      "Tom Dudding",
+      "Ashley Budu-Aggrey",
+      "David Carslake",
+      "Gibran Hemani",
+      "Lavinia Paternoster",
+      "George Davey Smith",
+      "Neil Davies",
+      "Daniel J. Lawson",
+      "Nicholas J. Timpson"
+    ]
+  },
+  "article_index": 253,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 269,
+      "retrieved_at": "2025-10-03T17:55:30.632271"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 270,
+      "retrieved_at": "2025-10-03T17:55:32.187790"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 262,
+      "retrieved_at": "2025-10-03T17:55:33.377003"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 306,
+      "retrieved_at": "2025-10-03T22:52:24.794895"
+    },
+    "last_updated": "2025-10-03T22:52:24.795085"
+  }
+}

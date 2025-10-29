@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.413815",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84684-7",
+    "title": "Association of body mass index with clinicopathological features among patients with clear cell renal cell carcinoma treated with surgery: a retrospective study",
+    "article_number": "432",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhibin Fu",
+      "Yewei Bao",
+      "Kai Dong",
+      "Di Gu",
+      "Zheng Wang",
+      "Jiean Ding",
+      "Ziwei He",
+      "Xinxin Gan",
+      "Zhenjie Wu",
+      "Chenghua Yang",
+      "Linhui Wang"
+    ]
+  },
+  "article_index": 595,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:44:18.618162"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:44:20.125773"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:44:21.308989"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:27:26.018767"
+    },
+    "last_updated": "2025-10-03T22:27:26.018960"
+  }
+}

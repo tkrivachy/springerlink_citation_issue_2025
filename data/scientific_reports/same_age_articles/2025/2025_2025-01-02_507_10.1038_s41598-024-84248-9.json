@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.404455",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84248-9",
+    "title": "Local-non-local complementary learning network for 3D point cloud analysis",
+    "article_number": "480",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ning Ye",
+      "Kaihao Feng",
+      "Sen Lin"
+    ]
+  },
+  "article_index": 507,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:34:54.150240"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:34:55.674463"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:38.615599"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:23:59.560774"
+    },
+    "last_updated": "2025-10-07T09:52:38.615691"
+  }
+}

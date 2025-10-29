@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.241462",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80170-y",
+    "title": "Salivary microbiome with gastroesophageal reflux disease and treatment",
+    "article_number": "188",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nadia Kawar",
+      "Seon Gyeong Park",
+      "Joel L. Schwartz",
+      "Nicholas Callahan",
+      "Ales Obrez",
+      "Bin Yang",
+      "Zhengjia Chen",
+      "Guy R. Adami"
+    ]
+  },
+  "article_index": 219,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:42:54.396819"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T14:42:55.913703"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T14:42:57.230139"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T21:40:38.712387"
+    },
+    "last_updated": "2025-10-03T21:40:38.712597"
+  }
+}

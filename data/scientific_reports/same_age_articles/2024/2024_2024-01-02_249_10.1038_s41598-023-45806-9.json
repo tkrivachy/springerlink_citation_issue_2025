@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.859014",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-45806-9",
+    "title": "Prediction model of spontaneous combustion risk of extraction borehole based on PSO-BPNN and its application",
+    "article_number": "5",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Wei Wang",
+      "Ran Liang",
+      "Yun Qi",
+      "Xinchao Cui",
+      "Jiao Liu"
+    ]
+  },
+  "article_index": 249,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:49:41.988247"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:49:43.520837"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:49:44.878249"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T22:07:41.106175"
+    },
+    "last_updated": "2025-10-03T22:07:41.106406"
+  }
+}

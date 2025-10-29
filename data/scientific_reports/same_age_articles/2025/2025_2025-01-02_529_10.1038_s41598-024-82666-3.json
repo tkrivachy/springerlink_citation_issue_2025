@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.406852",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82666-3",
+    "title": "High Arctic lakes reveal accelerating ecological shifts linked to twenty-first century warming",
+    "article_number": "77",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Emma Cameron",
+      "Marc Oliva",
+      "Dermot Antoniades"
+    ]
+  },
+  "article_index": 529,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:04:27.927052"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:04:29.502134"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:26.156925"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:13:14.335972"
+    },
+    "last_updated": "2025-10-07T09:46:26.157138"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.565473",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55086-0",
+    "title": "Gene-editing in patient and humanized-mice primary muscle stem cells rescues dysferlin expression in dysferlin-deficient muscular dystrophy",
+    "article_number": "120",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Helena Escobar",
+      "Silvia Di Francescantonio",
+      "Julia Smirnova",
+      "Robin Graf",
+      "Stefanie Müthel",
+      "Andreas Marg",
+      "Alexej Zhogov",
+      "Supriya Krishna",
+      "Eric Metzler",
+      "Mina Petkova",
+      "Oliver Daumke",
+      "Ralf Kühn",
+      "Simone Spuler"
+    ]
+  },
+  "article_index": 321,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:45:25.652109"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:45:27.261981"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:28.454213"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:29:28.804560"
+    },
+    "last_updated": "2025-10-03T23:29:28.804752"
+  }
+}

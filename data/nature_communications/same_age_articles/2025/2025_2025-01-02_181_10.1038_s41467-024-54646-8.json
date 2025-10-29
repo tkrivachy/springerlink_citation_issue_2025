@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.537382",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54646-8",
+    "title": "Ir-O-Mn embedded in porous nanosheets enhances charge transfer in low-iridium PEM electrolyzers",
+    "article_number": "181",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dawei Wang",
+      "Fangxu Lin",
+      "Heng Luo",
+      "Jinhui Zhou",
+      "Wenshu Zhang",
+      "Lu Li",
+      "Yi Wei",
+      "Qinghua Zhang",
+      "Lin Gu",
+      "Yanfei Wang",
+      "Mingchuan Luo",
+      "Fan Lv",
+      "Shaojun Guo"
+    ]
+  },
+  "article_index": 181,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:23:04.558748"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:23:06.124974"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:23:07.338533"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:21:52.764147"
+    },
+    "last_updated": "2025-10-03T23:21:52.764378"
+  }
+}

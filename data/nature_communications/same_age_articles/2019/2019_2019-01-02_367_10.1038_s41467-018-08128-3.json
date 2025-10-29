@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.717415",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08128-3",
+    "title": "Intergenerational inheritance of high fat diet-induced cardiac lipotoxicity in ",
+    "article_number": "193",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Maria Clara Guida",
+      "Ryan Tyge Birse",
+      "Alessandra Dall’Agnese",
+      "Paula Coutinho Toto",
+      "Soda Balla Diop",
+      "Antonello Mai",
+      "Peter D. Adams",
+      "Pier Lorenzo Puri",
+      "Rolf Bodmer"
+    ]
+  },
+  "article_index": 367,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T17:47:45.116768"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T17:47:46.696796"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:47:47.879995"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T22:49:29.218623"
+    },
+    "last_updated": "2025-10-03T22:49:29.218708"
+  }
+}

@@ -1,0 +1,187 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-024-83355-x",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-024-83355-x",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-024-83355-x"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-024-83355-x.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-024-83355-x"
+        }
+      ],
+      "title": "Non-uniform failure mechanism and stability control of mining roadway under deviatoric stress field",
+      "creators": [
+        {
+          "creator": "Huo, Tianhong"
+        },
+        {
+          "creator": "Liu, Hongtao"
+        },
+        {
+          "creator": "Fu, Shigen"
+        },
+        {
+          "creator": "Fu, Botao"
+        },
+        {
+          "creator": "Wang, Shouyin"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-024-83355-x",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2025-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "15",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "16",
+      "journalId": "41598",
+      "onlineDate": "2025-01-02",
+      "coverDate": "2025-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": "Based on the elastic–plastic theory, the analytical formula of the second invariant J _2 of deviatoric stress at any point around the circular roadway under the non-uniform stress field is derived. The distribution law of J _2 of surrounding rock under the three-dimensional non-isobaric stress field is studied by theoretical analysis and numerical simulation. Combined with the butterfly failure theory of surrounding rock of roadway, the close relationship between the distribution pattern of J _2 and the distribution pattern of plastic zone is found, and the failure mechanism of surrounding rock is revealed. The results show that the distribution form of the second invariant J _2 of deviatoric stress is closely related to the distribution form of plastic zone. When the distribution of J _2 of surrounding rock shows ‘round’, ‘oval’ and ‘butterfly’, the plastic zone shows the corresponding consistent form. When the second invariant J _2 of deviatoric stress produces stress concentration, the surrounding rock of roadway will produce large-scale damage. When the stress concentration is high, it may lead to malignant expansion of surrounding rock of roadway. The distribution of the second invariant J _2 of deviatoric stress is directional. When the principal stress rotates over a certain angle, the second invariant J _2 of deviatoric stress rotates over the same angle as the plastic zone. Under the influence of superimposed mining, the second invariant deviatoric stress J _2 of the wind tunnel of Yangchangwan 160,206 working face presents butterfly distribution, and the stress butterfly leaves present a certain degree of rotation. Based on the failure mode of plastic zone, the corresponding optimization support scheme is proposed, and the engineering effect is good.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Surrounding rock control",
+        "Butterfly plastic zone",
+        "Deviatoric stress field",
+        "Second invariant of deviatoric stress",
+        "Roadway"
+      ],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Butterfly plastic zone",
+          "count": "1"
+        },
+        {
+          "value": "Deviatoric stress field",
+          "count": "1"
+        },
+        {
+          "value": "Roadway",
+          "count": "1"
+        },
+        {
+          "value": "Second invariant of deviatoric stress",
+          "count": "1"
+        },
+        {
+          "value": "Surrounding rock control",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2025",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "China",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

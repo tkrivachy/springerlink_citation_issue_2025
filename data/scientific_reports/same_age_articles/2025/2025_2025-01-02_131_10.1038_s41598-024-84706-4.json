@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.362120",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84706-4",
+    "title": "Amelioration of the growth and physiological responses of ",
+    "article_number": "467",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mohammad Bagher Hassanpouraghdam",
+      "Lamia Vojodi Mehrabani",
+      "Leila Khoshmaram",
+      "Farzad Rasouli"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:33:13.758773"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:33:15.265018"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:19.294434"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:23:23.491087"
+    },
+    "last_updated": "2025-10-07T09:52:19.294648"
+  }
+}

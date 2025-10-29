@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.847687",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50634-y",
+    "title": "Contribution of circulating monocytes in maintaining homeostasis of resident macrophages in postnatal and young adult mouse cochlea",
+    "article_number": "62",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Toru Miwa",
+      "Gowshika Rengasamy",
+      "Zhaoyuan Liu",
+      "Florent Ginhoux",
+      "Takayuki Okano"
+    ]
+  },
+  "article_index": 202,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:45:23.439942"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:45:25.010617"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:45:26.253885"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:05:59.208754"
+    },
+    "last_updated": "2025-10-03T22:05:59.208874"
+  }
+}

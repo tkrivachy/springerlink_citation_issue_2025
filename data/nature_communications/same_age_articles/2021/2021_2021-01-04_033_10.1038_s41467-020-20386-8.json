@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.178742",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20386-8",
+    "title": "Interaction between SNAI2 and MYOD enhances oncogenesis and suppresses differentiation in Fusion Negative Rhabdomyosarcoma",
+    "article_number": "192",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Silvia Pomella",
+      "Prethish Sreenivas",
+      "Berkley E. Gryder",
+      "Long Wang",
+      "David Milewski",
+      "Matteo Cassandri",
+      "Kunal Baxi",
+      "Nicole R. Hensch",
+      "Elena Carcarino",
+      "Young Song",
+      "Hsien-Chao Chou",
+      "Marielle E. Yohe",
+      "Benjamin Z. Stanton",
+      "Bruno Amadio",
+      "Ignazio Caruana",
+      "Cristiano De Stefanis",
+      "Rita De Vito",
+      "Franco Locatelli",
+      "Yidong Chen",
+      "Eleanor Y. Chen",
+      "Peter Houghton",
+      "Javed Khan",
+      "Rossella Rota",
+      "Myron S. Ignatius"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:37:45.713019"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:37:47.314184"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:37:48.482467"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T23:06:32.257535"
+    },
+    "last_updated": "2025-10-03T23:06:32.257621"
+  }
+}

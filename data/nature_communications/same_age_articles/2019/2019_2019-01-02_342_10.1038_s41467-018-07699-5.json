@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.714735",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07699-5",
+    "title": "Trodusquemine enhances Aβ",
+    "article_number": "225",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ryan Limbocker",
+      "Sean Chia",
+      "Francesco S. Ruggeri",
+      "Michele Perni",
+      "Roberta Cascella",
+      "Gabriella T. Heller",
+      "Georg Meisl",
+      "Benedetta Mannini",
+      "Johnny Habchi",
+      "Thomas C. T. Michaels",
+      "Pavan K. Challa",
+      "Minkoo Ahn",
+      "Samuel T. Casford",
+      "Nilumi Fernando",
+      "Catherine K. Xu",
+      "Nina D. Kloss",
+      "Samuel I. A. Cohen",
+      "Janet R. Kumita",
+      "Cristina Cecchi",
+      "Michael Zasloff",
+      "Sara Linse",
+      "Tuomas P. J. Knowles",
+      "Fabrizio Chiti",
+      "Michele Vendruscolo",
+      "Christopher M. Dobson"
+    ]
+  },
+  "article_index": 342,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T17:42:59.956788"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T17:43:01.506245"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T17:43:02.757064"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T22:47:58.821943"
+    },
+    "last_updated": "2025-10-03T22:47:58.822010"
+  }
+}

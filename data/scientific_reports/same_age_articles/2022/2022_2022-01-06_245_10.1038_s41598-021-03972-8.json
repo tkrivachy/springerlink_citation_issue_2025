@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.883162",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03972-8",
+    "title": "Automated food intake tracking requires depth-refined semantic segmentation to rectify visual-volume discordance in long-term care homes",
+    "article_number": "83",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kaylen J. Pfisterer",
+      "Robert Amelard",
+      "Audrey G. Chung",
+      "Braeden Syrnyk",
+      "Alexander MacLean",
+      "Heather H. Keller",
+      "Alexander Wong"
+    ]
+  },
+  "article_index": 245,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:14:43.936998"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:14:45.676727"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:14:46.884801"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:53:19.033084"
+    },
+    "last_updated": "2025-10-03T21:53:19.033167"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.542215",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55422-4",
+    "title": "Deep learning and genome-wide association meta-analyses of bone marrow adiposity in the UK Biobank",
+    "article_number": "99",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wei Xu",
+      "Ines Mesa-Eguiagaray",
+      "David M. Morris",
+      "Chengjia Wang",
+      "Calum D. Gray",
+      "Samuel Sjöström",
+      "Giorgos Papanastasiou",
+      "Sammy Badr",
+      "Julien Paccou",
+      "Xue Li",
+      "Paul R. H. J. Timmers",
+      "Maria Timofeeva",
+      "Susan M. Farrington",
+      "Malcolm G. Dunlop",
+      "Scott I. Semple",
+      "Tom MacGillivray",
+      "Evropi Theodoratou",
+      "William P. Cawthorn"
+    ]
+  },
+  "article_index": 225,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:20:51.115082"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:20:52.683879"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:20:53.859506"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:21:07.263498"
+    },
+    "last_updated": "2025-10-03T23:21:07.263597"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303264",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57119-x",
+    "title": "High order mode structure of intense light fields generated via a laser-driven relativistic plasma aperture",
+    "article_number": "105",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "M. J. Duff",
+      "R. Wilson",
+      "M. King",
+      "B. Gonzalez-Izquierdo",
+      "A. Higginson",
+      "S. D. R. Williamson",
+      "Z. E. Davidson",
+      "R. Capdessus",
+      "N. Booth",
+      "S. Hawkes",
+      "D. Neely",
+      "R. J. Gray",
+      "P. McKenna"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:32:50.068411"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:32:51.644584"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:32:52.823101"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:36:28.315625"
+    },
+    "last_updated": "2025-10-03T21:36:28.315818"
+  }
+}

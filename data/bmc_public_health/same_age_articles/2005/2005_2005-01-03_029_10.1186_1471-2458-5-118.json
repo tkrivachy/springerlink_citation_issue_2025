@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.957136",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-118",
+    "title": "Prevalence of ",
+    "article_number": "118",
+    "publication_date": "2005-11-10",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ina S Santos",
+      "Jose Boccio",
+      "Ari S Santos",
+      "Neiva CJ Valle",
+      "Camila S Halal",
+      "Marta Colvara Bachilli",
+      "Ricardo D Lopes"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T12:23:28.794308"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T12:23:30.362174"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:23:31.718055"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T20:49:46.686611"
+    },
+    "last_updated": "2025-10-03T20:49:46.686659"
+  }
+}

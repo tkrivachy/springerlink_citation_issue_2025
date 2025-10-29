@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.239493",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1444-8",
+    "title": "A web- and mobile phone-based intervention to prevent obesity in 4-year-olds (MINISTOP): a population-based randomized controlled trial",
+    "article_number": "95",
+    "publication_date": "2015-02-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Christine Delisle",
+      "Sven Sandin",
+      "Elisabet Forsum",
+      "Hanna Henriksson",
+      "Ylva Trolle-Lagerros",
+      "Christel Larsson",
+      "Ralph Maddison",
+      "Francisco B Ortega",
+      "Jonatan R Ruiz",
+      "Kristin Silfvernagel",
+      "Toomas Timpka",
+      "Marie Löf"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T13:09:06.550292"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T13:09:08.116101"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T13:09:09.468905"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T21:06:08.260458"
+    },
+    "last_updated": "2025-10-03T21:06:08.260508"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.641480",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35721-4",
+    "title": "Natural oxidase-mimicking copper-organic frameworks for targeted identification of ascorbate in sensitive sweat sensing",
+    "article_number": "69",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhengyun Wang",
+      "Yuchen Huang",
+      "Kunqi Xu",
+      "Yanyu Zhong",
+      "Chaohui He",
+      "Lipei Jiang",
+      "Jiankang Sun",
+      "Zhuang Rao",
+      "Jiannan Zhu",
+      "Jing Huang",
+      "Fei Xiao",
+      "Hongfang Liu",
+      "Bao Yu Xia"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T18:49:14.023772"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T18:49:15.554179"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T18:49:16.920444"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T23:10:23.788451"
+    },
+    "last_updated": "2025-10-03T23:10:23.788502"
+  }
+}

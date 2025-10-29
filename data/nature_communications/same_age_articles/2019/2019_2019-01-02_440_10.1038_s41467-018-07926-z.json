@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.725119",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07926-z",
+    "title": "A miniature multi-contrast microscope for functional imaging in freely behaving animals",
+    "article_number": "99",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Janaka Senarathna",
+      "Hang Yu",
+      "Callie Deng",
+      "Alice L. Zou",
+      "John B. Issa",
+      "Darian H. Hadjiabadi",
+      "Stacy Gil",
+      "Qihong Wang",
+      "Betty M. Tyler",
+      "Nitish V. Thakor",
+      "Arvind P. Pathak"
+    ]
+  },
+  "article_index": 440,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T17:09:55.164298"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T17:09:56.669427"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T17:09:57.994456"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T22:36:37.269245"
+    },
+    "last_updated": "2025-10-03T22:36:37.269478"
+  }
+}

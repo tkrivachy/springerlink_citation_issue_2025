@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:06.674308",
+  "year": 2012,
+  "article_type": "comparison",
+  "publication_date": "2012-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-12-11",
+    "title": "Progress towards implementation of ACT malaria case-management in public health facilities in the Republic of Sudan: a cluster-sample survey",
+    "article_number": "11",
+    "publication_date": "2012-01-06",
+    "volume": "12",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tarig M Abdelgader",
+      "Abdalla M Ibrahim",
+      "Khalid A Elmardi",
+      "Sophie Githinji",
+      "Dejan Zurovac",
+      "Robert W Snow",
+      "Abdisalan M Noor"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:45:19.567369"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T12:45:21.116545"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T12:45:22.420515"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T20:57:33.020818"
+    },
+    "last_updated": "2025-10-03T20:57:33.021007"
+  }
+}

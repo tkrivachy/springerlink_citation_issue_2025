@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.185936",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20431-6",
+    "title": "High performance tandem organic solar cells via a strongly infrared-absorbing narrow bandgap acceptor",
+    "article_number": "178",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhenrong Jia",
+      "Shucheng Qin",
+      "Lei Meng",
+      "Qing Ma",
+      "Indunil Angunawela",
+      "Jinyuan Zhang",
+      "Xiaojun Li",
+      "Yakun He",
+      "Wenbin Lai",
+      "Ning Li",
+      "Harald Ade",
+      "Christoph J. Brabec",
+      "Yongfang Li"
+    ]
+  },
+  "article_index": 73,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:22:25.027787"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 174,
+      "retrieved_at": "2025-10-03T18:22:26.534119"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 153,
+      "retrieved_at": "2025-10-03T18:22:27.920230"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T23:01:20.574895"
+    },
+    "last_updated": "2025-10-03T23:01:20.574945"
+  }
+}

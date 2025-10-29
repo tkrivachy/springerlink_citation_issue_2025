@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.677888",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44308-6",
+    "title": "T-cell stimulating vaccines empower CD3 bispecific antibody therapy in solid tumors",
+    "article_number": "48",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jim Middelburg",
+      "Marjolein Sluijter",
+      "Gaby Schaap",
+      "Büşra Göynük",
+      "Katy Lloyd",
+      "Vitalijs Ovcinnikovs",
+      "Gijs G. Zom",
+      "Renoud J. Marijnissen",
+      "Christianne Groeneveldt",
+      "Lisa Griffioen",
+      "Gerwin G. W. Sandker",
+      "Sandra Heskamp",
+      "Sjoerd H. van der Burg",
+      "Tsolere Arakelian",
+      "Ferry Ossendorp",
+      "Ramon Arens",
+      "Janine Schuurman",
+      "Kristel Kemper",
+      "Thorbald van Hall"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:04:57.807241"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:04:59.365875"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:05:00.548070"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:15:45.425611"
+    },
+    "last_updated": "2025-10-03T23:15:45.425707"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.959429",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-105",
+    "title": "Evaluation of school absenteeism data for early outbreak detection, New York City",
+    "article_number": "105",
+    "publication_date": "2005-10-07",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Melanie Besculides",
+      "Richard Heffernan",
+      "Farzad Mostashari",
+      "Don Weiss"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T12:15:01.467910"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T12:15:03.038630"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T12:15:04.388633"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T20:46:33.940739"
+    },
+    "last_updated": "2025-10-03T20:46:33.940812"
+  }
+}

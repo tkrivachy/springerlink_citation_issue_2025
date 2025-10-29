@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.379137",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84826-x",
+    "title": "Applying the PROMETHEE II, WASPAS, and CoCoSo models for assessment of geotechnical hazards in TBM tunneling",
+    "article_number": "491",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sasan Ghorbani",
+      "Komeil Bour",
+      "Roohollah Javdan"
+    ]
+  },
+  "article_index": 282,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:49:08.212449"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:49:09.765144"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:49:10.940696"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:29:01.870215"
+    },
+    "last_updated": "2025-10-03T22:29:01.870438"
+  }
+}

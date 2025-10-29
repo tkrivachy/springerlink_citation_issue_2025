@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.715032",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08185-8",
+    "title": "Magnetic-field-dependent quantum emission in hexagonal boron nitride at room temperature",
+    "article_number": "222",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Annemarie L. Exarhos",
+      "David A. Hopper",
+      "Raj N. Patel",
+      "Marcus W. Doherty",
+      "Lee C. Bassett"
+    ]
+  },
+  "article_index": 345,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T17:48:54.393579"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 160,
+      "retrieved_at": "2025-10-03T17:48:55.898558"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 151,
+      "retrieved_at": "2025-10-03T17:48:57.349993"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T22:49:53.976235"
+    },
+    "last_updated": "2025-10-03T22:49:53.976472"
+  }
+}

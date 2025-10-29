@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.763628",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-7",
+    "title": "Dental caries and erosion status of 12-year-old Hong Kong children",
+    "article_number": "7",
+    "publication_date": "2014-01-08",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Shinan Zhang",
+      "Alex MH Chau",
+      "Edward CM Lo",
+      "Chun-Hung Chu"
+    ]
+  },
+  "article_index": 152,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T13:07:54.892344"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T13:07:56.438050"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T13:07:57.747603"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T21:05:41.910958"
+    },
+    "last_updated": "2025-10-03T21:05:41.911149"
+  }
+}

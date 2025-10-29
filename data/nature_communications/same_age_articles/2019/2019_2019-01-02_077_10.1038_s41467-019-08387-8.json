@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685560",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08387-8",
+    "title": "Pluripotency and X chromosome dynamics revealed in pig pre-gastrulating embryos by single cell analysis",
+    "article_number": "500",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Priscila Ramos-Ibeas",
+      "Fei Sang",
+      "Qifan Zhu",
+      "Walfred W. C. Tang",
+      "Sarah Withey",
+      "Doris Klisch",
+      "Liam Wood",
+      "Matt Loose",
+      "M. Azim Surani",
+      "Ramiro Alberio"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T17:44:21.882951"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T17:44:23.425681"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T17:44:24.573752"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 119,
+      "retrieved_at": "2025-10-03T22:48:23.960919"
+    },
+    "last_updated": "2025-10-03T22:48:23.961112"
+  }
+}

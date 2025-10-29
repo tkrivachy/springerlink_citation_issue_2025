@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.608696",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02452-w",
+    "title": "Dynamic metal-ligand coordination for multicolour and water-jet rewritable paper",
+    "article_number": "3",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yun Ma",
+      "Pengfei She",
+      "Kenneth Yin Zhang",
+      "Huiran Yang",
+      "Yanyan Qin",
+      "Zihan Xu",
+      "Shujuan Liu",
+      "Qiang Zhao",
+      "Wei Huang"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:20.820740",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T11:43:58.885872"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T17:06:34.393222"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T17:06:35.574899"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T22:35:20.820555"
+    }
+  }
+}

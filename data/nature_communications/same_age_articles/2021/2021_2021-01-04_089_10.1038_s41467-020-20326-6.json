@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.188856",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20326-6",
+    "title": "Long wavelength single photon like driven photolysis via triplet triplet annihilation",
+    "article_number": "122",
+    "publication_date": "2021-01-05",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ling Huang",
+      "Le Zeng",
+      "Yongzhi Chen",
+      "Nuo Yu",
+      "Lei Wang",
+      "Kai Huang",
+      "Yang Zhao",
+      "Gang Han"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:27:57.027779"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T18:27:58.577537"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T18:27:59.773761"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T23:03:19.635525"
+    },
+    "last_updated": "2025-10-03T23:03:19.635714"
+  }
+}

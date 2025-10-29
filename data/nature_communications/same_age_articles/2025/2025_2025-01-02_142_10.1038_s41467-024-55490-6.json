@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.532683",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55490-6",
+    "title": "Multipocket synergy towards high thermoelectric performance in topological semimetal TaAs",
+    "article_number": "119",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Haihua Hu",
+      "Xiaolong Feng",
+      "Yu Pan",
+      "Vicky Hasse",
+      "Honghui Wang",
+      "Bin He",
+      "Claudia Felser"
+    ]
+  },
+  "article_index": 142,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:24:23.770097"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:24:25.340387"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:24:26.566628"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:22:18.375270"
+    },
+    "last_updated": "2025-10-03T23:22:18.375500"
+  }
+}

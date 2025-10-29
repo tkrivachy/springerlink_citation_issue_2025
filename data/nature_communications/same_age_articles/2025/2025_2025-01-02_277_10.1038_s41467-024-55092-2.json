@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.553534",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55092-2",
+    "title": "Complement factor H targeting antibody GT103 in refractory non-small cell lung cancer: a phase 1b dose escalation trial",
+    "article_number": "93",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jeffrey M. Clarke",
+      "George R. Simon",
+      "Hirva Mamdani",
+      "Lin Gu",
+      "James E. Herndon",
+      "Thomas E. Stinchcombe",
+      "Neal Ready",
+      "Jeffrey Crawford",
+      "Guru Sonpavde",
+      "Stephen Balevic",
+      "Andrew B. Nixon",
+      "Michael Campa",
+      "Elizabeth B. Gottlin",
+      "Huihua Li",
+      "Ruchi Saxena",
+      "You Wen He",
+      "Scott Antonia",
+      "Edward F. Patz"
+    ]
+  },
+  "article_index": 277,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:31:55.575178"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:31:57.136936"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:58.325713"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:24:40.404509"
+    },
+    "last_updated": "2025-10-03T23:24:40.404570"
+  }
+}

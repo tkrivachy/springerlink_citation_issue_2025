@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.182081",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20450-3",
+    "title": "Northern preference for terrestrial electromagnetic energy input from space weather",
+    "article_number": "199",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "I. P. Pakhotin",
+      "I. R. Mann",
+      "K. Xie",
+      "J. K. Burchill",
+      "D. J. Knudsen"
+    ]
+  },
+  "article_index": 51,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:34:59.937057"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:35:01.456144"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:35:02.600452"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T23:05:38.520791"
+    },
+    "last_updated": "2025-10-03T23:05:38.520976"
+  }
+}

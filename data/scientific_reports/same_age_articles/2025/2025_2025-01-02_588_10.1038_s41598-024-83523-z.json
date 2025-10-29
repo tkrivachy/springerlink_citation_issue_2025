@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.413124",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83523-z",
+    "title": "Sensitivity analysis and dynamics of brucellosis infection disease in cattle with control incident rate by using fractional derivative",
+    "article_number": "355",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Muhammad Farman",
+      "Evren Hincal",
+      "Saba Jamil",
+      "Nezihal Gokbulut",
+      "Kottakkaran Sooppy Nisar",
+      "Aceng Sambas"
+    ]
+  },
+  "article_index": 588,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:08:43.361655"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:08:44.890262"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:22.636716"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:14:53.703499"
+    },
+    "last_updated": "2025-10-07T09:47:22.636822"
+  }
+}

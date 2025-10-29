@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.689342",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44095-0",
+    "title": "Microbial co-occurrences on catheters from long-term catheterized patients",
+    "article_number": "61",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Taylor M. Nye",
+      "Zongsen Zou",
+      "Chloe L. P. Obernuefemann",
+      "Jerome S. Pinkner",
+      "Erin Lowry",
+      "Kent Kleinschmidt",
+      "Karla Bergeron",
+      "Aleksandra Klim",
+      "Karen W. Dodson",
+      "Ana L. Flores-Mireles",
+      "Jennifer N. Walker",
+      "Daniel Garrett Wong",
+      "Alana Desai",
+      "Michael G. Caparon",
+      "Scott J. Hultgren"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T19:04:35.125507"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T19:04:36.953186"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:04:38.234145"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T23:15:35.863084"
+    },
+    "last_updated": "2025-10-03T23:15:35.863267"
+  }
+}

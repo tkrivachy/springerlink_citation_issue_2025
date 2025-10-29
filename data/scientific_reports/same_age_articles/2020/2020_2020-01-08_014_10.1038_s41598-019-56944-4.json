@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301223",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56944-4",
+    "title": "Facile synthesis of hydrophilic magnetic graphene nanocomposites via dopamine self-polymerization and Michael addition for selective enrichment of N-linked glycopeptides",
+    "article_number": "71",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Changfen Bi",
+      "Ye Yuan",
+      "Yuran Tu",
+      "Jiahui Wu",
+      "Yulu Liang",
+      "Yiliang Li",
+      "Xiwen He",
+      "Langxing Chen",
+      "Yukui Zhang"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:26:06.107459"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:26:07.680192"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:26:08.873238"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T21:33:45.148642"
+    },
+    "last_updated": "2025-10-03T21:33:45.148828"
+  }
+}

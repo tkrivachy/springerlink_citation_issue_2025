@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.737145",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07861-z",
+    "title": "RETRACTED ARTICLE: A switch in the poly(dC)/RmlB complex regulates bacterial persister formation",
+    "article_number": "27",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xu Chen",
+      "Gen Li",
+      "Xuewei Liao",
+      "Jie Fang",
+      "Bo Li",
+      "Shanshan Yu",
+      "Mingming Sun",
+      "Jun Wu",
+      "Lihao Zhang",
+      "Yi Hu",
+      "Jiaguo Jiao",
+      "Ting Liu",
+      "Li Xu",
+      "Xiaoyun Chen",
+      "Manqiang Liu",
+      "Huixin Li",
+      "Feng Hu",
+      "Kouhong Sun"
+    ]
+  },
+  "article_index": 552,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:07:09.906371"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:07:11.460214"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:07:12.598295"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:56:20.495541"
+    },
+    "last_updated": "2025-10-03T22:56:20.495732"
+  }
+}

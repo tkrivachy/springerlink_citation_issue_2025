@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.225941",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80674-7",
+    "title": "GluN2B and GluN2A-containing NMDAR are differentially involved in extinction memory destabilization and restabilization during reconsolidation",
+    "article_number": "186",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Andressa Radiske",
+      "Maria Carolina Gonzalez",
+      "Diana A. Nôga",
+      "Janine I. Rossato",
+      "Lia R. M. Bevilaqua",
+      "Martín Cammarota"
+    ]
+  },
+  "article_index": 152,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:44:06.025262"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:44:07.569461"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:44:08.715147"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T21:41:06.354288"
+    },
+    "last_updated": "2025-10-03T21:41:06.354345"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221635",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80640-3",
+    "title": "Highly efficient self-powered perovskite photodiode with an electron-blocking hole-transport NiO",
+    "article_number": "169",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Amir Muhammad Afzal",
+      "In-Gon Bae",
+      "Yushika Aggarwal",
+      "Jaewoo Park",
+      "Hye-Ryeon Jeong",
+      "Eun Ha Choi",
+      "Byoungchoo Park"
+    ]
+  },
+  "article_index": 123,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:42:04.982884"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T14:42:06.505029"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T14:42:07.781994"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T21:40:16.847628"
+    },
+    "last_updated": "2025-10-03T21:40:16.847818"
+  }
+}

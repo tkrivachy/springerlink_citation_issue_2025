@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.098003",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-023-15011-4",
+    "title": "Women suffer but men die: survey data exploring whether this self-reported health paradox is real or an artefact of gender stereotypes",
+    "article_number": "94",
+    "publication_date": "2023-01-12",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Susan P. Phillips",
+      "Madlen O’Connor",
+      "Afshin Vafaei"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:09:19.350151"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:09:20.880574"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:09:22.139857"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:27:48.437877"
+    },
+    "last_updated": "2025-10-03T21:27:48.438067"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.179805",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20243-8",
+    "title": "Nanoscale coordination polymers induce immunogenic cell death by amplifying radiation therapy mediated oxidative stress",
+    "article_number": "145",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhusheng Huang",
+      "Yuxiang Wang",
+      "Dan Yao",
+      "Jinhui Wu",
+      "Yiqiao Hu",
+      "Ahu Yuan"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:34:00.040130"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 213,
+      "retrieved_at": "2025-10-03T18:34:01.553432"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 194,
+      "retrieved_at": "2025-10-03T18:34:02.737914"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 233,
+      "retrieved_at": "2025-10-03T23:05:20.652018"
+    },
+    "last_updated": "2025-10-03T23:05:20.652092"
+  }
+}

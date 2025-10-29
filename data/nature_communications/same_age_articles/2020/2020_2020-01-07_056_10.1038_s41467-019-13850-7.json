@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.883116",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13850-7",
+    "title": "Prox1-positive cells monitor and sustain the murine intestinal epithelial cholinergic niche",
+    "article_number": "111",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Moritz Middelhoff",
+      "Henrik Nienhüser",
+      "Giovanni Valenti",
+      "H. Carlo Maurer",
+      "Yoku Hayakawa",
+      "Ryota Takahashi",
+      "Woosook Kim",
+      "Zhengyu Jiang",
+      "Ermanno Malagola",
+      "Krystle Cuti",
+      "Yagnesh Tailor",
+      "Leah B. Zamechek",
+      "Bernhard W. Renz",
+      "Michael Quante",
+      "Kelley S. Yan",
+      "Timothy C. Wang"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T18:13:39.427075"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:13:40.935587"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:13:42.195089"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T22:58:18.194088"
+    },
+    "last_updated": "2025-10-03T22:58:18.194186"
+  }
+}

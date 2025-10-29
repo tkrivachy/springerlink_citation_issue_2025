@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.308425",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56267-4",
+    "title": "Methanogenic Archaea Can Produce Methane in Deliquescence-Driven Mars Analog Environments",
+    "article_number": "6",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Deborah Maus",
+      "Jacob Heinz",
+      "Janosch Schirmack",
+      "Alessandro Airo",
+      "Samuel P. Kounaves",
+      "Dirk Wagner",
+      "Dirk Schulze-Makuch"
+    ]
+  },
+  "article_index": 83,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T14:23:58.046541"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:23:59.679223"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T14:24:01.032122"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T21:32:52.772118"
+    },
+    "last_updated": "2025-10-03T21:32:52.772307"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.531058",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55391-8",
+    "title": "A Y chromosome-linked genome editor for efficient population suppression in the malaria vector ",
+    "article_number": "206",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ignacio Tolosana",
+      "Katie Willis",
+      "Matthew Gribble",
+      "Lee Phillimore",
+      "Austin Burt",
+      "Tony Nolan",
+      "Andrea Crisanti",
+      "Federica Bernardini"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:19:52.647582"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:19:54.206998"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:19:55.390518"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:20:48.346845"
+    },
+    "last_updated": "2025-10-03T23:20:48.347033"
+  }
+}

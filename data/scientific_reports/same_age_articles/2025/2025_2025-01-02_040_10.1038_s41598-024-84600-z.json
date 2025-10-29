@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.345600",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84600-z",
+    "title": "Effect and safety of sivelestat on acute severe pancreatitis with systemic inflammatory response syndrome: a retrospective study",
+    "article_number": "150",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jiafeng Xie",
+      "Ruyi Lei",
+      "Hui Pei",
+      "Yulei Gu",
+      "Luanluan Zhang",
+      "Jingrong Liu",
+      "Yahui Huang",
+      "Yepeng Zhang",
+      "Yanan Zi",
+      "Changju Zhu",
+      "Zhiqiang Zhu"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:22.917906"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:24.437502"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:25.638000"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:27:05.163073"
+    },
+    "last_updated": "2025-10-03T22:27:05.163258"
+  }
+}

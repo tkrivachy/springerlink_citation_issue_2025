@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685884",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08283-7",
+    "title": "Next-generation muscle-directed gene therapy by in silico vector design",
+    "article_number": "492",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "S. Sarcar",
+      "W. Tulalamba",
+      "M. Y. Rincon",
+      "J. Tipanee",
+      "H. Q. Pham",
+      "H. Evens",
+      "D. Boon",
+      "E. Samara-Kuko",
+      "M. Keyaerts",
+      "M. Loperfido",
+      "E. Berardi",
+      "S. Jarmin",
+      "P. In’t Veld",
+      "G. Dickson",
+      "T. Lahoutte",
+      "M. Sampaolesi",
+      "P. De Bleser",
+      "T. VandenDriessche",
+      "M. K. Chuah"
+    ]
+  },
+  "article_index": 80,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:41:08.382475"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:41:09.917725"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:41:11.107986"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T22:47:12.306189"
+    },
+    "last_updated": "2025-10-03T22:47:12.306430"
+  }
+}

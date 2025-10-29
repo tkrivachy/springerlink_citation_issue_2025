@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.848490",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-51001-7",
+    "title": "A novel portable flip-phone based visual behaviour assay for zebrafish",
+    "article_number": "236",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Vanessa Rodwell",
+      "Annabel Birchall",
+      "Ha-Jun Yoon",
+      "Helen J. Kuht",
+      "William H. J. Norton",
+      "Mervyn G. Thomas"
+    ]
+  },
+  "article_index": 210,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:54:10.646217"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:54:12.167636"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:54:13.331439"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:09:25.705153"
+    },
+    "last_updated": "2025-10-03T22:09:25.705202"
+  }
+}

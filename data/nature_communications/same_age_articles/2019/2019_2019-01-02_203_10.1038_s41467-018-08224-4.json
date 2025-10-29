@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.699117",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08224-4",
+    "title": "Engineering of CRISPR-Cas12b for human genome editing",
+    "article_number": "212",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jonathan Strecker",
+      "Sara Jones",
+      "Balwina Koopal",
+      "Jonathan Schmid-Burgk",
+      "Bernd Zetsche",
+      "Linyi Gao",
+      "Kira S. Makarova",
+      "Eugene V. Koonin",
+      "Feng Zhang"
+    ]
+  },
+  "article_index": 203,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:25:44.250273"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 307,
+      "retrieved_at": "2025-10-03T17:25:45.754834"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 291,
+      "retrieved_at": "2025-10-03T17:25:47.465575"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 322,
+      "retrieved_at": "2025-10-03T22:42:02.762314"
+    },
+    "last_updated": "2025-10-03T22:42:02.762547"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.175657",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20338-2",
+    "title": "Bayesian genome scale modelling identifies thermal determinants of yeast metabolism",
+    "article_number": "190",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gang Li",
+      "Yating Hu",
+      "Hao Luo",
+      "Hao Wang",
+      "Aleksej Zelezniak",
+      "Boyang Ji",
+      "Jens Nielsen"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T18:27:06.861689"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:27:08.399794"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:27:09.693011"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T23:03:00.611033"
+    },
+    "last_updated": "2025-10-03T23:03:00.611226"
+  }
+}

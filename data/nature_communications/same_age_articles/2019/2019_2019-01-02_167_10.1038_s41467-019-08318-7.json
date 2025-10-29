@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.695261",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08318-7",
+    "title": "Alveolar proteins stabilize cortical microtubules in ",
+    "article_number": "401",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Clare R. Harding",
+      "Matthew Gow",
+      "Joon Ho Kang",
+      "Emily Shortt",
+      "Scott R. Manalis",
+      "Markus Meissner",
+      "Sebastian Lourido"
+    ]
+  },
+  "article_index": 167,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:38:11.659093"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T17:38:13.225186"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:38:14.391194"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T22:46:22.636304"
+    },
+    "last_updated": "2025-10-03T22:46:22.636410"
+  }
+}

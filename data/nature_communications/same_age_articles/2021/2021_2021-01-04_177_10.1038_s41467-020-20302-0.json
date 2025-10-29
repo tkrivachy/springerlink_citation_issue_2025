@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.201888",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20302-0",
+    "title": "Early-life-trauma triggers interferon-β resistance and neurodegeneration in a multiple sclerosis model via downregulated β1-adrenergic signaling",
+    "article_number": "105",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yee Ming Khaw",
+      "Danish Majid",
+      "Sungjong Oh",
+      "Eunjoo Kang",
+      "Makoto Inoue"
+    ]
+  },
+  "article_index": 177,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:26:38.184374"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:26:39.779412"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:26:40.927982"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:02:49.609273"
+    },
+    "last_updated": "2025-10-03T23:02:49.609497"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.170689",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-12",
+    "title": "Attrition and bias in the MRC cognitive function and ageing study: an epidemiological investigation",
+    "article_number": "12",
+    "publication_date": "2004-04-27",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Fiona E Matthews",
+      "Mark Chatfield",
+      "Carol Freeman",
+      "Cherie McCracken",
+      "Carol Brayne",
+      "MRC CFAS"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T12:09:28.270779"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T12:09:29.818763"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 139,
+      "retrieved_at": "2025-10-03T12:09:31.238965"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 142,
+      "retrieved_at": "2025-10-03T20:44:32.144872"
+    },
+    "last_updated": "2025-10-03T20:44:32.145064"
+  }
+}

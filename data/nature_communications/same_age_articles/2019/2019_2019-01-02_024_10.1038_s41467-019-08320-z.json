@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.678822",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08320-z",
+    "title": "Ultrastretchable and superior healable supercapacitors based on a double cross-linked hydrogel electrolyte",
+    "article_number": "536",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Huili Li",
+      "Tian Lv",
+      "Huanhuan Sun",
+      "Guiju Qian",
+      "Ning Li",
+      "Yao Yao",
+      "Tao Chen"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:58:31.580119"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 283,
+      "retrieved_at": "2025-10-03T17:58:33.097876"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 261,
+      "retrieved_at": "2025-10-03T17:58:34.295982"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 312,
+      "retrieved_at": "2025-10-03T22:53:27.343762"
+    },
+    "last_updated": "2025-10-03T22:53:27.343824"
+  }
+}

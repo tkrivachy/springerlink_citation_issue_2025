@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.679448",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44344-2",
+    "title": "Organohydrogel-based transparent terahertz absorber via ionic conduction loss",
+    "article_number": "38",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wenke Xie",
+      "Qian Tang",
+      "Jinlong Xie",
+      "Yang Fei",
+      "Hujie Wan",
+      "Tao Zhao",
+      "Tianpeng Ding",
+      "Xu Xiao",
+      "Qiye Wen"
+    ]
+  },
+  "article_index": 124,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T19:10:14.657131"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T19:10:16.224363"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:10:17.411794"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T23:17:32.411567"
+    },
+    "last_updated": "2025-10-03T23:17:32.411685"
+  }
+}

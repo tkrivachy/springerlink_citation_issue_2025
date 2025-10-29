@@ -1,0 +1,69 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.686518",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08570-x",
+    "title": "Author Correction: Circulating tumor DNA analysis depicts subclonal architecture and genomic evolution of small cell lung cancer",
+    "article_number": "552",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jingying Nong",
+      "Yuhua Gong",
+      "Yanfang Guan",
+      "Xin Yi",
+      "Yuting Yi",
+      "Lianpeng Chang",
+      "Ling Yang",
+      "Jialin Lv",
+      "Zhirong Guo",
+      "Hongyan Jia",
+      "Yuxing Chu",
+      "Tao Liu",
+      "Ming Chen",
+      "Lauren Byers",
+      "Emily Roarty",
+      "Vincent K. Lam",
+      "Vassiliki A. Papadimitrakopoulou",
+      "Ignacio Wistuba",
+      "John V. Heymach",
+      "Bonnie Glisson",
+      "Zhongxing Liao",
+      "J. Jack Lee",
+      "P. Andrew Futreal",
+      "Shucai Zhang",
+      "Xuefeng Xia",
+      "Jianjun Zhang",
+      "Jinghui Wang"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:06:32.188456"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:06:33.707147"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:06:34.972822"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:56:07.880728"
+    },
+    "last_updated": "2025-10-03T22:56:07.880815"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.689727",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08271-x",
+    "title": "FGL2 promotes tumor progression in the CNS by suppressing CD103",
+    "article_number": "448",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jun Yan",
+      "Qingnan Zhao",
+      "Konrad Gabrusiewicz",
+      "Ling-Yuan Kong",
+      "Xueqing Xia",
+      "Jian Wang",
+      "Martina Ott",
+      "Jingda Xu",
+      "R. Eric Davis",
+      "Longfei Huo",
+      "Ganesh Rao",
+      "Shao-Cong Sun",
+      "Stephanie S. Watowich",
+      "Amy B. Heimberger",
+      "Shulin Li"
+    ]
+  },
+  "article_index": 116,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:16:44.765351"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T17:16:46.304012"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T17:16:47.459109"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T22:39:03.052825"
+    },
+    "last_updated": "2025-10-03T22:39:03.052901"
+  }
+}

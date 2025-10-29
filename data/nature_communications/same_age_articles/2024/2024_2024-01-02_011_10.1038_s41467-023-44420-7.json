@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.666908",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44420-7",
+    "title": "Modular assembly of an artificially concise biocatalytic cascade for the manufacture of phenethylisoquinoline alkaloids",
+    "article_number": "30",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yue Gao",
+      "Fei Li",
+      "Zhengshan Luo",
+      "Zhiwei Deng",
+      "Yan Zhang",
+      "Zhenbo Yuan",
+      "Changmei Liu",
+      "Yijian Rao"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:04:40.784602"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:04:42.284127"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:04:43.424805"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:15:37.971886"
+    },
+    "last_updated": "2025-10-03T23:15:37.972076"
+  }
+}

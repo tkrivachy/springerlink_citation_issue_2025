@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.523452",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55144-7",
+    "title": "H3K56 acetylation regulates chromatin maturation following DNA replication",
+    "article_number": "134",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shoufu Duan",
+      "Ilana M. Nodelman",
+      "Hui Zhou",
+      "Toshio Tsukiyama",
+      "Gregory D. Bowman",
+      "Zhiguo Zhang"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:39:27.268629"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:39:28.797473"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:39:29.972265"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:27:13.591669"
+    },
+    "last_updated": "2025-10-03T23:27:13.591861"
+  }
+}

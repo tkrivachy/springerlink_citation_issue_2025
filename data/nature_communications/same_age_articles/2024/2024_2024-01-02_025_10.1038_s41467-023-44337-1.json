@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.668755",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44337-1",
+    "title": "STYXL1 regulates CCT complex assembly and flagellar tubulin folding in sperm formation",
+    "article_number": "44",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu Chen",
+      "Mengjiao Luo",
+      "Haixia Tu",
+      "Yaling Qi",
+      "Yueshuai Guo",
+      "Xiangzheng Zhang",
+      "Yiqiang Cui",
+      "Mengmeng Gao",
+      "Xin Zhou",
+      "Tianyu Zhu",
+      "Hui Zhu",
+      "Chenghao Situ",
+      "Yan Li",
+      "Xuejiang Guo"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:12:15.803996"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:12:17.382585"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:12:18.549313"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T23:18:15.005103"
+    },
+    "last_updated": "2025-10-03T23:18:15.005290"
+  }
+}

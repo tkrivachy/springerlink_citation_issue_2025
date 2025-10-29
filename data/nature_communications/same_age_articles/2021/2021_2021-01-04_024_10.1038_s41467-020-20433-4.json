@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.177123",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20433-4",
+    "title": "Large-area and efficient perovskite light-emitting diodes via low-temperature blade-coating",
+    "article_number": "147",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shenglong Chu",
+      "Wenjing Chen",
+      "Zhibin Fang",
+      "Xun Xiao",
+      "Yan Liu",
+      "Jia Chen",
+      "Jinsong Huang",
+      "Zhengguo Xiao"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:22:06.259867"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T18:22:07.809471"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T18:22:09.304430"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T23:01:14.472540"
+    },
+    "last_updated": "2025-10-03T23:01:14.472737"
+  }
+}

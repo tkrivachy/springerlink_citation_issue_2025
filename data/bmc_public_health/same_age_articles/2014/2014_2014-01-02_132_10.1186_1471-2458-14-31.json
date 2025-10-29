@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.759251",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-31",
+    "title": "Semiparametric models for malaria rapid diagnosis test result",
+    "article_number": "31",
+    "publication_date": "2014-01-13",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Dawit G Ayele",
+      "Temesgen T Zewotir",
+      "Henry G Mwambi"
+    ]
+  },
+  "article_index": 132,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T12:58:08.305433"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:58:09.839548"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T12:58:11.181452"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:02:05.190316"
+    },
+    "last_updated": "2025-10-03T21:02:05.190546"
+  }
+}

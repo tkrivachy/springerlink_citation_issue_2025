@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.812930",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-62",
+    "title": "Local level epidemiological analysis of TB in people from a high incidence country of birth",
+    "article_number": "62",
+    "publication_date": "2013-01-22",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Peter D Massey",
+      "David N Durrheim",
+      "Nicola Stephens",
+      "Amanda Christensen"
+    ]
+  },
+  "article_index": 51,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T12:46:11.714844"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T12:46:13.256940"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T12:46:14.618047"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T20:57:50.229420"
+    },
+    "last_updated": "2025-10-03T20:57:50.229488"
+  }
+}

@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-35673-9</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41467-022-35673-9</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Methane emissions offset atmospheric carbon dioxide uptake in coastal macroalgae, mixed vegetation and sediment ecosystems</dc:title>
+            
+	    
+            <dc:creator>Roth, Florian</dc:creator>
+            
+	    
+            <dc:creator>Broman, Elias</dc:creator>
+            
+	    
+            <dc:creator>Sun, Xiaole</dc:creator>
+            
+	    
+            <dc:creator>Bonaglia, Stefano</dc:creator>
+            
+	    
+            <dc:creator>Nascimento, Francisco</dc:creator>
+            
+	    
+            <dc:creator>Prytherch, John</dc:creator>
+            
+	    
+            <dc:creator>Brüchert, Volker</dc:creator>
+            
+	    
+            <dc:creator>Lundevall Zara, Maysoon</dc:creator>
+            
+	    
+            <dc:creator>Brunberg, Märta</dc:creator>
+            
+	    
+            <dc:creator>Geibel, Marc C.</dc:creator>
+            
+	    
+            <dc:creator>Humborg, Christoph</dc:creator>
+            
+	    
+            <dc:creator>Norkko, Alf</dc:creator>
+            
+	    
+            <ns3:publicationName>Nature Communications</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2041-1723</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41467-022-35673-9</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2023-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2023-01-03</ns3:publicationDate>
+            
+	    
+            <ns3:volume>14</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>11</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41467-022-35673-9</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-022-35673-9</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-022-35673-9.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2023 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:p>Coastal ecosystems are promoted as nature-based solutions to climate change. Here, the authors show that natural methane emissions across a variety of vegetated and unvegetated coastal habitats can, however, offset one-third of the carbon sink capacity attributed to atmospheric carbon dioxide uptake.</html:p>
+            <html:h1>Abstract</html:h1>
+            <html:p>Coastal ecosystems can efficiently remove carbon dioxide (CO_2) from the atmosphere and are thus promoted for nature-based climate change mitigation. Natural methane (CH_4) emissions from these ecosystems may counterbalance atmospheric CO_2 uptake. Still, knowledge of mechanisms sustaining such CH_4 emissions and their contribution to net radiative forcing remains scarce for globally prevalent macroalgae, mixed vegetation, and surrounding depositional sediment habitats. Here we show that these habitats emit CH_4 in the range of 0.1 – 2.9 mg CH_4 m^−2 d^−1 to the atmosphere, revealing in situ CH_4 emissions from macroalgae that were sustained by divergent methanogenic archaea in anoxic microsites. Over an annual cycle, CO_2-equivalent CH_4 emissions offset 28 and 35% of the carbon sink capacity attributed to atmospheric CO_2 uptake in the macroalgae and mixed vegetation habitats, respectively, and augment net CO_2 release of unvegetated sediments by 57%. Accounting for CH_4 alongside CO_2 sea-air fluxes and identifying the mechanisms controlling these emissions is crucial to constrain the potential of coastal ecosystems as net atmospheric carbon sinks and develop informed climate mitigation strategies.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41467</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2023-01-03</onlineDate>
+        <authors>
+          <author ORCID="0000-0003-4004-5863">Roth, Florian</author>
+          <author ORCID="0000-0001-9005-5168">Broman, Elias</author>
+          <author ORCID="0000-0003-2391-5572">Sun, Xiaole</author>
+          <author ORCID="0000-0003-4366-0677">Bonaglia, Stefano</author>
+          <author ORCID="0000-0003-3722-1360">Nascimento, Francisco</author>
+          <author>Prytherch, John</author>
+          <author ORCID="0000-0002-8956-3840">Brüchert, Volker</author>
+          <author>Lundevall Zara, Maysoon</author>
+          <author>Brunberg, Märta</author>
+          <author ORCID="0000-0002-7369-0781">Geibel, Marc C.</author>
+          <author>Humborg, Christoph</author>
+          <author>Norkko, Alf</author>
+        </authors>
+        <disciplines>
+          <discipline id="2883" term="Humanities and Social Sciences"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2023</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">China</facet-value>
+      <facet-value count="1">Finland</facet-value>
+      <facet-value count="1">Sweden</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

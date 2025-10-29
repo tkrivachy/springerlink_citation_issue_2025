@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.733887",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07845-z",
+    "title": "Genome editing in primary cells and in vivo using viral-derived Nanoblades loaded with Cas9-sgRNA ribonucleoproteins",
+    "article_number": "45",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Philippe E. Mangeot",
+      "Valérie Risson",
+      "Floriane Fusil",
+      "Aline Marnef",
+      "Emilie Laurent",
+      "Juliana Blin",
+      "Virginie Mournetas",
+      "Emmanuelle Massouridès",
+      "Thibault J. M. Sohier",
+      "Antoine Corbin",
+      "Fabien Aubé",
+      "Marie Teixeira",
+      "Christian Pinset",
+      "Laurent Schaeffer",
+      "Gaëlle Legube",
+      "François-Loïc Cosset",
+      "Els Verhoeyen",
+      "Théophile Ohlmann",
+      "Emiliano P. Ricci"
+    ]
+  },
+  "article_index": 522,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:48:01.808177"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 278,
+      "retrieved_at": "2025-10-03T17:48:03.354154"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 254,
+      "retrieved_at": "2025-10-03T17:48:04.537725"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 289,
+      "retrieved_at": "2025-10-03T22:49:35.489781"
+    },
+    "last_updated": "2025-10-03T22:49:35.489829"
+  }
+}

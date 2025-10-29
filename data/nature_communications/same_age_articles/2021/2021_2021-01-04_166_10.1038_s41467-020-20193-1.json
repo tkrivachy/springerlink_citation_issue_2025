@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.200416",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20193-1",
+    "title": "Directed transforming of coke to active intermediates in methanol-to-olefins catalyst to boost light olefins selectivity",
+    "article_number": "17",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jibin Zhou",
+      "Mingbin Gao",
+      "Jinling Zhang",
+      "Wenjuan Liu",
+      "Tao Zhang",
+      "Hua Li",
+      "Zhaochao Xu",
+      "Mao Ye",
+      "Zhongmin Liu"
+    ]
+  },
+  "article_index": 166,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:25:17.117972"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T18:25:18.667976"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T18:25:19.870445"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T23:02:24.148721"
+    },
+    "last_updated": "2025-10-03T23:02:24.148913"
+  }
+}

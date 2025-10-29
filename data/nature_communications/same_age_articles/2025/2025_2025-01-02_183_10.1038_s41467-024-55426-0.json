@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.537581",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55426-0",
+    "title": "Antiferromagnetic semimetal terahertz photodetectors enhanced through weak localization",
+    "article_number": "25",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dong Wang",
+      "Liu Yang",
+      "Zhen Hu",
+      "Fang Wang",
+      "Yage Yang",
+      "Xiaokai Pan",
+      "Zhuo Dong",
+      "Shijian Tian",
+      "Libo Zhang",
+      "Li Han",
+      "Mengjie Jiang",
+      "Keqin Tang",
+      "Fuxing Dai",
+      "Kai Zhang",
+      "Wei Lu",
+      "Xiaoshuang Chen",
+      "Lin Wang",
+      "Weida Hu"
+    ]
+  },
+  "article_index": 183,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:16:23.361574"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:16:24.907298"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:16:26.053436"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:19:38.196287"
+    },
+    "last_updated": "2025-10-03T23:19:38.196370"
+  }
+}

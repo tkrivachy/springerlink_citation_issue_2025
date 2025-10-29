@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.795358",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-19",
+    "title": "Excess cardiovascular mortality associated with cold spells in the Czech Republic",
+    "article_number": "19",
+    "publication_date": "2009-01-15",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jan Kysely",
+      "Lucie Pokorna",
+      "Jan Kyncl",
+      "Bohumir Kriz"
+    ]
+  },
+  "article_index": 44,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T12:34:53.967721"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 150,
+      "retrieved_at": "2025-10-03T12:34:55.536050"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T12:34:56.960834"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 175,
+      "retrieved_at": "2025-10-03T20:53:45.492441"
+    },
+    "last_updated": "2025-10-03T20:53:45.492627"
+  }
+}

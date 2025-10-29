@@ -1,0 +1,23 @@
+{
+  "endpoint": "meta_v1",
+  "format": "jats",
+  "test_doi": "10.1186/s12889-015-2647-8",
+  "safe_doi": "10_1186_s12889-015-2647-8",
+  "timestamp": "2025-10-20 14:09:00",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.6355905532836914,
+    "content_length": "N/A",
+    "content_type": "application/xml; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/meta/v1/jats",
+    "params": {
+      "api_key": "7840cf20127b6139d41324d1fcc80058",
+      "q": "doi:10.1186/s12889-015-2647-8",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JATS XML Response\nRoot element: response\nRoot attributes: {}\nDirect children: 4\nChild elements: {'apiMessage': 1, 'query': 1, 'result': 1, 'records': 1}\nArticles found: 1\nSample DOI: 10.1186/s12889-015-2647-8\nSample title: Five years after the accident, whiplash casualties still have poorer quality of life in the physical...\nSample article number: 13\n",
+  "filename": "meta_v1_jats.xml"
+}

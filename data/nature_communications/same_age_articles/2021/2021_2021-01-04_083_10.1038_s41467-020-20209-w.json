@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.187812",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20209-w",
+    "title": "Effectively modulating thermal activated charge transport in organic semiconductors by precise potential barrier engineering",
+    "article_number": "21",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yinan Huang",
+      "Xue Gong",
+      "Yancheng Meng",
+      "Zhongwu Wang",
+      "Xiaosong Chen",
+      "Jie Li",
+      "Deyang Ji",
+      "Zhongming Wei",
+      "Liqiang Li",
+      "Wenping Hu"
+    ]
+  },
+  "article_index": 83,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:26:49.699927"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:26:51.272875"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:26:52.614098"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T23:02:54.427842"
+    },
+    "last_updated": "2025-10-03T23:02:54.428027"
+  }
+}

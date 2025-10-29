@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.877850",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03111-3",
+    "title": "Adverse health and environmental outcomes of cycling in heavily polluted urban environments",
+    "article_number": "148",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ewa Adamiec",
+      "Elżbieta Jarosz-Krzemińska",
+      "Aleksandra Bilkiewicz-Kubarek"
+    ]
+  },
+  "article_index": 193,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:04:55.842679"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:04:57.408167"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:04:58.652254"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:49:21.243899"
+    },
+    "last_updated": "2025-10-03T21:49:21.244086"
+  }
+}

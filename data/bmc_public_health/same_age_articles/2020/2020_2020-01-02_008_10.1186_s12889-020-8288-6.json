@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.667566",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8288-6",
+    "title": "Diet, physical activity, and emotional health: what works, what doesn’t, and why we need integrated solutions for total worker health",
+    "article_number": "152",
+    "publication_date": "2020-01-31",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Iffath U. B. Syed"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:32:16.022942"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:32:17.546545"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T13:32:18.830004"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T21:14:37.518530"
+    },
+    "last_updated": "2025-10-03T21:14:37.518717"
+  }
+}

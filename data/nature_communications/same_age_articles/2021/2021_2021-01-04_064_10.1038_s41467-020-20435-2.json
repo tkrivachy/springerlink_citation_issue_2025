@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.184362",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20435-2",
+    "title": "Exposure to natural hazard events unassociated with policy change for improved disaster risk reduction",
+    "article_number": "193",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daniel Nohrstedt",
+      "Maurizio Mazzoleni",
+      "Charles F. Parker",
+      "Giuliano Di Baldassarre"
+    ]
+  },
+  "article_index": 64,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:41:58.996545"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:42:00.595778"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:42:01.757431"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T23:08:01.252144"
+    },
+    "last_updated": "2025-10-03T23:08:01.252368"
+  }
+}

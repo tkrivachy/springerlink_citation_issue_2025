@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-73</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/1471-2458-14-73</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-14-73</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-14-73</ns2:url>
+          <dc:title>Assessing the construct validity and reliability of the parental perception on antibiotics (PAPA) scales</dc:title>
+          <dc:creator>Alumran, Arwa</dc:creator>
+          <dc:creator>Hou, Xiang-Yu</dc:creator>
+          <dc:creator>Sun, Jiandong</dc:creator>
+          <dc:creator>Yousef, Abdullah A</dc:creator>
+          <dc:creator>Hurst, Cameron</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>1471-2458</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Research article</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection>Biostatistics and methods</topicalCollection>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>9</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2014-01-23</onlineDate>
+          <ns2:coverDate>2014-12</ns2:coverDate>
+          <ns2:doi>10.1186/1471-2458-14-73</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2014-01-23</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1186/1471-2458-14-73</ns2:url>
+          <ns2:copyright>©2014 Alumran et al.; licensee BioMed Central Ltd.</ns2:copyright>
+          <ns2:keyword>Antibiotic overuse</ns2:keyword>
+          <ns2:keyword>Psychosocial</ns2:keyword>
+          <ns2:keyword>Measurement instrument</ns2:keyword>
+          <ns2:keyword>Reliability</ns2:keyword>
+          <ns2:keyword>Validity</ns2:keyword>
+          <ns2:keyword>Confirmatory factor analysis</ns2:keyword>
+          <ns2:keyword>Saudi Arabia</ns2:keyword>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Background</p>
+        <p>The overuse of antibiotics is becoming an increasing concern. Antibiotic resistance, which increases both the burden of disease, and the cost of health services, is perhaps the most profound impact of antibiotics overuse. Attempts have been made to develop instruments to measure the psychosocial constructs underlying antibiotics use, however, none of these instruments have undergone thorough psychometric validation. This study evaluates the psychometric properties of the Parental Perceptions on Antibiotics (PAPA) scales. The PAPA scales attempt to measure the factors influencing parental use of antibiotics in children.</p>
+        <p>Methods</p>
+        <p>1111 parents of children younger than 12 years old were recruited from primary schools’ parental meetings in the Eastern Province of Saudi Arabia from September 2012 to January 2013. The structure of the PAPA instrument was validated using Confirmatory Factor Analysis (CFA) with measurement model fit evaluated using the raw and scaled χ ^2, Goodness of Fit Index, and Root Mean Square Error of Approximation.</p>
+        <p>Results</p>
+        <p>A five-factor model was confirmed with the model showing good fit. Constructs in the model include: Knowledge and Beliefs, Behaviors, Sources of information, Adherence, and Awareness about antibiotics resistance . The instrument was shown to have good internal consistency, and good discriminant and convergent validity.</p>
+        <p>Conclusion</p>
+        <p>The availability of an instrument able to measure the psychosocial factors underlying antibiotics usage allows the risk factors underlying antibiotic use and overuse to now be investigated.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Antibiotic overuse</facet-value>
+      <facet-value count="1">Confirmatory factor analysis</facet-value>
+      <facet-value count="1">Measurement instrument</facet-value>
+      <facet-value count="1">Psychosocial</facet-value>
+      <facet-value count="1">Reliability</facet-value>
+      <facet-value count="1">Saudi Arabia</facet-value>
+      <facet-value count="1">Validity</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2014</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Australia</facet-value>
+      <facet-value count="1">Saudi Arabia</facet-value>
+      <facet-value count="1">Thailand</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

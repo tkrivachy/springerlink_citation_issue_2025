@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.874104",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04134-6",
+    "title": "Photosynthetic efficiency, growth and secondary metabolism of common buckwheat (",
+    "article_number": "257",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Marta Hornyák",
+      "Michał Dziurka",
+      "Monika Kula-Maximenko",
+      "Jakub Pastuszak",
+      "Anna Szczerba",
+      "Marek Szklarczyk",
+      "Agnieszka Płażek"
+    ]
+  },
+  "article_index": 158,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:11:49.612990"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T15:11:51.164958"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:11:52.450862"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:52:09.279896"
+    },
+    "last_updated": "2025-10-03T21:52:09.280089"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221939",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80638-x",
+    "title": "Establish axenic cultures of armored and unarmored marine dinoflagellate species using density separation, antibacterial treatments and stepwise dilution selection",
+    "article_number": "202",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Thomas Chun-Hung Lee",
+      "Ping-Lung Chan",
+      "Nora Fung-Yee Tam",
+      "Steven Jing-Liang Xu",
+      "Fred Wang-Fat Lee"
+    ]
+  },
+  "article_index": 126,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:51:20.863736"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:51:22.370115"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:51:23.597603"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:43:55.550293"
+    },
+    "last_updated": "2025-10-03T21:43:55.550533"
+  }
+}

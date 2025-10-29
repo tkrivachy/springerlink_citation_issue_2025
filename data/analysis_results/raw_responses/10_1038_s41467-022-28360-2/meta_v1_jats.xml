@@ -1,0 +1,328 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-28360-2</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-022-28360-2</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">The IGFBP3/TMEM219 pathway regulates beta cell homeostasis</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0345-0694</contrib-id>
+              <name name-style="western">
+                <surname>D’Addio</surname>
+                <given-names>Francesca</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Maestroni</surname>
+                <given-names>Anna</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Assi</surname>
+                <given-names>Emma</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Ben Nasr</surname>
+                <given-names>Moufida</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Amabile</surname>
+                <given-names>Giovanni</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Usuelli</surname>
+                <given-names>Vera</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7583-8540</contrib-id>
+              <name name-style="western">
+                <surname>Loretelli</surname>
+                <given-names>Cristian</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Bertuzzi</surname>
+                <given-names>Federico</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Antonioli</surname>
+                <given-names>Barbara</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3049-5940</contrib-id>
+              <name name-style="western">
+                <surname>Cardarelli</surname>
+                <given-names>Francesco</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>El Essawy</surname>
+                <given-names>Basset</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7855-8253</contrib-id>
+              <name name-style="western">
+                <surname>Solini</surname>
+                <given-names>Anna</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <name name-style="western">
+                <surname>Gerling</surname>
+                <given-names>Ivan C.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <name name-style="western">
+                <surname>Bianchi</surname>
+                <given-names>Cristina</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <name name-style="western">
+                <surname>Becchi</surname>
+                <given-names>Gabriella</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au16">
+              <name name-style="western">
+                <surname>Mazzucchelli</surname>
+                <given-names>Serena</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au17">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8836-4778</contrib-id>
+              <name name-style="western">
+                <surname>Corradi</surname>
+                <given-names>Domenico</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au18">
+              <name name-style="western">
+                <surname>Fadini</surname>
+                <given-names>Gian Paolo</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au19">
+              <name name-style="western">
+                <surname>Foschi</surname>
+                <given-names>Diego</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au20">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2762-6535</contrib-id>
+              <name name-style="western">
+                <surname>Markmann</surname>
+                <given-names>James F.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au21">
+              <name name-style="western">
+                <surname>Orsi</surname>
+                <given-names>Emanuela</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au22">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5388-8259</contrib-id>
+              <name name-style="western">
+                <surname>Škrha</surname>
+                <given-names>Jan</given-names>
+                <suffix>Jr</suffix>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au23">
+              <name name-style="western">
+                <surname>Camboni</surname>
+                <given-names>Maria Gabriella</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au24">
+              <name name-style="western">
+                <surname>Abdi</surname>
+                <given-names>Reza</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au25">
+              <name name-style="western">
+                <surname>James Shapiro</surname>
+                <given-names>A. M.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au26">
+              <name name-style="western">
+                <surname>Folli</surname>
+                <given-names>Franco</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au27">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1695-5234</contrib-id>
+              <name name-style="western">
+                <surname>Ludvigsson</surname>
+                <given-names>Johnny</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au28">
+              <name name-style="western">
+                <surname>Del Prato</surname>
+                <given-names>Stefano</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au29">
+              <name name-style="western">
+                <surname>Zuccotti</surname>
+                <given-names>Gianvincenzo</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au30">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1093-7724</contrib-id>
+              <name name-style="western">
+                <surname>Fiorina</surname>
+                <given-names>Paolo</given-names>
+              </name>
+              <address>
+                <email>paolo.fiorina@childrens.harvard.edu</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>3</day>
+            <month>2</month>
+            <year>2022</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2022</year>
+          </pub-date>
+          <volume>13</volume>
+          <issue>1</issue>
+          <elocation-id>684</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-022-28360-2</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-022-28360-2.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2022</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Loss of pancreatic beta cells is a central feature of type 1 (T1D) and type 2 (T2D) diabetes, but a therapeutic strategy to preserve beta cell mass remains to be established. Here we show that the death receptor TMEM219 is expressed on pancreatic beta cells and that signaling through its ligand insulin-like growth factor binding protein 3 (IGFBP3) leads to beta cell loss and dysfunction. Increased peripheral IGFBP3 was observed in established and at-risk T1D/T2D patients and was confirmed in T1D/T2D preclinical models, suggesting that dysfunctional IGFBP3/TMEM219 signaling is associated with abnormalities in beta cells homeostasis. In vitro and in vivo short-term IGFBP3/TMEM219 inhibition and TMEM219 genetic ablation preserved beta cells and prevented/delayed diabetes onset, while long-term IGFBP3/TMEM219 blockade allowed for beta cell expansion. Interestingly, in several patients’ cohorts restoration of appropriate IGFBP3 levels was associated with improved beta cell function. The IGFBP3/TMEM219 pathway is thus shown to be a physiological regulator of beta cell homeostasis and is also demonstrated to be disrupted in T1D/T2D. IGFBP3/TMEM219 targeting may therefore serve as a therapeutic option in diabetes.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">In this new study the Authors demonstrated that the IGFBP3/TMEM219 pathway is a physiological regulator of pancreatic beta cell homeostasis and it is dysregulated in diabetes. IGFBP3/TMEM219 targeting may therefore serve as a therapeutic option in diabetes.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1103">Clinical Sciences</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>European Foundation for the Study of Diabetes (EFSD)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100001648</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">EFSD/JDRF/Lilly Programme on Type 1 Diabetes Research 2019</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Fiorina</surname>
+                  <given-names>Paolo</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Ministero della Salute (Ministry of Health, Italy)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100003196</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">RF-2016-02362512</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Fiorina</surname>
+                  <given-names>Paolo</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

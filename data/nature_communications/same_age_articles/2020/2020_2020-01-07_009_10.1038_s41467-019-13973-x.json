@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.877526",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13973-x",
+    "title": "Robust, reproducible and quantitative analysis of thousands of proteomes by micro-flow LC–MS/MS",
+    "article_number": "157",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yangyang Bian",
+      "Runsheng Zheng",
+      "Florian P. Bayer",
+      "Cassandra Wong",
+      "Yun-Chien Chang",
+      "Chen Meng",
+      "Daniel P. Zolg",
+      "Maria Reinecke",
+      "Jana Zecha",
+      "Svenja Wiechmann",
+      "Stephanie Heinzlmeir",
+      "Johannes Scherr",
+      "Bernhard Hemmer",
+      "Mike Baynham",
+      "Anne-Claude Gingras",
+      "Oleksandr Boychenko",
+      "Bernhard Kuster"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 264,
+      "retrieved_at": "2025-10-03T18:19:11.567130"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 290,
+      "retrieved_at": "2025-10-03T18:19:13.120444"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 263,
+      "retrieved_at": "2025-10-03T18:19:14.307943"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 311,
+      "retrieved_at": "2025-10-03T23:00:16.116993"
+    },
+    "last_updated": "2025-10-03T23:00:16.117182"
+  }
+}

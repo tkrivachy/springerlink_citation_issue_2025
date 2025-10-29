@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.732965",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07979-0",
+    "title": "Surface diffusion-limited lifetime of silver and copper nanofilaments in resistive switching devices",
+    "article_number": "81",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wei Wang",
+      "Ming Wang",
+      "Elia Ambrosi",
+      "Alessandro Bricalli",
+      "Mario Laudato",
+      "Zhong Sun",
+      "Xiaodong Chen",
+      "Daniele Ielmini"
+    ]
+  },
+  "article_index": 513,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T17:23:53.560654"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 271,
+      "retrieved_at": "2025-10-03T17:23:55.104753"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 248,
+      "retrieved_at": "2025-10-03T17:23:56.280545"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 293,
+      "retrieved_at": "2025-10-03T22:41:23.835892"
+    },
+    "last_updated": "2025-10-03T22:41:23.836086"
+  }
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-4-31</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/1471-2458-4-31</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>The usefulness of the Korean version of modified Mini-Mental State Examination (K-mMMSE) for dementia screening in community dwelling elderly people</dc:title>
+          <dc:creator>Jeong, Seul-Ki</dc:creator>
+          <dc:creator>Cho, Ki-Hyun</dc:creator>
+          <dc:creator>Kim, Jae-Min</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn>1471-2458</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Research article</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:doi>10.1186/1471-2458-4-31</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2004-07-30</ns2:publicationDate>
+          <ns2:volume>4</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>7</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1186/1471-2458-4-31</ns2:url>
+          <ns2:copyright>©2004 Jeong et al; licensee BioMed Central Ltd.</ns2:copyright>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Background</p>
+        <p>We assessed whether the Korean version of modified Mini-Mental State Examination (K-mMMSE) has improved performance as a screening test for cognitive impairment or dementia in a general population compared with the Korean Mini-Mental State Examination (K-MMSE).</p>
+        <p>Methods</p>
+        <p>Screening interviews were conducted with people aged 65 and over in Noam-dong, Namwon-city, Jeonbuk province. There were 522 community participants, of whom 235 underwent clinical and neuropsychological examination for diagnosis of dementia and Cognitive Impairment No Dementia (CIND). Sensitivity, specificity and areas under the receiver operating characteristic (ROC) curves for the K-mMMSE and the K-MMSE were the main outcome measures.</p>
+        <p>Results</p>
+        <p>
+          Cronbach's alpha for the K-mMMSE was 0.91, compared with 0.84 for the K-MMSE. The areas under the ROC curves in identifying all levels of CIND or dementia were 0.91 for the K-mMMSE and 0.89 for the K-MMSE (
+          <Emphasis Type="Italic">P</Emphasis>
+           &lt; 0.05). For the K-mMMSE, the optimal cut-off score for a diagnosis of CIND was 69/70, which had a sensitivity of 0.86 and a specificity of 0.79, while, for a diagnosis of dementia, the optimal cut-off score of 59/60 had a sensitivity of 0.91 and a specificity of 0.78. The K-mMMSE also had a high test-retest reliability (
+          <Emphasis Type="Italic">r</Emphasis>
+           = 0.89).
+        </p>
+        <p>Conclusion</p>
+        <p>Our findings indicate that the K-mMMSE is more reliable and valid than the K-MMSE as a cognitive screen in a population based study of dementia. Considering the test characteristics, the K-MMSE and modified version are expected to be optimally used in clinical and epidemiologic fields.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Clinical Dementia Rate</facet-value>
+      <facet-value count="1">Dementia</facet-value>
+      <facet-value count="1">Mild Cognitive Impairment</facet-value>
+      <facet-value count="1">Negative Likelihood Ratio</facet-value>
+      <facet-value count="1">Positive Likelihood Ratio</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2004</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">South Korea</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.693421",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08226-2",
+    "title": "Clear and transparent nanocrystals for infrared-responsive carrier transfer",
+    "article_number": "406",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Masanori Sakamoto",
+      "Tokuhisa Kawawaki",
+      "Masato Kimura",
+      "Taizo Yoshinaga",
+      "Junie Jhon M. Vequizo",
+      "Hironori Matsunaga",
+      "Chandana Sampath Kumara Ranasinghe",
+      "Akira Yamakata",
+      "Hiroyuki Matsuzaki",
+      "Akihiro Furube",
+      "Toshiharu Teranishi"
+    ]
+  },
+  "article_index": 149,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:13:33.583539"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:13:35.127765"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:13:36.288606"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T22:37:52.607031"
+    },
+    "last_updated": "2025-10-03T22:37:52.607216"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.888682",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13950-4",
+    "title": "Pharmacological polyamine catabolism upregulation with methionine salvage pathway inhibition as an effective prostate cancer therapy",
+    "article_number": "52",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hayley C. Affronti",
+      "Aryn M. Rowsam",
+      "Anthony J. Pellerite",
+      "Spencer R. Rosario",
+      "Mark D. Long",
+      "Justine J. Jacobi",
+      "Anna Bianchi-Smiraglia",
+      "Christoph S. Boerlin",
+      "Bryan M. Gillard",
+      "Ellen Karasik",
+      "Barbara A. Foster",
+      "Michael Moser",
+      "John H. Wilton",
+      "Kristopher Attwood",
+      "Mikhail A. Nikiforov",
+      "Gissou Azabdaftari",
+      "Roberto Pili",
+      "James G. Phillips",
+      "Robert A. Casero",
+      "Dominic J. Smiraglia"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:15:15.717342"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:15:17.555467"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:15:18.879444"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T22:58:51.550777"
+    },
+    "last_updated": "2025-10-03T22:58:51.550968"
+  }
+}

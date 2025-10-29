@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.513476",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-23",
+    "title": "Patient and health service delay in the diagnosis of pulmonary tuberculosis in Ethiopia",
+    "article_number": "23",
+    "publication_date": "2002-09-25",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Meaza Demissie",
+      "Bernt Lindtjorn",
+      "Yemane Berhane"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 263,
+      "retrieved_at": "2025-10-03T11:52:36.463225"
+    },
+    "last_updated": "2025-10-03T20:41:02.904567",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T12:00:00.758415"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T12:00:02.205395"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 171,
+      "retrieved_at": "2025-10-03T20:41:02.904504"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.229063",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80733-z",
+    "title": "The gravistimulation-induced very slow Ca",
+    "article_number": "227",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Masataka Nakano",
+      "Takuya Furuichi",
+      "Masahiro Sokabe",
+      "Hidetoshi Iida",
+      "Hitoshi Tatsumi"
+    ]
+  },
+  "article_index": 160,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:44:46.030391"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:44:47.660311"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:44:48.815728"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:41:21.920615"
+    },
+    "last_updated": "2025-10-03T21:41:21.920802"
+  }
+}

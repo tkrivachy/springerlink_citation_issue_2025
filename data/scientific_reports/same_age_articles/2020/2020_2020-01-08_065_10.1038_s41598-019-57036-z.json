@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.306475",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57036-z",
+    "title": "Perceived stress and non-alcoholic fatty liver disease in apparently healthy men and women",
+    "article_number": "38",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Danbee Kang",
+      "Di Zhao",
+      "Seungho Ryu",
+      "Eliseo Guallar",
+      "Juhee Cho",
+      "Mariana Lazo",
+      "Hocheol Shin",
+      "Yoosoo Chang",
+      "Eunju Sung"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T14:27:04.418923"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T14:27:05.937488"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:27:07.119430"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T21:34:08.302992"
+    },
+    "last_updated": "2025-10-03T21:34:08.303039"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.373213",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83628-5",
+    "title": "A single vector system for tunable and homogeneous dual gene expression in ",
+    "article_number": "99",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Z. Živič",
+      "L. Lipoglavšek",
+      "J. Lah",
+      "S. Hadži"
+    ]
+  },
+  "article_index": 227,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:12:26.829851"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:12:28.338168"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:15.875053"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:16:13.078693"
+    },
+    "last_updated": "2025-10-07T09:48:15.875262"
+  }
+}

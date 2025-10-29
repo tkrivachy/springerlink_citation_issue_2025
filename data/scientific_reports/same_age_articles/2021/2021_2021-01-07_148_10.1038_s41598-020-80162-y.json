@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.225547",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80162-y",
+    "title": "Social distancing and epidemic resurgence in agent-based susceptible-infectious-recovered models",
+    "article_number": "130",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ruslan I. Mukhamadiarov",
+      "Shengfeng Deng",
+      "Shannon R. Serrao",
+      "Riya Nandi",
+      "Louie Hong Yao",
+      "Uwe C. Täuber"
+    ]
+  },
+  "article_index": 148,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:37:24.719023"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:37:26.229284"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:37:27.392474"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:38:23.223729"
+    },
+    "last_updated": "2025-10-03T21:38:23.223918"
+  }
+}

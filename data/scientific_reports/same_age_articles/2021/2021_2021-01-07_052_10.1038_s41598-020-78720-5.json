@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.209987",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78720-5",
+    "title": "CdO/CdCO",
+    "article_number": "30",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "R. P. Lefojane",
+      "B. T. Sone",
+      "N. Matinise",
+      "K. Saleh",
+      "P. Direko",
+      "P. Mfengwana",
+      "S. Mashele",
+      "M. Maaza",
+      "M. P. Sekhoacha"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:54:42.531483"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T14:54:44.103827"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T14:54:45.414565"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T21:45:12.651725"
+    },
+    "last_updated": "2025-10-03T21:45:12.651916"
+  }
+}

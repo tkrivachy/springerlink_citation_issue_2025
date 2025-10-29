@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.702985",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08120-x",
+    "title": "Over 56.55% Faradaic efficiency of ambient ammonia synthesis enabled by positively shifting the reaction potential",
+    "article_number": "341",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mengfan Wang",
+      "Sisi Liu",
+      "Tao Qian",
+      "Jie Liu",
+      "Jinqiu Zhou",
+      "Haoqing Ji",
+      "Jie Xiong",
+      "Jun Zhong",
+      "Chenglin Yan"
+    ]
+  },
+  "article_index": 238,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 415,
+      "retrieved_at": "2025-10-03T17:58:25.865893"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 491,
+      "retrieved_at": "2025-10-03T17:58:27.584847"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 461,
+      "retrieved_at": "2025-10-03T17:58:28.775199"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 525,
+      "retrieved_at": "2025-10-03T22:53:25.293754"
+    },
+    "last_updated": "2025-10-03T22:53:25.293827"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.756074",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-62",
+    "title": "An argument against the focus on Community Resilience in Public Health",
+    "article_number": "62",
+    "publication_date": "2014-01-21",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Peter Allmark",
+      "Sadiq Bhanbhro",
+      "Tom Chrisp"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T13:02:49.436266"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:02:50.994584"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:02:52.269990"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T21:03:54.229938"
+    },
+    "last_updated": "2025-10-03T21:03:54.230008"
+  }
+}

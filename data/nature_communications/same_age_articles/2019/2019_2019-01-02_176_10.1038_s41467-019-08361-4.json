@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.696259",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08361-4",
+    "title": "Ultrafast hole transfer mediated by polaron pairs in all-polymer photovoltaic blends",
+    "article_number": "398",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rui Wang",
+      "Yao Yao",
+      "Chunfeng Zhang",
+      "Yindong Zhang",
+      "Haijun Bin",
+      "Lingwei Xue",
+      "Zhi-Guo Zhang",
+      "Xiaoyu Xie",
+      "Haibo Ma",
+      "Xiaoyong Wang",
+      "Yongfang Li",
+      "Min Xiao"
+    ]
+  },
+  "article_index": 176,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T17:43:21.660916"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T17:43:23.525867"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T17:43:24.901974"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T22:48:03.246307"
+    },
+    "last_updated": "2025-10-03T22:48:03.246377"
+  }
+}

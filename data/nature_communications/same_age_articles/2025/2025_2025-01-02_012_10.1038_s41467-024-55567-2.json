@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.511629",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55567-2",
+    "title": "A tunable human intestinal organoid system achieves controlled balance between self-renewal and differentiation",
+    "article_number": "315",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Li Yang",
+      "Xulei Wang",
+      "Xingyu Zhou",
+      "Hongyu Chen",
+      "Sentao Song",
+      "Liling Deng",
+      "Yao Yao",
+      "Xiaolei Yin"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:27:36.132523"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:27:37.714557"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:27:38.907358"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:23:17.599876"
+    },
+    "last_updated": "2025-10-03T23:23:17.600066"
+  }
+}

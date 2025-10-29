@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:53:53.746777",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-018-6329-1",
+    "title": "Criterion validity and test-retest reliability of SED-GIH, a single item question for assessment of daily sitting time",
+    "article_number": "17",
+    "publication_date": "2019-01-05",
+    "volume": "19",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kristina Larsson",
+      "Lena V. Kallings",
+      "Örjan Ekblom",
+      "Victoria Blom",
+      "Eva Andersson",
+      "Maria M. Ekblom"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:24:51.216592"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:24:52.768320"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:24:54.020960"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:11:55.962489"
+    },
+    "last_updated": "2025-10-03T21:11:55.962591"
+  }
+}

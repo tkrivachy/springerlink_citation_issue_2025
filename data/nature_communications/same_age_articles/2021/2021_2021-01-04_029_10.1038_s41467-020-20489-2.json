@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.178029",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20489-2",
+    "title": "Selective capture of carbon dioxide from hydrocarbons using a metal-organic framework",
+    "article_number": "197",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Omid T. Qazvini",
+      "Ravichandar Babarao",
+      "Shane G. Telfer"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T18:41:52.980800"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 286,
+      "retrieved_at": "2025-10-03T18:41:54.488319"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 254,
+      "retrieved_at": "2025-10-03T18:41:55.670971"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 287,
+      "retrieved_at": "2025-10-03T23:07:59.268515"
+    },
+    "last_updated": "2025-10-03T23:07:59.268706"
+  }
+}

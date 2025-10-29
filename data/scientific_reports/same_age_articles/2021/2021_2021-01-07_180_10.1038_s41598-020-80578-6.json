@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.232110",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80578-6",
+    "title": "Measurement of emotional states of zebrafish through integrated analysis of motion and respiration using bioelectric signals",
+    "article_number": "187",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zu Soh",
+      "Motoki Matsuno",
+      "Masayuki Yoshida",
+      "Akira Furui",
+      "Toshio Tsuji"
+    ]
+  },
+  "article_index": 180,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:54:54.043475"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:54:55.549105"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:54:56.703601"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:45:17.070372"
+    },
+    "last_updated": "2025-10-03T21:45:17.070422"
+  }
+}

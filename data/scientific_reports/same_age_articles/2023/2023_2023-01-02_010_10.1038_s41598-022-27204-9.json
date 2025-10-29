@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.100711",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27204-9",
+    "title": "Effects of manufacturing errors of gear macro-geometry on gear performance",
+    "article_number": "50",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Woo-Jin Chung",
+      "Young-Jun Park",
+      "Chanho Choi",
+      "Su-Chul Kim"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:31:33.255953"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:31:34.810099"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:31:36.099618"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T22:00:29.662768"
+    },
+    "last_updated": "2025-10-03T22:00:29.662866"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.888069",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13972-y",
+    "title": "Single-dose bNAb cocktail or abbreviated ART post-exposure regimens achieve tight SHIV control without adaptive immunity",
+    "article_number": "70",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mariya B. Shapiro",
+      "Tracy Cheever",
+      "Delphine C. Malherbe",
+      "Shilpi Pandey",
+      "Jason Reed",
+      "Eun Sung Yang",
+      "Keyun Wang",
+      "Amarendra Pegu",
+      "Xuejun Chen",
+      "Don Siess",
+      "David Burke",
+      "Heidi Henderson",
+      "Rebecca Lewinsohn",
+      "Miranda Fischer",
+      "Jeffrey J. Stanton",
+      "Michael K. Axthelm",
+      "Christoph Kahl",
+      "Byung Park",
+      "Anne D. Lewis",
+      "Jonah B. Sacha",
+      "John R. Mascola",
+      "Ann J. Hessell",
+      "Nancy L. Haigwood"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:16:49.188144"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T18:16:50.696249"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T18:16:52.013284"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T22:59:25.419944"
+    },
+    "last_updated": "2025-10-03T22:59:25.420144"
+  }
+}

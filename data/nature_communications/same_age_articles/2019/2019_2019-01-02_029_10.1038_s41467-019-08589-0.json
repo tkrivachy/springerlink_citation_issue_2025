@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.679849",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08589-0",
+    "title": "Author Correction: Elastic pseudospin transport for integratable topological phononic circuits",
+    "article_number": "613",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Si-Yuan Yu",
+      "Cheng He",
+      "Zhen Wang",
+      "Fu-Kang Liu",
+      "Xiao-Chen Sun",
+      "Zheng Li",
+      "Hai-Zhou Lu",
+      "Ming-Hui Lu",
+      "Xiao-Ping Liu",
+      "Yan-Feng Chen"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:12:09.706001"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:12:11.267030"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T17:12:12.626300"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:37:21.866692"
+    },
+    "last_updated": "2025-10-03T22:37:21.866877"
+  }
+}

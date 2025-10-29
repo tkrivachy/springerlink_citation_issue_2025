@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.510572",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55558-3",
+    "title": "Spectral convolutional neural network chip for in-sensor edge computing of incoherent natural light",
+    "article_number": "81",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kaiyu Cui",
+      "Shijie Rao",
+      "Sheng Xu",
+      "Yidong Huang",
+      "Xusheng Cai",
+      "Zhilei Huang",
+      "Yu Wang",
+      "Xue Feng",
+      "Fang Liu",
+      "Wei Zhang",
+      "Yali Li",
+      "Shengjin Wang"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:26:30.122346"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:26:31.669458"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:26:32.881526"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:22:59.117635"
+    },
+    "last_updated": "2025-10-03T23:22:59.117784"
+  }
+}

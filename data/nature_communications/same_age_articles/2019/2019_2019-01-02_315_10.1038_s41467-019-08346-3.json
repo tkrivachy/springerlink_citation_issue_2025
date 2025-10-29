@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.711877",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08346-3",
+    "title": "Publisher Correction: Temporal control of gene expression by the pioneer factor Zelda through transient interactions in hubs",
+    "article_number": "315",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jeremy Dufourt",
+      "Antonio Trullo",
+      "Jennifer Hunter",
+      "Carola Fernandez",
+      "Jorge Lazaro",
+      "Matthieu Dejean",
+      "Lucas Morales",
+      "Saida Nait-Amer",
+      "Katharine N. Schulz",
+      "Melissa M. Harrison",
+      "Cyril Favard",
+      "Ovidiu Radulescu",
+      "Mounia Lagha"
+    ]
+  },
+  "article_index": 315,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:07:03.887858"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T18:07:05.441741"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T18:07:06.837390"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:56:18.265165"
+    },
+    "last_updated": "2025-10-03T22:56:18.265394"
+  }
+}

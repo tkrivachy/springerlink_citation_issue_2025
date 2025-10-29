@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.682125",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44483-6",
+    "title": "Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers",
+    "article_number": "95",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hui Su",
+      "Chenyu Yang",
+      "Meihuan Liu",
+      "Xu Zhang",
+      "Wanlin Zhou",
+      "Yuhao Zhang",
+      "Kun Zheng",
+      "Shixun Lian",
+      "Qinghua Liu"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T19:00:57.645964"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T19:00:59.151304"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T19:01:00.506073"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 142,
+      "retrieved_at": "2025-10-03T23:14:20.855373"
+    },
+    "last_updated": "2025-10-03T23:14:20.855567"
+  }
+}

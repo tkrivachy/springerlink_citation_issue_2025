@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.633478",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35616-4",
+    "title": "Platinum nanosheets synthesized via topotactic reduction of single-layer platinum oxide nanosheets for electrocatalysis",
+    "article_number": "19",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daisuke Takimoto",
+      "Shino Toma",
+      "Yuya Suda",
+      "Tomoki Shirokura",
+      "Yuki Tokura",
+      "Katsutoshi Fukuda",
+      "Masashi Matsumoto",
+      "Hideto Imai",
+      "Wataru Sugimoto"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:45:25.735485"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:45:27.281455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:45:28.426080"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T23:09:07.662553"
+    },
+    "last_updated": "2025-10-03T23:09:07.662742"
+  }
+}

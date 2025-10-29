@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244481",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78824-y",
+    "title": "Tuning the optoelectronic properties of hematite with rhodium doping for photoelectrochemical water splitting using density functional theory approach",
+    "article_number": "41",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Abdur Rauf",
+      "Muhammad Adil",
+      "Shabeer Ahmad Mian",
+      "Gul Rahman",
+      "Ejaz Ahmed",
+      "Zia Mohy Ud Din",
+      "Wei Qun"
+    ]
+  },
+  "article_index": 223,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:56:34.774562"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:56:36.283353"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:56:37.546122"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T21:45:59.057678"
+    },
+    "last_updated": "2025-10-03T21:45:59.057866"
+  }
+}

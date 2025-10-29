@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.829190",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50487-5",
+    "title": "Number of medically prescribed pharmaceutical agents as predictor of mortality risk: a longitudinal, time-variable analysis in the EPIC-Heidelberg cohort",
+    "article_number": "106",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Verena A. Katzke",
+      "Rashmita Bajracharya",
+      "Mohamad I. Nasser",
+      "Ben Schöttker",
+      "Rudolf Kaaks"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:43:51.992985"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:43:53.533833"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:43:54.687723"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:05:22.963495"
+    },
+    "last_updated": "2025-10-03T22:05:22.963542"
+  }
+}

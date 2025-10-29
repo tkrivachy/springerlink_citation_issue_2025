@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.842440",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50990-9",
+    "title": "Association between metabolites in tryptophan-kynurenine pathway and inflammatory bowel disease: a two-sample Mendelian randomization",
+    "article_number": "201",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fangqian Yu",
+      "Yutong Du",
+      "Cong Li",
+      "Haiyan Zhang",
+      "Weiming Lai",
+      "Sheng Li",
+      "Zhenhao Ye",
+      "Wenbin Fu",
+      "Shumin Li",
+      "Xiang-Guang Li",
+      "Ding Luo"
+    ]
+  },
+  "article_index": 151,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:46:46.073422"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:46:47.604110"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:46:48.762861"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T22:06:31.883601"
+    },
+    "last_updated": "2025-10-03T22:06:31.883791"
+  }
+}

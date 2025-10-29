@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.203540",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20376-w",
+    "title": "Visualizing atomic structure and magnetism of 2D magnetic insulators via tunneling through graphene",
+    "article_number": "70",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhizhan Qiu",
+      "Matthew Holwill",
+      "Thomas Olsen",
+      "Pin Lyu",
+      "Jing Li",
+      "Hanyan Fang",
+      "Huimin Yang",
+      "Mikhail Kashchenko",
+      "Kostya S. Novoselov",
+      "Jiong Lu"
+    ]
+  },
+  "article_index": 191,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:25:43.391757"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T18:25:44.896493"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:25:46.091562"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T23:02:33.051135"
+    },
+    "last_updated": "2025-10-03T23:02:33.051353"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.384025",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84530-w",
+    "title": "Brain-model neural similarity reveals abstractive summarization performance",
+    "article_number": "370",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhejun Zhang",
+      "Shaoting Guo",
+      "Wenqing Zhou",
+      "Yingying Luo",
+      "Yingqi Zhu",
+      "Lin Zhang",
+      "Lei Li"
+    ]
+  },
+  "article_index": 328,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:04:33.527643"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:04:35.068598"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:27.327922"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:13:16.513163"
+    },
+    "last_updated": "2025-10-07T09:46:27.328197"
+  }
+}

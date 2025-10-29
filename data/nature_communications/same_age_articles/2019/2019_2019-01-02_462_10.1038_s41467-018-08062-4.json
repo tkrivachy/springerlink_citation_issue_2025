@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.727472",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08062-4",
+    "title": "Integrating all-optical switching with spintronics",
+    "article_number": "110",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "M. L. M. Lalieu",
+      "R. Lavrijsen",
+      "B. Koopmans"
+    ]
+  },
+  "article_index": 462,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T18:05:56.141878"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T18:05:57.685469"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T18:05:59.068049"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 114,
+      "retrieved_at": "2025-10-03T22:55:54.825074"
+    },
+    "last_updated": "2025-10-03T22:55:54.825266"
+  }
+}

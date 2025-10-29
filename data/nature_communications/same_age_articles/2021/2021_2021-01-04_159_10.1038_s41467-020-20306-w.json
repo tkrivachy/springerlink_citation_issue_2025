@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.199500",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20306-w",
+    "title": "The order and logic of CD4 versus CD8 lineage choice and differentiation in mouse thymus",
+    "article_number": "99",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mohammad M. Karimi",
+      "Ya Guo",
+      "Xiaokai Cui",
+      "Husayn A. Pallikonda",
+      "Veronika Horková",
+      "Yi-Fang Wang",
+      "Sara Ruiz Gil",
+      "Gustavo Rodriguez-Esteban",
+      "Irene Robles-Rebollo",
+      "Ludovica Bruno",
+      "Radina Georgieva",
+      "Bhavik Patel",
+      "James Elliott",
+      "Marian H. Dore",
+      "Danielle Dauphars",
+      "Michael S. Krangel",
+      "Boris Lenhard",
+      "Holger Heyn",
+      "Amanda G. Fisher",
+      "Ondřej Štěpánek",
+      "Matthias Merkenschlager"
+    ]
+  },
+  "article_index": 159,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:24:53.113682"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:24:54.657251"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:24:55.974394"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T23:02:15.008857"
+    },
+    "last_updated": "2025-10-03T23:02:15.009044"
+  }
+}

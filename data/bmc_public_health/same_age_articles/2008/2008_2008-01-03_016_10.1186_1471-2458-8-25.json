@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:48:33.996981",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-25",
+    "title": "Identification of patients for clinical risk assessment by prediction of cardiovascular risk using default risk factor values",
+    "article_number": "25",
+    "publication_date": "2008-01-23",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tom Marshall"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T12:30:17.929786"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T12:30:19.463681"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T12:30:20.730711"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T20:52:07.370614"
+    },
+    "last_updated": "2025-10-03T20:52:07.370806"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.378704",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84062-3",
+    "title": "Integrative multi-omics analysis reveals the role of toll-like receptor signaling in pancreatic cancer",
+    "article_number": "52",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jie Peng",
+      "Jiaao Sun",
+      "Youfeng Yu",
+      "Qihang Yuan",
+      "Yong Zhang"
+    ]
+  },
+  "article_index": 278,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:15:32.606610"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:15:34.135602"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:50.234958"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:17:13.107068"
+    },
+    "last_updated": "2025-10-07T09:48:50.235042"
+  }
+}

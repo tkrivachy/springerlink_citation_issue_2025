@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.236471",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79567-6",
+    "title": "Acoustic frequency combs using gas bubble cluster oscillations in liquids: a proof of concept",
+    "article_number": "38",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bui Quoc Huy Nguyen",
+      "Ivan S. Maksymov",
+      "Sergey A. Suslov"
+    ]
+  },
+  "article_index": 200,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:53:59.315062"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:54:00.865091"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:54:02.023132"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:44:55.960401"
+    },
+    "last_updated": "2025-10-03T21:44:55.960604"
+  }
+}

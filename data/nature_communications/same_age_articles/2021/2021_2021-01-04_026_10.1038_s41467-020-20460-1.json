@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.177492",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20460-1",
+    "title": "SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell specific enhancer that controls disease-critical microRNA expression",
+    "article_number": "135",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Guojun Hou",
+      "Isaac T. W. Harley",
+      "Xiaoming Lu",
+      "Tian Zhou",
+      "Ning Xu",
+      "Chao Yao",
+      "Yuting Qin",
+      "Ye Ouyang",
+      "Jianyang Ma",
+      "Xinyi Zhu",
+      "Xiang Yu",
+      "Hong Xu",
+      "Dai Dai",
+      "Huihua Ding",
+      "Zhihua Yin",
+      "Zhizhong Ye",
+      "Jun Deng",
+      "Mi Zhou",
+      "Yuanjia Tang",
+      "Bahram Namjou",
+      "Ya Guo",
+      "Matthew T. Weirauch",
+      "Leah C. Kottyan",
+      "John B. Harley",
+      "Nan Shen"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:42:06.161714"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T18:42:07.732771"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T18:42:09.062628"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T23:08:03.411734"
+    },
+    "last_updated": "2025-10-03T23:08:03.411921"
+  }
+}

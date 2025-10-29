@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.201449",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20252-7",
+    "title": "Strain-stabilized superconductivity",
+    "article_number": "59",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. P. Ruf",
+      "H. Paik",
+      "N. J. Schreiber",
+      "H. P. Nair",
+      "L. Miao",
+      "J. K. Kawasaki",
+      "J. N. Nelson",
+      "B. D. Faeth",
+      "Y. Lee",
+      "B. H. Goodge",
+      "B. Pamuk",
+      "C. J. Fennie",
+      "L. F. Kourkoutis",
+      "D. G. Schlom",
+      "K. M. Shen"
+    ]
+  },
+  "article_index": 173,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:23:36.647293"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:23:38.185632"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:23:39.369700"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T23:01:46.322204"
+    },
+    "last_updated": "2025-10-03T23:01:46.322438"
+  }
+}

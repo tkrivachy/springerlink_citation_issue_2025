@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.371865",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83156-2",
+    "title": "Comparison of oxidative stress status in the kidney tissue of male rats treated with paraquat and nanoparaquat",
+    "article_number": "389",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fatemeh Bahramibanan",
+      "Mohammad Vahabi Rad",
+      "Akram Ranjbar",
+      "Ashkan Karbasi",
+      "Anahita Abbasifard"
+    ]
+  },
+  "article_index": 220,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:27:19.314135"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:27:20.827844"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:11.392837"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:21:22.048865"
+    },
+    "last_updated": "2025-10-07T09:51:11.393059"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.729632",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07831-5",
+    "title": "Size-dependent kinetics during non-equilibrium lithiation of nano-sized zinc ferrite",
+    "article_number": "93",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jing Li",
+      "Qingping Meng",
+      "Yiman Zhang",
+      "Lele Peng",
+      "Guihua Yu",
+      "Amy C. Marschilok",
+      "Lijun Wu",
+      "Dong Su",
+      "Kenneth J. Takeuchi",
+      "Esther S. Takeuchi",
+      "Yimei Zhu",
+      "Eric A. Stach"
+    ]
+  },
+  "article_index": 481,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:39:50.171544"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T17:39:51.692612"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:39:52.837509"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T22:46:54.841692"
+    },
+    "last_updated": "2025-10-03T22:46:54.841886"
+  }
+}

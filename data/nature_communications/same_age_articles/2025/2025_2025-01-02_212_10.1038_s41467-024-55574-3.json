@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540680",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55574-3",
+    "title": "Enterocyte-like differentiation defines metabolic gene signatures of CMS3 colorectal cancers and provides therapeutic vulnerability",
+    "article_number": "264",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Arezo Torang",
+      "Aleksandar B. Kirov",
+      "Veerle Lammers",
+      "Kate Cameron",
+      "Valérie M. Wouters",
+      "Rene F. Jackstadt",
+      "Tamsin R. M. Lannagan",
+      "Joan H. de Jong",
+      "Jan Koster",
+      "Owen Sansom",
+      "Jan Paul Medema"
+    ]
+  },
+  "article_index": 212,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:39:15.702848"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:39:17.230468"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:39:18.411394"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:27:09.140785"
+    },
+    "last_updated": "2025-10-03T23:27:09.140974"
+  }
+}

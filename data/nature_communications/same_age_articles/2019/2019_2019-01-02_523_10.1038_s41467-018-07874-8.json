@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.733993",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07874-8",
+    "title": "Bimodal seismicity in the Himalaya controlled by fault friction and geometry",
+    "article_number": "48",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Luca Dal Zilio",
+      "Ylona van Dinther",
+      "Taras Gerya",
+      "Jean-Philippe Avouac"
+    ]
+  },
+  "article_index": 523,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T17:30:51.865969"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T17:30:53.377868"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T17:30:54.556465"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T22:43:52.120593"
+    },
+    "last_updated": "2025-10-03T22:43:52.120784"
+  }
+}

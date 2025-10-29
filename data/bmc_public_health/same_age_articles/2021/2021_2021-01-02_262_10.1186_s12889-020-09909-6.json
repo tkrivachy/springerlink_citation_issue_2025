@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.659436",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-09909-6",
+    "title": "University students’ perceptions of airborne infection control: exploratory study using Q methodology",
+    "article_number": "11",
+    "publication_date": "2021-01-04",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Seonhye Lee",
+      "Hyun Jin Kim",
+      "Chang Heon Cheong"
+    ]
+  },
+  "article_index": 262,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:03:30.878043"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:03:32.424202"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:03:33.667133"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T21:25:46.288585"
+    },
+    "last_updated": "2025-10-03T21:25:46.288767"
+  }
+}

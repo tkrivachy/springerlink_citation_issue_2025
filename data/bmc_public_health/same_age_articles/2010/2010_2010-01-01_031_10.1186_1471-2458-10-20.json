@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.529768",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-20",
+    "title": "Adverse childhood experiences are associated with the risk of lung cancer: a prospective cohort study",
+    "article_number": "20",
+    "publication_date": "2010-01-19",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "David W Brown",
+      "Robert F Anda",
+      "Vincent J Felitti",
+      "Valerie J Edwards",
+      "Ann Marie Malarcher",
+      "Janet B Croft",
+      "Wayne H Giles"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 398,
+      "retrieved_at": "2025-10-03T12:41:45.568743"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 243,
+      "retrieved_at": "2025-10-03T12:41:47.149662"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 291,
+      "retrieved_at": "2025-10-03T12:41:48.776834"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 335,
+      "retrieved_at": "2025-10-03T20:56:10.849662"
+    },
+    "last_updated": "2025-10-03T20:56:10.849849"
+  }
+}

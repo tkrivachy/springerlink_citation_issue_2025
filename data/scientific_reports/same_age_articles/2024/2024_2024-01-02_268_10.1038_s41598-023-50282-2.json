@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.861023",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50282-2",
+    "title": "Evaluating the impact of a short bout of stair-climbing on creative thinking in a between-subjects pretest posttest comparison study",
+    "article_number": "176",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chihiro Kawashima",
+      "Chong Chen",
+      "Kosuke Hagiwara",
+      "Tomohiro Mizumoto",
+      "Mino Watarai",
+      "Takaya Koga",
+      "Fumihiro Higuchi",
+      "Yuko Fujii",
+      "Emi Okabe",
+      "Shin Nakagawa"
+    ]
+  },
+  "article_index": 268,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:48:02.536530"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:48:04.123402"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:48:05.384182"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T22:07:06.353214"
+    },
+    "last_updated": "2025-10-03T22:07:06.353433"
+  }
+}

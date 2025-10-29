@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.181193",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20320-y",
+    "title": "Mechanism of filament formation in UPA-promoted CARD8 and NLRP1 inflammasomes",
+    "article_number": "189",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "L. Robert Hollingsworth",
+      "Liron David",
+      "Yang Li",
+      "Andrew R. Griswold",
+      "Jianbin Ruan",
+      "Humayun Sharif",
+      "Pietro Fontana",
+      "Elizabeth L. Orth-He",
+      "Tian-Min Fu",
+      "Daniel A. Bachovchin",
+      "Hao Wu"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:28:14.289431"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T18:28:15.850555"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:28:17.217931"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T23:03:26.116601"
+    },
+    "last_updated": "2025-10-03T23:03:26.116648"
+  }
+}

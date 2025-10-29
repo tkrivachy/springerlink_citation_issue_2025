@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.716387",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08206-6",
+    "title": "A welding phenomenon of dissimilar nanoparticles in dispersion",
+    "article_number": "219",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhiqi Huang",
+      "Zhi-Jian Zhao",
+      "Qian Zhang",
+      "Lili Han",
+      "Xiumei Jiang",
+      "Chao Li",
+      "Maria T. Perez Cardenas",
+      "Peng Huang",
+      "Jun-Jie Yin",
+      "Jun Luo",
+      "Jinlong Gong",
+      "Zhihong Nie"
+    ]
+  },
+  "article_index": 358,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:03:45.700782"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:03:47.227059"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:03:48.381655"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T22:55:09.338414"
+    },
+    "last_updated": "2025-10-03T22:55:09.338611"
+  }
+}

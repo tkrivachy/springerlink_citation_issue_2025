@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.727667",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07981-6",
+    "title": "Single-cell microRNA-mRNA co-sequencing reveals non-genetic heterogeneity and mechanisms of microRNA regulation",
+    "article_number": "95",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nayi Wang",
+      "Ji Zheng",
+      "Zhuo Chen",
+      "Yang Liu",
+      "Burak Dura",
+      "Minsuk Kwak",
+      "Juliana Xavier-Ferrucio",
+      "Yi-Chien Lu",
+      "Miaomiao Zhang",
+      "Christine Roden",
+      "Jijun Cheng",
+      "Diane S. Krause",
+      "Ye Ding",
+      "Rong Fan",
+      "Jun Lu"
+    ]
+  },
+  "article_index": 464,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 145,
+      "retrieved_at": "2025-10-03T17:41:14.544995"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 152,
+      "retrieved_at": "2025-10-03T17:41:16.122954"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 147,
+      "retrieved_at": "2025-10-03T17:41:17.584613"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 172,
+      "retrieved_at": "2025-10-03T22:47:14.312996"
+    },
+    "last_updated": "2025-10-03T22:47:14.313182"
+  }
+}

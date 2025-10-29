@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.632512",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35780-7",
+    "title": "In vivo detection of bile duct pre-cancer with endoscopic light scattering spectroscopy",
+    "article_number": "109",
+    "publication_date": "2023-01-07",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Douglas K. Pleskow",
+      "Mandeep S. Sawhney",
+      "Paul K. Upputuri",
+      "Tyler M. Berzin",
+      "Mark F. Coughlan",
+      "Umar Khan",
+      "Maria Glyavina",
+      "Xuejun Zhang",
+      "Liming Chen",
+      "Conor J. Sheil",
+      "Jonah M. Cohen",
+      "Edward Vitkin",
+      "Yuri N. Zakharov",
+      "Irving Itzkan",
+      "Lei Zhang",
+      "Le Qiu",
+      "Lev T. Perelman"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:50:58.369594"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:50:59.913035"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:51:01.062318"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:11:00.129648"
+    },
+    "last_updated": "2025-10-03T23:11:00.129854"
+  }
+}

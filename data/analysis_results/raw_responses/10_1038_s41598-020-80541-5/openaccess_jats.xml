@@ -1,0 +1,2626 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-020-80541-5</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-020-80541-5</article-id>
+          <article-id pub-id-type="manuscript">80541</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-020-80541-5</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/326</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/700</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Impacts of sleep on the characteristics of dental biofilm</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Sotozono</surname>
+                <given-names>Maki</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Kuriki</surname>
+                <given-names>Nanako</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au3">
+              <name name-style="western">
+                <surname>Asahi</surname>
+                <given-names>Yoko</given-names>
+              </name>
+              <address>
+                <email>yoko-a@dent.osaka-u.ac.jp</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs41598020805415_cor3">c</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Noiri</surname>
+                <given-names>Yuichiro</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Hayashi</surname>
+                <given-names>Mikako</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Motooka</surname>
+                <given-names>Daisuke</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Nakamura</surname>
+                <given-names>Shota</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Machi</surname>
+                <given-names>Hiroyuki</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Iida</surname>
+                <given-names>Tetsuya</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Ebisu</surname>
+                <given-names>Shigeyuki</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.136593.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 0373 3971</institution-id>
+                <institution content-type="org-division">Department of Restorative Dentistry and Endodontology</institution>
+                <institution content-type="org-name">Osaka University Graduate School of Dentistry</institution>
+              </institution-wrap>
+              <addr-line content-type="street">1-8 Yamadaoka</addr-line>
+              <addr-line content-type="postcode">565-0871</addr-line>
+              <addr-line content-type="city">Suita</addr-line>
+              <addr-line content-type="state">Osaka</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.260975.f</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 0671 5144</institution-id>
+                <institution content-type="org-division">Division of Cariology, Operative Dentistry and Endodontics, Department of Oral Health Science</institution>
+                <institution content-type="org-name">Niigata University Graduate School of Medical and Dental Sciences</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Niigata</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.136593.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 0373 3971</institution-id>
+                <institution content-type="org-division">Research Institute for Microbial Diseases</institution>
+                <institution content-type="org-name">Osaka University</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Osaka</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.136593.b</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 0373 3971</institution-id>
+                <institution content-type="org-name">Osaka University Dental Technology Institute</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Osaka</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41598020805415_cor3">
+              <label>c</label>
+              <email>yoko-a@dent.osaka-u.ac.jp</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>8</day>
+            <month>1</month>
+            <year>2021</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2021</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue seq="138">1</issue>
+          <elocation-id>138</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>23</day>
+              <month>12</month>
+              <year>2020</year>
+            </date>
+            <date date-type="received">
+              <day>20</day>
+              <month>8</month>
+              <year>2020</year>
+            </date>
+            <date date-type="accepted">
+              <day>21</day>
+              <month>12</month>
+              <year>2020</year>
+            </date>
+            <date date-type="online">
+              <day>8</day>
+              <month>1</month>
+              <year>2021</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2021</copyright-statement>
+            <copyright-year>2021</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Dental biofilm present on the tooth surface is associated with oral diseases, such as dental caries and periodontal disease. Because bacterial numbers rapidly increase in saliva during sleep, oral care before sleeping is recommended for the prevention of chronic oral diseases. However, temporal circadian changes in the quantity and quality of dental biofilms are poorly understood. This study aimed to investigate the impacts of sleeping on dental biofilm amounts and compositions by using an in situ model. The use of this in situ model enabled us to investigate dental biofilm formed in the oral cavity and to perform a quantitative analysis. Subjects began wearing oral splints in the morning or before sleeping, and biofilm samples were collected at 8, 16, and 24 h after the subjects began wearing oral splints; these samples were then used in various experiments. No significant changes in the numbers of biofilm-forming bacteria were caused by sleep. However, the relative abundances of genera related to periodontitis (i.e., 
+              <italic>Fusobacterium</italic>
+               and 
+              <italic>Prevotella</italic>
+              ) increased after awakening. In conclusion, the numbers of biofilm-forming bacteria were not affected by sleep, and the abundances of obligate anaerobes increased after sleep. This research may aid in defining efficacious preventive oral care.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1105">Dentistry</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Initiative for Realizing Diversity in the Research Environment</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>SECOM Science and Technology Foundation</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>JSPS KAKENHI</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">JP17H04384</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ebisu</surname>
+                  <given-names>Shigeyuki</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Research</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>147</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2020_Article_80541.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            The human body is inhabited by an enormous number of bacteria, which form a structure known as a biofilm in habitats such as the skin, airways, gut, vagina, and oral cavity
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . More than 700 species of bacteria inhabit the human oral cavity
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+              ,
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            ; they form biofilms on various locations, including the tooth surface, hard and soft palate, buccal mucosa, and gingiva. The Human Microbiome Project (HMP, 2007–2017) was established to investigate the characteristics of the human microbiome and its relationship to disease. In this project, the microbiomes of various habitats in the human body were comprehensively investigated by performing a 16S rRNA sequence analysis
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . The oral cavity is reportedly one of the most microbiologically diverse sites within the human body
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . Most bacteria detected in the oral cavity belong to one of the following five phyla: Firmicutes, Proteobacteria, Actinobacteria, Bacteroidetes, and Fusobacteria
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              ,
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            . The diversity of the salivary and dental plaque microbiome differs widely among individuals. Because the oral cavity acts as the primary entrance to the human digestive tract, it tends to be influenced by host behaviors, such as toothbrushing and mouth washing
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . In addition, the microbiome in the oral cavity is also affected by many other factors, including saliva pH, enzymes, host immunity, and antibacterial agents
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            .
+
+
+
+
+          </p>
+          <p id="Par3">
+            Dental biofilm that forms on the tooth surface is thought to be associated with oral diseases, such as dental caries and periodontal diseases
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            , which are chronic infectious diseases found in many patients worldwide
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            . An imbalance of the microbiome (dysbiosis) contributes to some diseases, e.g. intestinal diseases, diabetes mellitus, and metabolic disease
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              , 
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              –
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . Recently, the dysbiosis of microbial communities in the oral cavity was found to be associated with oral infections
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . For example, dental caries were found to result from a dysbiosis with acidogenic and aciduric bacteria, whereas periodontitis is triggered by dysbiosis with proteolytic, obligate anaerobic, and alkaliphilic bacteria
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            . Therefore, the prevention of these oral diseases requires monitoring and control of the microbial communities within dental biofilm. Biofilms, including dental biofilm, are composed of bacterial cells and exopolysaccharide (EPS)
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . Importantly, biofilm-forming bacteria exhibit gene expression patterns that differ from those of planktonic bacteria
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              ,
+              <xref ref-type="bibr" rid="CR19">19</xref>
+            </sup>
+            ; moreover, a subset of bacteria in biofilms behave as persister cells, characterized by slow growth
+            <sup>
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              ,
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            . These mechanisms enable biofilms to tolerate exposure to typical antibiotics
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              , 
+              <xref ref-type="bibr" rid="CR23">23</xref>
+              –
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . Therefore, the most effective mechanical approach is daily toothbrushing to remove the dental biofilm, which prevents dental caries, periodontitis, and other oral diseases.
+          </p>
+          <p id="Par4">
+            Salivary flow is reportedly lower during sleep than during the daytime
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            ; additionally, because the number of bacteria in saliva increases rapidly at night, it is highest upon awakening
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+            . Accordingly, it is generally recommended that oral care (including toothbrushing) should be performed before sleeping. Patients and clinicians generally agree on the need for oral care before sleep. However, this practice is recommended solely based on the number of bacteria in saliva, and it does not consider the role of dental biofilm in the onset of oral disease. The salivary microbiome is reportedly associated with circadian oscillation
+            <sup>
+              <xref ref-type="bibr" rid="CR27">27</xref>
+            </sup>
+            ; however, there remains a lack of information regarding the relationship between dental biofilm and the circadian rhythm, as well as regarding the roles of changes in the abilities of dental biofilms to cause oral disease between waking and sleeping hours. Unfortunately, the effects of sleep on the characteristics of dental biofilm have not been sufficiently investigated owing to the difficulty of such experiments.
+          </p>
+          <p id="Par5">
+            The concept of dental biofilm was originally reported by Costerton et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            ; various experiments have since been performed to investigate and control biofilm formation
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+              ,
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+            . Moreover, many kinds of biofilm models have been developed to investigate human dental biofilm, including in vitro static models and flow cell models
+            <sup>
+              <xref ref-type="bibr" rid="CR31">31</xref>
+              , 
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              , 
+              <xref ref-type="bibr" rid="CR33">33</xref>
+              –
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            . However, these in vitro models can neither simulate the environment of the oral cavity nor reflect the influence of host factors. Although these problems could potentially be solved by collecting dental biofilm directly from the tooth surface, the structure of collected biofilm would be disturbed by the instruments used for their collection. In previous studies, the growth rate and growth patterns of dental biofilm formed during the daytime and nighttime were recorded by taking photos, which subsequently were used to calculate the area covered by dental biofilm
+            <sup>
+              <xref ref-type="bibr" rid="CR35">35</xref>
+              ,
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            . However, these experiments did not provide an accurate assessment of the amount of dental biofilm.
+          </p>
+          <p id="Par6">
+            In our previous work, we developed an in situ dental biofilm model
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+             that enables the formation of experimental dental biofilm on hydroxyapatite (HA) disks in the oral cavity, which facilitates quantitative analysis. The use of this in situ dental biofilm model enables the collection of samples of dental biofilm formed in oral cavity without disturbing the biofilm structure and investigations of the amount of biofilm per unit area. We previously studied the temporal dynamics of experimental dental biofilm by using this in situ dental biofilm model for 96 h. We observed that, 48 h after the biofilm began to form, the bacterial number and biofilm thickness significantly increased; concurrently, the composition of the microbiota changed. Using a 16S rRNA sequence analysis, we found that mature dental biofilm (after 48 h of growth) had a high abundance of anaerobic bacteria, such as 
+            <italic>Fusobacterium</italic>
+            , 
+            <italic>Prevotella</italic>
+            , and 
+            <italic>Porphyromonas</italic>
+             genera.
+          </p>
+          <p id="Par7">The purpose of the present study was to use our in situ model to investigate the impact of sleeping on the bacterial microbiota within dental biofilm. The findings of this study will contribute to improvements in preventive oral care based on an improved understanding of dental biofilms.</p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec3">
+            <title>Selection of study subjects</title>
+            <p id="Par8">
+              Ten healthy volunteers (seven men and three women, 27–32 years old) were recruited from among the students and staff of Osaka University Graduate School of Dentistry. Healthy subjects were defined as previously reported
+              <sup>
+                <xref ref-type="bibr" rid="CR38">38</xref>
+              </sup>
+              . No clinical signs of caries, gingivitis, or periodontitis were detected, and no systemic disease was observed in any of the subjects. The total number of decayed, missing, or filled teeth (DMF) of each participant was recorded as an index of dental caries, and the Community Periodontal Index (CPI) of each participant was recorded as an index of periodontal disease. A summary of the subject characteristics is shown in Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              . The subjects were asked to avoid using antibiotics for 3 months before beginning this study.
+              <table-wrap id="Tab1">
+                <label>Table 1</label>
+                <caption xml:lang="en">
+                  <p>Subject characteristics.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Subject number</p>
+                      </th>
+                      <th align="left">
+                        <p>Sex</p>
+                      </th>
+                      <th align="left">
+                        <p>Age (years)</p>
+                      </th>
+                      <th align="left">
+                        <p>DMF</p>
+                      </th>
+                      <th align="left">
+                        <p>CPI</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>1</p>
+                      </td>
+                      <td align="left">
+                        <p>F</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>30</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>14</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>2</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>30</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3</p>
+                      </td>
+                      <td align="left">
+                        <p>F</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>28</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>12</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>4</p>
+                      </td>
+                      <td align="left">
+                        <p>F</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>30</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>5</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>32</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>3</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>6</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>27</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>1</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>7</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>27</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>4</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>8</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>32</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>7</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>9</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>31</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>10</p>
+                      </td>
+                      <td align="left">
+                        <p>M</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>31</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>8</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>0</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <p>The subject characteristics are shown. F, female; M, male. A quantification of the experience of dental caries as the total number of teeth that are decayed, missing, or filled (DMF) was used as an index of dental caries. The Community Periodontal Index (CPI) was used as an index of periodontal disease. No clinical signs of caries, gingivitis, or periodontitis were detected, and no systemic disease was observed, in any of the subjects.</p>
+                </table-wrap-foot>
+              </table-wrap>
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Ethics declarations</title>
+            <p id="Par9">Written informed consent was obtained from all subjects. The study design was reviewed and approved by the Ethics Committee of the Osaka University Graduate School of Dentistry (H29-E17). The experiments were performed in accordance with ethics guidelines concerning medical science studies of humans.</p>
+          </sec>
+          <sec id="Sec5">
+            <title>Biofilm formation</title>
+            <p id="Par10">
+              The in situ dental biofilm model that we developed previously
+              <sup>
+                <xref ref-type="bibr" rid="CR37">37</xref>
+              </sup>
+               was modified and used to form biofilms. Briefly, individual upper jaw splints as in situ oral devices were vacuum-formed with 1.5-mm-thick thermoplastic resin sheets (Erkodule, Erkodent, Pfalzgrafenweiler, Germany) and divided into left and right pieces. HA disks (Olympus Terumo Biomaterials, Tokyo, Japan) simulating the enamel surface of teeth were inserted into the buccal side of the appliances (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              ). All subjects brushed their teeth, without using toothpaste or mouthwash, before they inserted the oral appliance.
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>In situ dental biofilm model. Schematic of the in situ dental biofilm model. Oral appliances with HA disks inserted into the buccal sides were used to observe the formation of experimental biofilms.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/41598_2020_80541_Fig1_HTML.jpg" id="MO1"/>
+              </fig>
+            </p>
+            <p id="Par11">
+              The experimental schedule is shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              . All ten subjects participated in both experimental schedules (waking and sleeping). A rest period of least 2 weeks was implemented between participation in the waking and sleeping schedules. Subjects began to wear the oral appliance in the morning for the waking schedule and directly before sleeping for the sleeping schedule. For both schedules, subjects wore the oral appliance continuously for 24 h, except for during meals and toothbrushing. When the subjects removed their oral appliances for eating and toothbrushing, they placed the appliances in cases with wet paper to avoid desiccation of the biofilms on the HA disks. After meals, the subjects brushed their teeth before resuming appliance wear, and they recorded the time of the meal in experimental time. For both schedules, the subjects slept for 8 h (from 24:00 to 8:00) and recorded their wake-up time and bedtime. Biofilm samples were collected at 8, 16, and 24 h after insertion of the oral appliances. Because eight HA disks were inserted in the appliance, and the number of biofilm samples formed at a single time was limited, each schedule was repeated twice (first and second phases, respectively), such that each participant wore the appliance for 4 days in total. The subjects participated in the different schedules in a randomly assigned order. In the first phase, two disks were collected at three sample collection times. One disk was used for viable bacterial cell counts, and the other disk was used for DNA extraction for real-time PCR and 16S rRNA sequence analysis. In the second phase, two disks were collected at each sample collection time for use in confocal laser scanning microscopy observations.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>Schedule and sample collection timings. Schematic of the schedule and sample collection timings. Subjects began wearing the oral appliances (indicated by a black arrow) at 8:00 for the waking schedule and at 24:00 for the sleeping schedule. Biofilm samples were collected after wearing the oral appliances for 8 h, 16 h, or 24 h, as indicated by arrowheads. In both the waking and sleeping schedules, the subjects wore the oral appliances for 24 h and slept from 24:00 to 8:00. In the first phase, disks were collected for use in viable bacterial cell counts and DNA extraction (for real-time PCR and 16S rRNA sequence analysis). In the second phase, disks were collected at each sample collection timepoint for confocal laser scanning microscopy (CLSM) observations.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80541_Fig2_HTML.png" id="MO2"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>Viable bacterial cell counts</title>
+            <p id="Par12">Biofilm samples were sonicated for 5 min in sterile distilled water. The resulting bacterial suspension was diluted and spread onto Colombia blood agar plates (Becton, Dickinson and Company, Franklin Lakes, NJ, USA) and incubated in aerobic conditions for 24 h or anaerobic conditions using Anaero Pack Kenki (Mitsubishi Gas Chemical Company, Inc. Tokyo, Japan) for 48 h. Three plates were used for each concentration and each condition. The numbers of biofilm-forming bacteria were calculated by counting colonies.</p>
+          </sec>
+          <sec id="Sec7">
+            <title>Quantification of total biofilm-forming bacteria by real-time PCR</title>
+            <p id="Par13">
+              Bacterial DNA was extracted with a DNeasy PowerSoil Kit (Qiagen, Hilden, Germany). Real-time PCR was performed in a total volume of 20 µl, composed of 10 µl of Power SYBR Green Master Mix (Applied Biosystems, Foster City, CA, USA), 1 µl of DNA, and the following universal bacterial 16S rRNA primers: 27F (AGRGTTTGATCMTGGCTCAG
+              <sup>
+                <xref ref-type="bibr" rid="CR39">39</xref>
+                ,
+                <xref ref-type="bibr" rid="CR40">40</xref>
+              </sup>
+              ) and 338R (TGCTGCCTCCCGTAGGAGT
+              <sup>
+                <xref ref-type="bibr" rid="CR41">41</xref>
+              </sup>
+              ). The final concentration of forward and reverse primers was 900 nM. The Applied Biosystems 7500 fast real-time PCR system (Thermo Fisher Scientific, Foster City, CA, USA) was used to estimate the numbers of biofilm-forming bacteria via a calibration curve method. The calibration curve was prepared using 
+              <italic>Streptococcus mutans</italic>
+               ATCC 25175 genomic DNA.
+            </p>
+          </sec>
+          <sec id="Sec8">
+            <title>16S rRNA gene sequencing</title>
+            <p id="Par14">The V1–V2 region of 16S rRNA was amplified by using the primer set 27F and 338R. The Illumina library was prepared with the tailed PCR method, in accordance with the instructions of the “Illumina 16S Metagenomic Sequencing Library Preparation Guide”. Sequencing was performed with a MiSeq instrument (Illumina Inc.). The sequences were processed and clustered into operative taxonomic units (OTUs) with a 97% similarity cutoff using the Green Gene database. The results of sequences were analyzed using the Quantitative Insights Into Microbial Ecology (QIIME) pipeline.</p>
+          </sec>
+          <sec id="Sec9">
+            <title>Confocal laser scanning microscopy observations</title>
+            <p id="Par15">
+              A modified biofilm staining method was used as previously described
+              <sup>
+                <xref ref-type="bibr" rid="CR42">42</xref>
+              </sup>
+              . To analyze the structure of the biofilms, bacterial cells were stained with 4ʹ,6-diamidino-2-phenylindole (DAPI; Thermo Fisher Scientific), and EPS was stained with fluorescein isothiocyanate (FITC)-labeled concanavalin (Con A; Thermo Fisher Scientific) and FITC-wheat germ agglutinin (WGA; Thermo Fisher Scientific). The final concentrations of fluorescent labeling reagents were 125 ng/ml (FITC-ConA and FITC-WGA) and 105 ng/ml (DAPI). Biofilm samples on HA disks were immersed in aliquots of fluorescent labeling reagent for 30 min. A confocal laser scanning microscope (LSM 700, Carl Zeiss, Oberkochen, Germany) was used to observe the biofilms, and Imaris software (Imaris 5. 0. 1, Bitplane AG, Zürich, Switzerland) was used for image analysis.
+            </p>
+          </sec>
+          <sec id="Sec10">
+            <title>Statistical analysis</title>
+            <p id="Par16">
+              Friedman’s test was used to compare the numbers of living bacteria and total bacteria, as well as the volumes of total bacteria and EPS. The Wilcoxon signed rank test was used to compare the relative abundances of each genus. Differences among schedules with a 
+              <italic>p</italic>
+              -value of &lt; 0.05 were considered statistically significant. Statistical analyses and graphical outputs were performed with IBM SPSS Statistics (version 22.0, IBM SPSS Inc., Armonk, NY, USA).
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec11" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec12">
+            <title>Numbers of biofilm-forming bacteria</title>
+            <p id="Par17">
+              Viable cell counts under aerobic and anaerobic conditions increased over time in both the waking and sleeping schedules (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              ). Statistically significant increases were observed from 8 to 16 h, as well as from 16 to 24 h, under aerobic conditions in both the waking and sleeping schedules (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              a). The population of viable cells increased significantly from 16 to 24 h under anaerobic conditions (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              b). Similarly, a real-time PCR analysis revealed that the numbers of total bacteria increased over time in both schedules (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              ). However, no significant differences were observed between the waking and sleeping schedules at each sample collection time (8 h, 16 h, 24 h) in terms of the viable cell count and real-time PCR analysis (Friedman’s test, 
+              <italic>p</italic>
+               &gt; 0.05).
+              <fig id="Fig3" position="float">
+                <label>Figure 3</label>
+                <caption xml:lang="en">
+                  <p>
+                    Numbers of viable biofilm-forming bacteria. (
+                    <bold>a</bold>
+                    ,
+                    <bold>b</bold>
+                    ) Numbers of viable biofilm-forming bacteria over time in dental biofilms from the waking and sleeping schedules, grown under aerobic (
+                    <bold>a</bold>
+                    ) or anaerobic (
+                    <bold>b</bold>
+                    ) conditions, as measured by counting colonies. Significant differences are represented by different letters (Friedman’s test at 
+                    <italic>p</italic>
+                     &lt; 0.05).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80541_Fig3_HTML.png" id="MO3"/>
+              </fig>
+              <fig id="Fig4" position="float">
+                <label>Figure 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    Numbers of total biofilm-forming bacteria. Numbers of total biofilm-forming bacteria over time in dental biofilms from the waking and sleeping schedules, as measured by real-time PCR. Significant differences are represented by different letters (Friedman’s test at 
+                    <italic>p</italic>
+                     &lt; 0.05).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80541_Fig4_HTML.png" id="MO4"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec13">
+            <title>16S rRNA gene sequencing</title>
+            <p id="Par18">
+              The microbial composition according to bacterial taxa is shown in Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              . There were individual differences in the composition of bacterial taxa, but common tendencies were observed. Biofilm-forming bacteria on the hydroxyapatite (HA) disks mostly belonged to one of the following five phyla: Actinobacteria, Bacteroidetes, Firmicutes, Fusobacteria, and Proteobacteria (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              a). The relative abundance of Bacteroidetes was higher in the sleeping schedule than in the waking schedule at 8 h. Moreover, the relative abundance of Bacteroidetes increased over time in the waking schedule (7.2% of biofilm-forming bacteria at 8 h, 13.1% at 16 h, and 26.1% at 24 h), whereas there was almost no change over time in the sleeping schedule. The relative abundance of Firmicutes decreased over time in both the waking and sleeping schedules. The relative abundances at the genus level are shown in Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              b. The relative abundance of 
+              <italic>Neisseria</italic>
+               was lowest at 8 h in the sleeping schedule. The relative abundance of 
+              <italic>Streptococcus</italic>
+               decreased over time in both schedules, especially from 16 to 24 h in the waking schedule. Genera with significant differences in relative abundance between the two schedules at each sample collection time are shown in Fig. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              . At 8 h, the relative abundance of 
+              <italic>Neisseria</italic>
+               was significantly higher in the waking schedule than in the sleeping schedule; in contrast, the relative abundances of 
+              <italic>Corynebacterium</italic>
+              , 
+              <italic>Prevotella</italic>
+              , 
+              <italic>Capnocytophaga</italic>
+              , and 
+              <italic>Fusobacterium</italic>
+               were higher in the sleeping schedule (Wilcoxon signed rank test, 
+              <italic>p</italic>
+               &lt; 0.05). At 16 h, the relative abundances of 
+              <italic>Corynebacterium</italic>
+               and 
+              <italic>Granulicatella</italic>
+               were higher in the sleeping schedule than in the waking schedule. In contrast with the result at 8 h, the relative abundances of 
+              <italic>Prevotella</italic>
+               and 
+              <italic>Fusobacterium</italic>
+               at 24 h were significantly higher in the waking schedule than in the sleeping schedule (Wilcoxon signed rank test, 
+              <italic>p</italic>
+               &lt; 0.05). Biofilm samples collected upon awakening showed high abundances of obligate anaerobes, such as members of the 
+              <italic>Prevotella</italic>
+               and 
+              <italic>Fusobacterium</italic>
+               genera.
+              <fig id="Fig5" position="float">
+                <label>Figure 5</label>
+                <caption xml:lang="en">
+                  <p>
+                    Relative abundance of bacterial taxa in dental biofilm. (
+                    <bold>a</bold>
+                    ,
+                    <bold>b</bold>
+                    ) The relative abundance at the phyla (
+                    <bold>a</bold>
+                    ) and genus (
+                    <bold>b</bold>
+                    ) levels of bacteria in dental biofilms grown during the waking or sleeping schedules. The bar colors indicate the taxa.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80541_Fig5_HTML.png" id="MO5"/>
+              </fig>
+              <fig id="Fig6" position="float">
+                <label>Figure 6</label>
+                <caption xml:lang="en">
+                  <p>
+                    Genera with significantly different relative abundances between the waking and sleeping schedules. (
+                    <bold>a</bold>
+                    –
+                    <bold>c</bold>
+                    ) Genera for which significant differences in abundance were observed between dental biofilms from the waking and sleeping schedules at 8 h (
+                    <bold>a</bold>
+                    ), 16 h (
+                    <bold>b</bold>
+                    ), or 24 h (
+                    <bold>c</bold>
+                    ) (Wilcoxon signed rank test, 
+                    <italic>p</italic>
+                     &lt; 0.05). Circles represent outliers.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80541_Fig6_HTML.png" id="MO6"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec14">
+            <title>Confocal laser scanning microscopy observations</title>
+            <p id="Par19">
+              Representative images of experimental biofilms on the HA disks are shown in Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              a. In EPS–bacteria staining, blue-stained bacteria were observed surrounded by green-stained EPS (Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              a). Small numbers of microcolonies were observed at 8 h in both schedules; however, the microcolonies in the sleeping schedule tended to be small and sparse (Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              a). The numbers of EPS-enmeshed microcolonies increased over time and the biofilms covered nearly the entire HA disk surface at 16 h (Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              a). The volume of EPS did not change from 8 to 16 h in the waking schedule (Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              b), whereas the volumes of total bacteria gradually increased in both the waking and sleeping schedules (Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              c). The volume of EPS was significantly greater at 8 h in the waking schedule than in the sleeping schedule (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              b, Friedman test, 
+              <italic>p</italic>
+               &lt; 0.05); it increased more rapidly from 8 to 16 h, as well as from 16 to 24 h, in the sleeping schedule than in the waking schedule.
+              <fig id="Fig7" position="float">
+                <label>Figure 7</label>
+                <caption xml:lang="en">
+                  <p>
+                    Confocal laser scanning microscopy images of in situ dental biofilm and the volumes of components in EPS-total bacteria staining. (
+                    <bold>a</bold>
+                    ) Exopolysaccharide (EPS) labeled with FITC-ConA and FITC-WGA is depicted in green, and total bacteria labeled with DAPI are depicted in blue. (
+                    <bold>b</bold>
+                    ,
+                    <bold>c</bold>
+                    ) The volumes of EPS (
+                    <bold>b</bold>
+                    ) and total bacteria (
+                    <bold>c</bold>
+                    ). Significant differences are represented by different letters (Friedman’s test, 
+                    <italic>p</italic>
+                     &lt; 0.05).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2020_80541_Fig7_HTML.png" id="MO7"/>
+              </fig>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec15" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par20">The objective of this study was to investigate whether, and if so, how the characteristics of in situ dental biofilm are influenced by sleeping. Understanding changes in such characteristics may lead to the development of methods to effectively control dental biofilm, thereby preventing biofilm-associated oral diseases such as dental caries and periodontitis. The results obtained will have important implications for planning optimal oral hygiene, especially in providing scientific evidence for establishing effective timing for oral care. Because people typically brush their teeth every day, this study investigated the change in in situ biofilm characteristics on a daily basis. The applied study design has an important advantage for investigating the influence of sleeping. To research the impacts of sleeping, sample collection before and after sleeping would seem to be a reasonable method; however, a biofilm collected after sleeping would typically be older than a biofilm collected before sleeping, thus precluding an accurate investigation of the impact of sleeping. Here, we employed two schedules so that biofilms of the same age could be obtained, thus allowing the specific effects of sleeping to be investigated.</p>
+          <p id="Par21">
+            Viable cell counts and real-time PCR analyses revealed that the numbers of biofilm-forming bacteria increased over time under both the waking and sleeping schedules. We previously reported that the population of biofilm-forming bacteria increased in two steps: from the onset of biofilm formation to 48 h, and from 48 h onwards
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            . The findings of the present study are consistent with the findings of our previous study, in that the bacterial number increased over time. The number of bacteria in saliva was previously reported to increase rapidly during the night, and it was higher upon awakening in the morning
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+            . The number of biofilm-forming bacteria was expected to increase along with an increase of the bacteria in saliva. Notably, no significant differences were observed in the populations of biofilm-forming bacteria between the waking and sleeping schedules at each sample collection time; this result suggests that the number of biofilm-forming bacteria is not affected by sleeping, although methodological limitations remain. The number of dental biofilm-forming bacteria is not closely related to the number of bacteria in saliva, although saliva is always present in the oral cavity, and the tooth surface is continuously in contact with saliva. The main reason for the increase in bacterial number within saliva during sleep is thought to be the decrease in salivary flow during this period. Furthermore, a decrease in salivary flow could reduce the level of salivary antibacterial agents, thus leading to bacterial growth in saliva. However, because bacteria within a biofilm are resistant to antibacterial agents, the population of biofilm-forming bacteria may be less affected than the planktonic cells in saliva by a reduction in the level of salivary antibacterial agents. The volumes of living bacteria (
+            <xref ref-type="supplementary-material" rid="MOESM1">Supplemental data</xref>
+            ) and total bacteria obtained by CLSM observation correspond to the viable cell count and real-time PCR results, in that both the volume and the number of bacteria increased over time.
+          </p>
+          <p id="Par22">
+            In the present study, changes in bacterial composition after sleep were observed via a 16S rRNA sequence analysis. The bacteria contained in the in situ dental biofilm belonged to one of the following five phyla: Actinobacteria, Bacteroidetes, Firmicutes, Fusobacteria, and Proteobacteria. These results are consistent with those of some previous reports
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              ,
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            . At the genus level, the relative abundances of the genera 
+            <italic>Prevotella</italic>
+             and 
+            <italic>Fusobacterium</italic>
+             increased in 8-h- and 24-h-old biofilms after sleeping. A previous study revealed that the abundances of 
+            <italic>Porphyromonas</italic>
+            , 
+            <italic>Prevotella</italic>
+            , and 
+            <italic>Fusobacterium</italic>
+             increased rapidly at 48 h after the onset of formation of an in situ dental biofilm
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            . In the report by Socransky et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            , 
+            <italic>Fusobacterium nucleatum</italic>
+            , 
+            <italic>Prevotella intermedia</italic>
+            , and 
+            <italic>Prevotella nigrescens</italic>
+             were included in the orange complex, which was closely associated with periodontitis. The abundance of 
+            <italic>Porphyromonas</italic>
+             increased over time under both the waking and sleeping schedules, and no significant difference was observed between these two schedules at any sample collection timepoint. In a previous study, we reported that the relative abundance of 
+            <italic>Porphyromonas</italic>
+             also increased at 24 h after biofilm formation, compared with that at 8 h post-biofilm formation, with a less remarkable change as observed after 48 h post-biofilm formation
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            . Thus, the increase in the abundance of 
+            <italic>Porphyromonas</italic>
+             observed here may be simply related to the process of biofilm maturation; unlike 
+            <italic>Fusobacterium</italic>
+             and 
+            <italic>Prevotella</italic>
+            , for 
+            <italic>Porphyromonas</italic>
+            , abundance may not be affected by sleep.
+          </p>
+          <p id="Par23">
+            Saliva plays an important role in the host defense system
+            <sup>
+              <xref ref-type="bibr" rid="CR44">44</xref>
+            </sup>
+            . Saliva contains various antibacterial agents, such as mucins, lysozyme, lactoferrin, statherin, cystatins, histatins, and immunoglobulins (especially sIgA). Salivary flow and swallowing contribute to the removal of bacteria and are important for balancing the oral microbiome. The environment of the oral cavity, including the saliva components, oxygen concentration, and salivary flow, is presumed to affect the dental biofilm microbiota.
+          </p>
+          <p id="Par24">
+            The relative abundance of 
+            <italic>Neisseria</italic>
+             was significantly higher in the waking schedule than in the sleeping schedule at the 8 h timepoint. Bacteria belonging to the genus 
+            <italic>Neisseria</italic>
+             are considered indigenous bacteria. 
+            <italic>Neisseria</italic>
+             reportedly comprises 10% of dental plaque from 1 to 3 days, but its population decreases after 5 days
+            <sup>
+              <xref ref-type="bibr" rid="CR45">45</xref>
+            </sup>
+            . In the present study, the population of 
+            <italic>Neisseria</italic>
+             was lower in 8-h-old dental biofilm formed during sleep than in 8-h-old dental biofilm formed during the daytime; it increased rapidly from 8 to 16 h during the sleeping schedule. In contrast, during the waking schedule, its abundance was nearly constant from 8 to 24 h. The abundance of 
+            <italic>Neisseria</italic>
+             is presumably dependent on the environment in the early stages of biofilm formation but is not affected 8 h after the start of biofilm formation.
+          </p>
+          <p id="Par25">
+            In the present study, the relative abundance of 
+            <italic>Corynebacterium</italic>
+             remained higher in the sleeping schedule than in the waking schedule from 8 to 24 h. 
+            <italic>Corynebacterium matruchotii</italic>
+             is considered important for the mineralization of dental biofilm and the formation of dental calculus
+            <sup>
+              <xref ref-type="bibr" rid="CR46">46</xref>
+            </sup>
+            . In addition to being a risk factor related to periodontitis, dental calculus encourages the accumulation of oral bacteria on dental surfaces. The relative abundance of 
+            <italic>Corynebacterium</italic>
+             is reportedly 1% in 3-day-old dental plaque, and this abundance increases after 3 days
+            <sup>
+              <xref ref-type="bibr" rid="CR45">45</xref>
+            </sup>
+            . Therefore, in situ dental biofilm that begins to form at night maintains a high abundance of 
+            <italic>Corynebacterium</italic>
+             and may be closely associated with periodontal disease.
+          </p>
+          <p id="Par26">
+            The volume of EPS was significantly greater for the waking schedule than for the sleeping schedule at 8 h. The microbial composition of 8-h-old biofilm differed between the sleeping and waking schedules. As previously reported, saliva is the main source of nutrition for dental biofilm during sleep
+            <sup>
+              <xref ref-type="bibr" rid="CR47">47</xref>
+            </sup>
+            . Notably, the composition of saliva during sleep differs from its composition during wakefulness
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              ,
+              <xref ref-type="bibr" rid="CR48">48</xref>
+            </sup>
+            ; for example, the amounts of sugar and proteins in saliva are lower during sleep. This is potentially because sleeping time serves as a “famine period”
+            <sup>
+              <xref ref-type="bibr" rid="CR49">49</xref>
+            </sup>
+            . Some proteins in saliva assist bacterial cells in adhering to the tooth surface as a pellicle
+            <sup>
+              <xref ref-type="bibr" rid="CR50">50</xref>
+            </sup>
+            . During sleep, the lower concentrations of proteins and different pellicle characteristics may affect the structure of the resulting biofilm. Therefore, changes in the bacterial composition of in situ dental biofilm and the oral environment during sleep can result in reduced EPS production by biofilm-forming bacteria.
+          </p>
+          <p id="Par27">
+            There have been multiple investigations of the ideal timing and frequency of oral care (including toothbrushing). Lang et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR51">51</xref>
+            </sup>
+             reported that oral hygiene procedures at 48-h intervals could prevent gingivitis in healthy volunteers. However, for caries prevention, toothbrushing is recommended after every meal because the main cause of dental caries is the acidic environment created by dental bacteria
+            <sup>
+              <xref ref-type="bibr" rid="CR52">52</xref>
+              ,
+              <xref ref-type="bibr" rid="CR53">53</xref>
+            </sup>
+            ; notably, the enamel surface pH significantly decreases after exposure to sucrose
+            <sup>
+              <xref ref-type="bibr" rid="CR54">54</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par28">
+            The results of the present study suggest that the number of biofilm-forming bacteria is not affected by sleep, whereas the relative abundances of obligates anaerobes (e.g., 
+            <italic>Fusobacterium</italic>
+             and 
+            <italic>Prevotella</italic>
+            ) are higher after waking than during the daytime. Importantly, obligate anaerobes in dental biofilm are associated with periodontitis
+            <sup>
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+            . Therefore, effective periodontitis prevention may involve the removal of dental biofilm that contains more obligate anaerobes upon awakening. However, the pathogenic characteristics of obligate anaerobes in dental biofilm were not investigated in this study, so further analysis is required.
+          </p>
+          <p id="Par29">There are some limitations in this study. First, this research focused on only healthy subjects without dental caries or periodontitis. For establishing methods of controlling such oral diseases in individuals suffering from them, additional investigations into the characteristics of dental biofilm in patients with oral diseases are needed. Second, this study used 16S rRNA sequencing to examine the bacterial composition in dental biofilm at the genus level. To better clarify the differences in biofilm properties between periods of sleep and wakefulness, future work will need to evaluate function, especially pathogenic properties or metabolic activity, and conduct a species-level analysis. Third, sleep was self-reported and was not monitored because it is difficult to accurately monitor sleeping. The biofilm composition may be different in individuals with sleep disorders, such as insomnia and sleep apnea, or who breath through their mouths rather than their noses during sleep; if these issues can be clarified by sleep monitoring, it could allow for oral care to be tailored to individual patients.</p>
+          <p id="Par30">In conclusion, dental biofilm containing obligate anaerobes was formed, and the dental biofilm structure changed during sleep, whereas the numbers of biofilm-forming bacteria did not change during sleep. The findings of this study will aid in the establishment of evidence-based methods for improved oral care.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>This study was supported by JSPS KAKENHI Grant number JP17H04384. A portion of this study was supported by the Initiative for Realizing Diversity in the Research Environment and SECOM Science and Technology Foundation.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>M.S., N.K., Y.A., Y.N., and S.E. designed the research. H.M. made the oral appliances for the in situ dental biofilm model. M.S. and N.K. contributed to the sample collection. M.S., N.K., and D.M. performed experiments and acquired data. M.S., N.K., Y.A., M.H., D.M., and S.N. analyzed data. M.S., N.K., Y.A., Y.N., D.M., S.N., T.I., and S.E. interpreted the data. Y.N., T.I., and S.E. advised on data analysis. M.S. wrote the manuscript. N.K., Y.A., D.M., S.N., and Y.N. revised the manuscript. All authors approved the final manuscript.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>The datasets used and analyzed during the current study are available from the corresponding author on reasonable request.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par31">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <collab>Human Microbiome Project Consortium</collab>
+                </person-group>
+                <article-title xml:lang="en">A framework for human microbiome research</article-title>
+                <source>Nature</source>
+                <year>2012</year>
+                <volume>486</volume>
+                <fpage>215</fpage>
+                <lpage>221</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012Natur.486..215T</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature11209</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38Xos1egt7s%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kroes</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Lepp</surname>
+                    <given-names>PW</given-names>
+                  </name>
+                  <name>
+                    <surname>Relman</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Bacterial diversity within the human subgingival crevice</article-title>
+                <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+                <year>1999</year>
+                <volume>96</volume>
+                <fpage>14547</fpage>
+                <lpage>14552</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1999PNAS...9614547K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1MXnvFKks7c%3D</pub-id>
+                <pub-id pub-id-type="pmid">10588742</pub-id>
+                <pub-id pub-id-type="pmcid">24473</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.96.25.14547</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Aas</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>Paster</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Stokes</surname>
+                    <given-names>LN</given-names>
+                  </name>
+                  <name>
+                    <surname>Olsen</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Dewhirst</surname>
+                    <given-names>FE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Defining the normal bacterial flora of the oral cavity</article-title>
+                <source>J. Clin. Microbiol.</source>
+                <year>2005</year>
+                <volume>43</volume>
+                <fpage>5721</fpage>
+                <lpage>5732</lpage>
+                <pub-id pub-id-type="pmid">16272510</pub-id>
+                <pub-id pub-id-type="pmcid">1287824</pub-id>
+                <pub-id pub-id-type="doi">10.1128/JCM.43.11.5721-5732.2005</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <collab>The Human Microbiome Project Consortium</collab>
+                </person-group>
+                <article-title xml:lang="en">Structure, function and diversity of the healthy human microbiome</article-title>
+                <source>Nature</source>
+                <year>2013</year>
+                <volume>486</volume>
+                <fpage>207</fpage>
+                <lpage>214</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012Natur.486..207T</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature11234</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38Xos1ejurs%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zaura</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Keijser</surname>
+                    <given-names>BFJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Huse</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Crielaard</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Defining the healthy “core microbiome” of oral microbial communities</article-title>
+                <source>BMC Microbiol.</source>
+                <year>2009</year>
+                <volume>9</volume>
+                <fpage>259</fpage>
+                <pub-id pub-id-type="pmid">20003481</pub-id>
+                <pub-id pub-id-type="pmcid">2805672</pub-id>
+                <pub-id pub-id-type="doi">10.1186/1471-2180-9-259</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhsF2gu7bM</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Takeshita</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Bacterial diversity in saliva and oral health-related conditions: The Hisayama Study</article-title>
+                <source>Sci. Rep.</source>
+                <year>2016</year>
+                <volume>6</volume>
+                <fpage>22164</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016NatSR...622164T</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28Xjt1emtLg%3D</pub-id>
+                <pub-id pub-id-type="pmid">26907866</pub-id>
+                <pub-id pub-id-type="pmcid">4764907</pub-id>
+                <pub-id pub-id-type="doi">10.1038/srep22164</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hall</surname>
+                    <given-names>MW</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Inter-personal diversity and temporal dynamics of dental, tongue, and salivary microbiota in the healthy oral cavity</article-title>
+                <source>NPJ Biofilms Microbiomes</source>
+                <year>2017</year>
+                <volume>3</volume>
+                <fpage>2</fpage>
+                <pub-id pub-id-type="doi">10.1038/s41522-016-0011-0</pub-id>
+                <pub-id pub-id-type="pmid">28649403</pub-id>
+                <pub-id pub-id-type="pmcid">5445578</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stewart</surname>
+                    <given-names>PS</given-names>
+                  </name>
+                  <name>
+                    <surname>Costerton</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Antibiotic resistance of bacteria in biofilms</article-title>
+                <source>Lancet</source>
+                <year>2001</year>
+                <volume>358</volume>
+                <fpage>135</fpage>
+                <lpage>138</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3MXlt1Shsbs%3D</pub-id>
+                <pub-id pub-id-type="pmid">11463434</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0140-6736(01)05321-1</pub-id>
+                <pub-id pub-id-type="pmcid">11463434</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Clarke</surname>
+                    <given-names>JK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">On the bacterial factor in the etiology of dental caries</article-title>
+                <source>Br. J. Exp. Pathol.</source>
+                <year>1924</year>
+                <volume>5</volume>
+                <fpage>141</fpage>
+                <lpage>147</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaB2cXitFGltw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmcid">2047899</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Asikainen</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Slots</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Likelihood of transmitting 
+                  <italic>Actinobacillus actinomycetemcomitans</italic>
+                   and 
+                  <italic>Porphyromonas gingivalis</italic>
+                   in families with periodontitis
+                </article-title>
+                <source>Oral Microbiol. Immunol.</source>
+                <year>1995</year>
+                <volume>11</volume>
+                <fpage>387</fpage>
+                <lpage>394</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1399-302X.1996.tb00200.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Peres</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Oral diseases: A global public health challenge</article-title>
+                <source>Lancet</source>
+                <year>2019</year>
+                <volume>394</volume>
+                <fpage>249</fpage>
+                <lpage>260</lpage>
+                <pub-id pub-id-type="pmid">31327369</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0140-6736(19)31146-8</pub-id>
+                <pub-id pub-id-type="pmcid">31327369</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Prakash</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Rodes</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Coussa-Charley</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Tomaro-Duchesneau</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Gut microbiota: Next frontier in understanding human health and development of biotherapeutics</article-title>
+                <source>Biologics</source>
+                <year>2011</year>
+                <volume>5</volume>
+                <fpage>71</fpage>
+                <lpage>86</lpage>
+                <pub-id pub-id-type="pmid">21847343</pub-id>
+                <pub-id pub-id-type="pmcid">3156250</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Giongo</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Toward defining the autoimmune microbiome for type 1 diabetes</article-title>
+                <source>ISME J.</source>
+                <year>2011</year>
+                <volume>5</volume>
+                <fpage>82</fpage>
+                <lpage>91</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXhsFylur3P</pub-id>
+                <pub-id pub-id-type="pmid">20613793</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ismej.2010.92</pub-id>
+                <pub-id pub-id-type="pmcid">20613793</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lynch</surname>
+                    <given-names>SV</given-names>
+                  </name>
+                  <name>
+                    <surname>Pedersen</surname>
+                    <given-names>O</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The human intestinal microbiome in health and disease</article-title>
+                <source>N. Engl. J. Med.</source>
+                <year>2016</year>
+                <volume>375</volume>
+                <fpage>2369</fpage>
+                <lpage>2379</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhvVSnsQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">27974040</pub-id>
+                <pub-id pub-id-type="doi">10.1056/NEJMra1600266</pub-id>
+                <pub-id pub-id-type="pmcid">27974040</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Simón-Soro</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Mira</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Solving the etiology of dental caries</article-title>
+                <source>Trends Microbiol.</source>
+                <year>2015</year>
+                <volume>23</volume>
+                <fpage>76</fpage>
+                <lpage>82</lpage>
+                <pub-id pub-id-type="pmid">25435135</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.tim.2014.10.010</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhvFeju7fK</pub-id>
+                <pub-id pub-id-type="pmcid">25435135</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hajishengallis</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Lamont</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Beyond the red complex and into more complexity: The polymicrobial synergy and dysbiosis (PSD) model of periodontal disease etiology</article-title>
+                <source>Mol. Oral Microbiol.</source>
+                <year>2012</year>
+                <volume>27</volume>
+                <fpage>409</fpage>
+                <lpage>419</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC3s7hslSiuw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">23134607</pub-id>
+                <pub-id pub-id-type="pmcid">3653317</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.2041-1014.2012.00663.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rosier</surname>
+                    <given-names>BT</given-names>
+                  </name>
+                  <name>
+                    <surname>Marsh</surname>
+                    <given-names>PD</given-names>
+                  </name>
+                  <name>
+                    <surname>Mira</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Resilience of the oral microbiota in health: Mechanisms that prevent dysbiosis</article-title>
+                <source>J. Dent. Res.</source>
+                <year>2018</year>
+                <volume>97</volume>
+                <fpage>371</fpage>
+                <lpage>380</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC1M3mvFeguw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">29195050</pub-id>
+                <pub-id pub-id-type="doi">10.1177/0022034517742139</pub-id>
+                <pub-id pub-id-type="pmcid">29195050</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Prigent-Combaret</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Vidal</surname>
+                    <given-names>O</given-names>
+                  </name>
+                  <name>
+                    <surname>Dorel</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Lejeune</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Abiotic surface sensing and biofilm-dependent regulation of gene expression in 
+                  <italic>Escherichia coli</italic>
+                </article-title>
+                <source>J. Bacteriol.</source>
+                <year>1999</year>
+                <volume>181</volume>
+                <fpage>5993</fpage>
+                <lpage>6002</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1MXmsVOrt7k%3D</pub-id>
+                <pub-id pub-id-type="pmid">10498711</pub-id>
+                <pub-id pub-id-type="pmcid">103626</pub-id>
+                <pub-id pub-id-type="doi">10.1128/JB.181.19.5993-6002.1999</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kuchma</surname>
+                    <given-names>SL</given-names>
+                  </name>
+                  <name>
+                    <surname>O'Toole</surname>
+                    <given-names>GA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Surface-induced and biofilm-induced changes in gene expression</article-title>
+                <source>Curr. Opin. Biotechnol.</source>
+                <year>2000</year>
+                <volume>11</volume>
+                <fpage>429</fpage>
+                <lpage>433</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3cXnsFOmuro%3D</pub-id>
+                <pub-id pub-id-type="pmid">11024358</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0958-1669(00)00123-3</pub-id>
+                <pub-id pub-id-type="pmcid">11024358</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Costerton</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Bacterial biofilms in nature and disease</article-title>
+                <source>Annu. Rev. Microbiol.</source>
+                <year>1987</year>
+                <volume>41</volume>
+                <fpage>435</fpage>
+                <lpage>464</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL2sXmtlalu70%3D</pub-id>
+                <pub-id pub-id-type="pmid">3318676</pub-id>
+                <pub-id pub-id-type="doi">10.1146/annurev.mi.41.100187.002251</pub-id>
+                <pub-id pub-id-type="pmcid">3318676</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ma</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Assembly and development of the
+                  <italic>Pseudomonas aeruginosa</italic>
+                  biofilm matrix
+                </article-title>
+                <source>PLoS Pathog.</source>
+                <year>2009</year>
+                <volume>5</volume>
+                <fpage>e1000354</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXktFOmu78%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1371/journal.ppat.1000354</pub-id>
+                <pub-id pub-id-type="pmid">19325879</pub-id>
+                <pub-id pub-id-type="pmcid">2654510</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mah</surname>
+                    <given-names>TF</given-names>
+                  </name>
+                  <name>
+                    <surname>O'Toole</surname>
+                    <given-names>GA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mechanisms of biofilm resistance to antimicrobial agents</article-title>
+                <source>Trends Microbiol.</source>
+                <year>2001</year>
+                <volume>9</volume>
+                <fpage>34</fpage>
+                <lpage>39</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3MXlvFChsr0%3D</pub-id>
+                <pub-id pub-id-type="pmid">11166241</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0966-842X(00)01913-2</pub-id>
+                <pub-id pub-id-type="pmcid">11166241</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Spoering</surname>
+                    <given-names>AL</given-names>
+                  </name>
+                  <name>
+                    <surname>Lewis</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Biofilms and planktonic cells of 
+                  <italic>Pseudomonas aeruginosa</italic>
+                   have similar resistance to killing by antimicrobials
+                </article-title>
+                <source>J. Bacteriol.</source>
+                <year>2001</year>
+                <volume>183</volume>
+                <fpage>6746</fpage>
+                <lpage>6751</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3MXovVSjs7Y%3D</pub-id>
+                <pub-id pub-id-type="pmid">11698361</pub-id>
+                <pub-id pub-id-type="pmcid">95513</pub-id>
+                <pub-id pub-id-type="doi">10.1128/JB.183.23.6746-6751.2001</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stewart</surname>
+                    <given-names>PS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mechanisms of antibiotic resistance in bacterial biofilms</article-title>
+                <source>Int. J. Med. Microbiol.</source>
+                <year>2002</year>
+                <volume>292</volume>
+                <fpage>107</fpage>
+                <lpage>113</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD38XnsVCqur4%3D</pub-id>
+                <pub-id pub-id-type="pmid">12195733</pub-id>
+                <pub-id pub-id-type="doi">10.1078/1438-4221-00196</pub-id>
+                <pub-id pub-id-type="pmcid">12195733</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dawes</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Circadian rhythms in human salivary flow rate and composition</article-title>
+                <source>J. Physiol.</source>
+                <year>1972</year>
+                <volume>220</volume>
+                <fpage>529</fpage>
+                <lpage>545</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1972JPhC....5..529D</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaE38XhtFWitrY%3D</pub-id>
+                <pub-id pub-id-type="pmid">5016036</pub-id>
+                <pub-id pub-id-type="pmcid">1331668</pub-id>
+                <pub-id pub-id-type="doi">10.1113/jphysiol.1972.sp009721</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nolte</surname>
+                    <given-names>WA</given-names>
+                  </name>
+                </person-group>
+                <source>Oral Microbiology with Basic Microbiology and Immunology</source>
+                <year>1982</year>
+                <edition>2</edition>
+                <publisher-loc>St. Louis</publisher-loc>
+                <publisher-name>Mosby Press</publisher-name>
+                <fpage>3</fpage>
+                <lpage>44</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Takayasu</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Circadian oscillations of microbial and functional composition in the human salivary microbiome</article-title>
+                <source>DNA Res.</source>
+                <year>2017</year>
+                <volume>24</volume>
+                <fpage>261</fpage>
+                <lpage>270</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhtV2ntrk%3D</pub-id>
+                <pub-id pub-id-type="pmid">28338745</pub-id>
+                <pub-id pub-id-type="pmcid">5499806</pub-id>
+                <pub-id pub-id-type="doi">10.1093/dnares/dsx001</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Costerton</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <name>
+                    <surname>Stewart</surname>
+                    <given-names>PS</given-names>
+                  </name>
+                  <name>
+                    <surname>Greenberg</surname>
+                    <given-names>EP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Science. Bacterial biofilms: A common cause of persistent infections</article-title>
+                <source>Science</source>
+                <year>1999</year>
+                <volume>284</volume>
+                <fpage>1318</fpage>
+                <lpage>1322</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1999Sci...284.1318C</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1MXjs1Squ78%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.284.5418.1318</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kolenbrander</surname>
+                    <given-names>PE</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Bacterial interactions and successions during plaque development</article-title>
+                <source>Periodontology</source>
+                <year>2006</year>
+                <volume>2000</volume>
+                <issue>42</issue>
+                <fpage>47</fpage>
+                <lpage>79</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1600-0757.2006.00187.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Marsh</surname>
+                    <given-names>PD</given-names>
+                  </name>
+                  <name>
+                    <surname>Moter</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Devine</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Dental plaque biofilms: Communities, conflict and control</article-title>
+                <source>Periodontology</source>
+                <year>2011</year>
+                <volume>2000</volume>
+                <issue>55</issue>
+                <fpage>16</fpage>
+                <lpage>35</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1600-0757.2009.00339.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Asahi</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Effects of 
+                  <italic>N</italic>
+                  -acyl homoserine lactone analogues on 
+                  <italic>Porphyromonas gingivalis</italic>
+                   biofilm formation
+                </article-title>
+                <source>J. Periodontal. Res.</source>
+                <year>2010</year>
+                <volume>45</volume>
+                <fpage>255</fpage>
+                <lpage>261</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXks1Shu7s%3D</pub-id>
+                <pub-id pub-id-type="pmid">19778324</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1600-0765.2009.01228.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yamaguchi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  <italic>Porphyromonas gingivalis</italic>
+                   mutant defective in a putative glycosyltransferase exhibits defective biosynthesis of the polysaccharide portions of lipopolysaccharide, decreased gingipain activities, strong autoaggregation, and increased biofilm formation
+                </article-title>
+                <source>Infect. Immun.</source>
+                <year>2010</year>
+                <volume>78</volume>
+                <fpage>3801</fpage>
+                <lpage>3812</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXhtF2qsbjL</pub-id>
+                <pub-id pub-id-type="pmid">20624909</pub-id>
+                <pub-id pub-id-type="pmcid">2937442</pub-id>
+                <pub-id pub-id-type="doi">10.1128/IAI.00071-10</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Maezono</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Antibiofilm effects of azithromycin and erythromycin on 
+                  <italic>Porphyromonas gingivalis</italic>
+                </article-title>
+                <source>Antimicrob. Agents Chemother.</source>
+                <year>2011</year>
+                <volume>55</volume>
+                <fpage>5887</fpage>
+                <lpage>5892</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXhsFehsLvF</pub-id>
+                <pub-id pub-id-type="pmid">21911560</pub-id>
+                <pub-id pub-id-type="pmcid">3232792</pub-id>
+                <pub-id pub-id-type="doi">10.1128/AAC.05169-11</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yamamoto</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Time course of gene expression during 
+                  <italic>Porphyromonas gingivalis</italic>
+                   strain ATCC 33277 biofilm formation
+                </article-title>
+                <source>Appl. Environ. Microbiol.</source>
+                <year>2011</year>
+                <volume>77</volume>
+                <fpage>6733</fpage>
+                <lpage>6736</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXhtl2isb7M</pub-id>
+                <pub-id pub-id-type="pmid">21803908</pub-id>
+                <pub-id pub-id-type="pmcid">3187161</pub-id>
+                <pub-id pub-id-type="doi">10.1128/AEM.00746-11</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Quirynen</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Dekeyser</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>van Steenberghe</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The influence of gingival inflammation, tooth type, and timing on the rate of plaque formation</article-title>
+                <source>J. Periodontol.</source>
+                <year>1991</year>
+                <volume>62</volume>
+                <fpage>219</fpage>
+                <lpage>222</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK3M3isFyqtg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">2027075</pub-id>
+                <pub-id pub-id-type="doi">10.1902/jop.1991.62.3.219</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Quirynen</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>van Steenberghe</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Is early plaque growth rate constant with time?</article-title>
+                <source>J. Clin. Periodontol.</source>
+                <year>1989</year>
+                <volume>16</volume>
+                <fpage>278</fpage>
+                <lpage>283</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL1M3ls1Sgtg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">2723100</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1600-051X.1989.tb01655.x</pub-id>
+                <pub-id pub-id-type="pmcid">2723100</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wake</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Temporal dynamics of bacterial microbiota in the human oral cavity determined using an
+                  <italic>in situ</italic>
+                  model of dental biofilms
+                </article-title>
+                <source>NPJ Biofilms Microbiomes</source>
+                <year>2016</year>
+                <volume>10</volume>
+                <fpage>16018</fpage>
+                <pub-id pub-id-type="doi">10.1038/npjbiofilms.2016.18</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Aagaard</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The Human Microbiome Project strategy for comprehensive sampling of the human microbiome and why it matters</article-title>
+                <source>FASEB J.</source>
+                <year>2013</year>
+                <volume>27</volume>
+                <fpage>1012</fpage>
+                <lpage>1022</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXjvVOqt78%3D</pub-id>
+                <pub-id pub-id-type="pmid">23165986</pub-id>
+                <pub-id pub-id-type="pmcid">3574278</pub-id>
+                <pub-id pub-id-type="doi">10.1096/fj.12-220806</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lane</surname>
+                    <given-names>DJ</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Stackebrandt</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Goodfellow</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">16S/23S rRNA sequencing</article-title>
+                <source>Nucleic Acid Techniques in Bacterial Systematics</source>
+                <year>1991</year>
+                <publisher-loc>Chichester</publisher-loc>
+                <publisher-name>Wiley</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Weisburg</surname>
+                    <given-names>WG</given-names>
+                  </name>
+                  <name>
+                    <surname>Barns</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Pelletier</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>Lane</surname>
+                    <given-names>DJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">16S ribosomal DNA amplification for phylogenetic study</article-title>
+                <source>J. Bacteriol.</source>
+                <year>1991</year>
+                <volume>173</volume>
+                <fpage>697</fpage>
+                <lpage>703</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK3MXhsl2lurY%3D</pub-id>
+                <pub-id pub-id-type="pmid">1987160</pub-id>
+                <pub-id pub-id-type="pmcid">207061</pub-id>
+                <pub-id pub-id-type="doi">10.1128/JB.173.2.697-703.1991</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Suzuki</surname>
+                    <given-names>MT</given-names>
+                  </name>
+                  <name>
+                    <surname>Giovannoni</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Bias caused by template annealing in the amplification of mixtures of 16S rRNA genes by PCR</article-title>
+                <source>Appl. Environ. Microbiol.</source>
+                <year>1996</year>
+                <volume>62</volume>
+                <fpage>625</fpage>
+                <lpage>630</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK28XovVCrug%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">8593063</pub-id>
+                <pub-id pub-id-type="pmcid">167828</pub-id>
+                <pub-id pub-id-type="doi">10.1128/AEM.62.2.625-630.1996</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yamamoto</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  The sinR ortholog PGN_0088 encodes a transcriptional regulator that inhibits polysaccharide synthesis in 
+                  <italic>Porphyromonas gingivalis</italic>
+                   ATCC 33277 biofilm
+                </article-title>
+                <source>PLoS ONE</source>
+                <year>2013</year>
+                <volume>8</volume>
+                <fpage>e56107</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXivFKjtrg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1371/journal.pone.0056017</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Socransky</surname>
+                    <given-names>SS</given-names>
+                  </name>
+                  <name>
+                    <surname>Haffajee</surname>
+                    <given-names>AD</given-names>
+                  </name>
+                  <name>
+                    <surname>Cugini</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <name>
+                    <surname>Smith</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Kent</surname>
+                    <given-names>RL</given-names>
+                    <suffix>Jr</suffix>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Microbial complexes in subgingival plaque</article-title>
+                <source>J. Clin. Periodontol.</source>
+                <year>1998</year>
+                <volume>25</volume>
+                <fpage>134</fpage>
+                <lpage>144</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK1c7lsFSjsg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">9495612</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1600-051X.1998.tb02419.x</pub-id>
+                <pub-id pub-id-type="pmcid">9495612</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Pedersen</surname>
+                    <given-names>AML</given-names>
+                  </name>
+                  <name>
+                    <surname>Belstrøm</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The role of natural salivary defences in maintaining a healthy oral microbiota</article-title>
+                <source>J. Dent.</source>
+                <year>2019</year>
+                <volume>80</volume>
+                <issue>Suppl 1</issue>
+                <fpage>S3</fpage>
+                <lpage>S12</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.jdent.2018.08.010</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhvFeqs7o%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ritz</surname>
+                    <given-names>HL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Microbial population shifts in developing human dental plaque</article-title>
+                <source>Arch. Oral Biol.</source>
+                <year>1967</year>
+                <volume>12</volume>
+                <fpage>1561</fpage>
+                <lpage>1568</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaF1c7jsVOksw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">5237337</pub-id>
+                <pub-id pub-id-type="doi">10.1016/0003-9969(67)90190-2</pub-id>
+                <pub-id pub-id-type="pmcid">5237337</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ooi</surname>
+                    <given-names>SW</given-names>
+                  </name>
+                  <name>
+                    <surname>Smillie</surname>
+                    <given-names>AC</given-names>
+                  </name>
+                  <name>
+                    <surname>Kardos</surname>
+                    <given-names>TB</given-names>
+                  </name>
+                  <name>
+                    <surname>Shepherd</surname>
+                    <given-names>MG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Intracellular mineralization of 
+                  <italic>Bacterionema matruchotii</italic>
+                </article-title>
+                <source>Can. J. Microbiol.</source>
+                <year>1981</year>
+                <volume>27</volume>
+                <fpage>267</fpage>
+                <lpage>270</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL3MXhsFehtrY%3D</pub-id>
+                <pub-id pub-id-type="pmid">7237277</pub-id>
+                <pub-id pub-id-type="doi">10.1139/m81-042</pub-id>
+                <pub-id pub-id-type="pmcid">7237277</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR47">
+              <label>47.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Marsh</surname>
+                    <given-names>PD</given-names>
+                  </name>
+                  <name>
+                    <surname>Do</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Beighton</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Devine</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Influence of saliva on the oral microbiota</article-title>
+                <source>Periodontology</source>
+                <year>2016</year>
+                <volume>2000</volume>
+                <issue>70</issue>
+                <fpage>80</fpage>
+                <lpage>92</lpage>
+                <pub-id pub-id-type="doi">10.1111/prd.12098</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR48">
+              <label>48.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sashikumar</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Kannan</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Salivary glucose levels and oral candidal carriage in type II diabetics</article-title>
+                <source>Oral Surg. Oral Med. Oral Pathol. Oral Radiol. Endod.</source>
+                <year>2010</year>
+                <volume>109</volume>
+                <fpage>706</fpage>
+                <lpage>711</lpage>
+                <pub-id pub-id-type="pmid">20416536</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.tripleo.2009.12.042</pub-id>
+                <pub-id pub-id-type="pmcid">20416536</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR49">
+              <label>49.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lingström</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Imfeld</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Birkhed</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Comparison of three different methods for measurement of plaque-pH in humans after consumption of soft bread and potato chips</article-title>
+                <source>J. Dent. Res.</source>
+                <year>1993</year>
+                <volume>72</volume>
+                <fpage>865</fpage>
+                <lpage>870</lpage>
+                <pub-id pub-id-type="pmid">8501283</pub-id>
+                <pub-id pub-id-type="doi">10.1177/00220345930720050601</pub-id>
+                <pub-id pub-id-type="pmcid">8501283</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR50">
+              <label>50.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lendenmann</surname>
+                    <given-names>U</given-names>
+                  </name>
+                  <name>
+                    <surname>Grogan</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Oppenheim</surname>
+                    <given-names>FG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Saliva and dental pellicle—A review</article-title>
+                <source>Adv. Dent. Res.</source>
+                <year>2000</year>
+                <volume>14</volume>
+                <fpage>22</fpage>
+                <lpage>28</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD387ht1aktQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">11842920</pub-id>
+                <pub-id pub-id-type="doi">10.1177/08959374000140010301</pub-id>
+                <pub-id pub-id-type="pmcid">11842920</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR51">
+              <label>51.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lang</surname>
+                    <given-names>NP</given-names>
+                  </name>
+                  <name>
+                    <surname>Cumming</surname>
+                    <given-names>BR</given-names>
+                  </name>
+                  <name>
+                    <surname>Löe</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Toothbrushing frequency as it relates to plaque development and gingival health</article-title>
+                <source>J. Periodontol.</source>
+                <year>1973</year>
+                <volume>44</volume>
+                <fpage>396</fpage>
+                <lpage>405</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaE3s3gtlamtQ%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">4514570</pub-id>
+                <pub-id pub-id-type="doi">10.1902/jop.1973.44.7.396</pub-id>
+                <pub-id pub-id-type="pmcid">4514570</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR52">
+              <label>52.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Williams</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A contribution to the study of pathology of enamel</article-title>
+                <source>Dent. Cosmos</source>
+                <year>1897</year>
+                <volume>39</volume>
+                <fpage>269</fpage>
+                <lpage>301</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR53">
+              <label>53.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Black</surname>
+                    <given-names>GV</given-names>
+                  </name>
+                </person-group>
+                <source>Operative Dentistry</source>
+                <year>1936</year>
+                <edition>6</edition>
+                <publisher-loc>South Milwaukee</publisher-loc>
+                <publisher-name>Medico-Dental Pub. Co. Press</publisher-name>
+                <volume content-type="number-in-series">1</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR54">
+              <label>54.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Robert</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                  <name>
+                    <surname>Benjamin</surname>
+                    <given-names>FM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A quantitative method for evaluating physical and chemical agents which modify production of acids in bacterial plaques on human teeth</article-title>
+                <source>J. Dent. Res.</source>
+                <year>1943</year>
+                <volume>22</volume>
+                <fpage>4</fpage>
+                <lpage>51</lpage>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec16">
+              <title>Supplementary Information</title>
+              <p id="Par32">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary Information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41598_2020_80541_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary Figure S1.</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary Information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41598-020-80541-5" ext-link-type="doi">https://doi.org/10.1038/s41598-020-80541-5</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Publisher's note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

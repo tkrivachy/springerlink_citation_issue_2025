@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.692116",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08396-7",
+    "title": "A Rho-actin signaling pathway shapes cell wall boundaries in ",
+    "article_number": "468",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuki Sugiyama",
+      "Yoshinobu Nagashima",
+      "Mayumi Wakazaki",
+      "Mayuko Sato",
+      "Kiminori Toyooka",
+      "Hiroo Fukuda",
+      "Yoshihisa Oda"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:40:36.909011"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T17:40:38.455443"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T17:40:39.882411"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T22:47:01.463171"
+    },
+    "last_updated": "2025-10-03T22:47:01.463221"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.714027",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08232-4",
+    "title": "Environment and evolutionary history shape phylogenetic turnover in European tetrapods",
+    "article_number": "249",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bianca Saladin",
+      "Wilfried Thuiller",
+      "Catherine H. Graham",
+      "Sébastien Lavergne",
+      "Luigi Maiorano",
+      "Nicolas Salamin",
+      "Niklaus E. Zimmermann"
+    ]
+  },
+  "article_index": 336,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T17:25:25.866819"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T17:25:27.385026"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:25:28.740321"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:41:56.083463"
+    },
+    "last_updated": "2025-10-03T22:41:56.083654"
+  }
+}

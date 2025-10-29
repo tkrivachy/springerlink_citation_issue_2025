@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.213735",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80415-w",
+    "title": "Higher efficacy and reduced adverse reactions in neoadjuvant chemotherapy for breast cancer by using pegylated liposomal doxorubicin compared with pirarubicin",
+    "article_number": "199",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Weifang Liu",
+      "Wei Chen",
+      "Xiuxiang Zhang",
+      "Peng Zhao",
+      "Zhimin Fan",
+      "Lirong Bi",
+      "Di Wu",
+      "Sijie Li",
+      "Ming Yang",
+      "Tong Fu",
+      "Dong Song",
+      "Bing Han",
+      "Gang Zhao",
+      "Ye Du",
+      "Aiping Shi"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:43:05.994275"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:43:07.566183"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:43:08.701086"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:40:43.367074"
+    },
+    "last_updated": "2025-10-03T21:40:43.367266"
+  }
+}

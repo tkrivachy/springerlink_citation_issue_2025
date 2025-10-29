@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694962",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08152-3",
+    "title": "IRE1α-XBP1s pathway promotes prostate cancer by activating c-MYC signaling",
+    "article_number": "323",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xia Sheng",
+      "Hatice Zeynep Nenseth",
+      "Su Qu",
+      "Omer F. Kuzu",
+      "Turid Frahnow",
+      "Lukas Simon",
+      "Stephanie Greene",
+      "Qingping Zeng",
+      "Ladan Fazli",
+      "Paul S. Rennie",
+      "Ian G. Mills",
+      "Håvard Danielsen",
+      "Fabian Theis",
+      "John B. Patterson",
+      "Yang Jin",
+      "Fahri Saatcioglu"
+    ]
+  },
+  "article_index": 164,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 193,
+      "retrieved_at": "2025-10-03T17:41:20.778911"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 198,
+      "retrieved_at": "2025-10-03T17:41:22.308816"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 181,
+      "retrieved_at": "2025-10-03T17:41:23.494893"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 208,
+      "retrieved_at": "2025-10-03T22:47:16.316095"
+    },
+    "last_updated": "2025-10-03T22:47:16.316286"
+  }
+}

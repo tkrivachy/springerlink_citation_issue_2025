@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.521189",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55588-x",
+    "title": "Dissipative Landau-Zener tunneling in the crossover regime from weak to strong environment coupling",
+    "article_number": "329",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "X. Dai",
+      "R. Trappen",
+      "H. Chen",
+      "D. Melanson",
+      "M. A. Yurtalan",
+      "D. M. Tennant",
+      "A. J. Martinez",
+      "Y. Tang",
+      "E. Mozgunov",
+      "J. Gibson",
+      "J. A. Grover",
+      "S. M. Disseler",
+      "J. I. Basham",
+      "S. Novikov",
+      "R. Das",
+      "A. J. Melville",
+      "B. M. Niedzielski",
+      "C. F. Hirjibehedin",
+      "K. Serniak",
+      "S. J. Weber",
+      "J. L. Yoder",
+      "W. D. Oliver",
+      "K. M. Zick",
+      "D. A. Lidar",
+      "A. Lupascu"
+    ]
+  },
+  "article_index": 80,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:25:32.445607"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:25:33.971798"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:25:35.151822"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:22:39.784728"
+    },
+    "last_updated": "2025-10-03T23:22:39.784917"
+  }
+}

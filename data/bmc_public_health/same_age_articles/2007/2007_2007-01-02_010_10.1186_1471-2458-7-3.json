@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:48:20.136136",
+  "year": 2007,
+  "article_type": "comparison",
+  "publication_date": "2007-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-7-3",
+    "title": "Tobacco use among students aged 13–15 years in Greece: the GYTS project",
+    "article_number": "3",
+    "publication_date": "2007-01-08",
+    "volume": "7",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Athina Kyrlesi",
+      "Elpidoforos S Soteriades",
+      "Charles W Warren",
+      "Jeni Kremastinou",
+      "Panagiotis Papastergiou",
+      "Nathan R Jones",
+      "Christos Hadjichristodoulou"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T12:27:15.314004"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T12:27:16.820982"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T12:27:18.142989"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T20:51:05.031944"
+    },
+    "last_updated": "2025-10-03T20:51:05.032133"
+  }
+}

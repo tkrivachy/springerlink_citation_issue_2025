@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.514074",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-53985-w",
+    "title": "Multi-objective observational constraint of tropical Atlantic and Pacific low-cloud variability narrows uncertainty in cloud feedback",
+    "article_number": "218",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mengxi Wu",
+      "Hui Su",
+      "J. David Neelin"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:17:29.364868"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:17:30.896252"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:17:32.115368"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:19:59.223235"
+    },
+    "last_updated": "2025-10-03T23:19:59.223471"
+  }
+}

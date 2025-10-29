@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.962711",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-82",
+    "title": "An evaluation of a morphine public health programme for cancer and AIDS pain relief in Sub-Saharan Africa",
+    "article_number": "82",
+    "publication_date": "2005-08-10",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Dorothy E Logie",
+      "Richard Harding"
+    ]
+  },
+  "article_index": 84,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T12:24:14.627350"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T12:24:16.150335"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T12:24:17.590573"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T20:50:03.020779"
+    },
+    "last_updated": "2025-10-03T20:50:03.020879"
+  }
+}

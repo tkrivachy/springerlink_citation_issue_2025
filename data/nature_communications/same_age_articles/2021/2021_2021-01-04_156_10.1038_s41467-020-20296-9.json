@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.199065",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20296-9",
+    "title": "Neuromorphic van der Waals crystals for substantial energy generation",
+    "article_number": "47",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sungsoon Kim",
+      "Sangjin Choi",
+      "Hae Gon Lee",
+      "Dana Jin",
+      "Gwangmook Kim",
+      "Taehoon Kim",
+      "Joon Sang Lee",
+      "Wooyoung Shim"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:26:25.504181"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:26:27.053756"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:26:28.370032"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T23:02:45.483457"
+    },
+    "last_updated": "2025-10-03T23:02:45.483649"
+  }
+}

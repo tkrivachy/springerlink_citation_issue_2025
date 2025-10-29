@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.859219",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50295-x",
+    "title": "Growth performance, histological and physiological responses of heat-stressed broilers in response to short periods of incubation during egg storage and thermal conditioning",
+    "article_number": "94",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sayed A. Abdel-Fattah",
+      "Mahmoud Madkour",
+      "Mona A. Hemida",
+      "Mohamed Shourrap"
+    ]
+  },
+  "article_index": 251,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:43:46.301459"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:43:47.823843"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:43:49.034940"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:05:20.791927"
+    },
+    "last_updated": "2025-10-03T22:05:20.791987"
+  }
+}

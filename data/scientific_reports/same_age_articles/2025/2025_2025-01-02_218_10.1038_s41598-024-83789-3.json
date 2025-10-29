@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.371669",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83789-3",
+    "title": "A systematic review and meta-analysis on light therapy for sleep disorders in shift workers",
+    "article_number": "134",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chenyao Zhao",
+      "Nuoyi Li",
+      "Wenqing Miao",
+      "Ying He",
+      "Yandan Lin"
+    ]
+  },
+  "article_index": 218,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:36:05.844186"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:36:07.418111"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:52.648667"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:24:24.734764"
+    },
+    "last_updated": "2025-10-07T09:52:52.648882"
+  }
+}

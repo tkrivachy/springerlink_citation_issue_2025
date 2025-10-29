@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.712389",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08109-6",
+    "title": "Exosomes harbor B cell targets in pancreatic adenocarcinoma and exert decoy function against complement-mediated cytotoxicity",
+    "article_number": "254",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Michela Capello",
+      "Jody V. Vykoukal",
+      "Hiroyuki Katayama",
+      "Leonidas E. Bantis",
+      "Hong Wang",
+      "Deepali L. Kundnani",
+      "Clemente Aguilar-Bonavides",
+      "Mitzi Aguilar",
+      "Satyendra C. Tripathi",
+      "Dilsher S. Dhillon",
+      "Amin A. Momin",
+      "Haley Peters",
+      "Matthew H. Katz",
+      "Hector Alvarez",
+      "Vincent Bernard",
+      "Sammy Ferri-Borgogno",
+      "Randall Brand",
+      "Douglas G. Adler",
+      "Matthew A. Firpo",
+      "Sean J. Mulvihill",
+      "Jeffrey J. Molldrem",
+      "Ziding Feng",
+      "Ayumu Taguchi",
+      "Anirban Maitra",
+      "Samir M. Hanash"
+    ]
+  },
+  "article_index": 320,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:41:38.405152"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 145,
+      "retrieved_at": "2025-10-03T17:41:39.917928"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T17:41:41.062208"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 152,
+      "retrieved_at": "2025-10-03T22:47:22.323761"
+    },
+    "last_updated": "2025-10-03T22:47:22.323949"
+  }
+}

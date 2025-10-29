@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.698081",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08159-w",
+    "title": "Central body fatness is a stronger predictor of cancer risk than overall body size",
+    "article_number": "383",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Amanda M. Barberio",
+      "Asalah Alareeki",
+      "Benjamin Viner",
+      "Joy Pader",
+      "Jennifer E. Vena",
+      "Paul Arora",
+      "Christine M. Friedenreich",
+      "Darren R. Brenner"
+    ]
+  },
+  "article_index": 193,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T17:35:26.732993"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T17:35:28.285141"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T17:35:29.469260"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T22:45:29.278113"
+    },
+    "last_updated": "2025-10-03T22:45:29.278304"
+  }
+}

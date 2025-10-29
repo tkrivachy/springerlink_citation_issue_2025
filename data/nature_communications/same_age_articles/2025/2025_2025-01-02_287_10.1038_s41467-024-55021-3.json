@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.557123",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55021-3",
+    "title": null,
+    "article_number": "267",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiang Zhang",
+      "Tianze Ling",
+      "Zhi Jin",
+      "Sheng Xu",
+      "Zhiqiang Gao",
+      "Boyan Sun",
+      "Zijie Qiu",
+      "Jiaqi Wei",
+      "Nanqing Dong",
+      "Guangshuai Wang",
+      "Guibin Wang",
+      "Leyuan Li",
+      "Muhammad Abdul-Mageed",
+      "Laks V. S. Lakshmanan",
+      "Fuchu He",
+      "Wanli Ouyang",
+      "Cheng Chang",
+      "Siqi Sun"
+    ]
+  },
+  "article_index": 287,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:47:17.724766"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:47:19.271451"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:47:20.444918"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:30:08.880076"
+    },
+    "last_updated": "2025-10-03T23:30:08.880133"
+  }
+}

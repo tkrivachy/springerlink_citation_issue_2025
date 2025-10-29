@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.861824",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50291-1",
+    "title": "Autonomous swab robot for naso- and oropharyngeal COVID-19 screening",
+    "article_number": "142",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Simon Haddadin",
+      "Dirk Wilhelm",
+      "Daniel Wahrmann",
+      "Fabio Tenebruso",
+      "Hamid Sadeghian",
+      "Abdeldjallil Naceri",
+      "Sami Haddadin"
+    ]
+  },
+  "article_index": 276,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:35:01.561429"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:35:03.151545"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:35:04.341737"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:01:52.862574"
+    },
+    "last_updated": "2025-10-03T22:01:52.862620"
+  }
+}

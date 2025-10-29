@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723830",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08144-3",
+    "title": "Chromium-ruthenium oxide solid solution electrocatalyst for highly efficient oxygen evolution reaction in acidic media",
+    "article_number": "162",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yichao Lin",
+      "Ziqi Tian",
+      "Linjuan Zhang",
+      "Jingyuan Ma",
+      "Zheng Jiang",
+      "Benjamin J. Deibert",
+      "Ruixiang Ge",
+      "Liang Chen"
+    ]
+  },
+  "article_index": 428,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 522,
+      "retrieved_at": "2025-10-03T17:23:42.028637"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 599,
+      "retrieved_at": "2025-10-03T17:23:43.581748"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 534,
+      "retrieved_at": "2025-10-03T17:23:44.775604"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 648,
+      "retrieved_at": "2025-10-03T22:41:19.565244"
+    },
+    "last_updated": "2025-10-03T22:41:19.565470"
+  }
+}

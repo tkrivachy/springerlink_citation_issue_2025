@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652467",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35385-0",
+    "title": "Bicontinuous oxide heteroepitaxy with enhanced photoconductivity",
+    "article_number": "21",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pao-Wen Shao",
+      "Yi-Xian Wu",
+      "Wei-Han Chen",
+      "Mojue Zhang",
+      "Minyi Dai",
+      "Yen-Chien Kuo",
+      "Shang-Hsien Hsieh",
+      "Yi-Cheng Tang",
+      "Po-Liang Liu",
+      "Pu Yu",
+      "Yuang Chen",
+      "Rong Huang",
+      "Chia-Hao Chen",
+      "Ju-Hung Hsu",
+      "Yi-Chun Chen",
+      "Jia-Mian Hu",
+      "Ying-Hao Chu"
+    ]
+  },
+  "article_index": 100,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:46:42.242063"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:46:43.745582"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:46:44.972910"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:09:32.333090"
+    },
+    "last_updated": "2025-10-03T23:09:32.333283"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.695367",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08319-6",
+    "title": "Near-atomic structure of a giant virus",
+    "article_number": "388",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qianglin Fang",
+      "Dongjie Zhu",
+      "Irina Agarkova",
+      "Jagat Adhikari",
+      "Thomas Klose",
+      "Yue Liu",
+      "Zhenguo Chen",
+      "Yingyuan Sun",
+      "Michael L. Gross",
+      "James L. Van Etten",
+      "Xinzheng Zhang",
+      "Michael G. Rossmann"
+    ]
+  },
+  "article_index": 168,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T18:07:38.719674"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T18:07:40.293107"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:07:41.617953"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T22:56:29.499263"
+    },
+    "last_updated": "2025-10-03T22:56:29.499493"
+  }
+}

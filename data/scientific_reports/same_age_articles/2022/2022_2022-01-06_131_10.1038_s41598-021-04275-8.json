@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.871016",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04275-8",
+    "title": "Automating microsatellite screening and primer design from multi-individual libraries using Micro-Primers",
+    "article_number": "295",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Filipe Alves",
+      "Filipa M. S. Martins",
+      "Miguel Areias",
+      "Antonio Muñoz-Mérida"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:58:54.633402"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:58:56.194196"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:58:57.382158"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:46:56.334229"
+    },
+    "last_updated": "2025-10-03T21:46:56.334461"
+  }
+}

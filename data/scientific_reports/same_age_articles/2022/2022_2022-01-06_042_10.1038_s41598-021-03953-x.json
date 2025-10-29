@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.857318",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03953-x",
+    "title": "Histological assessment, anti-quorum sensing, and anti-biofilm activities of ",
+    "article_number": "180",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Engy Elekhnawy",
+      "Walaa A. Negm",
+      "Mona El-Aasr",
+      "Amal Abo Kamer",
+      "Mohammed Alqarni",
+      "Gaber El-Saber Batiha",
+      "Ahmad J. Obaidullah",
+      "Heba M. Fawzy"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:21:34.300737"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T15:21:35.827768"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T15:21:36.997919"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T21:56:28.122600"
+    },
+    "last_updated": "2025-10-03T21:56:28.122663"
+  }
+}

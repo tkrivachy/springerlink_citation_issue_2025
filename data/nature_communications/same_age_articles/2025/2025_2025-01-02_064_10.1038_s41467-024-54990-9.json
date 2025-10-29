@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.519019",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54990-9",
+    "title": "Large emissions of CO",
+    "article_number": "124",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Margaret S. Torn",
+      "Rose Z. Abramoff",
+      "Lydia J. S. Vaughn",
+      "Oriana E. Chafe",
+      "J. Bryan Curtis",
+      "Biao Zhu"
+    ]
+  },
+  "article_index": 64,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:25:02.662731"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:25:04.216614"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:25:05.394005"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:22:30.193655"
+    },
+    "last_updated": "2025-10-03T23:22:30.193847"
+  }
+}

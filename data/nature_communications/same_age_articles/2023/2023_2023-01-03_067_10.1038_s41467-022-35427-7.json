@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.647259",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35427-7",
+    "title": "Spontaneous vortex formation by microswimmers with retarded attractions",
+    "article_number": "56",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiangzun Wang",
+      "Pin-Chuan Chen",
+      "Klaus Kroy",
+      "Viktor Holubec",
+      "Frank Cichos"
+    ]
+  },
+  "article_index": 67,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:46:00.867395"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:46:02.383108"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:46:03.564522"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:09:20.068790"
+    },
+    "last_updated": "2025-10-03T23:09:20.068852"
+  }
+}

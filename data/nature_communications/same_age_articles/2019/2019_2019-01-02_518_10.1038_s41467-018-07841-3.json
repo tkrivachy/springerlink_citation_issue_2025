@@ -1,0 +1,84 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.733472",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07841-3",
+    "title": "Ulcerative colitis mucosal transcriptomes reveal mitochondriopathy and personalized mechanisms underlying disease severity and treatment response",
+    "article_number": "38",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yael Haberman",
+      "Rebekah Karns",
+      "Phillip J. Dexheimer",
+      "Melanie Schirmer",
+      "Judith Somekh",
+      "Ingrid Jurickova",
+      "Tzipi Braun",
+      "Elizabeth Novak",
+      "Laura Bauman",
+      "Margaret H. Collins",
+      "Angela Mo",
+      "Michael J. Rosen",
+      "Erin Bonkowski",
+      "Nathan Gotman",
+      "Alison Marquis",
+      "Mason Nistel",
+      "Paul A. Rufo",
+      "Susan S. Baker",
+      "Cary G. Sauer",
+      "James Markowitz",
+      "Marian D. Pfefferkorn",
+      "Joel R. Rosh",
+      "Brendan M. Boyle",
+      "David R. Mack",
+      "Robert N. Baldassano",
+      "Sapana Shah",
+      "Neal S. Leleiko",
+      "Melvin B. Heyman",
+      "Anne M. Grifiths",
+      "Ashish S. Patel",
+      "Joshua D. Noe",
+      "Bruce J. Aronow",
+      "Subra Kugathasan",
+      "Thomas D. Walters",
+      "Greg Gibson",
+      "Sonia Davis Thomas",
+      "Kevin Mollen",
+      "Shai Shen-Orr",
+      "Curtis Huttenhower",
+      "Ramnik J. Xavier",
+      "Jeffrey S. Hyams",
+      "Lee A. Denson"
+    ]
+  },
+  "article_index": 518,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:49:33.937572"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 284,
+      "retrieved_at": "2025-10-03T17:49:35.453537"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 259,
+      "retrieved_at": "2025-10-03T17:49:36.609230"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 303,
+      "retrieved_at": "2025-10-03T22:50:06.232362"
+    },
+    "last_updated": "2025-10-03T22:50:06.232559"
+  }
+}

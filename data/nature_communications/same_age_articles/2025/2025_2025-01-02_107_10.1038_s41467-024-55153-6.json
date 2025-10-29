@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.524520",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55153-6",
+    "title": "Anti-dendrite separator interlayer enabling staged zinc deposition for enhanced cycling stability of aqueous zinc batteries",
+    "article_number": "259",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dun Wang",
+      "Sanlue Hu",
+      "Titi Li",
+      "Caiyun Chang",
+      "Senlin Li",
+      "Songde Guo",
+      "Huan Li",
+      "Qingming Liu",
+      "Jinqiu Gong",
+      "Jun Zhou",
+      "Cuiping Han"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:22:34.787564"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:22:36.349836"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:22:37.562883"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:21:41.988985"
+    },
+    "last_updated": "2025-10-03T23:21:41.989172"
+  }
+}

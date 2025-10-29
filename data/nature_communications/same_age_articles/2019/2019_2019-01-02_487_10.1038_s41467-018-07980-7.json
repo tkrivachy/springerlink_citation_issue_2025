@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.730227",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07980-7",
+    "title": "Electrochemically activated spinel manganese oxide for rechargeable aqueous aluminum battery",
+    "article_number": "73",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chuan Wu",
+      "Sichen Gu",
+      "Qinghua Zhang",
+      "Ying Bai",
+      "Matthew Li",
+      "Yifei Yuan",
+      "Huali Wang",
+      "Xinyu Liu",
+      "Yanxia Yuan",
+      "Na Zhu",
+      "Feng Wu",
+      "Hong Li",
+      "Lin Gu",
+      "Jun Lu"
+    ]
+  },
+  "article_index": 487,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 342,
+      "retrieved_at": "2025-10-03T17:50:18.884352"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 401,
+      "retrieved_at": "2025-10-03T17:50:20.431783"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 358,
+      "retrieved_at": "2025-10-03T17:50:21.640251"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 434,
+      "retrieved_at": "2025-10-03T22:50:21.006722"
+    },
+    "last_updated": "2025-10-03T22:50:21.006910"
+  }
+}

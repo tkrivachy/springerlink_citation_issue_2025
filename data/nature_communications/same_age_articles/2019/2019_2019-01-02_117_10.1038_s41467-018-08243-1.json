@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.689830",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08243-1",
+    "title": "AAV2.7m8 is a powerful viral vector for inner ear gene therapy",
+    "article_number": "427",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kevin Isgrig",
+      "Devin S. McDougald",
+      "Jianliang Zhu",
+      "Hong Jun Wang",
+      "Jean Bennett",
+      "Wade W. Chien"
+    ]
+  },
+  "article_index": 117,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T17:55:18.592664"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T17:55:20.139587"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T17:55:21.317115"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 125,
+      "retrieved_at": "2025-10-03T22:52:21.138545"
+    },
+    "last_updated": "2025-10-03T22:52:21.138595"
+  }
+}

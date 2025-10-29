@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-020-10122-8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/s12889-020-10122-8</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Influence of air temperature and implemented veterinary measures on the incidence of human salmonellosis in the Czech Republic during 1998–2017</dc:title>
+          <dc:creator>Kynčl, Jan</dc:creator>
+          <dc:creator>Špačková, Michaela</dc:creator>
+          <dc:creator>Fialová, Alena</dc:creator>
+          <dc:creator>Kyselý, Jan</dc:creator>
+          <dc:creator>Malý, Marek</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn>1471-2458</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Research article</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:doi>10.1186/s12889-020-10122-8</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2021-01-06</ns2:publicationDate>
+          <ns2:volume>21</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>7</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1186/s12889-020-10122-8</ns2:url>
+          <ns2:copyright>©2021 The Author(s)</ns2:copyright>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Background</p>
+        <p>The aim of our study was to analyse the influence of air temperature and implemented veterinary measures on salmonellosis incidence in the Czech Republic (CZ).</p>
+        <p>Methods</p>
+        <p>We conducted a descriptive analysis of salmonellosis as reported to the Czech national surveillance system during 1998–2017 and evaluated the influence of applied veterinary measures (started in January 2008) on salmonellosis incidence by comparing two 9-year periods (1998–2006, 2009–2017). Using a generalized additive model, we analysed association between monthly mean air temperature and log-transformed salmonellosis incidence over the entire twenty-year period.</p>
+        <p>Results</p>
+        <p>A total of 410,533 salmonellosis cases were reported during the study period in the CZ. Annual mean incidences of salmonellosis were 313.0/100,000 inhabitants before and 99.0/100,000 inhabitants after implementation of the veterinary measures. The time course of incidence was non-linear, with a sharp decline during 2006–2010. Significant association was found between disease incidence and air temperature. On average, the data indicated that within a common temperature range every 1 °C rise in air temperature contributed to a significant 6.2% increase in salmonellosis cases.</p>
+        <p>Conclusions</p>
+        <p>Significant non-linear effects of annual trend, within-year seasonality, and air temperature on the incidence of salmonellosis during 1998–2017 were found. Our study also demonstrates significant direct effect of preventive veterinary measures taken in poultry in reducing incidence of human salmonellosis in the CZ. The annual mean number of salmonellosis cases in the period after introducing the veterinary measures was only 32.5% of what it had been in the previous period.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Gastrointestinal infections</facet-value>
+      <facet-value count="1">Salmonellosis</facet-value>
+      <facet-value count="1">Temperature</facet-value>
+      <facet-value count="1">Veterinary measures</facet-value>
+      <facet-value count="1">Weather</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2021</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Czech Republic</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

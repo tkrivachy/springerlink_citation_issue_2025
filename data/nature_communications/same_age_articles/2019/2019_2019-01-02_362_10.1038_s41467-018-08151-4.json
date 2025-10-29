@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.716902",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08151-4",
+    "title": "The mediodorsal pulvinar coordinates the macaque fronto-parietal network during rhythmic spatial attention",
+    "article_number": "215",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ian C. Fiebelkorn",
+      "Mark A. Pinsk",
+      "Sabine Kastner"
+    ]
+  },
+  "article_index": 362,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:22:36.121542"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 153,
+      "retrieved_at": "2025-10-03T17:22:37.631207"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 145,
+      "retrieved_at": "2025-10-03T17:22:39.046319"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T22:40:55.765084"
+    },
+    "last_updated": "2025-10-03T22:40:55.765171"
+  }
+}

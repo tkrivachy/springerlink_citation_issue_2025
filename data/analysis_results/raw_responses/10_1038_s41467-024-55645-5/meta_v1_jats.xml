@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-024-55645-5</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-024-55645-5</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Programming scheduled self-assembly of circadian materials</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Leech</surname>
+                <given-names>Gregor</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Melcher</surname>
+                <given-names>Lauren</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Chiu</surname>
+                <given-names>Michelle</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Nugent</surname>
+                <given-names>Maya</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Juliano</surname>
+                <given-names>Shirlaine</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Burton</surname>
+                <given-names>Lily</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Kang</surname>
+                <given-names>Janet</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Kim</surname>
+                <given-names>Soo Ji</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Roy</surname>
+                <given-names>Sourav</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Farhadi</surname>
+                <given-names>Leila</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>Ross</surname>
+                <given-names>Jennifer L.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0397-8886</contrib-id>
+              <name name-style="western">
+                <surname>Das</surname>
+                <given-names>Moumita</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7207-4020</contrib-id>
+              <name name-style="western">
+                <surname>Rust</surname>
+                <given-names>Michael J.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4475-4667</contrib-id>
+              <name name-style="western">
+                <surname>Robertson-Anderson</surname>
+                <given-names>Rae M.</given-names>
+              </name>
+              <address>
+                <email>randerson@sandiego.edu</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>16</volume>
+          <issue>1</issue>
+          <elocation-id>176</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-024-55645-5</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-024-55645-5.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Active biological molecules present a powerful, yet largely untapped, opportunity to impart autonomous regulation of materials. Because these systems can function robustly to regulate when and where chemical reactions occur, they have the ability to bring complex, life-like behavior to synthetic materials. Here, we achieve this design feat by using functionalized circadian clock proteins, KaiB and KaiC, to engineer time-dependent crosslinking of colloids. The resulting material self-assembles with programmable kinetics, producing macroscopic changes in material properties, via molecular assembly of KaiB-KaiC complexes. We show that colloid crosslinking depends strictly on the phosphorylation state of KaiC, with kinetics that are synced with KaiB-KaiC complexing. Our microscopic image analyses and computational models indicate that the stability of colloidal super-structures depends sensitively on the number of Kai complexes per colloid connection. Consistent with our model predictions, a high concentration stabilizes the material against dissolution after a robust self-assembly phase, while a low concentration allows for oscillatory material structure. This work introduces the concept of harnessing biological timers to control synthetic materials; and, more generally, opens the door to using protein-based reaction networks to endow synthetic systems with life-like functional properties.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Harnessing biomolecular systems to endow synthetic materials with life-like properties is a significant challenge. Here, the authors use the biomolecular KaiABC circadian clock proteins to control autonomous self-assembly and oscillation of colloids.</p>
+          </abstract>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Self-assembly</kwd>
+            <kwd>Molecular Self-assembly</kwd>
+            <kwd>Supramolecular Assembly</kwd>
+            <kwd>Circadian rhythm signalling peptides and proteins</kwd>
+            <kwd>Supramolecular Polymers</kwd>
+            <kwd>Organizing materials with DNA</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="03">Chemical Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0303">Macromolecular and Materials Chemistry</kwd>
+                <kwd content-type="term" vocab-term-identifier="0306">Physical Chemistry (incl. Structural)</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>W. M. Keck Foundation (W.M. Keck Foundation)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000888</institution-id>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>National Science Foundation (NSF)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000001</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">DMR-2119663</award-id>
+              <award-id award-type="FundRef grant">DMR-2118449</award-id>
+              <award-id award-type="FundRef grant">DMR-2118424</award-id>
+              <award-id award-type="FundRef grant">DMR-2118403</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Robertson-Anderson</surname>
+                  <given-names>Rae M.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Das</surname>
+                  <given-names>Moumita</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Rust</surname>
+                  <given-names>Michael J.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ross</surname>
+                  <given-names>Jennifer L.</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | NIH | National Institute of General Medical Sciences (NIGMS)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000057</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">R01 GM107369</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Rust</surname>
+                  <given-names>Michael J.</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Research Corporation for Scientific Advancement (RCSA)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100009494</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">CS-PBP-2023-019</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Juliano</surname>
+                  <given-names>Shirlaine</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

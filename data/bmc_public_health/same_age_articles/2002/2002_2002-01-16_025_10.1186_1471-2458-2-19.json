@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.514909",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-19",
+    "title": "Effects of chronic inflammatory bowel diseases on left ventricular structure and function: a study protocol",
+    "article_number": "19",
+    "publication_date": "2002-09-10",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ugo Cioffi",
+      "Michele M Ciulla",
+      "Matilde De Simone",
+      "Roberta Paliotti",
+      "Alberto Pierini",
+      "Fabio Magrini",
+      "Fiorenzo Botti",
+      "Ettore Contessini-Avesani"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T11:54:19.925769"
+    },
+    "last_updated": "2025-10-03T20:41:44.391383",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T12:02:25.290731"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T12:02:26.568442"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T20:41:44.391160"
+    }
+  }
+}

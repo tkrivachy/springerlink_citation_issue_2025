@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.652543",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10084-x",
+    "title": "Trends of multimorbidity in 15 European countries: a population-based study in community-dwelling adults aged 50 and over",
+    "article_number": "76",
+    "publication_date": "2021-01-07",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Dyego L. B. Souza",
+      "Albert Oliveras-Fabregas",
+      "Eduard Minobes-Molina",
+      "Marianna de Camargo Cancela",
+      "Paola Galbany-Estragués",
+      "Javier Jerez-Roig"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T14:03:15.730863"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T14:03:17.296645"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T14:03:18.632688"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T21:25:40.867525"
+    },
+    "last_updated": "2025-10-03T21:25:40.867711"
+  }
+}

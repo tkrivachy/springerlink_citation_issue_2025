@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.247501",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1401-6",
+    "title": "Community-based interventions in hypertensive patients: a comparison of three health education strategies",
+    "article_number": "33",
+    "publication_date": "2015-01-29",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Chu-Hong Lu",
+      "Song-Tao Tang",
+      "Yi-Xiong Lei",
+      "Mian-Qiu Zhang",
+      "Wei-Quan Lin",
+      "Sen-Hua Ding",
+      "Pei-Xi Wang"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T13:15:53.208640"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T13:15:54.718843"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T13:15:56.046242"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T21:08:43.285993"
+    },
+    "last_updated": "2025-10-03T21:08:43.286097"
+  }
+}

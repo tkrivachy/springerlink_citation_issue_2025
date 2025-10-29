@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.888567",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13941-5",
+    "title": "Titania supported synergistic palladium single atoms and nanoparticles for room temperature ketone and aldehydes hydrogenation",
+    "article_number": "48",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Long Kuai",
+      "Zheng Chen",
+      "Shoujie Liu",
+      "Erjie Kan",
+      "Nan Yu",
+      "Yiming Ren",
+      "Caihong Fang",
+      "Xingyang Li",
+      "Yadong Li",
+      "Baoyou Geng"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 273,
+      "retrieved_at": "2025-10-03T18:09:51.446780"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 344,
+      "retrieved_at": "2025-10-03T18:09:52.967064"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 309,
+      "retrieved_at": "2025-10-03T18:09:54.592613"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 348,
+      "retrieved_at": "2025-10-03T22:57:06.271370"
+    },
+    "last_updated": "2025-10-03T22:57:06.271572"
+  }
+}

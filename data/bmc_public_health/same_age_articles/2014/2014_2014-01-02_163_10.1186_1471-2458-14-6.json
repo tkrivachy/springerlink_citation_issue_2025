@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.765065",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-6",
+    "title": "A qualitative comparative analysis of well-managed school sanitation in Bangladesh",
+    "article_number": "6",
+    "publication_date": "2014-01-08",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Christie Chatterley",
+      "Amy Javernick-Will",
+      "Karl G Linden",
+      "Kawser Alam",
+      "Laure Bottinelli",
+      "Mohini Venkatesh"
+    ]
+  },
+  "article_index": 163,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T13:07:26.825734"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T13:07:28.323804"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:07:29.618833"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T21:05:34.388462"
+    },
+    "last_updated": "2025-10-03T21:05:34.388653"
+  }
+}

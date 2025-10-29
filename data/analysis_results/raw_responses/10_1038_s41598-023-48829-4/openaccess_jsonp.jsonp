@@ -1,0 +1,155 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-023-48829-4",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-023-48829-4",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-023-48829-4"
+        }
+      ],
+      "title": "Examining double standards in layoff preferences and expectations for gender, age, and ethnicity when violating the social norm of vaccination",
+      "creators": [
+        {
+          "ORCID": "0000-0002-7176-4775",
+          "creator": "Moya, Cristóbal"
+        },
+        {
+          "ORCID": "0000-0002-6491-0754",
+          "creator": "Sattler, Sebastian"
+        },
+        {
+          "ORCID": "0000-0001-8991-0892",
+          "creator": "Taflinger, Shannon"
+        },
+        {
+          "ORCID": "0000-0002-8090-6886",
+          "creator": "Sauer, Carsten"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "doi": "10.1038/s41598-023-48829-4",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2024-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "14",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "14",
+      "journalId": "41598",
+      "openAccess": "true",
+      "onlineDate": "2024-01-02",
+      "coverDate": "2024-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": {
+        "h1": "Abstract",
+        "p": "Whether vaccination refusal is perceived as a social norm violation that affects layoff decisions has not been tested. Also unknown is whether ascribed low-status groups are subject to double standards when they violate norms, experiencing stronger sanctions in layoff preferences and expectations, and whether work performance attenuates such sanctioning. Therefore, we study layoff preferences and expectations using a discrete choice experiment within a large representative online survey in Germany ( N  = 12,136). Respondents chose between two employee profiles, each with information about ascribed characteristics signaling different status groups (gender, age, and ethnicity), work performance (work quality and quantity, and social skills), and whether the employees refused to vaccinate against COVID-19. We found that employees who refused vaccination were more likely to be preferred and expected to be laid off. Respondents also expected double standards regarding layoffs due to vaccination refusal, hence, harsher treatment of females and older employees. Nonetheless, their preferences did not reflect such double standards. We found little support that high work performance attenuates these sanctions and double standards, opening questions about the conditions under which social biases arise. Our results suggest detrimental consequences of vaccination refusal for individuals, the labor market, and acceptance of health policies."
+      },
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword"
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Canada",
+          "count": "1"
+        },
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

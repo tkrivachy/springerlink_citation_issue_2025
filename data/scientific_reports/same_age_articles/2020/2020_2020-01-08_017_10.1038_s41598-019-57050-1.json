@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301520",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57050-1",
+    "title": "Association between leucocyte telomere length and cardiovascular disease in a large general population in the United States",
+    "article_number": "80",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Cheng Xu",
+      "Zhiqi Wang",
+      "Xiaoqi Su",
+      "Min Da",
+      "Zhaocong Yang",
+      "Weiwei Duan",
+      "Xuming Mo"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T14:29:08.275522"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T14:29:09.782943"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:29:10.966849"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T21:34:58.290179"
+    },
+    "last_updated": "2025-10-03T21:34:58.290417"
+  }
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-021-04112-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-021-04112-y</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41598-021-04112-y</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41598-021-04112-y.pdf</ns2:url>
+          <dc:title>Dynamics of camel and human hemoglobin revealed by molecular simulations</dc:title>
+          <dc:creator>Ali, Amanat</dc:creator>
+          <dc:creator>Soman, Soja Saghar</dc:creator>
+          <dc:creator>Vijayan, Ranjit</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2045-2322</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:volume>12</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>14</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2022-01-07</onlineDate>
+          <ns2:coverDate>2022-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41598-021-04112-y</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2022-01-07</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-021-04112-y</ns2:url>
+          <ns2:copyright>©2022 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Hemoglobin is one of the most widely studied proteins genetically, biochemically, and structurally. It is an oxygen carrying tetrameric protein that imparts the characteristic red color to blood. Each chain of hemoglobin harbors a heme group embedded in a hydrophobic pocket. Several studies have investigated structural variations present in mammalian hemoglobin and their functional implications. However, camel hemoglobin has not been thoroughly explored, especially from a structural perspective. Importantly, very little is known about how the heme group interacts with hemoglobin under varying conditions of osmolarity and temperature. Several experimental studies have indicated that the tense (T) state is more stable than the relaxed (R) state of hemoglobin under normal physiological conditions. Despite the fact that R state is less stable than the T state, no extensive structural dynamics studies have been performed to investigate global quaternary transitions of R state hemoglobin under normal physiological conditions. To evaluate this, several 500 ns all-atom molecular dynamics simulations were performed to get a deeper understanding of how camel hemoglobin behaves under stress, which it is normally exposed to, when compared to human hemoglobin. Notably, camel hemoglobin was more stable under physiological stress when compared to human hemoglobin. Additionally, when compared to camel hemoglobin, cofactor-binding regions of hemoglobin also exhibited more fluctuations in human hemoglobin under the conditions studied. Several differences were observed between the residues of camel and human hemoglobin that interacted with heme. Importantly, distal residues His58 of α hemoglobin and His63 of β hemoglobin formed more sustained interactions, especially at higher temperatures, in camel hemoglobin. These residues are important for oxygen binding to hemoglobin. Thus, this work provides insights into how camel and human hemoglobin differ in their interactions under stress.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">United Arab Emirates</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

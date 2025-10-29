@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.703429",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08098-6",
+    "title": "Antibiotic collateral sensitivity is contingent on the repeatability of evolution",
+    "article_number": "334",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daniel Nichol",
+      "Joseph Rutter",
+      "Christopher Bryant",
+      "Andrea M. Hujer",
+      "Sai Lek",
+      "Mark D. Adams",
+      "Peter Jeavons",
+      "Alexander R. A. Anderson",
+      "Robert A. Bonomo",
+      "Jacob G. Scott"
+    ]
+  },
+  "article_index": 241,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 151,
+      "retrieved_at": "2025-10-03T18:05:37.990600"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 167,
+      "retrieved_at": "2025-10-03T18:05:39.537805"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 154,
+      "retrieved_at": "2025-10-03T18:05:40.716165"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T22:55:49.244948"
+    },
+    "last_updated": "2025-10-03T22:55:49.245035"
+  }
+}

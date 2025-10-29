@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.890072",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13952-2",
+    "title": "High-density information storage in an absolutely defined aperiodic sequence of monodisperse copolyester",
+    "article_number": "56",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jung Min Lee",
+      "Mo Beom Koo",
+      "Seul Woo Lee",
+      "Heelim Lee",
+      "Junho Kwon",
+      "Yul Hui Shim",
+      "So Youn Kim",
+      "Kyoung Taek Kim"
+    ]
+  },
+  "article_index": 111,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T18:11:38.834556"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T18:11:40.379980"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T18:11:41.747028"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T22:57:38.236162"
+    },
+    "last_updated": "2025-10-03T22:57:38.236387"
+  }
+}

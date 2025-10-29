@@ -1,0 +1,24 @@
+{
+  "endpoint": "meta_v1",
+  "format": "jsonp",
+  "test_doi": "10.1038/s41467-022-35759-4",
+  "safe_doi": "10_1038_s41467-022-35759-4",
+  "timestamp": "2025-10-20 14:14:11",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5247066020965576,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/meta/v1/jsonp",
+    "params": {
+      "api_key": "7840cf20127b6139d41324d1fcc80058",
+      "q": "doi:10.1038/s41467-022-35759-4",
+      "s": 1,
+      "p": 1,
+      "callback": "springerCallback"
+    }
+  },
+  "summary": "JSONP Response\nKeys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords: 1\n",
+  "filename": "meta_v1_jsonp.jsonp"
+}

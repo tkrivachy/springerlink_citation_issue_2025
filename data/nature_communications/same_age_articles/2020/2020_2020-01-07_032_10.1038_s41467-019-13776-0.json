@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880339",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13776-0",
+    "title": "Author Correction: In vivo clonal expansion and phenotypes of hypocretin-specific CD4",
+    "article_number": "242",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wei Jiang",
+      "James R. Birtley",
+      "Shu-Chen Hung",
+      "Weiqi Wang",
+      "Shin-Heng Chiou",
+      "Claudia Macaubas",
+      "Birgitte Kornum",
+      "Lu Tian",
+      "Huang Huang",
+      "Lital Adler",
+      "Grant Weaver",
+      "Liying Lu",
+      "Alexandra Ilstad-Minnihan",
+      "Sriram Somasundaram",
+      "Sashi Ayyangar",
+      "Mark M. Davis",
+      "Lawrence J. Stern",
+      "Elizabeth D. Mellins"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:20:25.852091"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:20:27.348452"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:20:28.535213"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:00:42.551130"
+    },
+    "last_updated": "2025-10-03T23:00:42.551246"
+  }
+}

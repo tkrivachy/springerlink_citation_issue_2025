@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.363847",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83432-1",
+    "title": "Temporal ablation of the ciliary protein IFT88 alters normal brainwave patterns",
+    "article_number": "347",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Matthew R. Strobel",
+      "Yuxin Zhou",
+      "Liyan Qiu",
+      "Aldebaran M. Hofer",
+      "Xuanmao Chen"
+    ]
+  },
+  "article_index": 144,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:27:14.093313"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:27:15.616959"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:10.207909"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:21:20.001506"
+    },
+    "last_updated": "2025-10-07T09:51:10.208014"
+  }
+}

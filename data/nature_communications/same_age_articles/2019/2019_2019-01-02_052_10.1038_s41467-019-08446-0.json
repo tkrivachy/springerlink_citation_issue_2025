@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682638",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08446-0",
+    "title": "Microglia are an essential component of the neuroprotective scar that forms after spinal cord injury",
+    "article_number": "518",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Victor Bellver-Landete",
+      "Floriane Bretheau",
+      "Benoit Mailhot",
+      "Nicolas Vallières",
+      "Martine Lessard",
+      "Marie-Eve Janelle",
+      "Nathalie Vernoux",
+      "Marie-Ève Tremblay",
+      "Tobias Fuehrmann",
+      "Molly S. Shoichet",
+      "Steve Lacroix"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:54:40.555071"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 499,
+      "retrieved_at": "2025-10-03T17:54:42.592636"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 443,
+      "retrieved_at": "2025-10-03T17:54:44.476379"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 548,
+      "retrieved_at": "2025-10-03T22:52:08.758560"
+    },
+    "last_updated": "2025-10-03T22:52:08.758748"
+  }
+}

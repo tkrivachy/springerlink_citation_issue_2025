@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.700520",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08153-2",
+    "title": null,
+    "article_number": "307",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Valentina Profumo",
+      "Barbara Forte",
+      "Stefano Percio",
+      "Federica Rotundo",
+      "Valentina Doldi",
+      "Elena Ferrari",
+      "Nicola Fenderico",
+      "Matteo Dugo",
+      "Dario Romagnoli",
+      "Matteo Benelli",
+      "Riccardo Valdagni",
+      "Diletta Dolfini",
+      "Nadia Zaffaroni",
+      "Paolo Gandellini"
+    ]
+  },
+  "article_index": 216,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:43:28.574747"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:43:30.102091"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:43:32.160405"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T22:48:05.333905"
+    },
+    "last_updated": "2025-10-03T22:48:05.333994"
+  }
+}

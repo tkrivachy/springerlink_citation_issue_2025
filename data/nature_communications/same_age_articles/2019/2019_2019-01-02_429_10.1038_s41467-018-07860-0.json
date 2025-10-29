@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723928",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07860-0",
+    "title": "Phonon-enhanced photothermoelectric effect in SrTiO",
+    "article_number": "138",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaowei Lu",
+      "Peng Jiang",
+      "Xinhe Bao"
+    ]
+  },
+  "article_index": 429,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:03:57.821921"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 160,
+      "retrieved_at": "2025-10-03T18:03:59.381024"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T18:04:00.546034"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 171,
+      "retrieved_at": "2025-10-03T22:55:13.861855"
+    },
+    "last_updated": "2025-10-03T22:55:13.862044"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.845689",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50445-1",
+    "title": "A randomized double-blind placebo-controlled trial of an inhibitor of plasminogen activator inhibitor-1 (TM5614) in mild to moderate COVID-19",
+    "article_number": "165",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Toyohiro Hirai",
+      "Koichiro Asano",
+      "Isao Ito",
+      "Yasunari Miyazaki",
+      "Hisatoshi Sugiura",
+      "Mehmet Agirbasli",
+      "Seiichi Kobayashi",
+      "Makoto Kobayashi",
+      "Daishi Shimada",
+      "Ichiro Natsume",
+      "Tsutomu Kawasaki",
+      "Takehiko Ohba",
+      "Sakurako Tajiri",
+      "Fumio Sakamaki",
+      "Masamichi Mineshita",
+      "Takahisa Takihara",
+      "Kiyoshi Sekiya",
+      "Keisuke Tomii",
+      "Hiromi Tomioka",
+      "Hideo Kita",
+      "Yasuo Nishizaka",
+      "Motonari Fukui",
+      "Toshio Miyata",
+      "Hideo Harigae"
+    ]
+  },
+  "article_index": 183,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T15:47:14.999653"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:47:16.515047"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:47:17.807066"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:06:45.741541"
+    },
+    "last_updated": "2025-10-03T22:06:45.741654"
+  }
+}

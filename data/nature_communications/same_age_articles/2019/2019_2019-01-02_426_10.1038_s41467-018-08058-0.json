@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723600",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08058-0",
+    "title": "Dissecting the circuit for blindsight to reveal the critical role of pulvinar and superior colliculus",
+    "article_number": "135",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Masaharu Kinoshita",
+      "Rikako Kato",
+      "Kaoru Isa",
+      "Kenta Kobayashi",
+      "Kazuto Kobayashi",
+      "Hirotaka Onoe",
+      "Tadashi Isa"
+    ]
+  },
+  "article_index": 426,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T17:21:01.213732"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T17:21:02.773770"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T17:21:03.947718"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 111,
+      "retrieved_at": "2025-10-03T22:40:26.276798"
+    },
+    "last_updated": "2025-10-03T22:40:26.276988"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.380719",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83341-3",
+    "title": "Scalable fabrication of an array-type fixed-target device for automated room temperature X-ray protein crystallography",
+    "article_number": "334",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sarthak Saha",
+      "Yaozu Chen",
+      "Silvia Russi",
+      "Darya Marchany-Rivera",
+      "Aina Cohen",
+      "Sarah L. Perry"
+    ]
+  },
+  "article_index": 297,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T16:12:59.525655"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:13:01.100918"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:24.122587"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:16:25.690953"
+    },
+    "last_updated": "2025-10-07T09:48:24.122810"
+  }
+}

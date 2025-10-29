@@ -1,0 +1,74 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.688577",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08259-7",
+    "title": "Genome-wide association analyses of chronotype in 697,828 individuals provides insights into circadian rhythms",
+    "article_number": "343",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Samuel E. Jones",
+      "Jacqueline M. Lane",
+      "Andrew R. Wood",
+      "Vincent T. van Hees",
+      "Jessica Tyrrell",
+      "Robin N. Beaumont",
+      "Aaron R. Jeffries",
+      "Hassan S. Dashti",
+      "Melvyn Hillsdon",
+      "Katherine S. Ruth",
+      "Marcus A. Tuke",
+      "Hanieh Yaghootkar",
+      "Seth A. Sharp",
+      "Yingjie Jie",
+      "William D. Thompson",
+      "Jamie W. Harrison",
+      "Amy Dawes",
+      "Enda M. Byrne",
+      "Henning Tiemeier",
+      "Karla V. Allebrandt",
+      "Jack Bowden",
+      "David W. Ray",
+      "Rachel M. Freathy",
+      "Anna Murray",
+      "Diego R. Mazzotti",
+      "Philip R. Gehrman",
+      "Debbie A. Lawlor",
+      "Timothy M. Frayling",
+      "Martin K. Rutter",
+      "David A. Hinds",
+      "Richa Saxena",
+      "Michael N. Weedon"
+    ]
+  },
+  "article_index": 105,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 513,
+      "retrieved_at": "2025-10-03T18:08:29.752086"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 560,
+      "retrieved_at": "2025-10-03T18:08:31.320678"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 508,
+      "retrieved_at": "2025-10-03T18:08:33.290124"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 611,
+      "retrieved_at": "2025-10-03T22:56:43.605941"
+    },
+    "last_updated": "2025-10-03T22:56:43.605987"
+  }
+}

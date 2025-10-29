@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.637632",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35763-8",
+    "title": null,
+    "article_number": "102",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Arthur Louche",
+      "Amandine Blanco",
+      "Thais Lourdes Santos Lacerda",
+      "Lison Cancade-Veyre",
+      "Claire Lionnet",
+      "Célia Bergé",
+      "Monica Rolando",
+      "Frédérique Lembo",
+      "Jean-Paul Borg",
+      "Carmen Buchrieser",
+      "Masami Nagahama",
+      "Francine C. A. Gérard",
+      "Jean-Pierre Gorvel",
+      "Virginie Gueguen-Chaignon",
+      "Laurent Terradot",
+      "Suzana P. Salcedo"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T18:51:29.401494"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T18:51:30.949741"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:51:32.233824"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T23:11:10.718010"
+    },
+    "last_updated": "2025-10-03T23:11:10.718200"
+  }
+}

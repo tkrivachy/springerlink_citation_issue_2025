@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.806920",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-1",
+    "title": "A commentary on studies presenting projections of the future prevalence of dementia",
+    "article_number": "1",
+    "publication_date": "2013-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Sam Norton",
+      "Fiona E Matthews",
+      "Carol Brayne"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 501,
+      "retrieved_at": "2025-10-03T12:50:35.422261"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 466,
+      "retrieved_at": "2025-10-03T12:50:36.937538"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 884,
+      "retrieved_at": "2025-10-03T12:50:39.229940"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 779,
+      "retrieved_at": "2025-10-03T20:59:20.789490"
+    },
+    "last_updated": "2025-10-03T20:59:20.789679"
+  }
+}

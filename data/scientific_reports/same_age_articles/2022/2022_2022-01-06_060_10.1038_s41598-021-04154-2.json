@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.860472",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04154-2",
+    "title": "Cholinergic anti-inflammatory pathway ameliorates murine experimental Th2-type colitis by suppressing the migration of plasmacytoid dendritic cells",
+    "article_number": "54",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuya Kanauchi",
+      "Takeshi Yamamoto",
+      "Minako Yoshida",
+      "Yue Zhang",
+      "Jaemin Lee",
+      "Shusaku Hayashi",
+      "Makoto Kadowaki"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:03:03.302700"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:03:04.812389"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:03:06.000872"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:48:33.805406"
+    },
+    "last_updated": "2025-10-03T21:48:33.805603"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "endpoint": "meta_v1",
+  "format": "json",
+  "test_doi": "10.1038/s41598-021-04112-y",
+  "safe_doi": "10_1038_s41598-021-04112-y",
+  "timestamp": "2025-10-07 12:23:30",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.6548209190368652,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/meta/v1/json",
+    "params": {
+      "api_key": "7840cf20127b6139d41324d1fcc80058",
+      "q": "doi:10.1038/s41598-021-04112-y",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'openaccess', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'conferenceInfo', 'subjects', 'disciplines']\ndoi: 10.1038/s41598-021-04112-y...\ntitle: Dynamics of camel and human hemoglobin revealed by molecular simulations...\ncreators: [{'creator': 'Ali, Amanat'}, {'creator': 'Soman, Soja Saghar'}, {'creator': 'Vijayan, Ranjit'}]...\npublicationName: Scientific Reports...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "meta_v1_json.json"
+}

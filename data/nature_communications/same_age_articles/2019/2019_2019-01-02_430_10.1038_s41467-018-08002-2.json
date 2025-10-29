@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724023",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08002-2",
+    "title": "Feasible future global scenarios for human life evaluations",
+    "article_number": "161",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christopher Barrington-Leigh",
+      "Eric Galbraith"
+    ]
+  },
+  "article_index": 430,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:49:00.367414"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T17:49:01.873340"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T17:49:03.137765"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T22:49:56.002407"
+    },
+    "last_updated": "2025-10-03T22:49:56.002600"
+  }
+}

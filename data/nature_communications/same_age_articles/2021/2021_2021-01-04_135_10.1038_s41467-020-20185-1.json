@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.195939",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20185-1",
+    "title": "p62/SQSTM1-droplet serves as a platform for autophagosome formation and anti-oxidative stress response",
+    "article_number": "16",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shun Kageyama",
+      "Sigurdur Runar Gudmundsson",
+      "Yu-Shin Sou",
+      "Yoshinobu Ichimura",
+      "Naoki Tamura",
+      "Saiko Kazuno",
+      "Takashi Ueno",
+      "Yoshiki Miura",
+      "Daisuke Noshiro",
+      "Manabu Abe",
+      "Tsunehiro Mizushima",
+      "Nobuaki Miura",
+      "Shujiro Okuda",
+      "Hozumi Motohashi",
+      "Jin-A Lee",
+      "Kenji Sakimura",
+      "Tomoyuki Ohe",
+      "Nobuo N. Noda",
+      "Satoshi Waguri",
+      "Eeva-Liisa Eskelinen",
+      "Masaaki Komatsu"
+    ]
+  },
+  "article_index": 135,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:40:07.672455"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 222,
+      "retrieved_at": "2025-10-03T18:40:09.257022"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T18:40:10.735639"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 233,
+      "retrieved_at": "2025-10-03T23:07:24.414739"
+    },
+    "last_updated": "2025-10-03T23:07:24.414932"
+  }
+}

@@ -1,0 +1,3161 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-021-04112-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-021-04112-y</article-id>
+          <article-id pub-id-type="manuscript">4112</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-021-04112-y</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/45/612/1221</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/45/535/1267</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/45/612/1222</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Dynamics of camel and human hemoglobin revealed by molecular simulations</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Ali</surname>
+                <given-names>Amanat</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Soman</surname>
+                <given-names>Soja Saghar</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au3">
+              <name name-style="western">
+                <surname>Vijayan</surname>
+                <given-names>Ranjit</given-names>
+              </name>
+              <address>
+                <email>ranjit.v@uaeu.ac.ae</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+              <xref ref-type="corresp" rid="IDs4159802104112y_cor3">c</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.43519.3a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2193 6666</institution-id>
+                <institution content-type="org-division">Department of Biology, College of Science</institution>
+                <institution content-type="org-name">United Arab Emirates University</institution>
+              </institution-wrap>
+              <addr-line content-type="postbox">P.O. Box 15551</addr-line>
+              <addr-line content-type="city">Al Ain</addr-line>
+              <country country="AE">United Arab Emirates</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.440573.1</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1755 5934</institution-id>
+                <institution content-type="org-name">New York University Abu Dhabi</institution>
+              </institution-wrap>
+              <addr-line content-type="postbox">P.O. Box 129188</addr-line>
+              <addr-line content-type="city">Abu Dhabi</addr-line>
+              <country country="AE">United Arab Emirates</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.43519.3a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2193 6666</institution-id>
+                <institution content-type="org-division">The Big Data Analytics Center</institution>
+                <institution content-type="org-name">United Arab Emirates University</institution>
+              </institution-wrap>
+              <addr-line content-type="postbox">P.O. Box 15551</addr-line>
+              <addr-line content-type="city">Al Ain</addr-line>
+              <country country="AE">United Arab Emirates</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.43519.3a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 2193 6666</institution-id>
+                <institution content-type="org-division">Zayed Center for Health Sciences</institution>
+                <institution content-type="org-name">United Arab Emirates University</institution>
+              </institution-wrap>
+              <addr-line content-type="postbox">P.O. Box 15551</addr-line>
+              <addr-line content-type="city">Al Ain</addr-line>
+              <country country="AE">United Arab Emirates</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs4159802104112y_cor3">
+              <label>c</label>
+              <email>ranjit.v@uaeu.ac.ae</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2022</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2022</year>
+          </pub-date>
+          <volume>12</volume>
+          <issue seq="122">1</issue>
+          <elocation-id>122</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>16</day>
+              <month>12</month>
+              <year>2021</year>
+            </date>
+            <date date-type="received">
+              <day>5</day>
+              <month>7</month>
+              <year>2021</year>
+            </date>
+            <date date-type="accepted">
+              <day>9</day>
+              <month>12</month>
+              <year>2021</year>
+            </date>
+            <date date-type="online">
+              <day>7</day>
+              <month>1</month>
+              <year>2022</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2022</copyright-statement>
+            <copyright-year>2022</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Hemoglobin is one of the most widely studied proteins genetically, biochemically, and structurally. It is an oxygen carrying tetrameric protein that imparts the characteristic red color to blood. Each chain of hemoglobin harbors a heme group embedded in a hydrophobic pocket. Several studies have investigated structural variations present in mammalian hemoglobin and their functional implications. However, camel hemoglobin has not been thoroughly explored, especially from a structural perspective. Importantly, very little is known about how the heme group interacts with hemoglobin under varying conditions of osmolarity and temperature. Several experimental studies have indicated that the tense (T) state is more stable than the relaxed (R) state of hemoglobin under normal physiological conditions. Despite the fact that R state is less stable than the T state, no extensive structural dynamics studies have been performed to investigate global quaternary transitions of R state hemoglobin under normal physiological conditions. To evaluate this, several 500 ns all-atom molecular dynamics simulations were performed to get a deeper understanding of how camel hemoglobin behaves under stress, which it is normally exposed to, when compared to human hemoglobin. Notably, camel hemoglobin was more stable under physiological stress when compared to human hemoglobin. Additionally, when compared to camel hemoglobin, cofactor-binding regions of hemoglobin also exhibited more fluctuations in human hemoglobin under the conditions studied. Several differences were observed between the residues of camel and human hemoglobin that interacted with heme. Importantly, distal residues His58 of α hemoglobin and His63 of β hemoglobin formed more sustained interactions, especially at higher temperatures, in camel hemoglobin. These residues are important for oxygen binding to hemoglobin. Thus, this work provides insights into how camel and human hemoglobin differ in their interactions under stress.</p>
+          </abstract>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>United Arab Emirates University</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100006013</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">31S243</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Vijayan</surname>
+                  <given-names>Ranjit</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>123</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2022</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2022</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2021</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>16</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2021_Article_4112.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            Hemoglobin protein is abundantly present in red blood cells (RBCs) or erythrocytes. It is an oxygen carrying protein that gives the characteristic red color to blood. Adult vertebrate hemoglobin is composed of four protein chains, two α chains and two β chains. These paralogs were produced as a result of gene duplication
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . Structurally, hemoglobin chains retain the classic globin fold, which is shared by several proteins. Myoglobin, for example, a monomer, retains the same fold with just 25% sequence identity to hemoglobin.
+          </p>
+          <p id="Par3">
+            Each hemoglobin chain harbors a heme group in a hydrophobic pocket. A ferrous ion (Fe
+            <sup>2+</sup>
+            ) of the heme group associated with each hemoglobin chain acts as a cofactor for this tetrameric protein. The Fe
+            <sup>2+</sup>
+             ion is coordinated by four nitrogen atoms of the tetrapyrrole ring of heme. Oxygen (O
+            <sub>2</sub>
+            ) molecule is transported in blood by reversibly binding to these Fe
+            <sup>2+</sup>
+             ions. The hemoglobin binding pocket shields the Fe
+            <sup>2+</sup>
+             from the solvent. Additionally, the Fe
+            <sup>2+</sup>
+             ion is also coordinated by a fifth nitrogen atom belonging to a proximal histidine of the hemoglobin chain. Distal histidine residues (α:His58 and β:His63) are located further away from the Fe
+            <sup>2+</sup>
+             ion, and provide a void for oxygen binding. Studies have indicated that these distal histidine residues play a critical role in modulating the rate of oxygen binding as well as its affinity to hemoglobin
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . Additionally, the role of distal histidine in stabilizing the bound oxygen has also been reported
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . O
+            <sub>2</sub>
+             and carbon monoxide (CO) appear to enter hemoglobin subunits via these distal histidine gates. Therefore, it is vital for O
+            <sub>2</sub>
+             and CO to reach the active site through migration from solution to the protein. However, known protein structures have not shown the presence of channels for diffusion indicating that protein flexibility is required
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              , 
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              –
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            . The role of heme in human hemoglobin has been extensively explored in vitro
+            <italic>, </italic>
+            in vivo and in silico
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              ,
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . However, the stability of these binding interactions, a comparison of the dynamics of human and other mammalian hemoglobin, as well as its dynamics under stress have not been explored.
+          </p>
+          <p id="Par4">
+            Camels have unique characteristics that enable them to withstand harsh environmental stresses. Their body temperature could fluctuate between 34 and 41 °C within the day. Additionally, camels are capable of dealing with eight times more salt when compared to other closely related mammals without exhibiting any signs and symptoms of hypertension
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            . Camels have the exceptional ability to live without drinking water for a long period of time. These conditions, in combination, produces a severely dehydrated state in camels. Nearly all other mammals are incapable of withstanding such stress for any significant period of time. Importantly, severe dehydration and high temperature conditions are associated with decreased binding affinity of oxygen molecules
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . Interestingly, camel hemoglobin contains more charged amino acid residues and are more hydrophilic than the hemoglobin of other mammalian species
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            . The availability of a three-dimensional X-ray crystal structure of the camel hemoglobin molecule now permits structural comparisons of this molecule with that of several other well-studied species including humans, rats and mice
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            . The α and β chains of camel and human hemoglobin share a sequence identity of 85.51% and 84.35%, respectively (Fig. 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            ). Residues involved in the binding of heme and other ligands such as 2,3-bisphosphoglycerate (2,3-BPG) and adenosine triphosphate (ATP) are conserved in both camel and human hemoglobin. 2,3-BPG and ATP are two important co-factors, present abundantly in the erythrocytes, that bind to hemoglobin
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+            . These co-factors assist with the stabilization of the deoxyhemoglobin or tense (T) state of the hemoglobin and are important for unloading O
+            <sub>2</sub>
+             from hemoglobin in tissues
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR15">15</xref>
+            </sup>
+            .
+            <fig id="Fig1" position="float">
+              <label>Figure 1</label>
+              <caption xml:lang="en">
+                <p>
+                  Comparison of camel and human hemoglobin. Sequences were retrieved from UniProt (
+                  <ext-link ns0:href="https://www.uniprot.org" ext-link-type="uri">https://www.uniprot.org</ext-link>
+                  ) with accession numbers P69905 (human hemoglobin α subunit), P68871 (human hemoglobin β subunit), P63106 (camel hemoglobin α subunit) and P68231 (camel hemoglobin β subunit), and aligned using Geneious 9.1.2 (
+                  <ext-link ns0:href="https://www.geneious.com" ext-link-type="uri">https://www.geneious.com</ext-link>
+                  ). (
+                  <bold>A</bold>
+                  ) Sequence alignment of α subunit of camel and human hemoglobin. (
+                  <bold>B</bold>
+                  ) Structure of α subunit of camel hemoglobin (PDB ID: 3GDJ). C) Sequence alignment of β subunit of camel and human hemoglobin. D) Structure of β subunit of camel hemoglobin (PDB ID: 3GDJ). Conserved residues are shown in green. Critical  residues of hemoglobin that interact with heme and 2,3-bisphosphoglycerate (2,3-BPG) are shown in green stick representation. Image B and D were generated using Schrödinger Maestro 2019–4 (Schrödinger, LLC, New York, NY).
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig1_HTML.png" id="MO1"/>
+            </fig>
+          </p>
+          <p id="Par5">
+            Indeed, hemoglobin is one of the most well-characterized and widely studied proteins genetically, biochemically, and structurally. Structural and genetic variations among mammalian hemoglobins have been evaluated
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . However, camel hemoglobin has not been extensively explored. Only a few physiological and biochemical studies have been performed on camel hemoglobin
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            . Very little is known about its structure and dynamics. Therefore, a comparative study, principally focused on structural aspects of camel hemoglobin, was undertaken to provide insights into how camel hemoglobin behaves under varying conditions of osmolarity and temperature that it is normally susceptible to. Human hemoglobin was also subjected to equivalent conditions for comparison.
+          </p>
+          <p id="Par6">
+            Hemoglobin exists in two important structural states known as the deoxy structure (T or tense) and the oxy structure (R or relaxed). Normally, the T state is stable when a ligand is not bound to the heme–iron, whereas R state is stable when ligands are bound to the heme groups. Molecular dynamics (MD) simulation is a method for probing dynamics and energetics of atoms and molecules with reasonable precision. This, often, complements and assists biological studies. Several promising results have been reported on a variety of biological system
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              , 
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              , 
+              <xref ref-type="bibr" rid="CR21">21</xref>
+              –
+              <xref ref-type="bibr" rid="CR22">22</xref>
+            </sup>
+            . All-atom MD simulations have been used to understand the dynamics of T and R states of hemoglobin using different force fields and simulation conditions in the past
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+              ,
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . While recent studies have demonstrated that a large simulation box size is needed to stabilize the T state of hemoglobin
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              , 
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              , 
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              –
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            , the R state has been observed to be stable for long periods of simulation time in smaller simulation boxes
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            . Time-resolved spectroscopic techniques have shown that R → T quaternary transition typically occurs over a period of 21 µs
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+            . Despite the fact that R state hemoglobin is less stable than the T state hemoglobin, no extended MD simulations have been performed to study quaternary transitions of this state.
+          </p>
+          <p id="Par7">Considering the inherent ability of camel to withstand severe dehydrated conditions compared to other species, we evaluate the effect of different stresses on hemoglobin. We also probe the R state dynamics of both camel and human hemoglobin, in terms of interaction stability of heme molecule with critical residues of hemoglobin, under physiologically normal and induced salt and thermal stress.</p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <p id="Par8">
+            Three-dimensional X-ray crystal structures of camel and human hemoglobin were obtained from the Protein Data Bank (PDB; 
+            <ext-link ns0:href="https://www.rcsb.org" ext-link-type="uri">https://www.rcsb.org</ext-link>
+            ). The PDB IDs of the structures used are 1BBB (R2 state)
+            <sup>
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+             for human hemoglobin and 3GDJ (likely R2 as there is no accompanying publication) for camel hemoglobin. The structures were visualized and prepared for simulations using Schrödinger Maestro 2019-4 (Schrödinger, LLC, New York, NY). Structures were pre-processed using the Protein Preparation Wizard (Schrödinger, LLC, New York, NY) to assign partial charges and to complete missing atoms and side chains. The terminal histidines (His146) of β chains were doubly protonated while the protonation states of remaining histidines were kept as described in previous studies
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+              ,
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              ,
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+             (Supplementary Table 
+            <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+            ). Heme Fe
+            <sup>2+</sup>
+             ligands were retained during protein preparation. Structures of camel and human hemoglobin were placed in orthorhombic boxes of size 100 Å × 100 Å × 100 Å and/or 150 Å × 150 Å × 150 Å and solvated with single point charge (SPC) water molecules using the Desmond System Builder (Schrödinger, LLC, New York, NY). Counterions were added to neutralize the prepared systems. Systems were prepared with different concentrations—0 mM, 150 mM, 300 mM, and 600 mM—of NaCl at 27 °C. For evaluating the effect of temperature, simulations were run at 27 °C, 30 °C, 34 °C and 41 °C while maintaining a NaCl concentration of 150 mM. Thus, 14 different systems were prepared (Table 
+            <xref rid="Tab1" ref-type="table">1</xref>
+            ). Desmond was used to perform MD simulations
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            . Molecules and their interactions were described using the OPLS forcefield. Before the production runs, all systems were subjected to Desmond’s default eight stage relaxation protocol. 100 Å box size systems were simulated for a duration of 500 ns, while 150 Å box size systems were simulated for 200 ns. A pressure of 1 atm was maintained using the Martyna–Tobias–Klein barostat
+            <sup>
+              <xref ref-type="bibr" rid="CR33">33</xref>
+            </sup>
+             and a constant temperature was maintained using the Nosé–Hoover thermostat
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            . For electrostatic interactions, a short-range cutoff of 9.0 Å was used and the smooth particle mesh Ewald method (PME) was employed for computing long-range coulombic interactions
+            <sup>
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+            . A time-reversible reference system propagator algorithm (RESPA) integrator was used with an inner time step of 2.0 fs and an outer time step of 6.0 fs
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            . Simulation data was analyzed using various packaged and in-house scripts. Secondary structure of the proteins was monitored, structural stability was evaluated based on root mean square deviation (RMSD) from the initial structure, and positional fluctuations were assessed using root mean square fluctuation (RMSF) of each protein residue. Molecular mechanics—generalized Born surface area (MM-GBSA) method was employed to compute the free energy of binding (ΔG
+            <sub>bind</sub>
+            ) of heme to camel and human hemoglobin using frames extracted from MD simulation trajectories. From each simulation, frames were retrieved every 100 ns and MM-GBSA based ΔG
+            <sub>bind</sub>
+             was estimated using Schrödinger Prime employing the VSGB 2.0 solvation model
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            .
+            <table-wrap id="Tab1">
+              <label>Table 1</label>
+              <caption xml:lang="en">
+                <p>Temperature and salt conditions used for MD simulations of camel and human hemoglobin.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left">
+                      <p>Organism (PDB ID)</p>
+                    </th>
+                    <th align="left">
+                      <p>Temperature (°C)</p>
+                    </th>
+                    <th align="left">
+                      <p>Salt concentration (mM)</p>
+                    </th>
+                    <th align="left">
+                      <p>Box size</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" rowspan="7">
+                      <p>Human (1BBB)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>300</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>600</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å and 150 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>30</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å and 150 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>34</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>41</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="7">
+                      <p>Camel (3GDJ)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>300</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>600</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å and 150 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>30</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å and 150 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>34</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td char="." align="char">
+                      <p>41</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>150</p>
+                    </td>
+                    <td align="left">
+                      <p>100 Å</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </p>
+        </sec>
+        <sec id="Sec3" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec4">
+            <title>Evaluation of R → T transition at different salt and temperature conditions</title>
+            <p id="Par9">
+              Very few MD simulation studies have been performed to evaluate R → T transition of human hemoglobin using standard physiological conditions for shorter period of time
+              <sup>
+                <xref ref-type="bibr" rid="CR23">23</xref>
+                ,
+                <xref ref-type="bibr" rid="CR24">24</xref>
+              </sup>
+              . To investigate the role of different physiological conditions on R → T transition and/or stability of the R state of camel and human hemoglobin, we performed 500 ns simulations at different dehydrated conditions in a 100 Å box size. As a test case, a few simulations in 150 Å boxes were also carried out for 200 ns to determine the effect of box size on the stability of the R state. The terminal histidine residues (His146) of β subunits were doubly protonated in all simulations, which play an important role in the Perutz model
+              <sup>
+                <xref ref-type="bibr" rid="CR38">38</xref>
+              </sup>
+              . The C
+              <sub>α</sub>
+               His146
+              <sub>β1</sub>
+              –His146
+              <sub>β2</sub>
+               distance is an important indicator to identify T → R and R → T transitions. Here, R → T transitions were not observed in any of the simulations (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+               and Supplementary Figures 
+              <xref ref-type="supplementary-material" rid="MOESM1">S5</xref>
+              , 
+              <xref ref-type="supplementary-material" rid="MOESM1">S6</xref>
+              , 
+              <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+              , 
+              <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+              ). Since no transition was observed in a 100 Å box simulations and structures were found to be stable throughout the simulations, only selected conditions (600 mM and 30 °C), where 100 Å box size was assumed to have some effect on R state stability, were simulated in a 150 Å box for 200 ns to study the impact, if any. No significant difference was observed in simulation runs that were performed either at 100 Å and/or 150 Å box size. However, it is important to note that a potential R2 → R4 transition was observed in camel hemoglobin at very high salt concentration (600 mM). Interestingly, this trend was observed in both 100 Å and 150 Å box size simulations (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ). Overall, our results indicate that the R state of camel and human hemoglobin was stable throughout the simulation runs in both 100 Å and 150 Å boxes. Moreover, structures obtained at the end of 500 ns simulations, were extracted and superposed on the crystal structure that is more similar. The R structure (PDB ID: 1BBB) and T structure (PDB ID: 2DN2) for human Hb, and R structure (PDB ID: 3GDJ) for camel Hb, were used for the comparison (Table 
+              <xref rid="Tab2" ref-type="table">2</xref>
+               and Supplementary Figures 
+              <xref ref-type="supplementary-material" rid="MOESM1">S5</xref>
+              , 
+              <xref ref-type="supplementary-material" rid="MOESM1">S6</xref>
+              , 
+              <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+              , 
+              <xref ref-type="supplementary-material" rid="MOESM1">S8</xref>
+              ). Results indicated that all simulated structures were close to their relaxed states.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    The effect of different simulated conditions on structural changes. (
+                    <bold>A</bold>
+                    ) Distance between Cα atoms of β subunit terminal histidines (His146) of camel hemoglobin at different salt conditions; (
+                    <bold>B</bold>
+                    ) distance between Cα atoms of β subunit terminal histidines (His146) of human hemoglobin at different salt conditions; (
+                    <bold>C</bold>
+                    ) distance between Cα atoms of β subunit terminal histidines (His146) of camel hemoglobin at different temperature conditions; (
+                    <bold>D</bold>
+                    ) distance between Cα atoms of β subunit terminal histidines (His146) of human hemoglobin at different temperature conditions. Graphs were plotted using R version 4.0.5 (
+                    <ext-link ns0:href="https://www.r-project.org" ext-link-type="uri">https://www.r-project.org</ext-link>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig2_HTML.png" id="MO2"/>
+              </fig>
+              <table-wrap id="Tab2">
+                <label>Table 2</label>
+                <caption xml:lang="en">
+                  <p>Cα RMSD (in Å) of the last frame of the MD simulation (at 500 ns) compared to 1BBB, 2DN2 and 3GDJ X-ray crystal structures.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Organism</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th align="left">
+                        <p>Structure</p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          C
+                          <sub>α</sub>
+                           RMSD (Å) compared to 1BBB (R)
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          C
+                          <sub>α</sub>
+                           RMSD (Å) compared to 2DN2 (T)
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          C
+                          <sub>α</sub>
+                           RMSD (Å) compared to 3GDJ (R)
+                        </p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>2DN2</p>
+                      </td>
+                      <td align="left">
+                        <p>3.33</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>3.33</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—0 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.85</p>
+                      </td>
+                      <td align="left">
+                        <p>4.82</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—150 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>2.03</p>
+                      </td>
+                      <td align="left">
+                        <p>4.87</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—300 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.38</p>
+                      </td>
+                      <td align="left">
+                        <p>3.90</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—600 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.54</p>
+                      </td>
+                      <td align="left">
+                        <p>4.06</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—600 mM (150 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.70</p>
+                      </td>
+                      <td align="left">
+                        <p>3.88</p>
+                      </td>
+                      <td align="left"/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—27 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>2.03</p>
+                      </td>
+                      <td align="left">
+                        <p>4.87</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—30 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.94</p>
+                      </td>
+                      <td align="left">
+                        <p>4.66</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—30 °C (150 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.99</p>
+                      </td>
+                      <td align="left">
+                        <p>4.96</p>
+                      </td>
+                      <td align="left"/>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—34 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.83</p>
+                      </td>
+                      <td align="left">
+                        <p>4.65</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>1BBB—41 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>1.88</p>
+                      </td>
+                      <td align="left">
+                        <p>4.64</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—0 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.66</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—150 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.52</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—300 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.60</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—600 mM (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.73</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—600 mM (150 Å box)</p>
+                      </td>
+                      <td align="left"/>
+                      <td align="left"/>
+                      <td align="left">
+                        <p>1.69</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—27 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.52</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—30 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.64</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—30 °C (150 Å box)</p>
+                      </td>
+                      <td align="left"/>
+                      <td align="left"/>
+                      <td align="left">
+                        <p>1.61</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—34 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.49</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3GDJ—41 °C (100 Å box)</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>–</p>
+                      </td>
+                      <td align="left">
+                        <p>1.82</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Comparison of camel and human hemoglobin at different salt concentrations</title>
+            <p id="Par10">Since no major state transition was observed in 100 Å and 150 Å boxes and the structures were observed to be stable throughout the simulations in 100 Å boxes, these simulations were further extended up to 500 ns for further analysis.</p>
+            <p id="Par11">
+              Backbone RMSD of hemoglobin protein was computed and plotted for all systems (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              ). Camel hemoglobin RMSD was under 2.0 Å for all salt concentrations except for 300 mM. All systems reached equilibrium after a few nanoseconds (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              A). The average calculated RMSD values for camel hemoglobin were 1.85 Å, 1.88 Å, 2.15 Å and 1.91 Å for the salt concentration of 0 mM, 150 mM, 300 mM and 600 mM, respectively. Notably, human hemoglobin showed higher RMSD values at all salt concentration (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              B). All systems stabilized under 2.5 Å. The average RMSD values of human hemoglobin were 2.41 Å, 2.31 Å, 2.24 Å, and 2.43 Å for the salt concentrations of 0 mM, 150 mM, 300 mM and 600 mM, respectively. Additionally, all human hemoglobin systems required slightly more time to reach equilibrium. This suggests that camel hemoglobin structure remained more stable at different salt concentrations, compared to human hemoglobin.
+              <fig id="Fig3" position="float">
+                <label>Figure 3</label>
+                <caption xml:lang="en">
+                  <p>
+                    Root mean square standard deviation (RMSD) and root mean square fluctuation (RMSF) from 500 ns runs of camel and human hemoglobin simulation at different salt conditions. (
+                    <bold>A</bold>
+                    ) RMSD of camel hemoglobin backbone atoms; (
+                    <bold>B</bold>
+                    ) RMSD of human hemoglobin backbone atoms; (
+                    <bold>C</bold>
+                    ) RMSF of camel hemoglobin Cα atoms and, (
+                    <bold>D</bold>
+                    ) RMSF of human hemoglobin Cα atoms. The residue number used in the RMSF plots uses a sequential combination of α1(1–141), β1(142–287), α2 (288–428), and β2 (429–574) based on the PDB structure. Graphs were plotted using R version 4.0.5 (
+                    <ext-link ns0:href="https://www.r-project.org" ext-link-type="uri">https://www.r-project.org</ext-link>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig3_HTML.png" id="MO3"/>
+              </fig>
+            </p>
+            <p id="Par12">
+              To evaluate and compare residue-level flexibility of camel and human hemoglobin at various salt concentrations, the RMSF of protein Cα atoms were calculated and plotted. The RMSF of the camel hemoglobin structure exhibited a similar pattern of fluctuations at different salt concentrations and high peaks were observed in loop and turn regions (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C). The residue numbering used in RMSF plots of hemoglobin shows the sequential combination of residues from the four chains (α1, β1, α2, and β2) in the structure. Importantly, camel hemoglobin residues α1:43–53 showed more fluctuations at 0 mM salt concentration. α2:46–55 (represented by residues 333–342 in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C) showed high fluctuations at higher salt concentrations. β1:47–53 exhibited more fluctuations at only 150 mM and 300 mM. However, the same region of β2 showed higher fluctuations at 150 mM and 600 mM. The residue His58 and His87 of α subunits and His63 and His92 of β subunits showed limited fluctuations at all salt concentrations (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C). His87 and His92 of α and β subunits, respectively, are essential for the binding heme, while His58 and His63 of α and β subunits, respectively, play an important role in stabilizing the bound oxygen.
+            </p>
+            <p id="Par13">
+              Human hemoglobin residues exhibited more fluctuations compared to camel hemoglobin at all salt concentrations (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              D). Loop region residues 44–52, and 70–77 of α1 subunit exhibited more fluctuations particularly at 300 mM and 600 mM. Helical residues 78–91 of α1 subunit also showed higher fluctuations at higher salt concentrations. Interestingly, the same helical residues of camel α1 subunit demonstrated extremely low fluctuations at all salt concentrations (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C, D). However, such fluctuations were not observed in the same residues of both camel and human α2 subunits. Residues 136–141 of α1 and α2 (333–342 in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              D) of human hemoglobin exhibited higher fluctuations at lower (0 mM) and higher salt concentrations, especially at 300 mM. However, the same residues in camel hemoglobin demonstrated very limited variations at all salt concentrations except for Lys139 of α2. Residues 1–20 of β1 (142–161 in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              D) and β2 (428–448 in Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              D) subunits of human hemoglobin showed limited fluctuations at different salt concentrations when compared to camel hemoglobin (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C, D). Loop residues 45–62 (187–201 in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C) of β1 subunit of human hemoglobin exhibited higher variations at all salt concentrations especially at 300 mM and 600 mM, compared to camel β1 subunit. However, such a trend was observed in 44–58 residues (473–486 in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              D) of β2 subunit of human hemoglobin at 300 mM. The same residues in camel hemoglobin showed more fluctuations at higher salt concentrations (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C, D). Human hemoglobin loop residues 86–98 of β1demonstrated higher fluctuations in human hemoglobin, compared to camel hemoglobin at all salt concentrations. However, such a trend was not observed in these residues of β2 subunit. Lys82 of both β1 and β2 chains are essential for binding of 2,3-BPG and ATP
+              <sup>
+                <xref ref-type="bibr" rid="CR14">14</xref>
+              </sup>
+              . These energy rich molecules interact with hemoglobin and substantially decreases its affinity for oxygen
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+              </sup>
+              . His87 and His92 are the critical residues of α and β subunits that are part of the binding site for heme. Notably, these residues fluctuated more in human hemoglobin at all salt concentrations. Residues 141–146 of β1 and β2 chains of human hemoglobin exhibited higher fluctuations particularly at higher salt concentrations. However, camel hemoglobin demonstrated limited movement at all salt concentrations (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C, D). His143 and His146 of β1 and β2 chains are also important for the binding of 2,3-BPG and ATP
+              <sup>
+                <xref ref-type="bibr" rid="CR39">39</xref>
+              </sup>
+              . Overall, human hemoglobin showed higher fluctuations at all salt concentrations, compared to camel hemoglobin.
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>Comparison of camel and human hemoglobin at different temperature conditions</title>
+            <p id="Par14">
+              Camel and human hemoglobin proteins were simulated for 500 ns at four different temperature conditions (27 °C, 30 °C, 34 °C, and 41 °C). RMSD of backbone atoms of camel and human hemoglobin are provided in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              . RMSD of camel hemoglobin with respect to the initial structure stabilized under 2.0 Å in all the simulations except for 30 °C. Thus, camel hemoglobin structure demonstrably remained stable from the lowest to the highest temperature considered here. The average RMSD values were 1.88 Å, 2.35 Å, 1.91 Å and 1.94 Å for the temperatures 27 °C, 30 °C, 34 °C and 41 °C, respectively. Camel hemoglobin structure equilibrated within the initial few nanoseconds of all simulation (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              A). In comparison to camel hemoglobin, human hemoglobin took longer time to reach equilibrium at all temperatures considered (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              B). The RMSD stabilized under 3.0 Å in all simulations which was higher when compared to camel hemoglobin (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              A, B). The average RMSD values were 2.36 Å, 2.76 Å, 2.56 Å and 2.65 Å for the temperatures 27 °C, 30 °C, 34 °C and 41 °C, respectively.
+              <fig id="Fig4" position="float">
+                <label>Figure 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    Root mean square standard deviation (RMSD) and root mean square fluctuation (RMSF) from 500 ns runs of camel and human hemoglobin simulation at different temperature conditions. (
+                    <bold>A</bold>
+                    ) RMSD of camel hemoglobin backbone atoms; (
+                    <bold>B</bold>
+                    ) RMSD of human hemoglobin backbone atoms; (
+                    <bold>C</bold>
+                    ) RMSF of camel hemoglobin Cα atoms and, (
+                    <bold>D</bold>
+                    ) RMSF of human hemoglobin Cα atoms. The residue number used in the RMSF plots uses a sequential combination of α1 (1–141), β1 (142–287), α2 (288–428), and β2 (429–574) based on the PDB structure. Graphs were plotted using R version 4.0.5 (
+                    <ext-link ns0:href="https://www.r-project.org" ext-link-type="uri">https://www.r-project.org</ext-link>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig4_HTML.png" id="MO4"/>
+              </fig>
+            </p>
+            <p id="Par15">
+              To evaluate and compare residue-level flexibility of camel and human hemoglobin at various temperatures, the RMSF of protein Cα atoms were calculated and plotted. Camel hemoglobin structure exhibited more fluctuations at higher temperature conditions, especially residues 44–52 of α1 and α2 (332–339 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) subunits, compared to other residues (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C). The β1 helical residues 1–7 (142–149 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) demonstrated higher fluctuations at higher temperature conditions, especially at 41 °C. Contrastingly, the same residues of β2 subunits showed more fluctuations at lower temperature conditions. Loop residues 44–54 of β1 (186–195 in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              C) and β2 (473–482 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) showed higher fluctuations at 27 °C and 30 °C. Loop residues 72–82 (213–223 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) of β1 exhibited higher fluctuations at only 34 °C and 41 °C. The same residues of β2 exhibited more fluctuations at 30 °C. The helical residues 2–7 (290–295 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) and loop residues 15–19 (302–306 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) of α2 showed higher fluctuations at 34 °C and 41 °C, respectively. However, the same residues of α1 subunit exhibited limited fluctuations at all temperature conditions. His87 of α subunits and His92 of β subunits fluctuated more at higher temperatures. These residues are essential for the binding of heme. Importantly, conserved residues α1:Phe43 and α1:Phe46 fluctuated more at higher temperature conditions (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C). These functional residues are present in the heme pocket, distal to heme, where oxygen binds
+              <sup>
+                <xref ref-type="bibr" rid="CR40">40</xref>
+              </sup>
+              . Additionally, conserved residues of α1—Leu86 and Leu91 also exhibited higher fluctuations at higher temperatures (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C). These residues are part of the proximal heme pocket residues
+              <sup>
+                <xref ref-type="bibr" rid="CR41">41</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par16">
+              The helical residues 1–10 and loop residues 11–17 of α1 of human hemoglobin showed slightly lower fluctuations at higher temperature conditions when compared to camel hemoglobin (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              D). The loop region residues 41–53 of α1 and α2 (328–338 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              D) of human Hb showed lower fluctuations at different temperature conditions, compared to camel hemoglobin (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C, D). However, the β1 subunit residues (185–194 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              D) of human Hb exhibited higher fluctuations at higher temperature conditions, compared to camel Hb. Loop residues 44–53 of β1 of human hemoglobin exhibited lower fluctuations at lower temperature conditions, compared to camel hemoglobin. Loop residues 80–95 of human β1 (221–236 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              D) and β2 (508–523 in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              D) exhibited higher fluctuations at higher temperature conditions compared to camel hemoglobin. Overall, in comparison to camel hemoglobin, human hemoglobin showed more fluctuations at the different temperature conditions considered here.
+            </p>
+          </sec>
+          <sec id="Sec7">
+            <title>Comparison of protein-heme interactions in camel and human hemoglobin</title>
+            <p id="Par17">
+              MD simulation data illustrated the formation, breakage, and reformation of several intermolecular contacts during the simulations. Some of these contacts were more stable than others. The residues of camel and human hemoglobin that formed consistent interactions with heme are shown in Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+               and the duration of specific intermolecular contacts between residues of camel/human hemoglobin and heme, and the dynamics of the salient ones along the length of the simulation trajectories are provided in Supplementary Tables 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+               and 
+              <xref ref-type="supplementary-material" rid="MOESM1">S3</xref>
+              .
+              <fig id="Fig5" position="float">
+                <label>Figure 5</label>
+                <caption xml:lang="en">
+                  <p>Structures of camel hemoglobin bound to heme. Protein backbone is shown in line representation and hemoglobin subunits are colored differently—α1 (blue), α2 (green), β1 (brown), and β2 (pink). Heme is shown in green stick representation and residues it interacts with are represented in orange stick representation. Image was rendered using Schrödinger Maestro 2019-4 (Schrödinger, LLC, New York, NY).</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig5_HTML.png" id="MO5"/>
+              </fig>
+            </p>
+            <p id="Par18">
+              His87 and His92 of hemoglobin α and β chains, respectively, interact with heme molecule. These residues consistently interacted with heme in both human and camel hemoglobin at all studied temperature and salt conditions (Figs. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              , 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              ). α1:Phe43 residue of human hemoglobin showed sustained interactions with heme at lower salt and temperature conditions when compared to stressed conditions. However, the equivalent residue in camel hemoglobin formed consistent interactions with heme at all studied conditions. Additionally, camel α1:Phe43 interacted more stably with heme at higher temperature conditions when compared to the human structure. During various salt concentration simulations, human α1:Phe43 showed more sustained interaction with heme, compared to camel (Fig. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              ). Importantly, camel α2:Phe43 bound more stably with heme in all simulations. Such a consistent binding pattern was not observed in the equivalent residue in human simulations. The interaction of Phe43 with heme is important in anchoring the heme in its binding pocket
+              <sup>
+                <xref ref-type="bibr" rid="CR41">41</xref>
+              </sup>
+              . However, it is not known if it has any significance in modulating oxygen binding to hemoglobin.
+              <fig id="Fig6" position="float">
+                <label>Figure 6</label>
+                <caption xml:lang="en">
+                  <p>
+                    Percentage of simulation time during which human and camel hemoglobin residues maintained contact with heme. (
+                    <bold>A</bold>
+                    ) Interaction between human hemoglobin and heme molecule at different salt concentrations. (
+                    <bold>B</bold>
+                    ) Interaction between camel hemoglobin and heme molecule at different salt concentrations. Graphs were plotted using R version 4.0.5 (
+                    <ext-link ns0:href="https://www.r-project.org" ext-link-type="uri">https://www.r-project.org</ext-link>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig6_HTML.png" id="MO6"/>
+              </fig>
+              <fig id="Fig7" position="float">
+                <label>Figure 7</label>
+                <caption xml:lang="en">
+                  <p>
+                    Percentage of simulation time during which human and camel hemoglobin residues maintained contact with heme. (
+                    <bold>A</bold>
+                    ) Interaction between human hemoglobin and heme molecule at different temperatures. (
+                    <bold>B</bold>
+                    ) Interaction between camel hemoglobin and heme molecule at different temperatures. Graphs were plotted using R version 4.0.5 (
+                    <ext-link ns0:href="https://www.r-project.org" ext-link-type="uri">https://www.r-project.org</ext-link>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2021_4112_Fig7_HTML.png" id="MO7"/>
+              </fig>
+            </p>
+            <p id="Par19">
+              Leu91, a conserved residue of α1 chain of human and camel hemoglobin, interacted intermittently with heme in all simulations. Additionally, α1:Leu86 did not form a stable interaction with heme in both camel and human simulations. Leu86 of α1 is part of the proximal heme pocket residues and has been reported to interact with heme
+              <sup>
+                <xref ref-type="bibr" rid="CR40">40</xref>
+              </sup>
+              . Instead of Leu86, Leu83 residue of α1 chain showed intermittent interaction with heme during all simulations. Apart from these residues, His58 and Lys61 of α chains in both camel and human hemoglobin interacted consistently with heme throughout the simulation at all temperature and salt conditions (Figs. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              , 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              ). Leu101 and Leu136 of α subunits formed comparable intermittent interactions with heme in both camel and human hemoglobin at all studied conditions. Notably, Phe98 of camel α subunits formed sustained interaction with heme in all simulations when compared to human hemoglobin (Figs. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              , 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              ). Phe98 is important for anchoring heme inside its binding pocket
+              <sup>
+                <xref ref-type="bibr" rid="CR41">41</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par20">
+              Among other interacting residues of β chains, Leu106 of camel hemoglobin bound stably with heme in all simulations when compared to the human structure. Importantly, such interactions were observed to be more sustained at lower salt and temperature conditions when compared to higher dehydrated conditions (Figs. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              , 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              ). Leu141 formed a consistent interaction with heme in all simulation runs. However, such an interaction was observed to be more stable in camel hemoglobin, especially at higher temperature and salt conditions when compared to human. Leu96 of β1 and β2 chains exhibited different binding behavior with heme. This interaction was found to be more sustained in camel hemoglobin, particularly with its β1 chain at different salt and temperature conditions when compared to human hemoglobin. Lys66 residue of β subunits consistently interacted with heme in all simulations. Heme exhibited different binding behavior with Phe42 residue of β chains. This interaction, especially with β1 chain, was stable in camel, particularly at higher salt and temperature conditions, when compared to human (Figs. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              , 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              ).
+            </p>
+            <p id="Par21">
+              To look at the energetics of binding, ΔG
+              <sub>bind</sub>
+               for heme binding to human and camel hemoglobin was calculated using the MM-GBSA method using frames extracted every 100 ns from MD simulations. The heme bound to α1 subunits of camel hemoglobin showed slightly better ΔG
+              <sub>bind</sub>
+               at higher salt conditions when compared to human hemoglobin, while heme bound to α2 subunits of human hemoglobin exhibited slightly better ΔG
+              <sub>bind</sub>
+               at all salt concentrations. However, heme bound β subunits of camel hemoglobin showed better ΔG
+              <sub>bind</sub>
+               at all salt conditions but 0 mM when compared to human hemoglobin (Table 
+              <xref rid="Tab3" ref-type="table">3</xref>
+              ). At different temperature conditions, both α and β bound subunits of camel hemoglobin demonstrated better ΔG
+              <sub>bind</sub>
+               in all simulations (Table 
+              <xref rid="Tab4" ref-type="table">4</xref>
+              ).
+              <table-wrap id="Tab3">
+                <label>Table 3</label>
+                <caption xml:lang="en">
+                  <p>Estimated MM-GBSA based binding free energy (in kcal/mol) of heme binding to camel and human hemoglobin at different salt conditions.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left" rowspan="2">
+                        <p>Hemoglobin subunit</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>0 mM</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>150 mM</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>300 mM</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>600 mM</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>α1</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 126.76 ± 9.86</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.32 ± 5.30</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 130.37 ± 8.94</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 132.34 ± 4.38</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 131.21 ± 8.06</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.71 ± 3.47</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 137.22 ± 8.79</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 130.55 ± 7.60</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>α2</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 132.46 ± 7.27</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 134.85 ± 7.84</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.77 ± 4.21</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 130.94 ± 5.89</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 126.45 ± 5.48</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 133.11 ± 6.12</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 131.25 ± 5.42</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 131.27 ± 6.02</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>β1</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 133.96 ± 6.53</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.68 ± 8.52</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 133.73 ± 6.91</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 124.26 ± 12.04</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 125.17 ± 3.49</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 124.58 ± 7.87</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 135.18 ± 9.23</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 127.13 ± 10.01</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>β2</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 119.44 ± 10.01</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.52 ± 4.55</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.25 ± 9.35</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 122.34 ± 3.78</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 133.93 ± 3.52</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.66 ± 7.27</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 134.56 ± 5.22</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 126.77 ± 6.00</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+              <table-wrap id="Tab4">
+                <label>Table 4</label>
+                <caption xml:lang="en">
+                  <p>Estimated MM-GBSA based binding free energy (in kcal/mol) of heme binding to camel and human hemoglobin at different temperature conditions.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left" rowspan="2">
+                        <p>Hemoglobin subunit</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>27 °C</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>30 °C</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>34 °C</p>
+                      </th>
+                      <th align="left" colspan="2">
+                        <p>41 °C</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                      <th align="left">
+                        <p>Camel</p>
+                      </th>
+                      <th align="left">
+                        <p>Human</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>α1</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 130.37 ± 8.94</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 132.34 ± 4.38</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 132.58 ± 8.06</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.35 ± 3.03</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 131.59 ± 5.76</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.56 ± 7.56</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 131.24 ± 8.63</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.04 ± 4.03</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>α2</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.77 ± 4.21</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 130.94 ± 5.89</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 133.83 ± 8.53</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.88 ± 6.80</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.92 ± 8.84</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 125.61 ± 6.80</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 132.33 ± 10.51</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.08 ± 1.28</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>β1</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 133.73 ± 6.91</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 124.26 ± 12.04</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 129.16 ± 6.57</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 125.01 ± 2.51</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 127.81 ± 3.98</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 123.16 ± 8.95</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 124.86 ± 1.83</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 118.72 ± 14.09</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>β2</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.25 ± 9.35</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 122.34 ± 3.78</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.67 ± 4.70</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 127.71 ± 6.47</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 131.21 ± 9.40</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 124.97 ± 12.01</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 128.57 ± 7.81</p>
+                      </td>
+                      <td char="±" align="char">
+                        <p>− 123.81 ± 7.94</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec8" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par22">This study provides insights into the stability of camel and human hemoglobin under various temperature and salt conditions, along with its interactions with heme. Several long 500 ns MD simulations were performed to assess this. No R → T transition was observed at studied conditions but camel hemoglobin exhibited a possible R2 → R4-like transition at 600 mM only. Overall, these simulations, at normal and stressed conditions, indicated that camel hemoglobin structures remained more stable when compared to human hemoglobin. Additionally, in camel hemoglobin, critical regions important for the binding of heme, and energy rich molecules such as 2,3-BPG and ATP demonstrated limited fluctuations in the conditions studied.</p>
+          <p id="Par23">
+            Generally, mammalian erythrocytes are highly sensitive to osmotic fragility with the notable exception of camels
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              ,
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+            . Camel RBCs are extremely resistant to osmotic fragility and are inherently adapted to endure sudden fluctuations in blood osmolarity without affecting function
+            <sup>
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            . In order to measure the changes resulting from different salt concentrations, MD simulations were performed, since no prior attempt has been made to look at the residue level fluctuations of the camel protein. Indeed, the simulations reflect fluctuations being affected by different salt concentrations (Fig. 
+            <xref rid="Fig2" ref-type="fig">2</xref>
+            C, D). Protein function is dependent on the fluctuations of the macromolecule
+            <sup>
+              <xref ref-type="bibr" rid="CR44">44</xref>
+              ,
+              <xref ref-type="bibr" rid="CR45">45</xref>
+            </sup>
+            . Here, simulations, under different salt concentrations, demonstrated fluctuations of important regions essential for oxygen binding (Fig. 
+            <xref rid="Fig2" ref-type="fig">2</xref>
+            ). Interestingly, higher fluctuations were observed in residues near the heme binding sites in each subunit of human hemoglobin at higher temperature and salt conditions, compared to camel hemoglobin. Importantly, His87 of α subunits and His92 of β subunits demonstrated more fluctuations in human hemoglobin at higher salt concentrations when compared to camel hemoglobin. These residues are essential for the binding of heme groups that bind oxygen. Additionally, conserved residues α1:Phe43 and α1:Phe46 showed higher fluctuations in human hemoglobin at higher salt conditions (Fig. 
+            <xref rid="Fig2" ref-type="fig">2</xref>
+            ). These residues are present in the heme pocket distal to heme where oxygen binds
+            <sup>
+              <xref ref-type="bibr" rid="CR40">40</xref>
+            </sup>
+            . Similarly, conserved α1 residues Leu86 and Leu91 also exhibited higher fluctuations in human hemoglobin when salt concentration was increased. These residues are part of the proximal heme pocket residues
+            <sup>
+              <xref ref-type="bibr" rid="CR40">40</xref>
+            </sup>
+            . Interestingly, in comparison to human hemoglobin, camel hemoglobin demonstrated lower fluctuations at all salt concentrations. Similarly, when different temperature conditions were used camel hemoglobin showed lower fluctuations at higher temperatures especially in the regions important for the binding of heme when compared to human hemoglobin (Fig. 
+            <xref rid="Fig3" ref-type="fig">3</xref>
+            C, D). Therefore, these observations may support the stability and function of camel hemoglobin under stress.
+          </p>
+          <p id="Par24">
+            Studies have indicated the importance of the distal histidine residues α:His58 and β:His63 in the binding of heme. They also play a key role in regulating the rate and affinity of oxygen binding to human hemoglobin
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . These residues axially coordinate heme iron and such interactions are essential for stabilizing the oxygen molecule bound to the heme iron
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+              ,
+              <xref ref-type="bibr" rid="CR46">46</xref>
+            </sup>
+            . Here, β:His63 of camel hemoglobin bound more stably with heme group in all simulations when compared to human hemoglobin (Figs. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+             and 
+            <xref rid="Fig6" ref-type="fig">6</xref>
+            ). This suggests that such sustained interactions could likely help camel hemoglobin to stably bind oxygen unlike human hemoglobin.
+          </p>
+          <p id="Par25">
+            The dynamics of non-essential residues for the binding of heme in both human and camel hemoglobin were also evaluated. Of note, α:Phe43, α:Phe98, β:Phe42, β:Leu96, β:Leu106, and β:Leu141 residues formed sustained interactions with heme group in camel hemoglobin especially at higher salt and temperature conditions when compared to human hemoglobin (Figs. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+             and 
+            <xref rid="Fig6" ref-type="fig">6</xref>
+            ). α subunit residues Lys61 and Leu101 demonstrated similar binding behavior with heme in all simulations. These are important residues that line the heme binding pocket
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              ,
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              ,
+              <xref ref-type="bibr" rid="CR47">47</xref>
+            </sup>
+            . Thus, it is perceivable that these residues along with α:His58 and β:His63 could play a role in cavity structure and dynamics that determine the binding kinetics of ligands.
+          </p>
+          <p id="Par26">
+            Moreover, heme showed higher binding affinity with camel hemoglobin at stressed conditions when compared to human hemoglobin (Tables 
+            <xref rid="Tab2" ref-type="table">2</xref>
+            , 
+            <xref rid="Tab3" ref-type="table">3</xref>
+            ). This indicates the formation of stronger interactions in camel hemoglobin as indicated by ΔG
+            <sub>bind</sub>
+             computed using the MM-GBSA method.
+          </p>
+          <p id="Par27">
+            Interestingly, a camel’s body temperature can vary between 34 and 41 °C during the day
+            <sup>
+              <xref ref-type="bibr" rid="CR42">42</xref>
+              ,
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            . Moreover, camels have the ability to live without drinking water for longer period of time. These factors in combination produces a severely dehydrated state in camels. The findings of this study are of significant importance in understanding the behavior of camel hemoglobin under different dehydrated conditions, particularly the interactions with heme during dehydrated conditions. Here, camel hemoglobin exhibited more stability at stressed conditions, compared to human hemoglobin.
+          </p>
+        </sec>
+        <sec id="Sec9" sec-type="conclusions">
+          <title>Conclusion</title>
+          <p id="Par28">While the residues of camel and human hemoglobin that interact with heme are conserved and share a similar mode of interaction with heme, there are several disparities in the dynamics and energetics of these interactions. One notable difference is the formation of a more stable interaction between the distal histidine of β:His63 of camel hemoglobin and heme as well as the interaction between α:Phe43 and α:Phe98 of camel hemoglobin with heme. These were observed to be less stable in human hemoglobin simulations. However, further studies are needed to confirm the role of these interactions in tense state (T) to relaxed state (R) transition in camel hemoglobin. Binding of energy rich molecules such as 2,3-BPG and ATP are essential for the unloading of oxygen from hemoglobin. It would be interesting to perform a comparative study under stressed conditions to measure the stability and energetics of the binding of these molecules to camel and human hemoglobin.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>This study was supported by a UPAR Grant (31S243) from United Arab Emirates University to R.V. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>R.V. and S.S.S. conceived the project. A.A. performed the experiments and analysed the data. R.V. and A.A wrote the manuscript.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>The datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par29">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Storz</surname>
+                    <given-names>JF</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Gene duplication and evolutionary innovations in hemoglobin-oxygen transport</article-title>
+                <source>Physiology</source>
+                <year>2016</year>
+                <volume>31</volume>
+                <fpage>223</fpage>
+                <lpage>232</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXmtVKqtLk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1152/physiol.00060.2015</pub-id>
+                <pub-id pub-id-type="pmid">27053736</pub-id>
+                <pub-id pub-id-type="pmcid">5005275</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Olson</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The role of the distal histidine in myoglobin and haemoglobin</article-title>
+                <source>Nature</source>
+                <year>1988</year>
+                <volume>336</volume>
+                <fpage>265</fpage>
+                <lpage>266</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL1MXltlaitA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/336265a0</pub-id>
+                <pub-id pub-id-type="pmid">3057383</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1988Natur.336..265O</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Jameson</surname>
+                    <given-names>GB</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Models for the active site of oxygen-binding hemoproteins. Dioxygen binding properties and the structures of (2-methylimidazole)-meso-tetra (. alpha.,. alpha.,. alpha.,. alpha.-o-pivalamidophenyl) porphyrinatoiron (II)-ethanol and its dioxygen adduct</article-title>
+                <source>J. Am. Chem. Soc.</source>
+                <year>1980</year>
+                <volume>102</volume>
+                <fpage>3224</fpage>
+                <lpage>3237</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL3cXkt1WisLg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1021/ja00529a055</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kuriyan</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Wilz</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Karplus</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Petsko</surname>
+                    <given-names>GA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">X-ray structure and refinement of carbon-monoxy (Fe II)-myoglobin at 1.5 Å resolution</article-title>
+                <source>J. Mol. Biol.</source>
+                <year>1986</year>
+                <volume>192</volume>
+                <fpage>133</fpage>
+                <lpage>154</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL2sXksF2ntA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/0022-2836(86)90470-5</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lucas</surname>
+                    <given-names>MF</given-names>
+                  </name>
+                  <name>
+                    <surname>Guallar</surname>
+                    <given-names>V</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">An atomistic view on human hemoglobin carbon monoxide migration processes</article-title>
+                <source>Biophys. J.</source>
+                <year>2012</year>
+                <volume>102</volume>
+                <fpage>887</fpage>
+                <lpage>896</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XjtFSjtbk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.bpj.2012.01.011</pub-id>
+                <pub-id pub-id-type="pmid">22385860</pub-id>
+                <pub-id pub-id-type="pmcid">3283813</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012BpJ...102..887L</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Phillips</surname>
+                    <given-names>SE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Structure and refinement of oxymyoglobin at 1· 6 Å resolution</article-title>
+                <source>J. Mol. Biol.</source>
+                <year>1980</year>
+                <volume>142</volume>
+                <fpage>531</fpage>
+                <lpage>554</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL3MXnvVOjsw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/0022-2836(80)90262-4</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gerber</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Berger</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Jänig</surname>
+                    <given-names>GR</given-names>
+                  </name>
+                  <name>
+                    <surname>Rapoport</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Interaction of haemoglobin with ions: quantitative description of the state of magnesium, adenosine 5′-triphosphate, 2, 3-bisphosphoglycerate, and human haemoglobin under simulated intracellular conditions</article-title>
+                <source>Eur. J. Biochem.</source>
+                <year>1973</year>
+                <volume>38</volume>
+                <fpage>563</fpage>
+                <lpage>571</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaE2cXisVSisQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1432-1033.1973.tb03091.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lennon</surname>
+                    <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Scott</surname>
+                    <given-names>NR</given-names>
+                  </name>
+                  <name>
+                    <surname>Chapman</surname>
+                    <given-names>BE</given-names>
+                  </name>
+                  <name>
+                    <surname>Kuchel</surname>
+                    <given-names>PW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hemoglobin affinity for 2, 3-bisphosphoglycerate in solutions and intact erythrocytes: Studies using pulsed-field gradient nuclear magnetic resonance and Monte Carlo simulations</article-title>
+                <source>Biophys. J.</source>
+                <year>1994</year>
+                <volume>67</volume>
+                <fpage>2096</fpage>
+                <lpage>2109</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK2cXmvFKgu78%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0006-3495(94)80693-9</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1994BpJ....67.2096L</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ali</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Baby</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Vijayan</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">From desert to medicine: A review of camel genomics and therapeutic products</article-title>
+                <source>Front. Genet.</source>
+                <year>2019</year>
+                <volume>10</volume>
+                <fpage>17</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhtlWms7nO</pub-id>
+                <pub-id pub-id-type="doi">10.3389/fgene.2019.00017</pub-id>
+                <pub-id pub-id-type="pmid">30838017</pub-id>
+                <pub-id pub-id-type="pmcid">6389616</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yonetani</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>SI</given-names>
+                  </name>
+                  <name>
+                    <surname>Tsuneshige</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Imai</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Kanaori</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Global allostery model of hemoglobin. Modulation of O(2) affinity, cooperativity, and Bohr effect by heterotropic allosteric effectors</article-title>
+                <source>J. Biol. Chem.</source>
+                <year>2002</year>
+                <volume>277</volume>
+                <fpage>34508</fpage>
+                <lpage>34520</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD38Xnt1Wjurg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1074/jbc.M203135200</pub-id>
+                <pub-id pub-id-type="pmid">12107163</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bogner</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Csutora</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Cameron</surname>
+                    <given-names>IL</given-names>
+                  </name>
+                  <name>
+                    <surname>Wheatley</surname>
+                    <given-names>DN</given-names>
+                  </name>
+                  <name>
+                    <surname>Miseta</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Augmented water binding and low cellular water content in erythrocytes of camel and camelids</article-title>
+                <source>Biophys. J.</source>
+                <year>1998</year>
+                <volume>75</volume>
+                <fpage>3085</fpage>
+                <lpage>3091</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1cXnslymsr4%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0006-3495(98)77749-5</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Balasubramanian</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Sathya Moorthy</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Neelagandan</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Ponnuswamy</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Purification, crystallization and preliminary crystallographic study of haemoglobin from camel (
+                  <italic>Camelus dromedarius</italic>
+                  ): a high oxygen-affinity lowland species
+                </article-title>
+                <source>Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun.</source>
+                <year>2009</year>
+                <volume>65</volume>
+                <fpage>773</fpage>
+                <lpage>775</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXptlKgtbk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1107/S1744309109024154</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Castilho</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                  <name>
+                    <surname>Glass</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                  <name>
+                    <surname>Manco</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The effects of 2,3-diphosphoglycerate, adenosine triphosphate, and glycosylated hemoglobin on the hemoglobin-oxygen affinity of diabetic patients</article-title>
+                <source>Braz. J. Med. Biol. Res.</source>
+                <year>2003</year>
+                <volume>36</volume>
+                <fpage>731</fpage>
+                <lpage>737</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3sXmtFamsbo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1590/s0100-879x2003000600008</pub-id>
+                <pub-id pub-id-type="pmid">12792702</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>W-R</given-names>
+                  </name>
+                  <name>
+                    <surname>Yu</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Zulfajri</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Lin</surname>
+                    <given-names>P-C</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>CC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Phthalide derivatives from 
+                  <italic>Angelica sinensis</italic>
+                   decrease hemoglobin oxygen affinity: A new allosteric-modulating mechanism and potential use as 2, 3-BPG functional substitutes
+                </article-title>
+                <source>Sci. Rep.</source>
+                <year>2017</year>
+                <volume>7</volume>
+                <fpage>1</fpage>
+                <lpage>15</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chu</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Breite</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Ciraolo</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Franco</surname>
+                    <given-names>RS</given-names>
+                  </name>
+                  <name>
+                    <surname>Low</surname>
+                    <given-names>PS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Characterization of the deoxyhemoglobin binding site on human erythrocyte band 3: Implications for O2 regulation of erythrocyte properties</article-title>
+                <source>Blood</source>
+                <year>2008</year>
+                <volume>111</volume>
+                <fpage>932</fpage>
+                <lpage>938</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1cXns1Ckuw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1182/blood-2007-07-100180</pub-id>
+                <pub-id pub-id-type="pmid">17942752</pub-id>
+                <pub-id pub-id-type="pmcid">2200852</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schechter</surname>
+                    <given-names>AN</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hemoglobin research and the origins of molecular medicine</article-title>
+                <source>Blood</source>
+                <year>2008</year>
+                <volume>112</volume>
+                <fpage>3927</fpage>
+                <lpage>3938</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1cXhsVSmsrzO</pub-id>
+                <pub-id pub-id-type="doi">10.1182/blood-2008-04-078188</pub-id>
+                <pub-id pub-id-type="pmid">18988877</pub-id>
+                <pub-id pub-id-type="pmcid">2581994</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ouajd</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Kamel</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Physiological particularities of dromedary (Camelus dromedarius) and experimental implications</article-title>
+                <source>Scand. J. Lab. Anim. Sci.</source>
+                <year>2009</year>
+                <volume>36</volume>
+                <fpage>19</fpage>
+                <lpage>29</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhtFehsb%2FI</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bogner</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Osmotic and diffusive properties of intracellular water in camel erythrocytes: Effect of hemoglobin crowdedness</article-title>
+                <source>Cell Biol. Int.</source>
+                <year>2005</year>
+                <volume>29</volume>
+                <fpage>731</fpage>
+                <lpage>736</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXpslymt7s%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.cellbi.2005.04.008</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bringas</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Petruk</surname>
+                    <given-names>AA</given-names>
+                  </name>
+                  <name>
+                    <surname>Estrin</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>Capece</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Martí</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Tertiary and quaternary structural basis of oxygen affinity in human hemoglobin as revealed by multiscale simulations</article-title>
+                <source>Sci. Rep.</source>
+                <year>2017</year>
+                <volume>7</volume>
+                <fpage>1</fpage>
+                <lpage>10</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhtlersL%2FJ</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41598-017-11259-0</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ceccarelli</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Structure-function relationship in a variant hemoglobin: a combined computational-experimental approach</article-title>
+                <source>Biophys. J.</source>
+                <year>2006</year>
+                <volume>91</volume>
+                <fpage>3529</fpage>
+                <lpage>3541</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD28XhtFensbzI</pub-id>
+                <pub-id pub-id-type="doi">10.1529/biophysj.106.083170</pub-id>
+                <pub-id pub-id-type="pmid">16844744</pub-id>
+                <pub-id pub-id-type="pmcid">1614504</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2006BpJ....91.3529C</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Grayson</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Tajkhorshid</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Schulten</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mechanisms of selectivity in channels and enzymes studied with interactive molecular dynamics</article-title>
+                <source>Biophys. J.</source>
+                <year>2003</year>
+                <volume>85</volume>
+                <fpage>36</fpage>
+                <lpage>48</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3sXltleksbo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0006-3495(03)74452-X</pub-id>
+                <pub-id pub-id-type="pmid">12829462</pub-id>
+                <pub-id pub-id-type="pmcid">1303063</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tajkhorshid</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Control of the selectivity of the aquaporin water channel family by global orientational tuning</article-title>
+                <source>Science</source>
+                <year>2002</year>
+                <volume>296</volume>
+                <fpage>525</fpage>
+                <lpage>530</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD38XjtFaqsbk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.1067778</pub-id>
+                <pub-id pub-id-type="pmid">11964478</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2002Sci...296..525T</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hub</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <name>
+                    <surname>Kubitzki</surname>
+                    <given-names>MB</given-names>
+                  </name>
+                  <name>
+                    <surname>De Groot</surname>
+                    <given-names>BL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Spontaneous quaternary and tertiary TR transitions of human hemoglobin in molecular dynamics simulation</article-title>
+                <source>PLoS Comput. Biol.</source>
+                <year>2010</year>
+                <volume>6</volume>
+                <fpage>e1000774</fpage>
+                <pub-id pub-id-type="doi">10.1371/journal.pcbi.1000774</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yusuff</surname>
+                    <given-names>OK</given-names>
+                  </name>
+                  <name>
+                    <surname>Babalola</surname>
+                    <given-names>JO</given-names>
+                  </name>
+                  <name>
+                    <surname>Bussi</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Raugei</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Role of the subunit interactions in the conformational transitions in adult human hemoglobin: an explicit solvent molecular dynamics study</article-title>
+                <source>J. Phys. Chem. B</source>
+                <year>2012</year>
+                <volume>116</volume>
+                <fpage>11004</fpage>
+                <lpage>11009</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XhtV2gt73F</pub-id>
+                <pub-id pub-id-type="doi">10.1021/jp3022908</pub-id>
+                <pub-id pub-id-type="pmid">22838506</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>El Hage</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Hedin</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Gupta</surname>
+                    <given-names>PK</given-names>
+                  </name>
+                  <name>
+                    <surname>Meuwly</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Karplus</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Valid molecular dynamics simulations of human hemoglobin require a surprisingly large box size</article-title>
+                <source>eLife</source>
+                <year>2018</year>
+                <pub-id pub-id-type="doi">10.7554/eLife.35560</pub-id>
+                <pub-id pub-id-type="pmid">30256194</pub-id>
+                <pub-id pub-id-type="pmcid">6158007</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>El Hage</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Hedin</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Gupta</surname>
+                    <given-names>PK</given-names>
+                  </name>
+                  <name>
+                    <surname>Meuwly</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Karplus</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Response to comment on 'Valid molecular dynamics simulations of human hemoglobin require a surprisingly large box size'</article-title>
+                <source>eLife</source>
+                <year>2019</year>
+                <pub-id pub-id-type="doi">10.7554/eLife.45318</pub-id>
+                <pub-id pub-id-type="pmid">31219783</pub-id>
+                <pub-id pub-id-type="pmcid">6586459</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gapsys</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>de Groot</surname>
+                    <given-names>BL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Comment on 'Valid molecular dynamics simulations of human hemoglobin require a surprisingly large box size'</article-title>
+                <source>eLife</source>
+                <year>2019</year>
+                <pub-id pub-id-type="doi">10.7554/eLife.44718</pub-id>
+                <pub-id pub-id-type="pmid">31219782</pub-id>
+                <pub-id pub-id-type="pmcid">6586461</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Pezzella</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Water dynamics around proteins: T- and R-states of hemoglobin and melittin</article-title>
+                <source>J. Phys. Chem. B</source>
+                <year>2020</year>
+                <volume>124</volume>
+                <fpage>6540</fpage>
+                <lpage>6554</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXht1CltbbM</pub-id>
+                <pub-id pub-id-type="doi">10.1021/acs.jpcb.0c04320</pub-id>
+                <pub-id pub-id-type="pmid">32589026</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Balakrishnan</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Time-resolved absorption and UV resonance Raman spectra reveal stepwise formation of T quaternary contacts in the allosteric pathway of hemoglobin</article-title>
+                <source>J. Mol. Biol.</source>
+                <year>2004</year>
+                <volume>340</volume>
+                <fpage>843</fpage>
+                <lpage>856</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXlt1elsrg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.jmb.2004.05.012</pub-id>
+                <pub-id pub-id-type="pmid">15223325</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Silva</surname>
+                    <given-names>MM</given-names>
+                  </name>
+                  <name>
+                    <surname>Rogers</surname>
+                    <given-names>PH</given-names>
+                  </name>
+                  <name>
+                    <surname>Arnone</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A third quaternary structure of human hemoglobin A at 1.7-A resolution</article-title>
+                <source>J. Biol. Chem.</source>
+                <year>1992</year>
+                <volume>267</volume>
+                <fpage>17248</fpage>
+                <lpage>17256</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK38Xls1Kisro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0021-9258(18)41919-9</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zheng</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Schaefer</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Karplus</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hemoglobin Bohr effects: Atomic origin of the histidine residue contributions</article-title>
+                <source>Biochemistry</source>
+                <year>2013</year>
+                <volume>52</volume>
+                <fpage>8539</fpage>
+                <lpage>8555</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhslKgt7nN</pub-id>
+                <pub-id pub-id-type="doi">10.1021/bi401126z</pub-id>
+                <pub-id pub-id-type="pmid">24224786</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="other">
+                Bowers, K. J. 
+                <italic>et al.</italic>
+                 In 
+                <italic>SC'06: Proceedings of the 2006 ACM/IEEE Conference on Supercomputing</italic>
+                 43–43 (IEEE).
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Martyna</surname>
+                    <given-names>GJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Tobias</surname>
+                    <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Klein</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Constant pressure molecular dynamics algorithms</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>1994</year>
+                <volume>101</volume>
+                <fpage>4177</fpage>
+                <lpage>4189</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK2cXmtFeht7o%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1063/1.467468</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1994JChPh.101.4177M</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Martyna</surname>
+                    <given-names>GJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Klein</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                  <name>
+                    <surname>Tuckerman</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Nosé–Hoover chains: The canonical ensemble via continuous dynamics</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>1992</year>
+                <volume>97</volume>
+                <fpage>2635</fpage>
+                <lpage>2643</lpage>
+                <pub-id pub-id-type="doi">10.1063/1.463940</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1992JChPh..97.2635M</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Essmann</surname>
+                    <given-names>U</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A smooth particle mesh Ewald method</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>1995</year>
+                <volume>103</volume>
+                <fpage>8577</fpage>
+                <lpage>8593</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK2MXptlehtrw%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1063/1.470117</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1995JChPh.103.8577E</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tuckerman</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Berne</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Martyna</surname>
+                    <given-names>GJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reversible multiple time scale molecular dynamics</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>1992</year>
+                <volume>97</volume>
+                <fpage>1990</fpage>
+                <lpage>2001</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK38XltFyksrg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1063/1.463137</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1992JChPh..97.1990T</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">The VSGB 2.0 model: a next generation energy model for high resolution protein structure modeling</article-title>
+                <source>Proteins</source>
+                <year>2011</year>
+                <volume>79</volume>
+                <fpage>2794</fpage>
+                <lpage>2812</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXhtFehsLfK</pub-id>
+                <pub-id pub-id-type="doi">10.1002/prot.23106</pub-id>
+                <pub-id pub-id-type="pmid">21905107</pub-id>
+                <pub-id pub-id-type="pmcid">3206729</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Perutz</surname>
+                    <given-names>MF</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Stereochemistry of cooperative effects in haemoglobin: Haem–Haem interaction and the problem of allostery</article-title>
+                <source>Nature</source>
+                <year>1970</year>
+                <volume>228</volume>
+                <fpage>726</fpage>
+                <lpage>734</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaE3MXjvVertQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/228726a0</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1970Natur.228..726P</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Berg</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Tymoczko</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Stryer</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Berg</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Tymoczko</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Stryer</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hemoglobin transports oxygen efficiently by binding oxygen cooperatively</article-title>
+                <source>Biochemistry</source>
+                <year>2002</year>
+                <edition>5</edition>
+                <publisher-loc>New York</publisher-loc>
+                <publisher-name>W H Freeman</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Laberge</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Yonetani</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Molecular dynamics simulations of hemoglobin A in different states and bound to DPG: Effector-linked perturbation of tertiary conformations and HbA concerted dynamics</article-title>
+                <source>Biophys. J.</source>
+                <year>2008</year>
+                <volume>94</volume>
+                <fpage>2737</fpage>
+                <lpage>2751</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1cXjslCjsro%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1529/biophysj.107.114942</pub-id>
+                <pub-id pub-id-type="pmid">18096633</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Feng</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Molecular mechanism of AHSP-mediated stabilization of α-hemoglobin</article-title>
+                <source>Cell</source>
+                <year>2004</year>
+                <volume>119</volume>
+                <fpage>629</fpage>
+                <lpage>640</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXhtVGls7fO</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.cell.2004.11.025</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schmidt-Nielsen</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Schmidt-Nielsen</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Jarnum</surname>
+                    <given-names>SA</given-names>
+                  </name>
+                  <name>
+                    <surname>Houpt</surname>
+                    <given-names>TR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Body temperature of the camel and its relation to water economy</article-title>
+                <source>Am. J. Physiol.</source>
+                <year>1956</year>
+                <volume>188</volume>
+                <fpage>103</fpage>
+                <lpage>112</lpage>
+                <pub-id pub-id-type="doi">10.1152/ajplegacy.1956.188.1.103</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Oyewale</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Alterations in the osmotic fragility of camel and donkey erythrocytes caused by temperature, pH and blood storage</article-title>
+                <source>Vet. Arch.</source>
+                <year>2011</year>
+                <volume>81</volume>
+                <fpage>459</fpage>
+                <lpage>470</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Frauenfelder</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Parak</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Young</surname>
+                    <given-names>RD</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Conformational substates in proteins</article-title>
+                <source>Annu. Rev. Biophys. Biophys. Chem.</source>
+                <year>1988</year>
+                <volume>17</volume>
+                <fpage>451</fpage>
+                <lpage>479</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL1cXltVKmtbg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1146/annurev.bb.17.060188.002315</pub-id>
+                <pub-id pub-id-type="pmid">3293595</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Steinbach</surname>
+                    <given-names>PJ</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Ligand binding to heme proteins: Connection between dynamics and function</article-title>
+                <source>Biochemistry</source>
+                <year>1991</year>
+                <volume>30</volume>
+                <fpage>3988</fpage>
+                <lpage>4001</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK3MXhvVSmtbs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1021/bi00230a026</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mollan</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                  <name>
+                    <surname>Yu</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Weiss</surname>
+                    <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Olson</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The role of alpha-hemoglobin stabilizing protein in redox chemistry, denaturation, and hemoglobin assembly</article-title>
+                <source>Antioxid. Redox Signal.</source>
+                <year>2010</year>
+                <volume>12</volume>
+                <fpage>219</fpage>
+                <lpage>231</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXhsFejsbk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1089/ars.2009.2780</pub-id>
+                <pub-id pub-id-type="pmid">19659437</pub-id>
+                <pub-id pub-id-type="pmcid">2821148</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR47">
+              <label>47.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lepeshkevich</surname>
+                    <given-names>SV</given-names>
+                  </name>
+                  <name>
+                    <surname>Karpiuk</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Sazanovich</surname>
+                    <given-names>IV</given-names>
+                  </name>
+                  <name>
+                    <surname>Dzhagarov</surname>
+                    <given-names>BM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A kinetic description of dioxygen motion within α-and β-subunits of human hemoglobin in the R-state: Geminate and bimolecular stages of the oxygenation reaction</article-title>
+                <source>Biochemistry</source>
+                <year>2004</year>
+                <volume>43</volume>
+                <fpage>1675</fpage>
+                <lpage>1684</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXlvFOqtg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1021/bi034928q</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec10">
+              <title>Supplementary Information</title>
+              <p id="Par30">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary Information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41598_2021_4112_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary Information.</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary Information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41598-021-04112-y" ext-link-type="doi">https://doi.org/10.1038/s41598-021-04112-y</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Publisher's note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

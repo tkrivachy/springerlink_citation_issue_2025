@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.848881",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50863-1",
+    "title": "Remote sensing based forest cover classification using machine learning",
+    "article_number": "69",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Gouhar Aziz",
+      "Nasru Minallah",
+      "Aamir Saeed",
+      "Jaroslav Frnda",
+      "Waleed Khan"
+    ]
+  },
+  "article_index": 214,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T15:59:49.843451"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T15:59:51.415483"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T15:59:52.703775"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T22:11:29.929525"
+    },
+    "last_updated": "2025-10-03T22:11:29.929624"
+  }
+}

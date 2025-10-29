@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.862064",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50673-5",
+    "title": "New classification of industrial robotic gripping systems for sustainable production",
+    "article_number": "295",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Vitalii Ivanov",
+      "Vladyslav Andrusyshyn",
+      "Ivan Pavlenko",
+      "Jan Pitel’",
+      "Vladimir Bulej"
+    ]
+  },
+  "article_index": 278,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:47:26.689802"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:47:28.199260"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:47:29.343890"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:06:50.745894"
+    },
+    "last_updated": "2025-10-03T22:06:50.746035"
+  }
+}

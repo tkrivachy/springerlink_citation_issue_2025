@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.189306",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20623-0",
+    "title": "Publisher Correction: An epigenetic gene silencing pathway selectively acting on transgenic DNA in the green alga ",
+    "article_number": "208",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Juliane Neupert",
+      "Sean D. Gallaher",
+      "Yinghong Lu",
+      "Daniela Strenkert",
+      "Na’ama Segal",
+      "Rouhollah Barahimipour",
+      "Sorel T. Fitz-Gibbon",
+      "Michael Schroda",
+      "Sabeeha S. Merchant",
+      "Ralph Bock"
+    ]
+  },
+  "article_index": 92,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:25:10.630137"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:25:12.172762"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:25:13.372586"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:02:21.688801"
+    },
+    "last_updated": "2025-10-03T23:02:21.688991"
+  }
+}

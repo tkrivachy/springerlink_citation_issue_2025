@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.404682",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84167-9",
+    "title": "MANF overexpression ameliorates oxidative stress-induced apoptosis of human nucleus pulposus cells by facilitating mitophagy through promoting MFN2 expression",
+    "article_number": "476",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Liang Ma",
+      "Xiangyu Meng",
+      "Tuerhongjiang Abudurexiti",
+      "Yuntao Liu",
+      "Jiang Gao",
+      "Weibin Sheng"
+    ]
+  },
+  "article_index": 509,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:35:05.963859"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:35:07.557549"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:40.953141"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:24:03.843249"
+    },
+    "last_updated": "2025-10-07T09:52:40.953398"
+  }
+}

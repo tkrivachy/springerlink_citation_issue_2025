@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.683250",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08508-3",
+    "title": "Simplified synthetic routes for low cost and high photovoltaic performance ",
+    "article_number": "519",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaojun Li",
+      "Fei Pan",
+      "Chenkai Sun",
+      "Ming Zhang",
+      "Zhiwei Wang",
+      "Jiaqi Du",
+      "Jing Wang",
+      "Min Xiao",
+      "Lingwei Xue",
+      "Zhi-Guo Zhang",
+      "Chunfeng Zhang",
+      "Feng Liu",
+      "Yongfang Li"
+    ]
+  },
+  "article_index": 58,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:07:15.786811"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 269,
+      "retrieved_at": "2025-10-03T18:07:17.494665"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 258,
+      "retrieved_at": "2025-10-03T18:07:19.097350"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 284,
+      "retrieved_at": "2025-10-03T22:56:22.843687"
+    },
+    "last_updated": "2025-10-03T22:56:22.843787"
+  }
+}

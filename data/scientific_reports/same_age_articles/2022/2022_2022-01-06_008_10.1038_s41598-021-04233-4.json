@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.844106",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04233-4",
+    "title": "Conventional dose versus dose escalated radiotherapy including high-dose-rate brachytherapy boost for patients with Gleason score 9–10 clinical localized prostate cancer",
+    "article_number": "268",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hideya Yamazaki",
+      "Gen Suzuki",
+      "Norihiro Aibe",
+      "Daisuke Shimizu",
+      "Takuya Kimoto",
+      "Koji Masui",
+      "Ken Yoshida",
+      "Satoaki Nakamura",
+      "Haruumi Okabe"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:06:22.804498"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:06:24.355107"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:06:25.537363"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:49:53.341135"
+    },
+    "last_updated": "2025-10-03T21:49:53.341357"
+  }
+}

@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41534-020-00305-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41534-020-00305-x</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>A neural network oracle for quantum nonlocality problems in networks</dc:title>
+            
+	    
+            <dc:creator>Kriváchy, Tamás</dc:creator>
+            
+	    
+            <dc:creator>Cai, Yu</dc:creator>
+            
+	    
+            <dc:creator>Cavalcanti, Daniel</dc:creator>
+            
+	    
+            <dc:creator>Tavakoli, Arash</dc:creator>
+            
+	    
+            <dc:creator>Gisin, Nicolas</dc:creator>
+            
+	    
+            <dc:creator>Brunner, Nicolas</dc:creator>
+            
+	    
+            <ns3:publicationName>npj Quantum Information</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2056-6387</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41534-020-00305-x</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2020-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2020-08-21</ns3:publicationDate>
+            
+	    
+            <ns3:volume>6</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>7</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41534-020-00305-x</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41534-020-00305-x</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41534-020-00305-x.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2020 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Physics</dc:subject>
+            
+	    
+            <dc:subject>Physics, general</dc:subject>
+            
+	    
+            <dc:subject>Quantum Physics</dc:subject>
+            
+	    
+            <dc:subject>Quantum Information Technology, Spintronics</dc:subject>
+            
+	    
+            <dc:subject>Quantum Computing</dc:subject>
+            
+	    
+            <dc:subject>Quantum Field Theories, String Theory</dc:subject>
+            
+	    
+            <dc:subject>Classical and Quantum Gravitation, Relativity Theory</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>Characterizing quantum nonlocality in networks is a challenging, but important problem. Using quantum sources one can achieve distributions which are unattainable classically. A key point in investigations is to decide whether an observed probability distribution can be reproduced using only classical resources. This causal inference task is challenging even for simple networks, both analytically and using standard numerical techniques. We propose to use neural networks as numerical tools to overcome these challenges, by learning the classical strategies required to reproduce a distribution. As such, a neural network acts as an oracle for an observed behavior, demonstrating that it is classical if it can be learned. We apply our method to several examples in the triangle configuration. After demonstrating that the method is consistent with previously known results, we give solid evidence that a quantum distribution recently proposed by Gisin is indeed nonlocal as conjectured. Finally we examine the genuinely nonlocal distribution recently presented by Renou et al., and, guided by the findings of the neural network, conjecture nonlocality in a new range of parameters in these distributions. The method allows us to get an estimate on the noise robustness of all examined distributions.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41534</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2020-08-21</onlineDate>
+        <authors>
+          <author>Kriváchy, Tamás</author>
+          <author ORCID="0000-0001-7001-6815">Cai, Yu</author>
+          <author>Cavalcanti, Daniel</author>
+          <author ORCID="0000-0001-8481-3284">Tavakoli, Arash</author>
+          <author ORCID="0000-0003-0788-3494">Gisin, Nicolas</author>
+          <author>Brunner, Nicolas</author>
+        </authors>
+        <disciplines>
+          <discipline id="2928" term="Physics and Astronomy"/>
+          <discipline id="3309" term="Quantum Physics"/>
+          <discipline id="6524" term="Spintronics"/>
+          <discipline id="6367" term="Quantum Computing"/>
+          <discipline id="3850" term="Elementary Particles, Quantum Field Theory"/>
+          <discipline id="4255" term="Classical and Quantum Gravity"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Classical and Quantum Gravitation, Relativity Theory</facet-value>
+      <facet-value count="1">Physics</facet-value>
+      <facet-value count="1">Physics, general</facet-value>
+      <facet-value count="1">Quantum Computing</facet-value>
+      <facet-value count="1">Quantum Field Theories, String Theory</facet-value>
+      <facet-value count="1">Quantum Information Technology, Spintronics</facet-value>
+      <facet-value count="1">Quantum Physics</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">npj Quantum Information</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2020</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Spain</facet-value>
+      <facet-value count="1">Switzerland</facet-value>
+      <facet-value count="1">United Kingdom</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.343105",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83460-x",
+    "title": "Deficiency in NPC2 results in disruption of mitochondria-late endosome/lysosomes contact sites and endo-lysosomal lipid dyshomeostasis",
+    "article_number": "325",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Raffaele Pastore",
+      "Lihang Yao",
+      "Nathan Hatcher",
+      "Martin Helley",
+      "Janet Brownlees",
+      "Radha Desai"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:35:17.387088"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:35:18.944631"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:43.336110"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:24:08.013172"
+    },
+    "last_updated": "2025-10-07T09:52:43.336160"
+  }
+}

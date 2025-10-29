@@ -1,0 +1,70 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.712275",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07996-z",
+    "title": "Visualization of rapid electron precipitation via chorus element wave–particle interactions",
+    "article_number": "257",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mitsunori Ozaki",
+      "Yoshizumi Miyoshi",
+      "Kazuo Shiokawa",
+      "Keisuke Hosokawa",
+      "Shin-ichiro Oyama",
+      "Ryuho Kataoka",
+      "Yusuke Ebihara",
+      "Yasunobu Ogawa",
+      "Yoshiya Kasahara",
+      "Satoshi Yagitani",
+      "Yasumasa Kasaba",
+      "Atsushi Kumamoto",
+      "Fuminori Tsuchiya",
+      "Shoya Matsuda",
+      "Yuto Katoh",
+      "Mitsuru Hikishima",
+      "Satoshi Kurita",
+      "Yuichi Otsuka",
+      "Robert C. Moore",
+      "Yoshimasa Tanaka",
+      "Masahito Nosé",
+      "Tsutomu Nagatsuma",
+      "Nozomu Nishitani",
+      "Akira Kadokura",
+      "Martin Connors",
+      "Takumi Inoue",
+      "Ayako Matsuoka",
+      "Iku Shinohara"
+    ]
+  },
+  "article_index": 319,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:36:41.490730"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:36:43.005019"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T17:36:44.170167"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T22:45:51.610953"
+    },
+    "last_updated": "2025-10-03T22:45:51.611140"
+  }
+}

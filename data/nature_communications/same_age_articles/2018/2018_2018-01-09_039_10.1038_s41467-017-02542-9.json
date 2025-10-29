@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.609192",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02542-9",
+    "title": "Click beetle luciferase mutant and near infrared naphthyl-luciferins for improved bioluminescence imaging",
+    "article_number": "132",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mary P. Hall",
+      "Carolyn C. Woodroofe",
+      "Monika G. Wood",
+      "Ivo Que",
+      "Moniek van’t Root",
+      "Yanto Ridwan",
+      "Ce Shi",
+      "Thomas A. Kirkland",
+      "Lance P. Encell",
+      "Keith V. Wood",
+      "Clemens Löwik",
+      "Laura Mezzanotte"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:18.575538",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T11:43:58.217235"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 117,
+      "retrieved_at": "2025-10-03T17:06:29.203543"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 117,
+      "retrieved_at": "2025-10-03T17:06:30.589603"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T22:35:18.575315"
+    }
+  }
+}

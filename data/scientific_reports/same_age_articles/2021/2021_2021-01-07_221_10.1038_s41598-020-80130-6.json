@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244237",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80130-6",
+    "title": "The effect of subcutaneous and intraperitoneal anesthesia on post laparoscopic pain: a randomized controlled trial",
+    "article_number": "81",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ohad Gluck",
+      "Elad Barber",
+      "Ohad Feldstein",
+      "Ori Tal",
+      "Ram Kerner",
+      "Ran Keidar",
+      "Inna Wolfson",
+      "Shimon Ginath",
+      "Jacob Bar",
+      "Ron Sagiv"
+    ]
+  },
+  "article_index": 221,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:49:51.977871"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:49:53.501912"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:49:54.650055"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:43:21.456013"
+    },
+    "last_updated": "2025-10-03T21:43:21.456215"
+  }
+}

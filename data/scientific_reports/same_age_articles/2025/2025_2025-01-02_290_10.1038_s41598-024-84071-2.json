@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.380015",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84071-2",
+    "title": "SAILOR: perceptual anchoring for robotic cognitive architectures",
+    "article_number": "113",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Miguel Á. González-Santamarta",
+      "Francisco J. Rodrıguez-Lera",
+      "Vicente Matellan-Olivera",
+      "Virginia Riego del Castillo",
+      "Lidia Sánchez-González"
+    ]
+  },
+  "article_index": 290,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:03.769086"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:05.290732"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:06.503727"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:29:52.721655"
+    },
+    "last_updated": "2025-10-03T22:29:52.721844"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652881",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35729-w",
+    "title": "Systematic review and individual-patient-data meta-analysis of non-invasive fibrosis markers for chronic hepatitis B in Africa",
+    "article_number": "45",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Asgeir Johannessen",
+      "Alexander J. Stockdale",
+      "Marc Y. R. Henrion",
+      "Edith Okeke",
+      "Moussa Seydi",
+      "Gilles Wandeler",
+      "Mark Sonderup",
+      "C. Wendy Spearman",
+      "Michael Vinikoor",
+      "Edford Sinkala",
+      "Hailemichael Desalegn",
+      "Fatou Fall",
+      "Nicholas Riches",
+      "Pantong Davwar",
+      "Mary Duguru",
+      "Tongai Maponga",
+      "Jantjie Taljaard",
+      "Philippa C. Matthews",
+      "Monique Andersson",
+      "Souleyman Mboup",
+      "Roger Sombie",
+      "Yusuke Shimakawa",
+      "Maud Lemoine"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:44:37.884479"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:44:39.388593"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:44:40.634514"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T23:08:52.798114"
+    },
+    "last_updated": "2025-10-03T23:08:52.798227"
+  }
+}

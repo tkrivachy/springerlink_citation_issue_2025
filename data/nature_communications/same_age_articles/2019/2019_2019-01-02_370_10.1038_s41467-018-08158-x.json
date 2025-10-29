@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.717717",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08158-x",
+    "title": "Anti-CRISPR-mediated control of gene editing and synthetic circuits in eukaryotic cells",
+    "article_number": "194",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Muneaki Nakamura",
+      "Prashanth Srinivasan",
+      "Michael Chavez",
+      "Matthew A. Carter",
+      "Antonia A. Dominguez",
+      "Marie La Russa",
+      "Matthew B. Lau",
+      "Timothy R. Abbott",
+      "Xiaoshu Xu",
+      "Dehua Zhao",
+      "Yuchen Gao",
+      "Nathan H. Kipniss",
+      "Christina D. Smolke",
+      "Joseph Bondy-Denomy",
+      "Lei S. Qi"
+    ]
+  },
+  "article_index": 370,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:28:05.454129"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 136,
+      "retrieved_at": "2025-10-03T17:28:06.986638"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T17:28:08.158174"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T22:42:53.138682"
+    },
+    "last_updated": "2025-10-03T22:42:53.138731"
+  }
+}

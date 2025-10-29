@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.708329",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08253-z",
+    "title": "Use of trifluoroacetaldehyde N-tfsylhydrazone as a trifluorodiazoethane surrogate and its synthetic applications",
+    "article_number": "284",
+    "publication_date": "2019-01-17",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xinyu Zhang",
+      "Zhaohong Liu",
+      "Xiangyu Yang",
+      "Yuanqing Dong",
+      "Matteo Virelli",
+      "Giuseppe Zanoni",
+      "Edward A. Anderson",
+      "Xihe Bi"
+    ]
+  },
+  "article_index": 284,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:48:36.459995"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T17:48:38.005504"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T17:48:39.149716"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T22:49:47.720980"
+    },
+    "last_updated": "2025-10-03T22:49:47.721171"
+  }
+}

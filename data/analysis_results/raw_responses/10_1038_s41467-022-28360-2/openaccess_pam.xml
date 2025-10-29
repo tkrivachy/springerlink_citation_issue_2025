@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-28360-2</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-022-28360-2</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>The IGFBP3/TMEM219 pathway regulates beta cell homeostasis</dc:title>
+          <dc:creator>D’Addio, Francesca</dc:creator>
+          <dc:creator>Maestroni, Anna</dc:creator>
+          <dc:creator>Assi, Emma</dc:creator>
+          <dc:creator>Ben Nasr, Moufida</dc:creator>
+          <dc:creator>Amabile, Giovanni</dc:creator>
+          <dc:creator>Usuelli, Vera</dc:creator>
+          <dc:creator>Loretelli, Cristian</dc:creator>
+          <dc:creator>Bertuzzi, Federico</dc:creator>
+          <dc:creator>Antonioli, Barbara</dc:creator>
+          <dc:creator>Cardarelli, Francesco</dc:creator>
+          <dc:creator>El Essawy, Basset</dc:creator>
+          <dc:creator>Solini, Anna</dc:creator>
+          <dc:creator>Gerling, Ivan C.</dc:creator>
+          <dc:creator>Bianchi, Cristina</dc:creator>
+          <dc:creator>Becchi, Gabriella</dc:creator>
+          <dc:creator>Mazzucchelli, Serena</dc:creator>
+          <dc:creator>Corradi, Domenico</dc:creator>
+          <dc:creator>Fadini, Gian Paolo</dc:creator>
+          <dc:creator>Foschi, Diego</dc:creator>
+          <dc:creator>Markmann, James F.</dc:creator>
+          <dc:creator>Orsi, Emanuela</dc:creator>
+          <dc:creator>Škrha, Jan, Jr</dc:creator>
+          <dc:creator>Camboni, Maria Gabriella</dc:creator>
+          <dc:creator>Abdi, Reza</dc:creator>
+          <dc:creator>James Shapiro, A. M.</dc:creator>
+          <dc:creator>Folli, Franco</dc:creator>
+          <dc:creator>Ludvigsson, Johnny</dc:creator>
+          <dc:creator>Del Prato, Stefano</dc:creator>
+          <dc:creator>Zuccotti, Gianvincenzo</dc:creator>
+          <dc:creator>Fiorina, Paolo</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn>2041-1723</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:doi>10.1038/s41467-022-28360-2</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <ns2:publicationDate>2022-02-03</ns2:publicationDate>
+          <ns2:volume>13</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>14</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-022-28360-2</ns2:url>
+          <ns2:copyright>©2022 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Loss of pancreatic beta cells is a central feature of type 1 (T1D) and type 2 (T2D) diabetes, but a therapeutic strategy to preserve beta cell mass remains to be established. Here we show that the death receptor TMEM219 is expressed on pancreatic beta cells and that signaling through its ligand insulin-like growth factor binding protein 3 (IGFBP3) leads to beta cell loss and dysfunction. Increased peripheral IGFBP3 was observed in established and at-risk T1D/T2D patients and was confirmed in T1D/T2D preclinical models, suggesting that dysfunctional IGFBP3/TMEM219 signaling is associated with abnormalities in beta cells homeostasis. In vitro and in vivo short-term IGFBP3/TMEM219 inhibition and TMEM219 genetic ablation preserved beta cells and prevented/delayed diabetes onset, while long-term IGFBP3/TMEM219 blockade allowed for beta cell expansion. Interestingly, in several patients’ cohorts restoration of appropriate IGFBP3 levels was associated with improved beta cell function. The IGFBP3/TMEM219 pathway is thus shown to be a physiological regulator of beta cell homeostasis and is also demonstrated to be disrupted in T1D/T2D. IGFBP3/TMEM219 targeting may therefore serve as a therapeutic option in diabetes.</p>
+        <p>In this new study the Authors demonstrated that the IGFBP3/TMEM219 pathway is a physiological regulator of pancreatic beta cell homeostasis and it is dysregulated in diabetes. IGFBP3/TMEM219 targeting may therefore serve as a therapeutic option in diabetes.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Canada</facet-value>
+      <facet-value count="1">Czech Republic</facet-value>
+      <facet-value count="1">Egypt</facet-value>
+      <facet-value count="1">Italy</facet-value>
+      <facet-value count="1">Sweden</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

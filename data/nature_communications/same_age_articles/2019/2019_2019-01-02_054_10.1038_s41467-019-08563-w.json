@@ -1,0 +1,80 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682839",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08563-w",
+    "title": "Author Correction: Why rankings of biomedical image analysis competitions should be interpreted with care",
+    "article_number": "588",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lena Maier-Hein",
+      "Matthias Eisenmann",
+      "Annika Reinke",
+      "Sinan Onogur",
+      "Marko Stankovic",
+      "Patrick Scholz",
+      "Tal Arbel",
+      "Hrvoje Bogunovic",
+      "Andrew P. Bradley",
+      "Aaron Carass",
+      "Carolin Feldmann",
+      "Alejandro F. Frangi",
+      "Peter M. Full",
+      "Bram van Ginneken",
+      "Allan Hanbury",
+      "Katrin Honauer",
+      "Michal Kozubek",
+      "Bennett A. Landman",
+      "Keno März",
+      "Oskar Maier",
+      "Klaus Maier-Hein",
+      "Bjoern H. Menze",
+      "Henning Müller",
+      "Peter F. Neher",
+      "Wiro Niessen",
+      "Nasir Rajpoot",
+      "Gregory C. Sharp",
+      "Korsuk Sirinukunwattana",
+      "Stefanie Speidel",
+      "Christian Stock",
+      "Danail Stoyanov",
+      "Abdel Aziz Taha",
+      "Fons van der Sommen",
+      "Ching-Wei Wang",
+      "Marc-André Weber",
+      "Guoyan Zheng",
+      "Pierre Jannin",
+      "Annette Kopp-Schneider"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T17:51:00.360779"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T17:51:01.888516"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T17:51:03.157718"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:50:36.187950"
+    },
+    "last_updated": "2025-10-03T22:50:36.188012"
+  }
+}

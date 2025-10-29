@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.239691",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1445-7",
+    "title": "Temporal trends in female breast cancer mortality in Brazil and correlations with social inequalities: ecological time-series study",
+    "article_number": "96",
+    "publication_date": "2015-02-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Carolina Maciel Reis Gonzaga",
+      "Ruffo Freitas-Junior",
+      "Maria-Paula Curado",
+      "Ana-Luiza Lima Sousa",
+      "José-Augusto Souza-Neto",
+      "Marta Rovery Souza"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T13:14:56.653914"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:14:58.232748"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T13:14:59.575844"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T21:08:24.129653"
+    },
+    "last_updated": "2025-10-03T21:08:24.129842"
+  }
+}

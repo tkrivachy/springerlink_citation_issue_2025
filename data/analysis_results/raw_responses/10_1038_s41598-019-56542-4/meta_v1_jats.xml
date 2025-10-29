@@ -1,0 +1,316 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-019-56542-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-019-56542-4</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Melanoma cell-derived exosomes in plasma of melanoma patients suppress functions of immune effector cells</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Sharma</surname>
+                <given-names>Priyanka</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Diergaarde</surname>
+                <given-names>Brenda</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Ferrone</surname>
+                <given-names>Soldano</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Kirkwood</surname>
+                <given-names>John M.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7316-6181</contrib-id>
+              <name name-style="western">
+                <surname>Whiteside</surname>
+                <given-names>Theresa L.</given-names>
+              </name>
+              <address>
+                <email>whitesidetl@upmc.edu</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>9</day>
+            <month>1</month>
+            <year>2020</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2020</year>
+          </pub-date>
+          <volume>10</volume>
+          <issue>1</issue>
+          <elocation-id>92</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-019-56542-4</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-019-56542-4.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2020</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Melanoma patients’ plasma contains exosomes produced by malignant and normal cells. Plasma exosomes were isolated and separated by immunocapture into two fractions: melanoma cell-derived exosomes (MTEX) and normal cell-derived exosomes (non-MTEX). Immunosuppressive effects of MTEX on primary human immune cells were evaluated. Exosomes were isolated from plasma of 12 melanoma patients and six healthy donors (HDs). Expression levels of 19 immunoregulatory proteins in MTEX, non-MTEX and HDs exosomes were evaluated by on-bead flow cytometry. Functional/phenotypic changes induced in CD8
+              <sup>+</sup>
+               T or natural killer (NK) cells by MTEX or non-MTEX were compared. Plasma protein levels were higher in patients than HDs (
+              <italic>P</italic>
+               &lt; 0.0009). In patients, MTEX accounted for 23–66% of total exosomes. MTEX were enriched in immunosuppressive proteins (
+              <italic>P</italic>
+               = 0.03). MTEX, but not HDs exosomes, inhibited CD69 expression (
+              <italic>P</italic>
+               ≤ 0.0008), induced apoptosis (
+              <italic>P</italic>
+               ≤ 0.0009) and suppressed proliferation (
+              <italic>P</italic>
+               ≤ 0.002) in CD8
+              <sup>+</sup>
+               T cells and downregulated NKG2D expression in NK cells (
+              <italic>P</italic>
+               = 0.001). Non-MTEX were enriched in immunostimulatory proteins (
+              <italic>P</italic>
+               = 0.002) and were only weakly immunosuppressive. Elevated MTEX/total exosome ratios and, surprisingly, non-MTEX ability to induce apoptosis of CD8
+              <sup>+</sup>
+               T cells emerged as positive correlates of disease stage. MTEX emerge as the major mechanism of tumor-induced immune suppression and as an underestimated barrier to successful melanoma immunotherapy.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1107">Immunology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000002</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">R01 DE028172</award-id>
+              <award-id award-type="FundRef grant">R03 CA223886</award-id>
+              <award-id award-type="FundRef grant">P50 CA121973</award-id>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">R01 CA168628</award-id>
+              <award-id award-type="FundRef grant">R21 CA204644</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sharma</surname>
+                  <given-names>Priyanka</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Diergaarde</surname>
+                  <given-names>Brenda</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ferrone</surname>
+                  <given-names>Soldano</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ferrone</surname>
+                  <given-names>Soldano</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Kirkwood</surname>
+                  <given-names>John M.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Kirkwood</surname>
+                  <given-names>John M.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Whiteside</surname>
+                  <given-names>Theresa L.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Whiteside</surname>
+                  <given-names>Theresa L.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Whiteside</surname>
+                  <given-names>Theresa L.</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Defense (United States Department of Defense)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000005</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">W81XWH-16-1-0500</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ferrone</surname>
+                  <given-names>Soldano</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

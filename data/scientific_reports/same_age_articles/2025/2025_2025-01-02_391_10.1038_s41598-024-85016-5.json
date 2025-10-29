@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.391760",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-85016-5",
+    "title": "Research on wear and grinding models of high-speed turnouts based on semi-Hertz contact",
+    "article_number": "531",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jincheng Li",
+      "Yayun Qi",
+      "Pengpeng Wu",
+      "Junjun Ding",
+      "Haohao Ding"
+    ]
+  },
+  "article_index": 391,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:18:23.005135"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:18:24.571316"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:22.426476"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:18:11.207693"
+    },
+    "last_updated": "2025-10-07T09:49:22.426689"
+  }
+}

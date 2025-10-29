@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.184812",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20493-6",
+    "title": "Plasma ctDNA is a tumor tissue surrogate and enables clinical-genomic stratification of metastatic bladder cancer",
+    "article_number": "184",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gillian Vandekerkhove",
+      "Jean-Michel Lavoie",
+      "Matti Annala",
+      "Andrew J. Murtha",
+      "Nora Sundahl",
+      "Simon Walz",
+      "Takeshi Sano",
+      "Sinja Taavitsainen",
+      "Elie Ritch",
+      "Ladan Fazli",
+      "Antonio Hurtado-Coll",
+      "Gang Wang",
+      "Matti Nykter",
+      "Peter C. Black",
+      "Tilman Todenhöfer",
+      "Piet Ost",
+      "Ewan A. Gibb",
+      "Kim N. Chi",
+      "Bernhard J. Eigl",
+      "Alexander W. Wyatt"
+    ]
+  },
+  "article_index": 67,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:37:16.827393"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T18:37:18.377310"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T18:37:19.588551"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 138,
+      "retrieved_at": "2025-10-03T23:06:23.076865"
+    },
+    "last_updated": "2025-10-03T23:06:23.077058"
+  }
+}

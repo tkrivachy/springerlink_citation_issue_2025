@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.516406",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55181-2",
+    "title": "Endowing single-crystal polymers with circularly polarized luminescence",
+    "article_number": "234",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhong-Qiu Li",
+      "Li Meng",
+      "Zili Chen",
+      "Yu-Wu Zhong"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:17:57.394557"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:17:58.951826"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:00.136151"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:20:10.208846"
+    },
+    "last_updated": "2025-10-03T23:20:10.209040"
+  }
+}

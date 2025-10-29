@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301318",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57090-7",
+    "title": "Establishment of sperm cryopreservation and ",
+    "article_number": "93",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Naomi Nakagata",
+      "Nobuyuki Mikoda",
+      "Satohiro Nakao",
+      "Ena Nakatsukasa",
+      "Toru Takeo"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:24:39.793906"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:24:41.337538"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:24:42.500015"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:33:09.945370"
+    },
+    "last_updated": "2025-10-03T21:33:09.945578"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724122",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08031-x",
+    "title": "In situ atomistic observation of disconnection-mediated grain boundary migration",
+    "article_number": "156",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qi Zhu",
+      "Guang Cao",
+      "Jiangwei Wang",
+      "Chuang Deng",
+      "Jixue Li",
+      "Ze Zhang",
+      "Scott X. Mao"
+    ]
+  },
+  "article_index": 431,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 357,
+      "retrieved_at": "2025-10-03T17:36:02.633402"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T17:36:04.158650"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T17:36:05.309817"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 175,
+      "retrieved_at": "2025-10-03T22:45:39.554418"
+    },
+    "last_updated": "2025-10-03T22:45:39.554611"
+  }
+}

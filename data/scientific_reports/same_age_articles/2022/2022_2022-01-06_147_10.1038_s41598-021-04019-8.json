@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.872905",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04019-8",
+    "title": "Performance-based comparison of Yamada–Ota and Hamilton–Crosser hybrid nanofluid flow models with magnetic dipole impact past a stretched surface",
+    "article_number": "29",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hina Gul",
+      "Muhammad Ramzan",
+      "Kottakkaran Sooppy Nisar",
+      "Roshan Noor Mohamed",
+      "Hassan Ali S. Ghazwani"
+    ]
+  },
+  "article_index": 147,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T15:05:51.598196"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T15:05:53.142139"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T15:05:54.443101"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T21:49:42.731319"
+    },
+    "last_updated": "2025-10-03T21:49:42.731411"
+  }
+}

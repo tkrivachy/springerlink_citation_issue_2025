@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.812269",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-56",
+    "title": "Health impacts of the July 2010 heat wave in Québec, Canada",
+    "article_number": "56",
+    "publication_date": "2013-01-21",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ray Bustinza",
+      "Germain Lebel",
+      "Pierre Gosselin",
+      "Diane Bélanger",
+      "Fateh Chebana"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T12:48:13.213207"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T12:48:14.753794"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T12:48:16.088864"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T20:58:35.030180"
+    },
+    "last_updated": "2025-10-03T20:58:35.030411"
+  }
+}

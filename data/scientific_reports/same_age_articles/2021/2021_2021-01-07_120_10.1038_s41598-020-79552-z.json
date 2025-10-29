@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221342",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79552-z",
+    "title": "Host mitochondrial transcriptome response to SARS-CoV-2 in multiple cell models and clinical samples",
+    "article_number": "3",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Brendan Miller",
+      "Ana Silverstein",
+      "Melanie Flores",
+      "Kevin Cao",
+      "Hiroshi Kumagai",
+      "Hemal H. Mehta",
+      "Kelvin Yen",
+      "Su- Jeong Kim",
+      "Pinchas Cohen"
+    ]
+  },
+  "article_index": 120,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T14:39:03.222223"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T14:39:04.725883"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T14:39:05.865254"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T21:39:03.212353"
+    },
+    "last_updated": "2025-10-03T21:39:03.212603"
+  }
+}

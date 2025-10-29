@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.101682",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27359-5",
+    "title": "The time-frequency analysis of the acoustic signal produced in underwater discharges based on Variational Mode Decomposition and Hilbert–Huang Transform",
+    "article_number": "22",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhen Han",
+      "Xiaobing Zhang",
+      "Bing Yan",
+      "Liang Qiao",
+      "Zhigang Wang"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:32:49.096282"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:32:50.648537"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:32:51.897853"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:00:59.965669"
+    },
+    "last_updated": "2025-10-03T22:00:59.965864"
+  }
+}

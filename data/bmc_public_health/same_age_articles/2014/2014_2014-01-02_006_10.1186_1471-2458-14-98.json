@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.741398",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-98",
+    "title": "Marital status shows a strong protective effect on long-term mortality among first acute myocardial infarction-survivors with diagnosed hyperlipidemia – findings from the MONICA/KORA myocardial infarction registry",
+    "article_number": "98",
+    "publication_date": "2014-01-30",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Philip Andrew Quinones",
+      "Inge Kirchberger",
+      "Margit Heier",
+      "Bernhard Kuch",
+      "Ines Trentinaglia",
+      "Andreas Mielck",
+      "Annette Peters",
+      "Wolfgang von Scheidt",
+      "Christa Meisinger"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T13:05:43.600934"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:05:45.112465"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T13:05:46.403067"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:04:55.282992"
+    },
+    "last_updated": "2025-10-03T21:04:55.283122"
+  }
+}

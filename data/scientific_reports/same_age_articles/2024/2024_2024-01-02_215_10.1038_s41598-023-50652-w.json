@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.848978",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50652-w",
+    "title": "Using inertial measurement units to estimate spine joint kinematics and kinetics during walking and running",
+    "article_number": "234",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Benjamin E. Sibson",
+      "Jacob J. Banks",
+      "Ali Yawar",
+      "Andrew K. Yegian",
+      "Dennis E. Anderson",
+      "Daniel E. Lieberman"
+    ]
+  },
+  "article_index": 215,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T16:02:13.106958"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T16:02:14.662565"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:02:15.843953"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T22:12:26.209878"
+    },
+    "last_updated": "2025-10-03T22:12:26.209982"
+  }
+}

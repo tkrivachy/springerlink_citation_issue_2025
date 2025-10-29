@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-73</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/1471-2458-14-73</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection">
+              <subject>Biostatistics and methods</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Assessing the construct validity and reliability of the parental perception on antibiotics (PAPA) scales</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Alumran</surname>
+                <given-names>Arwa</given-names>
+              </name>
+              <address>
+                <email>arwa.alumran@gmail.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Hou</surname>
+                <given-names>Xiang-Yu</given-names>
+              </name>
+              <address>
+                <email>x.hou@qut.edu.au</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Sun</surname>
+                <given-names>Jiandong</given-names>
+              </name>
+              <address>
+                <email>j1.sun@qut.edu.au</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Yousef</surname>
+                <given-names>Abdullah A</given-names>
+              </name>
+              <address>
+                <email>draayousef@yahoo.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Hurst</surname>
+                <given-names>Cameron</given-names>
+              </name>
+              <address>
+                <email>cphurst@gmail.com</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>23</day>
+            <month>1</month>
+            <year>2014</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2014</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>1</issue>
+          <elocation-id>73</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-14-73</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-14-73</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© Alumran et al.; licensee BioMed Central Ltd. 2014</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>The overuse of antibiotics is becoming an increasing concern. Antibiotic resistance, which increases both the burden of disease, and the cost of health services, is perhaps the most profound impact of antibiotics overuse. Attempts have been made to develop instruments to measure the psychosocial constructs underlying antibiotics use, however, none of these instruments have undergone thorough psychometric validation. This study evaluates the psychometric properties of the Parental Perceptions on Antibiotics (PAPA) scales. The PAPA scales attempt to measure the factors influencing parental use of antibiotics in children.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>
+                1111 parents of children younger than 12 years old were recruited from primary schools’ parental meetings in the Eastern Province of Saudi Arabia from September 2012 to January 2013. The structure of the PAPA instrument was validated using Confirmatory Factor Analysis (CFA) with measurement model fit evaluated using the raw and scaled 
+                <italic>χ</italic>
+                <sup>2</sup>
+                , Goodness of Fit Index, and Root Mean Square Error of Approximation.
+              </p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>
+                A five-factor model was confirmed with the model showing good fit. Constructs in the model include: 
+                <italic>Knowledge and Beliefs, Behaviors, Sources of information, Adherence,</italic>
+                 and 
+                <italic>Awareness about antibiotics resistance</italic>
+                . The instrument was shown to have good internal consistency, and good discriminant and convergent validity.
+              </p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusion</title>
+              <p>The availability of an instrument able to measure the psychosocial factors underlying antibiotics usage allows the risk factors underlying antibiotic use and overuse to now be investigated.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Antibiotic overuse</kwd>
+            <kwd>Psychosocial</kwd>
+            <kwd>Measurement instrument</kwd>
+            <kwd>Reliability</kwd>
+            <kwd>Validity</kwd>
+            <kwd>Confirmatory factor analysis</kwd>
+            <kwd>Saudi Arabia</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

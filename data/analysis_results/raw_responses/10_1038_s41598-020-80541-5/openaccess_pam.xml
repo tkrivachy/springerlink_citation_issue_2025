@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-020-80541-5</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-020-80541-5</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Impacts of sleep on the characteristics of dental biofilm</dc:title>
+          <dc:creator>Sotozono, Maki</dc:creator>
+          <dc:creator>Kuriki, Nanako</dc:creator>
+          <dc:creator>Asahi, Yoko</dc:creator>
+          <dc:creator>Noiri, Yuichiro</dc:creator>
+          <dc:creator>Hayashi, Mikako</dc:creator>
+          <dc:creator>Motooka, Daisuke</dc:creator>
+          <dc:creator>Nakamura, Shota</dc:creator>
+          <dc:creator>Machi, Hiroyuki</dc:creator>
+          <dc:creator>Iida, Tetsuya</dc:creator>
+          <dc:creator>Ebisu, Shigeyuki</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn>2045-2322</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:doi>10.1038/s41598-020-80541-5</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <ns2:publicationDate>2021-01-08</ns2:publicationDate>
+          <ns2:volume>11</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>12</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-020-80541-5</ns2:url>
+          <ns2:copyright>©2021 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>
+          Dental biofilm present on the tooth surface is associated with oral diseases, such as dental caries and periodontal disease. Because bacterial numbers rapidly increase in saliva during sleep, oral care before sleeping is recommended for the prevention of chronic oral diseases. However, temporal circadian changes in the quantity and quality of dental biofilms are poorly understood. This study aimed to investigate the impacts of sleeping on dental biofilm amounts and compositions by using an in situ model. The use of this in situ model enabled us to investigate dental biofilm formed in the oral cavity and to perform a quantitative analysis. Subjects began wearing oral splints in the morning or before sleeping, and biofilm samples were collected at 8, 16, and 24 h after the subjects began wearing oral splints; these samples were then used in various experiments. No significant changes in the numbers of biofilm-forming bacteria were caused by sleep. However, the relative abundances of genera related to periodontitis (i.e., 
+          <Emphasis Type="Italic">Fusobacterium</Emphasis>
+           and 
+          <Emphasis Type="Italic">Prevotella</Emphasis>
+          ) increased after awakening. In conclusion, the numbers of biofilm-forming bacteria were not affected by sleep, and the abundances of obligate anaerobes increased after sleep. This research may aid in defining efficacious preventive oral care.
+        </p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2021</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Japan</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

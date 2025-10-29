@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.308221",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56429-4",
+    "title": "Visualization of mucosal field in HPV positive and negative oropharyngeal squamous cell carcinomas: combined genomic and radiology based 3D model",
+    "article_number": "40",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Eva Orosz",
+      "Katalin Gombos",
+      "Nerina Petrevszky",
+      "David Csonka",
+      "Istvan Haber",
+      "Balint Kaszas",
+      "Arnold Toth",
+      "Krisztian Molnar",
+      "Krisztina Kalacs",
+      "Zalan Piski",
+      "Imre Gerlinger",
+      "Andras Burian",
+      "Szabolcs Bellyei",
+      "Istvan Szanyi"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:31:30.186341"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:31:31.709588"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:31:32.989862"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:35:54.820211"
+    },
+    "last_updated": "2025-10-03T21:35:54.820438"
+  }
+}

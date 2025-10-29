@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.884959",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03974-6",
+    "title": "The H",
+    "article_number": "13",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shiro Amanai",
+      "Tomonari Harada",
+      "Kazuki Kagami",
+      "Kuniko Yoshida",
+      "Toshimitsu Kato",
+      "Naoki Wada",
+      "Masaru Obokata"
+    ]
+  },
+  "article_index": 263,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:23:30.396466"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T15:23:31.936876"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:23:33.275779"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T21:57:11.502299"
+    },
+    "last_updated": "2025-10-03T21:57:11.502533"
+  }
+}

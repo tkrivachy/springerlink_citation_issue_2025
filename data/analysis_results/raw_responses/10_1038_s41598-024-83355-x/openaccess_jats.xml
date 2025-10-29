@@ -1,0 +1,2712 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-83355-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-024-83355-x</article-id>
+          <article-id pub-id-type="manuscript">83355</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-024-83355-x</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/166</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/166/986</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Non-uniform failure mechanism and stability control of mining roadway under deviatoric stress field</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes" id="Au1">
+              <name name-style="western">
+                <surname>Huo</surname>
+                <given-names>Tianhong</given-names>
+              </name>
+              <address>
+                <email>cumtbhth@126.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="corresp" rid="IDs4159802483355x_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Hongtao</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Fu</surname>
+                <given-names>Shigen</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Fu</surname>
+                <given-names>Botao</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Shouyin</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/01pwpsm46</institution-id>
+                <institution-id institution-id-type="GRID">grid.464218.d</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 1791 6111</institution-id>
+                <institution content-type="org-division">Institute of Mine Safety Technology</institution>
+                <institution content-type="org-name">China Academy of Safety Science and Technology</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">100012</addr-line>
+              <addr-line content-type="city">Beijing</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/01xt2dr21</institution-id>
+                <institution-id institution-id-type="GRID">grid.411510.0</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 9030 231X</institution-id>
+                <institution content-type="org-division">School of Energy and Mining</institution>
+                <institution content-type="org-name">China University of Mining and Technology (Beijing)</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">100083</addr-line>
+              <addr-line content-type="city">Beijing</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution content-type="org-name">Coal Industry Roadway Support and Disaster Prevention Engineering Research Center</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">100083</addr-line>
+              <addr-line content-type="city">Beijing</addr-line>
+              <country country="CN">China</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs4159802483355x_cor1">
+              <label>a</label>
+              <email>cumtbhth@126.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue seq="306">1</issue>
+          <elocation-id>306</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>13</day>
+              <month>12</month>
+              <year>2024</year>
+            </date>
+            <date date-type="received">
+              <day>4</day>
+              <month>9</month>
+              <year>2024</year>
+            </date>
+            <date date-type="accepted">
+              <day>13</day>
+              <month>12</month>
+              <year>2024</year>
+            </date>
+            <date date-type="online">
+              <day>2</day>
+              <month>1</month>
+              <year>2025</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+            <copyright-year>2024</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Based on the elastic–plastic theory, the analytical formula of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress at any point around the circular roadway under the non-uniform stress field is derived. The distribution law of 
+              <italic>J</italic>
+              <sub>2</sub>
+               of surrounding rock under the three-dimensional non-isobaric stress field is studied by theoretical analysis and numerical simulation. Combined with the butterfly failure theory of surrounding rock of roadway, the close relationship between the distribution pattern of 
+              <italic>J</italic>
+              <sub>2</sub>
+               and the distribution pattern of plastic zone is found, and the failure mechanism of surrounding rock is revealed. The results show that the distribution form of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress is closely related to the distribution form of plastic zone. When the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               of surrounding rock shows ‘round’, ‘oval’ and ‘butterfly’, the plastic zone shows the corresponding consistent form. When the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress produces stress concentration, the surrounding rock of roadway will produce large-scale damage. When the stress concentration is high, it may lead to malignant expansion of surrounding rock of roadway. The distribution of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress is directional. When the principal stress rotates over a certain angle, the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress rotates over the same angle as the plastic zone. Under the influence of superimposed mining, the second invariant deviatoric stress 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the wind tunnel of Yangchangwan 160,206 working face presents butterfly distribution, and the stress butterfly leaves present a certain degree of rotation. Based on the failure mode of plastic zone, the corresponding optimization support scheme is proposed, and the engineering effect is good.
+            </p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Surrounding rock control</kwd>
+            <kwd>Butterfly plastic zone</kwd>
+            <kwd>Deviatoric stress field</kwd>
+            <kwd>Second invariant of deviatoric stress</kwd>
+            <kwd>Roadway</kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>China Academy of Safety Production Science Basic Research Business Funding Special Funding</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2023JBKY12</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Huo</surname>
+                  <given-names>Tianhong</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>602</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2025</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>Springer Nature Limited</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2025</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>13</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2024_Article_83355.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>output-medium</meta-name>
+              <meta-value>All</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par2">
+            Energy is a major event related to the overall situation of economic and social development, and coal has long been the ballast and stabilizer of China’s energy security. With the increase of deep mining in coal mines and the increasing complexity of mining conditions, a series of safety problems such as roadway instability are becoming more and more prominent. The stability control of deep roadway surrounding rock has become one of the research hotspots at home and abroad
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+              ,
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . In the problem of plastic mechanics, the development of plastic deformation of roadway surrounding rock is mainly controlled by deviatoric stress
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            , and deviatoric stress is of great significance to the study of deformation and failure of roadway surrounding rock.
+          </p>
+          <p id="Par3">
+            In the problem of plastic mechanics, the development of plastic deformation of roadway surrounding rock is mainly controlled by deviatoric stress
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            , and deviatoric stress is of great significance to the study of deformation and failure of roadway surrounding rock. Many scholars have analyzed the stability of roadway surrounding rock based on deviatoric stress, and have achieved a series of research results
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              , 
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              , 
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              –
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . Zhao et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+             studied the distribution law of deviatoric stress and strain energy density of roadway surrounding rock under three-dimensional non-isobaric stress field, deduced the mechanical solution of the maximum principal deviatoric stress 
+            <italic>S</italic>
+            <sub>1</sub>
+             and the minimum principal deviatoric stress 
+            <italic>S</italic>
+            <sub>3</sub>
+             of circular roadway surrounding rock, and analyzed the distribution law of the maximum principal deviatoric stress and strain energy density of roadway surrounding rock in different dominant stress fields. He et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+             analyzed the stability of roadway surrounding rock with the maximum principal deviatoric stress as the index, and obtained the distribution of deviatoric stress under different stress states. Based on this, a high-strength comprehensive control technology was proposed, and the industrial test results were good. Wang et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+             took the second invariant of deviatoric stress as the index, combined with the numerical simulation FLAC
+            <sup>3D</sup>
+             to analyze the stability control of surrounding rock of coal roadway under the influence of multiple mining, and revealed the deformation and failure mechanism of coal rock under the influence of severe mining. In the aspect of deviatoric stress distribution and plastic zone evolution law of roadway surrounding rock, Ma et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+             studied the deviatoric stress field and plastic zone distribution law of roadway surrounding rock based on the circular hole stress solution in elastic mechanics and the deviatoric stress theory in plastic mechanics, combined with Mohr–Coulomb criterion, and deduced the calculation expression of deviatoric stress of roadway surrounding rock under non-uniform stress field and the analytical solution of plastic zone radius r. Yu et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+             established the constitutive equation of deviatoric stress and plastic zone distribution through the theory of rock mechanics, and proposed that the surrounding rock of roadway will form typical positive symmetric instability mode and typical angular symmetric instability mode. Based on the plane strain problem, Shi et al.
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+             found that 
+            <italic>J</italic>
+            <sub>2</sub>
+             will show a butterfly distribution, and clarified that the second invariant of deviatoric stress has an important influence on the failure distribution of plastic zone.
+          </p>
+          <p id="Par4">
+            In this paper, the mining roadway of Yangchangwan Mine is taken as the engineering background, and the deviatoric stress environment and failure characteristics of the surrounding rock of the mining roadway are taken as the starting point. By introducing the second invariant 
+            <italic>J</italic>
+            <sub>2</sub>
+             of the deviatoric stress tensor which can characterize the shear stress failure strength, the relationship between the distribution form and direction of the 
+            <italic>J</italic>
+            <sub>2</sub>
+             stress field and the plastic zone of the surrounding rock of the roadway under the deviatoric stress field is established, and the mechanical mechanism of the formation of different forms of the plastic zone of the surrounding rock of the roadway in the deviatoric stress field is revealed. On this basis, the temporal and spatial evolution law of the stress and plastic zone of the mining roadway in Yangchangwan Mine during the whole process of excavation and mining is studied, and the non-uniform failure mechanism of the surrounding rock of the mining roadway under the deviatoric stress field is revealed. The stability control principle of surrounding rock of mining roadway under deviatoric stress field is put forward, and the control technology of surrounding rock of mining roadway under deviatoric stress field is formed, and the field industrial test is carried out, so as to enrich the theory of plastic zone of surrounding rock of roadway and the practice of stability control.
+          </p>
+        </sec>
+        <sec id="Sec2">
+          <title>
+            Analytical solution of the second invariant 
+            <bold>
+              <italic>J</italic>
+            </bold>
+            <sub>2</sub>
+             of deviatoric stress
+          </title>
+          <sec id="Sec3">
+            <title>Elastic–plastic analysis of surrounding rock under non-uniform stress field</title>
+            <p id="Par5">
+              In underground engineering, the surrounding rock of roadway is in the three-dimensional stress field. Due to the complexity of its mathematical and mechanical analysis, the previous scholars usually use the plane strain problem to discuss. However, the model ignores the axial force of the roadway and cannot truly describe the three-dimensional stress environment of the roadway. Some theoretical studies have shown that the axial force of the roadway has an effect on the range of the plastic zone of the surrounding rock of the roadway, and the influence of the axial stress is different with the change of the stress state. Therefore, the three-dimensional stress environment of the roadway should be fully considered. When dealing with roadways with complex stress conditions such as inclined roadways and cross-layer roadways, it should be regarded as a three-dimensional space problem in elastic mechanics
+              <sup>
+                <xref ref-type="bibr" rid="CR1">1</xref>
+                ,
+                <xref ref-type="bibr" rid="CR15">15</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par6">
+              The analysis diagram of roadway surrounding rock affected by three-dimensional stress is shown in Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              . In the Figure 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+              , 
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+               and 
+              <italic>P</italic>
+              <sub>
+                <italic>z</italic>
+              </sub>
+               represent the three-dimensional stress of 
+              <italic>X</italic>
+              , 
+              <italic>Y</italic>
+               and 
+              <italic>Z</italic>
+               axes. Under the condition of three-dimensional stress, according to the theory of elastic mechanics
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+              </sup>
+              , the stress solution of any point around the surrounding rock of circular roadway in polar coordinate system can be obtained as follows:
+              <disp-formula id="Equ1">
+                <label>1</label>
+                <alternatives>
+                  <tex-math id="Equ1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \sigma_{r} &amp;= \frac{{p_{x} + p_{z} }}{2}\left( {1 - \frac{{a^{2} }}{{r^{2} }}} \right) + \frac{{p_{x} - p_{z} }}{2}\left( {1 - 4\frac{{a^{2} }}{{r^{2} }} + 3\frac{{a^{4} }}{{r^{4} }}} \right)\cos 2\theta , \hfill \\ \sigma_{\theta } &amp;= \frac{{p_{x} + p_{z} }}{2}\left( {1 + \frac{{a^{2} }}{{r^{2} }}} \right) - \frac{{p_{x} - p_{z} }}{2}\left( {1 + 3\frac{{a^{4} }}{{r^{4} }}} \right)\cos 2\theta , \hfill \\ \sigma_{y} &amp;= p_{y} - 2\mu (p_{x} - p_{z} )\frac{{a^{2} }}{{r^{2} }}\cos 2\theta , \hfill \\ \tau_{r\theta } &amp;= \frac{{p_{x} - p_{z} }}{2}\left( {1 + 2\frac{{a^{2} }}{{r^{2} }} - 3\frac{{a^{4} }}{{r^{4} }}} \right)\sin 2\theta , \hfill \\ \end{aligned}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ1.gif"/>
+                </alternatives>
+              </disp-formula>
+              where 
+              <italic>σ</italic>
+              <sub>r</sub>
+               is the radial stress at any point, 
+              <italic>σ</italic>
+              <sub>θ</sub>
+               is the circumferential stress at any point, 
+              <italic>σ</italic>
+              <sub>y</sub>
+               is the axial stress of the roadway, 
+              <italic>τ</italic>
+              <sub>rθ</sub>
+               is the shear stress at any point, 
+              <italic>a</italic>
+               is the radius of the surrounding rock of the roadway, 
+              <italic>r</italic>
+               and 
+              <italic>θ</italic>
+               are the polar coordinates of any point around the roadway, 
+              <italic>ν</italic>
+               is the Poisson’s ratio of the surrounding rock of the roadway.
+              <fig id="Fig1" position="float">
+                <label>Fig. 1</label>
+                <caption xml:lang="en">
+                  <p>Mechanical model diagram under three-dimensional stress field.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig1_HTML.png" id="MO1"/>
+              </fig>
+            </p>
+            <p id="Par7">
+              The principal stress expression of any point of roadway surrounding rock can be obtained by elastic mechanics:
+              <disp-formula id="Equ2">
+                <label>2</label>
+                <alternatives>
+                  <tex-math id="Equ2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{gathered} \sigma_{1} = \frac{{\sigma_{r} + \sigma_{\theta } }}{2} + \frac{1}{2}\sqrt {\left( {\sigma_{r} - \sigma_{\theta } } \right)^{2} + 4\tau_{r\theta }^{2} } , \hfill \\ \sigma_{2} = \sigma_{y} , \hfill \\ \sigma_{3} = \frac{{\sigma_{r} + \sigma_{\theta } }}{2} - \frac{1}{2}\sqrt {\left( {\sigma_{r} - \sigma_{\theta } } \right)^{2} + 4\tau_{r\theta }^{2} } , \hfill \\ \end{gathered}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ2.gif"/>
+                </alternatives>
+              </disp-formula>
+              where 
+              <italic>σ</italic>
+              <sub>1</sub>
+               is the maximum principal stress at any point, 
+              <italic>σ</italic>
+              <sub>2</sub>
+               is the intermediate principal stress at any point, and 
+              <italic>σ</italic>
+              <sub>3</sub>
+               is the minimum principal stress at any point.
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>
+              Analytical solution of the second invariant J
+              <sub>2</sub>
+               of deviatoric stress of surrounding rock
+            </title>
+            <p id="Par8">
+              Under general conditions, the volume and shape of the surrounding rock of the roadway will change under the action of external force. In the classical plastic theory and elastic theory, the stress sphere tensor only produces volumetric strain and has no shape change. The deviatoric stress tensor will produce shear deformation, which reflects the degree to which the actual stress state of an object deviates from the uniform stress state. Therefore, the plastic deformation of rock mass is closely related to the deviatoric stress tensor
+              <sup>
+                <xref ref-type="bibr" rid="CR3">3</xref>
+                ,
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par9">
+              Here, the spherical tensor component of the stress tensor is denoted as:
+              <disp-formula id="Equ3">
+                <label>3</label>
+                <alternatives>
+                  <tex-math id="Equ3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma_{m} { = }\frac{1}{3}\left( {\sigma_{{1}} + \sigma_{{2}} + \sigma_{{3}} } \right),$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ3.gif"/>
+                </alternatives>
+              </disp-formula>
+              <disp-formula id="Equ4">
+                <label>4</label>
+                <alternatives>
+                  <tex-math id="Equ4_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma { = }\left( {\begin{array}{*{20}c} {\sigma_{1} } &amp; 0 &amp; 0 \\ {} &amp; {\sigma_{1} } &amp; 0 \\ {S{\text{ym}}} &amp; {} &amp; {\sigma_{1} } \\ \end{array} } \right){ = }\left( {\begin{array}{*{20}c} {\sigma_{{\text{m}}} } &amp; 0 &amp; 0 \\ {} &amp; {\sigma_{{\text{m}}} } &amp; 0 \\ {S{\text{ym}}} &amp; {} &amp; {\sigma_{{\text{m}}} } \\ \end{array} } \right) + \left( {\begin{array}{*{20}c} {\sigma_{{1}} - \sigma_{{\text{m}}} } &amp; 0 &amp; 0 \\ {} &amp; {\sigma_{{2}} - \sigma_{{\text{m}}} } &amp; 0 \\ {S{\text{ym}}} &amp; {} &amp; {\sigma_{{3}} - \sigma_{{\text{m}}} } \\ \end{array} } \right).$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ4.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par10">
+              The left side of Eq. (
+              <xref rid="Equ4" ref-type="disp-formula">4</xref>
+              ) is the stress tensor 
+              <italic>σ</italic>
+              , the first term on the right side is the stress sphere tensor, and the second term is the stress partial tensor.
+            </p>
+            <p id="Par11">
+              According to the theory of elastoplastic mechanics, the size of the deviatoric stress tensor will change with the change of the coordinate system. The randomness of the coordinate system leads to the randomness of the tensor component, and the deviatoric stress tensor invariant will not change due to the change of the coordinate system
+              <sup>
+                <xref ref-type="bibr" rid="CR17">17</xref>
+              </sup>
+              . The second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress has rich physical meaning, and its expression is as follows:
+              <disp-formula id="Equ5">
+                <label>5</label>
+                <alternatives>
+                  <tex-math id="Equ5_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} J_{2} = &amp; \frac{1}{6}\left[ {\left( {\sigma_{1} - \sigma_{2} } \right)^{2} + \left( {\sigma_{2} - \sigma_{3} } \right)^{2} + \left( {\sigma_{3} - \sigma_{1} } \right)^{2} } \right] \, \\ = &amp; \, \frac{1}{3}\left[ {\sigma_{1}^{2} + \sigma_{2}^{2} + \sigma_{3}^{2} - \sigma_{1} \sigma_{2} - \sigma_{2} \sigma_{3} - \sigma_{3} \sigma_{1} } \right] \, {.} \\ \end{aligned}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ5.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par12">
+              It can be seen from Eq. (
+              <xref rid="Equ5" ref-type="disp-formula">5</xref>
+              ) that 
+              <italic>J</italic>
+              <sub>2</sub>
+               is the comprehensive quantitative index of 
+              <italic>σ</italic>
+              <sub>1,</sub>
+              <italic>σ</italic>
+              <sub>2,</sub>
+              <italic>σ</italic>
+              <sub>3</sub>
+              , and the relationship between 
+              <italic>J</italic>
+              <sub>2</sub>
+               and each shear stress is shown in Eq. (
+              <xref rid="Equ6" ref-type="disp-formula">6</xref>
+              ):
+              <disp-formula id="Equ6">
+                <label>6</label>
+                <alternatives>
+                  <tex-math id="Equ6_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$J_{2} = \frac{1}{3}q^{2} = \frac{3}{2}\tau_{8}^{2} = \frac{1}{2}\tau_{\sigma }^{2} = \tau_{s}^{2} .$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ6.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par13">
+              The above formula shows that 
+              <italic>J</italic>
+              <sub>2</sub>
+               has a fixed relationship with the generalized shear stress 
+              <italic>q</italic>
+              , octahedral shear stress 
+              <inline-formula id="IEq1">
+                <alternatives>
+                  <tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau^{8}$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_IEq1.gif"/>
+                </alternatives>
+              </inline-formula>
+               and pure shear stress 
+              <inline-formula id="IEq2">
+                <alternatives>
+                  <tex-math id="IEq2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau_{\sigma }$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_IEq2.gif"/>
+                </alternatives>
+              </inline-formula>
+              . In the plastic theory, the main reason for the yield failure of the material is caused by the shear stress of the material. Therefore, the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress can reflect the failure of rock mass and can better reflect the essence of rock mass deformation and failure.
+            </p>
+            <p id="Par14">
+              At this time, the Eq. (
+              <xref rid="Equ1" ref-type="disp-formula">1</xref>
+              ) is brought into the Eq. (
+              <xref rid="Equ2" ref-type="disp-formula">2</xref>
+              ) the principal stress transformation formula 
+              <italic>σ</italic>
+              <sub>1,</sub>
+              <italic>σ</italic>
+              <sub>2,</sub>
+              <italic>σ</italic>
+              <sub>3</sub>
+               is brought into the Eq. (
+              <xref rid="Equ5" ref-type="disp-formula">5</xref>
+              ), and the analytical expression of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the deviatoric stress at any point around the roadway can be obtained as the Eq. (
+              <xref rid="Equ7" ref-type="disp-formula">7</xref>
+              ):
+              <disp-formula id="Equ7">
+                <label>7</label>
+                <alternatives>
+                  <tex-math id="Equ7_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} J_{2} = &amp; \frac{{{9}B^{2} }}{4}\left( \frac{a}{r} \right)^{8} - \left[ {{3}B^{{2}} { + }\frac{3}{2}AB\cos 2\theta } \right]\left( \frac{a}{r} \right)^{6} + \left[ {\left( {\frac{5}{2}{ + }\frac{1}{3}(2\mu - 1)^{2} } \right)B^{2} \cos^{2} 2\theta { + }\frac{1}{{4}}A^{2} { + }AB\cos 2\theta - \frac{1}{2}B^{2} \sin^{2} 2\theta } \right]\left( \frac{a}{r} \right)^{4} \\ &amp; + \left[ {B^{2} (\sin^{2} 2\theta - \cos^{2} 2\theta ) + AB(\frac{2}{3}\mu - \frac{5}{6})\cos 2\theta - \frac{2}{3}p_{y} B(2\mu - 1)\cos 2\theta } \right]\left( \frac{a}{r} \right)^{2} + \left[ {\frac{{B^{2} }}{4} + \frac{{A^{2} }}{12} - \frac{1}{3}(A - p_{y} )} \right] \\ \end{aligned}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ7.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par15">
+              Among them, 
+              <inline-formula id="IEq3">
+                <alternatives>
+                  <tex-math id="IEq3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$A = p_{x} + p_{z} ,B = p_{x} - p_{z}$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_IEq3.gif"/>
+                </alternatives>
+              </inline-formula>
+              , here let:
+              <disp-formula id="Equa">
+                <alternatives>
+                  <tex-math id="Equa_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{gathered} K_{1} = \frac{{9}}{4}(p_{x} - p_{z} )^{2} , \hfill \\ K_{2} = - 3(p_{x} - p_{z} )^{2} - \frac{3}{2}(p_{x}^{2} - p_{z}^{2} )\cos 2\theta , \hfill \\ K_{3} = (p_{x} - p_{z} )^{2} \cos^{2} 2\theta \left[ {\frac{5}{2} + \frac{1}{3}(2\mu - 1)^{2} } \right] + \frac{1}{4}(p_{x} + p_{z} )^{2} + (p_{x}^{2} - p_{z}^{2} )\cos 2\theta - \frac{1}{2}(p_{x} - p_{z} )^{{2}} \sin^{{2}} 2\theta , \hfill \\ K_{4} = (p_{x} - p_{z} )^{2} (\sin^{2} 2\theta - \cos^{2} 2\theta ) + (p_{x}^{2} - p_{z}^{2} )\cos 2\theta \left[ {\frac{2}{3}\mu - \frac{{5}}{{6}}} \right] - \frac{2}{3}p_{y} (p_{x} - p_{z} )(2\mu - 1)\cos 2\theta , \hfill \\ K_{5} = \frac{1}{4}(p_{x} - p_{z} )^{2} + \frac{1}{12}(p_{z} + p_{x} )^{2} - \frac{1}{3}(p_{z} + p_{x} )p_{y} + \frac{1}{3}p_{y}^{2} . \hfill \\ \end{gathered}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equa.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par16">
+              Here, according to the simplification, the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the deviatoric stress at any point of the roadway surrounding rock can be resolved into an eight-order implicit equation related to the radius, such as Eq. (
+              <xref rid="Equ8" ref-type="disp-formula">8</xref>
+              ):
+              <disp-formula id="Equ8">
+                <label>8</label>
+                <alternatives>
+                  <tex-math id="Equ8_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$J_{2} = K_{1} \left( \frac{a}{r} \right)^{8} + K_{2} \left( \frac{a}{r} \right)^{6} + K_{3} \left( \frac{a}{r} \right)^{4} + K_{4} \left( \frac{a}{r} \right)^{2} + K_{5} .$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ8.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par17">
+              Under the condition that 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+              , 
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+              , 
+              <italic>P</italic>
+              <sub>
+                <italic>z</italic>
+              </sub>
+               and Poisson’s ratio v are given, the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress at any point of roadway surrounding rock can be calculated by taking 
+              <italic>r</italic>
+               and 
+              <italic>θ</italic>
+               into account.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec5">
+          <title>
+            Study on the relationship between 
+            <bold>
+              <italic>J</italic>
+            </bold>
+            <sub>2</sub>
+             and plastic zone morphology
+          </title>
+          <sec id="Sec6">
+            <title>
+              Study on J
+              <sub>2</sub>
+               distribution law of roadway surrounding rock
+            </title>
+            <p id="Par18">
+              In order to further explore the relationship between the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress and the plastic zone shape of roadway surrounding rock, the 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+              , 
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+               and 
+              <italic>P</italic>
+              <sub>
+                <italic>z</italic>
+              </sub>
+               of different ratios are brought into Eq. (
+              <xref rid="Equ8" ref-type="disp-formula">8</xref>
+              ), and the second invariant distribution map of deviatoric stress under different stress field conditions is drawn by using the built-in command of Maple software.
+            </p>
+            <p id="Par19">
+              At present, the existing research proposes that the plastic zone of roadway surrounding rock has three forms: circular, elliptical and butterfly. The circular form only exists when 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+              :
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+               = 1. With the increase of 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+              :
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+               ratio, the plastic zone of surrounding rock changes from circular to elliptical and then to butterfly. Here we fix the size of 
+              <italic>P</italic>
+              <sub>
+                <italic>z</italic>
+              </sub>
+               is 15 MPa, 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+              :
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+               = 1, Poisson’s ratio 
+              <italic>v</italic>
+               = 0.25, the radius of the roadway is 3 m. Three groups of loading schemes are set according to different lateral pressure coefficients, and the stress loading scheme is shown in Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+              .
+              <table-wrap id="Tab1">
+                <label>Table 1</label>
+                <caption xml:lang="en">
+                  <p>Loading scheme of partial stress in surrounding rock of roadway.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Numbering</p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          <italic>P</italic>
+                          <sub>
+                            <italic>x</italic>
+                          </sub>
+                          /MPa
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          <italic>P</italic>
+                          <sub>
+                            <italic>y</italic>
+                          </sub>
+                          /MPa
+                        </p>
+                      </th>
+                      <th align="left">
+                        <p>
+                          <italic>P</italic>
+                          <sub>
+                            <italic>z</italic>
+                          </sub>
+                          /MPa
+                        </p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>I</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>6</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>6</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>15</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>II</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>12</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>12</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>15</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>III</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>15</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>15</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>15</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </p>
+            <p id="Par20">
+              The distribution of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               isoline of the deviatoric stress of roadway surrounding rock under different stress loading conditions is shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              . From the isoline stress diagram, it can be seen that.
+              <fig id="Fig2" position="float">
+                <label>Fig. 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    Isoline distribution map of the second invariant 
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     of roadway surrounding rock under different lateral pressure coefficients.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig2_HTML.png" id="MO2"/>
+              </fig>
+            </p>
+            <p id="Par21">
+              The distribution of the second invariant
+              <italic> J</italic>
+              <sub>2</sub>
+               isoline of the deviatoric stress of roadway surrounding rock under different stress loading conditions is shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              . When 
+              <italic>μ</italic>
+               = 1.0, the size of 
+              <italic>J</italic>
+              <sub>2</sub>
+               around the roadway surrounding rock is exactly the same, and the size of 
+              <italic>J</italic>
+              <sub>2</sub>
+               around the roadway is decreasing in a ‘ring’ shape. When 
+              <italic>μ</italic>
+               = 0.8, the distribution around the roadway 
+              <italic>J</italic>
+              <sub>2</sub>
+               began to show non-uniform characteristics, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               at the roof of the roadway gradually decreased, the deviatoric stress of the two sides of the roadway gradually increased, and the deviatoric stress contour showed a transverse elliptical distribution. When 
+              <italic>μ</italic>
+               = 0.4, the deviatoric stress at the roof of the roadway continues to decrease, and the deviatoric stress at the side of the roadway gradually increases. As the distance from the roadway increases, the deviatoric stress of the roadway gradually expands to the angular bisector of the four quadrants, and the shape of the deviatoric stress of the surrounding rock of the roadway presents a butterfly shape.
+            </p>
+            <p id="Par22">
+              From the above comprehensive analysis, it can be seen that the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution patterns of roadway surrounding rock under different stress environments are roughly divided into three types: ‘round’, ‘oval’ and ‘butterfly’. Under different stress conditions, the concentration degree of 
+              <italic>J</italic>
+              <sub>2</sub>
+               at different positions around the roadway is quite different. When the surrounding rock of the roadway is in the state of hydrostatic pressure, the stress concentration degree of the roadway is completely consistent. When the partial stress form of the roadway is elliptical, the support of the two sides or the roof and floor should be paid attention to. When the partial stress of the roadway is butterfly shape, the stress concentration of the four quadrant angle bisector of the roadway should be paid attention to.
+            </p>
+          </sec>
+          <sec id="Sec7">
+            <title>
+              Theoretical study on the relationship between J
+              <sub>2</sub>
+               distribution and plastic zone morphology
+            </title>
+            <p id="Par23">
+              After roadway excavation, energy release occurs around the roadway, and deviatoric stress concentration occurs around the roadway. Deviatoric stress 
+              <italic>J</italic>
+              <sub>2</sub>
+               leads to plastic deformation of rock mass, which may lead to malignant expansion of plastic zone in severe cases. Therefore, it is of great significance for reasonable roadway support design to deeply study the relationship between 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution law and plastic zone morphology of roadway.
+            </p>
+            <p id="Par24">
+              In Refs.
+              <sup>
+                <xref ref-type="bibr" rid="CR18">18</xref>
+                ,
+                <xref ref-type="bibr" rid="CR19">19</xref>
+              </sup>
+              , the eighth-order implicit equation of plastic zone boundary at any point of surrounding rock of circular roadway in non-uniform stress field is derived. The approximate implicit solution is based on the most commonly used Mohr–Coulomb criterion as the failure criterion, and the stress solution of any point of surrounding rock of circular roadway in elastic mechanics theory is brought into the criterion.
+            </p>
+            <p id="Par25">
+              According to the eight-order implicit equation of the plastic zone, some specific parameter values are set, 
+              <italic>a</italic>
+               = 3 m, 
+              <italic>φ</italic>
+               = 27°, 
+              <italic>C</italic>
+               = 2 MPa. By bringing the above three stress loading schemes into the equation, the plastic zone morphology under different stress loading conditions is obtained as shown in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              .
+              <fig id="Fig3" position="float">
+                <label>Fig. 3</label>
+                <caption xml:lang="en">
+                  <p>Morphology distribution of plastic zone under different stress loading schemes of roadway surrounding rock.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig3_HTML.png" id="MO3"/>
+              </fig>
+            </p>
+            <p id="Par26">
+              Reference
+              <sup>
+                <xref ref-type="bibr" rid="CR20">20</xref>
+              </sup>
+               gives the criteria for judging the shape of the plastic zone of the surrounding rock of the roadway. Through the shape distribution of the plastic zone in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+               and the criteria for judging the shape, the following rules can be obtained:
+              <list list-type="order">
+                <list-item>
+                  <p id="Par27">When the lateral pressure coefficient is 0.4, the longitudinal axis and transverse axis of the coordinate shrink in the direction of the center of the coordinate circle, and the boundary of the plastic zone in the coordinate quadrant expands. The maximum boundary of the plastic zone of the roadway occurs in four quadrants, and the shape of the plastic zone is ‘vertical butterfly’.</p>
+                </list-item>
+                <list-item>
+                  <p id="Par28">When the lateral pressure coefficient is 0.8, the minimum boundary is located on the longitudinal axis of the coordinate axis, the elliptical focus is located on the transverse axis, and the shape of the plastic zone is ‘transverse ellipse’.</p>
+                </list-item>
+                <list-item>
+                  <p id="Par29">When the lateral pressure coefficient is 1.0, in the hydrostatic pressure field, the plastic zone boundary of the roadway surrounding rock is a standard ‘circular’ shape.</p>
+                </list-item>
+              </list>
+            </p>
+            <p id="Par30">
+              Through the study of 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution law under different stress fields of roadway surrounding rock in “
+              <xref rid="Sec6" ref-type="sec">
+                Study on J
+                <sub>2</sub>
+                 distribution law of roadway surrounding rock
+              </xref>
+              ” section and the study of plastic zone morphology under different stress fields in “
+              <xref rid="Sec7" ref-type="sec">
+                Theoretical study on the relationship between J
+                <sub>2</sub>
+                 distribution and plastic zone morphology
+              </xref>
+              ” section, it can be seen that under different stress fields, the distribution pattern of 
+              <italic>J</italic>
+              <sub>2</sub>
+               is almost the same as that of plastic zone, showing three forms of ‘circle’, ‘oval’ and ‘butterfly’. In summary, it can be found that the distribution pattern of 
+              <italic>J</italic>
+              <sub>2</sub>
+               is closely related to the shape of plastic zone.
+            </p>
+          </sec>
+          <sec id="Sec8">
+            <title>
+              Numerical simulation study on the relationship between J
+              <sub>2</sub>
+               distribution and plastic zone morphology
+            </title>
+            <p id="Par31">
+              FLAC
+              <sup>3D</sup>
+               can simulate the stress characteristics and plastic flow analysis of three-dimensional structures such as soil and rock. Therefore, in this paper, the finite difference method is used to simulate the distribution characteristics of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress and the failure range and morphology of plastic zone under different three-dimensional stress fields, so as to analyze the close relationship between deviatoric stress morphology and plastic zone morphology.
+            </p>
+            <p id="Par32">
+              In this paper, a numerical model with a circular roadway section is established. This model has a total of 153,360 units. The surrounding rock is regarded as the equivalent rock mass material of the same sex. The rock mechanics parameters are shown in Table 
+              <xref rid="Tab2" ref-type="table">2</xref>
+              . The Mohr–Coulomb model is used. The surrounding and bottom of the model are set as the displacement boundary, the roof is set as the stress boundary, and the upper load is 15 MPa.
+              <table-wrap id="Tab2">
+                <label>Table 2</label>
+                <caption xml:lang="en">
+                  <p>Molar coulomb rock mechanics parameter table.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>Poisson ratio</p>
+                      </th>
+                      <th align="left">
+                        <p>Cohesion/MPa</p>
+                      </th>
+                      <th align="left">
+                        <p>Tensile strength/MPa</p>
+                      </th>
+                      <th align="left">
+                        <p>Bulk modulus/GPa</p>
+                      </th>
+                      <th align="left">
+                        <p>Angle of internal friction/(°)</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>0.25</p>
+                      </td>
+                      <td align="left">
+                        <p>2</p>
+                      </td>
+                      <td char="." align="char">
+                        <p>1.5</p>
+                      </td>
+                      <td align="left">
+                        <p>4</p>
+                      </td>
+                      <td align="left">
+                        <p>27</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </p>
+            <p id="Par33">
+              In this simulation, three simulation schemes under different stress environments are set up, and different load loading parameters are shown in Table 
+              <xref rid="Tab2" ref-type="table">2</xref>
+               in “
+              <xref rid="Sec6" ref-type="sec">
+                Study on J
+                <sub>2</sub>
+                 distribution law of roadway surrounding rock
+              </xref>
+              ” section.
+            </p>
+            <p id="Par34">
+              Figure 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+               shows the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution diagram under different lateral pressure coefficients. It can be seen from the Fig. that: (1) Due to the excavation of the roadway, the second invariant deviatoric stress is redistributed, the deviatoric stress unloading occurs around the excavation space, and the 
+              <italic>J</italic>
+              <sub>2</sub>
+               concentration area develops to the deep part of the roadway. (2) When the lateral pressure coefficient is 0.4, the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               presents a butterfly shape, and the deviatoric stress 
+              <italic>J</italic>
+              <sub>2</sub>
+               is mainly concentrated in the side and four corners of the roadway, and the deviatoric stress at the side and wing angle increases first and then decreases with the increase of surrounding rock depth. (3) When the lateral pressure coefficient is 0.8, the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               presents an elliptical shape, and the concentration of 
+              <italic>J</italic>
+              <sub>2</sub>
+               in the two sides is greater than that in the roof and floor. (4) When the lateral pressure coefficient is 1, the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               presents a circular shape, and the concentration of 
+              <italic>J</italic>
+              <sub>2</sub>
+               around the roadway is very uniform.
+              <fig id="Fig4" position="float">
+                <label>Fig. 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    Diagram of 
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     distribution under different lateral pressure coefficients.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig4_HTML.png" id="MO4"/>
+              </fig>
+            </p>
+            <p id="Par35">
+              The distribution diagram of plastic zone under different lateral pressure coefficients is shown in Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              . When the lateral pressure coefficient is 0.4, the plastic zone of surrounding rock is characterized by butterfly shape. When the lateral pressure coefficient is 0.8, the plastic zone of surrounding rock is characterized by elliptical shape. When the lateral pressure coefficient is 1.0, the plastic zone of surrounding rock is characterized by circular shape.
+              <fig id="Fig5" position="float">
+                <label>Fig. 5</label>
+                <caption xml:lang="en">
+                  <p>Diagram of plastic zone distribution under different lateral pressure coefficients.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig5_HTML.png" id="MO5"/>
+              </fig>
+            </p>
+            <p id="Par36">
+              Through the numerical simulation results of Figs. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+               and 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              , it can be seen that the distribution of the second invariant deviator stress 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the surrounding rock of the roadway is closely related to the distribution of the plastic failure of the surrounding rock. When the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               presents butterfly, oval and circular, the plastic zone failure also presents the corresponding form.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec9">
+          <title>
+            Study on 
+            <bold>
+              <italic>J</italic>
+            </bold>
+            <sub>2</sub>
+             directionality of surrounding rock under non-uniform stress field
+          </title>
+          <p id="Par37">In the process of advancing the working face, the direct roof is constantly falling due to the increase of the exposed area, and the hinged structure formed by the rock block during the rotation process leads to the rotation of the local stress field direction of the surrounding rock of the roadway. When the stress field of the roadway rotates, it will lead to the rotation of the plastic zone of the surrounding rock of the roadway. When the shape of the plastic zone is’butterfly’, the rotation of the stress field will cause the butterfly leaf to be located near the roof, which may lead to serious roof fall disaster.</p>
+          <sec id="Sec10">
+            <title>
+              Theoretical analysis of J
+              <sub>2</sub>
+               directionality of surrounding rock under non-uniform stress field
+            </title>
+            <p id="Par38">
+              In order to study the directionality of the second invariant deviator stress 
+              <italic>J</italic>
+              <sub>2</sub>
+              , the deflection angle α is brought into Eq. (
+              <xref rid="Equ7" ref-type="disp-formula">7</xref>
+              ) to obtain the expression of the second invariant deviator stress when the stress rotates (Eq. 
+              <xref rid="Equ9" ref-type="disp-formula">9</xref>
+              ):
+              <disp-formula id="Equ9">
+                <label>9</label>
+                <alternatives>
+                  <tex-math id="Equ9_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} J_{2} = &amp; \frac{{{9}B^{2} }}{4}\left( \frac{a}{r} \right)^{8} - \left[ {{3}B^{{2}} { + }\frac{3}{2}AB\cos 2(\theta - \alpha )} \right]\left( \frac{a}{r} \right)^{6} + \left[ \begin{gathered} \left( {\frac{5}{2}{ + }\frac{1}{3}(2\mu - 1)^{2} } \right)B^{2} \cos^{2} 2(\theta - \alpha ){ + } \hfill \\ \frac{1}{{4}}A^{2} { + }AB\cos 2(\theta - \alpha ) - \frac{1}{2}B^{2} \sin^{2} 2(\theta - \alpha ) \hfill \\ \end{gathered} \right]\left( \frac{a}{r} \right)^{4} \\ &amp; + \left[ \begin{gathered} B^{2} (\sin^{2} 2(\theta - \alpha ) - \cos^{2} 2(\theta - \alpha )) + \hfill \\ AB(\frac{2}{3}\mu - \frac{5}{6})\cos 2(\theta - \alpha ) - \frac{2}{3}p_{y} B(2\mu - 1)\cos 2(\theta - \alpha ) \hfill \\ \end{gathered} \right]\left( \frac{a}{r} \right)^{2} + \left[ {\frac{{B^{2} }}{4} + \frac{{A^{2} }}{12} - \frac{1}{3}(A - p_{y} )} \right]. \\ \end{aligned}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41598_2024_83355_Article_Equ9.gif"/>
+                </alternatives>
+              </disp-formula>
+            </p>
+            <p id="Par39">
+              In order to study the influence of principal stress deflection on 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution, the deflection angles α of 0°, 15°, 30°, 45°, 60°, 75° and 90° are brought into Eq. (
+              <xref rid="Equ9" ref-type="disp-formula">9</xref>
+              ). The 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution diagram when 
+              <italic>P</italic>
+              <sub>
+                <italic>x</italic>
+              </sub>
+               = 20 MPa, 
+              <italic>P</italic>
+              <sub>
+                <italic>y</italic>
+              </sub>
+               = 10 MPa, 
+              <italic>P</italic>
+              <sub>
+                <italic>z</italic>
+              </sub>
+               = 8 MPa, 
+              <italic>v</italic>
+               = 0.25, 
+              <italic>a</italic>
+               = 3 m and 5 m away from the center of the roadway is shown in Fig. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+              :
+              <fig id="Fig6" position="float">
+                <label>Fig. 6</label>
+                <caption xml:lang="en">
+                  <p>
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     distribution diagram under different stress deflection angles.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig6_HTML.png" id="MO6"/>
+              </fig>
+            </p>
+            <p id="Par40">
+              It can be clearly seen from Fig. 
+              <xref rid="Fig6" ref-type="fig">6</xref>
+               that under the above stress environment, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution at the radius of 5 m of the roadway presents a butterfly shape, and the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution will deflect to a certain extent with the rotation of the principal stress. When the principal stress of the roadway deflects at a certain angle, the roadway 
+              <italic>J</italic>
+              <sub>2</sub>
+               also deflects through the same angle, and the deflection of the principal stress leads to a significant difference in the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               values around the roadway. And when α is 0°, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution value of the roadway roof and the wing angle is much larger than that of the two sides. When α is 45°, the deviatoric stress value of the first three quadrants of the roadway coordinate system is larger. When α is 90°, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution value of the two sides of the roadway and the wing angle is much larger than that of the roof and floor.
+            </p>
+            <p id="Par41">
+              In the literature
+              <sup>
+                <xref ref-type="bibr" rid="CR21">21</xref>
+              </sup>
+              , the boundary equation of plastic zone under the condition of principal stress deflection under non-hydrostatic pressure is derived. The above stress environment is brought into the equation to obtain the plastic zone distribution diagram of roadway surrounding rock under different deflection angles as shown in Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+               (
+              <italic>a</italic>
+               = 3 m, 
+              <italic>φ</italic>
+               = 29°, 
+              <italic>C</italic>
+               = 3 MPa).
+              <fig id="Fig7" position="float">
+                <label>Fig. 7</label>
+                <caption xml:lang="en">
+                  <p>Diagram of plastic zone distribution under different stress deflection angles.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig7_HTML.png" id="MO7"/>
+              </fig>
+            </p>
+            <p id="Par42">
+              From Fig. 
+              <xref rid="Fig7" ref-type="fig">7</xref>
+              , it can be seen that under the above stress environment, the shape of the plastic zone of the surrounding rock of the roadway presents a butterfly distribution, which is consistent with the distribution of the above deviatoric stress 
+              <italic>J</italic>
+              <sub>2</sub>
+              . The butterfly leaf in the plastic zone will deflect with the rotation of the principal stress. When the principal stress rotates at a certain angle, the plastic zone will also deflect at the same angle, and the shape of the plastic zone will not change. In addition, there is a one-to-one correspondence between the 
+              <italic>J</italic>
+              <sub>2</sub>
+               value and the depth of the plastic zone. The larger the 
+              <italic>J</italic>
+              <sub>2</sub>
+               value of the surrounding rock of the roadway, the greater the depth of the plastic zone. When α is 0°, the failure of surrounding rock mainly occurs in the roof and floor of the roadway and the four corners, and almost no damage occurs in the two sides. When α is 45°, the roof and floor, two sides and one and three quadrants of the roadway are damaged in a large range, while the damage range near the angle bisector of the two and four quadrants is smaller. When α is 90°, a large range of damage occurs at the two sides of the roadway and the wing angle, and the roof and floor are almost not damaged.
+            </p>
+          </sec>
+          <sec id="Sec11">
+            <title>
+              Numerical simulation study on J
+              <sub>2</sub>
+               directionality of surrounding rock under non-uniform stress field
+            </title>
+            <p id="Par43">
+              On the basis of theoretical analysis, the numerical simulation analysis of the above six different stress deflection angles is carried out. The plastic zone and 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution obtained by numerical simulation analysis are shown in Fig. 
+              <xref rid="Fig8" ref-type="fig">8</xref>
+               (
+              <italic>a</italic>
+               = 3 m, 
+              <italic>φ</italic>
+               = 29°, 
+              <italic>C</italic>
+               = 3 MPa).
+              <fig id="Fig8" position="float">
+                <label>Fig. 8</label>
+                <caption xml:lang="en">
+                  <p>
+                    The diagram of plastic zone and 
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     distribution under different stress deflection angles.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig8_HTML.png" id="MO8"/>
+              </fig>
+            </p>
+            <p id="Par44">
+              It can be seen from Fig. 
+              <xref rid="Fig8" ref-type="fig">8</xref>
+               that 
+              <italic>J</italic>
+              <sub>2</sub>
+               presents a butterfly distribution under different stress deflection angles, and the stress butterfly leaf deflects with the rotation of the principal stress direction. The rotation angle is almost the same as the stress deflection angle, which is consistent with the above theoretical analysis results. For the distribution of plastic zone of surrounding rock, the shape of plastic zone under different stress deflection angles is butterfly, which is completely consistent with the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+              , and the deflection angle of butterfly leaf in plastic zone is almost consistent with the deflection angle of principal stress, which is also consistent with the above theoretical analysis.
+            </p>
+            <p id="Par45">
+              Combined with the schematic diagram of plastic zone and deviatoric stress distribution, it can be seen that when the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution is deflected, it may lead to 
+              <italic>J</italic>
+              <sub>2</sub>
+               concentration near the roadway roof. When the concentration of deviatoric stress is high, it will lead to a wide range of uneven plastic expansion of the roof. In severe cases, it may lead to roof leakage and roof fall accidents.
+            </p>
+            <p id="Par46">
+              Based on the above analysis, it can be seen that when the principal stress rotates at a certain angle, the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the deviatoric stress of the surrounding rock and the plastic zone both deflect through the same angle. Combined with the analysis of “
+              <xref rid="Sec7" ref-type="sec">
+                Theoretical study on the relationship between J
+                <sub>2</sub>
+                 distribution and plastic zone morphology
+              </xref>
+              ” section, it can be seen that when the stress concentration occurs in 
+              <italic>J</italic>
+              <sub>2</sub>
+              , it will lead to a large range of damage to the surrounding rock. Therefore, when analyzing the stability of roadway surrounding rock, we should pay attention to the directionality of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of roadway deviatoric stress, and focus on supporting the 
+              <italic>J</italic>
+              <sub>2</sub>
+               concentration area.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec12">
+          <title>Project applications</title>
+          <sec id="Sec13">
+            <title>Engineering overview and deformation and failure of surrounding rock</title>
+            <p id="Par47">
+              The average vertical depth of 160,206 fully mechanized caving face in Yangchangwan Coal Mine is 592 m from the ground. The north is bounded by the 1#open-off cut of 160,206 working face, and the south is bounded by the return air downhill in the north wing of 16 mining area. The working face is adjacent to the goaf of 120,212 working face, and the coal pillar is set at 30 m. The 160,206 working face adopts the longwall retreating top coal caving mining method. The mining height is 4 m, the top coal thickness is 5.3 m, and the mining ratio is 
+              <italic>N</italic>
+               = 1:1.33. The return air roadway of 160,206 working face is 2387 m, and the working face distribution diagram is shown in Fig. 
+              <xref rid="Fig9" ref-type="fig">9</xref>
+              .
+              <fig id="Fig9" position="float">
+                <label>Fig. 9</label>
+                <caption xml:lang="en">
+                  <p>160,206 working face layout diagram.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig9_HTML.png" id="MO9"/>
+              </fig>
+            </p>
+            <p id="Par48">
+              The second-layer coal roof is a composite roof, and the lithology changes greatly. There is a thin layer of false roof in the local area, and the thickness changes greatly. The bottom of the direct roof often contains several layers of thin coal, which causes the roof to fall easily. There are some deformation and failure characteristics of surrounding rock in some areas of 160,206 return air roadway, such as asymmetric large deformation of roof, serious roof fall, distorted deformation and fracture failure of roof steel beam, cracking and falling of floor heave and shotcrete layer, and over-width of roadway rib, as shown in Fig. 
+              <xref rid="Fig10" ref-type="fig">10</xref>
+              .
+              <fig id="Fig10" position="float">
+                <label>Fig. 10</label>
+                <caption xml:lang="en">
+                  <p>Deformation of surrounding rock in roadway.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig10_HTML.png" id="MO10"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec14">
+            <title>
+              Study on the distribution of the second invariant J
+              <sub>2</sub>
+               in return airway
+            </title>
+            <p id="Par49">
+              In this paper, FLAC
+              <sup>3D</sup>
+               numerical model is established based on the engineering background of 120,212 and 160,206 working face in Yangchangwan. The dimensions of the model in 
+              <italic>X</italic>
+              , 
+              <italic>Y</italic>
+               and 
+              <italic>Z</italic>
+               directions are 850 m, 1170 m and 150 m, respectively. The whole model is composed of 1,634,270 grids, of which 160,206 return air roadway is meshed, and the double yield model is used to fill the goaf. When the working face of the upper section is advanced, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution cloud map of 160,206 return air roadway is shown in Fig. 
+              <xref rid="Fig11" ref-type="fig">11</xref>
+              .
+              <fig id="Fig11" position="float">
+                <label>Fig. 11</label>
+                <caption xml:lang="en">
+                  <p>
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     distribution cloud diagram of surrounding rock of return air roadway after advancing of 120,212 working face.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig11_HTML.png" id="MO11"/>
+              </fig>
+            </p>
+            <p id="Par50">
+              When the left side of the return air roadway is 120,212 solid coal area, the mining roadway is less affected by the abutment pressure of the lateral goaf, and the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress concentration degree of the surrounding rock of the roadway is low and basically presents a uniform and symmetrical ‘oval’ distribution; when the left side of the return airway is 120,212 solid coal-goaf transition area, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress concentration of the surrounding rock of the roadway gradually increases due to the combined influence of the lateral goaf abutment pressure and the original rock stress. When the return airway is 370 m away from the open-off cut, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress form gradually changes from ‘oval’ to ‘butterfly’. Due to the stress deflection, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               butterfly leaf gradually deflects to the side of the goaf, and the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress changes from the uniform and symmetrical distribution of the solid coal stage to the non-uniform and asymmetric distribution. The stress is mainly concentrated in the coal pillar side and the floor near the coal pillar side, as well as the coal wall side and the roof near the coal wall side. When the left side of the return air roadway is 120,212 goaf area, the joint influence of lateral abutment pressure and original rock stress is intensified. At this time, the concentration degree of 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress butterfly leaf is increasing, and the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress form is gradually changed from ‘butterfly’ to ‘butterfly’, and the deflection angle of stress butterfly leaf remains basically unchanged. At the same time, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress butterfly leaf on the side of the coal wall is stably expanded, and the stress concentration degree is gradually transferred from the shallow part to the deep part. The 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress butterfly leaf on the side of the coal pillar and the 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress in the lateral goaf are connected in a large range, and the instability of the butterfly leaf stress is generated. Rapid expansion is not conducive to the stability of the surrounding rock of the roadway. With the increase of the distance from the open-off cut, although the’butterfly shape’ has different expansion ranges, it basically remains unchanged in shape.
+            </p>
+            <p id="Par51">
+              The 
+              <italic>J</italic>
+              <sub>2</sub>
+               distribution cloud diagram of 160,206 return airway under different working face advancement is shown in Fig. 
+              <xref rid="Fig12" ref-type="fig">12</xref>
+              . In the process of 160,206 working face gradually advancing towards 120,212 goaf area, the surrounding rock 
+              <italic>J</italic>
+              <sub>2</sub>
+               of roadway is always under the influence of high deviatoric stress environment. At the 10 m position of the advanced working face, 
+              <italic>J</italic>
+              <sub>2</sub>
+               has different degrees of stress concentration in the coal pillar side and the coal wall side. With the increase of the distance of the advanced working face, 
+              <italic>J</italic>
+              <sub>2</sub>
+               is mainly affected by the complex superposition of the abutment pressure of the lateral goaf and the mining stress in front of the working face. Its morphological evolution law is basically the same as that of the excavation influence stage. At this stage, the roadway coal pillar side and its floor, coal wall side and its surrounding rock within the roof range have obvious 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress concentration. This is inevitably related to the monitoring results of the surrounding rock of the roadway, that is, the roof of the coal pillar, the floor of the coal wall and the non-uniform deformation and failure of the two sides.
+              <fig id="Fig12" position="float">
+                <label>Fig. 12</label>
+                <caption xml:lang="en">
+                  <p>
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     distribution cloud diagram of surrounding rock of return air roadway under different advance degrees.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig12_HTML.png" id="MO12"/>
+              </fig>
+            </p>
+            <p id="Par52">
+              Based on the close relationship between the distribution pattern of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the deviatoric stress tensor and the distribution pattern of the plastic zone obtained from the above analysis, that is, when the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               in the surrounding rock of the roadway presents ‘circular’, ‘elliptical’ and ‘butterfly’, the plastic zone of the surrounding rock of the roadway also presents a corresponding consistent shape. Based on the analysis of the dynamic distribution law of 
+              <italic>J</italic>
+              <sub>2</sub>
+               and the evolution law of the plastic zone in the surrounding rock of the roadway under the deviatoric stress field, the 
+              <italic>J</italic>
+              <sub>2</sub>
+               and the plastic zone morphology at different positions of the return air roadway from the open-off cut before and after the advance of the 160,206 working face are selected, as shown in Figs. 
+              <xref rid="Fig13" ref-type="fig">13</xref>
+               and 
+              <xref rid="Fig14" ref-type="fig">14</xref>
+              . The law between 
+              <italic>J</italic>
+              <sub>2</sub>
+               and plastic zone of roadway surrounding rock in shape and direction during excavation and mining is compared and analyzed, and the non-uniform failure mechanism of roadway surrounding rock during excavation is revealed.
+              <fig id="Fig13" position="float">
+                <label>Fig. 13</label>
+                <caption xml:lang="en">
+                  <p>
+                    Comparison of 
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     and plastic zone distribution when 160,206 working face advances 400 m.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig13_HTML.png" id="MO13"/>
+              </fig>
+              <fig id="Fig14" position="float">
+                <label>Fig. 14</label>
+                <caption xml:lang="en">
+                  <p>
+                    Comparison of 
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     and plastic zone morphology at different positions when 160,206 working face advances 400 m.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig14_HTML.png" id="MO14"/>
+              </fig>
+            </p>
+            <p id="Par53">
+              From the diagram, it can be seen that the 160,206 return air roadway is affected by the 120,212 lateral goaf at different positions in the mining influence stage such as excavation and mining. There are three forms of ‘oval’, ‘butterfly’ front state and ‘butterfly’ in the surrounding rock 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the roadway. Among them, the ‘butterfly’ front state and ‘butterfly’ form are non-uniformly and asymmetrically distributed, and the corresponding surrounding rock plastic zone also has three forms of ‘oval’, ‘butterfly’ front state and ‘butterfly’. And the plastic zone of surrounding rock deflects in the same direction and angle with the deflection of 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress. Therefore, there is a one-to-one correspondence between 
+              <italic>J</italic>
+              <sub>2</sub>
+               stress and plastic zone in the form and direction of mining roadway surrounding rock under deviatoric stress field, and the depth of stress concentration and plastic zone development is basically consistent.
+            </p>
+          </sec>
+          <sec id="Sec15">
+            <title>Surrounding rock control technology program</title>
+            <p id="Par54">
+              Based on the above analysis, the surrounding rock control idea of’whole-part-region’ three-dimensional integration of mining roadway under partial stress field is put forward
+              <sup>
+                <xref ref-type="bibr" rid="CR22">22</xref>
+                ,
+                <xref ref-type="bibr" rid="CR23">23</xref>
+              </sup>
+              :
+              <list list-type="order">
+                <list-item>
+                  <p id="Par55">
+                    Regulating the high deviatoric stress environment of the roadway to prevent the formation of 
+                    <italic>J</italic>
+                    <sub>2</sub>
+                     stress concentration in the roadway. The main measures include:
+                  </p>
+                  <p id="Par56">
+                    The parameters of deep hole pre-splitting blasting are shown in Fig. 
+                    <xref rid="Fig15" ref-type="fig">15</xref>
+                    . Firstly, a deep hole pre-splitting blasting pressure relief drilling field is arranged every 20 m on the side roof of the coal wall. Three holes are constructed in each drilling field. The diameter of the hole is 79 mm, the depth of the hole is 30 m, and the hole is about 1 m from the side of the roadway. The three holes are perpendicular to the direction of the roadway, and the drilling is carried out along the elevation angle of 55°, 65° and 75° respectively. The charge of each hole is 25 kg, 28 kg and 30 kg respectively, and the length of the hole is not less than 10 m. On the side roof of the coal pillar, a deep hole pre-splitting blasting pressure relief drilling field is arranged every 10 m, and one hole is constructed in each drilling field. The hole diameter is 79 mm and the hole depth is 30 m. The hole mouth is about 1m away from the roadway side, the borehole is perpendicular to the direction of the roadway, the elevation angle is 75°, the charge of each borehole is 25 kg, and the sealing length is not less than 10 m.
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par57">
+                    According to the development degree and range of the plastic zone of the surrounding rock of the roadway, the sensitive position of the roadway section is strengthened and the anchoring end of the supporting body is in the elastic zone of the rock mass. The asymmetric long and short bolt (cable) coordinated strengthening support can not only improve the stress state of the shallow surrounding rock, inhibit the malignant expansion of the butterfly wing in the plastic zone, but also make the roadway maintain unified coordinated deformation and stability. On the basis of the advanced deep hole pre-splitting blasting of the surrounding rock of the roof as a whole, the surrounding rock of the local roadway is still seriously deformed, showing serious drums on both sides. The bottom heave of the coal pillar side is greater than that of the coal wall side, and the subsidence of the coal wall side roof is greater than the non-uniform deformation and failure characteristics of the coal pillar side. In view of the’butterfly’ non-uniform distribution of the plastic zone of the surrounding rock under the mining-induced deviatoric stress field, the existing roof support is a non-uniform support method with the center of the roadway as the symmetrical axis and the side support of the coal pillar greater than the side support of the coal wall. While bearing serious costs, it does not provide good support for the surrounding rock of the roadway, and the deformation of the surrounding rock of the roadway is large. Based on the existing roadway support, it is proposed to strengthen the coordinated support of asymmetric long and short anchor cables in the local area of the surrounding rock section of the roadway. The main support parameters are shown in Table 
+                    <xref rid="Tab3" ref-type="table">3</xref>
+                     and Fig. 
+                    <xref rid="Fig16" ref-type="fig">16</xref>
+                    .
+                  </p>
+                </list-item>
+              </list>
+              <fig id="Fig15" position="float">
+                <label>Fig. 15</label>
+                <caption xml:lang="en">
+                  <p>Deep hole pre-splitting blasting pressure relief hole layout.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig15_HTML.png" id="MO15"/>
+              </fig>
+              <table-wrap id="Tab3">
+                <label>Table 3</label>
+                <caption xml:lang="en">
+                  <p>Strengthening support parameters.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left">
+                        <p>No</p>
+                      </th>
+                      <th align="left">
+                        <p>Anchor cable size</p>
+                      </th>
+                      <th align="left">
+                        <p>Type and quantity of anchoring agent</p>
+                      </th>
+                      <th align="left">
+                        <p>The specific location and number of supplementary hits</p>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">
+                        <p>1</p>
+                      </td>
+                      <td align="left">
+                        <p>φ28.6 mm × 8300 mm</p>
+                      </td>
+                      <td align="left">
+                        <p>K2870 (2), Z2870 (2)</p>
+                      </td>
+                      <td align="left">
+                        <p>One every 2 m along the roadway strike</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>2</p>
+                      </td>
+                      <td align="left">
+                        <p>φ28.6 mm × 8300 mm</p>
+                      </td>
+                      <td align="left">
+                        <p>K2870 (2), Z2870 (2)</p>
+                      </td>
+                      <td align="left">
+                        <p>Along the direction of the maximum development depth of the plastic zone, 1 root is added every 2 m</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left">
+                        <p>3</p>
+                      </td>
+                      <td align="left">
+                        <p>φ21.8 mm × 6300 mm</p>
+                      </td>
+                      <td align="left">
+                        <p>K2370 (1), Z2370 (2)</p>
+                      </td>
+                      <td align="left">
+                        <p>Coal wall side and coal pillar side</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+              <fig id="Fig16" position="float">
+                <label>Fig. 16</label>
+                <caption xml:lang="en">
+                  <p>Roadway strengthening support diagram.</p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2024_83355_Fig16_HTML.png" id="MO16"/>
+              </fig>
+            </p>
+            <p id="Par58">In order to verify the rationality of the support scheme and the pressure relief of the borehole, the surface displacement of the roadway was monitored in the return air roadway of 160,206 working face. The field engineering test results show that the J2 stress field shape is regulated by the deep hole pre-splitting blasting of the roof, the malignant expansion of the butterfly wing in the plastic zone is inhibited by the asymmetric long and short anchor cable, the hidden danger of roof fall in the key area is eliminated by the pumping pillar and the non-repeated support unit support, the deformation of the roadway roof is effectively reduced, and the safe and efficient production of the working face is guaranteed.</p>
+          </sec>
+        </sec>
+        <sec id="Sec16" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p id="Par59">
+            <list list-type="order">
+              <list-item>
+                <p id="Par60">
+                  The expression of the second invariant 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   of deviatoric stress at any point around the surrounding rock of circular roadway under non-uniform stress field is obtained. It is found that the distribution of 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   under different stress environments will appear in three forms: ‘circular’, ‘oval’ and ‘butterfly’.
+                </p>
+              </list-item>
+              <list-item>
+                <p id="Par61">
+                  The distribution pattern of the second invariant 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   of deviatoric stress is closely related to the distribution pattern of plastic zone. When the distribution of surrounding rock 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   presents ‘circular’, ‘elliptical’ and ‘butterfly’, the plastic zone presents a corresponding consistent shape.
+                </p>
+              </list-item>
+              <list-item>
+                <p id="Par62">
+                  When the second invariant of deviatoric stress 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   generates stress concentration, the surrounding rock of roadway will produce large-scale damage. When the degree of stress concentration is high, it may lead to the malignant expansion of surrounding rock of roadway.
+                </p>
+              </list-item>
+              <list-item>
+                <p id="Par63">
+                  The distribution of the second invariant
+                  <italic> J</italic>
+                  <sub>2</sub>
+                   of deviatoric stress is directional. When the principal stress rotates over a certain angle, the second invariant 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   of deviatoric stress and plastic zone also rotate over the same angle.
+                </p>
+              </list-item>
+              <list-item>
+                <p id="Par64">
+                  Under the influence of superimposed mining, the second invariant deviatoric stress 
+                  <italic>J</italic>
+                  <sub>2</sub>
+                   in the wind lane of 160,206 working face in Yangchangwan presents a butterfly distribution, and the stress butterfly leaves show a certain degree of rotation. Based on the failure form of plastic zone, the corresponding optimized support scheme is proposed, and the engineering effect is well applied.
+                </p>
+              </list-item>
+            </list>
+          </p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>This research was funded by the China Academy of Safety Production Science Basic Research Business Funding Special Funding (Grant Number: 2023JBKY12).</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>TH: conceptualization and methodology, HT: methodology and writing—original draft, SG and BT: supervision and conceptualization, and SY: investigation and data curation.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>The datasets generated and/or analyzed during the current study are available from the corresponding author upon reasonable request.</p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par65">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Peng</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                  <name>
+                    <surname>He</surname>
+                    <given-names>MC</given-names>
+                  </name>
+                  <name>
+                    <surname>Xiao</surname>
+                    <given-names>YM</given-names>
+                  </name>
+                  <name>
+                    <surname>Cheng</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Qiao</surname>
+                    <given-names>YF</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Asymmetric failure behavior of surrounding rock in the deep roadway: A semi-analytical solution</article-title>
+                <source>Eng. Fail. Anal.</source>
+                <year>2024</year>
+                <volume>160</volume>
+                <fpage>108075</fpage>
+                <pub-id pub-id-type="doi">10.1016/j.engfailanal.2024.108075</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1531.35262</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>ZH</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>QY</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>HK</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>RG</given-names>
+                  </name>
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>LF</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Nonlinear empirical failure criterion for rocks under triaxial compression</article-title>
+                <source>J. China Univ. Mining Technol.</source>
+                <year>2024</year>
+                <volume>34</volume>
+                <issue>03</issue>
+                <fpage>351</fpage>
+                <lpage>369</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.ijmst.2024.03.002</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">07893409</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>XF</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>QY</given-names>
+                  </name>
+                  <name>
+                    <surname>Qiao</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Liang</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Cheng</surname>
+                    <given-names>WC</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>XY</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>YQ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Strength and damage evolution mechanism of rock mass with holes under cyclic loading</article-title>
+                <source>J. Cent. S. Univ.</source>
+                <year>2024</year>
+                <volume>31</volume>
+                <fpage>2717</fpage>
+                <lpage>2735</lpage>
+                <pub-id pub-id-type="doi">10.1007/s11771-024-5714-4</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1515.76036</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Huo</surname>
+                    <given-names>TH</given-names>
+                  </name>
+                  <name>
+                    <surname>Luo</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Luo</surname>
+                    <given-names>ZL</given-names>
+                  </name>
+                  <name>
+                    <surname>Peng</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>HK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mechanism of non-uniform expansion and stability control in surrounding rock failure zone due to superimposed mining</article-title>
+                <source>J. Mining Saf. Eng.</source>
+                <year>2024</year>
+                <volume>41</volume>
+                <issue>03</issue>
+                <fpage>522</fpage>
+                <lpage>532</lpage>
+                <pub-id pub-id-type="doi">10.13545/j.cnki.jmse.2022.0355</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">07844455</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>ZH</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>QY</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>HK</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>DD</given-names>
+                  </name>
+                  <name>
+                    <surname>Liang</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Research on energy evolution law and control method of deformation of high stress roadway surrounding rock</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2024</year>
+                <volume>1</volume>
+                <fpage>1</fpage>
+                <lpage>15</lpage>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.2023.1364</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">07893409</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>XY</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>XF</given-names>
+                  </name>
+                  <name>
+                    <surname>Lv</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>JY</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Temporal-spatial evolutionary law of plastic zone and stability control in repetitive mining roadway</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2020</year>
+                <volume>45</volume>
+                <issue>10</issue>
+                <fpage>3389</fpage>
+                <lpage>3400</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3MXksVOgt7s%3D</pub-id>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.2019.1051</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1315.93027</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Huang</surname>
+                    <given-names>BX</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Jing</surname>
+                    <given-names>HW</given-names>
+                  </name>
+                  <name>
+                    <surname>Kan</surname>
+                    <given-names>JG</given-names>
+                  </name>
+                  <name>
+                    <surname>Meng</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Xie</surname>
+                    <given-names>WB</given-names>
+                  </name>
+                  <name>
+                    <surname>Jiao</surname>
+                    <given-names>JB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Large deformation theory of rheology and structural instability of the surrounding rock in deep mining roadway</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2020</year>
+                <volume>45</volume>
+                <issue>03</issue>
+                <fpage>911</fpage>
+                <lpage>926</lpage>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.SJ19.1451</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Feng</surname>
+                    <given-names>GY</given-names>
+                  </name>
+                  <name>
+                    <surname>Hao</surname>
+                    <given-names>CL</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>PF</given-names>
+                  </name>
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Qian</surname>
+                    <given-names>YP</given-names>
+                  </name>
+                  <name>
+                    <surname>Wen</surname>
+                    <given-names>XZ</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>JN</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Asymmetric deformation mechanism and control measures for mining roadway under roadway under gob in close proximity</article-title>
+                <source>J. China Univ. Mining Technol.</source>
+                <year>2022</year>
+                <volume>51</volume>
+                <issue>04</issue>
+                <fpage>617</fpage>
+                <lpage>631</lpage>
+                <pub-id pub-id-type="doi">10.13247/j.cnki.jcumt.001375</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zhao</surname>
+                    <given-names>HB</given-names>
+                  </name>
+                  <name>
+                    <surname>Cheng</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>YH</given-names>
+                  </name>
+                  <name>
+                    <surname>Ji</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>YX</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Distribution characteristics of deviatoric stress field and failure law of roadway surrounding rock under non-hydrostatic pressure</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2021</year>
+                <volume>46</volume>
+                <issue>02</issue>
+                <fpage>370</fpage>
+                <lpage>381</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XkvVGlsLk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.2020.1877</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>He</surname>
+                    <given-names>FL</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>GC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Stability analysis and control of deep underground roadways subjected to high horizontal tectonic stress</article-title>
+                <source>J. China Univ. Mining Technol.</source>
+                <year>2015</year>
+                <volume>44</volume>
+                <issue>03</issue>
+                <fpage>466</fpage>
+                <lpage>476</lpage>
+                <pub-id pub-id-type="doi">10.13247/j.cnki.jcumt.000345</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1480.74181</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Xie</surname>
+                    <given-names>SR</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>DD</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Qi</surname>
+                    <given-names>PY</given-names>
+                  </name>
+                  <name>
+                    <surname>Ren</surname>
+                    <given-names>YX</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Distribution laws and control of deviatoric stress of surrounding rock in the coal roadway under intense mining</article-title>
+                <source>J. Mining Saf. Eng.</source>
+                <year>2021</year>
+                <volume>38</volume>
+                <issue>02</issue>
+                <fpage>276</fpage>
+                <lpage>285</lpage>
+                <pub-id pub-id-type="doi">10.13545/j.cnki.jmse.2020.0445</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1381.76423</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ma</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhao</surname>
+                    <given-names>ZQ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Distribution of the deviatoric stress field and plastic zone in circular roadway surrounding rock</article-title>
+                <source>J. China Univ. Mining Technol.</source>
+                <year>2015</year>
+                <volume>44</volume>
+                <issue>02</issue>
+                <fpage>206</fpage>
+                <lpage>213</lpage>
+                <pub-id pub-id-type="doi">10.13247/j.cnki.jcumt.000309</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1394.94313</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yu</surname>
+                    <given-names>WJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>GS</given-names>
+                  </name>
+                  <name>
+                    <surname>Yuan</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Du</surname>
+                    <given-names>SH</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Failure characteristics and engineering stability control of roadway surrounding rock based on deviatoric stress field</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2017</year>
+                <volume>42</volume>
+                <issue>06</issue>
+                <fpage>1408</fpage>
+                <lpage>1419</lpage>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.2016.1117</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1324.93104</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shi</surname>
+                    <given-names>HY</given-names>
+                  </name>
+                </person-group>
+                <source>Mechanics Mechanism and its Quantitative Analysis of the Formation of Longmenshan Faults</source>
+                <year>2021</year>
+                <publisher-name>China University of Mining &amp; Technology</publisher-name>
+                <fpage>42</fpage>
+                <lpage>43</lpage>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1496.60100</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zheng</surname>
+                    <given-names>YT</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Simplified model of three-dimensional stress field around borehole and roadway</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>1982</year>
+                <volume>4</volume>
+                <fpage>74</fpage>
+                <lpage>80</lpage>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.1982.04.008</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1008.65079</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shang</surname>
+                    <given-names>FL</given-names>
+                  </name>
+                </person-group>
+                <source>Fundamentals of Plastic Mechanics</source>
+                <year>2015</year>
+                <publisher-name>Xi’an Jiaotong University Press</publisher-name>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1314.05056</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Xu</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <source>Distribution and Application of Tloor Deviatoric Stress Tensor Invariants Under Close-Distance Multiple Pillars</source>
+                <year>2014</year>
+                <publisher-name>China University of Mining &amp; Technology</publisher-name>
+                <fpage>11</fpage>
+                <lpage>13</lpage>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1340.62079</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zhao</surname>
+                    <given-names>ZQ</given-names>
+                  </name>
+                </person-group>
+                <source>Mechanism of Surrounding Rock Deformation and Failure and Control Method Research in Large Deformation Mining Roadway</source>
+                <year>2014</year>
+                <publisher-name>China University of Mining &amp; Technology</publisher-name>
+                <fpage>24</fpage>
+                <lpage>28</lpage>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1313.55006</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zhao</surname>
+                    <given-names>ZQ</given-names>
+                  </name>
+                  <name>
+                    <surname>Ma</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>XF</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A butterfly failure theory of rock mass around roadway and its application prospect</article-title>
+                <source>J. China Univ. Mining Technol.</source>
+                <year>2018</year>
+                <volume>47</volume>
+                <issue>05</issue>
+                <fpage>969</fpage>
+                <lpage>978</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhtVCqt7jK</pub-id>
+                <pub-id pub-id-type="doi">10.13247/j.cnki.jcumt.000922</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1289.65092</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Guo</surname>
+                    <given-names>XF</given-names>
+                  </name>
+                  <name>
+                    <surname>Ma</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhao</surname>
+                    <given-names>XD</given-names>
+                  </name>
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>YE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">General shapes and criterion for surrounding rock mass plastic zone of round roadway</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2016</year>
+                <volume>41</volume>
+                <issue>8</issue>
+                <fpage>1871</fpage>
+                <lpage>1877</lpage>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.2016.0787</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1184.81044</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Qing</surname>
+                    <given-names>XB</given-names>
+                  </name>
+                  <name>
+                    <surname>Ma</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>RG</given-names>
+                  </name>
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Formation mechanism and engineering application of the directionality of butterfly leaf in the butterfly plastic zone of roadway rock surrounded</article-title>
+                <source>J. China Coal Soc.</source>
+                <year>2021</year>
+                <volume>46</volume>
+                <issue>09</issue>
+                <fpage>2838</fpage>
+                <lpage>2852</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XkvVGrtrg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.13225/j.cnki.jccs.2021.1150</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1450.81065</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Huo</surname>
+                    <given-names>TH</given-names>
+                  </name>
+                </person-group>
+                <source>Non-uniform Failure Mechanism and Stability Control of Mining Roadway Under Deviatoric Stress Field</source>
+                <year>2022</year>
+                <publisher-name>China University of Mining &amp; Technology</publisher-name>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">07801228</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>HT</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>QY</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>ZH</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>HK</given-names>
+                  </name>
+                  <name>
+                    <surname>Yang</surname>
+                    <given-names>YS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Low sensitivity research and engineering application of roadway butterfly failure strength criterion</article-title>
+                <source>Rock Soil Mech.</source>
+                <year>2024</year>
+                <volume>45</volume>
+                <issue>01</issue>
+                <fpage>117</fpage>
+                <lpage>130</lpage>
+                <pub-id pub-id-type="doi">10.27624/d.cnki.gzkbu.2022.000186</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0918.05063</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <notes notes-type="Misc">
+          <title>Publisher’s note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

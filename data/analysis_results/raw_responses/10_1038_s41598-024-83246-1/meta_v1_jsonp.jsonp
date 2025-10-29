@@ -1,0 +1,240 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-024-83246-1",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-024-83246-1",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-024-83246-1"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-024-83246-1.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-024-83246-1"
+        }
+      ],
+      "title": "Functional assessment of cancer therapy – head & neck (FACT-HN) translation and validation in Serbian",
+      "creators": [
+        {
+          "ORCID": "0000-0003-1709-8449",
+          "creator": "Petrovic, Masa"
+        },
+        {
+          "creator": "Salovic, Bojana"
+        },
+        {
+          "creator": "Tomic, Ana"
+        },
+        {
+          "creator": "Jesic-Petrovic, Tanja"
+        },
+        {
+          "creator": "Matejic, Aleksandar"
+        },
+        {
+          "creator": "Radovic, Ivana"
+        },
+        {
+          "creator": "Babic, Silvana"
+        },
+        {
+          "creator": "Korugic, Aleksa"
+        },
+        {
+          "creator": "Jelovac, Drago"
+        },
+        {
+          "creator": "Mikovic, Nikola"
+        },
+        {
+          "creator": "Jakovljevic, Sasa"
+        },
+        {
+          "creator": "Pelemis, Svetislav"
+        },
+        {
+          "creator": "Dimitrijevic, Milovan"
+        },
+        {
+          "creator": "Milovanovic, Jovica"
+        },
+        {
+          "creator": "Jotic, Ana"
+        },
+        {
+          "creator": "Trivic, Aleksandar"
+        },
+        {
+          "creator": "Dimitrijevic, Ana"
+        },
+        {
+          "creator": "Bulatovic, Sulin"
+        },
+        {
+          "creator": "Dudvarski, Zoran"
+        },
+        {
+          "creator": "Soldatovic, Ivan"
+        },
+        {
+          "creator": "Ilic-Zivojinovic, Jelena"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-024-83246-1",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2025-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "15",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "10",
+      "journalId": "41598",
+      "onlineDate": "2025-01-02",
+      "coverDate": "2025-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": "This study aimed to translate and validate the Functional Assessment of Cancer Therapy – Head & Neck (FACT-HN) in a Serbian-speaking population, assessing its psychometric properties and utility in evaluating the quality of life in head and neck cancer patients. The research focuses on determining the translated questionnaire’s reliability, validity, and cultural relevance. A total of 106 Serbian-speaking head and neck cancer patients completed the translated FACT-HN, along with other validated instruments, including the EORTC QLQ-C30, EORTC QLQ-HN43, CES-D, and GAD-7. The translation followed a standard internationally accepted procedure. Psychometric analyses were conducted using confirmatory and exploratory factor analysis, Pearson correlations, and reliability measures such as Cronbach’s alpha and intraclass correlation coefficients. The Serbian version of the FACT-HN showed excellent internal consistency across all subscales, with Cronbach’s alpha ranging from 0.70 to 0.89. Confirmatory factor analysis confirmed the five-factor structure. Strong correlations were observed between the FACT-HN and other validated QoL measures, particularly with the EORTC QLQ-C30 and EORTC QLQ-HN43. Convergent validity was satisfactory for all components except the Social Well-Being component. The Serbian version of the FACT-HN is a valid and reliable tool for assessing the quality of life in head and neck cancer patients. It provides a comprehensive assessment of physical, social, emotional, and functional well-being, making it valuable for clinical and research applications in Serbian-speaking populations. Further research is needed to assess its sensitivity to longitudinal treatment-related changes.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Translation",
+        "Validation",
+        "FACTHN",
+        "Head and Neck Cancer",
+        "Quality of Life"
+      ],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "FACTHN",
+          "count": "1"
+        },
+        {
+          "value": "Head and Neck Cancer",
+          "count": "1"
+        },
+        {
+          "value": "Quality of Life",
+          "count": "1"
+        },
+        {
+          "value": "Translation",
+          "count": "1"
+        },
+        {
+          "value": "Validation",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2025",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Bosnia and Herzegovina",
+          "count": "1"
+        },
+        {
+          "value": "Serbia",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

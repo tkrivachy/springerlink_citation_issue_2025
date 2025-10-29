@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682039",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08467-9",
+    "title": "Evidence for igneous differentiation in Sudbury Igneous Complex and impact-driven evolution of terrestrial planet proto-crusts",
+    "article_number": "508",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rais Latypov",
+      "Sofya Chistyakova",
+      "Richard Grieve",
+      "Hannu Huhma"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:13:50.303356"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T17:13:51.821057"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T17:13:53.012490"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T22:37:58.771519"
+    },
+    "last_updated": "2025-10-03T22:37:58.771711"
+  }
+}

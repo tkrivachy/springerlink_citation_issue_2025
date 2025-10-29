@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.384220",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82379-7",
+    "title": "Multiobjective distribution system operation with demand response to optimize solar hosting capacity, voltage deviation index and network loss",
+    "article_number": "300",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kabulo Loji",
+      "Sachin Sharma",
+      "Gulshan Sharma",
+      "Tanuj Rawat"
+    ]
+  },
+  "article_index": 330,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:05:19.171307"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:05:20.732441"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:05:21.923624"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:34:48.862009"
+    },
+    "last_updated": "2025-10-03T22:34:48.862197"
+  }
+}

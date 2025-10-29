@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-28264-1</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-022-28264-1</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">
+              Structure of 
+              <italic>Vibrio</italic>
+               collagenase VhaC provides insight into the mechanism of bacterial collagenolysis
+            </article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Yan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Peng</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Cao</surname>
+                <given-names>Hai-Yan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Ding</surname>
+                <given-names>Hai-Tao</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Su</surname>
+                <given-names>Hai-Nan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Shi-Cheng</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Guangfeng</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Zhang</surname>
+                <given-names>Xia</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Li</surname>
+                <given-names>Chun-Yang</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Peng</surname>
+                <given-names>Ming</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1920-9691</contrib-id>
+              <name name-style="western">
+                <surname>Li</surname>
+                <given-names>Fuchuan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5244-870X</contrib-id>
+              <name name-style="western">
+                <surname>Li</surname>
+                <given-names>Shengying</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0367-4276</contrib-id>
+              <name name-style="western">
+                <surname>Chen</surname>
+                <given-names>Yin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2991-3631</contrib-id>
+              <name name-style="western">
+                <surname>Chen</surname>
+                <given-names>Xiu-Lan</given-names>
+              </name>
+              <address>
+                <email>cxl0423@sdu.edu.cn</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2017-1005</contrib-id>
+              <name name-style="western">
+                <surname>Zhang</surname>
+                <given-names>Yu-Zhong</given-names>
+              </name>
+              <address>
+                <email>zhangyz@sdu.edu.cn</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>28</day>
+            <month>1</month>
+            <year>2022</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2022</year>
+          </pub-date>
+          <volume>13</volume>
+          <issue>1</issue>
+          <elocation-id>566</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-022-28264-1</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-022-28264-1.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2022</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              The collagenases of 
+              <italic>Vibrio</italic>
+               species, many of which are pathogens, have been regarded as an important virulence factor. However, there is little information on the structure and collagenolytic mechanism of 
+              <italic>Vibrio</italic>
+               collagenase. Here, we report the crystal structure of the collagenase module (CM) of 
+              <italic>Vibrio</italic>
+               collagenase VhaC and the conformation of VhaC in solution. Structural and biochemical analyses and molecular dynamics studies reveal that triple-helical collagen is initially recognized by the activator domain, followed by subsequent cleavage by the peptidase domain along with the closing movement of CM. This is different from the peptidolytic mode or the proposed collagenolysis of 
+              <italic>Clostridium</italic>
+               collagenase. We propose a model for the integrated collagenolytic mechanism of VhaC, integrating the functions of VhaC accessory domains and its collagen degradation pattern. This study provides insight into the mechanism of bacterial collagenolysis and helps in structure-based drug design targeting of the 
+              <italic>Vibrio</italic>
+               collagenase.
+            </p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">
+              The collagenolytic mechanism of 
+              <italic>Vibrio</italic>
+               collagenase, a virulence factor, remains unclear. Here, the authors report the structure of 
+              <italic>Vibrio</italic>
+               collagenase VhaC and propose the mechanism for collagen recognition and degradation, providing new insight into bacterial collagenolysis.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="06">Biological Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0601">Biochemistry and Cell Biology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>National Science Foundation of China (Grant Reference Number: 32170127)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>National Key R&amp;D Program of China(Grant Reference Number: 2018YFC0310704); National Science Foundation of China (Grant Reference Number: U2006205, 31670038);</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>National Key R&amp;D Program of China(Grant Reference Number: 2018YFC1406700); The National Science Foundation of China (Grant Reference Number: U1706207);Major Scientific and Technological Innovation Project (MSTIP) of Shandong Province (Grant Reference Number:2019JZZY010817); Taishan Scholars Program of Shandong Province (Grant Reference Number: 2019JZZY010817); Taishan Scholars Program of Shandong Province (Grant Reference Number: tspd20181203); Scientific Research Think Tank of Biological Manufacturing Industry in Qingdao (Grant Reference Number:QDSWZK202002)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

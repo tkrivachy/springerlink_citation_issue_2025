@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.246813",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1451-9",
+    "title": "Socio-demographic and behavioural determinants of weight gain in the Swiss population",
+    "article_number": "73",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Filipa Guerra",
+      "Silvia Stringhini",
+      "Peter Vollenweider",
+      "Gérard Waeber",
+      "Pedro Marques-Vidal"
+    ]
+  },
+  "article_index": 72,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T13:11:27.153518"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:11:28.661835"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:11:29.886112"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:06:58.477543"
+    },
+    "last_updated": "2025-10-03T21:06:58.477628"
+  }
+}

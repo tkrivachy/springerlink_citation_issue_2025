@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643567",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35775-4",
+    "title": "Molecular versatility during pluripotency progression",
+    "article_number": "68",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Giacomo Furlan",
+      "Aurélia Huyghe",
+      "Noémie Combémorel",
+      "Fabrice Lavial"
+    ]
+  },
+  "article_index": 59,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T18:46:54.357892"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:46:56.029219"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:46:57.332360"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:09:36.587650"
+    },
+    "last_updated": "2025-10-03T23:09:36.587841"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.865514",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03843-2",
+    "title": "Application of a tungsten apron for occupational radiation exposure in nursing care of children with neuroblastoma during ",
+    "article_number": "47",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuka Taniguchi",
+      "Hiroshi Wakabayashi",
+      "Hiroto Yoneyama",
+      "Zhuoqing Chen",
+      "Kei Morino",
+      "Akiko Otosaki",
+      "Masako Yamada",
+      "Anri Inaki",
+      "Daiki Kayano",
+      "Seigo Kinuya"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:14:10.526970"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:14:12.045806"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:14:13.238765"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:53:05.460289"
+    },
+    "last_updated": "2025-10-03T21:53:05.460525"
+  }
+}

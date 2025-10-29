@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.808744",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-88",
+    "title": "Adiponectin in eutrophic and obese children as a biomarker to predict metabolic syndrome and each of its components",
+    "article_number": "88",
+    "publication_date": "2013-01-30",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Miguel Klünder-Klünder",
+      "Samuel Flores-Huerta",
+      "Rebeca García-Macedo",
+      "Jesús Peralta-Romero",
+      "Miguel Cruz"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T12:53:18.845776"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T12:53:20.383380"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T12:53:21.676054"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T21:00:20.508256"
+    },
+    "last_updated": "2025-10-03T21:00:20.508485"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704040",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08294-y",
+    "title": "Gut bacterial tyrosine decarboxylases restrict levels of levodopa in the treatment of Parkinson’s disease",
+    "article_number": "310",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sebastiaan P. van Kessel",
+      "Alexandra K. Frye",
+      "Ahmed O. El-Gendy",
+      "Maria Castejon",
+      "Ali Keshavarzian",
+      "Gertjan van Dijk",
+      "Sahar El Aidy"
+    ]
+  },
+  "article_index": 247,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 395,
+      "retrieved_at": "2025-10-03T17:41:27.274984"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 410,
+      "retrieved_at": "2025-10-03T17:41:28.843095"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 376,
+      "retrieved_at": "2025-10-03T17:41:30.033981"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 446,
+      "retrieved_at": "2025-10-03T22:47:18.295215"
+    },
+    "last_updated": "2025-10-03T22:47:18.295314"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.236854",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80655-w",
+    "title": "The causal role of circulating vitamin D concentrations in human complex traits and diseases: a large-scale Mendelian randomization study",
+    "article_number": "184",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xia Jiang",
+      "Tian Ge",
+      "Chia-Yen Chen"
+    ]
+  },
+  "article_index": 204,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:50:38.835582"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T14:50:40.384024"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T14:50:41.532568"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T21:43:39.957493"
+    },
+    "last_updated": "2025-10-03T21:43:39.957541"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.604152",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02586-x",
+    "title": "SIRT6-dependent cysteine monoubiquitination in the PRE-SET domain of Suv39h1 regulates the NF-κB pathway",
+    "article_number": "101",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Irene Santos-Barriopedro",
+      "Laia Bosch-Presegué",
+      "Anna Marazuela-Duque",
+      "Carolina de la Torre",
+      "Carlota Colomer",
+      "Berta N. Vazquez",
+      "Thomas Fuhrmann",
+      "Bárbara Martínez-Pastor",
+      "Wenfu Lu",
+      "Thomas Braun",
+      "Eva Bober",
+      "Thomas Jenuwein",
+      "Lourdes Serrano",
+      "Manel Esteller",
+      "Zhenbang Chen",
+      "Silvia Barceló-Batllori",
+      "Raúl Mostoslavsky",
+      "Lluis Espinosa",
+      "Alejandro Vaquero"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:36:02.090215",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T11:44:08.866268"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T17:08:15.920293"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:08:17.068952"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T22:36:02.090009"
+    }
+  }
+}

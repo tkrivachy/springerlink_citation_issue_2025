@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.242864",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1382-5",
+    "title": "Impact of close-proximity air pollution on lung function in schoolchildren in the French West Indies",
+    "article_number": "45",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Brice Amadeo",
+      "Céline Robert",
+      "Virginie Rondeau",
+      "Marie-Alice Mounouchy",
+      "Lucie Cordeau",
+      "Xavier Birembaux",
+      "Eddy Citadelle",
+      "Jacques Gotin",
+      "Monique Gouranton",
+      "Gérard Marcin",
+      "David Laurac",
+      "Chantal Raherison"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:09:11.703272"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:09:13.312826"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:09:14.626321"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:06:10.176950"
+    },
+    "last_updated": "2025-10-03T21:06:10.177139"
+  }
+}

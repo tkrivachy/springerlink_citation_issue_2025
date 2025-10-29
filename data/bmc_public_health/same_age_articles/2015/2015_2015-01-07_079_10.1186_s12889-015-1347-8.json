@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.247698",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1347-8",
+    "title": "Randomized controlled trial of a minimal versus extended Internet-based intervention for problem drinkers: study protocol",
+    "article_number": "21",
+    "publication_date": "2015-01-21",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "John A Cunningham",
+      "Christian S Hendershot",
+      "Jürgen Rehm"
+    ]
+  },
+  "article_index": 79,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:10:39.109355"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:10:40.644212"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T13:10:41.927178"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:06:42.625594"
+    },
+    "last_updated": "2025-10-03T21:06:42.625784"
+  }
+}

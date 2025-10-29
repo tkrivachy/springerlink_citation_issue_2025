@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.528092",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-38",
+    "title": "The Peripheral Arterial disease study (PERART/ARTPER): prevalence and risk factors in the general population",
+    "article_number": "38",
+    "publication_date": "2010-01-27",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "María Teresa Alzamora",
+      "Rosa Forés",
+      "José Miguel Baena-Díez",
+      "Guillem Pera",
+      "Pere Toran",
+      "Marta Sorribes",
+      "Marisa Vicheto",
+      "María Dolores Reina",
+      "Amparo Sancho",
+      "Carlos Albaladejo",
+      "Judith Llussà"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 200,
+      "retrieved_at": "2025-10-03T12:41:00.492989"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T12:41:02.036074"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T12:41:03.472156"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 172,
+      "retrieved_at": "2025-10-03T20:55:52.691935"
+    },
+    "last_updated": "2025-10-03T20:55:52.692123"
+  }
+}

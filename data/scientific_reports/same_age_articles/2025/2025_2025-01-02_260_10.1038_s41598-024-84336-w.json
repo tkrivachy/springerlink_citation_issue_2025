@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.376771",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84336-w",
+    "title": "Validity and reliability of the step test to estimate maximal oxygen consumption in pediatric population",
+    "article_number": "592",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Gerardo Weisstaub",
+      "José González",
+      "Ignacio Orizola",
+      "Juan Borquez",
+      "Matías Monsalves-Alvarez",
+      "Lydia Lera",
+      "Rodrigo Troncoso",
+      "Carlos Sepúlveda"
+    ]
+  },
+  "article_index": 260,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:44:00.953687"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:44:02.505367"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:44:03.709392"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:27:18.987074"
+    },
+    "last_updated": "2025-10-03T22:27:18.987262"
+  }
+}

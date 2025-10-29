@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.689102",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08233-3",
+    "title": "Towards maximized volumetric capacity via pore-coordinated design for large-volume-change lithium-ion battery anodes",
+    "article_number": "475",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiyoung Ma",
+      "Jaekyung Sung",
+      "Jaehyung Hong",
+      "Sujong Chae",
+      "Namhyung Kim",
+      "Seong-Hyeon Choi",
+      "Gyutae Nam",
+      "Yoonkook Son",
+      "Sung Youb Kim",
+      "Minseong Ko",
+      "Jaephil Cho"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T18:07:49.295440"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T18:07:50.824553"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 100,
+      "retrieved_at": "2025-10-03T18:07:52.230973"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T22:56:31.636735"
+    },
+    "last_updated": "2025-10-03T22:56:31.636822"
+  }
+}

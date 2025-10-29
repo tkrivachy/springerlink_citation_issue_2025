@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.842834",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50489-3",
+    "title": "High-dose benzodiazepine use and QTc interval prolongation, a latent class analysis study",
+    "article_number": "155",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lorenzo Zamboni",
+      "Igor Portoghese",
+      "Rebecca Casari",
+      "Francesca Fusina",
+      "Laura Santin",
+      "Luigi Isaia Lecca",
+      "Simone Campagnari",
+      "Silvia Carli",
+      "Thomas Zandonai",
+      "Fabio Lugoboni"
+    ]
+  },
+  "article_index": 155,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:37:54.588644"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:37:56.158294"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:37:57.319608"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:03:02.324818"
+    },
+    "last_updated": "2025-10-03T22:03:02.324872"
+  }
+}

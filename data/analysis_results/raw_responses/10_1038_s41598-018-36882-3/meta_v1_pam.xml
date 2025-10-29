@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-018-36882-3</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-018-36882-3</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41598-018-36882-3</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41598-018-36882-3.pdf</ns2:url>
+          <dc:title>Sex hormone-binding globulin provides a novel entry pathway for estradiol and influences subsequent signaling in lymphocytes via membrane receptor</dc:title>
+          <dc:creator>Balogh, Andrea</dc:creator>
+          <dc:creator>Karpati, Eva</dc:creator>
+          <dc:creator>Schneider, Andrea E.</dc:creator>
+          <dc:creator>Hetey, Szabolcs</dc:creator>
+          <dc:creator>Szilagyi, Andras</dc:creator>
+          <dc:creator>Juhasz, Kata</dc:creator>
+          <dc:creator>Laszlo, Gloria</dc:creator>
+          <dc:creator>Hupuczi, Petronella</dc:creator>
+          <dc:creator>Zavodszky, Peter</dc:creator>
+          <dc:creator>Papp, Zoltan</dc:creator>
+          <dc:creator>Matko, Janos</dc:creator>
+          <dc:creator>Than, Nandor Gabor</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2045-2322</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:volume>9</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>15</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2019-01-09</onlineDate>
+          <ns2:coverDate>2019-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41598-018-36882-3</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2019-01-09</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-018-36882-3</ns2:url>
+          <ns2:copyright>©2019 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>The complex effects of estradiol on non-reproductive tissues/cells, including lymphoid tissues and immunocytes, have increasingly been explored. However, the role of sex hormone binding globulin (SHBG) in the regulation of these genomic and non-genomic actions of estradiol is controversial. Moreover, the expression of SHBG and its internalization by potential receptors, as well as the influence of SHBG on estradiol uptake and signaling in lymphocytes has remained unexplored. Here, we found that human and mouse T cells expressed SHBG intrinsically. In addition, B lymphoid cell lines as well as both primary B and T lymphocytes bound and internalized external SHBG, and the amount of plasma membrane-bound SHBG decreased in B cells of pregnant compared to non-pregnant women. As potential mediators of this process, SHBG receptor candidates expressed by lymphocytes were identified in silico , including estrogen receptor (ER) alpha. Furthermore, cell surface-bound SHBG was detected in close proximity to membrane ERs while highly colocalizing with lipid rafts. The SHBG-membrane ER interaction was found functional since SHBG promoted estradiol uptake by lymphocytes and subsequently influenced Erk1/2 phosphorylation. In conclusion, the SHBG-SHBG receptor-membrane ER complex participates in the rapid estradiol signaling in lymphocytes, and this pathway may be altered in B cells in pregnant women.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2019</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Hungary</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

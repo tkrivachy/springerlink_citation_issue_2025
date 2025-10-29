@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.221836",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80730-2",
+    "title": "A study on the bio-applicability of aqueous-dispersed van der Waals 1-D material Nb",
+    "article_number": "176",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sudong Chae",
+      "Seungbae Oh",
+      "Kyung Hwan Choi",
+      "Jin Woong Lee",
+      "Jiho Jeon",
+      "Zhixiang Liu",
+      "Cong Wang",
+      "Changmo Lim",
+      "Xue Dong",
+      "Chaeheon Woo",
+      "Ghulam Asghar",
+      "Liyi Shi",
+      "Joohoon Kang",
+      "Sung Jae Kim",
+      "Si Young Song",
+      "Jung Heon Lee",
+      "Hak Ki Yu",
+      "Jae-Young Choi"
+    ]
+  },
+  "article_index": 125,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:51:08.284770"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:51:09.805619"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:51:11.096634"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:43:50.813917"
+    },
+    "last_updated": "2025-10-03T21:43:50.814105"
+  }
+}

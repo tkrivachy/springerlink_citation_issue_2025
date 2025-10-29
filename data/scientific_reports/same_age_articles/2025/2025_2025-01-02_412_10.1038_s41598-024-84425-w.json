@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.394087",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84425-w",
+    "title": "Prognosis of invasive encapsulated follicular variant and classical papillary thyroid carcinoma: a propensity score-matched study using the SEER database",
+    "article_number": "413",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shuai Jin",
+      "Lang Xie",
+      "Gongyou Zhang",
+      "Lei Liu",
+      "Kaide Xia",
+      "Hongzhou Liu",
+      "Haiwang Zhang",
+      "Peng Li"
+    ]
+  },
+  "article_index": 412,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:31:50.172122"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:31:51.681743"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:03.380493"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:22:55.597635"
+    },
+    "last_updated": "2025-10-07T09:52:03.380590"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.644272",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35759-4",
+    "title": "The learnability of Pauli noise",
+    "article_number": "52",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Senrui Chen",
+      "Yunchao Liu",
+      "Matthew Otten",
+      "Alireza Seif",
+      "Bill Fefferman",
+      "Liang Jiang"
+    ]
+  },
+  "article_index": 66,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T18:48:03.298433"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:48:04.854268"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:48:06.062081"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T23:09:58.189807"
+    },
+    "last_updated": "2025-10-03T23:09:58.189908"
+  }
+}

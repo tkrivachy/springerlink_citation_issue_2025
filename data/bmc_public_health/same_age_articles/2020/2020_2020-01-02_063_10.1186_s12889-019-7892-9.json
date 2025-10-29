@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.674078",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-7892-9",
+    "title": "Requiring smartphone ownership for mHealth interventions: who could be left out?",
+    "article_number": "81",
+    "publication_date": "2020-01-20",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Krishna K. Bommakanti",
+      "Laramie L. Smith",
+      "Lin Liu",
+      "Diana Do",
+      "Jazmine Cuevas-Mota",
+      "Kelly Collins",
+      "Fatima Munoz",
+      "Timothy C. Rodwell",
+      "Richard S. Garfein"
+    ]
+  },
+  "article_index": 63,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T13:37:39.465227"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T13:37:41.048073"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T13:37:42.386413"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T21:16:36.078952"
+    },
+    "last_updated": "2025-10-03T21:16:36.079139"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.881770",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04112-y",
+    "title": "Dynamics of camel and human hemoglobin revealed by molecular simulations",
+    "article_number": "122",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Amanat Ali",
+      "Soja Saghar Soman",
+      "Ranjit Vijayan"
+    ]
+  },
+  "article_index": 232,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:26:32.653233"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:26:34.215591"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:26:35.487864"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:58:26.770960"
+    },
+    "last_updated": "2025-10-03T21:58:26.771057"
+  }
+}

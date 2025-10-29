@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.419748",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3962-4",
+    "title": "The relationship between hours of sleep, screen time and frequency of food and drink consumption in Spain in the 2011 and 2013 ALADINO: a cross-sectional study",
+    "article_number": "33",
+    "publication_date": "2017-01-06",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Napoleón Pérez-Farinós",
+      "Carmen Villar-Villalba",
+      "Ana María López Sobaler",
+      "María Ángeles Dal Re Saavedra",
+      "Aránzazu Aparicio",
+      "Sara Santos Sanz",
+      "Teresa Robledo de Dios",
+      "José Javier Castrodeza-Sanz",
+      "Rosa María Ortega Anta"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T13:23:46.784127"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T13:23:48.351206"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T13:23:49.723818"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T21:11:32.948884"
+    },
+    "last_updated": "2025-10-03T21:11:32.949069"
+  }
+}

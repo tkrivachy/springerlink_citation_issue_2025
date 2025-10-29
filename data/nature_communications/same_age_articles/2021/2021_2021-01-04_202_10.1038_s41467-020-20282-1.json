@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.205178",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20282-1",
+    "title": "ZNF143 mediates CTCF-bound promoter–enhancer loops required for murine hematopoietic stem and progenitor cell function",
+    "article_number": "43",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qiling Zhou",
+      "Miao Yu",
+      "Roberto Tirado-Magallanes",
+      "Bin Li",
+      "Lingshi Kong",
+      "Mingrui Guo",
+      "Zi Hui Tan",
+      "Sanghoon Lee",
+      "Li Chai",
+      "Akihiko Numata",
+      "Touati Benoukraf",
+      "Melissa Jane Fullwood",
+      "Motomi Osato",
+      "Bing Ren",
+      "Daniel G. Tenen"
+    ]
+  },
+  "article_index": 202,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:40:02.324801"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T18:40:03.848478"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:40:05.151315"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T23:07:22.126567"
+    },
+    "last_updated": "2025-10-03T23:07:22.126634"
+  }
+}

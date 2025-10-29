@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.965358",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-63",
+    "title": "Improving the Deaf community's access to prostate and testicular cancer information: a survey study",
+    "article_number": "63",
+    "publication_date": "2005-06-06",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ann Folkins",
+      "Georgia Robins Sadler",
+      "Celine Ko",
+      "Patricia Branz",
+      "Shane Marsh",
+      "Michael Bovee"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T12:23:54.282993"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T12:23:55.801249"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T12:23:57.159014"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T20:49:55.181297"
+    },
+    "last_updated": "2025-10-03T20:49:55.181407"
+  }
+}

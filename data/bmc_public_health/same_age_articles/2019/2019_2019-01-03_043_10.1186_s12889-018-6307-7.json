@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:53:53.747478",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-018-6307-7",
+    "title": "The association between air pollution and preterm birth and low birth weight in Guangdong, China",
+    "article_number": "3",
+    "publication_date": "2019-01-03",
+    "volume": "19",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ying Liu",
+      "Jihong Xu",
+      "Dian Chen",
+      "Pei Sun",
+      "Xu Ma"
+    ]
+  },
+  "article_index": 43,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T13:27:38.071662"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T13:27:39.581386"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T13:27:40.954505"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 131,
+      "retrieved_at": "2025-10-03T21:12:55.173548"
+    },
+    "last_updated": "2025-10-03T21:12:55.173602"
+  }
+}

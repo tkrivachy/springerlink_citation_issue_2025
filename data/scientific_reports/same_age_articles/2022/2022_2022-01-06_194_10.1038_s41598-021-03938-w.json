@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.877952",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03938-w",
+    "title": "Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space",
+    "article_number": "141",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Thirza Dado",
+      "Yağmur Güçlütürk",
+      "Luca Ambrogioni",
+      "Gabriëlle Ras",
+      "Sander Bosch",
+      "Marcel van Gerven",
+      "Umut Güçlü"
+    ]
+  },
+  "article_index": 194,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T15:00:04.491488"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T15:00:06.024356"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:00:07.298844"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T21:47:20.111056"
+    },
+    "last_updated": "2025-10-03T21:47:20.111247"
+  }
+}

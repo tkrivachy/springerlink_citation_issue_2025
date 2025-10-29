@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.245735",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1391-4",
+    "title": "Don't worry, be happy: cross-sectional associations between physical activity and happiness in 15 European countries",
+    "article_number": "53",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Justin Richards",
+      "Xiaoxiao Jiang",
+      "Paul Kelly",
+      "Josephine Chau",
+      "Adrian Bauman",
+      "Ding Ding"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 230,
+      "retrieved_at": "2025-10-03T13:15:22.695422"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 184,
+      "retrieved_at": "2025-10-03T13:15:24.236300"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 179,
+      "retrieved_at": "2025-10-03T13:15:25.677268"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 216,
+      "retrieved_at": "2025-10-03T21:08:32.697042"
+    },
+    "last_updated": "2025-10-03T21:08:32.697235"
+  }
+}

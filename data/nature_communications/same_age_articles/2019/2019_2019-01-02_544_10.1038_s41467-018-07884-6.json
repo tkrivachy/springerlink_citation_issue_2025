@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.736247",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07884-6",
+    "title": "PRMT5 is essential for B cell development and germinal center dynamics",
+    "article_number": "22",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ludivine C. Litzler",
+      "Astrid Zahn",
+      "Alexandre P. Meli",
+      "Steven Hébert",
+      "Anne-Marie Patenaude",
+      "Stephen P. Methot",
+      "Adrien Sprumont",
+      "Thérence Bois",
+      "Daisuke Kitamura",
+      "Santiago Costantino",
+      "Irah L. King",
+      "Claudia L. Kleinman",
+      "Stéphane Richard",
+      "Javier M. Di Noia"
+    ]
+  },
+  "article_index": 544,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T18:04:09.209569"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:04:10.768919"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:04:12.149752"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T22:55:18.175788"
+    },
+    "last_updated": "2025-10-03T22:55:18.175974"
+  }
+}

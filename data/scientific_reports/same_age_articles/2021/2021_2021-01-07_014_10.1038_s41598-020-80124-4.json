@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.204312",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80124-4",
+    "title": "Diagnostic accuracy of tomosynthesis-guided vacuum assisted breast biopsy of ultrasound occult lesions",
+    "article_number": "129",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Suhaila Bohan",
+      "Marlina Tanty Ramli Hamid",
+      "Wai Yee Chan",
+      "Anushya Vijayananthan",
+      "Norlisah Ramli",
+      "Shaleen Kaur",
+      "Kartini Rahmat"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:50:51.092482"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:50:52.724013"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:50:54.046695"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:43:44.396430"
+    },
+    "last_updated": "2025-10-03T21:43:44.396620"
+  }
+}

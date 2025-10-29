@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.231476",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79520-7",
+    "title": "Valproic acid-exposed astrocytes impair inhibitory synapse formation and function",
+    "article_number": "23",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kotomi Takeda",
+      "Takuya Watanabe",
+      "Kohei Oyabu",
+      "Shuntaro Tsukamoto",
+      "Yuki Oba",
+      "Takafumi Nakano",
+      "Kaori Kubota",
+      "Shutaro Katsurabayashi",
+      "Katsunori Iwasaki"
+    ]
+  },
+  "article_index": 174,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:39:25.324319"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:39:26.850095"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:39:28.108573"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:39:12.217520"
+    },
+    "last_updated": "2025-10-03T21:39:12.217711"
+  }
+}

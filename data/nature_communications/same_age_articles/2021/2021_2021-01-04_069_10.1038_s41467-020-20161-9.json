@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.185176",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20161-9",
+    "title": "Bridgin connects the outer kinetochore to centromeric chromatin",
+    "article_number": "146",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shreyas Sridhar",
+      "Tetsuya Hori",
+      "Reiko Nakagawa",
+      "Tatsuo Fukagawa",
+      "Kaustuv Sanyal"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:39:45.169492"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:39:46.701363"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:39:47.981931"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:07:15.850752"
+    },
+    "last_updated": "2025-10-03T23:07:15.850864"
+  }
+}

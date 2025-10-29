@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.826171",
+  "year": 2011,
+  "article_type": "comparison",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-19",
+    "title": "Does directly observed therapy (DOT) reduce drug resistant tuberculosis?",
+    "article_number": "19",
+    "publication_date": "2011-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Patrick K Moonan",
+      "Teresa N Quitugua",
+      "Janice M Pogoda",
+      "Gary Woo",
+      "Gerry Drewyer",
+      "Behzad Sahbazian",
+      "Denise Dunbar",
+      "Kenneth C Jost",
+      "Charles Wallace",
+      "Stephen E Weis"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T12:42:32.062763"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T12:42:33.637635"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:42:34.965994"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T20:56:28.553771"
+    },
+    "last_updated": "2025-10-03T20:56:28.553834"
+  }
+}

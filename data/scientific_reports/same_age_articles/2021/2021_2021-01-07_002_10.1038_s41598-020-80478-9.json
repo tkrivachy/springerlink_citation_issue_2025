@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.202396",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80478-9",
+    "title": "Effects of aerobic exercise training on muscle plasticity in a mouse model of cervical spinal cord injury",
+    "article_number": "112",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Isley Jesus",
+      "Pauline Michel-Flutot",
+      "Therese B. Deramaudt",
+      "Alexia Paucard",
+      "Valentin Vanhee",
+      "Stéphane Vinit",
+      "Marcel Bonay"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:35:15.861639"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:35:17.433509"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:35:18.586261"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:37:31.460865"
+    },
+    "last_updated": "2025-10-03T21:37:31.460925"
+  }
+}

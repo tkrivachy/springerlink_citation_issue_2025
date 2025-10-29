@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.343501",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84491-0",
+    "title": "Subtilisin-like protease 4 regulates cold tolerance through cell wall modification in rice",
+    "article_number": "426",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jingyan Liu",
+      "Fei He",
+      "Zhicai Chen",
+      "Meng Liu",
+      "Yingni Xiao",
+      "Ying Wang",
+      "YuMeng Cai",
+      "Jin Du",
+      "Weiwei Jin",
+      "Xuejun Liu"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:15:21.395153"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:15:22.949519"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:47.923050"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:17:08.583191"
+    },
+    "last_updated": "2025-10-07T09:48:47.923105"
+  }
+}

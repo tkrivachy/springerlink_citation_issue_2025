@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.548096",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55227-5",
+    "title": "STAT1 regulates immune-mediated intestinal stem cell proliferation and epithelial regeneration",
+    "article_number": "138",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shuichiro Takashima",
+      "Roshan Sharma",
+      "Winston Chang",
+      "Marco Calafiore",
+      "Ya-Yuan Fu",
+      "Suze A. Jansen",
+      "Takahiro Ito",
+      "Anastasiya Egorova",
+      "Jason Kuttiyara",
+      "Viktor Arnhold",
+      "Jessica Sharrock",
+      "Endi Santosa",
+      "Ojasvi Chaudhary",
+      "Heather Geiger",
+      "Hiromi Iwasaki",
+      "Chen Liu",
+      "Joseph Sun",
+      "Nicolas Robine",
+      "Linas Mazutis",
+      "Caroline A. Lindemans",
+      "Alan M. Hanash"
+    ]
+  },
+  "article_index": 251,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:31:07.694645"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:31:09.216539"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:10.424048"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:24:23.886878"
+    },
+    "last_updated": "2025-10-03T23:24:23.887066"
+  }
+}

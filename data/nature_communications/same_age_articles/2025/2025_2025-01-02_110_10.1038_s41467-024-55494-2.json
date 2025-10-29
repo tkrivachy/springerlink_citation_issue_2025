@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.524857",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55494-2",
+    "title": "Intrinsically stretchable fully π-conjugated polymers with inter-aggregate capillary interaction for deep-blue flexible inkjet-printed light-emitting diodes",
+    "article_number": "330",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mingjian Ni",
+      "Zhiqiang Zhuo",
+      "Bin Liu",
+      "Xu Han",
+      "Jing Yang",
+      "Lili Sun",
+      "Yuekuan Yang",
+      "Jiangli Cai",
+      "Xiang An",
+      "Lubing Bai",
+      "Man Xu",
+      "Jinyi Lin",
+      "Quanyou Feng",
+      "Guohua Xie",
+      "Yutong Wu",
+      "Wei Huang"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:28:33.488562"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:28:35.060516"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:36.261178"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T23:23:35.796727"
+    },
+    "last_updated": "2025-10-03T23:23:35.796917"
+  }
+}

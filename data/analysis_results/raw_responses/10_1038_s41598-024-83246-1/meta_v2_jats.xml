@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-83246-1</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-024-83246-1</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Functional assessment of cancer therapy – head &amp; neck (FACT-HN) translation and validation in Serbian</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1709-8449</contrib-id>
+              <name name-style="western">
+                <surname>Petrovic</surname>
+                <given-names>Masa</given-names>
+              </name>
+              <address>
+                <email>5rovicmasa@gmail.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Salovic</surname>
+                <given-names>Bojana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Tomic</surname>
+                <given-names>Ana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Jesic-Petrovic</surname>
+                <given-names>Tanja</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Matejic</surname>
+                <given-names>Aleksandar</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Radovic</surname>
+                <given-names>Ivana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Babic</surname>
+                <given-names>Silvana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Korugic</surname>
+                <given-names>Aleksa</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Jelovac</surname>
+                <given-names>Drago</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Mikovic</surname>
+                <given-names>Nikola</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>Jakovljevic</surname>
+                <given-names>Sasa</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <name name-style="western">
+                <surname>Pelemis</surname>
+                <given-names>Svetislav</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au13">
+              <name name-style="western">
+                <surname>Dimitrijevic</surname>
+                <given-names>Milovan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au14">
+              <name name-style="western">
+                <surname>Milovanovic</surname>
+                <given-names>Jovica</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au15">
+              <name name-style="western">
+                <surname>Jotic</surname>
+                <given-names>Ana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au16">
+              <name name-style="western">
+                <surname>Trivic</surname>
+                <given-names>Aleksandar</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au17">
+              <name name-style="western">
+                <surname>Dimitrijevic</surname>
+                <given-names>Ana</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au18">
+              <name name-style="western">
+                <surname>Bulatovic</surname>
+                <given-names>Sulin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au19">
+              <name name-style="western">
+                <surname>Dudvarski</surname>
+                <given-names>Zoran</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au20">
+              <name name-style="western">
+                <surname>Soldatovic</surname>
+                <given-names>Ivan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au21">
+              <name name-style="western">
+                <surname>Ilic-Zivojinovic</surname>
+                <given-names>Jelena</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue>1</issue>
+          <elocation-id>298</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-024-83246-1</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-024-83246-1.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">This study aimed to translate and validate the Functional Assessment of Cancer Therapy – Head &amp; Neck (FACT-HN) in a Serbian-speaking population, assessing its psychometric properties and utility in evaluating the quality of life in head and neck cancer patients. The research focuses on determining the translated questionnaire’s reliability, validity, and cultural relevance. A total of 106 Serbian-speaking head and neck cancer patients completed the translated FACT-HN, along with other validated instruments, including the EORTC QLQ-C30, EORTC QLQ-HN43, CES-D, and GAD-7. The translation followed a standard internationally accepted procedure. Psychometric analyses were conducted using confirmatory and exploratory factor analysis, Pearson correlations, and reliability measures such as Cronbach’s alpha and intraclass correlation coefficients. The Serbian version of the FACT-HN showed excellent internal consistency across all subscales, with Cronbach’s alpha ranging from 0.70 to 0.89. Confirmatory factor analysis confirmed the five-factor structure. Strong correlations were observed between the FACT-HN and other validated QoL measures, particularly with the EORTC QLQ-C30 and EORTC QLQ-HN43. Convergent validity was satisfactory for all components except the Social Well-Being component. The Serbian version of the FACT-HN is a valid and reliable tool for assessing the quality of life in head and neck cancer patients. It provides a comprehensive assessment of physical, social, emotional, and functional well-being, making it valuable for clinical and research applications in Serbian-speaking populations. Further research is needed to assess its sensitivity to longitudinal treatment-related changes.</p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Translation</kwd>
+            <kwd>Validation</kwd>
+            <kwd>FACTHN</kwd>
+            <kwd>Head and Neck Cancer</kwd>
+            <kwd>Quality of Life</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Head and Neck Cancer</kwd>
+            <kwd>Health Communication</kwd>
+            <kwd>Quality of Life Research</kwd>
+            <kwd>Psychometrics</kwd>
+            <kwd>Oral-health-related Quality of Life</kwd>
+            <kwd>Dental patient assessment</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

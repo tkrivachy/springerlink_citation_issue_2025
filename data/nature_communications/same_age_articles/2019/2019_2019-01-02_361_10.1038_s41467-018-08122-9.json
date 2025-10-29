@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.716799",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08122-9",
+    "title": "Mature IgD",
+    "article_number": "190",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Avijit Ray",
+      "Mohamed I. Khalil",
+      "Kirthi L. Pulakanti",
+      "Robert T. Burns",
+      "Cody J. Gurski",
+      "Sreemanti Basu",
+      "Demin Wang",
+      "Sridhar Rao",
+      "Bonnie N. Dittel"
+    ]
+  },
+  "article_index": 361,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T17:18:05.252741"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T17:18:06.848999"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T17:18:08.056559"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T22:39:27.962720"
+    },
+    "last_updated": "2025-10-03T22:39:27.962819"
+  }
+}

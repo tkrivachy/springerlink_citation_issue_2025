@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.098290",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-023-15018-x",
+    "title": "The burden of Parkinson’s disease in the Middle East and North Africa region, 1990–2019: results from the global burden of disease study 2019",
+    "article_number": "107",
+    "publication_date": "2023-01-16",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Saeid Safiri",
+      "Maryam Noori",
+      "Seyed Aria Nejadghaderi",
+      "Seyed Ehsan Mousavi",
+      "Mark J. M. Sullman",
+      "Mostafa Araj-Khodaei",
+      "Kuljit Singh",
+      "Ali-Asghar Kolahi",
+      "Kurosh Gharagozli"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T14:09:09.355258"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T14:09:10.922738"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:09:12.204378"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T21:27:45.245855"
+    },
+    "last_updated": "2025-10-03T21:27:45.245994"
+  }
+}

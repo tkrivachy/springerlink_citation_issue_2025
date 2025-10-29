@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.702070",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08172-z",
+    "title": "Anti-LRP5/6 VHHs promote differentiation of Wnt-hypersensitive intestinal stem cells",
+    "article_number": "365",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nicola Fenderico",
+      "Revina C. van Scherpenzeel",
+      "Michael Goldflam",
+      "Davide Proverbio",
+      "Ingrid Jordens",
+      "Tomica Kralj",
+      "Sarah Stryeck",
+      "Tarek Z. Bass",
+      "Guy Hermans",
+      "Christopher Ullman",
+      "Teodor Aastrup",
+      "Piet Gros",
+      "Madelon M. Maurice"
+    ]
+  },
+  "article_index": 230,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:27:24.022236"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T17:27:25.584964"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:27:26.770554"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T22:42:38.978430"
+    },
+    "last_updated": "2025-10-03T22:42:38.978619"
+  }
+}

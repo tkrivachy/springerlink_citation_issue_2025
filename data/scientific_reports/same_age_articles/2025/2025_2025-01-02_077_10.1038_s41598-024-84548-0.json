@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.349556",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84548-0",
+    "title": "Silencing circ_0043256 inhibited CoCl2-induced proliferation, migration, and aerobic glycolysis in gastric cancer cells",
+    "article_number": "171",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Wenting Ou",
+      "Rongjian Tan",
+      "Jiawei Zhai",
+      "Lijun Sun",
+      "Zhenhao Quan",
+      "Xianjin Huang",
+      "Feipeng Xu",
+      "Qingwen Xu",
+      "Caijin Zhou"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:21:47.247541"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:21:48.769290"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:04.111171"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:19:26.659380"
+    },
+    "last_updated": "2025-10-07T09:50:04.111258"
+  }
+}

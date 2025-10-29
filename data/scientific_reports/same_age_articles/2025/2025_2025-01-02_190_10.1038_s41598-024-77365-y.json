@@ -1,0 +1,74 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.368562",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-77365-y",
+    "title": "Effectiveness of tacrolimus therapy in refractory ulcerative colitis compared to infliximab with propensity score matching",
+    "article_number": "68",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Takeo Yoshihara",
+      "Takahiro Amano",
+      "Shinichiro Shinzaki",
+      "Yuri Tsujii",
+      "Akiko Asakura",
+      "Taku Tashiro",
+      "Mizuki Tani",
+      "Yuriko Otake-Kasamoto",
+      "Takuya Yamada",
+      "Yuko Sakakibara",
+      "Naoto Osugi",
+      "Shuji Ishii",
+      "Satoshi Egawa",
+      "Manabu Araki",
+      "Yuki Arimoto",
+      "Masanori Nakahara",
+      "Yoko Murayama",
+      "Ichizo Kobayashi",
+      "Kazuo Kinoshita",
+      "Hiroyuki Ogawa",
+      "Satoshi Hiyama",
+      "Narihiro Shibukawa",
+      "Masato Komori",
+      "Yorihide Okuda",
+      "Takashi Kizu",
+      "Tetsuhisa Kitamura",
+      "Minoru Kato",
+      "Yoshiki Tsujii",
+      "Takahiro Inoue",
+      "Hideki Iijima",
+      "Yoshito Hayashi",
+      "Tetsuo Takehara"
+    ]
+  },
+  "article_index": 190,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:37.376361"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:38.906369"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:40.106867"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:27:56.394813"
+    },
+    "last_updated": "2025-10-03T22:27:56.395000"
+  }
+}

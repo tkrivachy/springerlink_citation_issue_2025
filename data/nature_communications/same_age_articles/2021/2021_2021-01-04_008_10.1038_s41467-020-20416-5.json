@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.173934",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20416-5",
+    "title": "Continued preference for suboptimal habitat reduces bat survival with white-nose syndrome",
+    "article_number": "166",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Skylar R. Hopkins",
+      "Joseph R. Hoyt",
+      "J. Paul White",
+      "Heather M. Kaarakka",
+      "Jennifer A. Redell",
+      "John E. DePue",
+      "William H. Scullon",
+      "A. Marm Kilpatrick",
+      "Kate E. Langwig"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:24:16.567971"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:24:18.127864"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:24:19.491015"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T23:02:01.563113"
+    },
+    "last_updated": "2025-10-03T23:02:01.563202"
+  }
+}

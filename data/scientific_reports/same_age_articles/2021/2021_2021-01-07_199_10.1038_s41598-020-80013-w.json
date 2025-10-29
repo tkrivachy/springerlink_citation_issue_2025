@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.236373",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80013-w",
+    "title": "Synergistic antibacterial activity of surfactant free Ag–GO nanocomposites",
+    "article_number": "196",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Muhammad Ashfaq Ahmad",
+      "Samia Aslam",
+      "Faiza Mustafa",
+      "Usman Arshad"
+    ]
+  },
+  "article_index": 199,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T14:41:01.447051"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T14:41:02.977719"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T14:41:04.261990"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T21:39:50.757470"
+    },
+    "last_updated": "2025-10-03T21:39:50.757665"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880665",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13956-y",
+    "title": "Astrocytes monitor cerebral perfusion and control systemic circulation to maintain brain blood flow",
+    "article_number": "131",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nephtali Marina",
+      "Isabel N. Christie",
+      "Alla Korsak",
+      "Maxim Doronin",
+      "Alexey Brazhe",
+      "Patrick S. Hosford",
+      "Jack A. Wells",
+      "Shahriar Sheikhbahaei",
+      "Ibrahim Humoud",
+      "Julian F. R. Paton",
+      "Mark F. Lythgoe",
+      "Alexey Semyanov",
+      "Sergey Kasparov",
+      "Alexander V. Gourine"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 153,
+      "retrieved_at": "2025-10-03T18:18:08.298856"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 173,
+      "retrieved_at": "2025-10-03T18:18:09.865433"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T18:18:11.341727"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 185,
+      "retrieved_at": "2025-10-03T22:59:54.341119"
+    },
+    "last_updated": "2025-10-03T22:59:54.341165"
+  }
+}

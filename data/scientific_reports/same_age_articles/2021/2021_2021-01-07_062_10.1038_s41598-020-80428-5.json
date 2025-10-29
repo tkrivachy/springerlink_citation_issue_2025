@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.211277",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80428-5",
+    "title": "RETRACTED ARTICLE: Gamma-radiated immunosuppressed tumor xenograft mice can be a new ideal model in cancer research",
+    "article_number": "256",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hamid Khodayari",
+      "Saeed Khodayari",
+      "Solmaz Khalighfard",
+      "Arash Tahmasebifar",
+      "Mahboubeh Tajaldini",
+      "Amirhoushang Poorkhani",
+      "Hassan Nikoueinejad",
+      "Gholam Ali Hamidi",
+      "Hassan Nosrati",
+      "Mohammad Reza Kalhori",
+      "Ali Mohammad Alizadeh"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:44:23.202420"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:44:24.734672"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:44:25.886225"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:41:12.146496"
+    },
+    "last_updated": "2025-10-03T21:41:12.146582"
+  }
+}

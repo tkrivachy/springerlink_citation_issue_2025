@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-024-55645-5</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-024-55645-5</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41467-024-55645-5</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41467-024-55645-5.pdf</ns2:url>
+          <dc:title>Programming scheduled self-assembly of circadian materials</dc:title>
+          <dc:creator>Leech, Gregor</dc:creator>
+          <dc:creator>Melcher, Lauren</dc:creator>
+          <dc:creator>Chiu, Michelle</dc:creator>
+          <dc:creator>Nugent, Maya</dc:creator>
+          <dc:creator>Juliano, Shirlaine</dc:creator>
+          <dc:creator>Burton, Lily</dc:creator>
+          <dc:creator>Kang, Janet</dc:creator>
+          <dc:creator>Kim, Soo Ji</dc:creator>
+          <dc:creator>Roy, Sourav</dc:creator>
+          <dc:creator>Farhadi, Leila</dc:creator>
+          <dc:creator>Ross, Jennifer L.</dc:creator>
+          <dc:creator>Das, Moumita</dc:creator>
+          <dc:creator>Rust, Michael J.</dc:creator>
+          <dc:creator>Robertson-Anderson, Rae M.</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2041-1723</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:volume>16</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>12</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2025-01-02</onlineDate>
+          <ns2:coverDate>2025-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41467-024-55645-5</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2025-01-02</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-024-55645-5</ns2:url>
+          <ns2:copyright>©2024 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <p>Harnessing biomolecular systems to endow synthetic materials with life-like properties is a significant challenge. Here, the authors use the biomolecular KaiABC circadian clock proteins to control autonomous self-assembly and oscillation of colloids.</p>
+        <h1>Abstract</h1>
+        <p>Active biological molecules present a powerful, yet largely untapped, opportunity to impart autonomous regulation of materials. Because these systems can function robustly to regulate when and where chemical reactions occur, they have the ability to bring complex, life-like behavior to synthetic materials. Here, we achieve this design feat by using functionalized circadian clock proteins, KaiB and KaiC, to engineer time-dependent crosslinking of colloids. The resulting material self-assembles with programmable kinetics, producing macroscopic changes in material properties, via molecular assembly of KaiB-KaiC complexes. We show that colloid crosslinking depends strictly on the phosphorylation state of KaiC, with kinetics that are synced with KaiB-KaiC complexing. Our microscopic image analyses and computational models indicate that the stability of colloidal super-structures depends sensitively on the number of Kai complexes per colloid connection. Consistent with our model predictions, a high concentration stabilizes the material against dissolution after a robust self-assembly phase, while a low concentration allows for oscillatory material structure. This work introduces the concept of harnessing biological timers to control synthetic materials; and, more generally, opens the door to using protein-based reaction networks to endow synthetic systems with life-like functional properties.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2025</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-018-36882-3</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41598-018-36882-3</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Sex hormone-binding globulin provides a novel entry pathway for estradiol and influences subsequent signaling in lymphocytes via membrane receptor</dc:title>
+            
+	    
+            <dc:creator>Balogh, Andrea</dc:creator>
+            
+	    
+            <dc:creator>Karpati, Eva</dc:creator>
+            
+	    
+            <dc:creator>Schneider, Andrea E.</dc:creator>
+            
+	    
+            <dc:creator>Hetey, Szabolcs</dc:creator>
+            
+	    
+            <dc:creator>Szilagyi, Andras</dc:creator>
+            
+	    
+            <dc:creator>Juhasz, Kata</dc:creator>
+            
+	    
+            <dc:creator>Laszlo, Gloria</dc:creator>
+            
+	    
+            <dc:creator>Hupuczi, Petronella</dc:creator>
+            
+	    
+            <dc:creator>Zavodszky, Peter</dc:creator>
+            
+	    
+            <dc:creator>Papp, Zoltan</dc:creator>
+            
+	    
+            <dc:creator>Matko, Janos</dc:creator>
+            
+	    
+            <dc:creator>Than, Nandor Gabor</dc:creator>
+            
+	    
+            <ns3:publicationName>Scientific Reports</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2045-2322</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41598-018-36882-3</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2019-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2019-01-09</ns3:publicationDate>
+            
+	    
+            <ns3:volume>9</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>15</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41598-018-36882-3</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41598-018-36882-3</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41598-018-36882-3.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2019 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>The complex effects of estradiol on non-reproductive tissues/cells, including lymphoid tissues and immunocytes, have increasingly been explored. However, the role of sex hormone binding globulin (SHBG) in the regulation of these genomic and non-genomic actions of estradiol is controversial. Moreover, the expression of SHBG and its internalization by potential receptors, as well as the influence of SHBG on estradiol uptake and signaling in lymphocytes has remained unexplored. Here, we found that human and mouse T cells expressed SHBG intrinsically. In addition, B lymphoid cell lines as well as both primary B and T lymphocytes bound and internalized external SHBG, and the amount of plasma membrane-bound SHBG decreased in B cells of pregnant compared to non-pregnant women. As potential mediators of this process, SHBG receptor candidates expressed by lymphocytes were identified in silico , including estrogen receptor (ER) alpha. Furthermore, cell surface-bound SHBG was detected in close proximity to membrane ERs while highly colocalizing with lipid rafts. The SHBG-membrane ER interaction was found functional since SHBG promoted estradiol uptake by lymphocytes and subsequently influenced Erk1/2 phosphorylation. In conclusion, the SHBG-SHBG receptor-membrane ER complex participates in the rapid estradiol signaling in lymphocytes, and this pathway may be altered in B cells in pregnant women.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41598</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2019-01-09</onlineDate>
+        <authors>
+          <author>Balogh, Andrea</author>
+          <author>Karpati, Eva</author>
+          <author>Schneider, Andrea E.</author>
+          <author>Hetey, Szabolcs</author>
+          <author>Szilagyi, Andras</author>
+          <author>Juhasz, Kata</author>
+          <author>Laszlo, Gloria</author>
+          <author>Hupuczi, Petronella</author>
+          <author>Zavodszky, Peter</author>
+          <author>Papp, Zoltan</author>
+          <author ORCID="0000-0001-9434-934X">Matko, Janos</author>
+          <author ORCID="0000-0001-9385-7019">Than, Nandor Gabor</author>
+        </authors>
+        <disciplines>
+          <discipline id="2887" term="Technology and Engineering"/>
+          <discipline id="2867" term="Physical Sciences"/>
+          <discipline id="2874" term="Life Sciences"/>
+          <discipline id="3001" term="Behavioral Sciences and Psychology"/>
+          <discipline id="2971" term="Computer Science"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2019</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Hungary</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.684458",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08155-0",
+    "title": "Quantum mechanics and the covariance of physical laws in quantum reference frames",
+    "article_number": "494",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Flaminia Giacomini",
+      "Esteban Castro-Ruiz",
+      "Časlav Brukner"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:34:41.775784"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 199,
+      "retrieved_at": "2025-10-03T17:34:43.511633"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T17:34:44.930189"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 232,
+      "retrieved_at": "2025-10-03T22:45:12.669617"
+    },
+    "last_updated": "2025-10-03T22:45:12.669811"
+  }
+}

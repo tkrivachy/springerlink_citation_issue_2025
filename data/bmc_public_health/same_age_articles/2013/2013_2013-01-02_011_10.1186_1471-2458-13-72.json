@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.808280",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-72",
+    "title": "Population based case–control study of serious non-fatal motorcycle crashes",
+    "article_number": "72",
+    "publication_date": "2013-01-25",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Lesley Day",
+      "Michael G Lenné",
+      "Mark Symmons",
+      "Peter Hillard",
+      "Stuart Newstead",
+      "Trevor Allen",
+      "Rod McClure"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T12:53:51.198871"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T12:53:52.726836"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:53:54.016723"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:00:32.096422"
+    },
+    "last_updated": "2025-10-03T21:00:32.096523"
+  }
+}

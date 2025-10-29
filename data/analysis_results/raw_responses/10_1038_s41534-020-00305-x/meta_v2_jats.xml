@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41534-020-00305-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41534</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41534.2056-6387</journal-id>
+          <journal-title-group>
+            <journal-title>npj Quantum Information</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2056-6387</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41534-020-00305-x</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">A neural network oracle for quantum nonlocality problems in networks</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Kriváchy</surname>
+                <given-names>Tamás</given-names>
+              </name>
+              <address>
+                <email>tamas.krivachy@gmail.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7001-6815</contrib-id>
+              <name name-style="western">
+                <surname>Cai</surname>
+                <given-names>Yu</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Cavalcanti</surname>
+                <given-names>Daniel</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8481-3284</contrib-id>
+              <name name-style="western">
+                <surname>Tavakoli</surname>
+                <given-names>Arash</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0788-3494</contrib-id>
+              <name name-style="western">
+                <surname>Gisin</surname>
+                <given-names>Nicolas</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Brunner</surname>
+                <given-names>Nicolas</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>21</day>
+            <month>8</month>
+            <year>2020</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2020</year>
+          </pub-date>
+          <volume>6</volume>
+          <issue>1</issue>
+          <elocation-id>70</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41534-020-00305-x</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41534-020-00305-x.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2020</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Characterizing quantum nonlocality in networks is a challenging, but important problem. Using quantum sources one can achieve distributions which are unattainable classically. A key point in investigations is to decide whether an observed probability distribution can be reproduced using only classical resources. This causal inference task is challenging even for simple networks, both analytically and using standard numerical techniques. We propose to use neural networks as numerical tools to overcome these challenges, by learning the classical strategies required to reproduce a distribution. As such, a neural network acts as an oracle for an observed behavior, demonstrating that it is classical if it can be learned. We apply our method to several examples in the triangle configuration. After demonstrating that the method is consistent with previously known results, we give solid evidence that a quantum distribution recently proposed by Gisin is indeed nonlocal as conjectured. Finally we examine the genuinely nonlocal distribution recently presented by Renou et al., and, guided by the findings of the neural network, conjecture nonlocality in a new range of parameters in these distributions. The method allows us to get an estimate on the noise robustness of all examined distributions.</p>
+          </abstract>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung (Swiss National Science Foundation)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100001711</institution-id>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>EC | EU Framework Programme for Research and Innovation H2020 | H2020 Priority Excellent Science | H2020 European Research Council (H2020 Excellent Science - European Research Council)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100010663</institution-id>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Ministry of Economy and Competitiveness | Agencia Estatal de Investigación (Spanish Agencia Estatal de Investigación)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100011033</institution-id>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Fundación Cellex (Cellex Foundation)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100008050</institution-id>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>RCUK | Engineering and Physical Sciences Research Council (EPSRC)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100000266</institution-id>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Physics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Physics, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Quantum Physics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Quantum Information Technology, Spintronics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Quantum Computing</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Quantum Field Theories, String Theory</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Classical and Quantum Gravitation, Relativity Theory</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physics and Astronomy</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Quantum Physics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Spintronics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Quantum Computing</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Elementary Particles, Quantum Field Theory</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Classical and Quantum Gravity</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

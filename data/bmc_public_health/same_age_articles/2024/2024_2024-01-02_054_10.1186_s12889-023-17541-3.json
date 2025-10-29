@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:55:53.380193",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-023-17541-3",
+    "title": "The eye of the beholder: how do public health researchers interpret regression coefficients? A qualitative study",
+    "article_number": "10",
+    "publication_date": "2024-01-02",
+    "volume": "24",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Taya A. Collyer"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:17:25.112301"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:17:26.701573"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:17:28.014816"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T21:30:36.806770"
+    },
+    "last_updated": "2025-10-03T21:30:36.806818"
+  }
+}

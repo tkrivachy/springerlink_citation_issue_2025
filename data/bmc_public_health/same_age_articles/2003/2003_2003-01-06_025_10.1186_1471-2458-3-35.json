@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.852495",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-35",
+    "title": "A study on cercarial dermatitis in Khuzestan province, south western Iran",
+    "article_number": "35",
+    "publication_date": "2003-11-07",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ali Farahnak",
+      "Mostafa Essalat"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T11:57:36.868448"
+    },
+    "last_updated": "2025-10-03T20:42:34.383028",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T12:04:26.243099"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T12:04:27.508883"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T20:42:34.382839"
+    }
+  }
+}

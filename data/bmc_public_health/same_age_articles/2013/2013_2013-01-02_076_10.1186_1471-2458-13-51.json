@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.818547",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-51",
+    "title": "Further validation that claims data are a useful tool for epidemiologic research on hypertension",
+    "article_number": "51",
+    "publication_date": "2013-01-18",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Baylah Tessier-Sherman",
+      "Deron Galusha",
+      "Oyebode A Taiwo",
+      "Linda Cantley",
+      "Martin D Slade",
+      "Sharon R Kirsche",
+      "Mark R Cullen"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:53:39.404973"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T12:53:40.919184"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T12:53:42.181258"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T21:00:28.372867"
+    },
+    "last_updated": "2025-10-03T21:00:28.373051"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536363",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55457-7",
+    "title": "Universal, untargeted detection of bacteria in tissues using metabolomics workflows",
+    "article_number": "165",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wei Chen",
+      "Min Qiu",
+      "Petra Paizs",
+      "Miriam Sadowski",
+      "Toma Ramonaite",
+      "Lieby Zborovsky",
+      "Raquel Mejias-Luque",
+      "Klaus-Peter Janßen",
+      "James Kinross",
+      "Robert D. Goldin",
+      "Monica Rebec",
+      "Manuel Liebeke",
+      "Zoltan Takats",
+      "James S. McKenzie",
+      "Nicole Strittmatter"
+    ]
+  },
+  "article_index": 171,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:30:04.348577"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:30:05.913783"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:07.089668"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:24:04.821669"
+    },
+    "last_updated": "2025-10-03T23:24:04.821859"
+  }
+}

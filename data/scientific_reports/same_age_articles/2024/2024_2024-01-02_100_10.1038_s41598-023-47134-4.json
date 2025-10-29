@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.837050",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-47134-4",
+    "title": "Thermal and optical properties of P3HT:PC70BM:ZnO nanoparticles composite films",
+    "article_number": "66",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "B. Hajduk",
+      "P. Jarka",
+      "H. Bednarski",
+      "M. Godzierz",
+      "T. Tański",
+      "M. Staszuk",
+      "P. Nitschke",
+      "B. Jarząbek",
+      "M. Fijalkowski",
+      "K. Mazik"
+    ]
+  },
+  "article_index": 100,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:56:17.378919"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:56:18.931987"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:56:20.132690"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:10:12.550429"
+    },
+    "last_updated": "2025-10-03T22:10:12.550623"
+  }
+}

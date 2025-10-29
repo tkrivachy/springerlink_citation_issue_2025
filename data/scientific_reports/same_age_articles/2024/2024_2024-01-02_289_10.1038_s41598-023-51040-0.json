@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.863248",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-51040-0",
+    "title": "Stepwise reduction of graphene oxide and studies on defect-controlled physical properties",
+    "article_number": "294",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Poulomi Das",
+      "Sk Ibrahim",
+      "Koushik Chakraborty",
+      "Surajit Ghosh",
+      "Tanusri Pal"
+    ]
+  },
+  "article_index": 289,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T15:58:04.357862"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T15:58:05.897745"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T15:58:07.053044"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T22:10:48.669400"
+    },
+    "last_updated": "2025-10-03T22:10:48.669450"
+  }
+}

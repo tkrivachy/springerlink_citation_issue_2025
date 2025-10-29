@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.565574",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55509-y",
+    "title": "Physiological premature aging of ovarian blood vessels leads to decline in fertility in middle-aged mice",
+    "article_number": "72",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lu Mu",
+      "Ge Wang",
+      "Xuebing Yang",
+      "Jing Liang",
+      "Huan Tong",
+      "Lingyu Li",
+      "Kaiying Geng",
+      "Yingnan Bo",
+      "Xindi Hu",
+      "Ruobing Yang",
+      "Xueqiang Xu",
+      "Yan Zhang",
+      "Hua Zhang"
+    ]
+  },
+  "article_index": 322,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:24:51.656107"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:24:53.257539"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:24:54.405453"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:22:26.410451"
+    },
+    "last_updated": "2025-10-03T23:22:26.410526"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.849862",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04406-1",
+    "title": "Evaluation of reference genes and characterization of the ",
+    "article_number": "258",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kui-Peng Li",
+      "Wei Li",
+      "Gui-Yun Tao",
+      "Kai-Yong Huang"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:26:43.812774"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:26:45.386179"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:26:46.543387"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T21:58:31.042582"
+    },
+    "last_updated": "2025-10-03T21:58:31.042660"
+  }
+}

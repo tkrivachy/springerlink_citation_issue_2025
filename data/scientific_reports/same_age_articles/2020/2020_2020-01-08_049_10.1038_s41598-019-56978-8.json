@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.304829",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56978-8",
+    "title": "Non-essentiality of canonical cell division genes in the planctomycete ",
+    "article_number": "66",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Elena Rivas-Marin",
+      "Stijn H. Peeters",
+      "Laura Claret Fernández",
+      "Christian Jogler",
+      "Laura van Niftrik",
+      "Sandra Wiegand",
+      "Damien P. Devos"
+    ]
+  },
+  "article_index": 49,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T14:28:56.605620"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:28:58.141520"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:28:59.412297"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:34:53.557613"
+    },
+    "last_updated": "2025-10-03T21:34:53.557803"
+  }
+}

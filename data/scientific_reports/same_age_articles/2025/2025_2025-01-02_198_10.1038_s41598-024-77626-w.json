@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.369474",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-77626-w",
+    "title": "Estimation of the Shear Strength of Sand-Clay mixtures based on the ANN and low-field NMR",
+    "article_number": "71",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xiajun Liu",
+      "Zhen Lu",
+      "Yifei Zhu",
+      "Qiaoli Le",
+      "Jiagang Wei"
+    ]
+  },
+  "article_index": 198,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:20:11.418087"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:20:12.955948"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:45.788658"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:18:54.426486"
+    },
+    "last_updated": "2025-10-07T09:49:45.788871"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:55:53.375152",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-023-17497-4",
+    "title": "Global COVID-19 vaccine acceptance level and its determinants: an umbrella review",
+    "article_number": "5",
+    "publication_date": "2024-01-02",
+    "volume": "24",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Biruk Beletew Abate",
+      "Befkad Derese Tilahun",
+      "Berihun Mulu Yayeh"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:19:02.973979"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:19:04.548071"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:19:05.857216"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:31:11.174958"
+    },
+    "last_updated": "2025-10-03T21:31:11.175143"
+  }
+}

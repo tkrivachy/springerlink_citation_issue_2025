@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.868977",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04359-5",
+    "title": "The influence of the optical properties on the determination of capillary diameters",
+    "article_number": "270",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Moritz Späth",
+      "Maximilian Rohde",
+      "Dongqin Ni",
+      "Ferdinand Knieling",
+      "Florian Stelzle",
+      "Michael Schmidt",
+      "Florian Klämpfl",
+      "Martin Hohmann"
+    ]
+  },
+  "article_index": 114,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:24:24.760906"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:24:26.299268"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:24:27.457622"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:57:34.399191"
+    },
+    "last_updated": "2025-10-03T21:57:34.399278"
+  }
+}

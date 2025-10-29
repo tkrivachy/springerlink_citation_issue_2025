@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.728801",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07856-w",
+    "title": "Ultrasonic sculpting of virtual optical waveguides in tissue",
+    "article_number": "92",
+    "publication_date": "2019-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Maysamreza Chamanzar",
+      "Matteo Giuseppe Scopelliti",
+      "Julien Bloch",
+      "Ninh Do",
+      "Minyoung Huh",
+      "Dongjin Seo",
+      "Jillian Iafrati",
+      "Vikaas S. Sohal",
+      "Mohammad-Reza Alam",
+      "Michel M. Maharbiz"
+    ]
+  },
+  "article_index": 474,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:46:17.748722"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:46:19.253491"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T17:46:20.538614"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T22:48:59.885477"
+    },
+    "last_updated": "2025-10-03T22:48:59.885665"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.207910",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80160-0",
+    "title": "Elevated radium levels in Nubian Aquifer groundwater of Northeastern Africa",
+    "article_number": "78",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mahmoud I. Sherif",
+      "Neil C. Sturchio"
+    ]
+  },
+  "article_index": 37,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:38:04.572967"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:38:06.134361"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:38:07.340361"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:38:39.716257"
+    },
+    "last_updated": "2025-10-03T21:38:39.716314"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.841811",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50640-0",
+    "title": "Distinct patterns of proteostasis network gene expression are associated with different prognoses in melanoma patients",
+    "article_number": "198",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Rachel Wellman",
+      "Daniel Jacobson",
+      "Maria Secrier",
+      "John Labbadia"
+    ]
+  },
+  "article_index": 145,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:44:31.570131"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:44:33.336619"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:44:34.539645"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:05:40.748960"
+    },
+    "last_updated": "2025-10-03T22:05:40.749047"
+  }
+}

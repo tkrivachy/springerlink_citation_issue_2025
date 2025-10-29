@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.674701",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43413-w",
+    "title": "Transient inhibition of 53BP1 increases the frequency of targeted integration in human hematopoietic stem and progenitor cells",
+    "article_number": "111",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ron Baik",
+      "M. Kyle Cromer",
+      "Steve E. Glenn",
+      "Christopher A. Vakulskas",
+      "Kay O. Chmielewski",
+      "Amanda M. Dudek",
+      "William N. Feist",
+      "Julia Klermund",
+      "Suzette Shipp",
+      "Toni Cathomen",
+      "Daniel P. Dever",
+      "Matthew H. Porteus"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:03:30.654781"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:03:32.207401"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:03:33.368156"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:15:11.643130"
+    },
+    "last_updated": "2025-10-03T23:15:11.643319"
+  }
+}

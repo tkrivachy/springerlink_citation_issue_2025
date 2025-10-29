@@ -1,0 +1,319 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-S1-P8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="abstract" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">BMC1471-2458-14-S1-P8</article-id>
+          <article-id pub-id-type="manuscript">6238</article-id>
+          <article-id pub-id-type="doi">10.1186/1471-2458-14-S1-P8</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Poster Presentation</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Maternal health insurance in Indonesia: assessment of a policy design</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes">
+              <name name-style="western">
+                <surname>Marthias</surname>
+                <given-names>Tiara</given-names>
+              </name>
+              <address>
+                <email>timarthias@gmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDBMC1471245814S1P8_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Kurniawan</surname>
+                <given-names>M Faozi</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Putri</surname>
+                <given-names>Likke</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.8570.a</institution-id>
+                <institution content-type="org-name">Universitas Gadjah Mada</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">55281</addr-line>
+              <addr-line content-type="city">Yogyakarta</addr-line>
+              <country country="ID">Indonesia</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDBMC1471245814S1P8_cor1">
+              <label>a</label>
+              <email>timarthias@gmail.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>29</day>
+            <month>1</month>
+            <year>2014</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>1</month>
+            <year>2014</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue seq="45">Suppl 1</issue>
+          <issue-title>Proceedings of the 7th Postgraduate Forum on Health Systems and Policies</issue-title>
+          <issue-sponsor>Publication of this supplement was funded by Faculty of Medicine, Naresuan University. The Supplement Editors declare that they have no competing interests.</issue-sponsor>
+          <elocation-id>P8</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>29</day>
+              <month>1</month>
+              <year>2014</year>
+            </date>
+            <date date-type="online">
+              <day>29</day>
+              <month>1</month>
+              <year>2014</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© Marthias et al; licensee BioMed Central Ltd. 2014</copyright-statement>
+            <copyright-year>2014</copyright-year>
+            <copyright-holder>Marthias et al; licensee BioMed Central Ltd.</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/2.0">
+              <license-p>
+                This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/2.0" ext-link-type="uri">http://creativecommons.org/licenses/by/2.0</ext-link>
+                ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The Creative Commons Public Domain Dedication waiver (
+                <ext-link ns0:href="http://creativecommons.org/publicdomain/zero/1.0/" ext-link-type="uri">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>
+                ) applies to the data made available in this article, unless otherwise stated.
+              </license-p>
+            </license>
+          </permissions>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Family Planning</kwd>
+            <kwd>Postnatal Care</kwd>
+            <kwd>Service Accessibility</kwd>
+            <kwd>Family Planning Programme</kwd>
+            <kwd>High Quality Service</kwd>
+          </kwd-group>
+          <conference>
+            <conf-name>7th Postgraduate Forum on Health Systems and Policies</conf-name>
+            <conf-loc>Phitsanulok, Thailand</conf-loc>
+            <conf-date>24-25 June 2013</conf-date>
+          </conference>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>61</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2014</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2014</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>29</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2014_Article_6238.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Supplement</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>Abstract</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>conf-event-url-1</meta-name>
+              <meta-value>http://www.med.nu.ac.th/PGF2013/</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="SupplementNote">
+          <p>Meeting abstracts</p>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Background</title>
+          <p>The main purposes of the Indonesian national insurance for maternal and delivery services were to: (1) increase antenatal and skilled birth attendance coverage, (2) increase neonatal and postnatal care, and postnatal family planning coverage, and (3) ensure effective and accountable health financing for MNCH.</p>
+          <p>However, there has been a growing concern on the implementation of the policy. Increased accessibility does not always translate to better health services and improved equity in health. The programme has also put dismaying burden on the health system, particularly for health providers. To ensure better programme implementation that could better achieve the original purposes, Jampersal health insurance should be scrutinised from the policy analysis perspective. This study aimed to analyse the design of the Jampersal policy in Indonesia and to provide suggestions for improvement for future implementation.</p>
+        </sec>
+        <sec id="Sec2" sec-type="materials|methods">
+          <title>Materials and methods</title>
+          <p>The study focused on analysing the design issues and the challenges, using a framework developed based on the purposes of the policy itself.</p>
+        </sec>
+        <sec id="Sec3" sec-type="results">
+          <title>Results</title>
+          <p>Key innovations of the policy included (1) the cover-all care package, (2) mandatory facility-based delivery, and (3) family planning programme. The innovations had the potential to increase MNCH care services accessibility. However, the limited budget ceiling may compromise high quality service. From the equity side, Jampersal is a non-targeting health insurance covering all women regardless of their socioeconomic status. Also, the policy did not address other barriers to health service, e.g. transportation costs for family members, and unclear financing scheme for caesarean section. Much of the funding relied on the sub-national management, which under the decentralisation, does not necessarily translate to clearer funding coverage.</p>
+        </sec>
+        <sec id="Sec4" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p>MNCH insurance policy could alleviate financial burden, and could be improved through strengthening the programme design and improving the implementation. The policy needs to be evidence-informed, so that it would be well targeted and achieve the main purposes of the programme itself.</p>
+        </sec>
+      </body>
+    </article>
+  </records>
+  <facets/>
+</response>

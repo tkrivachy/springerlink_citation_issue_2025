@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.733257",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07898-0",
+    "title": "A T-cell receptor escape channel allows broad T-cell response to CD1b and membrane phospholipids",
+    "article_number": "56",
+    "publication_date": "2019-01-04",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Adam Shahine",
+      "Peter Reinink",
+      "Josephine F. Reijneveld",
+      "Stephanie Gras",
+      "Mira Holzheimer",
+      "Tan-Yun Cheng",
+      "Adriaan J. Minnaard",
+      "John D. Altman",
+      "Steffi Lenz",
+      "Jacques Prandi",
+      "Joanna Kubler-Kielb",
+      "D. Branch Moody",
+      "Jamie Rossjohn",
+      "Ildiko Van Rhijn"
+    ]
+  },
+  "article_index": 516,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:58:09.171319"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:58:10.674807"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T17:58:11.837071"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T22:53:21.210512"
+    },
+    "last_updated": "2025-10-03T22:53:21.210561"
+  }
+}

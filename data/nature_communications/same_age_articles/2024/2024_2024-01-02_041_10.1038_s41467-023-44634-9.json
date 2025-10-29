@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.670385",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44634-9",
+    "title": "From lab to life: how wearable devices can improve health equity",
+    "article_number": "123",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jessica R. Walter",
+      "Shuai Xu",
+      "John A. Rogers"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T19:11:37.466252"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T19:11:39.012956"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T19:11:40.149156"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:18:01.818500"
+    },
+    "last_updated": "2025-10-03T23:18:01.818690"
+  }
+}

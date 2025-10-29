@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.545391",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55521-2",
+    "title": "Engineering 2D spin networks by on-surface encapsulation of azafullerene radicals in nanotemplates",
+    "article_number": "193",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gregor Kladnik",
+      "Luca Schio",
+      "Gregor Bavdek",
+      "Yuri Tanuma",
+      "Marion van Midden Mavrič",
+      "Erik Zupanič",
+      "Bastien Anézo",
+      "Ioanna K. Sideri",
+      "Nikos Tagmatarchis",
+      "Jannis Volkmann",
+      "Hermann A. Wegner",
+      "Andrea Goldoni",
+      "Christopher P. Ewels",
+      "Alberto Morgante",
+      "Luca Floreano",
+      "Denis Arčon",
+      "Dean Cvetko"
+    ]
+  },
+  "article_index": 234,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:45:13.261839"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:45:14.775343"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:15.932400"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:29:24.671392"
+    },
+    "last_updated": "2025-10-03T23:29:24.671588"
+  }
+}

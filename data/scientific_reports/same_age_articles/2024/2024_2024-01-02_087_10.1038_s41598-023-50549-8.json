@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.835665",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50549-8",
+    "title": "Global taxonomic and functional patterns in invertebrate assemblages from rocky-intertidal mussel beds",
+    "article_number": "26",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nicole M. Cameron",
+      "Ricardo A. Scrosati",
+      "Nelson Valdivia",
+      "Zechariah D. Meunier"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:38:33.822564"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:38:35.345768"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:38:36.509968"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:03:18.282809"
+    },
+    "last_updated": "2025-10-03T22:03:18.282999"
+  }
+}

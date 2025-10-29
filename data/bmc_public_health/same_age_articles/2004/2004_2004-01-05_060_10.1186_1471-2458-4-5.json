@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.171071",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-5",
+    "title": "Validation of the diagnosis of autism in general practitioner records",
+    "article_number": "5",
+    "publication_date": "2004-03-03",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Eric Fombonne",
+      "Lisa Heavey",
+      "Liam Smeeth",
+      "Laura C Rodrigues",
+      "Claire Cook",
+      "Peter G Smith",
+      "Linyan Meng",
+      "Andrew J Hall"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T12:09:18.730839"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T12:09:20.247130"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T12:09:21.549419"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T20:44:28.856276"
+    },
+    "last_updated": "2025-10-03T20:44:28.856498"
+  }
+}

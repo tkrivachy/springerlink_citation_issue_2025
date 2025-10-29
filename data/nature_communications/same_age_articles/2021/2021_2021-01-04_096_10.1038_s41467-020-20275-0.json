@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.190044",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20275-0",
+    "title": "Catalytically potent and selective clusterzymes for modulation of neuroinflammation through single-atom substitutions",
+    "article_number": "114",
+    "publication_date": "2021-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Haile Liu",
+      "Yonghui Li",
+      "Si Sun",
+      "Qi Xin",
+      "Shuhu Liu",
+      "Xiaoyu Mu",
+      "Xun Yuan",
+      "Ke Chen",
+      "Hao Wang",
+      "Kalman Varga",
+      "Wenbo Mi",
+      "Jiang Yang",
+      "Xiao-Dong Zhang"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T18:38:47.003849"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 222,
+      "retrieved_at": "2025-10-03T18:38:48.582986"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 183,
+      "retrieved_at": "2025-10-03T18:38:49.780083"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 236,
+      "retrieved_at": "2025-10-03T23:06:56.874263"
+    },
+    "last_updated": "2025-10-03T23:06:56.874496"
+  }
+}

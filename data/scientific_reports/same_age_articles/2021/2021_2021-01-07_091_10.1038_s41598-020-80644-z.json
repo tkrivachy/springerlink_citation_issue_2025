@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.215184",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80644-z",
+    "title": "LAMP-based foldable microdevice platform for the rapid detection of ",
+    "article_number": "178",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "M. K. Prasannakumar",
+      "P. Buela Parivallal",
+      "Devanna Pramesh",
+      "H. B. Mahesh",
+      "Edwin Raj"
+    ]
+  },
+  "article_index": 91,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:45:44.466698"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T14:45:45.988263"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:45:47.142435"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T21:41:44.470030"
+    },
+    "last_updated": "2025-10-03T21:41:44.470218"
+  }
+}

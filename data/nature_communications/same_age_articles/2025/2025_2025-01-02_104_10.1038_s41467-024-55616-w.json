@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.524155",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55616-w",
+    "title": "Synergistic enhancement of electrochemical alcohol oxidation by combining NiV-layered double hydroxide with an aminoxyl radical",
+    "article_number": "266",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Suiqin Li",
+      "Shibin Wang",
+      "Yuhang Wang",
+      "Jiahui He",
+      "Kai Li",
+      "James B. Gerken",
+      "Shannon S. Stahl",
+      "Xing Zhong",
+      "Jianguo Wang"
+    ]
+  },
+  "article_index": 104,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:29:57.037035"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:29:58.591158"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:29:59.765555"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:24:02.584765"
+    },
+    "last_updated": "2025-10-03T23:24:02.584954"
+  }
+}

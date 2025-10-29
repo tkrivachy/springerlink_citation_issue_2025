@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.210112",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78850-w",
+    "title": "Spatiotemporal analysis of soluble aggregates and autophagy markers in the R6/2 mouse model",
+    "article_number": "96",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "M. J. Vijay Kumar",
+      "Devanshi Shah",
+      "Mridhula Giridharan",
+      "Niraj Yadav",
+      "Ravi Manjithaya",
+      "James P. Clement"
+    ]
+  },
+  "article_index": 53,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:57:02.628347"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:57:04.206626"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:57:05.480148"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:46:12.198884"
+    },
+    "last_updated": "2025-10-03T21:46:12.198931"
+  }
+}

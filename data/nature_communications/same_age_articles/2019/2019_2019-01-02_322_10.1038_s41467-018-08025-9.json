@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.712593",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08025-9",
+    "title": "In-situ formation of one-dimensional coordination polymers\n              in molecular junctions",
+    "article_number": "262",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anton Vladyka",
+      "Mickael L. Perrin",
+      "Jan Overbeck",
+      "Rubén R. Ferradás",
+      "Víctor García-Suárez",
+      "Markus Gantenbein",
+      "Jan Brunner",
+      "Marcel Mayor",
+      "Jaime Ferrer",
+      "Michel Calame"
+    ]
+  },
+  "article_index": 322,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:02:24.890990"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:02:26.398204"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:02:27.584009"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T22:54:38.275252"
+    },
+    "last_updated": "2025-10-03T22:54:38.275479"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.681628",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08465-x",
+    "title": "Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments",
+    "article_number": "529",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hong-pyo Lee",
+      "Ryan Stowers",
+      "Ovijit Chaudhuri"
+    ]
+  },
+  "article_index": 43,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:17:10.383014"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 189,
+      "retrieved_at": "2025-10-03T17:17:11.932949"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 174,
+      "retrieved_at": "2025-10-03T17:17:13.102899"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 212,
+      "retrieved_at": "2025-10-03T22:39:11.381184"
+    },
+    "last_updated": "2025-10-03T22:39:11.381413"
+  }
+}

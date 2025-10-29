@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.193157",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20313-x",
+    "title": "Transkingdom interactions between ",
+    "article_number": "101",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Richard R. Rodrigues",
+      "Manoj Gurung",
+      "Zhipeng Li",
+      "Manuel García-Jaramillo",
+      "Renee Greer",
+      "Christopher Gaulke",
+      "Franziska Bauchinger",
+      "Hyekyoung You",
+      "Jacob W. Pederson",
+      "Stephany Vasquez-Perez",
+      "Kimberly D. White",
+      "Briana Frink",
+      "Benjamin Philmus",
+      "Donald B. Jump",
+      "Giorgio Trinchieri",
+      "David Berry",
+      "Thomas J. Sharpton",
+      "Amiran Dzutsev",
+      "Andrey Morgun",
+      "Natalia Shulzhenko"
+    ]
+  },
+  "article_index": 115,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T18:24:28.125893"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 131,
+      "retrieved_at": "2025-10-03T18:24:29.690790"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T18:24:31.093303"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T23:02:05.786877"
+    },
+    "last_updated": "2025-10-03T23:02:05.787064"
+  }
+}

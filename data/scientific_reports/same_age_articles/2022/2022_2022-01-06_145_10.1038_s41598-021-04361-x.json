@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.872683",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04361-x",
+    "title": "Evaluation of NAFLD fibrosis, FIB-4 and APRI score in diabetic patients receiving exenatide treatment for non-alcoholic fatty liver disease",
+    "article_number": "283",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "İlknur Ozturk Unsal",
+      "Murat Calapkulu",
+      "Muhammed Erkam Sencar",
+      "Basak Cakal",
+      "Mustafa Ozbek"
+    ]
+  },
+  "article_index": 145,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:00:09.771812"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:00:11.294017"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:00:12.476616"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:47:22.061540"
+    },
+    "last_updated": "2025-10-03T21:47:22.061759"
+  }
+}

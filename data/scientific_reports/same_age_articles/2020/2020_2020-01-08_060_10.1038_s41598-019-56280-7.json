@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.305943",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56280-7",
+    "title": "Author Correction: A Geodetic Strain Rate Model for the East African Rift System",
+    "article_number": "155",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "D. S. Stamps",
+      "E. Saria",
+      "C. Kreemer"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T14:30:32.575390"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:30:34.145507"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:30:35.281307"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:35:33.750423"
+    },
+    "last_updated": "2025-10-03T21:35:33.750614"
+  }
+}

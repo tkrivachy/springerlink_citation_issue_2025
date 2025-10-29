@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.834243",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50560-z",
+    "title": "Partitioning surface wave propagation on reconfigurable porous plane",
+    "article_number": "207",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhiyuan Chu",
+      "Kin-Fai Tong",
+      "Kai-Kit Wong",
+      "Chan-Byoung Chae",
+      "Yangyang Zhang"
+    ]
+  },
+  "article_index": 73,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:51:25.495356"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:51:27.031648"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:51:28.196045"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:08:18.382863"
+    },
+    "last_updated": "2025-10-03T22:08:18.382922"
+  }
+}

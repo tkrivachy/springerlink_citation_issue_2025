@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.522992",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55395-4",
+    "title": "2D MoS",
+    "article_number": "101",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xinyu Huang",
+      "Lei Tong",
+      "Langlang Xu",
+      "Wenhao Shi",
+      "Zhuiri Peng",
+      "Zheng Li",
+      "Xiangxiang Yu",
+      "Wei Li",
+      "Yilun Wang",
+      "Xinliang Zhang",
+      "Xuan Gong",
+      "Jianbin Xu",
+      "Xiaoming Qiu",
+      "Hongyang Wen",
+      "Jing Wang",
+      "Xuebin Hu",
+      "Caihua Xiong",
+      "Yu Ye",
+      "Xiangshui Miao",
+      "Lei Ye"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:40:16.886916"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:40:18.451226"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:40:19.649073"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:27:35.753755"
+    },
+    "last_updated": "2025-10-03T23:27:35.753948"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.732468",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08028-6",
+    "title": "Munc18 and Munc13 serve as a functional template to orchestrate neuronal SNARE complex assembly",
+    "article_number": "69",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shen Wang",
+      "Yun Li",
+      "Jihong Gong",
+      "Sheng Ye",
+      "Xiaofei Yang",
+      "Rongguang Zhang",
+      "Cong Ma"
+    ]
+  },
+  "article_index": 508,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T17:21:06.773258"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 102,
+      "retrieved_at": "2025-10-03T17:21:08.290814"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T17:21:09.462223"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T22:40:28.323713"
+    },
+    "last_updated": "2025-10-03T22:40:28.323918"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.682740",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44412-7",
+    "title": "Cell cycle arrest induces lipid droplet formation and confers ferroptosis resistance",
+    "article_number": "79",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hyemin Lee",
+      "Amber Horbath",
+      "Lavanya Kondiparthi",
+      "Jitendra Kumar Meena",
+      "Guang Lei",
+      "Shayani Dasgupta",
+      "Xiaoguang Liu",
+      "Li Zhuang",
+      "Pranavi Koppula",
+      "Mi Li",
+      "Iqbal Mahmud",
+      "Bo Wei",
+      "Philip L. Lorenzi",
+      "Khandan Keyomarsi",
+      "Masha V. Poyurovsky",
+      "Kellen Olszewski",
+      "Boyi Gan"
+    ]
+  },
+  "article_index": 136,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:56:31.394361"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T18:56:32.942784"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:56:34.147469"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T23:12:51.947435"
+    },
+    "last_updated": "2025-10-03T23:12:51.947628"
+  }
+}

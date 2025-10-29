@@ -1,0 +1,70 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642565",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35727-y",
+    "title": "Germline ",
+    "article_number": "77",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nicholas Light",
+      "Mehdi Layeghifard",
+      "Ayush Attery",
+      "Vallijah Subasri",
+      "Matthew Zatzman",
+      "Nathaniel D. Anderson",
+      "Rupal Hatkar",
+      "Sasha Blay",
+      "David Chen",
+      "Ana Novokmet",
+      "Fabio Fuligni",
+      "James Tran",
+      "Richard de Borja",
+      "Himanshi Agarwal",
+      "Larissa Waldman",
+      "Lisa M. Abegglen",
+      "Daniel Albertson",
+      "Jonathan L. Finlay",
+      "Jordan R. Hansford",
+      "Sam Behjati",
+      "Anita Villani",
+      "Moritz Gerstung",
+      "Ludmil B. Alexandrov",
+      "Gino R. Somers",
+      "Joshua D. Schiffman",
+      "Varda Rotter",
+      "David Malkin",
+      "Adam Shlien"
+    ]
+  },
+  "article_index": 49,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:48:45.125350"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:48:46.679087"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:48:47.855463"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T23:10:13.565488"
+    },
+    "last_updated": "2025-10-03T23:10:13.565680"
+  }
+}

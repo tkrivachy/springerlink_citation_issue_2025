@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.679008",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08272-w",
+    "title": "Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula",
+    "article_number": "551",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Clare Bycroft",
+      "Ceres Fernandez-Rozadilla",
+      "Clara Ruiz-Ponte",
+      "Inés Quintela",
+      "Ángel Carracedo",
+      "Peter Donnelly",
+      "Simon Myers"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T17:56:06.867171"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T17:56:08.432064"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T17:56:09.842185"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T22:52:38.228854"
+    },
+    "last_updated": "2025-10-03T22:52:38.229042"
+  }
+}

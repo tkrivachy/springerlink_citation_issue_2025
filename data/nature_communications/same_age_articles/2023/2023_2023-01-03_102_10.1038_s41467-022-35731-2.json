@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652674",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35731-2",
+    "title": "Heteroepitaxial chemistry of zinc chalcogenides on InP nanocrystals for defect-free interfaces with atomic uniformity",
+    "article_number": "43",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yeongho Choi",
+      "Donghyo Hahm",
+      "Wan Ki Bae",
+      "Jaehoon Lim"
+    ]
+  },
+  "article_index": 102,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:46:29.994931"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:46:31.565225"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:46:32.860125"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T23:09:28.329575"
+    },
+    "last_updated": "2025-10-03T23:09:28.329766"
+  }
+}

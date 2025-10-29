@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.365756",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84010-1",
+    "title": "3D highly isolated 6-port tri-band MIMO antenna system with 360° coverage for 5G IoT applications based machine learning verification",
+    "article_number": "204",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Md Afzalur Rahman",
+      "Samir Salem Al-Bawri",
+      "Sultan S. Alharbi",
+      "Wazie M. Abdulkawi",
+      "Noorlindawaty Md Jizat",
+      "Mohammad Tariqul Islam",
+      "Abdel-Fattah A. Sheta"
+    ]
+  },
+  "article_index": 163,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:43:44.982160"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:43:46.509282"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:47.675769"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:27:14.458877"
+    },
+    "last_updated": "2025-10-03T22:27:14.459070"
+  }
+}

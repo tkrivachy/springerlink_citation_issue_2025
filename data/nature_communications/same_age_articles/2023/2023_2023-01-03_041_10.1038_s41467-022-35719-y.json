@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.641590",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35719-y",
+    "title": "An entosis-like process induces mitotic disruption in Pals1 microcephaly pathogenesis",
+    "article_number": "82",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Noelle A. Sterling",
+      "Jun Young Park",
+      "Raehee Park",
+      "Seo-Hee Cho",
+      "Seonhee Kim"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:46:59.925285"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:47:01.431104"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:47:02.706449"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:09:38.605748"
+    },
+    "last_updated": "2025-10-03T23:09:38.605821"
+  }
+}

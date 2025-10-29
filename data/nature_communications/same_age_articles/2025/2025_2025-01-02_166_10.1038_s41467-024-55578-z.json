@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535770",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55578-z",
+    "title": "Mismatch prime editing gRNA increased efficiency and reduced indels",
+    "article_number": "139",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jidong Fei",
+      "Dongdong Zhao",
+      "Caiyi Pang",
+      "Ju Li",
+      "Siwei Li",
+      "Wentao Qiao",
+      "Juan Tan",
+      "Changhao Bi",
+      "Xueli Zhang"
+    ]
+  },
+  "article_index": 166,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:28:50.736925"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:28:52.268379"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:53.442173"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:23:42.177502"
+    },
+    "last_updated": "2025-10-03T23:23:42.177554"
+  }
+}

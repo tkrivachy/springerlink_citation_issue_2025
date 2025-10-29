@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880450",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14093-2",
+    "title": "Evolving parsec-scale radio structure in the most distant blazar known",
+    "article_number": "143",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tao An",
+      "Prashanth Mohan",
+      "Yingkang Zhang",
+      "Sándor Frey",
+      "Jun Yang",
+      "Krisztina É. Gabányi",
+      "Leonid I. Gurvits",
+      "Zsolt Paragi",
+      "Krisztina Perger",
+      "Zhenya Zheng"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:17:43.874145"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:17:45.478683"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:17:46.822291"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T22:59:46.134704"
+    },
+    "last_updated": "2025-10-03T22:59:46.134772"
+  }
+}

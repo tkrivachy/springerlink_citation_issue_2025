@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.638128",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35694-4",
+    "title": "Automatic purpose-driven basis set truncation for time-dependent Hartree–Fock and density-functional theory",
+    "article_number": "106",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ruocheng Han",
+      "Johann Mattiat",
+      "Sandra Luber"
+    ]
+  },
+  "article_index": 31,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:50:15.835749"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T18:50:17.342403"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:50:18.589488"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:10:46.028789"
+    },
+    "last_updated": "2025-10-03T23:10:46.028874"
+  }
+}

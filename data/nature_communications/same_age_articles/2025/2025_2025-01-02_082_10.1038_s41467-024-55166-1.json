@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.521442",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55166-1",
+    "title": "Supramolecular modification of sustainable high-molar-mass polymers for improved processing and performance",
+    "article_number": "217",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Daniel Görl",
+      "Shuichi Haraguchi",
+      "Yevhen Hryshunin",
+      "Sophia Thiele",
+      "Giorgia Scetta",
+      "Alexandre Simula",
+      "Matthieu Wendling",
+      "Oguzhan Oguz",
+      "Nicolas Candau",
+      "Torne Tänzer",
+      "Marianne Liebi",
+      "Christopher J. G. Plummer",
+      "Holger Frauenrath"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:41:48.003492"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:41:49.876617"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:41:51.078095"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:28:08.037511"
+    },
+    "last_updated": "2025-10-03T23:28:08.037560"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.693313",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08302-1",
+    "title": "Replication timing and epigenome remodelling are associated with the nature of chromosomal rearrangements in cancer",
+    "article_number": "416",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qian Du",
+      "Saul A. Bert",
+      "Nicola J. Armstrong",
+      "C. Elizabeth Caldon",
+      "Jenny Z. Song",
+      "Shalima S. Nair",
+      "Cathryn M. Gould",
+      "Phuc-Loi Luu",
+      "Timothy Peters",
+      "Amanda Khoury",
+      "Wenjia Qu",
+      "Elena Zotenko",
+      "Clare Stirzaker",
+      "Susan J. Clark"
+    ]
+  },
+  "article_index": 148,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:44:32.886316"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T17:44:34.752965"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T17:44:36.346173"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T22:48:26.378627"
+    },
+    "last_updated": "2025-10-03T22:48:26.378838"
+  }
+}

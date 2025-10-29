@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.190987",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20298-7",
+    "title": "MOF-in-COF molecular sieving membrane for selective hydrogen separation",
+    "article_number": "38",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hongwei Fan",
+      "Manhua Peng",
+      "Ina Strauss",
+      "Alexander Mundstock",
+      "Hong Meng",
+      "Jürgen Caro"
+    ]
+  },
+  "article_index": 102,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:35:17.548802"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 346,
+      "retrieved_at": "2025-10-03T18:35:19.100148"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 294,
+      "retrieved_at": "2025-10-03T18:35:20.696537"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 364,
+      "retrieved_at": "2025-10-03T23:05:44.506122"
+    },
+    "last_updated": "2025-10-03T23:05:44.506311"
+  }
+}

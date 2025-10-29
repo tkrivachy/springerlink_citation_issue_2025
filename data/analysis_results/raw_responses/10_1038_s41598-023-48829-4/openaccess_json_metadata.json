@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "json",
+  "test_doi": "10.1038/s41598-023-48829-4",
+  "safe_doi": "10_1038_s41598-023-48829-4",
+  "timestamp": "2025-10-20 14:05:26",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.8731942176818848,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/json",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41598-023-48829-4",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'openAccess', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'subjects', 'disciplines']\ndoi: 10.1038/s41598-023-48829-4...\ntitle: Examining double standards in layoff preferences and expectations for gender, age, and ethnicity whe...\ncreators: [{'ORCID': '0000-0002-7176-4775', 'creator': 'Moya, Cristóbal'}, {'ORCID': '0000-0002-6491-0754', 'c...\npublicationName: Scientific Reports...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "openaccess_json.json"
+}

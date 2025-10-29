@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.871455",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04076-z",
+    "title": "The flow of the Berry curvature vector field",
+    "article_number": "97",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ondřej Stejskal",
+      "Martin Veis",
+      "Jaroslav Hamrle"
+    ]
+  },
+  "article_index": 135,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:59:14.858183"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:59:16.417563"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:59:17.611172"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:47:04.501670"
+    },
+    "last_updated": "2025-10-03T21:47:04.501857"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.648658",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10131-7",
+    "title": "The association between ambient temperature and mortality of the coronavirus disease 2019 (COVID-19) in Wuhan, China: a time-series analysis",
+    "article_number": "117",
+    "publication_date": "2021-01-11",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Gaopei Zhu",
+      "Yuhang Zhu",
+      "Zhongli Wang",
+      "Weijing Meng",
+      "Xiaoxuan Wang",
+      "Jianing Feng",
+      "Juan Li",
+      "Yufei Xiao",
+      "Fuyan Shi",
+      "Suzhen Wang"
+    ]
+  },
+  "article_index": 157,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T13:53:21.121503"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T13:53:22.627169"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T13:53:23.903799"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T21:22:09.281583"
+    },
+    "last_updated": "2025-10-03T21:22:09.281771"
+  }
+}

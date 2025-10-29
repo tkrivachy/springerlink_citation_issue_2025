@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.850392",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50791-0",
+    "title": "Fewer culturable ",
+    "article_number": "132",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Emilia König",
+      "Paulina Heponiemi",
+      "Sanni Kivinen",
+      "Jaakko Räkköläinen",
+      "Shea Beasley",
+      "Tuomas Borman",
+      "Maria Carmen Collado",
+      "Vilja Hukkinen",
+      "Jouni Junnila",
+      "Leo Lahti",
+      "Marianna Norring",
+      "Virpi Piirainen",
+      "Seppo Salminen",
+      "Mari Heinonen",
+      "Anna Valros"
+    ]
+  },
+  "article_index": 227,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:34:55.974661"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:34:57.500555"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:34:58.682455"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:01:50.851745"
+    },
+    "last_updated": "2025-10-03T22:01:50.851832"
+  }
+}

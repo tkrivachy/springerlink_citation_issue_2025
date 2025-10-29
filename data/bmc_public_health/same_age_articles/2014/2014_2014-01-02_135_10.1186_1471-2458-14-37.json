@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.761868",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-37",
+    "title": "Musculoskeletal pain and effort-reward imbalance- a systematic review",
+    "article_number": "37",
+    "publication_date": "2014-01-15",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Peter Koch",
+      "Anja Schablon",
+      "Ute Latza",
+      "Albert Nienhaus"
+    ]
+  },
+  "article_index": 135,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T13:03:48.126501"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T13:03:49.709728"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T13:03:51.046395"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T21:04:14.144881"
+    },
+    "last_updated": "2025-10-03T21:04:14.144996"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:14.798153",
+  "year": 2006,
+  "article_type": "comparison",
+  "publication_date": "2006-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-6-9",
+    "title": "Prevalence of cardiovascular risk factors in a middle-income country and estimated cost of a treatment strategy",
+    "article_number": "9",
+    "publication_date": "2006-01-19",
+    "volume": "6",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Pascal Bovet",
+      "Conrad Shamlaye",
+      "Anne Gabriel",
+      "Walter Riesen",
+      "Fred Paccaud"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T12:25:58.539940"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T12:26:00.241153"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T12:26:01.600724"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T20:50:38.290807"
+    },
+    "last_updated": "2025-10-03T20:50:38.290883"
+  }
+}

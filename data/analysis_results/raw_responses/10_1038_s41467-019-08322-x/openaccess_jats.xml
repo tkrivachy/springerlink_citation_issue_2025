@@ -1,0 +1,416 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-08322-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="correction" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41467-019-08322-x</article-id>
+          <article-id pub-id-type="manuscript">8322</article-id>
+          <article-id pub-id-type="doi">10.1038/s41467-019-08322-x</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Publisher Correction</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/57/2265</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/80/313/1481</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>publisher-correction</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Publisher Correction: Exocyst dynamics during vesicle tethering and fusion</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes" id="Au1" equal-contrib="yes">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9183-9957</contrib-id>
+              <name name-style="western">
+                <surname>Ahmed</surname>
+                <given-names>Syed Mukhtar</given-names>
+              </name>
+              <address>
+                <email>syed.m.ahmed@vanderbilt.edu</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs4146701908322x_cor1">a</xref>
+              <xref ref-type="author-notes" rid="fn1"/>
+            </contrib>
+            <contrib contrib-type="author" id="Au2" equal-contrib="yes">
+              <name name-style="western">
+                <surname>Nishida-Fukuda</surname>
+                <given-names>Hisayo</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+              <xref ref-type="aff" rid="Aff7">7</xref>
+              <xref ref-type="author-notes" rid="fn1"/>
+              <xref ref-type="fn" rid="pa7">7</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Li</surname>
+                <given-names>Yuchong</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>McDonald</surname>
+                <given-names>W. Hayes</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff6">6</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Gradinaru</surname>
+                <given-names>Claudiu C.</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au6">
+              <name name-style="western">
+                <surname>Macara</surname>
+                <given-names>Ian G.</given-names>
+              </name>
+              <address>
+                <email>ian.g.macara@vanderbilt.edu</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs4146701908322x_cor6">f</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 2264 7217</institution-id>
+                <institution-id institution-id-type="GRID">grid.152326.1</institution-id>
+                <institution content-type="org-division">Department of Cell and Developmental Biology</institution>
+                <institution content-type="org-name">Vanderbilt University School of Medicine</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">37240</addr-line>
+              <addr-line content-type="city">Nashville</addr-line>
+              <addr-line content-type="state">TN</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 1011 3808</institution-id>
+                <institution-id institution-id-type="GRID">grid.255464.4</institution-id>
+                <institution content-type="org-division">Department of Biochemistry and Molecular Genetics</institution>
+                <institution content-type="org-name">Ehime University Graduate School of Medicine</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">7910295</addr-line>
+              <addr-line content-type="city">Toon, Ehime</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 1011 3808</institution-id>
+                <institution-id institution-id-type="GRID">grid.255464.4</institution-id>
+                <institution content-type="org-division">Department of Hepato-Biliary-Pancreatic and Breast Surgery</institution>
+                <institution content-type="org-name">Ehime University Graduate School of Medicine</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">7910295</addr-line>
+              <addr-line content-type="city">Toon, Ehime</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 2157 2938</institution-id>
+                <institution-id institution-id-type="GRID">grid.17063.33</institution-id>
+                <institution content-type="org-division">Department of Physics</institution>
+                <institution content-type="org-name">University of Toronto</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">M5S 1A7</addr-line>
+              <addr-line content-type="city">Toronto</addr-line>
+              <addr-line content-type="state">ON</addr-line>
+              <country country="CA">Canada</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 2157 2938</institution-id>
+                <institution-id institution-id-type="GRID">grid.17063.33</institution-id>
+                <institution content-type="org-division">Department of Chemical &amp; Physical Sciences</institution>
+                <institution content-type="org-name">University of Toronto Mississauga</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">L5L 1C6</addr-line>
+              <addr-line content-type="city">Mississauga</addr-line>
+              <addr-line content-type="state">ON</addr-line>
+              <country country="CA">Canada</country>
+            </aff>
+            <aff id="Aff6">
+              <label>6</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0001 2264 7217</institution-id>
+                <institution-id institution-id-type="GRID">grid.152326.1</institution-id>
+                <institution content-type="org-division">Department of Biochemistry</institution>
+                <institution content-type="org-name">Vanderbilt University School of Medicine</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">37240</addr-line>
+              <addr-line content-type="city">Nashville</addr-line>
+              <addr-line content-type="state">TN</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff7">
+              <label>7</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.410783.9</institution-id>
+                <institution content-type="org-division">Department of Genome Editing, Institute of Biomedical Sciences</institution>
+                <institution content-type="org-name">Kansai Medical University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">5731010</addr-line>
+              <addr-line content-type="city">Hirakata</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <fn id="fn1" fn-type="equal">
+              <p>These authors contributed equally: Syed Mukhtar Ahmed, Hisayo Nishida-Fukuda.</p>
+            </fn>
+            <corresp id="IDs4146701908322x_cor1">
+              <label>a</label>
+              <email>syed.m.ahmed@vanderbilt.edu</email>
+            </corresp>
+            <corresp id="IDs4146701908322x_cor6">
+              <label>f</label>
+              <email>ian.g.macara@vanderbilt.edu</email>
+            </corresp>
+            <fn fn-type="present-address" id="pa7">
+              <p>Present address: Department of Genome Editing, Institute of Biomedical Sciences, Kansai Medical University, Hirakata, Japan</p>
+            </fn>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>15</day>
+            <month>1</month>
+            <year>2019</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2019</year>
+          </pub-date>
+          <volume>10</volume>
+          <issue seq="20195491">1</issue>
+          <elocation-id>326</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>7</day>
+              <month>1</month>
+              <year>2019</year>
+            </date>
+            <date date-type="online">
+              <day>15</day>
+              <month>1</month>
+              <year>2019</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2019</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <related-article related-article-type="corrected-article" ext-link-type="doi" ns0:href="10.1038/s41467-018-07467-5"/>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Research</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2019</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2019</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2019</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>7</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41467_2019_Article_8322.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>Erratum</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="CrossLinking">
+          <sec>
+            <p>
+              The original article can be found online at 
+              <ext-link ns0:href="10.1038/s41467-018-07467-5" ext-link-type="doi">https://doi.org/10.1038/s41467-018-07467-5</ext-link>
+              .
+            </p>
+          </sec>
+        </notes>
+      </front>
+      <body>
+        <p id="Par1">
+          Correction to: 
+          <italic>Nature Communications</italic>
+          <ext-link ns0:href="10.1038/s41467-018-07467-5" ext-link-type="doi">https://doi.org/10.1038/s41467-018-07467-5</ext-link>
+          ; published online 03 December 2018
+        </p>
+        <p id="Par2">The original version of this Article contained errors in the author affiliations.</p>
+        <p id="Par3">Affiliation 2 incorrectly read ‘Department of Biochemistry and Molecular Genetics and Breast Surgery, Ehime University Graduate School of Medicine, 7910295, Japan’ and affiliation 3 incorrectly read ‘Department of Hepato-Biliary-Pancreatic and Breast Surgery, Ehime University Graduate School of Medicine, Matsuyama 7910295, Japan.’</p>
+        <p id="Par4">These errors have now been corrected in both the PDF and HTML versions of the Article.</p>
+      </body>
+    </article>
+  </records>
+  <facets/>
+</response>

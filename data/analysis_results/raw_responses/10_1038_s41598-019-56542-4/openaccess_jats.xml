@@ -1,0 +1,2625 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-019-56542-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-019-56542-4</article-id>
+          <article-id pub-id-type="manuscript">56542</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-019-56542-4</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/53</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/692/4028/67</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/13/106</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/13/31</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/13/2</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/13/1</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/14/19</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/14/28</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/14/35</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Melanoma cell-derived exosomes in plasma of melanoma patients suppress functions of immune effector cells</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Sharma</surname>
+                <given-names>Priyanka</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Diergaarde</surname>
+                <given-names>Brenda</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Ferrone</surname>
+                <given-names>Soldano</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Kirkwood</surname>
+                <given-names>John M.</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au5">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7316-6181</contrib-id>
+              <name name-style="western">
+                <surname>Whiteside</surname>
+                <given-names>Theresa L.</given-names>
+              </name>
+              <address>
+                <email>whitesidetl@upmc.edu</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+              <xref ref-type="corresp" rid="IDs41598019565424_cor5">e</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0004 1936 9000</institution-id>
+                <institution-id institution-id-type="GRID">grid.21925.3d</institution-id>
+                <institution content-type="org-division">Department of Pathology</institution>
+                <institution content-type="org-name">University of Pittsburgh School of Medicine and UPMC Hillman Cancer Center</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">15213</addr-line>
+              <addr-line content-type="city">Pittsburgh</addr-line>
+              <addr-line content-type="state">PA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0004 1936 9000</institution-id>
+                <institution-id institution-id-type="GRID">grid.21925.3d</institution-id>
+                <institution content-type="org-division">Department of Human Genetics, Graduate School of Public Health</institution>
+                <institution content-type="org-name">University of Pittsburgh and UPMC Hillman Cancer Center</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">15213</addr-line>
+              <addr-line content-type="city">Pittsburgh</addr-line>
+              <addr-line content-type="state">PA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0004 0386 9924</institution-id>
+                <institution-id institution-id-type="GRID">grid.32224.35</institution-id>
+                <institution content-type="org-division">Department of Surgery</institution>
+                <institution content-type="org-name">Massachusetts General Hospital and Harvard Medical School</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">02114</addr-line>
+              <addr-line content-type="city">Boston</addr-line>
+              <addr-line content-type="state">MA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0004 1936 9000</institution-id>
+                <institution-id institution-id-type="GRID">grid.21925.3d</institution-id>
+                <institution content-type="org-division">Department of Medicine</institution>
+                <institution content-type="org-name">University of Pittsburgh School of Medicine and UPMC Hillman Cancer</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">15213</addr-line>
+              <addr-line content-type="city">Pittsburgh</addr-line>
+              <addr-line content-type="state">PA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000 0004 1936 9000</institution-id>
+                <institution-id institution-id-type="GRID">grid.21925.3d</institution-id>
+                <institution content-type="org-division">Departments of Immunology and Otolaryngology</institution>
+                <institution content-type="org-name">University of Pittsburgh School of Medicine</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">15213</addr-line>
+              <addr-line content-type="city">Pittsburgh</addr-line>
+              <addr-line content-type="state">PA</addr-line>
+              <country country="US">USA</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41598019565424_cor5">
+              <label>e</label>
+              <email>whitesidetl@upmc.edu</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>9</day>
+            <month>1</month>
+            <year>2020</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2020</year>
+          </pub-date>
+          <volume>10</volume>
+          <issue seq="92">1</issue>
+          <elocation-id>92</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>16</day>
+              <month>12</month>
+              <year>2019</year>
+            </date>
+            <date date-type="received">
+              <day>4</day>
+              <month>7</month>
+              <year>2019</year>
+            </date>
+            <date date-type="accepted">
+              <day>12</day>
+              <month>11</month>
+              <year>2019</year>
+            </date>
+            <date date-type="online">
+              <day>9</day>
+              <month>1</month>
+              <year>2020</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2020</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Melanoma patients’ plasma contains exosomes produced by malignant and normal cells. Plasma exosomes were isolated and separated by immunocapture into two fractions: melanoma cell-derived exosomes (MTEX) and normal cell-derived exosomes (non-MTEX). Immunosuppressive effects of MTEX on primary human immune cells were evaluated. Exosomes were isolated from plasma of 12 melanoma patients and six healthy donors (HDs). Expression levels of 19 immunoregulatory proteins in MTEX, non-MTEX and HDs exosomes were evaluated by on-bead flow cytometry. Functional/phenotypic changes induced in CD8
+              <sup>+</sup>
+               T or natural killer (NK) cells by MTEX or non-MTEX were compared. Plasma protein levels were higher in patients than HDs (
+              <italic>P</italic>
+               &lt; 0.0009). In patients, MTEX accounted for 23–66% of total exosomes. MTEX were enriched in immunosuppressive proteins (
+              <italic>P</italic>
+               = 0.03). MTEX, but not HDs exosomes, inhibited CD69 expression (
+              <italic>P</italic>
+               ≤ 0.0008), induced apoptosis (
+              <italic>P</italic>
+               ≤ 0.0009) and suppressed proliferation (
+              <italic>P</italic>
+               ≤ 0.002) in CD8
+              <sup>+</sup>
+               T cells and downregulated NKG2D expression in NK cells (
+              <italic>P</italic>
+               = 0.001). Non-MTEX were enriched in immunostimulatory proteins (
+              <italic>P</italic>
+               = 0.002) and were only weakly immunosuppressive. Elevated MTEX/total exosome ratios and, surprisingly, non-MTEX ability to induce apoptosis of CD8
+              <sup>+</sup>
+               T cells emerged as positive correlates of disease stage. MTEX emerge as the major mechanism of tumor-induced immune suppression and as an underestimated barrier to successful melanoma immunotherapy.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1107">Immunology</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000002</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">R01 DE028172</award-id>
+              <award-id award-type="FundRef grant">R03 CA223886</award-id>
+              <award-id award-type="FundRef grant">P50 CA121973</award-id>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">P30 CA047904</award-id>
+              <award-id award-type="FundRef grant">R01 CA168628</award-id>
+              <award-id award-type="FundRef grant">R21 CA204644</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Sharma</surname>
+                  <given-names>Priyanka</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Diergaarde</surname>
+                  <given-names>Brenda</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ferrone</surname>
+                  <given-names>Soldano</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ferrone</surname>
+                  <given-names>Soldano</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Kirkwood</surname>
+                  <given-names>John M.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Kirkwood</surname>
+                  <given-names>John M.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Whiteside</surname>
+                  <given-names>Theresa L.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Whiteside</surname>
+                  <given-names>Theresa L.</given-names>
+                </name>
+              </principal-award-recipient>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Whiteside</surname>
+                  <given-names>Theresa L.</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Defense (United States Department of Defense)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100000005</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">W81XWH-16-1-0500</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ferrone</surname>
+                  <given-names>Soldano</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Research</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2019</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>16</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2019_Article_56542.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1" sec-type="introduction">
+          <title>Introduction</title>
+          <p id="Par2">
+            Melanoma is among the most aggressive human cancers and its incidence is increasing worldwide
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . Immune suppression is a common manifestation of disease progression in melanoma thought to contribute to tumor escape from the host immune system
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . Mechanisms responsible for tumor-induced immune suppression in melanoma include PD-L1 overexpression in the tumor, and PDL-L1+ tumor-derived exosomes are reported to interfere with patients’ responses to oncological immunotherapies
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+              ,
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . Recent gains achieved with checkpoint inhibitory therapies in melanoma suggest that rejuvenation of anti-tumor immune activity improves disease outcome
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              ,
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            . However, many melanoma patients remain unresponsive to checkpoint inhibition for reasons that are not clear
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . Circulating melanoma cell-derived exosomes (MTEX) enriched in suppressive proteins might represent such an immunoinhibitory mechanism
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par3">
+            Exosomes are a part of the tumor-immune cell communication system
+            <sup>
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . Tumors produce and release into body fluids numerous extracellular vesicles (EVs), including a small (30–150 nm sized) subset of vesicles derived from the endocytic compartment of tumor cells
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            . Melanoma cells produce more exosomes than normal melanocytes, and melanoma patients’ plasma contains increased levels of exosomes carrying melanoma-associated antigens (MAAs), immunosuppressive proteins (FasL, TGF-β) and oncoproteins, including Myc
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ,
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+            . Exosomes isolated from supernatants of melanoma cell lines inhibit functions of primary human immune cells 
+            <italic>in vitro</italic>
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . Exosomes in melanoma patients’ plasma are immunosuppressive 
+            <italic>in vivo</italic>
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . Nevertheless, the key role exosomes play in tumor escape from the host immune system remains unconfirmed and may be underestimated.
+          </p>
+          <p id="Par4">
+            Exosomes represent a heterogenous population of vesicles produced by all cells, carry diverse molecular and genetic cargos and circulate freely through body fluids
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . Cancer patients’ plasma contains exosomes produced by malignant and normal cells. We recently reported a method for immune capture of melanoma-cell derived exosomes (MTEX) from patients’ plasma
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            , and have successfully separated MTEX from normal cell-derived exosomes (non-MTEX)
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              , 
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              , 
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              –
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            . Here, we show that the ratios of MTEX/non-MTEX in plasma differ among patients with advanced metastatic disease. While MTEX carry an abundance of immunosuppressive proteins and inhibit functions of human primary immune cells 
+            <italic>ex vivo</italic>
+            , non-MTEX stimulate immune cell activity. The phenotypic and functional characterization of MTEX emphasizes their potential role as biomarkers of melanoma progression.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec3">
+            <title>Study participants and biospecimens</title>
+            <p id="Par5">
+              The study population consists of 12 melanoma patients and 6 healthy donors (HDs) used as controls. Selected characteristics of all subjects are listed in STable 
+              <xref ref-type="supplementary-material" rid="MOESM1">1</xref>
+              . Age at blood draw did not differ between patients and healthy controls (
+              <italic>P</italic>
+               = 0.78); 5 patients were NED and 7 has metastatic disease. Patients were seen at the UPMC Hillman Cancer Center; data and samples were obtained from the University of Pittsburgh Melanoma SPORE Bank (IRB #970186). For HDs, data and samples were collected via IRB-approved protocol #991206. All study participants provided written informed consent. Blood samples were processed; plasma was separated, aliquoted into 2 mL cryotubes and stored at −80 °C until thawed for exosome isolation.
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Antibodies and reagents</title>
+            <p id="Par6">
+              The mAbs 225.28 and 763.74, which recognize distinct and spatially distant epitopes of CSPG4, and MICA-specific mAbs WW98B and WJ-1 were developed and characterized as described
+              <sup>
+                <xref ref-type="bibr" rid="CR18">18</xref>
+                , 
+                <xref ref-type="bibr" rid="CR19">19</xref>
+                –
+                <xref ref-type="bibr" rid="CR20">20</xref>
+              </sup>
+              . These mAbs were purified from ascitic fluid by affinity chromatography on a Protein G column, and their purity was monitored by SDS-PAGE. Reactivity of mAb preparations was tested in binding assays with cells expressing the target antigens. The epitopes recognized by mAbs 225.28 and 763.74 are selectively present on melanoma cells
+              <sup>
+                <xref ref-type="bibr" rid="CR20">20</xref>
+              </sup>
+               and are expressed by most, if not all, melanoma cells in &gt;85% of human melanomas. Both epitopes are carried on MTEX
+              <sup>
+                <xref ref-type="bibr" rid="CR17">17</xref>
+              </sup>
+              . One of these mAbs was used for immune capture on beads and the other for antigen detection by on-bead flow cytometry
+              <sup>
+                <xref ref-type="bibr" rid="CR17">17</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par7">Additional antibodies used were purchased from commercial vendors and are listed in Supplementary Methods.</p>
+          </sec>
+          <sec id="Sec5">
+            <title>Isolation of exosomes from plasma and determination of protein content</title>
+            <p id="Par8">
+              Thawed plasma samples were pre-cleared by centrifugation and ultrafiltration prior to mini Size Exclusion Chromatography (miniSEC) as described
+              <sup>
+                <xref ref-type="bibr" rid="CR21">21</xref>
+              </sup>
+              . Exosomes were eluted in the void volume with PBS and harvested in fraction #4. Protein content of fraction #4 was determined using the BCA protein assay kit [Pierce Biotechnology, Rockford, IL, USA]; vesicle size and particle numbers were verified using qNano (Izon) as described
+              <sup>
+                <xref ref-type="bibr" rid="CR21">21</xref>
+                ,
+                <xref ref-type="bibr" rid="CR22">22</xref>
+              </sup>
+              .
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>Immunocapture of MTEX from plasma exosomes and recovery of non-MTEX</title>
+            <p id="Par9">
+              For immunocapture of MTEX from fraction #4 exosomes, CSPG4 mAbs (clone 763.64 or 225.28) were biotinylated using a one-step antibody biotinylation kit (Novus Biologicals) as per the manufacturer’s protocol. Exosomes (10 µg protein) were immunocaptured on biotin-labeled mAb-charged streptavidin magnetic beads as described
+              <sup>
+                <xref ref-type="bibr" rid="CR17">17</xref>
+              </sup>
+               The non-captured fraction was re-captured on beads charged with biotinylated anti-CD63 mAb for antigen detection
+              <sup>
+                <xref ref-type="bibr" rid="CR17">17</xref>
+              </sup>
+              . Protein levels of MTEX (immunocaptured exosomes) were calculated by subtracting protein levels in the non-captured fraction (non-MTEX) from protein levels in total exosomes.
+            </p>
+          </sec>
+          <sec id="Sec7">
+            <title>Exosome protein detection by on-beads flow cytometry</title>
+            <p id="Par10">
+              On-bead flow cytometry analysis of MTEX and non-MTEX was performed using a modified method reported by Kastresana and Jones
+              <sup>
+                <xref ref-type="bibr" rid="CR23">23</xref>
+              </sup>
+               as described
+              <sup>
+                <xref ref-type="bibr" rid="CR24">24</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par11">Flow cytometry on-beads exosome profiling was performed using Gallios TM flow cytometer (Beckman Coulter). Results were expressed in Relative Fluorescence Intensity (RFI) values, where RFI = MFI (mean fluorescence intensity) of detection mAb/MFI of isotype control.</p>
+            <p id="Par12">
+              To confirm that flow-cytometry based antigen detection (RFIs) in exosomes is equivalent to Western blots (WBs), expression of several inhibitory proteins on MTEX and non-MTEX obtained from 2 melanoma patients (#8 and #9) was evaluated by both detection methods (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1d</xref>
+              ).
+            </p>
+          </sec>
+          <sec id="Sec8">
+            <title>Functional studies with MTEX and non-MTEX</title>
+            <p id="Par13">
+              Primary activated T or NK cells of each patient were co-incubated with aliquots of MTEX, non-MTEX or total exosomes from fraction #4 to compare inhibitory effects of exosomes on immune cell functions. MTEX captured on beads were used in these assays, while total exosomes and non-MTEX were not captured on beads. The presence of beads alone or beads coated with biotinylated anti-CSPG4 mAbs did not interfere with functional assays (see SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">6a</xref>
+              ; the data are for MTEX-induced apoptosis). Ab-coated beads alone were found to be equivalent to no-exosome controls in other functional assays as well (data not shown).
+            </p>
+            <p id="Par14">
+              The following functional assays were performed following co-incubation of CD8
+              <sup>+</sup>
+               T cells with exosomes (See Supplementary Methods for details).
+              <list list-type="order">
+                <list-item>
+                  <p id="Par15">CD69 downregulation on T cells</p>
+                </list-item>
+                <list-item>
+                  <p id="Par16">Changes in CD69 mRNA transcripts</p>
+                </list-item>
+                <list-item>
+                  <p id="Par17">
+                    NF-κB activation in CD8
+                    <sup>+</sup>
+                     T cells
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par18">
+                    Apoptosis of CD8
+                    <sup>+</sup>
+                     T cells
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par19">CFSE-based proliferation assays</p>
+                </list-item>
+                <list-item>
+                  <p id="Par20">NKG2D down-regulation on NK cells.</p>
+                </list-item>
+              </list>
+            </p>
+          </sec>
+          <sec id="Sec9">
+            <title>Statistical analyses</title>
+            <p id="Par21">
+              Flow cytometry analyses were performed with Kaluza version 1.5 (Beckman Coulter). Wilcoxon signed-rank tests were used to evaluate differences between paired samples; Wilcoxon-Mann-Whitney tests were used to evaluate differences between different subject groups. An MAA RFI score was created for each subject by summing their RFI values for CSPG4, TYRP2, MelanA, Gp100, and VLA4. A similar approach was used to create an immunosuppressive RFI score (includes: PDL-1, CD39, CD73, FasL, LAP-TGFβ, TRAIL, and CTLA-4) and an immunostimulatory RFI score (includes: CD40, CD40L, CD80, OX40, and OX40L) for each subject. A Stimulatory/Suppressive (stim/supp) ratio was calculated for each subject by dividing their immunostimulatory RFI score by their immunosuppressive RFI score. The different proteins were also evaluated individually. Spearman’s correlation coefficients (r) were calculated to examine whether variables correlated with each other. 
+              <italic>P</italic>
+               values &lt; 0.05 were considered significant. Statistical analyses were performed using the SAS® statistical software package (SAS version 9.4, SAS Institute Inc., Cary, NC, USA) and GraphPad Prism (version 7.03, GraphPad Software Inc., La Jolla, CA, USA).
+            </p>
+          </sec>
+          <sec id="Sec10">
+            <title>Ethics approval and consent to participate</title>
+            <p id="Par22">Blood samples from melanoma patients and healthy subjects were collected under University of Pittsburgh Institutional Review Board approved protocols #970186 and #991206, respectively. All subjects provided written informed consent. All experiments were performed in accordance with relevant guidelines and regulations.</p>
+          </sec>
+        </sec>
+        <sec id="Sec11" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec12">
+            <title>MTEX and non-MTEX recovery after immunocapture</title>
+            <p id="Par23">
+              Immunocapture of MTEX was performed using total exosomes isolated from plasma of patients or HDs by miniSEC as we previously reported
+              <sup>
+                <xref ref-type="bibr" rid="CR21">21</xref>
+              </sup>
+              . Briefly, this procedure is a 3-step process: (a) isolation of “total exosomes”, from plasma by SEC and their recovery as fraction #4; (b) separation of total exosomes into MTEX and non-MTEX using streptavidin beads coated with biotinylated anti-CSPG4 mAbs; and (c) recovery of MTEX on beads and capture of non-MTEX on beads coated with anti-CD63 mAbs. Protein levels in total exosomes (fraction #4) to be immunocaptured were normalized to 1 mL of every individual’s plasma used for miniSEC. Exosomes isolated from patients and HDs had similar morphology and size (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1a,b</xref>
+              ). The number of exosomes isolated from patients ranged from 1.64 × 10
+              <sup>11</sup>
+              /mL to 2.68 × 10
+              <sup>11</sup>
+              /mL; for HDs from 3.22 × 10
+              <sup>10</sup>
+              /mL to 8.6 × 10
+              <sup>10</sup>
+              /mL (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1b</xref>
+              ). WBs of exosomes from patients or HDs confirmed their endocytic origin; they all contained TSG101 protein (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1c,d</xref>
+              ). Specificity of the immunocapture for melanoma exosomes was verified by showing that: (i) consistently, non-MTEX were CSPG4(−); only MTEX were CSPG4(+) (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">2a,b</xref>
+              ); (ii) exosomes from HDs’ plasma were negative for CSPG4 (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">2c</xref>
+              ); (iii) only MTEX were highly enriched in MAAs (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">4a</xref>
+              ); (iv) MTEX were CSPG4 (+) but CD3(−); only non-MTEX carried CD3 (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">2d</xref>
+              ); (v) in spiking experiments, where melanoma exosomes were added to exosomes obtained from HDs (1:1), the captured fraction contained all CSPG4(+) exosomes, while the non-captured fraction was CSPG4(−) (data not shown).
+            </p>
+            <p id="Par24">
+              Total exosome protein levels were higher in patients than in HDs (mean 76 µg/mL versus 54 µg/mL; 
+              <italic>P</italic>
+               = 0.0009; SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3a</xref>
+              ) and were not significantly different between melanoma patients with no evident disease (NED) or active metastatic disease at blood draw or between male and female patients (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3b</xref>
+              ). MTEX protein levels were also not significantly different between these sub-groups (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3c</xref>
+              ). Among the 12 melanoma patients, MTEX represented 23% to 66% of total plasma exosomes (mean: 44%). High percentages of MTEX among plasma exosomes of patients with metastatic melanoma are not unexpected, although the reasons for elevated MTEX in 5/12 patients who are clinically NED in our cohort are not clear and without further evidence for disease recurrence cannot be attributed to a micrometastatic disease. Pre-clearing of plasma prior to miniSEC removes EVs larger than 150 nm, which presumably represent “contaminating” platelet-derived or RBC-derived vesicles. Also, non-MTEX were largely CD3
+              <sup>+</sup>
+               (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">2d</xref>
+              ), indicating their origin from T cells and not from platelets or RBCs. No significant differences were observed in the MTEX/total exosome protein ratio between NED patients and those with active metastatic disease or between male and female patients (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3c</xref>
+              ). However, the MTEX/total exosome protein ratios for melanoma patients fell into two categories: low (around 0.3) and high (0.5 to 0.7). This finding suggests that the MTEX/total exosome protein ratios could potentially discriminate between patient cohorts with distinct clinical presentations and could be an important endpoint for further investigations.
+            </p>
+          </sec>
+          <sec id="Sec13">
+            <title>Protein profiles of MTEX and non-MTEX</title>
+            <p id="Par25">
+              Proteins present in MTEX and non-MTEX were initially studied by WBs, and before moving on to on-bead flow cytometry, MTEX and non-MTEX protein cargos were evaluated using both methods. SFigure 
+              <xref ref-type="supplementary-material" rid="MOESM1">1d</xref>
+               shows that WB profiles of MTEX and non-MTEX for several immunosuppressive proteins are comparable with RFI values for patients #8 and #9. Flow cytometry is advantageous for detection of proteins on the exosome surface because it is quantitative, highly reproducible (see Methods), and requires less protein than WBs.
+            </p>
+            <p id="Par26">
+              Representative flow cytometry data for MTEX and non-MTEX of one patient (#8) for all evaluated surface proteins are shown in SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">4</xref>
+              . For each subject, STable 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+               lists the RFI values for individual MAA or immunoregulatory proteins (n = 19) carried by MTEX, non-MTEX or HD-exosomes as well as the created scores. The MAA RFI s was significantly higher for MTEX than for non-MTEX or HDs exosomes (Fig. 
+              <xref rid="Fig1" ref-type="fig">1a</xref>
+               and STable 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+              ). While the same immunoregulatory proteins were detectable in MTEX, non-MTEX and HDs exosomes, 
+              <italic>quantitative</italic>
+               differences readily discriminated between these exosome subsets (STable 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+              ). The immunostimulatory RFI score was significantly lower for MTEX than for non-MTEX or HDs exosomes (Fig. 
+              <xref rid="Fig1" ref-type="fig">1b</xref>
+              ). The immunosuppressive RFI score was significantly higher for MTEX than for non-MTEX; the score for non-MTEX was similar to that for HDs exosomes (Fig. 
+              <xref rid="Fig1" ref-type="fig">1c</xref>
+              ). The stimulatory/suppressive (stim/supp) ratio for MTEX was significantly lower than the ratio for non-MTEX and HDs exosomes (mean, respectively, 0.6, 1.4 and 2.2; Fig. 
+              <xref rid="Fig1" ref-type="fig">1d</xref>
+              ).
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>
+                    The RFI scores for: (
+                    <bold>a</bold>
+                    ) MAAs, (
+                    <bold>b</bold>
+                    ) immunostimulatory proteins and (
+                    <bold>c</bold>
+                    ) immunosuppressive proteins carried by total exosomes from plasma of HDs, and by MTEX and non-MTEX from plasma of melanoma patients. In (
+                    <bold>d</bold>
+                    ) the stimulatory/suppressive (stim/supp) ratio for HDs exosomes and for MTEX and non-MTEX are shown. The MAA RFI score includes CSPG4, TYRP2, MelanA, Gp100, and VLA4; the immunostimulatory RFI score includes CD40, CD40L, CD80, OX40, and OX40L; the immunosuppressive RFI score includes PDL-1, CD39, CD73, FasL, LAP-TGFβ, TRAIL, and CTLA-4. Wilcoxon signed-rank tests were used to evaluate differences between MTEX and non-MTEX; Wilcoxon-Mann-Whitney tests were used to evaluate differences between patients and healthy controls. Horizontal bars indicate median values. NS: no significant difference.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2019_56542_Fig1_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par27">
+              The different proteins in exosome cargos were also evaluated individually (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ). Significant differences in RFI scores between MTEX and non-MTEX were observed for all MAA proteins, which were largely absent in non-MTEX or HDs exosomes (STable 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+              ). Among the immunosuppressive proteins, FasL (
+              <italic>P</italic>
+               = 0.007) and TRAIL (
+              <italic>P</italic>
+               = 0.02) were highly enriched in the MTEX fractions (Fig. 
+              <xref rid="Fig2" ref-type="fig">2c</xref>
+              ). In contrast, CD40L (
+              <italic>P</italic>
+               = 0.02) as well as OX40 and OX40L (both 
+              <italic>P</italic>
+               = 0.005) were highly enriched in the non-MTEX fractions (Fig. 
+              <xref rid="Fig2" ref-type="fig">2b</xref>
+              ). Interestingly, most non-MTEX also carried substantial levels of several immunosuppressive proteins (Fig. 
+              <xref rid="Fig2" ref-type="fig">2c</xref>
+              ). The mean RFIs for PD-L1 on MTEX and non-MTEX were 1.6 and 1.9, respectively, and in 5/12 patients, PD-L1 was similarly enriched in both MTEX and non-MTEX.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    The RFI values for: (
+                    <bold>a</bold>
+                    ) individual MAAs, (
+                    <bold>b</bold>
+                    ) individual immunostimulatory proteins and (
+                    <bold>c</bold>
+                    ) individual immunosuppressive proteins as determined by on-bead flow cytometry for all 12 melanoma patients. Horizontal bars indicate median values. NS: no significant difference. Wilcoxon signed-rank tests were used to evaluate differences between MTEX and non-MTEX.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2019_56542_Fig2_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par28">
+              Spearman correlation coefficients were calculated to explore correlations among the proteins carried by MTEX and non-MTEX (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">5</xref>
+              ). Interestingly, significant correlations were more common in non-MTEX than MTEX, suggesting that the protein cargos of MTEX may be more diverse than those in non-MTEX.
+            </p>
+          </sec>
+          <sec id="Sec14">
+            <title>Immunosuppressive functions of MTEX versus non-MTEX</title>
+            <p id="Par29">
+              Immunoregulatory functions of MTEX, non-MTEX and HDs exosomes were evaluated in co-incubation experiments with human primary immune cells (CD8
+              <sup>+</sup>
+               T cells or NK cells).
+            </p>
+            <sec id="Sec15">
+              <title>Inhibition of T-cell activation upon co-incubation with MTEX</title>
+              <p id="Par30">
+                When activated CD8
+                <sup>+</sup>
+                 T cells were co-incubated with MTEX or total exosomes, levels of CD69 protein on the surface of CD8
+                <sup>+</sup>
+                 T cells and the % of CD69
+                <sup>+</sup>
+                CD8
+                <sup>+</sup>
+                 T cells were significantly decreased (
+                <italic>P</italic>
+                 = 0.0009). No CD69 downregulation was seen after co-incubation with HDs exosomes or non-MTEX (Fig. 
+                <xref rid="Fig3" ref-type="fig">3</xref>
+                ). Notably, in 5/12 melanoma patients, non-MTEX also mediated CD69 downregulation on T cells.
+                <fig id="Fig3" position="float">
+                  <label>Figure 3</label>
+                  <caption xml:lang="en">
+                    <p>
+                      Exosome-mediated effects on CD69 expression levels in CD8
+                      <sup>+</sup>
+                       T cells. MTEX were immunocaptured from patients’ plasma as described in Methods and were co-incubated with primary human activated CD8
+                      <sup>+</sup>
+                       T cells for 6 h at 37 °C. CD69 expression levels on T cells were measured by flow cytometry. (
+                      <bold>a</bold>
+                      ) Representative exosome-mediated downregulation of CD69 expression levels on activated CD8
+                      <sup>+</sup>
+                       T cells after co-incubation with exosomes as indicated. (
+                      <bold>b</bold>
+                      ) % of CD69 + CD8
+                      <sup>+</sup>
+                       T cells after co-incubation with HDs’ exosomes or total exosomes, MTEX or non-MTEX obtained from melanoma patients’ plasma. Horizontal bars indicate median values. All data are normalized to no exosome (PBS) control for each patient/HD individually. Wilcoxon signed-rank tests were used to evaluate differences between paired samples (e.g., between MTEX and non-MTEX); Wilcoxon-Mann-Whitney tests were used to evaluate differences between patients and HDs. NS: no significant difference.
+                    </p>
+                  </caption>
+                  <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2019_56542_Fig3_HTML.png"/>
+                </fig>
+              </p>
+              <p id="Par31">
+                Our previous studies showed that after 6 h co-incubation with human primary T cells, tumor-derived exosomes (TEX) were not internalized but remained at the T-cell surface
+                <sup>
+                  <xref ref-type="bibr" rid="CR25">25</xref>
+                </sup>
+                . This suggests that CD69 downregulation on T cells after 6 h co-incubation with MTEX may be a cell surface signaling event. Using qRT-PCR, we demonstrated that total exosomes and MTEX, but not non-MTEX, induced down-regulation of CD69 mRNA transcripts in CD8
+                <sup>+</sup>
+                 T cells (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">6a</xref>
+                ). Further, a 30 min co-incubation of CD8
+                <sup>+</sup>
+                 T cells with MTEX induced translocation of the NF-κB subunit p65 to the nucleus of recipient T cells, confirming activation of the NF-κB pathway in T cells responding to MTEX-mediated signaling (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">6b</xref>
+                ). The identity of suppressive signals that induced CD69 down-regulation is unknown. We previously reported reduced CD69 expression levels on primary CD8
+                <sup>+</sup>
+                 T cells by PD-L1
+                <sup>high</sup>
+                 exosomes from plasma of patients with head and neck cancer
+                <sup>
+                  <xref ref-type="bibr" rid="CR24">24</xref>
+                </sup>
+                . Blocking with anti-PD-1 Abs partly restored CD69 expression levels in the recipient T cells, suggesting that exosomes carrying PD-L1 were involved
+                <sup>
+                  <xref ref-type="bibr" rid="CR24">24</xref>
+                </sup>
+                . In the current study, downregulation of CD69 expression on activated CD8
+                <sup>+</sup>
+                 by MTEX, non-MTEX or total exosomes was partially blocked by anti-PD-1 mAbs (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">7</xref>
+                ). CD69 expression was in part restored (~30%) by CD8
+                <sup>+</sup>
+                 T cells after the anti-PD1 mAb block, but this amelioration of CD69 expression did not correlate with levels of PD-L1 protein carried by MTEX in melanoma patients (
+                <italic>r</italic>
+                 = −0.01, 
+                <italic>P</italic>
+                 = 0.98) or with expression levels of any of the other immunoregulatory proteins we evaluated (data not shown).
+              </p>
+            </sec>
+            <sec id="Sec16">
+              <title>Suppression of CD8+ T-cell proliferation by MTEX</title>
+              <p id="Par32">
+                The exosome fractions isolated from patients’ and HDs’ plasma were also evaluated for their ability to suppress proliferation of activated CD8
+                <sup>+</sup>
+                 T cells. Figure 
+                <xref rid="Fig4" ref-type="fig">4a</xref>
+                 shows that suppression of CD8
+                <sup>+s</sup>
+                 T-cell proliferation is mediated by MTEX and total exosomes but not by non-MTEX (representative data). MTEX-mediated suppression of proliferation was comparable to that induced by total exosomes (Fig. 
+                <xref rid="Fig4" ref-type="fig">4b</xref>
+                ). Compared to MTEX, non-MTEX and HDs exosomes were minimally suppressive in proliferation assays 
+                <italic>P</italic>
+                 = 0.0005). Surprisingly, MTEX-mediated suppression of CD8
+                <sup>+</sup>
+                 T cell proliferation did not correlate with the expression level of any single immunoregulatory protein included in the profiling panel (Fig. 
+                <xref rid="Fig2" ref-type="fig">2</xref>
+                , but rather reflected the sum of all inhibitory signals. Importantly, non-MTEX-mediated suppression of proliferation was seen in only 4/12 patients (Fig. 
+                <xref rid="Fig4" ref-type="fig">4b</xref>
+                ), it correlated with TRAIL levels carried by these exosomes (
+                <italic>r</italic>
+                 = 0.60. 
+                <italic>P</italic>
+                 = 0.04).
+                <fig id="Fig4" position="float">
+                  <label>Figure 4</label>
+                  <caption xml:lang="en">
+                    <p>
+                      Exosome-induced suppression of CD8
+                      <sup>+</sup>
+                       T cell proliferation. (
+                      <bold>a</bold>
+                      ) Representative CSFE-assay for exosomes from one patient showing proliferation inhibition induced in CD8
+                      <sup>+</sup>
+                       T cells by total exosomes, MTEX and non-MTEX. No suppression was seen with non-MTEX. (
+                      <bold>b</bold>
+                      ) CD8
+                      <sup>+</sup>
+                       T cell proliferation after co-incubation with HDs exosomes or total exosomes, MTEX or non-MTEX obtained from melanoma patients’ plasma. Note that non-MTEX in 4/12 patients mediated suppression. Data were normalized to no exosome (PBS) control. Horizontal bars indicate median values. NS: no significant difference. Wilcoxon signed-rank tests were used to evaluate differences between paired samples; Wilcoxon-Mann-Whitney tests were used to evaluate differences between patients and HDs. Results for blocking of MTEX-induced suppression of CD8
+                      <sup>+</sup>
+                       T cell proliferation are presented in SFig. 
+                      <xref ref-type="supplementary-material" rid="MOESM1">8</xref>
+                      .
+                    </p>
+                  </caption>
+                  <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2019_56542_Fig4_HTML.png"/>
+                </fig>
+              </p>
+              <p id="Par33">
+                To determine whether MTEX-mediated suppression of T-cell proliferation involved surface protein interactions, we used neutralizing Abs or pharmacological inhibitors of the inhibitory proteins carried by MTEX to block immune suppression (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">8a</xref>
+                ). MTEX-induced suppression of CD8
+                <sup>+</sup>
+                 T-cell proliferation was blocked by anti-PD1 mAb, anti-TGF-β mAb, the NF-κB inhibitor, and by heat denaturation of MTEX. The CD73 inhibitor or anti-Fas mAb failed to restore T-cell proliferation.
+              </p>
+            </sec>
+            <sec id="Sec17">
+              <title>
+                MTEX-mediated apoptosis in CD8
+                <sup>+</sup>
+                 T cells
+              </title>
+              <p id="Par34">
+                Exosomes in all three fractions induced significant levels of apoptosis in recipient CD8
+                <sup>+</sup>
+                 T cells (Fig. 
+                <xref rid="Fig5" ref-type="fig">5</xref>
+                ). Apoptosis was exosome dose-dependent (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">9a</xref>
+                ). MTEX induced apoptosis in 83% of T cells (44% ANXV
+                <sup>+</sup>
+                 and 39% PI + ANXV
+                <sup>+</sup>
+                ) in a representative experiment shown in Fig. 
+                <xref rid="Fig5" ref-type="fig">5a</xref>
+                . Non-MTEX and HDs exosomes induced only low levels of apoptosis (~20% or less) in CD8
+                <sup>+</sup>
+                 T cells. MTEX and total exosomes were strongly apoptotic compared to non-MTEX (
+                <italic>P</italic>
+                 = 0.0008) or HDs exosomes (
+                <italic>P</italic>
+                 = 0.0009) (Fig. 
+                <xref rid="Fig5" ref-type="fig">5b</xref>
+                ). Apoptosis was partially blocked when neutralizing anti-Fas (ZB4) mAbs were added to co-cultures prior to exosomes (Fig. 
+                <xref rid="Fig5" ref-type="fig">5c</xref>
+                ), and isotype control Abs did not inhibit apoptosis (see SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">9b</xref>
+                ). Exosomes co-incubated with 30 µg Proteinase K and 2.5 mM CaCl
+                <sub>2</sub>
+                 for 1 h had significantly reduced apoptotic activity, and incubation of exosomes at 60 °C for 1 h, eliminated their ability to mediate apoptosis of CD8
+                <sup>+</sup>
+                 T cells (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">9c</xref>
+                ). Surprisingly, MTEX- induced apoptosis did not significantly correlate with the levels of any single immunoregulatory protein carried by MTEX (data not shown). In contrast, apoptosis mediated by non-MTEX negatively correlated with the levels of CD80 and OX40 expression on these exosomes (respectively, 
+                <italic>r</italic>
+                 = −0.66, 
+                <italic>P</italic>
+                 = 0.02, and 
+                <italic>r</italic>
+                 = −0.63, 
+                <italic>P</italic>
+                 = 0.03), suggesting that co-stimulatory signals on non-MTEX might ameliorate apoptosis.
+                <fig id="Fig5" position="float">
+                  <label>Figure 5</label>
+                  <caption xml:lang="en">
+                    <p>
+                      Exosome-mediated apoptosis in primary activated CD8
+                      <sup>+</sup>
+                       T cells. (
+                      <bold>a</bold>
+                      ) Representative flow cytometry data for PI/Annexin V binding in CD8
+                      <sup>+</sup>
+                       T cells co-incubated for 6 h with total exosomes, MTEX or non-MTEX isolated from plasma of one melanoma patient. Control cells were co-incubated with PBS. In (
+                      <bold>b</bold>
+                      ), % apoptosis of CD8
+                      <sup>+</sup>
+                       T cells after co-incubation with exosomes from HDs plasma or total exosomes, MTEX or non-MTEX from melanoma patients’ plasma. In (
+                      <bold>c</bold>
+                      ), % apoptosis of CD8
+                      <sup>+</sup>
+                       T cell after co-incubation with total exosomes, MTEX or non-MTEX from melanoma patients in the presence of anti-Fas mAb. Isotype control Ab was used in place of anti-Fas Ab (see SFig. 
+                      <xref ref-type="supplementary-material" rid="MOESM1">9b</xref>
+                      ), and all data are normalized to no exosome (PBS) control. Horizontal bars indicate median values. NS: no significant difference. Wilcoxon signed-rank tests were used to evaluate differences between paired samples; Wilcoxon-Mann-Whitney tests were used to evaluate differences between patients and healthy donors.
+                    </p>
+                  </caption>
+                  <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2019_56542_Fig5_HTML.png"/>
+                </fig>
+              </p>
+            </sec>
+            <sec id="Sec18">
+              <title>MTEX-induced NKG2D down-regulation on NK cells</title>
+              <p id="Par35">
+                Effects of the total exosome, MTEX, non-MTEX and HDs exosomes on primary human NK cells were also investigated. As expected based on our previous work
+                <sup>
+                  <xref ref-type="bibr" rid="CR26">26</xref>
+                  ,
+                  <xref ref-type="bibr" rid="CR27">27</xref>
+                </sup>
+                , MTEX down-regulated expression levels of NKG2D on NK cells (Fig. 
+                <xref rid="Fig6" ref-type="fig">6a,b</xref>
+                ). Interestingly, total exosomes induced greater NKG2D downregulation than MTEX (
+                <italic>P</italic>
+                 = 0.007), perhaps because some non-MTEX also downregulated NKG2D expression levels (Fig. 
+                <xref rid="Fig6" ref-type="fig">6b</xref>
+                ). MTEX were positive for MICA, a ligand for NKG2D, although not for MICB (Fig. 
+                <xref rid="Fig6" ref-type="fig">6c</xref>
+                ) and non-MTEX did not carry MICA or MICB. Thus, NKG2D downregulation by non-MTEX was likely mediated by a mechanism unrelated to MICA or MICB. We showed that blocking with anti-TGF-β mAb restored NKG2D expression on NK cells (SFig. 
+                <xref ref-type="supplementary-material" rid="MOESM1">8b</xref>
+                ). NKG2B downregulation by non-MTEX correlated with PD1, CD73, and OX40 expression levels (
+                <italic>r</italic>
+                 = 0.62, 
+                <italic>P</italic>
+                 = 0.03; 
+                <italic>r</italic>
+                 = −0.70, 
+                <italic>P</italic>
+                 = 0.01; and 
+                <italic>r</italic>
+                 = 0.70, 
+                <italic>P</italic>
+                 = 0.01, respectively). However, MTEX-mediated downregulation of NKG2D did not significantly correlate with the expression level of any single immunoregulatory protein carried by MTEX, except for CD80 (
+                <italic>r</italic>
+                 = −0.66, 
+                <italic>P</italic>
+                 = 0.02) (data not shown). Again, the data suggest that NKG2D downregulation may be the result of several different signals simultaneously delivered by MTEX to recipient NK cells.
+                <fig id="Fig6" position="float">
+                  <label>Figure 6</label>
+                  <caption xml:lang="en">
+                    <p>
+                      Exosome-mediated effects on NKG2D receptor expression levels on human primary NK cells. In (
+                      <bold>a</bold>
+                      ), total exosomes, MTEX or non-MTEX were co-incubated with human activated NK cells for 24 h. Representative data of exosome-mediated suppression of NKG2D levels by exosomes from one melanoma patient are shown. In (
+                      <bold>b</bold>
+                      ), % of NK cells expressing NKG2D after co-incubation with exosomes of HDs or total exosomes, MTEX or non-MTEX from melanoma patients’ plasma. In (
+                      <bold>c</bold>
+                      ), the presence of MICA or MICB (determined as RFI) on MTEX and non-MTEX. All data were normalized to no exosome (PBS) controls. Blocking of MTEX-mediated downregulation of NKG2D on NK cells by neutralizing anti-TGF-β Ab is shown in SFig. 
+                      <xref ref-type="supplementary-material" rid="MOESM1">8</xref>
+                      . Horizontal bars indicate median values. NS: no significant difference. Wilcoxon signed-rank tests were used to evaluate differences between paired samples; Wilcoxon-Mann-Whitney tests were used to evaluate differences between patients and healthy donors.
+                    </p>
+                  </caption>
+                  <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2019_56542_Fig6_HTML.png"/>
+                </fig>
+              </p>
+            </sec>
+          </sec>
+          <sec id="Sec19">
+            <title>Correlations between exosome profiles and exosome functions</title>
+            <p id="Par36">
+              Correlations of MTEX and non-MTEX protein profiles with functional changes induced in immune recipient cells by these vesicles were also examined (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">10</xref>
+              ). Total exosome protein levels in plasma correlated significantly with the MTEX immunosuppressive score (
+              <italic>r</italic>
+               = 0.79, 
+              <italic>P</italic>
+               = 0.002), suggesting that higher exosome protein levels in patients’ plasma reflect the enrichment in suppressive MTEX. In fact, apoptosis correlated with the MTEX/total exosome protein ratio (r = 068; 
+              <italic>P</italic>
+               = 0.01). The RFI scores for FasL and TRAIL in MTEX were significantly elevated compared with non-MTEX (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ), accounting for high MTEX-mediated apoptosis. The stim/supp ratio correlated positively with the immunostimulatory score (r = 0.74; P = 0.006).
+            </p>
+            <p id="Par37">
+              As expected, non-MTEX-mediated apoptosis was inversely correlated with their stimulatory/suppressive ratio (r = −0.75; 
+              <italic>P</italic>
+               = 0.007) and their immunostimulatory score (r = −0.72; 
+              <italic>P</italic>
+               = 0.009) (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">8b</xref>
+              ). Non-MTEX-mediated proliferation correlated positively with their immunostimulatory score (r = 0.59; 
+              <italic>P</italic>
+               = 0.04), and inversely with total exosome protein levels (r = −0.59; 
+              <italic>P</italic>
+               = 0.046). The non-MTEX stim/supp ratio was 
+              <underline>inversely</underline>
+               correlated with their immunosuppressive score (
+              <italic>r</italic>
+               = −0.76, 
+              <italic>P</italic>
+               = 0.004). Non-MTEX-mediated NKG2D downregulation was inversely correlated with their immunosuppressive score (
+              <italic>r</italic>
+               = −0.64, 
+              <italic>P</italic>
+               = 0.03) but positively with the MTEX/total exosome protein ratio and the MTEX stim/supp ratio (r = 0.61; 
+              <italic>P</italic>
+               = 0.04 and r = 0.81; 
+              <italic>P</italic>
+               = 0.002, respectively). In aggregate, these results linking immune activities of MTEX or non-MTEX with their phenotypic characteristics emphasize: (a) superior immune suppressive activity of MTEX over non-MTEX; (b) dependence of exosome-mediated suppression/stimulation of immune cells on the profile of immunoregulatory proteins carried by these exosomes; and (c) the ability of both MTEX and non-MTEX to alter functions of immune cells depending on the stim/supp protein ratios they carry.
+            </p>
+          </sec>
+          <sec id="Sec20">
+            <title>Correlations of exosome profiles with patients’ clinicopathological data</title>
+            <p id="Par38">
+              We explored associations between exosome molecular profiles and the available clinicopathologic variables (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">10</xref>
+              ) to determine whether the observed MTEX and non-MTEX characteristics could be used as potential markers of disease status or activity. Although not powered for a formal correlative assessment, the study provided several potentially instructive insights. For example, the finding that MTEX-mediated apoptosis of CD8+ T cells did not correlate with disease status or stage, while non-MTEX ability to induce apoptosis associated with disease stage (r = 0.61, 
+              <italic>P</italic>
+               = 0.04) reveals an unexpected potential of non-MTEX to serve as a correlate of melanoma progression. A significant inverse correlation of the stim/supp ratio with disease stage (r = −0.83, 
+              <italic>P</italic>
+               = 0.0007) (SFig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">5b</xref>
+              ) emphasizes the importance of using this ratio rather than individual components of the exosome cargo in future correlative studies. Although disease status at blood draw was inversely correlated with the expression level of PDL-1 on MTEX (
+              <italic>r</italic>
+               = −0.62, 
+              <italic>P</italic>
+               = 0.03), it did not correlate with any of the other proteins evaluated in MTEX or non-MTEX (data not shown). Age at blood draw and age at diagnosis both correlated with the non-MTEX PD1 level (at diagnosis: 
+              <italic>r</italic>
+               = 0.59, 
+              <italic>P</italic>
+               = 0.045; at blood draw: 
+              <italic>r</italic>
+               = 0.61, 
+              <italic>P</italic>
+               = 0.04), but not with any of the other individual protein levels (data not shown). Tentatively, this correlation links age with PD1-mediated suppression in melanoma.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec21" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par39">
+            Early evidence suggested that EVs isolated from supernatants of murine or human melanoma cell lines were decorated by death ligands such as FasL, TRAIL or biologically-active TGF-β1, and directly or indirectly suppressed functions of various immune cell subsets
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              , 
+              <xref ref-type="bibr" rid="CR29">29</xref>
+              , 
+              <xref ref-type="bibr" rid="CR30">30</xref>
+              , 
+              <xref ref-type="bibr" rid="CR31">31</xref>
+              –
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            . Recent studies confirmed that exosomes obtained from melanoma patients’ plasma contained immunosuppressive proteins, including PD-L1
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              ,
+              <xref ref-type="bibr" rid="CR33">33</xref>
+            </sup>
+            . However, the cellular source of immunosuppressive exosomes in patients’ plasma has remained unknown. In this communication, we demonstrate for the first time that MTEX isolated from melanoma patients’ plasma are largely responsible for immune suppression previously observed with plasma-derived exosomes. Immunoaffinity-based separation of exosome subsets using mAbs specific for the CSPG4 epitopes into MTEX and non-MTEX allowed for examination of the cargos as well as functions of MTEX and unequivocally demonstrated MTEX capacity to mediate immunosuppression.
+          </p>
+          <p id="Par40">
+            To examine the immunoregulatory “exosome profile” we selected a handful of proteins that are known to play a key role in immunoregulation
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+             and are present in MTEX
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              ,
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+            . Although MTEX were enriched in inhibitory proteins and mediated the bulk of suppressive activity, non-MTEX were not entirely devoid of suppressor functions. HDs exosomes also mediated low levels of immune suppression. These findings are not unexpected given the similarity of molecular cargo that all exosomes carry. Differences in the cargo components between MTEX and non-MTEX were 
+            <italic>quantitative</italic>
+             and were highly significant. The mean stim/supp ratio was 0.6 for MTEX versus 1.4 for non-MTEX and 2.2 for HDs exosomes. Thus, it was the disparity in MTEX/total exosomes ratios or stim/supp ratios, and not expression levels of individual stimulatory or inhibitory proteins, that discriminated between MTEX and non-MTEX. The paucity in MTEX of co-stimulatory ligands, especially CD40L and OX40L (both members of the TNF superfamily of proteins critical for interactions with recipient immune cells
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+              ,
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            ) and the enrichment in levels of inhibitory ligands contribute to significantly greater MTEX-mediated immunosuppression. The enrichment of stimulatory proteins in non-MTEX counterbalances the effects of inhibitory ligands that non-MTEX also co-express and favors lymphocyte stimulation. This suggests that the sum of inhibitory vs stimulatory proteins on the exosome surface determines the distinct functional potentials of MTEX and non-MTEX. It is of interest to note that the content of immunoregulatory proteins in MTEX versus non-MTEX is reminiscent of that in tumor cells, which are highly enriched in immunoinhibitory factors compared to normal cells
+            <sup>
+              <xref ref-type="bibr" rid="CR38">38</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par41">
+            The mechanistic aspects of MTEX interactions with recipient immune cells were also addressed by our studies. We previously showed that primary T cells activated via the T-cell receptor only minimally internalize PKH26-labeled exosomes even after prolonged (72 h) co-incubation
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            . In contrast, labeled TEX were detected in the cytoplasm of NK cells after 6 h co-incubation
+            <sup>
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+            . Further, we and others have reported that TEX-induced immunosuppression involves signaling of FasL
+            <sup>+</sup>
+             exosomes via CD95 (Fas) on activated CD8
+            <sup>+</sup>
+             T cells
+            <sup>
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              ,
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              ,
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+            . In this study, MTEX carrying FasL induced apoptosis of &gt;50% of activated T cells within 6 h of co-incubation, and anti-Fas Abs significantly, albeit not completely, inhibited T-cell apoptosis (Fig. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+            ; SFig. 
+            <xref ref-type="supplementary-material" rid="MOESM1">9b</xref>
+            ). These data indicate the inhibitory signals delivered by MTEX to the cognate receptors on the recipient cell surface are sufficient for eliciting changes in the phenotypic or functional profiles of recipient T cells without vesicle internalization. Co-incubation of MTEX with activated T cells for 6 h also reduced CD69 expression on the T-cell surface. Simultaneous downregulation of CD69 proteins on T cells and changes of the mRNA transcript for CD69 in these cells (SFig. 
+            <xref ref-type="supplementary-material" rid="MOESM1">6a</xref>
+            ) suggest that the MTEX signal delivered to the cell surface leads to transcriptional activation. Furthermore, MTEX induced the NF-κB pathway activation in T cells after 30 min of co-incubation (SFig. 
+            <xref ref-type="supplementary-material" rid="MOESM1">6b</xref>
+            ). The recovery of immune cell functions in the blocking experiments performed with MAbs or pharmacological inhibitors of PD-L1, TGF-β, FasL, and NF-κB activation indicates that these proteins participate in MTEX-induced suppression of T cell or NK cell functions (SFig. 
+            <xref ref-type="supplementary-material" rid="MOESM1">8</xref>
+            ) as also reported for TEX produced by tumor cell lines
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              ,
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              ,
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              ,
+              <xref ref-type="bibr" rid="CR39">39</xref>
+              ,
+              <xref ref-type="bibr" rid="CR40">40</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par42">
+            MTEX are present in excess in the tumor microenvironment (TME). MTEX surface is decorated with multiple inhibitory proteins (Fig. 
+            <xref rid="Fig2" ref-type="fig">2c</xref>
+            ), MTEX circulate freely in all body fluids and can deliver multiple inhibitory signals to T cells, 
+            <bold>
+              <italic>simultaneously</italic>
+            </bold>
+             activating various inhibitory molecular pathways and resulting in T-cell dysfunction or death. The stim/supp protein ratio in MTEX and the MTEX/total exosome ratio in plasma are characteristic features of each melanoma patient and determine MTEX immunoinhibitory functions
+            <sup>
+              <xref ref-type="bibr" rid="CR41">41</xref>
+              ,
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+            . Our data support the concept of MTEX carrying an excess of suppressive ligands as a component of the powerful tumor-driven system of immune suppression in melanoma. We have previously suggested that this model of exosomes simultaneously delivering multiple suppressive signals to immune cells in cancer represents an underestimated barrier to successful cancer immunotherapy
+            <sup>
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par43">
+            In principle, the distinct phenotypic and functional characteristics of MTEX and non-MTEX could be linked to disease activity and progression. A recent report showed that melanoma exosomes carrying PD-L1 suppress functions of CD8
+            <sup>+</sup>
+             T cells and facilitate tumor growth
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . Increases in PD-L1
+            <sup>+</sup>
+             exosomes during early stages of anti-PD-1 therapy discriminated clinical responders from non-responders, suggesting that circulating exosomes isolated from plasma based on PD-L1 expression predicted responses to anti-PD-1 therapy in melanoma
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . PD-L1 expression levels on MTEX or non-MTEX in our study were variable and did not correlate with their ability to reduce CD69 expression on T cells. However, anti-PD1 mAb significantly blocked CD8
+            <sup>+</sup>
+             T cell proliferation inhibition by MTEX, emphasizing the significance of the PD-1/PD-L1 pathway in exosome-mediated immune suppression. We have also identified an association between PD-L1 levels on MTEX and non-MTEX with NKG2D downregulation in NK cells. Our previous reports attributed TEX-mediated downregulation of the NKG2D receptor on human NK cells to the TGF-β-mediated suppression
+            <sup>
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              ,
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+            . Here, we showed that although MTEX carry MICA, an inhibitory ligand for NKG2D
+            <sup>
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            , the TGF-β pathway emerges as another inhibitory mechanism of NKG2D downregulation of NK cells. Our findings support the view of MTEX as carriers of multiple biologically-active inhibitory signals with the potential to 
+            <italic>in tandem</italic>
+             activate several inhibitory molecular pathways in recipient immune cells.
+          </p>
+          <p id="Par44">
+            This study was not designed to assess correlations of experimental data with clinical endpoints. Nevertheless, Spearman’s correlations identified a few significant associations of the data with disease status or stage. Confirming the relevance of apoptosis to the exosome cargo
+            <sup>
+              <xref ref-type="bibr" rid="CR44">44</xref>
+            </sup>
+            , the non-MTEX stim/supp ratio was negatively associated with MTEX-mediated apoptosis. Interestingly, a significant positive correlation between T-cell apoptosis in non-MTEX and disease stage was identified. While the biological or clinical usefulness of this association remains unclear, it might be taken as a sign that in high-stage disease, non-MTEX become reprogrammed by the tumor, acquiring the ability to mediate apoptosis. In this cohort of patients of with advanced metastatic disease, such reprogramming of normal cells could be expected, as suggested by our previous studies of T cell-derived CD3
+            <sup>+</sup>
+             exosomes in patients with cancer
+            <sup>
+              <xref ref-type="bibr" rid="CR45">45</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par45">This study is the first to show that MTEX, a subset of exosomes derived from melanoma cells and abundantly present in plasma of melanoma patients, are largely responsible for immune suppression in melanoma that potentially promotes tumor immune escape and tumor progression. To further define the role of MTEX in melanoma progression and confirm their clinical significance, future studies with much larger patient cohorts, including patients with primary and metastatic disease, will be necessary and are in progress in our laboratory.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>
+            The authors are grateful to Dr. Nils Ludwig, Dr. Chang-Sook Hong and Ms. Juliana Hofstatter Azambuja for performing blocking experiments using MTEX co-incubated with primary human CD8
+            <sup>+</sup>
+             T cells and NK cells. This work has been supported in part by NIH grants R01 CA168628 and R21 CA204644 to T.L.W.; NIH grants R01 DE028172 and R03 CA223886 and DOD grant W81XWH-16-1-0500 to S.F. and NIH grant P50 CA121973 to J.M.K. This project used UPMC Hillman Cancer Center shared resources that are supported in part by NIH award P30 CA047904.
+          </p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>P.S. designed and performed all experiments and drafted the manuscript. B.D. performed statistical analyses and edited the manuscript. S.F. assisted in experimental design, edited the manuscript and provided mAbs necessary for immune capture of melanoma-derived exosomes. J.M.K. provided patients’ samples and clinical data and edited the manuscript. T.L.W. designed this research project, interpreted results, assisted in writing and editing of the manuscript.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>
+            Additional data are summarized and are included as supplementary materials available at the 
+            <italic>Scientific Report</italic>
+            ’s website.
+          </p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par46">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Guy</surname>
+                    <given-names>GP</given-names>
+                    <suffix>Jr.</suffix>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Vital signs: melanoma incidence and mortality trends and projections - United States, 1982–2030</article-title>
+                <source>MMWR Morb. Mortal. Wkly. Rep.</source>
+                <year>2015</year>
+                <volume>64</volume>
+                <fpage>591</fpage>
+                <lpage>596</lpage>
+                <pub-id pub-id-type="pmid">26042651</pub-id>
+                <pub-id pub-id-type="pmcid">4584771</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gajewski</surname>
+                    <given-names>TF</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Immune resistance orchestrated by the tumor microenvironment</article-title>
+                <source>Immunol. Rev.</source>
+                <year>2006</year>
+                <volume>213</volume>
+                <fpage>131</fpage>
+                <lpage>145</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD28XhtF2lsrbL</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1600-065X.2006.00442.x</pub-id>
+                <pub-id pub-id-type="pmid">16972901</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Passarelli</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Mannavola</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Stucci</surname>
+                    <given-names>LS</given-names>
+                  </name>
+                  <name>
+                    <surname>Tucci</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Silvestris</surname>
+                    <given-names>F</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Immune system and melanoma biology: a balance between immunosurveillance and immune escape</article-title>
+                <source>Oncotarget</source>
+                <year>2017</year>
+                <volume>8</volume>
+                <fpage>106132</fpage>
+                <lpage>106142</lpage>
+                <pub-id pub-id-type="doi">10.18632/oncotarget.22190</pub-id>
+                <pub-id pub-id-type="pmid">29285320</pub-id>
+                <pub-id pub-id-type="pmcid">5739707</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Exosomal PD-L1 contributes to immunosuppression and is associated with anti-PD-1 response</article-title>
+                <source>Nature</source>
+                <year>2018</year>
+                <volume>560</volume>
+                <fpage>382</fpage>
+                <lpage>386</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018Natur.560..382C</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhsVynsrjK</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41586-018-0392-8</pub-id>
+                <pub-id pub-id-type="pmid">6095740</pub-id>
+                <pub-id pub-id-type="pmcid">6095740</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ottaviano</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>De Placido</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Ascierto</surname>
+                    <given-names>PA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Recent success and limitations of immune checkpoint inhibitors for cancer: a lesson from melanoma</article-title>
+                <source>Virchows Arch.</source>
+                <year>2019</year>
+                <volume>474</volume>
+                <fpage>421</fpage>
+                <lpage>432</lpage>
+                <pub-id pub-id-type="doi">10.1007/s00428-019-02538-4</pub-id>
+                <pub-id pub-id-type="pmid">30747264</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>O’Reilly</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Larkin</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Checkpoint inhibitors in advanced melanoma: effect on the field of immunotherapy</article-title>
+                <source>Expert Rev. Anticancer Ther.</source>
+                <year>2017</year>
+                <volume>17</volume>
+                <fpage>647</fpage>
+                <lpage>655</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhtVWlsb7K</pub-id>
+                <pub-id pub-id-type="doi">10.1080/14737140.2017.1341315</pub-id>
+                <pub-id pub-id-type="pmid">28604130</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mooradian</surname>
+                    <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Sullivan</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">What to Do When Anti-PD-1 Therapy Fails in Patients With Melanoma</article-title>
+                <source>Oncology (Williston Park)</source>
+                <year>2019</year>
+                <volume>33</volume>
+                <fpage>141</fpage>
+                <lpage>148</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wieckowski</surname>
+                    <given-names>EU</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Tumor-derived microvesicles promote regulatory T cell expansion and induce apoptosis in tumor-reactive activated CD8+ T lymphocytes</article-title>
+                <source>J. Immunol.</source>
+                <year>2009</year>
+                <volume>183</volume>
+                <fpage>3720</fpage>
+                <lpage>3730</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhtVOmurnJ</pub-id>
+                <pub-id pub-id-type="doi">10.4049/jimmunol.0900970</pub-id>
+                <pub-id pub-id-type="pmid">19692638</pub-id>
+                <pub-id pub-id-type="pmcid">3721354</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Valenti</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Tumor-released microvesicles as vehicles of immunosuppression</article-title>
+                <source>Cancer Res.</source>
+                <year>2007</year>
+                <volume>67</volume>
+                <fpage>2912</fpage>
+                <lpage>2915</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2sXksVGlt7o%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-07-0520</pub-id>
+                <pub-id pub-id-type="pmid">17409393</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wendler</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Stamp</surname>
+                    <given-names>GW</given-names>
+                  </name>
+                  <name>
+                    <surname>Giamas</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Tumor-Stromal Cell Communication: Small Vesicles Signal Big Changes</article-title>
+                <source>Trends Cancer</source>
+                <year>2016</year>
+                <volume>2</volume>
+                <fpage>326</fpage>
+                <lpage>329</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.trecan.2016.05.007</pub-id>
+                <pub-id pub-id-type="pmid">28741534</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Exosomes and tumor-mediated immune suppression</article-title>
+                <source>J. Clin. Invest.</source>
+                <year>2016</year>
+                <volume>126</volume>
+                <fpage>1216</fpage>
+                <lpage>1223</lpage>
+                <pub-id pub-id-type="doi">10.1172/JCI81136</pub-id>
+                <pub-id pub-id-type="pmid">26927673</pub-id>
+                <pub-id pub-id-type="pmcid">4811135</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Peinado</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Melanoma exosomes educate bone marrow progenitor cells toward a pro-metastatic phenotype through MET</article-title>
+                <source>Nat. Med.</source>
+                <year>2012</year>
+                <volume>18</volume>
+                <fpage>883</fpage>
+                <lpage>891</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XnsFKgtLw%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nm.2753</pub-id>
+                <pub-id pub-id-type="pmid">22635005</pub-id>
+                <pub-id pub-id-type="pmcid">3645291</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rivoltini</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">TNF-Related Apoptosis-Inducing Ligand (TRAIL)-Armed Exosomes Deliver Proapoptotic Signals to Tumor Site</article-title>
+                <source>Clin. Cancer Res.</source>
+                <year>2016</year>
+                <volume>22</volume>
+                <fpage>3499</fpage>
+                <lpage>3512</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28Xht1Sitr7L</pub-id>
+                <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-15-2170</pub-id>
+                <pub-id pub-id-type="pmid">26944067</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Immune modulation of T-cell and NK (natural killer) cell activities by TEXs (tumour-derived exosomes)</article-title>
+                <source>Biochem. Soc. Trans.</source>
+                <year>2013</year>
+                <volume>41</volume>
+                <fpage>245</fpage>
+                <lpage>251</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhs1eiurg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1042/BST20120265</pub-id>
+                <pub-id pub-id-type="pmid">23356291</pub-id>
+                <pub-id pub-id-type="pmcid">3721347</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ruivo</surname>
+                    <given-names>CF</given-names>
+                  </name>
+                  <name>
+                    <surname>Adem</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Silva</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Melo</surname>
+                    <given-names>SA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The Biology of Cancer Exosomes: Insights and New Perspectives</article-title>
+                <source>Cancer Res.</source>
+                <year>2017</year>
+                <volume>77</volume>
+                <fpage>6480</fpage>
+                <lpage>6488</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhvFWhsb%2FK</pub-id>
+                <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-17-0994</pub-id>
+                <pub-id pub-id-type="pmid">29162616</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mulcahy</surname>
+                    <given-names>Laura Ann</given-names>
+                  </name>
+                  <name>
+                    <surname>Pink</surname>
+                    <given-names>Ryan Charles</given-names>
+                  </name>
+                  <name>
+                    <surname>Carter</surname>
+                    <given-names>David Raul Francisco</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Routes and mechanisms of extracellular vesicle uptake</article-title>
+                <source>Journal of Extracellular Vesicles</source>
+                <year>2014</year>
+                <volume>3</volume>
+                <issue>1</issue>
+                <fpage>24641</fpage>
+                <pub-id pub-id-type="doi">10.3402/jev.v3.24641</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sharma</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Immunoaffinity-based isolation of melanoma cell-derived exosomes from plasma of patients with melanoma</article-title>
+                <source>J. Extracell. Vesicles</source>
+                <year>2018</year>
+                <volume>7</volume>
+                <fpage>1435138</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXns12qu7k%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1080/20013078.2018.1435138</pub-id>
+                <pub-id pub-id-type="pmid">29511460</pub-id>
+                <pub-id pub-id-type="pmcid">5827723</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wilson</surname>
+                    <given-names>BS</given-names>
+                  </name>
+                  <name>
+                    <surname>Imai</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Natali</surname>
+                    <given-names>PG</given-names>
+                  </name>
+                  <name>
+                    <surname>Ferrone</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Distribution and molecular characterization of a cell-surface and a cytoplasmic antigen detectable in human melanoma cells with monoclonal antibodies</article-title>
+                <source>Int. J. Cancer</source>
+                <year>1981</year>
+                <volume>28</volume>
+                <fpage>293</fpage>
+                <lpage>300</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL38XhvVCnsQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/ijc.2910280307</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Temponi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Gold</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                  <name>
+                    <surname>Ferrone</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Binding parameters and idiotypic profile of the whole immunoglobulin and Fab’ fragments of murine monoclonal antibody to distinct determinants of the human high molecular weight-melanoma associated antigen</article-title>
+                <source>Cancer Res.</source>
+                <year>1992</year>
+                <volume>52</volume>
+                <fpage>2497</fpage>
+                <lpage>2503</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK38Xkt1amsbo%3D</pub-id>
+                <pub-id pub-id-type="pmid">1373670</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Campoli</surname>
+                    <given-names>MR</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Human high molecular weight-melanoma-associated antigen (HMW-MAA): a melanoma cell surface chondroitin sulfate proteoglycan (MSCP) with biological and clinical significance</article-title>
+                <source>Crit. Rev. Immunol.</source>
+                <year>2004</year>
+                <volume>24</volume>
+                <fpage>267</fpage>
+                <lpage>296</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXotFOksw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1615/CritRevImmunol.v24.i4.40</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hong</surname>
+                    <given-names>CS</given-names>
+                  </name>
+                  <name>
+                    <surname>Funk</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Muller</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Boyiadzis</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Isolation of biologically active and morphologically intact exosomes from plasma of patients with cancer</article-title>
+                <source>J. Extracell. Vesicles</source>
+                <year>2016</year>
+                <volume>5</volume>
+                <fpage>29289</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXmt1Kjs7o%3D</pub-id>
+                <pub-id pub-id-type="doi">10.3402/jev.v5.29289</pub-id>
+                <pub-id pub-id-type="pmid">27018366</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ludwig</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Suppression of Lymphocyte Functions by Plasma Exosomes Correlates with Disease Activity in Patients with Head and Neck Cancer</article-title>
+                <source>Clin. Cancer. Res.</source>
+                <year>2017</year>
+                <volume>23</volume>
+                <fpage>4843</fpage>
+                <lpage>4854</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhtlCmu7zE</pub-id>
+                <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-16-2819</pub-id>
+                <pub-id pub-id-type="pmid">28400428</pub-id>
+                <pub-id pub-id-type="pmcid">5559308</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Morales-Kastresana</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Jones</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Flow Cytometric Analysis of Extracellular Vesicles</article-title>
+                <source>Methods Mol. Biol.</source>
+                <year>2017</year>
+                <volume>1545</volume>
+                <fpage>215</fpage>
+                <lpage>225</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXmtVCqurY%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/978-1-4939-6728-5_16</pub-id>
+                <pub-id pub-id-type="pmid">27943218</pub-id>
+                <pub-id pub-id-type="pmcid">27943218</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Theodoraki</surname>
+                    <given-names>MN</given-names>
+                  </name>
+                  <name>
+                    <surname>Yerneni</surname>
+                    <given-names>SS</given-names>
+                  </name>
+                  <name>
+                    <surname>Hoffmann</surname>
+                    <given-names>TK</given-names>
+                  </name>
+                  <name>
+                    <surname>Gooding</surname>
+                    <given-names>WE</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Clinical Significance of PD-L1(+) Exosomes in Plasma of Head and Neck Cancer Patients</article-title>
+                <source>Clin. Cancer. Res.</source>
+                <year>2018</year>
+                <volume>24</volume>
+                <fpage>896</fpage>
+                <lpage>905</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXislyrurw%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-17-2664</pub-id>
+                <pub-id pub-id-type="pmid">29233903</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Muller</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Human tumor-derived exosomes (TEX) regulate Treg functions via cell surface signaling rather than uptake mechanisms</article-title>
+                <source>Oncoimmunology</source>
+                <year>2017</year>
+                <volume>6</volume>
+                <fpage>e1261243</fpage>
+                <pub-id pub-id-type="doi">10.1080/2162402X.2016.1261243</pub-id>
+                <pub-id pub-id-type="pmid">28919985</pub-id>
+                <pub-id pub-id-type="pmcid">5593709</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hong</surname>
+                    <given-names>CS</given-names>
+                  </name>
+                  <name>
+                    <surname>Funk</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Isolation of Biologically Active Exosomes from Plasma of Patients with Cancer</article-title>
+                <source>Methods Mol. Biol.</source>
+                <year>2017</year>
+                <volume>1633</volume>
+                <fpage>257</fpage>
+                <lpage>265</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhsF2ksLfJ</pub-id>
+                <pub-id pub-id-type="doi">10.1007/978-1-4939-7142-8_16</pub-id>
+                <pub-id pub-id-type="pmid">28735492</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Szczepanski</surname>
+                    <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Szajnik</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Welsh</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                  <name>
+                    <surname>Boyiadzis</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Blast-derived microvesicles in sera from patients with acute myeloid leukemia suppress natural killer cell function via membrane-associated transforming growth factor-beta1</article-title>
+                <source>Haematologica</source>
+                <year>2011</year>
+                <volume>96</volume>
+                <fpage>1302</fpage>
+                <lpage>1309</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38Xhs1KrtbzI</pub-id>
+                <pub-id pub-id-type="doi">10.3324/haematol.2010.039743</pub-id>
+                <pub-id pub-id-type="pmid">21606166</pub-id>
+                <pub-id pub-id-type="pmcid">3166100</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Czystowska</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">IRX-2, a novel immunotherapeutic, protects human T cells from tumor-induced cell death</article-title>
+                <source>Cell Death Differ.</source>
+                <year>2009</year>
+                <volume>16</volume>
+                <fpage>708</fpage>
+                <lpage>718</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXks1ygsbw%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/cdd.2008.197</pub-id>
+                <pub-id pub-id-type="pmid">19180118</pub-id>
+                <pub-id pub-id-type="pmcid">3721331</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hong</surname>
+                    <given-names>CS</given-names>
+                  </name>
+                  <name>
+                    <surname>Muller</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                  <name>
+                    <surname>Boyiadzis</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Plasma exosomes as markers of therapeutic response in patients with acute myeloid leukemia</article-title>
+                <source>Front. Immunol.</source>
+                <year>2014</year>
+                <volume>5</volume>
+                <fpage>160</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXht1enurvM</pub-id>
+                <pub-id pub-id-type="doi">10.3389/fimmu.2014.00160</pub-id>
+                <pub-id pub-id-type="pmid">24782865</pub-id>
+                <pub-id pub-id-type="pmcid">3989594</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kim</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Fas ligand-positive membranous vesicles isolated from sera of patients with oral cancer induce apoptosis of activated T lymphocytes</article-title>
+                <source>Clin. Cancer Res.</source>
+                <year>2005</year>
+                <volume>11</volume>
+                <fpage>1010</fpage>
+                <lpage>1020</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2005gtma.book.....K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXht1ynsb0%3D</pub-id>
+                <pub-id pub-id-type="pmid">15709166</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Tumor-Derived Exosomes and Their Role in Cancer Progression</article-title>
+                <source>Adv. Clin. Chem.</source>
+                <year>2016</year>
+                <volume>74</volume>
+                <fpage>103</fpage>
+                <lpage>141</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXnvFCntLk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/bs.acc.2015.12.005</pub-id>
+                <pub-id pub-id-type="pmid">27117662</pub-id>
+                <pub-id pub-id-type="pmcid">5382933</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kurywchak</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Tavormina</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kalluri</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The emerging roles of exosomes in the modulation of immune responses in cancer</article-title>
+                <source>Genome Med</source>
+                <year>2018</year>
+                <volume>10</volume>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXitl2nsrbI</pub-id>
+                <pub-id pub-id-type="doi">10.1186/s13073-018-0535-4</pub-id>
+                <pub-id pub-id-type="pmid">29580275</pub-id>
+                <pub-id pub-id-type="pmcid">5868069</pub-id>
+                <elocation-id>23</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Extracellular Vesicles in Cancer: Cell-to-Cell Mediators of Metastasis</article-title>
+                <source>Cancer Cell</source>
+                <year>2016</year>
+                <volume>30</volume>
+                <fpage>836</fpage>
+                <lpage>848</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XitVyisb%2FM</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ccell.2016.10.009</pub-id>
+                <pub-id pub-id-type="pmid">27960084</pub-id>
+                <pub-id pub-id-type="pmcid">5157696</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The effect of tumor-derived exosomes on immune regulation and cancer immunotherapy</article-title>
+                <source>Future Oncol.</source>
+                <year>2017</year>
+                <volume>13</volume>
+                <fpage>2583</fpage>
+                <lpage>2592</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhvFahsbrP</pub-id>
+                <pub-id pub-id-type="doi">10.2217/fon-2017-0343</pub-id>
+                <pub-id pub-id-type="pmid">29198150</pub-id>
+                <pub-id pub-id-type="pmcid">5827821</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Exosomes carrying immunoinhibitory proteins and their role in cancer</article-title>
+                <source>Clin. Exp. Immunol.</source>
+                <year>2017</year>
+                <volume>189</volume>
+                <fpage>259</fpage>
+                <lpage>267</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXht1yisLrI</pub-id>
+                <pub-id pub-id-type="doi">10.1111/cei.12974</pub-id>
+                <pub-id pub-id-type="pmid">28369805</pub-id>
+                <pub-id pub-id-type="pmcid">5543496</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Grewal</surname>
+                    <given-names>IS</given-names>
+                  </name>
+                  <name>
+                    <surname>Flavell</surname>
+                    <given-names>RA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">CD40 and CD154 in cell-mediated immunity</article-title>
+                <source>Annu. Rev. Immunol.</source>
+                <year>1998</year>
+                <volume>16</volume>
+                <fpage>111</fpage>
+                <lpage>135</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1cXislyitLg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1146/annurev.immunol.16.1.111</pub-id>
+                <pub-id pub-id-type="pmid">9597126</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Croft</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>So</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Duan</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Soroosh</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The significance of OX40 and OX40L to T-cell biology and immune disease</article-title>
+                <source>Immunol. Rev.</source>
+                <year>2009</year>
+                <volume>229</volume>
+                <fpage>173</fpage>
+                <lpage>191</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXhsFGls7nN</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1600-065X.2009.00766.x</pub-id>
+                <pub-id pub-id-type="pmid">19426222</pub-id>
+                <pub-id pub-id-type="pmcid">2729757</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Peggs</surname>
+                    <given-names>KS</given-names>
+                  </name>
+                  <name>
+                    <surname>Quezada</surname>
+                    <given-names>SA</given-names>
+                  </name>
+                  <name>
+                    <surname>Allison</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cancer immunotherapy: co-stimulatory agonists and co-inhibitory antagonists</article-title>
+                <source>Clin. Exp. Immunol.</source>
+                <year>2009</year>
+                <volume>157</volume>
+                <fpage>9</fpage>
+                <lpage>19</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXos1Ojtbo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1365-2249.2009.03912.x</pub-id>
+                <pub-id pub-id-type="pmid">19659765</pub-id>
+                <pub-id pub-id-type="pmcid">2710587</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hong</surname>
+                    <given-names>CS</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Circulating exosomes carrying an immunosuppressive cargo interfere with cellular immunotherapy in acute myeloid leukemia</article-title>
+                <source>Sci. Rep.</source>
+                <year>2017</year>
+                <volume>7</volume>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017NatSR...714684H</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhtlGgsbjP</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41598-017-14661-w</pub-id>
+                <pub-id pub-id-type="pmid">29089618</pub-id>
+                <pub-id pub-id-type="pmcid">5666018</pub-id>
+                <elocation-id>14684</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Theodoraki</surname>
+                    <given-names>MN</given-names>
+                  </name>
+                  <name>
+                    <surname>Hoffmann</surname>
+                    <given-names>TK</given-names>
+                  </name>
+                  <name>
+                    <surname>Jackson</surname>
+                    <given-names>EK</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Exosomes in HNSCC plasma as surrogate markers of tumour progression and immune competence</article-title>
+                <source>Clin. Exp. Immunol.</source>
+                <year>2018</year>
+                <volume>194</volume>
+                <fpage>67</fpage>
+                <lpage>78</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhvVSms7vO</pub-id>
+                <pub-id pub-id-type="doi">10.1111/cei.13157</pub-id>
+                <pub-id pub-id-type="pmid">30229863</pub-id>
+                <pub-id pub-id-type="pmcid">30229863</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>McAndrews</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Kalluri</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mechanisms associated with biogenesis of exosomes in cancer</article-title>
+                <source>Mol. Cancer</source>
+                <year>2019</year>
+                <volume>18</volume>
+                <pub-id pub-id-type="doi">10.1186/s12943-019-0963-9</pub-id>
+                <pub-id pub-id-type="pmid">30925917</pub-id>
+                <pub-id pub-id-type="pmcid">6441149</pub-id>
+                <elocation-id>52</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Muller</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Mitsuhashi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Simms</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Gooding</surname>
+                    <given-names>WE</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiteside</surname>
+                    <given-names>TL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Tumor-derived exosomes regulate expression of immune function-related genes in human T cell subsets</article-title>
+                <source>Sci. Rep.</source>
+                <year>2016</year>
+                <volume>6</volume>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016NatSR...620254M</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XitFamt7c%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/srep20254</pub-id>
+                <pub-id pub-id-type="pmid">26842680</pub-id>
+                <pub-id pub-id-type="pmcid">4740743</pub-id>
+                <elocation-id>20254</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Schmiedel</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Mandelboim</surname>
+                    <given-names>O</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">NKG2D Ligands-Critical Targets for Cancer Immune Escape and Therapy</article-title>
+                <source>Front. Immunol.</source>
+                <year>2018</year>
+                <volume>9</volume>
+                <fpage>2040</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXisFSrsrjM</pub-id>
+                <pub-id pub-id-type="doi">10.3389/fimmu.2018.02040</pub-id>
+                <pub-id pub-id-type="pmid">30254634</pub-id>
+                <pub-id pub-id-type="pmcid">6141707</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hoffmann</surname>
+                    <given-names>TK</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Spontaneous apoptosis of circulating T lymphocytes in patients with head and neck cancer and its clinical importance</article-title>
+                <source>Clin. Cancer. Res.</source>
+                <year>2002</year>
+                <volume>8</volume>
+                <fpage>2553</fpage>
+                <lpage>2562</lpage>
+                <pub-id pub-id-type="pmid">12171883</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Theodoraki</surname>
+                    <given-names>MN</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Circulating exosomes measure responses to therapy in head and neck cancer patients treated with cetuximab, ipilimumab, and IMRT</article-title>
+                <source>Oncoimmunology</source>
+                <year>2019</year>
+                <volume>8</volume>
+                <issue>7</issue>
+                <fpage>1593805</fpage>
+                <pub-id pub-id-type="doi">10.1080/2162402X.2019.1593805</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec22">
+              <title>Supplementary information</title>
+              <p id="Par47">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41598_2019_56542_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary Information </p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary information</title>
+          <p>
+            is available for this paper at 
+            <ext-link ns0:href="10.1038/s41598-019-56542-4" ext-link-type="doi">https://doi.org/10.1038/s41598-019-56542-4</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <p>
+            <bold>Publisher’s note</bold>
+             Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+          </p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

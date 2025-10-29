@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.525089",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55625-9",
+    "title": "Incidental iron oxide nanoclusters drive confined Fenton-like detoxification of solid wastes towards sustainable resource recovery",
+    "article_number": "146",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhichao Yang",
+      "Yuyang Yin",
+      "Mengyuan Liang",
+      "Wanyi Fu",
+      "Jiahe Zhang",
+      "Fangzhou Liu",
+      "Wen Zhang",
+      "Bingcai Pan"
+    ]
+  },
+  "article_index": 112,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:21:26.300057"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:21:27.839033"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:21:29.053569"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T23:21:19.448660"
+    },
+    "last_updated": "2025-10-03T23:21:19.448711"
+  }
+}

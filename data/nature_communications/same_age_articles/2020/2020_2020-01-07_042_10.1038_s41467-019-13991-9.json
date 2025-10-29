@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.881454",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13991-9",
+    "title": "No-Go Decay mRNA cleavage in the ribosome exit tunnel produces 5′-OH ends phosphorylated by Trl1",
+    "article_number": "122",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Albertas Navickas",
+      "Sébastien Chamois",
+      "Rénette Saint-Fort",
+      "Julien Henri",
+      "Claire Torchet",
+      "Lionel Benard"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:16:43.340858"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:16:44.952869"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:16:46.157530"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:59:21.389832"
+    },
+    "last_updated": "2025-10-03T22:59:21.390020"
+  }
+}

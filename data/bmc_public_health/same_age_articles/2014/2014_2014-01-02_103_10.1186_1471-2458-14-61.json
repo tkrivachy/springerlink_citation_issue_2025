@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.755973",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-61",
+    "title": "A cross-sectional study of the environment, physical activity, and screen time among young children and their parents",
+    "article_number": "61",
+    "publication_date": "2014-01-21",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Valerie Carson",
+      "Andrei Rosu",
+      "Ian Janssen"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T13:04:48.134694"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T13:04:49.660807"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T13:04:51.005247"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T21:04:34.483189"
+    },
+    "last_updated": "2025-10-03T21:04:34.483416"
+  }
+}

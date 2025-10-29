@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.677375",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44429-y",
+    "title": "A light-activatable theranostic combination for ratiometric hypoxia imaging and oxygen-deprived drug activity enhancement",
+    "article_number": "153",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lei Ge",
+      "Yikai Tang",
+      "Chongzhi Wang",
+      "Jian Chen",
+      "Hui Mao",
+      "Xiqun Jiang"
+    ]
+  },
+  "article_index": 105,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:02:22.374409"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T19:02:23.886642"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:02:25.027818"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T23:14:50.237986"
+    },
+    "last_updated": "2025-10-03T23:14:50.238183"
+  }
+}

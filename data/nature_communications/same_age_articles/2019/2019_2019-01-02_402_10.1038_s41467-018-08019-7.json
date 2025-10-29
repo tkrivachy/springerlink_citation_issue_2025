@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.720990",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08019-7",
+    "title": "Promoted cobalt metal catalysts suitable for the production of lower olefins from natural gas",
+    "article_number": "167",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jingxiu Xie",
+      "Pasi P. Paalanen",
+      "Tom W. van Deelen",
+      "Bert M. Weckhuysen",
+      "Manuel J. Louwerse",
+      "Krijn P. de Jong"
+    ]
+  },
+  "article_index": 402,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T17:36:14.641447"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T17:36:16.182798"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T17:36:17.537065"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 107,
+      "retrieved_at": "2025-10-03T22:45:43.728820"
+    },
+    "last_updated": "2025-10-03T22:45:43.728918"
+  }
+}

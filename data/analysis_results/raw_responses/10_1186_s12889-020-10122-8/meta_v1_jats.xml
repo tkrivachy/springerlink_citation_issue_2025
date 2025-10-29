@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-020-10122-8</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1186/s12889-020-10122-8</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection">
+              <subject>Infectious Disease epidemiology</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Influence of air temperature and implemented veterinary measures on the incidence of human salmonellosis in the Czech Republic during 1998–2017</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Kynčl</surname>
+                <given-names>Jan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4557-1910</contrib-id>
+              <name name-style="western">
+                <surname>Špačková</surname>
+                <given-names>Michaela</given-names>
+              </name>
+              <address>
+                <email>michaela.spackova@szu.cz</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Fialová</surname>
+                <given-names>Alena</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Kyselý</surname>
+                <given-names>Jan</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Malý</surname>
+                <given-names>Marek</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>6</day>
+            <month>1</month>
+            <year>2021</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2021</year>
+          </pub-date>
+          <volume>21</volume>
+          <issue>1</issue>
+          <elocation-id>55</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.biomedcentral.com/openurl?doi=10.1186/s12889-020-10122-8</uri>
+          <uri specific-use="web" content-type="pdf">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/s12889-020-10122-8</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2021</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p id="Par1">The aim of our study was to analyse the influence of air temperature and implemented veterinary measures on salmonellosis incidence in the Czech Republic (CZ).</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p id="Par2">We conducted a descriptive analysis of salmonellosis as reported to the Czech national surveillance system during 1998–2017 and evaluated the influence of applied veterinary measures (started in January 2008) on salmonellosis incidence by comparing two 9-year periods (1998–2006, 2009–2017). Using a generalized additive model, we analysed association between monthly mean air temperature and log-transformed salmonellosis incidence over the entire twenty-year period.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p id="Par3">A total of 410,533 salmonellosis cases were reported during the study period in the CZ. Annual mean incidences of salmonellosis were 313.0/100,000 inhabitants before and 99.0/100,000 inhabitants after implementation of the veterinary measures. The time course of incidence was non-linear, with a sharp decline during 2006–2010. Significant association was found between disease incidence and air temperature. On average, the data indicated that within a common temperature range every 1 °C rise in air temperature contributed to a significant 6.2% increase in salmonellosis cases.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusions</title>
+              <p id="Par4">Significant non-linear effects of annual trend, within-year seasonality, and air temperature on the incidence of salmonellosis during 1998–2017 were found. Our study also demonstrates significant direct effect of preventive veterinary measures taken in poultry in reducing incidence of human salmonellosis in the CZ. The annual mean number of salmonellosis cases in the period after introducing the veterinary measures was only 32.5% of what it had been in the previous period.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Salmonellosis</kwd>
+            <kwd>Temperature</kwd>
+            <kwd>Weather</kwd>
+            <kwd>Veterinary measures</kwd>
+            <kwd>Gastrointestinal infections</kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Grantová Agentura České Republiky</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100001824</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">18-22125S</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Kyselý</surname>
+                  <given-names>Jan</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Pharmacology</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

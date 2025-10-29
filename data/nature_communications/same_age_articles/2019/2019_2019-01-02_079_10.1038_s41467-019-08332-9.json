@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685768",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08332-9",
+    "title": "The cholesterol biosynthesis pathway regulates IL-10 expression in human Th1 cells",
+    "article_number": "498",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Esperanza Perucha",
+      "Rossella Melchiotti",
+      "Jack A Bibby",
+      "Wing Wu",
+      "Klaus Stensgaard Frederiksen",
+      "Ceri A. Roberts",
+      "Zoe Hall",
+      "Gaelle LeFriec",
+      "Kevin A. Robertson",
+      "Paul Lavender",
+      "Jens Gammeltoft Gerwien",
+      "Leonie S. Taams",
+      "Julian L. Griffin",
+      "Emanuele de Rinaldis",
+      "Lisa G. M. van Baarsen",
+      "Claudia Kemper",
+      "Peter Ghazal",
+      "Andrew P. Cope"
+    ]
+  },
+  "article_index": 79,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T17:17:52.311665"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T17:17:53.901804"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 108,
+      "retrieved_at": "2025-10-03T17:17:55.277942"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T22:39:24.007976"
+    },
+    "last_updated": "2025-10-03T22:39:24.008169"
+  }
+}

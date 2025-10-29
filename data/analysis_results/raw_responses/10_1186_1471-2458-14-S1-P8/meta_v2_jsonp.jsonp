@@ -1,0 +1,205 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/1471-2458-14-S1-P8",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/1471-2458-14-S1-P8",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-14-S1-P8"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-14-S1-P8"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/1471-2458-14-S1-P8"
+        }
+      ],
+      "title": "Maternal health insurance in Indonesia: assessment of a policy design",
+      "creators": [
+        {
+          "creator": "Marthias, Tiara"
+        },
+        {
+          "creator": "Kurniawan, M Faozi"
+        },
+        {
+          "creator": "Putri, Likke"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "openaccess": "true",
+      "doi": "10.1186/1471-2458-14-S1-P8",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2014-01-29",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "14",
+      "number": "1",
+      "issueType": "Supplement",
+      "topicalCollection": "",
+      "genre": [
+        "Abstract",
+        "Poster presentation"
+      ],
+      "startingPage": "1",
+      "endingPage": "1",
+      "journalId": "12889",
+      "onlineDate": "2014-01-29",
+      "coverDate": "2014-01",
+      "copyright": "©2014 Marthias et al; licensee BioMed Central Ltd.",
+      "abstract": "",
+      "conferenceInfo": [],
+      "keyword": [
+        "Family Planning",
+        "Postnatal Care",
+        "Service Accessibility",
+        "Family Planning Programme",
+        "High Quality Service"
+      ],
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Family Planning",
+          "count": "1"
+        },
+        {
+          "value": "Family Planning Programme",
+          "count": "1"
+        },
+        {
+          "value": "High Quality Service",
+          "count": "1"
+        },
+        {
+          "value": "Postnatal Care",
+          "count": "1"
+        },
+        {
+          "value": "Service Accessibility",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2014",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Indonesia",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:48:14.797769",
+  "year": 2006,
+  "article_type": "comparison",
+  "publication_date": "2006-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-6-15",
+    "title": "Patterns of active and passive smoking, and associated factors, in the South-east Anatolian Project (SEAP) region in Turkey",
+    "article_number": "15",
+    "publication_date": "2006-01-25",
+    "volume": "6",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ali I Bozkurt",
+      "Saime Şahinöz",
+      "Birgül Özçırpıcı",
+      "Servet Özgür",
+      "Turgut Şahinöz",
+      "Hamit Acemoğlu",
+      "Günay Saka",
+      "Ali Ceylan",
+      "Yılmaz Palanci",
+      "Ersen İlçin",
+      "Feridun Akkafa"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:25:05.547089"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T12:25:07.119577"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:25:08.409134"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T20:50:20.557425"
+    },
+    "last_updated": "2025-10-03T20:50:20.557471"
+  }
+}

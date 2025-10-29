@@ -1,0 +1,477 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-021-27579-9</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41467-021-27579-9</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>The 2018 European heatwave led to stem dehydration but not to consistent growth reductions in forests</dc:title>
+            
+	    
+            <dc:creator>Salomón, Roberto L.</dc:creator>
+            
+	    
+            <dc:creator>Peters, Richard L.</dc:creator>
+            
+	    
+            <dc:creator>Zweifel, Roman</dc:creator>
+            
+	    
+            <dc:creator>Sass-Klaassen, Ute G. W.</dc:creator>
+            
+	    
+            <dc:creator>Stegehuis, Annemiek I.</dc:creator>
+            
+	    
+            <dc:creator>Smiljanic, Marko</dc:creator>
+            
+	    
+            <dc:creator>Poyatos, Rafael</dc:creator>
+            
+	    
+            <dc:creator>Babst, Flurin</dc:creator>
+            
+	    
+            <dc:creator>Cienciala, Emil</dc:creator>
+            
+	    
+            <dc:creator>Fonti, Patrick</dc:creator>
+            
+	    
+            <dc:creator>Lerink, Bas J. W.</dc:creator>
+            
+	    
+            <dc:creator>Lindner, Marcus</dc:creator>
+            
+	    
+            <dc:creator>Martinez-Vilalta, Jordi</dc:creator>
+            
+	    
+            <dc:creator>Mencuccini, Maurizio</dc:creator>
+            
+	    
+            <dc:creator>Nabuurs, Gert-Jan</dc:creator>
+            
+	    
+            <dc:creator>Maaten, Ernst</dc:creator>
+            
+	    
+            <dc:creator>Arx, Georg</dc:creator>
+            
+	    
+            <dc:creator>Bär, Andreas</dc:creator>
+            
+	    
+            <dc:creator>Akhmetzyanov, Linar</dc:creator>
+            
+	    
+            <dc:creator>Balanzategui, Daniel</dc:creator>
+            
+	    
+            <dc:creator>Bellan, Michal</dc:creator>
+            
+	    
+            <dc:creator>Bendix, Jörg</dc:creator>
+            
+	    
+            <dc:creator>Berveiller, Daniel</dc:creator>
+            
+	    
+            <dc:creator>Blaženec, Miroslav</dc:creator>
+            
+	    
+            <dc:creator>Čada, Vojtěch</dc:creator>
+            
+	    
+            <dc:creator>Carraro, Vinicio</dc:creator>
+            
+	    
+            <dc:creator>Cecchini, Sébastien</dc:creator>
+            
+	    
+            <dc:creator>Chan, Tommy</dc:creator>
+            
+	    
+            <dc:creator>Conedera, Marco</dc:creator>
+            
+	    
+            <dc:creator>Delpierre, Nicolas</dc:creator>
+            
+	    
+            <dc:creator>Delzon, Sylvain</dc:creator>
+            
+	    
+            <dc:creator>Ditmarová, Ľubica</dc:creator>
+            
+	    
+            <dc:creator>Dolezal, Jiri</dc:creator>
+            
+	    
+            <dc:creator>Dufrêne, Eric</dc:creator>
+            
+	    
+            <dc:creator>Edvardsson, Johannes</dc:creator>
+            
+	    
+            <dc:creator>Ehekircher, Stefan</dc:creator>
+            
+	    
+            <dc:creator>Forner, Alicia</dc:creator>
+            
+	    
+            <dc:creator>Frouz, Jan</dc:creator>
+            
+	    
+            <dc:creator>Ganthaler, Andrea</dc:creator>
+            
+	    
+            <dc:creator>Gryc, Vladimír</dc:creator>
+            
+	    
+            <dc:creator>Güney, Aylin</dc:creator>
+            
+	    
+            <dc:creator>Heinrich, Ingo</dc:creator>
+            
+	    
+            <dc:creator>Hentschel, Rainer</dc:creator>
+            
+	    
+            <dc:creator>Janda, Pavel</dc:creator>
+            
+	    
+            <dc:creator>Ježík, Marek</dc:creator>
+            
+	    
+            <dc:creator>Kahle, Hans-Peter</dc:creator>
+            
+	    
+            <dc:creator>Knüsel, Simon</dc:creator>
+            
+	    
+            <dc:creator>Krejza, Jan</dc:creator>
+            
+	    
+            <dc:creator>Kuberski, Łukasz</dc:creator>
+            
+	    
+            <dc:creator>Kučera, Jiří</dc:creator>
+            
+	    
+            <dc:creator>Lebourgeois, François</dc:creator>
+            
+	    
+            <dc:creator>Mikoláš, Martin</dc:creator>
+            
+	    
+            <dc:creator>Matula, Radim</dc:creator>
+            
+	    
+            <dc:creator>Mayr, Stefan</dc:creator>
+            
+	    
+            <dc:creator>Oberhuber, Walter</dc:creator>
+            
+	    
+            <dc:creator>Obojes, Nikolaus</dc:creator>
+            
+	    
+            <dc:creator>Osborne, Bruce</dc:creator>
+            
+	    
+            <dc:creator>Paljakka, Teemu</dc:creator>
+            
+	    
+            <dc:creator>Plichta, Roman</dc:creator>
+            
+	    
+            <dc:creator>Rabbel, Inken</dc:creator>
+            
+	    
+            <dc:creator>Rathgeber, Cyrille B. K.</dc:creator>
+            
+	    
+            <dc:creator>Salmon, Yann</dc:creator>
+            
+	    
+            <dc:creator>Saunders, Matthew</dc:creator>
+            
+	    
+            <dc:creator>Scharnweber, Tobias</dc:creator>
+            
+	    
+            <dc:creator>Sitková, Zuzana</dc:creator>
+            
+	    
+            <dc:creator>Stangler, Dominik Florian</dc:creator>
+            
+	    
+            <dc:creator>Stereńczak, Krzysztof</dc:creator>
+            
+	    
+            <dc:creator>Stojanović, Marko</dc:creator>
+            
+	    
+            <dc:creator>Střelcová, Katarína</dc:creator>
+            
+	    
+            <dc:creator>Světlík, Jan</dc:creator>
+            
+	    
+            <dc:creator>Svoboda, Miroslav</dc:creator>
+            
+	    
+            <dc:creator>Tobin, Brian</dc:creator>
+            
+	    
+            <dc:creator>Trotsiuk, Volodymyr</dc:creator>
+            
+	    
+            <dc:creator>Urban, Josef</dc:creator>
+            
+	    
+            <dc:creator>Valladares, Fernando</dc:creator>
+            
+	    
+            <dc:creator>Vavrčík, Hanuš</dc:creator>
+            
+	    
+            <dc:creator>Vejpustková, Monika</dc:creator>
+            
+	    
+            <dc:creator>Walthert, Lorenz</dc:creator>
+            
+	    
+            <dc:creator>Wilmking, Martin</dc:creator>
+            
+	    
+            <dc:creator>Zin, Ewa</dc:creator>
+            
+	    
+            <dc:creator>Zou, Junliang</dc:creator>
+            
+	    
+            <dc:creator>Steppe, Kathy</dc:creator>
+            
+	    
+            <ns3:publicationName>Nature Communications</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2041-1723</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41467-021-27579-9</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2022-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2022-01-10</ns3:publicationDate>
+            
+	    
+            <ns3:volume>13</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>11</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41467-021-27579-9</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-021-27579-9</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-021-27579-9.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2022 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:p>Forest dynamics are monitored at large scales with remote sensing, but individual tree data are necessary for ground-truthing and mechanistic insights. This study on high temporal resolution dendrometer data across Europe reveals that the 2018 heatwave affected tree physiology and growth in unexpected way.</html:p>
+            <html:h1>Abstract</html:h1>
+            <html:p>Heatwaves exert disproportionately strong and sometimes irreversible impacts on forest ecosystems. These impacts remain poorly understood at the tree and species level and across large spatial scales. Here, we investigate the effects of the record-breaking 2018 European heatwave on tree growth and tree water status using a collection of high-temporal resolution dendrometer data from 21 species across 53 sites. Relative to the two preceding years, annual stem growth was not consistently reduced by the 2018 heatwave but stems experienced twice the temporary shrinkage due to depletion of water reserves. Conifer species were less capable of rehydrating overnight than broadleaves across gradients of soil and atmospheric drought, suggesting less resilience toward transient stress. In particular, Norway spruce and Scots pine experienced extensive stem dehydration. Our high-resolution dendrometer network was suitable to disentangle the effects of a severe heatwave on tree growth and desiccation at large-spatial scales in situ, and provided insights on which species may be more vulnerable to climate extremes.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41467</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2022-01-10</onlineDate>
+        <authors>
+          <author ORCID="0000-0003-2674-1731">Salomón, Roberto L.</author>
+          <author>Peters, Richard L.</author>
+          <author ORCID="0000-0001-9438-0582">Zweifel, Roman</author>
+          <author ORCID="0000-0002-8479-3209">Sass-Klaassen, Ute G. W.</author>
+          <author ORCID="0000-0002-7955-5847">Stegehuis, Annemiek I.</author>
+          <author ORCID="0000-0002-2324-0723">Smiljanic, Marko</author>
+          <author ORCID="0000-0003-0521-2523">Poyatos, Rafael</author>
+          <author>Babst, Flurin</author>
+          <author ORCID="0000-0002-1254-4254">Cienciala, Emil</author>
+          <author ORCID="0000-0002-7070-3292">Fonti, Patrick</author>
+          <author ORCID="0000-0003-3032-8042">Lerink, Bas J. W.</author>
+          <author ORCID="0000-0002-0770-003X">Lindner, Marcus</author>
+          <author ORCID="0000-0002-2332-7298">Martinez-Vilalta, Jordi</author>
+          <author ORCID="0000-0003-0840-1477">Mencuccini, Maurizio</author>
+          <author ORCID="0000-0002-9761-074X">Nabuurs, Gert-Jan</author>
+          <author ORCID="0000-0002-5218-6682">Maaten, Ernst</author>
+          <author ORCID="0000-0002-8566-4599">Arx, Georg</author>
+          <author ORCID="0000-0002-0059-3964">Bär, Andreas</author>
+          <author ORCID="0000-0002-8130-6137">Akhmetzyanov, Linar</author>
+          <author>Balanzategui, Daniel</author>
+          <author ORCID="0000-0001-9602-4629">Bellan, Michal</author>
+          <author>Bendix, Jörg</author>
+          <author>Berveiller, Daniel</author>
+          <author ORCID="0000-0001-9743-614X">Blaženec, Miroslav</author>
+          <author ORCID="0000-0002-3922-2108">Čada, Vojtěch</author>
+          <author>Carraro, Vinicio</author>
+          <author>Cecchini, Sébastien</author>
+          <author ORCID="0000-0002-5700-7209">Chan, Tommy</author>
+          <author ORCID="0000-0003-3980-2142">Conedera, Marco</author>
+          <author ORCID="0000-0003-0906-9402">Delpierre, Nicolas</author>
+          <author ORCID="0000-0003-3442-1711">Delzon, Sylvain</author>
+          <author ORCID="0000-0002-5546-1918">Ditmarová, Ľubica</author>
+          <author>Dolezal, Jiri</author>
+          <author>Dufrêne, Eric</author>
+          <author ORCID="0000-0001-5163-1599">Edvardsson, Johannes</author>
+          <author>Ehekircher, Stefan</author>
+          <author ORCID="0000-0002-7123-6403">Forner, Alicia</author>
+          <author>Frouz, Jan</author>
+          <author ORCID="0000-0002-8670-6199">Ganthaler, Andrea</author>
+          <author ORCID="0000-0001-9632-9625">Gryc, Vladimír</author>
+          <author ORCID="0000-0002-8955-2770">Güney, Aylin</author>
+          <author ORCID="0000-0001-5800-6999">Heinrich, Ingo</author>
+          <author ORCID="0000-0002-1257-885X">Hentschel, Rainer</author>
+          <author>Janda, Pavel</author>
+          <author ORCID="0000-0003-0047-2123">Ježík, Marek</author>
+          <author ORCID="0000-0001-9677-5094">Kahle, Hans-Peter</author>
+          <author ORCID="0000-0001-9985-7650">Knüsel, Simon</author>
+          <author ORCID="0000-0003-2475-2111">Krejza, Jan</author>
+          <author ORCID="0000-0001-9815-9746">Kuberski, Łukasz</author>
+          <author>Kučera, Jiří</author>
+          <author ORCID="0000-0002-2040-6150">Lebourgeois, François</author>
+          <author>Mikoláš, Martin</author>
+          <author ORCID="0000-0002-7460-0100">Matula, Radim</author>
+          <author ORCID="0000-0002-3319-4396">Mayr, Stefan</author>
+          <author ORCID="0000-0002-5197-7044">Oberhuber, Walter</author>
+          <author ORCID="0000-0002-6718-2756">Obojes, Nikolaus</author>
+          <author ORCID="0000-0003-2208-7285">Osborne, Bruce</author>
+          <author ORCID="0000-0002-3674-4904">Paljakka, Teemu</author>
+          <author ORCID="0000-0003-2442-8522">Plichta, Roman</author>
+          <author ORCID="0000-0003-2555-2496">Rabbel, Inken</author>
+          <author ORCID="0000-0001-7359-8320">Rathgeber, Cyrille B. K.</author>
+          <author ORCID="0000-0003-4433-4021">Salmon, Yann</author>
+          <author ORCID="0000-0002-1965-8932">Saunders, Matthew</author>
+          <author ORCID="0000-0002-4933-5296">Scharnweber, Tobias</author>
+          <author ORCID="0000-0001-6354-6105">Sitková, Zuzana</author>
+          <author ORCID="0000-0002-3255-6834">Stangler, Dominik Florian</author>
+          <author ORCID="0000-0002-9556-0144">Stereńczak, Krzysztof</author>
+          <author ORCID="0000-0003-4918-8668">Stojanović, Marko</author>
+          <author ORCID="0000-0001-7284-8244">Střelcová, Katarína</author>
+          <author>Světlík, Jan</author>
+          <author>Svoboda, Miroslav</author>
+          <author ORCID="0000-0001-6697-3858">Tobin, Brian</author>
+          <author>Trotsiuk, Volodymyr</author>
+          <author ORCID="0000-0003-1730-947X">Urban, Josef</author>
+          <author>Valladares, Fernando</author>
+          <author ORCID="0000-0001-9386-9554">Vavrčík, Hanuš</author>
+          <author ORCID="0000-0002-6645-7674">Vejpustková, Monika</author>
+          <author ORCID="0000-0002-1790-8563">Walthert, Lorenz</author>
+          <author ORCID="0000-0003-4964-2402">Wilmking, Martin</author>
+          <author>Zin, Ewa</author>
+          <author ORCID="0000-0001-9635-0686">Zou, Junliang</author>
+          <author ORCID="0000-0001-6252-0704">Steppe, Kathy</author>
+        </authors>
+        <disciplines>
+          <discipline id="2883" term="Humanities and Social Sciences"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Austria</facet-value>
+      <facet-value count="1">Belgium</facet-value>
+      <facet-value count="1">China</facet-value>
+      <facet-value count="1">Czech Republic</facet-value>
+      <facet-value count="1">Finland</facet-value>
+      <facet-value count="1">France</facet-value>
+      <facet-value count="1">Germany</facet-value>
+      <facet-value count="1">Ireland</facet-value>
+      <facet-value count="1">Italy</facet-value>
+      <facet-value count="1">Netherlands</facet-value>
+      <facet-value count="1">Poland</facet-value>
+      <facet-value count="1">Russia</facet-value>
+      <facet-value count="1">Slovakia</facet-value>
+      <facet-value count="1">Spain</facet-value>
+      <facet-value count="1">Sweden</facet-value>
+      <facet-value count="1">Switzerland</facet-value>
+      <facet-value count="1">Turkey</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.691801",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44275-y",
+    "title": "Incidence and transmission of respiratory syncytial virus in urban and rural South Africa, 2017-2018",
+    "article_number": "116",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cheryl Cohen",
+      "Jackie Kleynhans",
+      "Jocelyn Moyes",
+      "Meredith L. McMorrow",
+      "Florette K. Treurnicht",
+      "Orienka Hellferscee",
+      "Nicole Wolter",
+      "Neil A. Martinson",
+      "Kathleen Kahn",
+      "Limakatso Lebina",
+      "Katlego Mothlaoleng",
+      "Floidy Wafawanaka",
+      "Francesc Xavier Gómez-Olivé",
+      "Thulisa Mkhencele",
+      "Azwifarwi Mathunjwa",
+      "Maimuna Carrim",
+      "Angela Mathee",
+      "Stuart Piketh",
+      "Brigitte Language",
+      "Anne von Gottberg",
+      "Stefano Tempia"
+    ]
+  },
+  "article_index": 165,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:06:38.360833"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T19:06:39.912159"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:06:41.159569"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:16:21.745538"
+    },
+    "last_updated": "2025-10-03T23:16:21.745584"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:48:58.824716",
+  "year": 2011,
+  "article_type": "comparison",
+  "publication_date": "2011-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-11-4",
+    "title": "Prevalence of the metabolic syndrome in Luxembourg according to the Joint Interim Statement definition estimated from the ORISCAV-LUX study",
+    "article_number": "4",
+    "publication_date": "2011-01-04",
+    "volume": "11",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ala'a Alkerwi",
+      "Anne-Françoise Donneau",
+      "Nicolas Sauvageot",
+      "Marie-Lise Lair",
+      "André Scheen",
+      "Adelin Albert",
+      "Michèle Guillaume"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T12:42:57.584071"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T12:42:59.101701"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T12:43:00.394098"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T20:56:41.829732"
+    },
+    "last_updated": "2025-10-03T20:56:41.829923"
+  }
+}

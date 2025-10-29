@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:06.673813",
+  "year": 2012,
+  "article_type": "comparison",
+  "publication_date": "2012-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-12-2",
+    "title": "A systematic review of economic evaluations of interventions to tackle cardiovascular disease in low- and middle-income countries",
+    "article_number": "2",
+    "publication_date": "2012-01-03",
+    "volume": "12",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Marc Suhrcke",
+      "Till A Boluarte",
+      "Louis Niessen"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T12:44:43.366905"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T12:44:44.928184"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T12:44:46.222901"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T20:57:19.450740"
+    },
+    "last_updated": "2025-10-03T20:57:19.450786"
+  }
+}

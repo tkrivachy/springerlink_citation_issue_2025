@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.881280",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03970-w",
+    "title": "Study of risk factors for healthcare-associated infections in acute cardiac patients using categorical principal component analysis (CATPCA)",
+    "article_number": "28",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Emilio Renes Carreño",
+      "Almudena Escribá Bárcena",
+      "Mercedes Catalán González",
+      "Francisco Álvarez Lerma",
+      "Mercedes Palomar Martínez",
+      "Xavier Nuvials Casals",
+      "Felisa Jaén Herreros",
+      "Juan Carlos Montejo González"
+    ]
+  },
+  "article_index": 227,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:27:10.790670"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:27:12.366238"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:27:13.532347"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:58:41.830970"
+    },
+    "last_updated": "2025-10-03T21:58:41.831069"
+  }
+}

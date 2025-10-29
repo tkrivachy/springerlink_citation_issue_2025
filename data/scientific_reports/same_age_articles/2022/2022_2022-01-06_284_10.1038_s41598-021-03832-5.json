@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.887094",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03832-5",
+    "title": "Enhanced glucose metabolism through activation of HIF-1α covers the energy demand in a rat embryonic heart primordium after heartbeat initiation",
+    "article_number": "74",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Tatsuya Sato",
+      "Nobutoshi Ichise",
+      "Takeshi Kobayashi",
+      "Hiroyori Fusagawa",
+      "Hiroya Yamazaki",
+      "Taiki Kudo",
+      "Noritsugu Tohse"
+    ]
+  },
+  "article_index": 284,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:06:04.305568"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:06:05.867432"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:06:07.117354"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:49:46.899903"
+    },
+    "last_updated": "2025-10-03T21:49:46.899990"
+  }
+}

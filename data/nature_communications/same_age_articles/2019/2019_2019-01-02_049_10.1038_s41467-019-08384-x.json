@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682318",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08384-x",
+    "title": "Remodeling of secretory lysosomes during education tunes functional potential in NK cells",
+    "article_number": "514",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jodie P. Goodridge",
+      "Benedikt Jacobs",
+      "Michelle L. Saetersmoen",
+      "Dennis Clement",
+      "Quirin Hammer",
+      "Trevor Clancy",
+      "Ellen Skarpen",
+      "Andreas Brech",
+      "Johannes Landskron",
+      "Christian Grimm",
+      "Aline Pfefferle",
+      "Leonardo Meza-Zepeda",
+      "Susanne Lorenz",
+      "Merete Thune Wiiger",
+      "William E. Louch",
+      "Eivind Heggernes Ask",
+      "Lisa L. Liu",
+      "Vincent Yi Sheng Oei",
+      "Una Kjällquist",
+      "Sten Linnarsson",
+      "Sandip Patel",
+      "Kjetil Taskén",
+      "Harald Stenmark",
+      "Karl-Johan Malmberg"
+    ]
+  },
+  "article_index": 49,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:37:31.579455"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T17:37:33.114349"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T17:37:34.508440"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T22:46:09.378254"
+    },
+    "last_updated": "2025-10-03T22:46:09.378304"
+  }
+}

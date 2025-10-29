@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.205684",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20301-1",
+    "title": "Bariatric surgery induces a new gastric mucosa phenotype with increased functional glucagon-like peptide-1 expressing cells",
+    "article_number": "110",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lara Ribeiro-Parenti",
+      "Anne-Charlotte Jarry",
+      "Jean-Baptiste Cavin",
+      "Alexandra Willemetz",
+      "Johanne Le Beyec",
+      "Aurélie Sannier",
+      "Samira Benadda",
+      "Anne-Laure Pelletier",
+      "Muriel Hourseau",
+      "Thibaut Léger",
+      "Bastien Morlet",
+      "Anne Couvelard",
+      "Younes Anini",
+      "Simon Msika",
+      "Jean-Pierre Marmuse",
+      "Sévérine Ledoux",
+      "Maude Le Gall",
+      "André Bado"
+    ]
+  },
+  "article_index": 206,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:31:15.937260"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:31:17.499868"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:31:18.788939"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T23:04:28.014610"
+    },
+    "last_updated": "2025-10-03T23:04:28.014671"
+  }
+}

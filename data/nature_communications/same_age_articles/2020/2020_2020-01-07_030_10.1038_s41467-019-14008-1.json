@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880115",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14008-1",
+    "title": "Cardiac muscle thin filament structures reveal calcium regulatory mechanism",
+    "article_number": "153",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yurika Yamada",
+      "Keiichi Namba",
+      "Takashi Fujii"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 175,
+      "retrieved_at": "2025-10-03T18:14:48.028939"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 191,
+      "retrieved_at": "2025-10-03T18:14:49.559880"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 175,
+      "retrieved_at": "2025-10-03T18:14:50.754103"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 202,
+      "retrieved_at": "2025-10-03T22:58:40.877721"
+    },
+    "last_updated": "2025-10-03T22:58:40.877911"
+  }
+}

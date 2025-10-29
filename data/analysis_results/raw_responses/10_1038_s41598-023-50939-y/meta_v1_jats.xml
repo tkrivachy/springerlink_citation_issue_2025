@@ -1,0 +1,240 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-50939-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-023-50939-y</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">
+              BAF45D-binding to 
+              <italic>HOX</italic>
+               genes was differentially targeted in H9-derived spinal cord neural stem cells
+            </article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Chang</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Xie</surname>
+                <given-names>Yuxin</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Chen</surname>
+                <given-names>Xueying</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Lihua</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Chao</given-names>
+              </name>
+              <address>
+                <email>chaol1974@ahmu.edu.cn</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Yin</surname>
+                <given-names>Zongsheng</given-names>
+              </name>
+              <address>
+                <email>yinzongsheng@sina.com</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2024</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2024</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>1</issue>
+          <elocation-id>29</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-023-50939-y</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-023-50939-y.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Chromatin accessibility has been used to define how cells adopt region-specific neural fates. BAF45D is one of the subunits of a specialised chromatin remodelling BAF complex. It has been reported that BAF45D is expressed in spinal cord neural stem cells (NSCs) and regulates their fate specification. Within the developing vertebrate spinal cord, 
+              <italic>HOX</italic>
+               genes exhibit spatially restricted expression patterns. However, the chromatin accessibility of BAF45D binding 
+              <italic>HOX</italic>
+               genes in spinal cord NSCs is unclear. In the present study, we found that in H9-derived spinal cord NSCs, BAF45D targets 
+              <italic>TBX6</italic>
+              , a gene that regulates spinal cord neural mesodermal progenitors. Furthermore, BAF45D binding to the 
+              <italic>NES</italic>
+               gene is much more enriched in H9-derived spinal cord NSCs chromatin compared to ESCs chromatin. In addition, BAF45D binding to anterior and trunk/central 
+              <italic>HOX</italic>
+               genes, but not to lumbosacral 
+              <italic>HOX</italic>
+               genes, was much more enriched in NSCs chromatin compared to ESCs chromatin. These results may shed new light on the role of BAF45D in regulating region-specific spinal cord NSCs by targeting 
+              <italic>HOX</italic>
+               genes.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Genomics</kwd>
+            <kwd>Molecular Target Identification</kwd>
+            <kwd>Developmental Biology and Stem Cells</kwd>
+            <kwd>Protein Folding</kwd>
+            <kwd>Toxicology</kwd>
+            <kwd>Proteins</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1109">Neurosciences</kwd>
+              </nested-kwd>
+            </nested-kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="06">Biological Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0604">Genetics</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Research project of Anhui Provincial Institute of Translational Medicine</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2021zhyx-C19</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chang</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chao</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Natural Science Foundation of Anhui Province</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2008085MH251</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chao</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Key Research and Development Project of Anhui Province</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">202004J07020037</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chao</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.839857",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50402-y",
+    "title": "Suberin, the hallmark constituent of bark, identified in a 45-million-year-old monkeyhair tree (",
+    "article_number": "118",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mariam Tahoun",
+      "Carole T. Gee",
+      "Victoria E. McCoy",
+      "Michael Stoneman",
+      "Valerica Raicu",
+      "Marianne Engeser",
+      "Christa E. Müller"
+    ]
+  },
+  "article_index": 127,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:40:54.670266"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:40:56.202505"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:40:57.441860"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:04:09.652841"
+    },
+    "last_updated": "2025-10-03T22:04:09.652942"
+  }
+}

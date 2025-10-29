@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.245591",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79613-3",
+    "title": "Environmentally favorable magnesium phosphate anti-corrosive coating on carbon steel and protective mechanisms",
+    "article_number": "197",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Siyi Yin",
+      "Haiyan Yang",
+      "Yinghao Dong",
+      "Chengju Qu",
+      "Jinghui Liu",
+      "Tailin Guo",
+      "Ke Duan"
+    ]
+  },
+  "article_index": 234,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:47:01.388450"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:47:02.966573"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:47:04.165286"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:42:13.566405"
+    },
+    "last_updated": "2025-10-03T21:42:13.566598"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.535106",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55488-0",
+    "title": "Nucleophilic addition of bulk chemicals with imines using N-functionalized hydroxylamine reagents as precursors",
+    "article_number": "168",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wei Wang",
+      "Yuanyuan Peng",
+      "Yang Liu",
+      "Yanchun Lin",
+      "Fei Zhao",
+      "Qinlin Chen",
+      "Liangming Xuan",
+      "Qiongjiao Yan",
+      "Fen-Er Chen",
+      "Hui Zhou"
+    ]
+  },
+  "article_index": 160,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:49.257196"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:50.764460"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:51.920485"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:20:27.000653"
+    },
+    "last_updated": "2025-10-03T23:20:27.000839"
+  }
+}

@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-84388-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-024-84388-y</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Evidence of eared doves consumption and the potential toxic exposure during the Regional Development period in Quito-Ecuador</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Ordoñez-Araque</surname>
+                <given-names>Roberto</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Mosquera</surname>
+                <given-names>Andrés</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Román-Carrión</surname>
+                <given-names>José Luis</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Vargas-Jentzsch</surname>
+                <given-names>Paul</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Ramos-Guerrero</surname>
+                <given-names>Luis</given-names>
+              </name>
+              <address>
+                <email>luis.ramos.guerrero@udla.edu.ec</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Rivera-Parra</surname>
+                <given-names>José Luis</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Romero-Bastidas</surname>
+                <given-names>Martha</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Montalvo-Puente</surname>
+                <given-names>Carlos</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Ruales</surname>
+                <given-names>Jenny</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue>1</issue>
+          <elocation-id>554</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-024-84388-y</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-024-84388-y.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Throughout history, food has played a fundamental role in the development of societies. An understanding of the diets of different cultures and their impact on health can provide valuable insights into their lifestyle. The identification of the animal remains found within two vessels is reported and, in addition, an assessment of whether the diet and soil composition of the period may be associated with toxic elements was carried out. The animal bones retrieved from the settlement, which dated from 25 to 203 cal AD, were identified as belonging to 
+              <italic>Zenaida cf. auriculata</italic>
+              , commonly known as eared dove. Ancient starch was discovered in the sediments inside the vessels. These sediments, along with the pre-Hispanic soil collected in the study zone, showed moderate pollution, suggesting potential environmental contamination. For the first time, evidence that eared doves were part of the diet of the ancient inhabitants of Quito is presented, as shown by the occurrence of their bones within food processing utensils. Furthermore, the study highlights the possibility of environmental contamination due to volcanic eruptions that occurred during the Regional Development period from 500 BC to AD 500. These results can contribute to a better understanding of the living conditions of the early inhabitants of Quito and similar regions.
+            </p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Pre-hispanic diet of Quito</kwd>
+            <kwd>Diet in the Andes</kwd>
+            <kwd>Volcanic eruptions</kwd>
+            <kwd>Food with contaminants</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Environmental Archaeology</kwd>
+            <kwd>Ecotoxicology</kwd>
+            <kwd>Environmental Anthropology</kwd>
+            <kwd>Environmental History</kwd>
+            <kwd>Prehistoric Archaeology</kwd>
+            <kwd>Paleontology</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="04">Earth Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0403">Geology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="21">History and Archaeology</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="2101">Archaeology</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

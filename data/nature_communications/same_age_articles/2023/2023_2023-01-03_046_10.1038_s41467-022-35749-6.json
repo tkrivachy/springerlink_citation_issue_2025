@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.642144",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35749-6",
+    "title": "Inhibition of histone methyltransferase Smyd3 rescues NMDAR and cognitive deficits in a tauopathy mouse model",
+    "article_number": "91",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jamal B. Williams",
+      "Qing Cao",
+      "Wei Wang",
+      "Young-Ho Lee",
+      "Luye Qin",
+      "Ping Zhong",
+      "Yong Ren",
+      "Kaijie Ma",
+      "Zhen Yan"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:48:33.052679"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:48:34.577397"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:48:35.836350"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:10:09.181889"
+    },
+    "last_updated": "2025-10-03T23:10:09.182079"
+  }
+}

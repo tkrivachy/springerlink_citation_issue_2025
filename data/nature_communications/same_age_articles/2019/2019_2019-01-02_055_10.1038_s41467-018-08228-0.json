@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682950",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08228-0",
+    "title": "High-fat diet disturbs lipid raft/TGF-β signaling-mediated maintenance of hematopoietic stem cells in mouse bone marrow",
+    "article_number": "523",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "François Hermetet",
+      "Anne Buffière",
+      "Aziza Aznague",
+      "Jean-Paul Pais de Barros",
+      "Jean-Noël Bastie",
+      "Laurent Delva",
+      "Ronan Quéré"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:47:31.672679"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T17:47:33.233450"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T17:47:34.630246"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T22:49:25.273291"
+    },
+    "last_updated": "2025-10-03T22:49:25.273523"
+  }
+}

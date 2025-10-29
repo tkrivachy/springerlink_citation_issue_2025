@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.513663",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-3",
+    "title": "Assessment of the infectious diseases surveillance system of the Republic of Armenia: an example of surveillance in the Republics of the former Soviet Union",
+    "article_number": "3",
+    "publication_date": "2002-02-26",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tadesse Wuhib",
+      "Terence L Chorba",
+      "Vladimir Davidiants",
+      "William R Mac Kenzie",
+      "Scott JN McNabb"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T11:53:11.817450"
+    },
+    "last_updated": "2025-10-03T20:41:18.763937",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T12:01:26.742907"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T12:01:28.044280"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T20:41:18.763876"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.341834",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84653-0",
+    "title": "Efficacy and safety of propranolol tablets vs. oral solution in neonates with severe infantile hemangiomas: a retrospective study in China",
+    "article_number": "459",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhiping Wu",
+      "Yun Zou",
+      "Hua Yuan",
+      "Ronghua Fu",
+      "Pingliang Jin"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:49:25.390100"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:49:26.938967"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:49:28.136385"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:29:12.501519"
+    },
+    "last_updated": "2025-10-03T22:29:12.501707"
+  }
+}

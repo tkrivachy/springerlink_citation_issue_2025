@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.241257",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79765-2",
+    "title": "Qualitative speed-accuracy tradeoff effects that cannot be explained by the diffusion model under the selective influence assumption",
+    "article_number": "45",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Farshad Rafiei",
+      "Dobromir Rahnev"
+    ]
+  },
+  "article_index": 217,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:47:46.615565"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:47:48.155244"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:47:49.333083"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:42:36.614712"
+    },
+    "last_updated": "2025-10-03T21:42:36.614763"
+  }
+}

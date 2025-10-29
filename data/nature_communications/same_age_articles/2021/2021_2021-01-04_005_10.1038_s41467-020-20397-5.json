@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.173096",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20397-5",
+    "title": "Enhancing carbon dioxide gas-diffusion electrolysis by creating a hydrophobic catalyst microenvironment",
+    "article_number": "136",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhuo Xing",
+      "Lin Hu",
+      "Donald S. Ripatti",
+      "Xun Hu",
+      "Xiaofeng Feng"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:43:45.555097"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 523,
+      "retrieved_at": "2025-10-03T18:43:47.084310"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 418,
+      "retrieved_at": "2025-10-03T18:43:48.739421"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 529,
+      "retrieved_at": "2025-10-03T23:08:35.226966"
+    },
+    "last_updated": "2025-10-03T23:08:35.227507"
+  }
+}

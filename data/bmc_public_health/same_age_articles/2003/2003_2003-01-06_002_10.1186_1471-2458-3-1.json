@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.850046",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-1",
+    "title": "Hypertension in the Parsi community of Bombay: a study on prevalence, awareness and compliance to treatment",
+    "article_number": "1",
+    "publication_date": "2003-01-06",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Nadir E Bharucha",
+      "Thomas Kuruvilla"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:06:02.880275"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T12:06:04.432392"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T12:06:05.739129"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T20:43:14.161687"
+    },
+    "last_updated": "2025-10-03T20:43:14.161758"
+  }
+}

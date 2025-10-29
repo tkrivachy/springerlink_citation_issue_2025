@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704456",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08276-6",
+    "title": "A selective inhibitor of mitofusin 1-βIIPKC association improves heart failure outcome in rats",
+    "article_number": "329",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Julio C. B. Ferreira",
+      "Juliane C. Campos",
+      "Nir Qvit",
+      "Xin Qi",
+      "Luiz H. M. Bozi",
+      "Luiz R. G. Bechara",
+      "Vanessa M. Lima",
+      "Bruno B. Queliconi",
+      "Marie-Helene Disatnik",
+      "Paulo M. M. Dourado",
+      "Alicia J. Kowaltowski",
+      "Daria Mochly-Rosen"
+    ]
+  },
+  "article_index": 251,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T18:02:17.330163"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T18:02:18.873114"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T18:02:20.255440"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T22:54:36.041944"
+    },
+    "last_updated": "2025-10-03T22:54:36.042136"
+  }
+}

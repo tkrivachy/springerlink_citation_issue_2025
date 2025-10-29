@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.644071",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35675-7",
+    "title": "Improving cassava bacterial blight resistance by editing the epigenome",
+    "article_number": "85",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kira M. Veley",
+      "Kiona Elliott",
+      "Greg Jensen",
+      "Zhenhui Zhong",
+      "Suhua Feng",
+      "Marisa Yoder",
+      "Kerrigan B. Gilbert",
+      "Jeffrey C. Berry",
+      "Zuh-Jyh Daniel Lin",
+      "Basudev Ghoshal",
+      "Javier Gallego-Bartolomé",
+      "Joanna Norton",
+      "Sharon Motomura-Wages",
+      "James C. Carrington",
+      "Steven E. Jacobsen",
+      "Rebecca S. Bart"
+    ]
+  },
+  "article_index": 64,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:45:55.083888"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:45:56.656427"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T18:45:57.838694"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T23:09:18.213753"
+    },
+    "last_updated": "2025-10-03T23:09:18.213953"
+  }
+}

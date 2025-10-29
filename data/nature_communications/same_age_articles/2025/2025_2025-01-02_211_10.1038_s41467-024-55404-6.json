@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540579",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55404-6",
+    "title": "Counterintuitive DNA destabilization by monovalent salt at high concentrations due to overcharging",
+    "article_number": "113",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chen Zhang",
+      "Fu-Jia Tian",
+      "Hong-Wei Zuo",
+      "Qi-Yuan Qiu",
+      "Jia-Hao Zhang",
+      "Wei Wei",
+      "Zhi-Jie Tan",
+      "Yan Zhang",
+      "Wen-Qiang Wu",
+      "Liang Dai",
+      "Xing-Hua Zhang"
+    ]
+  },
+  "article_index": 211,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:41:03.225948"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:41:04.787949"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:41:05.969025"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:27:52.147832"
+    },
+    "last_updated": "2025-10-03T23:27:52.148017"
+  }
+}

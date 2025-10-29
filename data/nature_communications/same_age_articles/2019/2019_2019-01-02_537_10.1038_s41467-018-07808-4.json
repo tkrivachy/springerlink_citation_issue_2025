@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.735525",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07808-4",
+    "title": "Holographic colour prints for enhanced optical security by combined phase and amplitude control",
+    "article_number": "25",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kevin T. P. Lim",
+      "Hailong Liu",
+      "Yejing Liu",
+      "Joel K. W. Yang"
+    ]
+  },
+  "article_index": 537,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T17:41:00.346391"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 286,
+      "retrieved_at": "2025-10-03T17:41:01.903819"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 255,
+      "retrieved_at": "2025-10-03T17:41:03.067571"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 297,
+      "retrieved_at": "2025-10-03T22:47:10.367799"
+    },
+    "last_updated": "2025-10-03T22:47:10.367992"
+  }
+}

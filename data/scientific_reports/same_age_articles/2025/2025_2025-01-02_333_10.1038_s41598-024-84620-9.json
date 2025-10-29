@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.384524",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84620-9",
+    "title": "Expression pattern of cancer-associated cellular senescence genes in clear cell renal cell carcinoma distinguishes tumor subclasses with clinical implications",
+    "article_number": "442",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhongxu Zhu",
+      "Qi Cao",
+      "Jingyue Chen",
+      "Yiyang Sun",
+      "Fang Liu",
+      "Jiang Li",
+      "Miaomiao Tan"
+    ]
+  },
+  "article_index": 333,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:37:47.259107"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:37:48.790651"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:37:49.969128"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:25:01.137694"
+    },
+    "last_updated": "2025-10-03T22:25:01.137776"
+  }
+}

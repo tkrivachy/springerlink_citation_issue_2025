@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.182550",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20398-4",
+    "title": "Dynamics of cascades on burstiness-controlled temporal networks",
+    "article_number": "133",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Samuel Unicomb",
+      "Gerardo Iñiguez",
+      "James P. Gleeson",
+      "Márton Karsai"
+    ]
+  },
+  "article_index": 53,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:29:49.286005"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:29:50.791274"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:29:52.037451"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T23:03:59.930708"
+    },
+    "last_updated": "2025-10-03T23:03:59.930902"
+  }
+}

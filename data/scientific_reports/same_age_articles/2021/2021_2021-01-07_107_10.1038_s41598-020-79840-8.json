@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.217101",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79840-8",
+    "title": "Fractional anisotropy thresholding for deterministic tractography of the roots of the brachial plexus",
+    "article_number": "80",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ryckie G. Wade",
+      "Irvin Teh",
+      "Gustav Andersson",
+      "Fang-Cheng Yeh",
+      "Mikael Wiberg",
+      "Grainne Bourke"
+    ]
+  },
+  "article_index": 107,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:35:10.095873"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:35:11.644346"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:35:12.900237"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:37:29.505412"
+    },
+    "last_updated": "2025-10-03T21:37:29.505488"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.532369",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55401-9",
+    "title": "Cell-free biodegradable electroactive scaffold for urinary bladder tissue regeneration",
+    "article_number": "11",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rebecca L. Keate",
+      "Matthew I. Bury",
+      "Maria Mendez-Santos",
+      "Andres Gerena",
+      "Madeleine Goedegebuure",
+      "Jonathan Rivnay",
+      "Arun K. Sharma",
+      "Guillermo A. Ameer"
+    ]
+  },
+  "article_index": 139,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:45:42.985993"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:45:44.496994"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:45:45.705978"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:29:35.418530"
+    },
+    "last_updated": "2025-10-03T23:29:35.418729"
+  }
+}

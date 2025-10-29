@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.557866",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55412-6",
+    "title": "Interface-engineered non-volatile visible-blind photodetector for in-sensor computing",
+    "article_number": "57",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ge Li",
+      "Donggang Xie",
+      "Qinghua Zhang",
+      "Mingzhen Zhang",
+      "Zhuohui Liu",
+      "Zheng Wang",
+      "Jiahui Xie",
+      "Erjia Guo",
+      "Meng He",
+      "Can Wang",
+      "Lin Gu",
+      "Guozhen Yang",
+      "Kuijuan Jin",
+      "Chen Ge"
+    ]
+  },
+  "article_index": 293,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:32:22.982744"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:32:24.547928"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:25.686026"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:24:47.745550"
+    },
+    "last_updated": "2025-10-03T23:24:47.745638"
+  }
+}

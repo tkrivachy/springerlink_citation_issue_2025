@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.648078",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-09975-w",
+    "title": "Relationship between the duration of smoking and blood pressure in Han and ethnic minority populations: a cross-sectional study in China",
+    "article_number": "135",
+    "publication_date": "2021-01-14",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yuelun Zhang",
+      "Yunying Feng",
+      "Shi Chen",
+      "Siyu Liang",
+      "Shirui Wang",
+      "Ke Xu",
+      "Dongping Ning",
+      "Xianxian Yuan",
+      "Huijuan Zhu",
+      "Hui Pan",
+      "Guangliang Shan"
+    ]
+  },
+  "article_index": 151,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:47:33.473279"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:47:35.036421"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:47:36.298843"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:20:08.131030"
+    },
+    "last_updated": "2025-10-03T21:20:08.131217"
+  }
+}

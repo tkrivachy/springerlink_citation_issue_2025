@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.885612",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13901-z",
+    "title": "Clinically accurate diagnosis of Alzheimer’s disease via multiplexed sensing of core biomarkers in human plasma",
+    "article_number": "119",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kayoung Kim",
+      "Min-Ji Kim",
+      "Da Won Kim",
+      "Su Yeong Kim",
+      "Steve Park",
+      "Chan Beum Park"
+    ]
+  },
+  "article_index": 75,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 190,
+      "retrieved_at": "2025-10-03T18:09:22.202308"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T18:09:23.774466"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 165,
+      "retrieved_at": "2025-10-03T18:09:24.984080"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 218,
+      "retrieved_at": "2025-10-03T22:56:58.098426"
+    },
+    "last_updated": "2025-10-03T22:56:58.098472"
+  }
+}

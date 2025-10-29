@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.217211",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80449-0",
+    "title": "Phenol-rich fulvic acid as a water additive enhances growth, reduces stress, and stimulates the immune system of fish in aquaculture",
+    "article_number": "174",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Thora Lieke",
+      "Christian E. W. Steinberg",
+      "Bo Pan",
+      "Irina V. Perminova",
+      "Thomas Meinelt",
+      "Klaus Knopf",
+      "Werner Kloas"
+    ]
+  },
+  "article_index": 108,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:43:48.508652"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T14:43:50.064378"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T14:43:51.374676"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T21:40:59.889333"
+    },
+    "last_updated": "2025-10-03T21:40:59.889382"
+  }
+}

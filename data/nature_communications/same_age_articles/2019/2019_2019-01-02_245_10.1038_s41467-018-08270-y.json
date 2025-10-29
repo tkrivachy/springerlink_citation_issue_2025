@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.703843",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08270-y",
+    "title": "Biological relevance of computationally predicted pathogenicity of noncoding variants",
+    "article_number": "330",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Li Liu",
+      "Maxwell D. Sanderford",
+      "Ravi Patel",
+      "Pramod Chandrashekar",
+      "Greg Gibson",
+      "Sudhir Kumar"
+    ]
+  },
+  "article_index": 245,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T17:26:48.974612"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T17:26:50.509162"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:26:51.851160"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:42:26.637849"
+    },
+    "last_updated": "2025-10-03T22:42:26.637949"
+  }
+}

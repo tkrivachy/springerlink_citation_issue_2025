@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.884260",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03716-8",
+    "title": "Baseline predictors for subretinal fibrosis in neovascular age-related macular degeneration",
+    "article_number": "88",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Philipp K. Roberts",
+      "Markus Schranz",
+      "Alice Motschi",
+      "Sylvia Desissaire",
+      "Valentin Hacker",
+      "Michael Pircher",
+      "Stefan Sacu",
+      "Wolf Buehl",
+      "Christoph K. Hitzenberger",
+      "Ursula M. Schmidt-Erfurth"
+    ]
+  },
+  "article_index": 256,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:02:28.591820"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:02:30.141030"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:02:31.287375"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:48:20.097192"
+    },
+    "last_updated": "2025-10-03T21:48:20.097242"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.429755",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3989-6",
+    "title": "Computerized alcohol screening identified more at-risk drinkers in a level 2 than a level 1 trauma center",
+    "article_number": "32",
+    "publication_date": "2017-01-06",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ghasem Imani",
+      "Cristobal Barrios",
+      "Craig L. Anderson",
+      "Maryam Hosseini Farahabadi",
+      "Faried Banimahd",
+      "Bharath Chakravarthy",
+      "Wirachin Hoonpongsimanont",
+      "Christopher E. McCoy",
+      "Georginne Mercado",
+      "Babak Farivar",
+      "Jacqueline K. Pham",
+      "Shahram Lotfipour"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T13:21:28.458892"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T13:21:30.079001"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:21:31.412595"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:10:43.246069"
+    },
+    "last_updated": "2025-10-03T21:10:43.246238"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652988",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35617-3",
+    "title": "Surface-redox sodium-ion storage in anatase titanium oxide",
+    "article_number": "7",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qiulong Wei",
+      "Xiaoqing Chang",
+      "Danielle Butts",
+      "Ryan DeBlock",
+      "Kun Lan",
+      "Junbin Li",
+      "Dongliang Chao",
+      "Dong-Liang Peng",
+      "Bruce Dunn"
+    ]
+  },
+  "article_index": 105,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 109,
+      "retrieved_at": "2025-10-03T18:55:30.975012"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T18:55:32.519873"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T18:55:33.916674"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 134,
+      "retrieved_at": "2025-10-03T23:12:31.730499"
+    },
+    "last_updated": "2025-10-03T23:12:31.730692"
+  }
+}

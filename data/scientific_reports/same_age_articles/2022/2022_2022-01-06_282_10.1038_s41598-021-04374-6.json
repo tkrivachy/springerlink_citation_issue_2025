@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.886902",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04374-6",
+    "title": "Population-based survival for cancer patients in Saudi Arabia for the years 2005–2009",
+    "article_number": "235",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mohamed Aseafan",
+      "Edward Devol",
+      "Mahmoud AlAhwal",
+      "Riad Souissi",
+      "Reham Sindi",
+      "Haya AlEid",
+      "Shouki Bazarbashi"
+    ]
+  },
+  "article_index": 282,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:18:06.071776"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:18:07.579311"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:18:08.752338"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:55:06.956569"
+    },
+    "last_updated": "2025-10-03T21:55:06.956656"
+  }
+}

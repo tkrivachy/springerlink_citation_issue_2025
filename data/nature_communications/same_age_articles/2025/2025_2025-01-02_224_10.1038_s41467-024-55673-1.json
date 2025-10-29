@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.542090",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55673-1",
+    "title": "Structural basis for catalysis and selectivity of phospholipid synthesis by eukaryotic choline-phosphotransferase",
+    "article_number": "111",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jacquelyn R. Roberts",
+      "Yasuhiro Horibata",
+      "Frank E. Kwarcinski",
+      "Vinson Lam",
+      "Ashleigh M. Raczkowski",
+      "Akane Hubbard",
+      "Betsy White",
+      "Hiroyuki Sugimoto",
+      "Gregory G. Tall",
+      "Melanie D. Ohi",
+      "Shoji Maeda"
+    ]
+  },
+  "article_index": 224,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:18:27.335723"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:18:28.857270"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:30.005913"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:20:20.683836"
+    },
+    "last_updated": "2025-10-03T23:20:20.684027"
+  }
+}

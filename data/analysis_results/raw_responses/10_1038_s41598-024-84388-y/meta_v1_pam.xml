@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-84388-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-024-84388-y</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41598-024-84388-y</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41598-024-84388-y.pdf</ns2:url>
+          <dc:title>Evidence of eared doves consumption and the potential toxic exposure during the Regional Development period in Quito-Ecuador</dc:title>
+          <dc:creator>Ordoñez-Araque, Roberto</dc:creator>
+          <dc:creator>Mosquera, Andrés</dc:creator>
+          <dc:creator>Román-Carrión, José Luis</dc:creator>
+          <dc:creator>Vargas-Jentzsch, Paul</dc:creator>
+          <dc:creator>Ramos-Guerrero, Luis</dc:creator>
+          <dc:creator>Rivera-Parra, José Luis</dc:creator>
+          <dc:creator>Romero-Bastidas, Martha</dc:creator>
+          <dc:creator>Montalvo-Puente, Carlos</dc:creator>
+          <dc:creator>Ruales, Jenny</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2045-2322</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:volume>15</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>15</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2025-01-02</onlineDate>
+          <ns2:coverDate>2025-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41598-024-84388-y</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2025-01-02</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-024-84388-y</ns2:url>
+          <ns2:copyright>©2024 The Author(s)</ns2:copyright>
+          <ns2:keyword>Pre-hispanic diet of Quito</ns2:keyword>
+          <ns2:keyword>Diet in the Andes</ns2:keyword>
+          <ns2:keyword>Volcanic eruptions</ns2:keyword>
+          <ns2:keyword>Food with contaminants</ns2:keyword>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Throughout history, food has played a fundamental role in the development of societies. An understanding of the diets of different cultures and their impact on health can provide valuable insights into their lifestyle. The identification of the animal remains found within two vessels is reported and, in addition, an assessment of whether the diet and soil composition of the period may be associated with toxic elements was carried out. The animal bones retrieved from the settlement, which dated from 25 to 203 cal AD, were identified as belonging to Zenaida cf. auriculata , commonly known as eared dove. Ancient starch was discovered in the sediments inside the vessels. These sediments, along with the pre-Hispanic soil collected in the study zone, showed moderate pollution, suggesting potential environmental contamination. For the first time, evidence that eared doves were part of the diet of the ancient inhabitants of Quito is presented, as shown by the occurrence of their bones within food processing utensils. Furthermore, the study highlights the possibility of environmental contamination due to volcanic eruptions that occurred during the Regional Development period from 500 BC to AD 500. These results can contribute to a better understanding of the living conditions of the early inhabitants of Quito and similar regions.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Diet in the Andes</facet-value>
+      <facet-value count="1">Food with contaminants</facet-value>
+      <facet-value count="1">Pre-hispanic diet of Quito</facet-value>
+      <facet-value count="1">Volcanic eruptions</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2025</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Ecuador</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

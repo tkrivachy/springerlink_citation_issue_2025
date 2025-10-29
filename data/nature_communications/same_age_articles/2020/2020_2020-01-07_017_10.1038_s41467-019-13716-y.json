@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.878518",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13716-y",
+    "title": "Author Correction: Split intein-mediated selection of cells containing two plasmids using a single antibiotic",
+    "article_number": "276",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Navaneethan Palanisamy",
+      "Anna Degen",
+      "Anna Morath",
+      "Jara Ballestin Ballestin",
+      "Claudia Juraske",
+      "Mehmet Ali Öztürk",
+      "Georg A. Sprenger",
+      "Jung-Won Youn",
+      "Wolfgang W. Schamel",
+      "Barbara Di Ventura"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:21:26.086361"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:21:27.628190"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:21:28.837625"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:01:01.393258"
+    },
+    "last_updated": "2025-10-03T23:01:01.393485"
+  }
+}

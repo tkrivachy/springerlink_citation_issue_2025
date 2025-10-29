@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.377485",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84044-5",
+    "title": "AI-based visualization of loose connective tissue as a dissectable layer in gastrointestinal surgery",
+    "article_number": "152",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuta Kumazu",
+      "Nao Kobayashi",
+      "Seigo Senya",
+      "Yuya Negishi",
+      "Kazuya Kinoshita",
+      "Yudai Fukui",
+      "Kazuhito Mita",
+      "Tomohiko Osaragi",
+      "Toshihiro Misumi",
+      "Hisashi Shinohara"
+    ]
+  },
+  "article_index": 266,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:29:29.456896"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:29:30.996607"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:36.169036"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:22:09.077427"
+    },
+    "last_updated": "2025-10-07T09:51:36.169250"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.967504",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-23",
+    "title": "Epidemiology of acute coronary syndromes in a Mediterranean country; aims, design and baseline characteristics of the Greek study of acute coronary syndromes (GREECS)",
+    "article_number": "23",
+    "publication_date": "2005-03-16",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Christos Pitsavos",
+      "Demosthenes B Panagiotakos",
+      "Antonis Antonoulas",
+      "Spyros Zombolos",
+      "Yannis Kogias",
+      "Yannis Mantas",
+      "Peter Stravopodis",
+      "Georgia Kourlaba",
+      "Christodoulos Stefanadis"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T12:13:30.138483"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T12:13:31.678240"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T12:13:33.033270"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T20:46:01.655906"
+    },
+    "last_updated": "2025-10-03T20:46:01.656097"
+  }
+}

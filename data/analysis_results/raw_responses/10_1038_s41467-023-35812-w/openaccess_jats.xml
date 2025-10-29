@@ -1,0 +1,3129 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.w3.org/1998/Math/MathML">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-023-35812-w</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41467-023-35812-w</article-id>
+          <article-id pub-id-type="manuscript">35812</article-id>
+          <article-id pub-id-type="doi">10.1038/s41467-023-35812-w</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/766/530/2804</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/639/766/530/951</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Creating bulk ultrastable glasses by random particle bonding</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Ozawa</surname>
+                <given-names>Misaki</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Iwashita</surname>
+                <given-names>Yasutaka</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7405-2178</contrib-id>
+              <name name-style="western">
+                <surname>Kob</surname>
+                <given-names>Walter</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9260-1951</contrib-id>
+              <name name-style="western">
+                <surname>Zamponi</surname>
+                <given-names>Francesco</given-names>
+              </name>
+              <address>
+                <email>f.zamponi@gmail.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs4146702335812w_cor4">d</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.462608.e</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 0384 7821</institution-id>
+                <institution content-type="org-name">Laboratoire de Physique de l’Ecole normale supérieure, ENS, Université PSL, CNRS, Sorbonne Université, Université Paris-Diderot, Sorbonne Paris Cité</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Paris</addr-line>
+              <country country="FR">France</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.258798.9</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0001 0674 6688</institution-id>
+                <institution content-type="org-division">Department of Physics</institution>
+                <institution content-type="org-name">Kyoto Sangyo University</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Kyoto</addr-line>
+              <country country="JP">Japan</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.462669.9</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 4687 2402</institution-id>
+                <institution content-type="org-name">Laboratoire Charles Coulomb, University of Montpellier and CNRS</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">F-34095</addr-line>
+              <addr-line content-type="city">Montpellier</addr-line>
+              <country country="FR">France</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs4146702335812w_cor4">
+              <label>d</label>
+              <email>f.zamponi@gmail.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2023</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2023</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue seq="113">1</issue>
+          <elocation-id>113</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>4</day>
+              <month>1</month>
+              <year>2023</year>
+            </date>
+            <date date-type="received">
+              <day>19</day>
+              <month>4</month>
+              <year>2022</year>
+            </date>
+            <date date-type="accepted">
+              <day>3</day>
+              <month>1</month>
+              <year>2023</year>
+            </date>
+            <date date-type="online">
+              <day>7</day>
+              <month>1</month>
+              <year>2023</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2023</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">A recent breakthrough in glass science has been the synthesis of ultrastable glasses via physical vapor deposition techniques. These samples display enhanced thermodynamic, kinetic and mechanical stability, with important implications for fundamental science and technological applications. However, the vapor deposition technique is limited to atomic, polymer and organic glass-formers and is only able to produce thin film samples. Here, we propose a novel approach to generate ultrastable glassy configurations in the bulk, via random particle bonding, and using computer simulations we show that this method does indeed allow for the production of ultrastable glasses. Our technique is in principle applicable to any molecular or soft matter system, such as colloidal particles with tunable bonding interactions, thus opening the way to the design of a large class of ultrastable glasses.</p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Viable methods for the production of ultrastable glasses are much sought after. A potential approach for creating bulk ultrastable glasses, based on random particle bonding scenarios, is now numerically investigated. The method is expected to be applicable to molecular and colloidal glasses.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="03">Chemical Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="0306">Physical Chemistry (incl. Structural)</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>EC | Horizon 2020 Framework Programme (EU Framework Programme for Research and Innovation H2020)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/100010661</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">723955</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Zamponi</surname>
+                  <given-names>Francesco</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>113</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2023</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2023</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2023</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41467_2023_Article_35812.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1" sec-type="introduction">
+          <title>Introduction</title>
+          <p id="Par3">
+            Glasses are usually produced by slowly cooling a melt, with slower cooling leading to samples of higher stability
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . Accessing highly stable glasses is important not only to answer fundamental questions, such as the existence of a phase transition to an ideal glass at the Kauzmann temperature
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+              , 
+              <xref ref-type="bibr" rid="CR3">3</xref>
+              –
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            , but also for technological applications, such as creating glasses with exceptionally high strength and hardness
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              ,
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+             or with strongly reduced energy dissipation
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . However, in practice, the range of accessible cooling rates is quite limited both in experiments and (even more) in numerical simulations, and hence one does not have much leeway to modify the properties of the glass since these depend on a logarithmic manner on the quench rate
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . About a decade ago, a breakthrough was achieved by Ediger and coworkers, who were able to use vapor deposition to generate thin samples of organic, atomic, and polymer glasses with exceptional kinetic, thermodynamic, and mechanical stability
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+              , 
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              , 
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              , 
+              <xref ref-type="bibr" rid="CR10">10</xref>
+              , 
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              , 
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              –
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+            . Key to the success of this technique is the idea to use the temperature of the substrate on which the material is deposited as a tuning parameter, which has to be optimized to maximize the ratio of the surface to bulk mobility.
+          </p>
+          <p id="Par4">
+            Despite its attractivity, this approach does have some limitations
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            . Firstly, producing ultrastable bulk samples via vapor deposition is challenging because a slow deposition rate, of the order of 100 microns/day, is required. Secondly, the produced samples are sometimes markedly anisotropic due to the layer-by-layer deposition process on the free surface
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            . Thirdly, the technique cannot be applied easily to colloidal glasses, because, for these materials, it is not easy to deposit the particles at a different temperature from that of the substrate, see e.g., refs. 
+            <xref ref-type="bibr" rid="CR14">14</xref>
+            ,
+            <xref ref-type="bibr" rid="CR15">15</xref>
+            .
+          </p>
+          <p id="Par5">
+            Generating a well-annealed glass is a challenging task for computer simulations too
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            , a difficulty that is shared with optimization problems in computer science
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+            </sup>
+            . Although many sophisticated algorithms have been proposed to tackle this problem, such as the replica-exchange Monte-Carlo (MC) method or the shoving algorithm
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              , 
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              –
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            , these methods either require a CPU time that depends super-linearly on the number of particles, or are too system specific. Recently, a particle-swap MC algorithm
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+              ,
+              <xref ref-type="bibr" rid="CR22">22</xref>
+            </sup>
+             was strongly optimized
+            <sup>
+              <xref ref-type="bibr" rid="CR23">23</xref>
+            </sup>
+            , opening a new way to prepare in silico ultrastable glasses with even higher stability than experimental samples
+            <sup>
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . Unfortunately, however, the particle swap moves used by these algorithms are extremely hard to realize in experiments.
+          </p>
+          <p id="Par6">
+            An alternative approach to study the properties of ultrastable glasses is the so-called random pinning
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              ,
+              <xref ref-type="bibr" rid="CR26">26</xref>
+            </sup>
+            . After having equilibrated the liquid, one freezes permanently the positions of randomly selected particles. It can be shown that this method allows to access real equilibrium states of the pinned system even in the ideal glass state
+            <sup>
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              , 
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              –
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+            , and it can be experimentally realized in colloidal
+            <sup>
+              <xref ref-type="bibr" rid="CR30">30</xref>
+              ,
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+             and molecular
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              ,
+              <xref ref-type="bibr" rid="CR33">33</xref>
+            </sup>
+             systems. However, while random pinning gives important insight into the thermodynamic behavior of a bulk ideal glass
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              , 
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              , 
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              –
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+            , it also breaks translational invariance and, as a consequence, vibrational motion
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+              ,
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+            , mechanical responses
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            , and relaxation pathways
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+              , 
+              <xref ref-type="bibr" rid="CR38">38</xref>
+              –
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+             are radically altered, thus preventing one to gain insight into the dynamical properties of ultrastable glasses in bulk.
+          </p>
+          <p id="Par7">
+            All these approaches share the underlying idea of modifying the behavior of certain degrees of freedom (e.g., surface mobility in vapor deposition, particle sizes in swap MC, pinned particles’ movement in random pinning) by freeing or freezing them, thus allowing the glass-former to equilibrate quickly when the degrees of freedom are freed and obtain enhanced stability of the system when they are subsequently frozen
+            <sup>
+              <xref ref-type="bibr" rid="CR40">40</xref>
+              ,
+              <xref ref-type="bibr" rid="CR41">41</xref>
+            </sup>
+            . In other words, this amounts to tune the height of the barriers in the energy landscape of the system by introducing or removing constraints on some degrees of freedom (Fig. 
+            <xref rid="Fig1" ref-type="fig">1</xref>
+            ). Note that if one wants to produce equilibrium configurations of the frozen system, it is extremely important to perform a quiet freezing
+            <sup>
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+             of these selected degrees of freedom, i.e., a process that preserves the equilibrium measure
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              , 
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              –
+              <xref ref-type="bibr" rid="CR28">28</xref>
+              ,
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            , or else the glass will be affected by out-of-equilibrium effects.
+            <fig id="Fig1" position="float">
+              <label>Fig. 1</label>
+              <caption xml:lang="en">
+                <title>Schematics of the protocol.</title>
+                <p>
+                  <bold>a</bold>
+                   We begin by creating an equilibrium configuration of the non-bonded (monomer) system by standard cooling to a target temperature 
+                  <italic>T</italic>
+                   at which the non-bonded system is still not very glassy. Note that a non-bonded system is only an auxiliary tool in our construction, while our aim is to construct an ultrastable glass of the bonded system. This is achieved by introducing the bonds via random bonding at the target temperature 
+                  <italic>T</italic>
+                  . We now have a configuration of the bonded system, which is an ultrastable glass. To prove this, we perform heating/cooling cycles to measure kinetic stability. 
+                  <bold>b</bold>
+                   Sketch of the (free) energy landscape. The non-bonded system is studied at temperatures such that barriers can be easily crossed. Once bonds are introduced, barriers become higher and the system remains trapped in a low-energy ultrastable glass basin. The first heating will allow the system to access high energy states, but subsequent cooling/heating will only permit to reach configurations that have significantly higher energy than one of the ultrastable glass configurations.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2023_35812_Fig1_HTML.png"/>
+            </fig>
+          </p>
+          <p id="Par8">
+            In this work, we overcome several of the problems mentioned above, by proposing a random bonding approach, in which one freezes the distance between a subset of neighboring particle pairs (Fig. 
+            <xref rid="Fig1" ref-type="fig">1)</xref>
+            . Random bonding is mathematically similar to random pinning, and we will show numerically that it satisfies the requirement of quiet freezing, hence producing configurations of the bonded system that are close to equilibrium, yet without breaking the translational invariance contrarily to random pinning. Hence, this approach allows to generate equilibrium glass configurations of a bulk system of molecules (e.g., dimers, trimers, and polymers) with widely tunable stability. Most importantly, this method can be implemented in real experimental systems such as colloids with patches
+            <sup>
+              <xref ref-type="bibr" rid="CR44">44</xref>
+              , 
+              <xref ref-type="bibr" rid="CR45">45</xref>
+              , 
+              <xref ref-type="bibr" rid="CR46">46</xref>
+              –
+              <xref ref-type="bibr" rid="CR47">47</xref>
+            </sup>
+             or DNA-linkers
+            <sup>
+              <xref ref-type="bibr" rid="CR48">48</xref>
+              , 
+              <xref ref-type="bibr" rid="CR49">49</xref>
+              –
+              <xref ref-type="bibr" rid="CR50">50</xref>
+            </sup>
+             and polymers
+            <sup>
+              <xref ref-type="bibr" rid="CR51">51</xref>
+              ,
+              <xref ref-type="bibr" rid="CR52">52</xref>
+            </sup>
+            , i.e., systems for which the interactions between the constituent particles can be modified via external parameters, see below for details.
+          </p>
+          <p id="Par9">Here, after having introduced this novel method, we present results from computer simulations that demonstrate the effectiveness of random bonding by determining for a simple glass-former the kinetic stability via heating-cooling cycles and mechanical stability via stress-strain measurements. Furthermore, we show that the generated configurations are close to equilibrium, such that no aging is detected within numerical precision. Finally, we discuss the experimental feasibility of the method.</p>
+        </sec>
+        <sec id="Sec2" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec3">
+            <title>Protocol</title>
+            <p id="Par10">
+              Our protocol to generate ultrastable glass configurations of the bonded system goes as follows (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+               and Methods):
+              <list list-type="order">
+                <list-item>
+                  <p id="Par11">
+                    We first prepare, by standard cooling from high temperature, an equilibrium configuration of the non-bonded (monomer) system at the target temperature 
+                    <italic>T</italic>
+                    .
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par12">
+                    Subsequently, we pick at random two particles that are nearest neighbors, and permanently fix their distance, thus creating a dimer. We repeat this process, thus creating a mixture of monomers and dimers that forms the ultrastable glass. The process stops when we reach the target dimer concentration 
+                    <italic>c</italic>
+                    .
+                  </p>
+                </list-item>
+                <list-item>
+                  <p id="Par13">This mixture can now be studied via molecular dynamics (MD) simulations to study its thermal and mechanical response.</p>
+                </list-item>
+              </list>
+              The target values of temperature 
+              <italic>T</italic>
+               and dimer concentration 
+              <italic>c</italic>
+               can be tuned to obtain a glass with the desired stability.
+            </p>
+            <p id="Par14">
+              Before proceeding to characterize our glasses, we stress once more that the non-bonded system serves only as an auxiliary preparation tool (Fig. 
+              <xref rid="Fig1" ref-type="fig">1)</xref>
+              . The ultrastable glass we are investigating in the following is created via the random bonding process (which, in our scheme, would be akin to a vapor deposition or random pinning) with target temperature 
+              <italic>T</italic>
+               = 0.42 (at which the non-bonded system has already a sluggish dynamics
+              <sup>
+                <xref ref-type="bibr" rid="CR53">53</xref>
+              </sup>
+              ) and dimer concentration 
+              <italic>c</italic>
+               = 0.95 (thus keeping 5% of monomers). Subsequently, we will discuss a phase diagram of stability in the (
+              <italic>T</italic>
+              , 
+              <italic>c</italic>
+              ) plane.
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Kinetic stability</title>
+            <p id="Par15">
+              The kinetic stability of a glass-former is usually determined by a heating-cooling cyclic process
+              <sup>
+                <xref ref-type="bibr" rid="CR8">8</xref>
+                ,
+                <xref ref-type="bibr" rid="CR54">54</xref>
+                ,
+                <xref ref-type="bibr" rid="CR55">55</xref>
+              </sup>
+              . We start from the configuration created by our random bonding protocol at 
+              <italic>T</italic>
+               = 0.42, and then melt the glass by heating the system (keeping the bonds frozen) up to a high temperature, 
+              <italic>T</italic>
+               = 2.1, using a constant rate 
+              <inline-formula id="IEq1">
+                <alternatives>
+                  <ns1:math id="IEq1_Math">
+                    <ns1:mi>K</ns1:mi>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:mo>∣</ns1:mo>
+                    <ns1:mfrac>
+                      <ns1:mrow>
+                        <ns1:mi mathvariant="normal">d</ns1:mi>
+                        <ns1:mi>T</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi mathvariant="normal">d</ns1:mi>
+                        <ns1:mi>t</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:mfrac>
+                    <ns1:mo>∣</ns1:mo>
+                    <ns1:mo>≃</ns1:mo>
+                    <ns1:mn>6</ns1:mn>
+                    <ns1:mo>×</ns1:mo>
+                    <ns1:mn>1</ns1:mn>
+                    <ns1:msup>
+                      <ns1:mrow>
+                        <ns1:mn>0</ns1:mn>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mo>−</ns1:mo>
+                        <ns1:mn>3</ns1:mn>
+                      </ns1:mrow>
+                    </ns1:msup>
+                  </ns1:math>
+                  <tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$K=|\frac{{{{{{{{\rm{d}}}}}}}}T}{{{{{{{{\rm{d}}}}}}}}t}|\simeq 6\times 1{0}^{-3}$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2023_35812_Article_IEq1.gif"/>
+                </alternatives>
+              </inline-formula>
+              . Subsequently, we cool the system down to very low 
+              <italic>T</italic>
+               (
+              <italic>T</italic>
+               = 0.001), and we then heat it up a second time, using the same cooling/heating rate, 
+              <italic>K</italic>
+               ≃ 6 × 10
+              <sup>−3</sup>
+              . Figure 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+               shows the temperature evolution of the potential energy per particle and of the specific heat of the system. We find a very pronounced hysteresis, characteristic of ultrastable glasses
+              <sup>
+                <xref ref-type="bibr" rid="CR8">8</xref>
+                ,
+                <xref ref-type="bibr" rid="CR54">54</xref>
+              </sup>
+              . During the first heating, our ultrastable glass remains in the glass state up to its kinetic glass melting (or devitrification) temperature 
+              <inline-formula id="IEq2">
+                <alternatives>
+                  <ns1:math id="IEq2_Math">
+                    <ns1:msubsup>
+                      <ns1:mrow>
+                        <ns1:mi>T</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>m</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>u</ns1:mi>
+                        <ns1:mi>s</ns1:mi>
+                        <ns1:mi>g</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msubsup>
+                    <ns1:mspace width="0.25em"/>
+                    <ns1:mo>≈</ns1:mo>
+                    <ns1:mspace width="0.25em"/>
+                    <ns1:mn>1.4</ns1:mn>
+                  </ns1:math>
+                  <tex-math id="IEq2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{m}^{usg} \, \approx \, 1.4$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2023_35812_Article_IEq2.gif"/>
+                </alternatives>
+              </inline-formula>
+              . When the system is subsequently cooled down, it remains in the liquid state down to its normal glass transition temperature, which is estimated to be around 
+              <italic>T</italic>
+              <sub>
+                <italic>g</italic>
+              </sub>
+               ≈ 0.8, a value obtained from the 
+              <italic>T</italic>
+              -dependence of the specific heat, Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              b. Note that this simple cooling is not able to reach an ultrastable glass state, as shown by the higher value of the energy (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              a), and the hysteresis cycle obtained by re-heating the sample with the same heating rate (the second heating) is much smaller, indicating that the glass produced via a standard cooling procedure is indeed kinetically much less stable than the original ultrastable glass. Figure 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              b shows the corresponding specific heat 
+              <italic>c</italic>
+              <sub>
+                <italic>V</italic>
+              </sub>
+              , which makes the hysteresis even more visible. We have checked that similar results are obtained using a smaller rate 
+              <italic>K</italic>
+               (see Supplementary Fig. S
+              <xref ref-type="supplementary-material" rid="MOESM1">6)</xref>
+              . We thus conclude that our bonding protocol has indeed created a glass-former with extremely high kinetic stability, compared to what can be achieved by simple cooling of the bonded liquid from high temperatures.
+              <fig id="Fig2" position="float">
+                <label>Fig. 2</label>
+                <caption xml:lang="en">
+                  <title>Heating-cooling process.</title>
+                  <p>
+                    <bold>a</bold>
+                     The potential energy per particle 
+                    <italic>e</italic>
+                     during the heating-cooling cyclic process with 
+                    <italic>K</italic>
+                     ≃ 6 × 10
+                    <sup>−3</sup>
+                    . The curves are obtained by averaging over five different samples. The standard deviation due to sample-to-sample fluctuations is around 0.01 at 
+                    <italic>T</italic>
+                     ≈ 1.35, which is negligible in this plot. The system size is 
+                    <italic>N</italic>
+                     = 32400. 
+                    <bold>b</bold>
+                     Specific heat 
+                    <italic>c</italic>
+                    <sub>
+                      <italic>V</italic>
+                    </sub>
+                     obtained from 
+                    <italic>c</italic>
+                    <sub>
+                      <italic>V</italic>
+                    </sub>
+                     = d
+                    <italic>e</italic>
+                    /d
+                    <italic>T</italic>
+                     using the data in (
+                    <bold>a</bold>
+                    ). The standard deviation due to sample-to-sample fluctuations is around 0.1 at the maximum of the specific heat.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2023_35812_Fig2_HTML.png"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Mechanical stability</title>
+            <p id="Par16">
+              We examine the mechanical stability of our bonded systems by following the strategy of ref. 
+              <xref ref-type="bibr" rid="CR56">56</xref>
+              . We first cool down our ultrastable glass, prepared at 
+              <italic>T</italic>
+               = 0.42 and 
+              <italic>c</italic>
+               = 0.95 as described above, to 
+              <italic>T</italic>
+               = 0.001 at a rate 
+              <italic>K</italic>
+               ≃ 6 × 10
+              <sup>−3</sup>
+              , and then quench it further to zero temperature by using an energy minimization algorithm. Subsequently, we perform a standard zero temperature quasi-static shear simulation using Lees-Edwards boundary conditions. For comparison, we also consider a normally-annealed (ordinary) glass sample of the same (bonded) system, by using the configuration obtained after the first heating and cooling cycle shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+               (also quenched to zero temperature by energy minimization) as a starting point for the same quasi-static shear simulation.
+            </p>
+            <p id="Par17">
+              In Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              a, we show the shear stress 
+              <italic>σ</italic>
+               as a function of strain 
+              <italic>γ</italic>
+               for the ultrastable and the ordinary glass samples. The latter displays a mild stress overshoot and a gentle decrease of the stress after the maximum, indicating that the sample is ductile, at least for the system size 
+              <italic>N</italic>
+               = 32,400 (see refs. 
+              <xref ref-type="bibr" rid="CR57">57</xref>
+              , 
+              <xref ref-type="bibr" rid="CR58">58</xref>
+              –
+              <xref ref-type="bibr" rid="CR59">59</xref>
+               for a discussion of finite size effects). A real-space snapshot of the non-affine displacement field after the overshoot is presented in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              b, and shows a mild localization of shear. Remarkably, for the ultrastable sample, the stress overshoot is significantly enhanced, and an abrupt discontinuous stress drop emerges. This brittle yielding is accompanied by a sharp system-spanning shear band, as evidenced in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              c. The enhanced brittleness and mechanical stability observed in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+               confirms that the system is located in a very deep local minimum of the rugged energy landscape of the bonded system, due to the preparation protocol we used, and it thus corresponds to an ultrastable glass of the bonded system.
+              <fig id="Fig3" position="float">
+                <label>Fig. 3</label>
+                <caption xml:lang="en">
+                  <title>Mechanical test.</title>
+                  <p>
+                    <bold>a</bold>
+                     Stress versus strain curves of bonded glasses for ordinary and ultrastable samples. Two independent realizations are shown. Note that athermal quasi-static simulations are fully deterministic, hence no statistical errors are present. Also shown are snapshots of typical samples for an ordinary glass at 
+                    <italic>γ</italic>
+                     = 0.15 (
+                    <bold>b</bold>
+                    ) and an ultrastable glass at 
+                    <italic>γ</italic>
+                     = 0.12 (
+                    <bold>c</bold>
+                    ), respectively. The color bar corresponds to the non-affine displacement, 
+                    <inline-formula id="IEq3">
+                      <alternatives>
+                        <ns1:math id="IEq3_Math">
+                          <ns1:msubsup>
+                            <ns1:mrow>
+                              <ns1:mi>D</ns1:mi>
+                            </ns1:mrow>
+                            <ns1:mrow>
+                              <ns1:mi>min</ns1:mi>
+                            </ns1:mrow>
+                            <ns1:mrow>
+                              <ns1:mn>2</ns1:mn>
+                            </ns1:mrow>
+                          </ns1:msubsup>
+                        </ns1:math>
+                        <tex-math id="IEq3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{\min }^{2}$$\end{document}</tex-math>
+                        <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2023_35812_Article_IEq3.gif"/>
+                      </alternatives>
+                    </inline-formula>
+                    , measured from the origin, 
+                    <italic>γ</italic>
+                     = 0
+                    <sup>
+                      <xref ref-type="bibr" rid="CR70">70</xref>
+                    </sup>
+                    . The bonds between particles are shown in yellow.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2023_35812_Fig3_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par18">
+              We also note that in ref. 
+              <xref ref-type="bibr" rid="CR36">36</xref>
+               the mechanical yielding of a randomly pinned glass was studied and no brittle yielding with a system-spanning shear band was observed, likely because the pinned particles break translational invariance. This demonstrates that our random bonding procedure has a huge advantage over random pinning, in that it allows to investigate the mechanical properties of realistic bulk stable glasses.
+            </p>
+          </sec>
+          <sec id="Sec6">
+            <title>Absence of aging after random bonding</title>
+            <p id="Par19">We now show that random bonding has the same quiet freezing property as random pinning, i.e., the system is already in thermal equilibrium right after the construction of the bonds. This feature thus allows to study the equilibrium dynamics, even in very deep glass states, simply by running a normal MD simulation starting from the configuration obtained right after bonding. Since, in the present case, this property holds only approximately, a more complete discussion of its validity will be given elsewhere.</p>
+            <p id="Par20">
+              To check equilibration, we chose a target temperature of 
+              <italic>T</italic>
+               = 0.6 and a target dimer concentration of 
+              <italic>c</italic>
+               = 0.95, such that the dynamics of the bonded system is slow, but not fully arrested on the simulation timescale. In Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              a, we show the self-part of the intermediate scattering function, 
+              <italic>F</italic>
+              <sub>s</sub>
+              (
+              <italic>q</italic>
+              , 
+              <italic>t</italic>
+              ), defined for monomers, dimers, and all particles (see Supplementary Note 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+               for the exact definitions). The wave number 
+              <italic>q</italic>
+               is 7.25, near the location of the main peak in the static structure factor. We observe full relaxation within the time window considered, and most importantly, that the correlation function measured right after the system is prepared (
+              <italic>t</italic>
+              <sub>w</sub>
+               = 0) and after a starting time 
+              <italic>t</italic>
+              <sub>w</sub>
+               = 10
+              <sup>5</sup>
+               are numerically indistinguishable, which confirms that the bonding protocols produce equilibrated configurations, at least within our numerical precision. We confirmed the same behavior for other observables, and the mean-squared displacement and the rotational correlation function for the dimers (see Supplementary Note 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+               for details) are presented in Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              b, c, respectively, consolidating the absence of aging.
+              <fig id="Fig4" position="float">
+                <label>Fig. 4</label>
+                <caption xml:lang="en">
+                  <title>Absence of aging after random bonding.</title>
+                  <p>
+                    <bold>a</bold>
+                     Self-intermediate scattering function 
+                    <italic>F</italic>
+                    <sub>s</sub>
+                    (
+                    <italic>q</italic>
+                    , 
+                    <italic>t</italic>
+                    ) for 
+                    <italic>T</italic>
+                     = 0.6 and 
+                    <italic>c</italic>
+                     = 0.95 for monomers, dimers and all particles. Dashed and solid curves indicate 
+                    <italic>F</italic>
+                    <sub>s</sub>
+                    (
+                    <italic>q</italic>
+                    , 
+                    <italic>t</italic>
+                    ) computed from trajectories with the waiting time after the creation of the bonds 
+                    <italic>t</italic>
+                    <sub>w</sub>
+                     = 0 and 
+                    <italic>t</italic>
+                    <sub>w</sub>
+                     = 10
+                    <sup>5</sup>
+                    , respectively. 
+                    <bold>b</bold>
+                     The corresponding mean-squared displacement. 
+                    <bold>c</bold>
+                     The corresponding rotational correlation function 
+                    <italic>C</italic>
+                    (
+                    <italic>t</italic>
+                    ) for the dimer molecules. In all panels, statistical errors due to thermal fluctuations for a given sample are smaller than the line width. Data were then averaged over ten independent samples, and sample-to-sample fluctuations give a relative statistical error on the mean of about 5%, which is not reported in the plots for clarity. Note that such fluctuations are related to dynamical heterogeneity, and will be studied more systematically elsewhere.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2023_35812_Fig4_HTML.png"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec7">
+            <title>Equilibrium dynamics</title>
+            <p id="Par21">
+              We conclude our study by investigating systematically the equilibrium dynamics in the (
+              <italic>T</italic>
+              , 
+              <italic>c</italic>
+              ) plane. In Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              a, we show 
+              <inline-formula id="IEq4">
+                <alternatives>
+                  <ns1:math id="IEq4_Math">
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>F</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi mathvariant="normal">s</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                    <ns1:mrow>
+                      <ns1:mo>(</ns1:mo>
+                      <ns1:mrow>
+                        <ns1:mi>q</ns1:mi>
+                        <ns1:mo>,</ns1:mo>
+                        <ns1:mi>t</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mo>)</ns1:mo>
+                    </ns1:mrow>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:msubsup>
+                      <ns1:mrow>
+                        <ns1:mi>F</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi mathvariant="normal">s</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi mathvariant="normal">All</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msubsup>
+                    <ns1:mrow>
+                      <ns1:mo>(</ns1:mo>
+                      <ns1:mrow>
+                        <ns1:mi>q</ns1:mi>
+                        <ns1:mo>,</ns1:mo>
+                        <ns1:mi>t</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mo>)</ns1:mo>
+                    </ns1:mrow>
+                  </ns1:math>
+                  <tex-math id="IEq4_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{{{{{{{\rm{s}}}}}}}}}(q,t)={F}_{{{{{{{{\rm{s}}}}}}}}}^{{{{{{{{\rm{All}}}}}}}}}(q,t)$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2023_35812_Article_IEq4.gif"/>
+                </alternatives>
+              </inline-formula>
+               measured for all particles at 
+              <italic>q</italic>
+               = 7.25, after preparation of the bonded system at the target temperature 
+              <italic>T</italic>
+               = 0.4238 for different concentrations 
+              <italic>c</italic>
+              . (See Supplementary Fig. S
+              <xref ref-type="supplementary-material" rid="MOESM1">4</xref>
+               for corresponding results for other values of 
+              <italic>T</italic>
+              .) As argued above, this corresponds to the equilibrium dynamics of the bonded system. For the original KA model, 
+              <italic>c</italic>
+               = 0, we observe full relaxation within the time window considered, although at this 
+              <italic>T</italic>
+               the dynamics is already glassy. The dynamics slows down very quickly as 
+              <italic>c</italic>
+               is increased and for 
+              <italic>c</italic>
+               &gt; 0.5, it is completely frozen on the timescale of the simulation, demonstrating that the system has entered a truly glassy regime. We define the structural relaxation time 
+              <italic>τ</italic>
+              <sub>
+                <italic>α</italic>
+              </sub>
+               via 
+              <italic>F</italic>
+              <sub>s</sub>
+              (
+              <italic>q</italic>
+              , 
+              <italic>τ</italic>
+              <sub>
+                <italic>α</italic>
+              </sub>
+              ) = 1/
+              <italic>e</italic>
+               and in Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              b, we show its temperature and 
+              <italic>c</italic>
+              -dependence in an Arrhenius plot. From this graph, one concludes that increasing 
+              <italic>c</italic>
+               leads to a quick slowing down of the relaxation dynamics, in agreement with the result shown in Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              a, and that this effect is strongly enhanced if 
+              <italic>T</italic>
+               is decreased, i.e., a behavior that is qualitatively similar to the one found for randomly pinned systems
+              <sup>
+                <xref ref-type="bibr" rid="CR27">27</xref>
+                ,
+                <xref ref-type="bibr" rid="CR28">28</xref>
+              </sup>
+              . From these results, we can draw iso-
+              <italic>τ</italic>
+              <sub>
+                <italic>α</italic>
+              </sub>
+               lines in the (
+              <italic>T</italic>
+              , 
+              <italic>c</italic>
+              ) plane that characterize the stability of the glasses prepared by random bonding at these values of target temperature and dimer concentration (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              c).
+              <fig id="Fig5" position="float">
+                <label>Fig. 5</label>
+                <caption xml:lang="en">
+                  <title>Slow dynamics by random bonding.</title>
+                  <p>
+                    <bold>a</bold>
+                     Self intermediate scattering function at 
+                    <italic>T</italic>
+                     = 0.4238 and different concentrations 
+                    <italic>c</italic>
+                    . The system size is 
+                    <italic>N</italic>
+                     = 1200. 
+                    <bold>b</bold>
+                     Structural relaxation time, 
+                    <italic>τ</italic>
+                    <sub>
+                      <italic>α</italic>
+                    </sub>
+                    , as a function of the inverse temperature, 1/
+                    <italic>T</italic>
+                    , for several fixed concentrations 
+                    <italic>c</italic>
+                    . 
+                    <bold>c</bold>
+                     Lines of constant 
+                    <italic>τ</italic>
+                    <sub>
+                      <italic>α</italic>
+                    </sub>
+                     in the (
+                    <italic>T</italic>
+                    , 
+                    <italic>c</italic>
+                    ) plane, deduced from the data in panel b. In all panels, relative statistical errors are of the order of 5%, as discussed in Fig. 
+                    <xref rid="Fig4" ref-type="fig">4</xref>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2023_35812_Fig5_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par22">
+              Based on an extrapolation of these results, we estimate that the glass analyzed in Figs. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              , 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              , prepared at 
+              <italic>T</italic>
+               = 0.42 and 
+              <italic>c</italic>
+               = 0.95, corresponds to an equilibrium relaxation time 
+              <italic>τ</italic>
+              <sub>
+                <italic>α</italic>
+              </sub>
+               ≈ 10
+              <sup>12</sup>
+              , thus about a factor of 10
+              <sup>7</sup>
+               larger than the largest 
+              <italic>τ</italic>
+              <sub>
+                <italic>α</italic>
+              </sub>
+               we accessed in our simulations. This demonstrates that the bonding process does indeed allow to generate glasses with a fictive temperature that is far lower than one can access by means of standard algorithms, and comparable to that achieved by the swap algorithm
+              <sup>
+                <xref ref-type="bibr" rid="CR23">23</xref>
+              </sup>
+              .
+            </p>
+            <p id="Par23">
+              Finally, it has been reported that, in contrast to conventional glass-forming liquids, the equilibrium dynamics of pinned systems show a decoupling between self and collective relaxation and suppression of dynamical heterogeneity upon approaching the glass transition, due to the highly confined environment
+              <sup>
+                <xref ref-type="bibr" rid="CR37">37</xref>
+                ,
+                <xref ref-type="bibr" rid="CR39">39</xref>
+              </sup>
+              . We report that the randomly-bonded systems do not show such a decoupling between the self and collective parts (see Supplementary Fig. S
+              <xref ref-type="supplementary-material" rid="MOESM1">5)</xref>
+              , as expected for a system that has translational invariance. We leave the study of the dynamical heterogeneity of randomly-bonded systems for future work.
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec8" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par24">
+            We have introduced a novel protocol that allows one to prepare highly stable equilibrium glasses in bulk (Fig. 
+            <xref rid="Fig1" ref-type="fig">1)</xref>
+            . The approach requires the generation of an equilibrated configuration of a simple glass-forming system at intermediate temperatures, i.e., where its dynamics is not yet arrested (which is routinely done in experiments and in simulations), and subsequently the introduction of random bonds between neighboring molecules (here monomers) to form a certain fraction of dimers. We numerically demonstrated that the resulting configurations of the bonded system are in equilibrium, and our simulations show that their dynamics is extremely slow, indicating that one does indeed access deep glassy states. Moreover, we have demonstrated the strong enhancement of kinetic and mechanical stability via a non-equilibrium heating-cooling process and athermal quasi-static shear simulations, respectively.
+          </p>
+          <p id="Par25">
+            We emphasize that it is possible to realize the proposed random bonding in real experiments of soft matter systems, such as colloids and emulsions, for which existing vapor deposition techniques cannot be applied easily, thus allowing to produce ultrastable glasses for a new class of glass-formers. One can, e.g., tune interactions between colloidal particles, by introducing patches or DNA-linkers
+            <sup>
+              <xref ref-type="bibr" rid="CR47">47</xref>
+              ,
+              <xref ref-type="bibr" rid="CR48">48</xref>
+            </sup>
+            , as schematically shown in Fig. 
+            <xref rid="Fig6" ref-type="fig">6</xref>
+            a, b. Importantly, one can turn on the bond interactions at any time by varying the concentration of salt or the temperature
+            <sup>
+              <xref ref-type="bibr" rid="CR48">48</xref>
+              ,
+              <xref ref-type="bibr" rid="CR50">50</xref>
+            </sup>
+            , or using ultra-violet light
+            <sup>
+              <xref ref-type="bibr" rid="CR49">49</xref>
+            </sup>
+            . To demonstrate this, we also carried out experiments using two-dimensional patchy colloids. Starting from an equilibrated binary mixture of patchy and non-patchy colloids (monomers)
+            <sup>
+              <xref ref-type="bibr" rid="CR60">60</xref>
+            </sup>
+            , we increase the salt concentration to activate the patchy interaction between patchy colloid pairs, leading to the formation of dimers with strong bonds. The resulting configurations have a finite concentration of dimers (with a few trimers and tetramers), demonstrating that, indeed, one can turn on the bond interactions at any time (see Supplementary Note 
+            <xref ref-type="supplementary-material" rid="MOESM1">3</xref>
+             for details). A further possibility to implement random bonding in molecular or polymeric systems is schematically shown in Fig. 
+            <xref rid="Fig6" ref-type="fig">6</xref>
+            c. For epoxy resins, e.g., one can control polymerization by adding to the sample a curing agent
+            <sup>
+              <xref ref-type="bibr" rid="CR51">51</xref>
+              ,
+              <xref ref-type="bibr" rid="CR52">52</xref>
+            </sup>
+             or exposing it to ultra-violet light
+            <sup>
+              <xref ref-type="bibr" rid="CR61">61</xref>
+            </sup>
+            . These few examples illustrate that it is in principle, possible to produce ultrastable glasses by particle bonding in experiments, thus opening new research directions in the field.
+            <fig id="Fig6" position="float">
+              <label>Fig. 6</label>
+              <caption xml:lang="en">
+                <title>Examples of bond formation processes in experimental systems.</title>
+                <p>
+                  <bold>a</bold>
+                   Inducing attractive interactions between patchy colloids by changing the salt concentration. 
+                  <bold>b</bold>
+                   Varying temperature or irradiation with ultra-violet light in colloids with DNA-linkers. 
+                  <bold>c</bold>
+                   Chemical bonding between epoxy groups with a curing agent.
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2023_35812_Fig6_HTML.png"/>
+            </fig>
+          </p>
+          <p id="Par26">
+            The random bonding between two neighboring particles to produce dimer systems is, of course, only one possible implementation of our approach, and it is straightforward to extend the method to construct trimers, polymers, or more complex molecules. We expect that more stable configurations can be obtained when a particle can have more bonds, due to the freezing of additional degrees of freedom
+            <sup>
+              <xref ref-type="bibr" rid="CR41">41</xref>
+              ,
+              <xref ref-type="bibr" rid="CR62">62</xref>
+              , 
+              <xref ref-type="bibr" rid="CR63">63</xref>
+              –
+              <xref ref-type="bibr" rid="CR64">64</xref>
+            </sup>
+            . When the number of bonds increases, a network structure percolates through the system, leading to a glass-gel crossover
+            <sup>
+              <xref ref-type="bibr" rid="CR60">60</xref>
+              ,
+              <xref ref-type="bibr" rid="CR65">65</xref>
+              ,
+              <xref ref-type="bibr" rid="CR66">66</xref>
+            </sup>
+            . We expect that the random bonding will thus provide a recipe to produce ultrastable gels as well, thus allowing us to study also the glass-gel crossover in equilibrium.
+          </p>
+          <p id="Par27">
+            By exploring these ideas, it should be possible to realize an ideal glass transition in a bulk equilibrium bonded system akin to the randomly pinned systems
+            <sup>
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              , 
+              <xref ref-type="bibr" rid="CR27">27</xref>
+              –
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            , yet without breaking translational invariance. Hence we expect that our study will pave the way to an experimental realization of ideal bulk glasses.
+          </p>
+        </sec>
+        <sec id="Sec9" sec-type="methods">
+          <title>Methods</title>
+          <p id="Par28">
+            As a monomer system, we use the standard Kob-Andersen (KA) model in three dimensions
+            <sup>
+              <xref ref-type="bibr" rid="CR67">67</xref>
+            </sup>
+            . The original, non-bonded (monomer) KA model is simulated in the 
+            <italic>N</italic>
+            <italic>V</italic>
+            <italic>T</italic>
+             ensemble with 
+            <italic>N</italic>
+             particles in a periodic volume 
+            <italic>V</italic>
+             at the target temperature 
+            <italic>T</italic>
+             (see Supplementary Note 
+            <xref ref-type="supplementary-material" rid="MOESM1">2)</xref>
+             to produce the initial equilibrium configuration. We then introduce a certain fraction of diatomic dumbbell molecules, i.e., dimers, by random bonding particles that have a distance less than 
+            <italic>R</italic>
+            <sub>b</sub>
+             = 1.5. (All quantities are expressed in standard reduced Lennard-Jones units
+            <sup>
+              <xref ref-type="bibr" rid="CR67">67</xref>
+            </sup>
+            .) In this way, we create a system with 
+            <italic>N</italic>
+            <sub>m</sub>
+             monomers and 
+            <italic>N</italic>
+            <sub>d</sub>
+             dimers. By construction, 
+            <italic>N</italic>
+             = 
+            <italic>N</italic>
+            <sub>m</sub>
+             + 2
+            <italic>N</italic>
+            <sub>d</sub>
+            . The dimer concentration is 
+            <inline-formula id="IEq5">
+              <alternatives>
+                <ns1:math id="IEq5_Math">
+                  <ns1:mi>c</ns1:mi>
+                  <ns1:mo>=</ns1:mo>
+                  <ns1:mfrac>
+                    <ns1:mrow>
+                      <ns1:mn>2</ns1:mn>
+                      <ns1:msub>
+                        <ns1:mrow>
+                          <ns1:mi>N</ns1:mi>
+                        </ns1:mrow>
+                        <ns1:mrow>
+                          <ns1:mi mathvariant="normal">d</ns1:mi>
+                        </ns1:mrow>
+                      </ns1:msub>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mi>N</ns1:mi>
+                    </ns1:mrow>
+                  </ns1:mfrac>
+                  <ns1:mo>=</ns1:mo>
+                  <ns1:mfrac>
+                    <ns1:mrow>
+                      <ns1:mi>N</ns1:mi>
+                      <ns1:mo>−</ns1:mo>
+                      <ns1:msub>
+                        <ns1:mrow>
+                          <ns1:mi>N</ns1:mi>
+                        </ns1:mrow>
+                        <ns1:mrow>
+                          <ns1:mi mathvariant="normal">m</ns1:mi>
+                        </ns1:mrow>
+                      </ns1:msub>
+                    </ns1:mrow>
+                    <ns1:mrow>
+                      <ns1:mi>N</ns1:mi>
+                    </ns1:mrow>
+                  </ns1:mfrac>
+                </ns1:math>
+                <tex-math id="IEq5_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$c=\frac{2{N}_{{{{{{{{\rm{d}}}}}}}}}}{N}=\frac{N-{N}_{{{{{{{{\rm{m}}}}}}}}}}{N}$$\end{document}</tex-math>
+                <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2023_35812_Article_IEq5.gif"/>
+              </alternatives>
+            </inline-formula>
+            . To simulate the bonded system at finite temperature, we use the RATTLE algorithm to keep the bond lengths fixed
+            <sup>
+              <xref ref-type="bibr" rid="CR68">68</xref>
+            </sup>
+            . To study mechanical responses, we use an athermal quasi-static shear simulation via an energy minimization algorithm
+            <sup>
+              <xref ref-type="bibr" rid="CR69">69</xref>
+            </sup>
+            , in which the rigid bonds were replaced by a harmonic spring with sufficiently hard stiffness, see Supplementary Note 
+            <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+             for details.
+          </p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We thank J.-L. Barrat, M. Ediger, V. F. Hagh, H. Ikeda, F. C. Mocanu, M. A. Ramos, F. Sciortino and P. G. Wolynes for discussions, and K. Yoshihara for his contribution to the preliminary patchy particle experiment. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (grant agreement n. 723955 - GlassUniversality). W.K. is member of the Insititut universitaire de France.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>M.O., Y.I., W.K., and F.Z. designed the research. M.O. and W.K. performed the computational research. Y.I. designed and performed the experimental research. M.O., Y.I., W.K., and F.Z. analyzed the data and wrote the paper.</p>
+        </sec>
+        <sec sec-type="peer-review">
+          <title>Peer review</title>
+          <sec id="FPar1">
+            <title>Peer review information</title>
+            <p id="Par29">
+              <italic>Nature Communications</italic>
+               thanks the anonymous reviewer(s) for their contribution to the peer review of this work. 
+              <xref ref-type="supplementary-material" rid="MOESM2">Peer reviewer reports</xref>
+               are available.
+            </p>
+          </sec>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>
+            The data necessary to reproduce the figures are publicly available through the Zenodo Repository at 
+            <ext-link ns0:href="10.5281/zenodo.7435970" ext-link-type="doi">https://doi.org/10.5281/zenodo.7435970</ext-link>
+            .
+          </p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Code availability</title>
+          <p>
+            Simulations for the non-bonded system (KA model) were carried out using the LAMMPS package (
+            <ext-link ns0:href="http://www.lammps.org" ext-link-type="uri">www.lammps.org</ext-link>
+            ). Scripts are available from W.K. (walter.kob@umontpellier.fr) upon reasonable request. Simulation codes for the bonded systems are available from M.O. (misaki.ozawa@univ-grenoble-alpes.fr) upon reasonable request.
+          </p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar2" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par30">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rodney</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Tanguy</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Vandembroucq</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Modeling the mechanics of amorphous solids at different length scale and time scale</article-title>
+                <source>Model. Simul. Mater. Sci. Eng.</source>
+                <year>2011</year>
+                <volume>19</volume>
+                <fpage>083001</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011MSMSE..19h3001R</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="other">
+                Binder, K. &amp; Kob, W. 
+                <italic>Glassy Materials and Disordered Solids: An Introduction to their Statistical Mechanics</italic>
+                 (World Scientific, 2011)
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Biroli</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Theoretical perspective on the glass transition and amorphous materials</article-title>
+                <source>Rev. Mod. Phys.</source>
+                <year>2011</year>
+                <volume>83</volume>
+                <fpage>587</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011RvMP...83..587B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXos1eit74%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="other">
+                Cammarota, C., Ozawa, M. &amp; Tarjus, G. The Kauzmann transition to an ideal glass phase.Preprint at 
+                <ext-link ns0:href="https://arxiv.org/abs/2209.11049" ext-link-type="uri">https://arxiv.org/abs/2209.11049</ext-link>
+                 (2022).
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="other">
+                Aji, D. P. et al. Ultrastrong and ultrastable metallic glass.Preprint at 
+                <ext-link ns0:href="https://arxiv.org/abs/1306.1575" ext-link-type="uri">https://arxiv.org/abs/1306.1575</ext-link>
+                 (2013).
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Magagnosc</surname>
+                    <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Feng</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Yu</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Cheng</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Gianola</surname>
+                    <given-names>DS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Isochemical control over structural state and mechanical properties in Pd-based metallic glass by sputter deposition at elevated temperatures</article-title>
+                <source>APL Mater.</source>
+                <year>2016</year>
+                <volume>4</volume>
+                <fpage>086104</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016APLM....4h6104M</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Queen</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Karel</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Metcalf</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Hellman</surname>
+                    <given-names>F</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Excess specific heat in evaporated amorphous silicon</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2013</year>
+                <volume>110</volume>
+                <fpage>135901</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013PhRvL.110m5901Q</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC3srltFSrtQ%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Swallen</surname>
+                    <given-names>SF</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Organic glasses with exceptional thermodynamic and kinetic stability</article-title>
+                <source>Science</source>
+                <year>2007</year>
+                <volume>315</volume>
+                <fpage>353</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2007Sci...315..353S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2sXmt1Kgsw%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yu</surname>
+                    <given-names>H-B</given-names>
+                  </name>
+                  <name>
+                    <surname>Luo</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Samwer</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ultrastable metallic glass</article-title>
+                <source>Adv. Mater.</source>
+                <year>2013</year>
+                <volume>25</volume>
+                <fpage>5904</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXht12itrjO</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yoon</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>McKenna</surname>
+                    <given-names>GB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Testing the paradigm of an ideal glass transition: dynamics of an ultrastable polymeric glass</article-title>
+                <source>Sci. Adv.</source>
+                <year>2018</year>
+                <volume>4</volume>
+                <fpage>eaau5423</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018SciA....4.5423Y</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhsF2ju77I</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Raegen</surname>
+                    <given-names>AN</given-names>
+                  </name>
+                  <name>
+                    <surname>Yin</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhou</surname>
+                    <given-names>Q</given-names>
+                  </name>
+                  <name>
+                    <surname>Forrest</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ultrastable monodisperse polymer glass formed by physical vapour deposition</article-title>
+                <source>Nat. Mater.</source>
+                <year>2020</year>
+                <volume>19</volume>
+                <fpage>1110</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020NatMa..19.1110R</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXhtlagtLjM</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ediger</surname>
+                    <given-names>MD</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Perspective: highly stable vapor-deposited glasses</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>2017</year>
+                <volume>147</volume>
+                <fpage>210901</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017JChPh.147u0901E</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC1M3psFKisQ%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rodriguez-Tinoco</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Gonzalez-Silveira</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Ramos</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <name>
+                    <surname>Rodriguez-Viejo</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ultrastable glasses: new perspectives for an old problem</article-title>
+                <source>La Rivista del Nuovo Cimento</source>
+                <year>2022</year>
+                <volume>45</volume>
+                <fpage>325</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2022NCimR..45..325R</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XivF2qtbnE</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cao</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Release of free-volume bubbles by cooperative-rearrangement regions during the deposition growth of a colloidal glass</article-title>
+                <source>Nat. Commun.</source>
+                <year>2017</year>
+                <volume>8</volume>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017OptCo.404....1C</pub-id>
+                <elocation-id>1</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nguyen</surname>
+                    <given-names>TC</given-names>
+                  </name>
+                  <name>
+                    <surname>Choi</surname>
+                    <given-names>W-S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Electrospray mechanism for quantum dot thin-film formation using an electrohydrodynamic jet and light-emitting device application</article-title>
+                <source>Sci. Rep.</source>
+                <year>2020</year>
+                <volume>10</volume>
+                <elocation-id>1</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="other">
+                Barrat, J.-L. &amp; Berthier, L. Computer simulations of the glass transition and glassy materials.Preprint at 
+                <ext-link ns0:href="https://arxiv.org/abs/2206.01013" ext-link-type="uri">https://arxiv.org/abs/2206.01013</ext-link>
+                 (2022).
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kirkpatrick</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Gelatt Jr</surname>
+                    <given-names>CD</given-names>
+                  </name>
+                  <name>
+                    <surname>Vecchi</surname>
+                    <given-names>MP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Optimization by simulated annealing</article-title>
+                <source>Science</source>
+                <year>1983</year>
+                <volume>220</volume>
+                <fpage>671</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1983Sci...220..671K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="American Mathematical Society">702485</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1225.90162</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC3cvktFWjtw%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Marinari</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Parisi</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Simulated tempering: a new Monte Carlo scheme</article-title>
+                <source>EPL</source>
+                <year>1992</year>
+                <volume>19</volume>
+                <fpage>451</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1992EL.....19..451M</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK38XltFyks7w%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hukushima</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Nemoto</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Exchange Monte Carlo method and application to spin glass simulations</article-title>
+                <source>J. Phys. Soc. Japan</source>
+                <year>1996</year>
+                <volume>65</volume>
+                <fpage>1604</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1996JPSJ...65.1604H</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK28XktFagt7c%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="other">
+                Krauth, W. 
+                <italic>Statistical Mechanics: Algorithms and Computations</italic>
+                 Vol. 13 (Oxford Univ. Press, 2006)
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Grigera</surname>
+                    <given-names>TS</given-names>
+                  </name>
+                  <name>
+                    <surname>Parisi</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Fast Monte Carlo algorithm for supercooled soft spheres</article-title>
+                <source>Phys. Rev. E</source>
+                <year>2001</year>
+                <volume>63</volume>
+                <fpage>045102</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2001PhRvE..63d5102G</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD38%2FgvVKhtA%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gutiérrez</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Karmakar</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Pollack</surname>
+                    <given-names>YG</given-names>
+                  </name>
+                  <name>
+                    <surname>Procaccia</surname>
+                    <given-names>I</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The static lengthscale characterizing the glass transition at lower temperatures</article-title>
+                <source>EPL</source>
+                <year>2015</year>
+                <volume>111</volume>
+                <fpage>56009</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015EL....11156009G</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ninarello</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Coslovich</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Models and algorithms for the next generation of glass transition studies</article-title>
+                <source>Phys. Rev. X</source>
+                <year>2017</year>
+                <volume>7</volume>
+                <fpage>021039</fpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Configurational entropy measurements in extremely supercooled liquids that break the glass ceiling</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2017</year>
+                <volume>114</volume>
+                <fpage>11356</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017PNAS..11411356B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhs1egtL%2FM</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kim</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effects of pinned particles on the structural relaxation of supercooled liquids</article-title>
+                <source>EPL</source>
+                <year>2003</year>
+                <volume>61</volume>
+                <fpage>790</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2003EL.....61..790K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3sXjt12nurw%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cammarota</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Biroli</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ideal glass transitions by random pinning</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2012</year>
+                <volume>109</volume>
+                <fpage>8850</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012PNAS..109.8850C</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Probing a liquid to glass transition in equilibrium</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2013</year>
+                <volume>110</volume>
+                <fpage>245702</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013PhRvL.110x5702K</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ozawa</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Ikeda</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Miyazaki</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Equilibrium phase diagram of a randomly pinned glass-former</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2015</year>
+                <volume>112</volume>
+                <fpage>6914</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015PNAS..112.6914O</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXotlGktrs%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ozawa</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Ikeda</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Miyazaki</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ideal glass states are not purely vibrational: Insight from randomly pinned glasses</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2018</year>
+                <volume>121</volume>
+                <fpage>205501</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018PhRvL.121t5501O</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXltFWgsL4%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gokhale</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Nagamanasa</surname>
+                    <given-names>KH</given-names>
+                  </name>
+                  <name>
+                    <surname>Ganapathy</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Sood</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Growing dynamical facilitation on approaching the random pinning colloidal glass transition</article-title>
+                <source>Nat. Commun.</source>
+                <year>2014</year>
+                <volume>5</volume>
+                <elocation-id>1</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Williams</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Experimental determination of configurational entropy in a two-dimensional liquid under random pinning</article-title>
+                <source>J. Phys. Condens. Matter</source>
+                <year>2018</year>
+                <volume>30</volume>
+                <fpage>094003</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018JPCM...30i4003W</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="other">
+                Kikumoto, G. et al. Towards the ideal glass transition by pinning in a dimer-polymer mixture.Preprint at 
+                <ext-link ns0:href="https://arxiv.org/abs/2003.06089" ext-link-type="uri">https://arxiv.org/abs/2003.06089</ext-link>
+                 (2020).
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="other">
+                Das, R., Bhowmik, B. P., Puthirath, A. B., Narayanan, T. N. &amp; Karmakar, S. Soft-pinning: experimental validation of static correlations in supercooled molecular glass-forming liquids.Preprint at 
+                <ext-link ns0:href="https://arxiv.org/abs/2106.06325" ext-link-type="uri">https://arxiv.org/abs/2106.06325</ext-link>
+                 (2021).
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Angelani</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Paoluzzi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Parisi</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Ruocco</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Probing the non-Debye low-frequency excitations in glasses through random pinning</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2018</year>
+                <volume>115</volume>
+                <fpage>8700</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018PNAS..115.8700A</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXitVCktbfK</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shiraishi</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Hara</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Mizuno</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Low-frequency vibrational states in ideal glasses with random pinning</article-title>
+                <source>Phys. Rev. E</source>
+                <year>2022</year>
+                <volume>106</volume>
+                <fpage>054611</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2022PhRvE.106e4611S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXnslCq</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bhowmik</surname>
+                    <given-names>BP</given-names>
+                  </name>
+                  <name>
+                    <surname>Chaudhuri</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Karmakar</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effect of pinning on the yielding transition of amorphous solids</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2019</year>
+                <volume>123</volume>
+                <fpage>185501</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019PhRvL.123r5501B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXit1entrjP</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Jack</surname>
+                    <given-names>RL</given-names>
+                  </name>
+                  <name>
+                    <surname>Fullerton</surname>
+                    <given-names>CJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Dynamical correlations in a glass former with randomly pinned particles</article-title>
+                <source>Phys. Rev. E</source>
+                <year>2013</year>
+                <volume>88</volume>
+                <fpage>042304</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013PhRvE..88d2304J</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chakrabarty</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Karmakar</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Dasgupta</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Dynamics of glass forming liquids with randomly pinned particles</article-title>
+                <source>Sci. Rep.</source>
+                <year>2015</year>
+                <volume>5</volume>
+                <elocation-id>1</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Coslovich</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Nonlinear dynamic response of glass-forming liquids to random pinning</article-title>
+                <source>Phys. Rev. E</source>
+                <year>2014</year>
+                <volume>90</volume>
+                <fpage>052305</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014PhRvE..90e2305K</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kapteijns</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Ji</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Brito</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Wyart</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Lerner</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Fast generation of ultrastable computer glasses by minimization of an augmented potential energy</article-title>
+                <source>Phys. Rev. E</source>
+                <year>2019</year>
+                <volume>99</volume>
+                <fpage>012106</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019PhRvE..99a2106K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXpt1Snsrg%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hagh</surname>
+                    <given-names>VF</given-names>
+                  </name>
+                  <name>
+                    <surname>Nagel</surname>
+                    <given-names>SR</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Manning</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                  <name>
+                    <surname>Corwin</surname>
+                    <given-names>EI</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Transient learning degrees of freedom for introducing function in materials</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2022</year>
+                <volume>119</volume>
+                <fpage>e2117622119</fpage>
+                <pub-id pub-id-type="other" assigning-authority="American Mathematical Society">4455459</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38Xhtlymtr3N</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Krzakala</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Zdeborová</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hiding quiet solutions in random constraint satisfaction problems</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2009</year>
+                <volume>102</volume>
+                <fpage>238701</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2009PhRvL.102w8701K</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Scheidler</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Binder</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The relaxation dynamics of a supercooled liquid confined by rough walls</article-title>
+                <source>J. Phys. Chem.</source>
+                <year>2004</year>
+                <volume>108</volume>
+                <fpage>6673</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXhslajurw%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>Q</given-names>
+                  </name>
+                  <name>
+                    <surname>Bae</surname>
+                    <given-names>SC</given-names>
+                  </name>
+                  <name>
+                    <surname>Granick</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Directed self-assembly of a colloidal kagome lattice</article-title>
+                <source>Nature</source>
+                <year>2011</year>
+                <volume>469</volume>
+                <fpage>381</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011Natur.469..381C</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXnvVOgtw%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>Q</given-names>
+                  </name>
+                  <name>
+                    <surname>Yan</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhang</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Bae</surname>
+                    <given-names>SC</given-names>
+                  </name>
+                  <name>
+                    <surname>Granick</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Janus and multiblock colloidal particles</article-title>
+                <source>Langmuir</source>
+                <year>2012</year>
+                <volume>28</volume>
+                <fpage>13555</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XpvVKksL8%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Colloids with valence and specific directional bonding</article-title>
+                <source>Nature</source>
+                <year>2012</year>
+                <volume>491</volume>
+                <fpage>51</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012Natur.491...51W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38Xhs1ajsLfE</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR47">
+              <label>47.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Duguet</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Désert</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Perro</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Ravaine</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Design and elaboration of colloidal molecules: an overview</article-title>
+                <source>Chem. Soc. Rev.</source>
+                <year>2011</year>
+                <volume>40</volume>
+                <fpage>941</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXptFSltg%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR48">
+              <label>48.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>McMullen</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Holmes-Cerfon</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Sciortino</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Grosberg</surname>
+                    <given-names>AY</given-names>
+                  </name>
+                  <name>
+                    <surname>Brujic</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Freely jointed polymers made of droplets</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2018</year>
+                <volume>121</volume>
+                <fpage>138002</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018PhRvL.121m8002M</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXlt1GgsLY%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR49">
+              <label>49.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yuan</surname>
+                    <given-names>Q</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Synthesis of a colloidal molecule from soft microgel spheres</article-title>
+                <source>ACS Macro Lett.</source>
+                <year>2016</year>
+                <volume>5</volume>
+                <fpage>565</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XlvVChsr0%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR50">
+              <label>50.</label>
+              <mixed-citation publication-type="other">
+                McMullen, A., Hilgenfeldt, S. &amp; Brujic, J. DNA self-organization controls valence in programmable colloid design, 
+                <italic>Proc. Natl Acad. Sci. USA</italic>
+                <bold>118</bold>
+                , e2112604118 (2021)
+              </mixed-citation>
+            </ref>
+            <ref id="CR51">
+              <label>51.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Corezzi</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Fioretto</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Rolla</surname>
+                    <given-names>P</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Bond-controlled configurational entropy reduction in chemical vitrification</article-title>
+                <source>Nature</source>
+                <year>2002</year>
+                <volume>420</volume>
+                <fpage>653</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2002Natur.420..653C</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD38XpsVSiur0%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR52">
+              <label>52.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Corezzi</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Fioretto</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Sciortino</surname>
+                    <given-names>F</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Chemical and physical aggregation of small-functionality particles</article-title>
+                <source>Soft Matter</source>
+                <year>2012</year>
+                <volume>8</volume>
+                <fpage>11207</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012SMat....811207C</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XhsFKmurjO</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR53">
+              <label>53.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Coslovich</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Ozawa</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Dynamic and thermodynamic crossover scenarios in the Kob-Andersen mixture: insights from multi-CPU and multi-GPU simulations</article-title>
+                <source>Eur. Phys. J. E</source>
+                <year>2018</year>
+                <volume>41</volume>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXpslSmtbs%3D</pub-id>
+                <elocation-id>1</elocation-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR54">
+              <label>54.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hocky</surname>
+                    <given-names>GM</given-names>
+                  </name>
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Reichman</surname>
+                    <given-names>DR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Equilibrium ultrastable glasses produced by random pinning</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>2014</year>
+                <volume>141</volume>
+                <fpage>224503</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014JChPh.141v4503H</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR55">
+              <label>55.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Staley</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Flenner</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Szamel</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cooling-rate dependence of kinetic and mechanical stabilities of simulated glasses</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>2015</year>
+                <volume>142</volume>
+                <fpage>244508</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015JChPh.142x4508S</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR56">
+              <label>56.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ozawa</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Biroli</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Rosso</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Tarjus</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Random critical point separates brittle and ductile yielding transitions in amorphous materials</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2018</year>
+                <volume>115</volume>
+                <fpage>6656</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018PNAS..115.6656O</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhvFentbjM</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR57">
+              <label>57.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Richard</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Rainone</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Lerner</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Finite-size study of the athermal quasistatic yielding transition in structural glasses</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>2021</year>
+                <volume>155</volume>
+                <fpage>056101</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2021JChPh.155e6101R</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3MXhslyksbvO</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR58">
+              <label>58.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Barlow</surname>
+                    <given-names>HJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Cochran</surname>
+                    <given-names>JO</given-names>
+                  </name>
+                  <name>
+                    <surname>Fielding</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ductile and brittle yielding in thermal and athermal amorphous materials</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2020</year>
+                <volume>125</volume>
+                <fpage>168003</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020PhRvL.125p8003B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXit1Shu73E</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR59">
+              <label>59.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rossi</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Biroli</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Ozawa</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Tarjus</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Zamponi</surname>
+                    <given-names>F</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Finite-disorder critical point in the yielding transition of elasto-plastic models</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2022</year>
+                <volume>129</volume>
+                <fpage>228002</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2022PhRvL.129v8002R</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXnt1eq</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR60">
+              <label>60.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sciortino</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Zaccarelli</surname>
+                    <given-names>E</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reversible gels of patchy particles</article-title>
+                <source>Curr. Opin. Solid State Mater. Sci.</source>
+                <year>2011</year>
+                <volume>15</volume>
+                <fpage>246</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011COSSM..15..246S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXhtl2iurzI</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR61">
+              <label>61.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Rehbein</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Lion</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Johlitz</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Constantinescu</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Experimental investigation and modelling of the curing behaviour of photopolymers</article-title>
+                <source>Polym. Test.</source>
+                <year>2020</year>
+                <volume>83</volume>
+                <fpage>106356</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXhvVSms7k%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR62">
+              <label>62.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hall</surname>
+                    <given-names>RW</given-names>
+                  </name>
+                  <name>
+                    <surname>Wolynes</surname>
+                    <given-names>PG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Microscopic theory of network glasses</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2003</year>
+                <volume>90</volume>
+                <fpage>085505</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2003PhRvL..90h5505H</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR63">
+              <label>63.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Zou</surname>
+                    <given-names>L-N</given-names>
+                  </name>
+                  <name>
+                    <surname>Cheng</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Rivers</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                  <name>
+                    <surname>Jaeger</surname>
+                    <given-names>HM</given-names>
+                  </name>
+                  <name>
+                    <surname>Nagel</surname>
+                    <given-names>SR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The packing of granular polymer chains</article-title>
+                <source>Science</source>
+                <year>2009</year>
+                <volume>326</volume>
+                <fpage>408</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2009Sci...326..408Z</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="American Mathematical Society">2574047</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">1226.82069</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXht1GgtLbE</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR64">
+              <label>64.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nandi</surname>
+                    <given-names>UK</given-names>
+                  </name>
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Maitra Bhattacharyya</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Connecting real glasses to mean-field models</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>2021</year>
+                <volume>154</volume>
+                <fpage>094506</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2021JChPh.154i4506N</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3MXlvVyku7s%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR65">
+              <label>65.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Michel</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Filali</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Aznar</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Porte</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Appell</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Percolation in a model transient network: rheology and dynamic light scattering</article-title>
+                <source>Langmuir</source>
+                <year>2000</year>
+                <volume>16</volume>
+                <fpage>8702</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3cXlslChtL0%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR66">
+              <label>66.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chaudhuri</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Hurtado</surname>
+                    <given-names>PI</given-names>
+                  </name>
+                  <name>
+                    <surname>Berthier</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Relaxation dynamics in a transient network fluid with competing gel and glass phases</article-title>
+                <source>J. Chem. Phys.</source>
+                <year>2015</year>
+                <volume>142</volume>
+                <fpage>174503</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015JChPh.142q4503C</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR67">
+              <label>67.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kob</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Andersen</surname>
+                    <given-names>HC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Testing mode-coupling theory for a supercooled binary Lennard-Jones mixture I: the van Hove correlation function</article-title>
+                <source>Phys. Rev. E</source>
+                <year>1995</year>
+                <volume>51</volume>
+                <fpage>4626</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1995PhRvE..51.4626K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK2MXlslGrsrc%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR68">
+              <label>68.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Andersen</surname>
+                    <given-names>HC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Rattle: a “velocity” version of the shake algorithm for molecular dynamics calculations</article-title>
+                <source>J. Comput. Phys.</source>
+                <year>1983</year>
+                <volume>52</volume>
+                <fpage>24</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1983JCoPh..52...24A</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0513.65052</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL2cXjvFOntw%3D%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR69">
+              <label>69.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Maloney</surname>
+                    <given-names>CE</given-names>
+                  </name>
+                  <name>
+                    <surname>Lemaitre</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Amorphous systems in athermal, quasistatic shear</article-title>
+                <source>Phys. Rev. E</source>
+                <year>2006</year>
+                <volume>74</volume>
+                <fpage>016118</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2006PhRvE..74a6118M</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR70">
+              <label>70.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Falk</surname>
+                    <given-names>ML</given-names>
+                  </name>
+                  <name>
+                    <surname>Langer</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Dynamics of viscoplastic deformation in amorphous solids</article-title>
+                <source>Phys. Rev. E</source>
+                <year>1998</year>
+                <volume>57</volume>
+                <fpage>7192</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1998PhRvE..57.7192F</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1cXjvVKmsL4%3D</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec10">
+              <title>Supplementary information</title>
+              <p id="Par31">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41467_2023_35812_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary Information</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+                <supplementary-material content-type="local-data" id="MOESM2" ns0:title="Supplementary information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41467_2023_35812_MOESM2_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Peer Review File</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41467-023-35812-w" ext-link-type="doi">https://doi.org/10.1038/s41467-023-35812-w</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <p>
+            <bold>Publisher’s note</bold>
+             Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+          </p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

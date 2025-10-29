@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.537900",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55556-5",
+    "title": "A stable open-shell ",
+    "article_number": "186",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinji Zhang",
+      "Xiaojing Fang",
+      "Weiwei Niu",
+      "Yiming Yu",
+      "Yanlin Hu",
+      "Jiawen Sun",
+      "Ying Xu",
+      "Zhihua Zhou",
+      "Heyuan Liu",
+      "Xiaonan Fan",
+      "Baishu Zheng",
+      "Qing Jiang",
+      "Guangwu Li",
+      "Wangdong Zeng"
+    ]
+  },
+  "article_index": 186,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:36:19.586347"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:36:21.096292"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:36:22.237836"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:26:08.411506"
+    },
+    "last_updated": "2025-10-03T23:26:08.411592"
+  }
+}

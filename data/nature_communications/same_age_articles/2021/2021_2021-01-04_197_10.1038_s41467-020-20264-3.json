@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204454",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20264-3",
+    "title": "Synthesis of bio-based methylcyclopentadiene via direct hydrodeoxygenation of 3-methylcyclopent-2-enone derived from cellulose",
+    "article_number": "46",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yanting Liu",
+      "Ran Wang",
+      "Haifeng Qi",
+      "Xiao Yan Liu",
+      "Guangyi Li",
+      "Aiqin Wang",
+      "Xiaodong Wang",
+      "Yu Cong",
+      "Tao Zhang",
+      "Ning Li"
+    ]
+  },
+  "article_index": 197,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:42:47.619452"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:42:49.169492"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:42:50.460082"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T23:08:16.903542"
+    },
+    "last_updated": "2025-10-03T23:08:16.903727"
+  }
+}

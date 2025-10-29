@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.882460",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13981-x",
+    "title": "Treacle controls the nucleolar response to rDNA breaks via TOPBP1 recruitment and ATR activation",
+    "article_number": "123",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Clémence Mooser",
+      "Ioanna-Eleni Symeonidou",
+      "Pia-Amata Leimbacher",
+      "Alison Ribeiro",
+      "Ann-Marie K. Shorrocks",
+      "Stephanie Jungmichel",
+      "Sara C. Larsen",
+      "Katja Knechtle",
+      "Arti Jasrotia",
+      "Diana Zurbriggen",
+      "Alain Jeanrenaud",
+      "Colin Leikauf",
+      "Daniel Fink",
+      "Michael L. Nielsen",
+      "Andrew N. Blackford",
+      "Manuel Stucki"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:19:17.543046"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T18:19:19.105661"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T18:19:20.274966"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T23:00:18.374798"
+    },
+    "last_updated": "2025-10-03T23:00:18.374882"
+  }
+}

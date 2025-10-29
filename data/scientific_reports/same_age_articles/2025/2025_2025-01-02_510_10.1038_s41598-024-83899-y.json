@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.404782",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83899-y",
+    "title": "Spatial distribution and determinants of anemia among under-five children in Mozambique",
+    "article_number": "42",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Berhan Tekeba",
+      "Mulugeta Wassie",
+      "Enyew Getaneh Mekonen",
+      "Tadesse Tarik Tamir",
+      "Agazhe Aemro"
+    ]
+  },
+  "article_index": 510,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:03:43.855487"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:03:45.411139"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:03:46.618131"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:34:16.044947"
+    },
+    "last_updated": "2025-10-03T22:34:16.045136"
+  }
+}

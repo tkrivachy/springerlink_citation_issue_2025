@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.179974",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20414-7",
+    "title": "Visualising G-quadruplex DNA dynamics in live cells by fluorescence lifetime imaging microscopy",
+    "article_number": "162",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Peter A. Summers",
+      "Benjamin W. Lewis",
+      "Jorge Gonzalez-Garcia",
+      "Rosa M. Porreca",
+      "Aaron H. M. Lim",
+      "Paolo Cadinu",
+      "Nerea Martin-Pintado",
+      "David J. Mann",
+      "Joshua B. Edel",
+      "Jean Baptiste Vannier",
+      "Marina K. Kuimova",
+      "Ramon Vilar"
+    ]
+  },
+  "article_index": 40,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:37:33.875419"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 141,
+      "retrieved_at": "2025-10-03T18:37:35.426432"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T18:37:36.852755"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 147,
+      "retrieved_at": "2025-10-03T23:06:27.574624"
+    },
+    "last_updated": "2025-10-03T23:06:27.574814"
+  }
+}

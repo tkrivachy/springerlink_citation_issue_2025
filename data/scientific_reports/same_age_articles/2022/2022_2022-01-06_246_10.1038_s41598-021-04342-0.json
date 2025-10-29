@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.883256",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04342-0",
+    "title": "Clinicopathologic characteristics and prognosis for male breast cancer compared to female breast cancer",
+    "article_number": "220",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nan Yao",
+      "Wenzai Shi",
+      "Tong Liu",
+      "Sarah Tan Siyin",
+      "Weiqi Wang",
+      "Ning Duan",
+      "Guoshuai Xu",
+      "Jun Qu"
+    ]
+  },
+  "article_index": 246,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:13:31.491496"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T15:13:33.034764"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:13:34.220295"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T21:52:50.220434"
+    },
+    "last_updated": "2025-10-03T21:52:50.220498"
+  }
+}

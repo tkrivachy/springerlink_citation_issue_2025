@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.556807",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55654-4",
+    "title": "Performance and stability analysis of all-perovskite tandem photovoltaics in light-driven electrochemical water splitting",
+    "article_number": "174",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Junke Wang",
+      "Bruno Branco",
+      "Willemijn H. M. Remmerswaal",
+      "Shuaifeng Hu",
+      "Nick R. M. Schipper",
+      "Valerio Zardetto",
+      "Laura Bellini",
+      "Nicolas Daub",
+      "Martijn M. Wienk",
+      "Atsushi Wakamiya",
+      "Henry J. Snaith",
+      "René A. J. Janssen"
+    ]
+  },
+  "article_index": 285,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:15:47.551494"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:15:49.102573"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:50.273486"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:19:27.089011"
+    },
+    "last_updated": "2025-10-03T23:19:27.089202"
+  }
+}

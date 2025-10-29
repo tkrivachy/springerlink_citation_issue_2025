@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-020-10046-3</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1186/s12889-020-10046-3</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.biomedcentral.com/openurl?doi=10.1186/s12889-020-10046-3</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/s12889-020-10046-3</ns2:url>
+          <dc:title>Impact of increasing the availability of healthier vs. less-healthy food on food selection: a randomised laboratory experiment</dc:title>
+          <dc:creator>Pechey, Rachel</dc:creator>
+          <dc:creator>Sexton, Olivia</dc:creator>
+          <dc:creator>Codling, Saphsa</dc:creator>
+          <dc:creator>Marteau, Theresa M.</dc:creator>
+          <ns2:publicationName>BMC Public Health</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>1471-2458</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Research article</ns2:genre>
+          <journalId>12889</journalId>
+          <ns2:volume>21</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection>Health behavior, health promotion and society</topicalCollection>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>12</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2021-02-01</onlineDate>
+          <ns2:coverDate>2021-12</ns2:coverDate>
+          <ns2:doi>10.1186/s12889-020-10046-3</ns2:doi>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <dc:publisher>BioMed Central</dc:publisher>
+          <ns2:publicationDate>2021-02-01</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1186/s12889-020-10046-3</ns2:url>
+          <ns2:copyright>©2021 The Author(s)</ns2:copyright>
+          <ns2:keyword>Absolute-and-relative availability</ns2:keyword>
+          <ns2:keyword>Food selection</ns2:keyword>
+          <ns2:keyword>Socioeconomic position</ns2:keyword>
+          <ns2:keyword>Health inequalities</ns2:keyword>
+          <ns2:keyword>Response inhibition</ns2:keyword>
+          <ns2:keyword>Food appeal</ns2:keyword>
+          <dc:subject>Medicine &amp; Public Health</dc:subject>
+          <dc:subject>Public Health</dc:subject>
+          <dc:subject>Medicine/Public Health, general</dc:subject>
+          <dc:subject>Epidemiology</dc:subject>
+          <dc:subject>Environmental Health</dc:subject>
+          <dc:subject>Biostatistics</dc:subject>
+          <dc:subject>Vaccine</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Background</p>
+        <p>Environmental cues shape behaviour, but few studies compare the impact of targeting healthier vs. less-healthy cues. One online study suggested greater impact on selection from increasing the number of less-healthy (vs. healthier) snacks. The current study aimed to: (1) extend the previous study by using physically-present snacks for immediate consumption; (2) explore responsiveness by socio-economic position; (3) investigate possible mediators (response inhibition, food appeal) of any socio-economic differences in selection.</p>
+        <p>Methods</p>
+        <p>In a between-subjects laboratory experiment UK adults ( n  = 417) were randomised according to their ID number (without blinding) to one of three ranges of options: Two healthier, two less-healthy [“Equal”] ( n  = 136); Six healthier, two less-healthy [“Increased Healthier”] ( n  = 143); Two healthier, six less-healthy [“Increased Less-Healthy”] ( n  = 138). Participants completed measures of response inhibition and food appeal, and selected a snack for immediate consumption from their allocated range. The primary outcome was selection of a healthier (over less-healthy) snack.</p>
+        <p>Results</p>
+        <p>The odds of selecting a less-healthy snack were 2.9 times higher (95%CIs:1.7,5.1) in the Increased Less-Healthy condition compared to the Equal condition. The odds of selecting a healthier snack were 2.5 times higher (95%CIs:1.5,4.1) in the Increased Healthier (vs. Equal) condition. There was no significant difference in the size of these effects (− 0.2; 95%CIs:-1.1,0.7). Findings were inconclusive with regard to interactions by education, but the direction of effects was consistent with potentially larger impact of the Increased Healthier condition on selection for higher-educated participants, and potentially larger impact of the Increased Less-Healthy condition for less-educated participants.</p>
+        <p>Conclusions</p>
+        <p>A greater impact from increasing the number of less-healthy (over healthier) foods was not replicated when selecting snacks for immediate consumption: both increased selections of the targeted foods with no evidence of a difference in effectiveness. The observed pattern of results suggested possible differential impact by education, albeit not statistically significant. If replicated in larger studies, this could suggest that removing less-healthy options has the potential to reduce health inequalities due to unhealthier diets. Conversely, adding healthier options could have the potential to increase these inequalities.</p>
+        <p>Trial registration</p>
+        <p>ISRCTN: ISRCTN34626166 ; 11/06/2018; Retrospectively registered.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Absolute-and-relative availability</facet-value>
+      <facet-value count="1">Food appeal</facet-value>
+      <facet-value count="1">Food selection</facet-value>
+      <facet-value count="1">Health inequalities</facet-value>
+      <facet-value count="1">Response inhibition</facet-value>
+      <facet-value count="1">Socioeconomic position</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2021</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">United Kingdom</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

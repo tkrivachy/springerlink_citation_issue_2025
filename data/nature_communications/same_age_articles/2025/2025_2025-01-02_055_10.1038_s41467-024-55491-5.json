@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.517911",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55491-5",
+    "title": "Global-optimized energy storage performance in multilayer ferroelectric ceramic capacitors",
+    "article_number": "188",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Da Li",
+      "Zhaobo Liu",
+      "Weichen Zhao",
+      "Yan Guo",
+      "Zhentao Wang",
+      "Diming Xu",
+      "Houbing Huang",
+      "Li-Xia Pang",
+      "Tao Zhou",
+      "Wen-Feng Liu",
+      "Di Zhou"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:21:48.459717"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:21:50.032557"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:21:51.197287"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T23:21:27.268644"
+    },
+    "last_updated": "2025-10-03T23:21:27.268704"
+  }
+}

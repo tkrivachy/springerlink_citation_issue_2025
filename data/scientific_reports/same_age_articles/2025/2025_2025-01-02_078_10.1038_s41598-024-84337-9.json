@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.349655",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84337-9",
+    "title": "Plasmon-enhanced visible photodetectors based on hexagonal boron nitride (hBN) with gold (Au), silver (Ag), and non-alloyed bimetallic (Au/Ag) nanoparticles",
+    "article_number": "6",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Muhammad Nur Syafiq Mohamad Ismail",
+      "Muhammad Aiman Saufi Ahmad Fahri",
+      "Chee Leong Tan",
+      "Rozalina Zakaria"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:39:28.601811"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:39:30.137519"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:39:31.324247"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:25:39.063909"
+    },
+    "last_updated": "2025-10-03T22:25:39.064098"
+  }
+}

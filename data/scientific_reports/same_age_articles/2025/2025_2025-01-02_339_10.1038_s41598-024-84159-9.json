@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.385194",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84159-9",
+    "title": "Study on physical clogging process and practical application of horizontal subsurface flow constructed wetland",
+    "article_number": "523",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shuqun Dai",
+      "Ruida Wang",
+      "Jiawei Lin",
+      "Guoyi Zhang",
+      "Zhonggou Chen",
+      "Lei Li",
+      "Qintian Shi"
+    ]
+  },
+  "article_index": 339,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:10:16.623838"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:10:18.135729"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:47:40.964774"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:15:27.170338"
+    },
+    "last_updated": "2025-10-07T09:47:40.964882"
+  }
+}

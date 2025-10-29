@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.965254",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-47",
+    "title": "Prevalence of nonvitamin, nonmineral supplement usage among students in a Turkish university",
+    "article_number": "47",
+    "publication_date": "2005-05-16",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Unal Ayranci",
+      "Nazan Son",
+      "Osman Son"
+    ]
+  },
+  "article_index": 109,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:17:38.288396"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T12:17:39.836169"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T12:17:41.109801"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T20:47:33.587536"
+    },
+    "last_updated": "2025-10-03T20:47:33.587727"
+  }
+}

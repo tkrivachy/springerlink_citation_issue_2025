@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.558610",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54942-3",
+    "title": "A soft thermal sensor for the continuous assessment of flow in vascular access",
+    "article_number": "38",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yujun Deng",
+      "Hany M. Arafa",
+      "Tianyu Yang",
+      "Hassan Albadawi",
+      "Richard J. Fowl",
+      "Zefu Zhang",
+      "Viswajit Kandula",
+      "Ashvita Ramesh",
+      "Chase Correia",
+      "Yonggang Huang",
+      "Rahmi Oklu",
+      "John A. Rogers",
+      "Andrea S. Carlini"
+    ]
+  },
+  "article_index": 300,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:30:51.514565"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:30:53.030668"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:54.194575"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:24:19.594979"
+    },
+    "last_updated": "2025-10-03T23:24:19.595171"
+  }
+}

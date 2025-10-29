@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.192205",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20236-7",
+    "title": "Efficient assembly of nanopore reads via highly accurate and intact error correction",
+    "article_number": "60",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ying Chen",
+      "Fan Nie",
+      "Shang-Qian Xie",
+      "Ying-Feng Zheng",
+      "Qi Dai",
+      "Thomas Bray",
+      "Yao-Xin Wang",
+      "Jian-Feng Xing",
+      "Zhi-Jian Huang",
+      "De-Peng Wang",
+      "Li-Juan He",
+      "Feng Luo",
+      "Jian-Xin Wang",
+      "Yi-Zhi Liu",
+      "Chuan-Le Xiao"
+    ]
+  },
+  "article_index": 108,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 288,
+      "retrieved_at": "2025-10-03T18:35:12.125226"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 320,
+      "retrieved_at": "2025-10-03T18:35:13.697816"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 263,
+      "retrieved_at": "2025-10-03T18:35:14.851626"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 371,
+      "retrieved_at": "2025-10-03T23:05:42.746191"
+    },
+    "last_updated": "2025-10-03T23:05:42.746238"
+  }
+}

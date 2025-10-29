@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.670777",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44391-9",
+    "title": "FOXP3",
+    "article_number": "122",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xinnan Liu",
+      "Weiqi Zhang",
+      "Yichao Han",
+      "Hao Cheng",
+      "Qi Liu",
+      "Shouyu Ke",
+      "Fangming Zhu",
+      "Ying Lu",
+      "Xin Dai",
+      "Chuan Wang",
+      "Gonghua Huang",
+      "Bing Su",
+      "Qiang Zou",
+      "Huabing Li",
+      "Wenyi Zhao",
+      "Lianbo Xiao",
+      "Linrong Lu",
+      "Xuemei Tong",
+      "Fan Pan",
+      "Hecheng Li",
+      "Bin Li"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:59:00.742682"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:59:02.290810"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:59:03.435979"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T23:13:44.073022"
+    },
+    "last_updated": "2025-10-03T23:13:44.073213"
+  }
+}

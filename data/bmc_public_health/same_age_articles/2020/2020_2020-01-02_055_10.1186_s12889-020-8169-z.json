@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.673164",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8169-z",
+    "title": "Youth working in tobacco farming: effects on smoking behavior and association with health status",
+    "article_number": "84",
+    "publication_date": "2020-01-20",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ethel Alderete",
+      "Jennifer Livaudais-Toman",
+      "Celia Kaplan",
+      "Steven E. Gregorich",
+      "Raúl Mejía",
+      "Eliseo J. Pérez-Stable"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T13:37:29.078653"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T13:37:30.607427"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T13:37:31.812180"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T21:16:32.594481"
+    },
+    "last_updated": "2025-10-03T21:16:32.594674"
+  }
+}

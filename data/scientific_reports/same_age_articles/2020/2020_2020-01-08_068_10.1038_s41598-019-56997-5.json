@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.306782",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56997-5",
+    "title": "Structural analysis of retinal blood vessels in patients with COPD during a pulmonary rehabilitation program",
+    "article_number": "31",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Anouk W. Vaes",
+      "Martijn A. Spruit",
+      "Karel Van Keer",
+      "João Barbosa-Breda",
+      "Emiel F. M. Wouters",
+      "Frits M. E. Franssen",
+      "Jan Theunis",
+      "Patrick De Boever"
+    ]
+  },
+  "article_index": 68,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:25:14.619902"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:25:16.142564"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:25:17.411643"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:33:23.446757"
+    },
+    "last_updated": "2025-10-03T21:33:23.446942"
+  }
+}

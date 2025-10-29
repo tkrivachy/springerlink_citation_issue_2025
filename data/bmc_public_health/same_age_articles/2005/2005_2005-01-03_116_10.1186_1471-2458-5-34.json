@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.965950",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-34",
+    "title": "Effect of a chemical manufacturing plant on community cancer rates",
+    "article_number": "34",
+    "publication_date": "2005-04-05",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Trish Mannes",
+      "Katy Emmett",
+      "Alan Willmore",
+      "Tim Churches",
+      "Vicky Sheppeard",
+      "Jill Kaldor"
+    ]
+  },
+  "article_index": 116,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T12:18:04.288455"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T12:18:16.088751"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T12:18:17.368238"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T20:47:42.309925"
+    },
+    "last_updated": "2025-10-03T20:47:42.310118"
+  }
+}

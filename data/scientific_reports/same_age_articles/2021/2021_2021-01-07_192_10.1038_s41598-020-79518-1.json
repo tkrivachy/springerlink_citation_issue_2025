@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.235676",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79518-1",
+    "title": "Direct entry of cell-penetrating peptide can be controlled by maneuvering the membrane curvature",
+    "article_number": "31",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kazutami Sakamoto",
+      "Taku Morishita",
+      "Kenichi Aburai",
+      "Daisuke Ito",
+      "Tomohiro Imura",
+      "Kenichi Sakai",
+      "Masahiko Abe",
+      "Ikuhiko Nakase",
+      "Shiroh Futaki",
+      "Hideki Sakai"
+    ]
+  },
+  "article_index": 192,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:52:28.834180"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:52:30.378550"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:52:31.680546"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:44:22.706788"
+    },
+    "last_updated": "2025-10-03T21:44:22.706976"
+  }
+}

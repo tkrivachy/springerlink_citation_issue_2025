@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889040",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13913-9",
+    "title": "Fungal community assembly in drought-stressed sorghum shows stochasticity, selection, and universal ecological dynamics",
+    "article_number": "34",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cheng Gao",
+      "Liliam Montoya",
+      "Ling Xu",
+      "Mary Madera",
+      "Joy Hollingsworth",
+      "Elizabeth Purdom",
+      "Vasanth Singan",
+      "John Vogel",
+      "Robert B. Hutmacher",
+      "Jeffery A. Dahlberg",
+      "Devin Coleman-Derr",
+      "Peggy G. Lemaux",
+      "John W. Taylor"
+    ]
+  },
+  "article_index": 102,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 238,
+      "retrieved_at": "2025-10-03T18:09:34.329284"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 236,
+      "retrieved_at": "2025-10-03T18:09:35.883955"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 219,
+      "retrieved_at": "2025-10-03T18:09:37.065101"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 295,
+      "retrieved_at": "2025-10-03T22:57:02.044607"
+    },
+    "last_updated": "2025-10-03T22:57:02.044800"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.102558",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26890-9",
+    "title": "Prisoner’s dilemma game model Based on historical strategy information",
+    "article_number": "1",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhiqiang Gou",
+      "Ya Li"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 314,
+      "retrieved_at": "2025-10-03T15:28:06.660143"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 415,
+      "retrieved_at": "2025-10-03T15:28:08.167653"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 277,
+      "retrieved_at": "2025-10-03T15:28:09.573504"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 477,
+      "retrieved_at": "2025-10-03T21:59:02.808421"
+    },
+    "last_updated": "2025-10-03T21:59:02.808470"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.557559",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55492-4",
+    "title": "Self-assembled hole-selective contact for efficient Sn-Pb perovskite solar cells and all-perovskite tandems",
+    "article_number": "240",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jingwei Zhu",
+      "Xiaozhen Huang",
+      "Yi Luo",
+      "Wenbo Jiao",
+      "Yuliang Xu",
+      "Juncheng Wang",
+      "Zhiyu Gao",
+      "Kun Wei",
+      "Tianshu Ma",
+      "Jiayu You",
+      "Jialun Jin",
+      "Shenghan Wu",
+      "Zhihao Zhang",
+      "Wenqing Liang",
+      "Yang Wang",
+      "Shengqiang Ren",
+      "Changlei Wang",
+      "Cong Chen",
+      "Jinbao Zhang",
+      "Dewei Zhao"
+    ]
+  },
+  "article_index": 290,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T19:34:37.829536"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T19:34:39.357960"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:34:40.561900"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:25:35.480972"
+    },
+    "last_updated": "2025-10-03T23:25:35.481059"
+  }
+}

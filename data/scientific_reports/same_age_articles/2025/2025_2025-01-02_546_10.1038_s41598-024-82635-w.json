@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.408601",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82635-w",
+    "title": "A secure and energy-efficient routing using coupled ensemble selection approach and optimal type-2 fuzzy logic in WSN",
+    "article_number": "38",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "S. Ambareesh",
+      "Pundalik Chavan",
+      "S. Supreeth",
+      "Rajesh Nandalike",
+      "P. Dayananda",
+      "S. Rohith"
+    ]
+  },
+  "article_index": 546,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:22:22.182486"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:22:23.704644"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:11.320360"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:19:37.963004"
+    },
+    "last_updated": "2025-10-07T09:50:11.320419"
+  }
+}

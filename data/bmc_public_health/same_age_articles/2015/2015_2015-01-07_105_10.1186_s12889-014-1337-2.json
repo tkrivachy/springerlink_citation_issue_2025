@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.255674",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-014-1337-2",
+    "title": "Determinants of underweight, stunting and wasting among schoolchildren",
+    "article_number": "8",
+    "publication_date": "2015-01-17",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mekides Wolde",
+      "Yifru Berhan",
+      "Alemzewed Chala"
+    ]
+  },
+  "article_index": 105,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T13:12:49.731682"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T13:12:51.347626"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T13:12:52.751765"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T21:07:29.959581"
+    },
+    "last_updated": "2025-10-03T21:07:29.959631"
+  }
+}

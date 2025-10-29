@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.791668",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-33",
+    "title": "Ecological association between a deprivation index and mortality in France over the period 1997 – 2001: variations with spatial scale, degree of urbanicity, age, gender and cause of death",
+    "article_number": "33",
+    "publication_date": "2009-01-22",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Grégoire Rey",
+      "Eric Jougla",
+      "Anne Fouillet",
+      "Denis Hémon"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 491,
+      "retrieved_at": "2025-10-03T12:35:25.120367"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 451,
+      "retrieved_at": "2025-10-03T12:35:26.699073"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 410,
+      "retrieved_at": "2025-10-03T12:35:28.402714"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 489,
+      "retrieved_at": "2025-10-03T20:53:55.566572"
+    },
+    "last_updated": "2025-10-03T20:53:55.566764"
+  }
+}

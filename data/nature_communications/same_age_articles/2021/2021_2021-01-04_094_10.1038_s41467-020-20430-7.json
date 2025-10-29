@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.189615",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20430-7",
+    "title": "Benchmarking joint multi-omics dimensionality reduction approaches for the study of cancer",
+    "article_number": "124",
+    "publication_date": "2021-01-05",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Laura Cantini",
+      "Pooya Zakeri",
+      "Celine Hernandez",
+      "Aurelien Naldi",
+      "Denis Thieffry",
+      "Elisabeth Remy",
+      "Anaïs Baudot"
+    ]
+  },
+  "article_index": 94,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 136,
+      "retrieved_at": "2025-10-03T18:36:18.989761"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 153,
+      "retrieved_at": "2025-10-03T18:36:20.499772"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T18:36:21.642710"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T23:06:03.556786"
+    },
+    "last_updated": "2025-10-03T23:06:03.556974"
+  }
+}

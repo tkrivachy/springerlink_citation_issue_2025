@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.887074",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13796-w",
+    "title": "Ratiometric upconversion nanothermometry with dual emission at the same wavelength decoded via a time-resolved technique",
+    "article_number": "4",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaochen Qiu",
+      "Qianwen Zhou",
+      "Xingjun Zhu",
+      "Zugen Wu",
+      "Wei Feng",
+      "Fuyou Li"
+    ]
+  },
+  "article_index": 88,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 221,
+      "retrieved_at": "2025-10-03T18:19:42.262372"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 261,
+      "retrieved_at": "2025-10-03T18:19:43.807248"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 240,
+      "retrieved_at": "2025-10-03T18:19:45.328684"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 282,
+      "retrieved_at": "2025-10-03T23:00:26.886246"
+    },
+    "last_updated": "2025-10-03T23:00:26.886477"
+  }
+}

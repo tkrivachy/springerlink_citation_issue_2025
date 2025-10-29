@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.818844",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-11",
+    "title": "Predictors of the number of under-five malnourished children in Bangladesh: application of the generalized poisson regression model",
+    "article_number": "11",
+    "publication_date": "2013-01-08",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mohammad Mafijul Islam",
+      "Morshed Alam",
+      "Md Tariquzaman",
+      "Mohammad Alamgir Kabir",
+      "Rokhsona Pervin",
+      "Munni Begum",
+      "Md Mobarak Hossain Khan"
+    ]
+  },
+  "article_index": 79,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T12:48:38.876368"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T12:48:40.425060"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T12:48:41.747758"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T20:58:43.222308"
+    },
+    "last_updated": "2025-10-03T20:58:43.222365"
+  }
+}

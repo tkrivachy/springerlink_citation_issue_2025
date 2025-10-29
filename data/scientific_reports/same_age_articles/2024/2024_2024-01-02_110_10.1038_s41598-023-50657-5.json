@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.838049",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50657-5",
+    "title": "Viral and bacterial microorganisms in Vietnamese children with severe and non-severe pneumonia",
+    "article_number": "120",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xuan Duong Tran",
+      "Van-Thuan Hoang",
+      "Ndiaw Goumballa",
+      "Thi Nguyet Vu",
+      "Trong Kiem Tran",
+      "Thi Dung Pham",
+      "Thi-Loi Dao",
+      "Thi Thuy Vu",
+      "Duy Cuong Nguyen",
+      "Quoc Tien Nguyen",
+      "Pierre Marty",
+      "Philippe Gautret"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:36:52.592058"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:36:54.112522"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:36:55.341222"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T22:02:36.042624"
+    },
+    "last_updated": "2025-10-03T22:02:36.042673"
+  }
+}

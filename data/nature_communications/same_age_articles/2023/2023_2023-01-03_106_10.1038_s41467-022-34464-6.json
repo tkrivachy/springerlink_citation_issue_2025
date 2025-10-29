@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.653099",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-34464-6",
+    "title": "The splanchnic mesenchyme is the tissue of origin for pancreatic fibroblasts during homeostasis and tumorigenesis",
+    "article_number": "1",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lu Han",
+      "Yongxia Wu",
+      "Kun Fang",
+      "Sean Sweeney",
+      "Ulyss K. Roesner",
+      "Melodie Parrish",
+      "Khushbu Patel",
+      "Tom Walter",
+      "Julia Piermattei",
+      "Anthony Trimboli",
+      "Julia Lefler",
+      "Cynthia D. Timmers",
+      "Xue-Zhong Yu",
+      "Victor X. Jin",
+      "Michael T. Zimmermann",
+      "Angela J. Mathison",
+      "Raul Urrutia",
+      "Michael C. Ostrowski",
+      "Gustavo Leone"
+    ]
+  },
+  "article_index": 106,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 111,
+      "retrieved_at": "2025-10-03T18:48:56.675490"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 254,
+      "retrieved_at": "2025-10-03T18:48:58.232560"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T18:48:59.389206"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 353,
+      "retrieved_at": "2025-10-03T23:10:17.842853"
+    },
+    "last_updated": "2025-10-03T23:10:17.842931"
+  }
+}

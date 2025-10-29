@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:55:56.214154",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-024-21246-6",
+    "title": "Assessing the short-term hematological and pulmonary effects of air pollution: a cross-sectional study in a Turkish urban setting",
+    "article_number": "16",
+    "publication_date": "2025-01-02",
+    "volume": "25",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Mehmet Kılınçer",
+      "Ersan Gürsoy"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:19:58.693824"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:20:00.325765"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:20:01.516763"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:31:26.509259"
+    },
+    "last_updated": "2025-10-03T21:31:26.509490"
+  }
+}

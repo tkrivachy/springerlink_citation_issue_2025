@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697481",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08264-w",
+    "title": "Improved TMC1 gene therapy restores hearing and balance in mice with genetic inner ear disorders",
+    "article_number": "236",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Carl A. Nist-Lund",
+      "Bifeng Pan",
+      "Amy Patterson",
+      "Yukako Asai",
+      "Tianwen Chen",
+      "Wu Zhou",
+      "Hong Zhu",
+      "Sandra Romero",
+      "Jennifer Resnik",
+      "Daniel B. Polley",
+      "Gwenaelle S. Géléoc",
+      "Jeffrey R. Holt"
+    ]
+  },
+  "article_index": 188,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T17:26:20.906817"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 138,
+      "retrieved_at": "2025-10-03T17:26:22.423515"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 133,
+      "retrieved_at": "2025-10-03T17:26:23.840302"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 162,
+      "retrieved_at": "2025-10-03T22:42:15.680971"
+    },
+    "last_updated": "2025-10-03T22:42:15.681018"
+  }
+}

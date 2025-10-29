@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.609093",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02428-w",
+    "title": "Punctuated evolution of canonical genomic aberrations in uveal melanoma",
+    "article_number": "116",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Matthew G. Field",
+      "Michael A. Durante",
+      "Hima Anbunathan",
+      "Louis Z. Cai",
+      "Christina L. Decatur",
+      "Anne M. Bowcock",
+      "Stefan Kurtenbach",
+      "J. William Harbour"
+    ]
+  },
+  "article_index": 38,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:44.455351",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 170,
+      "retrieved_at": "2025-10-03T11:44:05.072946"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T17:07:32.579440"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 157,
+      "retrieved_at": "2025-10-03T17:07:33.769781"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T22:35:44.455293"
+    }
+  }
+}

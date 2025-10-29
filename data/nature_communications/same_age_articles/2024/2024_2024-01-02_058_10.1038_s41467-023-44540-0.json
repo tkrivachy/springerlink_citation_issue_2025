@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.672195",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44540-0",
+    "title": "MCT1-governed pyruvate metabolism is essential for antibody class-switch recombination through H3K27 acetylation",
+    "article_number": "163",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wenna Chi",
+      "Na Kang",
+      "Linlin Sheng",
+      "Sichen Liu",
+      "Lei Tao",
+      "Xizhi Cao",
+      "Ye Liu",
+      "Can Zhu",
+      "Yuming Zhang",
+      "Bolong Wu",
+      "Ruiqun Chen",
+      "Lili Cheng",
+      "Jing Wang",
+      "Xiaolin Sun",
+      "Xiaohui Liu",
+      "Haiteng Deng",
+      "Jinliang Yang",
+      "Zhanguo Li",
+      "Wanli Liu",
+      "Ligong Chen"
+    ]
+  },
+  "article_index": 58,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:09:50.475086"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:09:52.006930"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:09:53.149105"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:17:23.090902"
+    },
+    "last_updated": "2025-10-03T23:17:23.091092"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.248878",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1359-4",
+    "title": "Serum lipids in Brazilian children and adolescents: determining their reference intervals",
+    "article_number": "18",
+    "publication_date": "2015-01-21",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Natasha Slhessarenko",
+      "Cristina MA Jacob",
+      "Raymundo S Azevedo",
+      "Cor JF Fontes",
+      "Glaucia V Novak",
+      "Adagmar Andriolo"
+    ]
+  },
+  "article_index": 91,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:16:54.411064"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:16:55.937311"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:16:57.217649"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:09:07.756404"
+    },
+    "last_updated": "2025-10-03T21:09:07.756597"
+  }
+}

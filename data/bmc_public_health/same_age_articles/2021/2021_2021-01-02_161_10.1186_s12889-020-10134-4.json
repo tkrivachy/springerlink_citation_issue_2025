@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.649040",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10134-4",
+    "title": "Anxiety amongst physicians during COVID-19: cross-sectional study in Pakistan",
+    "article_number": "118",
+    "publication_date": "2021-01-11",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Qaisar Khalid Mahmood",
+      "Sara Rizvi Jafree",
+      "Aisha Jalil",
+      "Syed Mujtaba Hasnain Nadir",
+      "Florian Fischer"
+    ]
+  },
+  "article_index": 161,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T13:57:49.312947"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T13:57:50.840273"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:57:52.118484"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:23:44.329276"
+    },
+    "last_updated": "2025-10-03T21:23:44.329372"
+  }
+}

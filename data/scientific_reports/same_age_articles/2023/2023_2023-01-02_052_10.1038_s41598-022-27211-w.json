@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.104971",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27211-w",
+    "title": "A deep learning framework assisted echocardiography with diagnosis, lesion localization, phenogrouping heterogeneous disease, and anomaly detection",
+    "article_number": "3",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bohan Liu",
+      "Hao Chang",
+      "Dong Yang",
+      "Feifei Yang",
+      "Qiushuang Wang",
+      "Yujiao Deng",
+      "Lijun Li",
+      "Wenqing Lv",
+      "Bo Zhang",
+      "Liheng Yu",
+      "Daniel Burkhoff",
+      "Kunlun He"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T15:31:50.544769"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T15:31:52.064112"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T15:31:53.344287"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T22:00:35.986117"
+    },
+    "last_updated": "2025-10-03T22:00:35.986163"
+  }
+}

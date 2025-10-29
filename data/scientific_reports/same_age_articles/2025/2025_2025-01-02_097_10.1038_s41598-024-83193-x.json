@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.351757",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83193-x",
+    "title": "Effects of linsitinib on M22 and IGF:1-treated 3D spheroids of human orbital fibroblasts",
+    "article_number": "384",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Fumihito Hikage",
+      "Megumi Suzuki",
+      "Tatsuya Sato",
+      "Araya Umetsu",
+      "Toshifumi Ogawa",
+      "Nami Nishikiori",
+      "Masato Furuhashi",
+      "Hiroshi Ohguro",
+      "Megumi Watanabe"
+    ]
+  },
+  "article_index": 97,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:45:26.062920"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:45:27.619102"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:28.794058"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:27:52.016997"
+    },
+    "last_updated": "2025-10-03T22:27:52.017084"
+  }
+}

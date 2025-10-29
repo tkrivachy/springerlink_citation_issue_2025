@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.683194",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44421-6",
+    "title": "Alveolar macrophage-expressed Plet1 is a driver of lung epithelial repair after viral pneumonia",
+    "article_number": "87",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Learta Pervizaj-Oruqaj",
+      "Balachandar Selvakumar",
+      "Maximiliano Ruben Ferrero",
+      "Monika Heiner",
+      "Christina Malainou",
+      "Rolf David Glaser",
+      "Jochen Wilhelm",
+      "Marek Bartkuhn",
+      "Astrid Weiss",
+      "Ioannis Alexopoulos",
+      "Biruta Witte",
+      "Stefan Gattenlöhner",
+      "István Vadász",
+      "Rory Edward Morty",
+      "Werner Seeger",
+      "Ralph Theo Schermuly",
+      "Ana Ivonne Vazquez-Armendariz",
+      "Susanne Herold"
+    ]
+  },
+  "article_index": 140,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:05:03.781451"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T19:05:05.339642"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:05:06.645215"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:15:47.551965"
+    },
+    "last_updated": "2025-10-03T23:15:47.552050"
+  }
+}

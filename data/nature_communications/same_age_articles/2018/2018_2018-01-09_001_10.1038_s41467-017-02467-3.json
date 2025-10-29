@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.603532",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02467-3",
+    "title": "Integrated omics dissection of proteome dynamics during cardiac remodeling",
+    "article_number": "120",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Edward Lau",
+      "Quan Cao",
+      "Maggie P. Y. Lam",
+      "Jie Wang",
+      "Dominic C. M. Ng",
+      "Brian J. Bleakley",
+      "Jessica M. Lee",
+      "David A. Liem",
+      "Ding Wang",
+      "Henning Hermjakob",
+      "Peipei Ping"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:36:14.756643",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T11:44:11.775495"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T17:08:46.112565"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T17:08:47.276633"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T22:36:14.756545"
+    }
+  }
+}

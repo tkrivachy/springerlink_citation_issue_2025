@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.376674",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84103-x",
+    "title": "Effects of three different host plants on two sex life table parameters of the fall armyworm ",
+    "article_number": "141",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhao Wang",
+      "Huan Zhu",
+      "Dao-Chao Jin",
+      "Jin-Ting Hou",
+      "Xia Liu"
+    ]
+  },
+  "article_index": 259,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:02:29.988820"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:02:31.534044"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:32.747660"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:33:49.222435"
+    },
+    "last_updated": "2025-10-03T22:33:49.222485"
+  }
+}

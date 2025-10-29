@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.676550",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07761-2",
+    "title": "Influence of fake news in Twitter during the 2016 US presidential election",
+    "article_number": "7",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alexandre Bovet",
+      "Hernán A. Makse"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T17:15:09.576027"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 607,
+      "retrieved_at": "2025-10-03T17:15:11.097035"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 570,
+      "retrieved_at": "2025-10-03T17:15:12.246623"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 770,
+      "retrieved_at": "2025-10-03T22:38:30.695184"
+    },
+    "last_updated": "2025-10-03T22:38:30.695409"
+  }
+}

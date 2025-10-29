@@ -1,0 +1,147 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-022-35759-4",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-022-35759-4",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-022-35759-4"
+        }
+      ],
+      "title": "The learnability of Pauli noise",
+      "creators": [
+        {
+          "ORCID": "0000-0002-5904-6906",
+          "creator": "Chen, Senrui"
+        },
+        {
+          "ORCID": "0000-0003-1297-6396",
+          "creator": "Liu, Yunchao"
+        },
+        {
+          "ORCID": "0000-0002-6522-5820",
+          "creator": "Otten, Matthew"
+        },
+        {
+          "creator": "Seif, Alireza"
+        },
+        {
+          "ORCID": "0000-0002-9627-0210",
+          "creator": "Fefferman, Bill"
+        },
+        {
+          "ORCID": "0000-0002-0000-9342",
+          "creator": "Jiang, Liang"
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "doi": "10.1038/s41467-022-35759-4",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2023-01-04",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "14",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "8",
+      "journalId": "41467",
+      "openAccess": "true",
+      "onlineDate": "2023-01-04",
+      "coverDate": "2023-12",
+      "copyright": "©2023 The Author(s)",
+      "abstract": {
+        "h1": "Abstract",
+        "p": [
+          "Recently, several quantum benchmarking algorithms have been developed to characterize noisy quantum gates on today’s quantum devices. A fundamental issue in benchmarking is that not everything about quantum noise is learnable due to the existence of gauge freedom, leaving open the question what information is learnable and what is not, which is unclear even for a single CNOT gate. Here we give a precise characterization of the learnability of Pauli noise channels attached to Clifford gates using graph theoretical tools. Our results reveal the optimality of cycle benchmarking in the sense that it can extract all learnable information about Pauli noise. We experimentally demonstrate noise characterization of IBM’s CNOT gate up to 2 unlearnable degrees of freedom, for which we obtain bounds using physical constraints. In addition, we show that an attempt to extract unlearnable information by ignoring state preparation noise yields unphysical estimates, which is used to lower bound the state preparation noise.",
+          "Characterisation of quantum hardware requires clear indications on what can and cannot be learned about quantum noise. Here, the authors show how to characterise learnable degrees of freedom of a Clifford gate using tools from algebraic graph theory."
+        ]
+      },
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword"
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

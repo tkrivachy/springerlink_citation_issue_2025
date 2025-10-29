@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.305535",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57082-7",
+    "title": "APOE ε4 Modifies Effect of Residential Greenness on Cognitive Function among Older Adults: A Longitudinal Analysis in China",
+    "article_number": "82",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Anna Zhu",
+      "Lijing Yan",
+      "Chang Shu",
+      "Yi Zeng",
+      "John S. Ji"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:30:39.534623"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:30:41.095037"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:30:42.234350"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:35:36.085820"
+    },
+    "last_updated": "2025-10-03T21:35:36.086028"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.546192",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55289-5",
+    "title": "SOX2",
+    "article_number": "16",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alice Santambrogio",
+      "Yasmine Kemkem",
+      "Thea L. Willis",
+      "Ilona Berger",
+      "Maria Eleni Kastriti",
+      "Louis Faure",
+      "John P. Russell",
+      "Emily J. Lodge",
+      "Val Yianni",
+      "Bence Kövér",
+      "Rebecca J. Oakey",
+      "Barbara Altieri",
+      "Stefan R. Bornstein",
+      "Charlotte Steenblock",
+      "Igor Adameyko",
+      "Cynthia L. Andoniadou"
+    ]
+  },
+  "article_index": 240,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:41:36.390685"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:41:37.936707"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:41:39.082121"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:28:04.252371"
+    },
+    "last_updated": "2025-10-03T23:28:04.252432"
+  }
+}

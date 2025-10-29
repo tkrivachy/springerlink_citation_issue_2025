@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.651220",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35725-0",
+    "title": "Insights into the GSDMB-mediated cellular lysis and its targeting by IpaH7.8",
+    "article_number": "61",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hang Yin",
+      "Jian Zheng",
+      "Qiuqiu He",
+      "Xuan Zhang",
+      "Xuzichao Li",
+      "Yongjian Ma",
+      "Xiao Liang",
+      "Jiaqi Gao",
+      "Benjamin L. Kocsis",
+      "Zhuang Li",
+      "Xiang Liu",
+      "Neal M. Alto",
+      "Long Li",
+      "Heng Zhang"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:51:17.635311"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:51:19.189536"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:51:20.527635"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T23:11:06.462907"
+    },
+    "last_updated": "2025-10-03T23:11:06.462954"
+  }
+}

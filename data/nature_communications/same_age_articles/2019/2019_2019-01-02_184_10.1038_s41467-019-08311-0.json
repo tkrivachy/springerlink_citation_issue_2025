@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.697067",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08311-0",
+    "title": "A child with perinatal HIV infection and long-term sustained virological control following antiretroviral treatment cessation",
+    "article_number": "412",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Avy Violari",
+      "Mark F. Cotton",
+      "Louise Kuhn",
+      "Diana B. Schramm",
+      "Maria Paximadis",
+      "Shayne Loubser",
+      "Sharon Shalekoff",
+      "Bianca Da Costa Dias",
+      "Kennedy Otwombe",
+      "Afaaf Liberty",
+      "James McIntyre",
+      "Abdel Babiker",
+      "Diana Gibb",
+      "Caroline T. Tiemessen"
+    ]
+  },
+  "article_index": 184,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T17:27:59.820672"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T17:28:01.385638"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T17:28:02.786867"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T22:42:51.119029"
+    },
+    "last_updated": "2025-10-03T22:42:51.119080"
+  }
+}

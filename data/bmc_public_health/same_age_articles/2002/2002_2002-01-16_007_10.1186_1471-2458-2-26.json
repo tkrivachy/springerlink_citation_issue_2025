@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.512872",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-26",
+    "title": "Risk factors for hepatitis B virus infection in Rio de Janeiro, Brazil",
+    "article_number": "26",
+    "publication_date": "2002-11-22",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Lia L Lewis-Ximenez",
+      "Kycia MR do Ó",
+      "Cleber F Ginuino",
+      "Jucimara C Silva",
+      "Hermann G Schatzmayr",
+      "Sherri Stuver",
+      "Clara FT Yoshida"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T11:55:22.849049"
+    },
+    "last_updated": "2025-10-03T20:41:49.459712",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T12:02:38.622907"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T12:02:39.875794"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T20:41:49.459589"
+    }
+  }
+}

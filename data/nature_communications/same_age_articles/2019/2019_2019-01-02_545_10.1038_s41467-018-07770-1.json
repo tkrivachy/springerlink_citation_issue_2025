@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.736369",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07770-1",
+    "title": "Single cell RNA analysis identifies cellular heterogeneity and adaptive responses of the lung at birth",
+    "article_number": "37",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Minzhe Guo",
+      "Yina Du",
+      "Jason J. Gokey",
+      "Samriddha Ray",
+      "Sheila M. Bell",
+      "Mike Adam",
+      "Parvathi Sudha",
+      "Anne Karina Perl",
+      "Hitesh Deshmukh",
+      "S. Steven Potter",
+      "Jeffrey A. Whitsett",
+      "Yan Xu"
+    ]
+  },
+  "article_index": 545,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:27:00.808551"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 202,
+      "retrieved_at": "2025-10-03T17:27:02.370432"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 181,
+      "retrieved_at": "2025-10-03T17:27:03.551727"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 211,
+      "retrieved_at": "2025-10-03T22:42:31.182402"
+    },
+    "last_updated": "2025-10-03T22:42:31.182452"
+  }
+}

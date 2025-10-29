@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.554138",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55564-5",
+    "title": "Ultra-low power-consumption OLEDs via phosphor-assisted thermally-activated-delayed-fluorescence-sensitized narrowband emission",
+    "article_number": "30",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chen Yin",
+      "Yangyang Xin",
+      "Tianyu Huang",
+      "Qisheng Zhang",
+      "Lian Duan",
+      "Dongdong Zhang"
+    ]
+  },
+  "article_index": 283,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:47:23.370057"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T19:47:24.932080"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:47:26.098061"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:30:10.738450"
+    },
+    "last_updated": "2025-10-03T23:30:10.738637"
+  }
+}

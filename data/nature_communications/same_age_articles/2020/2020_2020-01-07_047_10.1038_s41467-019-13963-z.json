@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.882013",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13963-z",
+    "title": "Symbiont population control by host-symbiont metabolic interaction in Symbiodiniaceae-cnidarian associations",
+    "article_number": "108",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tingting Xiang",
+      "Erik Lehnert",
+      "Robert E. Jinkerson",
+      "Sophie Clowez",
+      "Rick G. Kim",
+      "Jan C. DeNofrio",
+      "John R. Pringle",
+      "Arthur R. Grossman"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 107,
+      "retrieved_at": "2025-10-03T18:17:56.209233"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T18:17:57.758461"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T18:17:58.949631"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T22:59:50.360450"
+    },
+    "last_updated": "2025-10-03T22:59:50.360644"
+  }
+}

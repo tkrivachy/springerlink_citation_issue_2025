@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.397958",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-85012-9",
+    "title": "Noninvasive diagnosis of significant liver fibrosis in patients with chronic hepatitis B using nomogram and machine learning models",
+    "article_number": "571",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chuan Jiang",
+      "Zhenyu Xu",
+      "Jinqing Liu",
+      "Ronghua Li",
+      "Keyu Chen",
+      "Wenting Peng",
+      "Yueming Xiao",
+      "Da Cheng",
+      "Lei Fu",
+      "Shifang Peng"
+    ]
+  },
+  "article_index": 447,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:04:01.205401"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:04:02.736391"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:04:03.911633"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:34:22.114025"
+    },
+    "last_updated": "2025-10-03T22:34:22.114218"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.672915",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44268-x",
+    "title": "Exact inversion of partially coherent dynamical electron scattering for picometric structure retrieval",
+    "article_number": "101",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Benedikt Diederichs",
+      "Ziria Herdegen",
+      "Achim Strauch",
+      "Frank Filbir",
+      "Knut Müller-Caspary"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:57:18.116895"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:57:19.621432"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:57:20.767624"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:13:08.845729"
+    },
+    "last_updated": "2025-10-03T23:13:08.845916"
+  }
+}

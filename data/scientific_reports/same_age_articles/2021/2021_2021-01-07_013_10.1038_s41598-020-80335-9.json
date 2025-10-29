@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.204170",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80335-9",
+    "title": "Particle size-related limitations of persistent phosphors based on the doped Y",
+    "article_number": "141",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Vitalii Boiko",
+      "Zhengfa Dai",
+      "Marta Markowska",
+      "Cristina Leonelli",
+      "Cecilia Mortalò",
+      "Francesco Armetta",
+      "Federica Ursi",
+      "Giorgio Nasillo",
+      "Maria Luisa Saladino",
+      "Dariusz Hreniak"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:54:07.241053"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T14:54:08.771700"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T14:54:09.950927"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:44:58.292822"
+    },
+    "last_updated": "2025-10-03T21:44:58.292901"
+  }
+}

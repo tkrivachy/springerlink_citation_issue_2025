@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.634701",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10274-1",
+    "title": "Cervical cancer mortality in Peru: regional trend analysis from 2008–2017",
+    "article_number": "219",
+    "publication_date": "2021-01-26",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "J. Smith Torres-Roman",
+      "Luz Ronceros-Cardenas",
+      "Bryan Valcarcel",
+      "Miguel A. Arce-Huamani",
+      "Janina Bazalar-Palacios",
+      "Jorge Ybaseta-Medina",
+      "Carlo La Vecchia",
+      "Christian S. Alvarez"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:59:22.942541"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:59:24.470576"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:59:25.705549"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:24:16.371396"
+    },
+    "last_updated": "2025-10-03T21:24:16.371587"
+  }
+}

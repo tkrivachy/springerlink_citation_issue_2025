@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.171177",
+  "year": 2021,
+  "article_type": "article_1",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20314-w",
+    "title": "Anomalous collapses of Nares Strait ice arches leads to enhanced export of Arctic sea ice",
+    "article_number": "1",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "G. W. K. Moore",
+      "S. E. L. Howell",
+      "M. Brady",
+      "X. Xu",
+      "K. McNeil"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3206,
+      "retrieved_at": "2025-10-03T18:22:00.731467"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4669,
+      "retrieved_at": "2025-10-03T18:22:02.276571"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4626,
+      "retrieved_at": "2025-10-03T18:22:03.458117"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5274,
+      "retrieved_at": "2025-10-03T23:01:12.458026"
+    },
+    "last_updated": "2025-10-03T23:01:12.458218"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.237146",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79918-3",
+    "title": "ABBV-744 as a potential inhibitor of SARS-CoV-2 main protease enzyme against COVID-19",
+    "article_number": "234",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zeynab Fakhar",
+      "Shama Khan",
+      "Suliman Y. AlOmar",
+      "Afrah Alkhuriji",
+      "Aijaz Ahmad"
+    ]
+  },
+  "article_index": 207,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T14:45:55.658497"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T14:45:57.174813"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T14:45:58.464772"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T21:41:48.857063"
+    },
+    "last_updated": "2025-10-03T21:41:48.857253"
+  }
+}

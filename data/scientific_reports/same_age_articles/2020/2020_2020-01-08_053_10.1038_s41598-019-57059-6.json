@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.305228",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57059-6",
+    "title": "Comparison of clinical outcomes between laparoscopic and open surgery for left-sided colon cancer: a nationwide population-based study",
+    "article_number": "75",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yu-Min Huang",
+      "Yuan-Wen Lee",
+      "Yan-Jiun Huang",
+      "Po-Li Wei"
+    ]
+  },
+  "article_index": 53,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T14:28:11.816795"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T14:28:13.351982"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:28:14.655238"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T21:34:35.992917"
+    },
+    "last_updated": "2025-10-03T21:34:35.993108"
+  }
+}

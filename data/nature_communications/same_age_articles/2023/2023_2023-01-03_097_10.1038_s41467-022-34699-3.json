@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652137",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-34699-3",
+    "title": "Recovery of oxidized two-dimensional MXenes through high frequency nanoscale electromechanical vibration",
+    "article_number": "3",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Heba Ahmed",
+      "Hossein Alijani",
+      "Ahmed El-Ghazaly",
+      "Joseph Halim",
+      "Billy J. Murdoch",
+      "Yemima Ehrnst",
+      "Emily Massahud",
+      "Amgad R. Rezk",
+      "Johanna Rosen",
+      "Leslie Y. Yeo"
+    ]
+  },
+  "article_index": 97,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:49:51.953678"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:49:53.469840"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:49:54.800421"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T23:10:36.957146"
+    },
+    "last_updated": "2025-10-03T23:10:36.957286"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.713927",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08061-5",
+    "title": "Giant nonvolatile manipulation of magnetoresistance in magnetic tunnel junctions by electric fields via magnetoelectric coupling",
+    "article_number": "243",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Aitian Chen",
+      "Yan Wen",
+      "Bin Fang",
+      "Yuelei Zhao",
+      "Qiang Zhang",
+      "Yuansi Chang",
+      "Peisen Li",
+      "Hao Wu",
+      "Haoliang Huang",
+      "Yalin Lu",
+      "Zhongming Zeng",
+      "Jianwang Cai",
+      "Xiufeng Han",
+      "Tom Wu",
+      "Xi-Xiang Zhang",
+      "Yonggang Zhao"
+    ]
+  },
+  "article_index": 335,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 111,
+      "retrieved_at": "2025-10-03T17:51:50.869599"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T17:51:52.465469"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 113,
+      "retrieved_at": "2025-10-03T17:51:54.001211"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T22:50:53.207380"
+    },
+    "last_updated": "2025-10-03T22:50:53.207577"
+  }
+}

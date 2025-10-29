@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607013",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02493-1",
+    "title": "Multiple entry pathways within the efflux transporter AcrB contribute to multidrug recognition",
+    "article_number": "124",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Martijn Zwama",
+      "Seiji Yamasaki",
+      "Ryosuke Nakashima",
+      "Keisuke Sakurai",
+      "Kunihiko Nishino",
+      "Akihito Yamaguchi"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:23.313260",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T11:43:59.583890"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T17:06:39.657992"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T17:06:40.823871"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T22:35:23.313160"
+    }
+  }
+}

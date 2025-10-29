@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.552705",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55254-2",
+    "title": "Structural and electronic features enabling delocalized charge-carriers in CuSbSe",
+    "article_number": "65",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuchen Fu",
+      "Hugh Lohan",
+      "Marcello Righetto",
+      "Yi-Teng Huang",
+      "Seán R. Kavanagh",
+      "Chang-Woo Cho",
+      "Szymon J. Zelewski",
+      "Young Won Woo",
+      "Harry Demetriou",
+      "Martyn A. McLachlan",
+      "Sandrine Heutz",
+      "Benjamin A. Piot",
+      "David O. Scanlon",
+      "Akshay Rao",
+      "Laura M. Herz",
+      "Aron Walsh",
+      "Robert L. Z. Hoye"
+    ]
+  },
+  "article_index": 269,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:35:07.469926"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:35:09.142496"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:35:10.308734"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:25:45.950046"
+    },
+    "last_updated": "2025-10-03T23:25:45.950240"
+  }
+}

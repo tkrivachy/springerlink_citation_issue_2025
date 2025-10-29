@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.840158",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50703-2",
+    "title": "Whole‑exome sequencing reveals Lewis lung carcinoma is a hypermutated ",
+    "article_number": "100",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Quan He",
+      "Cuirong Sun",
+      "Yuanjiang Pan"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:59:22.053983"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:59:23.610484"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:59:24.876299"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T22:11:16.702212"
+    },
+    "last_updated": "2025-10-03T22:11:16.702275"
+  }
+}

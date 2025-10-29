@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.545274",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55561-8",
+    "title": "Virtual Frisch grid perovskite CsPbBr",
+    "article_number": "158",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Haoming Qin",
+      "Bao Xiao",
+      "Xuchang He",
+      "Xiao Ouyang",
+      "Tingting Gao",
+      "Yuquan Wang",
+      "Luyao Wang",
+      "Qihao Sun",
+      "Nannan Shen",
+      "Xiaoping Ouyang",
+      "Yihui He"
+    ]
+  },
+  "article_index": 233,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:19:41.616415"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:19:43.181204"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:19:44.389959"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:20:43.746258"
+    },
+    "last_updated": "2025-10-03T23:20:43.746355"
+  }
+}

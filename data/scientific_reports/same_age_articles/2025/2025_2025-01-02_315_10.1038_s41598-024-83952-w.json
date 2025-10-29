@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.382688",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83952-w",
+    "title": "Raiding nature’s genetic toolbox for UV-C resistance by functional metagenomics",
+    "article_number": "223",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Garrett A. Roberts Kingman",
+      "Justin L. Kipness",
+      "Lynn J. Rothschild"
+    ]
+  },
+  "article_index": 315,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:39:34.343494"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:39:35.894076"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:39:37.079855"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:25:41.279288"
+    },
+    "last_updated": "2025-10-03T22:25:41.279515"
+  }
+}

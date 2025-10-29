@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.876973",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13795-x",
+    "title": "Epidermal control of axonal attachment via β-spectrin and the GTPase-activating protein TBC-10 prevents axonal degeneration",
+    "article_number": "133",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sean Coakley",
+      "Fiona K. Ritchie",
+      "Kate M. Galbraith",
+      "Massimo A. Hilliard"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:18:53.590502"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:18:55.095065"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:18:56.398703"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:00:10.167516"
+    },
+    "last_updated": "2025-10-03T23:00:10.167580"
+  }
+}

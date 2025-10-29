@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.513663",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55566-3",
+    "title": "Author Correction: PatCID: an open-access dataset of chemical structures in patent documents",
+    "article_number": "224",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lucas Morin",
+      "Valéry Weber",
+      "Gerhard Ingmar Meijer",
+      "Fisher Yu",
+      "Peter W. J. Staar"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:10.198826"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:11.747640"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:30:12.900922"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:24:06.810536"
+    },
+    "last_updated": "2025-10-03T23:24:06.810726"
+  }
+}

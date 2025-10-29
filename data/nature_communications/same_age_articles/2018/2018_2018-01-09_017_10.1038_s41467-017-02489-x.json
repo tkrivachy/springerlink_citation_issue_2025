@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606603",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02489-x",
+    "title": "Experimental noise cutoff boosts inferability of transcriptional networks in large-scale gene-deletion studies",
+    "article_number": "133",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "C. F. Blum",
+      "N. Heramvand",
+      "A. S. Khonsari",
+      "M. Kollmann"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:42.399537",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T11:44:04.479616"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:07:27.400468"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:07:28.613712"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:35:42.399453"
+    }
+  }
+}

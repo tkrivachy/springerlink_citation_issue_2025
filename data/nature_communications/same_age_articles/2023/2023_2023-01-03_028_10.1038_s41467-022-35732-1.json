@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.637794",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35732-1",
+    "title": "Disruption of mitochondrial dynamics triggers muscle inflammation through interorganellar contacts and mitochondrial DNA mislocation",
+    "article_number": "108",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andrea Irazoki",
+      "Isabel Gordaliza-Alaguero",
+      "Emma Frank",
+      "Nikolaos Nikiforos Giakoumakis",
+      "Jordi Seco",
+      "Manuel Palacín",
+      "Anna Gumà",
+      "Lykke Sylow",
+      "David Sebastián",
+      "Antonio Zorzano"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:55:50.097055"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:55:51.644653"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:55:52.986419"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T23:12:37.882428"
+    },
+    "last_updated": "2025-10-03T23:12:37.882484"
+  }
+}

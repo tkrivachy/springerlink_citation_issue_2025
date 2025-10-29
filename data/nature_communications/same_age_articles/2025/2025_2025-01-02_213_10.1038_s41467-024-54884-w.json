@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540779",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54884-w",
+    "title": "The Nordic-walking mechanism and its explanation of deconfined pseudocriticality from Wess-Zumino-Witten theory",
+    "article_number": "20",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bilal Hawashin",
+      "Astrid Eichhorn",
+      "Lukas Janssen",
+      "Michael M. Scherer",
+      "Shouryya Ray"
+    ]
+  },
+  "article_index": 213,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:15:19.122145"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:15:20.672583"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:21.851782"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:19:18.902937"
+    },
+    "last_updated": "2025-10-03T23:19:18.902984"
+  }
+}

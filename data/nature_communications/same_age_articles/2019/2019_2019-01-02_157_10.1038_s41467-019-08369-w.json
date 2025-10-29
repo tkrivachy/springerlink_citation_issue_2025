@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694254",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08369-w",
+    "title": "Ultra-high on-chip optical gain in erbium-based hybrid slot waveguides",
+    "article_number": "432",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "John Rönn",
+      "Weiwei Zhang",
+      "Anton Autere",
+      "Xavier Leroux",
+      "Lasse Pakarinen",
+      "Carlos Alonso-Ramos",
+      "Antti Säynätjoki",
+      "Harri Lipsanen",
+      "Laurent Vivien",
+      "Eric Cassan",
+      "Zhipei Sun"
+    ]
+  },
+  "article_index": 157,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T17:27:18.381435"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T17:27:19.912660"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T17:27:21.077789"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T22:42:37.074054"
+    },
+    "last_updated": "2025-10-03T22:42:37.074100"
+  }
+}

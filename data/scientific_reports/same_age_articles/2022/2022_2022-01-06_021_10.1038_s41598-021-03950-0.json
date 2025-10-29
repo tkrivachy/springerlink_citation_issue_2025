@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.848762",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03950-0",
+    "title": "Combinations of deletion and missense variations of the dynein-2 DYNC2LI1 subunit found in skeletal ciliopathies cause ciliary defects",
+    "article_number": "31",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hantian Qiu",
+      "Yuta Tsurumi",
+      "Yohei Katoh",
+      "Kazuhisa Nakayama"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:24:41.818553"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:24:43.326471"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:24:44.487075"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:57:42.551675"
+    },
+    "last_updated": "2025-10-03T21:57:42.551869"
+  }
+}

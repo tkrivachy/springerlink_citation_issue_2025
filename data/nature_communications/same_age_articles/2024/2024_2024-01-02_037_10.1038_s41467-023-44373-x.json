@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.669970",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44373-x",
+    "title": "Gut microbiota facilitate chronic spontaneous urticaria",
+    "article_number": "112",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lei Zhu",
+      "Xingxing Jian",
+      "Bingjing Zhou",
+      "Runqiu Liu",
+      "Melba Muñoz",
+      "Wan Sun",
+      "Lu Xie",
+      "Xiang Chen",
+      "Cong Peng",
+      "Marcus Maurer",
+      "Jie Li"
+    ]
+  },
+  "article_index": 37,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T19:06:49.817257"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T19:06:51.371687"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T19:06:52.726886"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T23:16:26.012545"
+    },
+    "last_updated": "2025-10-03T23:16:26.012737"
+  }
+}

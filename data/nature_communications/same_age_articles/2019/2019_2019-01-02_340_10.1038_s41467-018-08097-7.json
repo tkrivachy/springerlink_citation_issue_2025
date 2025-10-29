@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.714524",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08097-7",
+    "title": "Prostaglandin E2 mediates sensory nerve regulation of bone homeostasis",
+    "article_number": "181",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hao Chen",
+      "Bo Hu",
+      "Xiao Lv",
+      "Shouan Zhu",
+      "Gehua Zhen",
+      "Mei Wan",
+      "Amit Jain",
+      "Bo Gao",
+      "Yu Chai",
+      "Mi Yang",
+      "Xiao Wang",
+      "Ruoxian Deng",
+      "Lei Wang",
+      "Yong Cao",
+      "Shuangfei Ni",
+      "Shen Liu",
+      "Wen Yuan",
+      "Huajiang Chen",
+      "Xinzhong Dong",
+      "Yun Guan",
+      "Huilin Yang",
+      "Xu Cao"
+    ]
+  },
+  "article_index": 340,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 234,
+      "retrieved_at": "2025-10-03T17:58:03.402546"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 227,
+      "retrieved_at": "2025-10-03T17:58:04.925052"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 203,
+      "retrieved_at": "2025-10-03T17:58:06.384919"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 255,
+      "retrieved_at": "2025-10-03T22:53:19.205632"
+    },
+    "last_updated": "2025-10-03T22:53:19.205680"
+  }
+}

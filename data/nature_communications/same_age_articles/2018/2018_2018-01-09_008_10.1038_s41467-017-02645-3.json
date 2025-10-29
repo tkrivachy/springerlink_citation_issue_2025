@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.605505",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02645-3",
+    "title": "Zika virus infection induces host inflammatory responses by facilitating NLRP3 inflammasome assembly and interleukin-1β secretion",
+    "article_number": "106",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wenbiao Wang",
+      "Geng Li",
+      "Zhen Luo",
+      "Pan Pan",
+      "Mingfu Tian",
+      "Yingchong Wang",
+      "Feng Xiao",
+      "Aixin Li",
+      "Kailang Wu",
+      "Xiaohong Liu",
+      "Lang Rao",
+      "Fang Liu",
+      "Yingle Liu",
+      "Jianguo Wu"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:53.364492",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 189,
+      "retrieved_at": "2025-10-03T11:44:06.879170"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 184,
+      "retrieved_at": "2025-10-03T17:07:54.826650"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T17:07:56.007958"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 203,
+      "retrieved_at": "2025-10-03T22:35:53.364258"
+    }
+  }
+}

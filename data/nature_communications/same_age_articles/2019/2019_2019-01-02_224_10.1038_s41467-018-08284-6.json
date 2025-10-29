@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701437",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08284-6",
+    "title": "Suppression of magnetic ordering in XXZ-type antiferromagnetic monolayer NiPS",
+    "article_number": "345",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kangwon Kim",
+      "Soo Yeon Lim",
+      "Jae-Ung Lee",
+      "Sungmin Lee",
+      "Tae Yun Kim",
+      "Kisoo Park",
+      "Gun Sang Jeon",
+      "Cheol-Hwan Park",
+      "Je-Geun Park",
+      "Hyeonsik Cheong"
+    ]
+  },
+  "article_index": 224,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T17:31:33.046366"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 355,
+      "retrieved_at": "2025-10-03T17:31:34.585250"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 314,
+      "retrieved_at": "2025-10-03T17:31:35.734504"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 395,
+      "retrieved_at": "2025-10-03T22:44:07.770513"
+    },
+    "last_updated": "2025-10-03T22:44:07.770706"
+  }
+}

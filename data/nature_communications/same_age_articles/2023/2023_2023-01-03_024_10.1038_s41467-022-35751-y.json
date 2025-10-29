@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.634059",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35751-y",
+    "title": "Author Correction: Single-nuclei and bulk-tissue gene-expression analysis of pheochromocytoma and paraganglioma links disease subtypes with tumor microenvironment",
+    "article_number": "123",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Magnus Zethoven",
+      "Luciano Martelotto",
+      "Andrew Pattison",
+      "Blake Bowen",
+      "Shiva Balachander",
+      "Aidan Flynn",
+      "Fernando J. Rossello",
+      "Annette Hogg",
+      "Julie A. Miller",
+      "Zdenek Frysak",
+      "Sean Grimmond",
+      "Lauren Fishbein",
+      "Arthur S. Tischler",
+      "Anthony J. Gill",
+      "Rodney J. Hicks",
+      "Patricia L. M. Dahia",
+      "Roderick Clifton-Bligh",
+      "Karel Pacak",
+      "Richard W. Tothill"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:51:55.865312"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:51:57.378706"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:51:58.582859"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:11:19.289058"
+    },
+    "last_updated": "2025-10-03T23:11:19.289246"
+  }
+}

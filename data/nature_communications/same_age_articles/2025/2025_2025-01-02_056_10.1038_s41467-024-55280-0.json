@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.518030",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55280-0",
+    "title": "Realizing high power factor and thermoelectric performance in band engineered AgSbTe",
+    "article_number": "22",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu Zhang",
+      "Congcong Xing",
+      "Dongyang Wang",
+      "Aziz Genç",
+      "Seng Huat Lee",
+      "Cheng Chang",
+      "Zhi Li",
+      "Luyao Zheng",
+      "Khak Ho Lim",
+      "Hangtian Zhu",
+      "Rabeya Bosry Smriti",
+      "Yu Liu",
+      "Shaobo Cheng",
+      "Min Hong",
+      "Xiaolei Fan",
+      "Zhiqiang Mao",
+      "Li-Dong Zhao",
+      "Andreu Cabot",
+      "Tiejun Zhu",
+      "Bed Poudel"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:25:56.107528"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:25:57.674158"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:25:58.831238"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:22:47.593517"
+    },
+    "last_updated": "2025-10-03T23:22:47.593602"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.677188",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07858-8",
+    "title": "The mTORC1/4E-BP1 axis represents a critical signaling node during fibrogenesis",
+    "article_number": "6",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hannah V. Woodcock",
+      "Jessica D. Eley",
+      "Delphine Guillotin",
+      "Manuela Platé",
+      "Carmel B. Nanthakumar",
+      "Matteo Martufi",
+      "Simon Peace",
+      "Gerard Joberty",
+      "Daniel Poeckel",
+      "Robert B. Good",
+      "Adam R. Taylor",
+      "Nico Zinn",
+      "Matthew Redding",
+      "Ellen J. Forty",
+      "Robert E. Hynds",
+      "Charles Swanton",
+      "Morten Karsdal",
+      "Toby M. Maher",
+      "Andrew Fisher",
+      "Giovanna Bergamini",
+      "Richard P. Marshall",
+      "Andy D. Blanchard",
+      "Paul F. Mercer",
+      "Rachel C. Chambers"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T17:49:10.812615"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 177,
+      "retrieved_at": "2025-10-03T17:49:12.361130"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T17:49:13.886779"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 195,
+      "retrieved_at": "2025-10-03T22:49:58.128244"
+    },
+    "last_updated": "2025-10-03T22:49:58.128354"
+  }
+}

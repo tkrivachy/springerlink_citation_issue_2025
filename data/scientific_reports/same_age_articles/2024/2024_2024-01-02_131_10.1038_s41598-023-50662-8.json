@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.840256",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50662-8",
+    "title": "3D integral imaging of acoustically trapped objects",
+    "article_number": "28",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kooshan Mohsenvand",
+      "Artur Carnicer",
+      "Benedetta Marmiroli",
+      "Ali-Reza Moradi"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:46:18.125242"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:46:19.651947"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:46:20.841079"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:06:21.183494"
+    },
+    "last_updated": "2025-10-03T22:06:21.183682"
+  }
+}

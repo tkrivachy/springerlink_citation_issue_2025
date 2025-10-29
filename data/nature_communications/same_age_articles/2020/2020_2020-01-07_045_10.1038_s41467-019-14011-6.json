@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.881788",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14011-6",
+    "title": "Electrically-driven Yagi-Uda antennas for light",
+    "article_number": "115",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "René Kullock",
+      "Maximilian Ochs",
+      "Philipp Grimm",
+      "Monika Emmerling",
+      "Bert Hecht"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T18:15:21.352114"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T18:15:22.867486"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T18:15:24.068141"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 104,
+      "retrieved_at": "2025-10-03T22:58:53.430924"
+    },
+    "last_updated": "2025-10-03T22:58:53.431116"
+  }
+}

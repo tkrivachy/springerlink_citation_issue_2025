@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.695858",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08298-8",
+    "title": "Unveiling coherently driven hyperpolarization dynamics in signal amplification by reversible exchange",
+    "article_number": "395",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jacob R. Lindale",
+      "Shannon L. Eriksson",
+      "Christian P. N. Tanner",
+      "Zijian Zhou",
+      "Johannes F. P. Colell",
+      "Guannan Zhang",
+      "Junu Bae",
+      "Eduard Y. Chekmenev",
+      "Thomas Theis",
+      "Warren S. Warren"
+    ]
+  },
+  "article_index": 172,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:15:42.764600"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:15:44.299403"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T17:15:45.660142"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T22:38:41.265763"
+    },
+    "last_updated": "2025-10-03T22:38:41.265953"
+  }
+}

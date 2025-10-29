@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685997",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08362-3",
+    "title": "Photoinduced, reversible phase transitions in all-inorganic perovskite nanocrystals",
+    "article_number": "504",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Matthew S. Kirschner",
+      "Benjamin T. Diroll",
+      "Peijun Guo",
+      "Samantha M. Harvey",
+      "Waleed Helweh",
+      "Nathan C. Flanders",
+      "Alexandra Brumberg",
+      "Nicolas E. Watkins",
+      "Ariel A. Leonard",
+      "Austin M. Evans",
+      "Michael R. Wasielewski",
+      "William R. Dichtel",
+      "Xiaoyi Zhang",
+      "Lin X. Chen",
+      "Richard D. Schaller"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:19:57.610874"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 150,
+      "retrieved_at": "2025-10-03T17:19:59.150708"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 136,
+      "retrieved_at": "2025-10-03T17:20:00.541382"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 150,
+      "retrieved_at": "2025-10-03T22:40:06.770645"
+    },
+    "last_updated": "2025-10-03T22:40:06.770833"
+  }
+}

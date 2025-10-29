@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.655261",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10028-5",
+    "title": "Associations of diet, physical activity and polycystic ovary syndrome in the Coronary Artery Risk Development in Young Adults Women’s Study",
+    "article_number": "35",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Annie W. Lin",
+      "David Siscovick",
+      "Barbara Sternfeld",
+      "Pamela Schreiner",
+      "Cora E. Lewis",
+      "Erica T. Wang",
+      "Sharon S. Merkin",
+      "Melissa Wellons",
+      "Lyn Steffen",
+      "Ronit Calderon-Margalit",
+      "Patricia A. Cassano",
+      "Marla E. Lujan"
+    ]
+  },
+  "article_index": 221,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:47:02.823115"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:47:04.355109"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:47:05.637927"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:19:57.997822"
+    },
+    "last_updated": "2025-10-03T21:19:57.997869"
+  }
+}

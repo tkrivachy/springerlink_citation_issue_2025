@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.235186",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80677-4",
+    "title": "Biases in ecological research: attitudes of scientists and ways of control",
+    "article_number": "226",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Elena L. Zvereva",
+      "Mikhail V. Kozlov"
+    ]
+  },
+  "article_index": 188,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:44:40.289344"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:44:41.833792"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T14:44:43.069481"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:41:19.579068"
+    },
+    "last_updated": "2025-10-03T21:41:19.579277"
+  }
+}

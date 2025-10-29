@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-35759-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41467-022-35759-4</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>The learnability of Pauli noise</dc:title>
+            
+	    
+            <dc:creator>Chen, Senrui</dc:creator>
+            
+	    
+            <dc:creator>Liu, Yunchao</dc:creator>
+            
+	    
+            <dc:creator>Otten, Matthew</dc:creator>
+            
+	    
+            <dc:creator>Seif, Alireza</dc:creator>
+            
+	    
+            <dc:creator>Fefferman, Bill</dc:creator>
+            
+	    
+            <dc:creator>Jiang, Liang</dc:creator>
+            
+	    
+            <ns3:publicationName>Nature Communications</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2041-1723</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41467-022-35759-4</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2023-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2023-01-04</ns3:publicationDate>
+            
+	    
+            <ns3:volume>14</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>8</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41467-022-35759-4</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-022-35759-4</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41467-022-35759-4.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2023 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>Recently, several quantum benchmarking algorithms have been developed to characterize noisy quantum gates on today’s quantum devices. A fundamental issue in benchmarking is that not everything about quantum noise is learnable due to the existence of gauge freedom, leaving open the question what information is learnable and what is not, which is unclear even for a single CNOT gate. Here we give a precise characterization of the learnability of Pauli noise channels attached to Clifford gates using graph theoretical tools. Our results reveal the optimality of cycle benchmarking in the sense that it can extract all learnable information about Pauli noise. We experimentally demonstrate noise characterization of IBM’s CNOT gate up to 2 unlearnable degrees of freedom, for which we obtain bounds using physical constraints. In addition, we show that an attempt to extract unlearnable information by ignoring state preparation noise yields unphysical estimates, which is used to lower bound the state preparation noise.</html:p>
+            <html:p>Characterisation of quantum hardware requires clear indications on what can and cannot be learned about quantum noise. Here, the authors show how to characterise learnable degrees of freedom of a Clifford gate using tools from algebraic graph theory.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41467</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2023-01-04</onlineDate>
+        <authors>
+          <author ORCID="0000-0002-5904-6906">Chen, Senrui</author>
+          <author ORCID="0000-0003-1297-6396">Liu, Yunchao</author>
+          <author ORCID="0000-0002-6522-5820">Otten, Matthew</author>
+          <author>Seif, Alireza</author>
+          <author ORCID="0000-0002-9627-0210">Fefferman, Bill</author>
+          <author ORCID="0000-0002-0000-9342">Jiang, Liang</author>
+        </authors>
+        <disciplines>
+          <discipline id="2883" term="Humanities and Social Sciences"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2023</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

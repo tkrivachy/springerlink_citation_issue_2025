@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.848286",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50773-2",
+    "title": "Clay-supported bio-based Lewis acid ionic liquid as a potent catalyst for the dehydration of fructose to 5-hydroxymthylfurfural",
+    "article_number": "82",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Soheila Yaghoubi",
+      "Samahe Sadjadi",
+      "Xuemin Zhong",
+      "Peng Yuan",
+      "Majid M. Heravi"
+    ]
+  },
+  "article_index": 208,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:51:30.957615"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:51:32.545523"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:51:34.453430"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T22:08:20.504306"
+    },
+    "last_updated": "2025-10-03T22:08:20.504537"
+  }
+}

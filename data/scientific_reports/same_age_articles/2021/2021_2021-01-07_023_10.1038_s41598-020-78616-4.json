@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.205617",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78616-4",
+    "title": "First evidence of virus-like particles in the bacterial symbionts of Bryozoa",
+    "article_number": "4",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "A. E. Vishnyakov",
+      "N. P. Karagodina",
+      "G. Lim-Fong",
+      "P. A. Ivanov",
+      "T. F. Schwaha",
+      "A. V. Letarov",
+      "A. N. Ostrovsky"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:50:32.833726"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:50:34.377911"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:50:35.624016"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:43:37.850308"
+    },
+    "last_updated": "2025-10-03T21:43:37.850422"
+  }
+}

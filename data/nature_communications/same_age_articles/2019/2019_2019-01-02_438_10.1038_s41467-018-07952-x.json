@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724920",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07952-x",
+    "title": "Spin-optoelectronic devices based on hybrid organic-inorganic trihalide perovskites",
+    "article_number": "129",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jingying Wang",
+      "Chuang Zhang",
+      "Haoliang Liu",
+      "Ryan McLaughlin",
+      "Yaxin Zhai",
+      "Shai R. Vardeny",
+      "Xiaojie Liu",
+      "Stephen McGill",
+      "Dmitry Semenov",
+      "Hangwen Guo",
+      "Ryuichi Tsuchikawa",
+      "Vikram V. Deshpande",
+      "Dali Sun",
+      "Z. Valy Vardeny"
+    ]
+  },
+  "article_index": 438,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T17:10:45.849392"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 290,
+      "retrieved_at": "2025-10-03T17:10:47.394824"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 254,
+      "retrieved_at": "2025-10-03T17:10:48.952087"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 313,
+      "retrieved_at": "2025-10-03T22:36:53.816652"
+    },
+    "last_updated": "2025-10-03T22:36:53.816699"
+  }
+}

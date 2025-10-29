@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.186873",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20395-7",
+    "title": "Quantized charge fractionalization at quantum Hall Y junctions in the disorder dominated regime",
+    "article_number": "131",
+    "publication_date": "2021-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chaojing Lin",
+      "Masayuki Hashisaka",
+      "Takafumi Akiho",
+      "Koji Muraki",
+      "Toshimasa Fujisawa"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:31:09.338816"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:31:10.891709"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:31:12.082192"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T23:04:25.605886"
+    },
+    "last_updated": "2025-10-03T23:04:25.606079"
+  }
+}

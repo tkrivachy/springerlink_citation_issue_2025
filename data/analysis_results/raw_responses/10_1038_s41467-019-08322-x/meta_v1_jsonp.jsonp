@@ -1,0 +1,155 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-019-08322-x",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-019-08322-x",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-019-08322-x"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-019-08322-x.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-019-08322-x"
+        }
+      ],
+      "title": "Publisher Correction: Exocyst dynamics during vesicle tethering and fusion",
+      "creators": [
+        {
+          "ORCID": "0000-0002-9183-9957",
+          "creator": "Ahmed, Syed Mukhtar"
+        },
+        {
+          "creator": "Nishida-Fukuda, Hisayo"
+        },
+        {
+          "creator": "Li, Yuchong"
+        },
+        {
+          "creator": "McDonald, W. Hayes"
+        },
+        {
+          "creator": "Gradinaru, Claudiu C."
+        },
+        {
+          "creator": "Macara, Ian G."
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "openaccess": "true",
+      "doi": "10.1038/s41467-019-08322-x",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2019-01-15",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "10",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "Erratum",
+        "Publisher Correction"
+      ],
+      "startingPage": "1",
+      "endingPage": "1",
+      "journalId": "41467",
+      "onlineDate": "2019-01-15",
+      "coverDate": "2019-12",
+      "copyright": "©2019 The Author(s)",
+      "abstract": "The original version of this Article contained errors in the author affiliations. Affiliation 2 incorrectly read ‘Department of Biochemistry and Molecular Genetics and Breast Surgery, Ehime University Graduate School of Medicine, 7910295, Japan’ and affiliation 3 incorrectly read ‘Department of Hepato-Biliary-Pancreatic and Breast Surgery, Ehime University Graduate School of Medicine, Matsuyama 7910295, Japan.’ These errors have now been corrected in both the PDF and HTML versions of the Article.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2019",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Canada",
+          "count": "1"
+        },
+        {
+          "value": "Japan",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

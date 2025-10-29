@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.541609",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55543-w",
+    "title": "Acquisition of Fc-afucosylation of PfEMP1-specific IgG is age-dependent and associated with clinical protection against malaria",
+    "article_number": "237",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mary Lopez-Perez",
+      "Zakaria Seidu",
+      "Mads Delbo Larsen",
+      "Wenjun Wang",
+      "Jan Nouta",
+      "Manfred Wuhrer",
+      "Gestur Vidarsson",
+      "Michael F. Ofori",
+      "Lars Hviid"
+    ]
+  },
+  "article_index": 220,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:33:26.367818"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:33:27.950777"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:33:29.134563"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:25:10.134193"
+    },
+    "last_updated": "2025-10-03T23:25:10.134419"
+  }
+}

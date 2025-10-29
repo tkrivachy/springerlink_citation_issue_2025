@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.725737",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08047-3",
+    "title": "Thermal radiation control from hot graphene electrons coupled to a photonic crystal nanocavity",
+    "article_number": "109",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ren-Jye Shiue",
+      "Yuanda Gao",
+      "Cheng Tan",
+      "Cheng Peng",
+      "Jiabao Zheng",
+      "Dmitri K. Efetov",
+      "Young Duck Kim",
+      "James Hone",
+      "Dirk Englund"
+    ]
+  },
+  "article_index": 446,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T17:27:53.325271"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T17:27:54.859985"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T17:27:56.004680"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T22:42:49.017480"
+    },
+    "last_updated": "2025-10-03T22:42:49.017529"
+  }
+}

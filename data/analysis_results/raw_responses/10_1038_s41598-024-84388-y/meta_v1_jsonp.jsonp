@@ -1,0 +1,194 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-024-84388-y",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-024-84388-y",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-024-84388-y"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-024-84388-y.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-024-84388-y"
+        }
+      ],
+      "title": "Evidence of eared doves consumption and the potential toxic exposure during the Regional Development period in Quito-Ecuador",
+      "creators": [
+        {
+          "creator": "Ordoñez-Araque, Roberto"
+        },
+        {
+          "creator": "Mosquera, Andrés"
+        },
+        {
+          "creator": "Román-Carrión, José Luis"
+        },
+        {
+          "creator": "Vargas-Jentzsch, Paul"
+        },
+        {
+          "creator": "Ramos-Guerrero, Luis"
+        },
+        {
+          "creator": "Rivera-Parra, José Luis"
+        },
+        {
+          "creator": "Romero-Bastidas, Martha"
+        },
+        {
+          "creator": "Montalvo-Puente, Carlos"
+        },
+        {
+          "creator": "Ruales, Jenny"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-024-84388-y",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2025-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "15",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "15",
+      "journalId": "41598",
+      "onlineDate": "2025-01-02",
+      "coverDate": "2025-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": "Throughout history, food has played a fundamental role in the development of societies. An understanding of the diets of different cultures and their impact on health can provide valuable insights into their lifestyle. The identification of the animal remains found within two vessels is reported and, in addition, an assessment of whether the diet and soil composition of the period may be associated with toxic elements was carried out. The animal bones retrieved from the settlement, which dated from 25 to 203 cal AD, were identified as belonging to Zenaida cf. auriculata , commonly known as eared dove. Ancient starch was discovered in the sediments inside the vessels. These sediments, along with the pre-Hispanic soil collected in the study zone, showed moderate pollution, suggesting potential environmental contamination. For the first time, evidence that eared doves were part of the diet of the ancient inhabitants of Quito is presented, as shown by the occurrence of their bones within food processing utensils. Furthermore, the study highlights the possibility of environmental contamination due to volcanic eruptions that occurred during the Regional Development period from 500 BC to AD 500. These results can contribute to a better understanding of the living conditions of the early inhabitants of Quito and similar regions.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Pre-hispanic diet of Quito",
+        "Diet in the Andes",
+        "Volcanic eruptions",
+        "Food with contaminants"
+      ],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Diet in the Andes",
+          "count": "1"
+        },
+        {
+          "value": "Food with contaminants",
+          "count": "1"
+        },
+        {
+          "value": "Pre-hispanic diet of Quito",
+          "count": "1"
+        },
+        {
+          "value": "Volcanic eruptions",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2025",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Ecuador",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

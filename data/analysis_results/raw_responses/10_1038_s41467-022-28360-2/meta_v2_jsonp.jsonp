@@ -1,0 +1,247 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-022-28360-2",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-022-28360-2",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-022-28360-2"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-022-28360-2.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-022-28360-2"
+        }
+      ],
+      "title": "The IGFBP3/TMEM219 pathway regulates beta cell homeostasis",
+      "creators": [
+        {
+          "ORCID": "0000-0002-0345-0694",
+          "creator": "D’Addio, Francesca"
+        },
+        {
+          "creator": "Maestroni, Anna"
+        },
+        {
+          "creator": "Assi, Emma"
+        },
+        {
+          "creator": "Ben Nasr, Moufida"
+        },
+        {
+          "creator": "Amabile, Giovanni"
+        },
+        {
+          "creator": "Usuelli, Vera"
+        },
+        {
+          "ORCID": "0000-0002-7583-8540",
+          "creator": "Loretelli, Cristian"
+        },
+        {
+          "creator": "Bertuzzi, Federico"
+        },
+        {
+          "creator": "Antonioli, Barbara"
+        },
+        {
+          "ORCID": "0000-0003-3049-5940",
+          "creator": "Cardarelli, Francesco"
+        },
+        {
+          "creator": "El Essawy, Basset"
+        },
+        {
+          "ORCID": "0000-0002-7855-8253",
+          "creator": "Solini, Anna"
+        },
+        {
+          "creator": "Gerling, Ivan C."
+        },
+        {
+          "creator": "Bianchi, Cristina"
+        },
+        {
+          "creator": "Becchi, Gabriella"
+        },
+        {
+          "creator": "Mazzucchelli, Serena"
+        },
+        {
+          "ORCID": "0000-0002-8836-4778",
+          "creator": "Corradi, Domenico"
+        },
+        {
+          "creator": "Fadini, Gian Paolo"
+        },
+        {
+          "creator": "Foschi, Diego"
+        },
+        {
+          "ORCID": "0000-0002-2762-6535",
+          "creator": "Markmann, James F."
+        },
+        {
+          "creator": "Orsi, Emanuela"
+        },
+        {
+          "ORCID": "0000-0001-5388-8259",
+          "creator": "Škrha, Jan, Jr"
+        },
+        {
+          "creator": "Camboni, Maria Gabriella"
+        },
+        {
+          "creator": "Abdi, Reza"
+        },
+        {
+          "creator": "James Shapiro, A. M."
+        },
+        {
+          "creator": "Folli, Franco"
+        },
+        {
+          "ORCID": "0000-0003-1695-5234",
+          "creator": "Ludvigsson, Johnny"
+        },
+        {
+          "creator": "Del Prato, Stefano"
+        },
+        {
+          "creator": "Zuccotti, Gianvincenzo"
+        },
+        {
+          "ORCID": "0000-0002-1093-7724",
+          "creator": "Fiorina, Paolo"
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "openaccess": "true",
+      "doi": "10.1038/s41467-022-28360-2",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2022-02-03",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "13",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "14",
+      "journalId": "41467",
+      "onlineDate": "2022-02-03",
+      "coverDate": "2022-12",
+      "copyright": "©2022 The Author(s)",
+      "abstract": "Loss of pancreatic beta cells is a central feature of type 1 (T1D) and type 2 (T2D) diabetes, but a therapeutic strategy to preserve beta cell mass remains to be established. Here we show that the death receptor TMEM219 is expressed on pancreatic beta cells and that signaling through its ligand insulin-like growth factor binding protein 3 (IGFBP3) leads to beta cell loss and dysfunction. Increased peripheral IGFBP3 was observed in established and at-risk T1D/T2D patients and was confirmed in T1D/T2D preclinical models, suggesting that dysfunctional IGFBP3/TMEM219 signaling is associated with abnormalities in beta cells homeostasis. In vitro and in vivo short-term IGFBP3/TMEM219 inhibition and TMEM219 genetic ablation preserved beta cells and prevented/delayed diabetes onset, while long-term IGFBP3/TMEM219 blockade allowed for beta cell expansion. Interestingly, in several patients’ cohorts restoration of appropriate IGFBP3 levels was associated with improved beta cell function. The IGFBP3/TMEM219 pathway is thus shown to be a physiological regulator of beta cell homeostasis and is also demonstrated to be disrupted in T1D/T2D. IGFBP3/TMEM219 targeting may therefore serve as a therapeutic option in diabetes. In this new study the Authors demonstrated that the IGFBP3/TMEM219 pathway is a physiological regulator of pancreatic beta cell homeostasis and it is dysregulated in diabetes. IGFBP3/TMEM219 targeting may therefore serve as a therapeutic option in diabetes.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2022",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Canada",
+          "count": "1"
+        },
+        {
+          "value": "Czech Republic",
+          "count": "1"
+        },
+        {
+          "value": "Egypt",
+          "count": "1"
+        },
+        {
+          "value": "Italy",
+          "count": "1"
+        },
+        {
+          "value": "Sweden",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

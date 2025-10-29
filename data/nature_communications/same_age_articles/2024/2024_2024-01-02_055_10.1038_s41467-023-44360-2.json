@@ -1,0 +1,72 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.671888",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44360-2",
+    "title": "Multi-omic and functional analysis for classification and treatment of sarcomas with FUS-TFCP2 or EWSR1-TFCP2 fusions",
+    "article_number": "51",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Julia Schöpf",
+      "Sebastian Uhrig",
+      "Christoph E. Heilig",
+      "Kwang-Seok Lee",
+      "Tatjana Walther",
+      "Alexander Carazzato",
+      "Anna Maria Dobberkau",
+      "Dieter Weichenhan",
+      "Christoph Plass",
+      "Mark Hartmann",
+      "Gaurav D. Diwan",
+      "Zunamys I. Carrero",
+      "Claudia R. Ball",
+      "Tobias Hohl",
+      "Thomas Kindler",
+      "Patricia Rudolph-Hähnel",
+      "Dominic Helm",
+      "Martin Schneider",
+      "Anna Nilsson",
+      "Ingrid Øra",
+      "Roland Imle",
+      "Ana Banito",
+      "Robert B. Russell",
+      "Barbara C. Jones",
+      "Daniel B. Lipka",
+      "Hanno Glimm",
+      "Daniel Hübschmann",
+      "Wolfgang Hartmann",
+      "Stefan Fröhling",
+      "Claudia Scholl"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:04:52.077827"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:04:53.584893"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:04:54.732705"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:15:43.416604"
+    },
+    "last_updated": "2025-10-03T23:15:43.416794"
+  }
+}

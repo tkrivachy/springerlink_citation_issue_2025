@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.688107",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8123-0",
+    "title": "Neighborhood socioeconomic disadvantage is associated with multimorbidity in a geographically-defined community",
+    "article_number": "13",
+    "publication_date": "2020-01-06",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Alanna M. Chamberlain",
+      "Lila J. Finney Rutten",
+      "Patrick M. Wilson",
+      "Chun Fan",
+      "Cynthia M. Boyd",
+      "Debra J. Jacobson",
+      "Walter A. Rocca",
+      "Jennifer L. St. Sauver"
+    ]
+  },
+  "article_index": 152,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T13:39:16.432591"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T13:39:17.939526"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T13:39:19.275007"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T21:17:08.497297"
+    },
+    "last_updated": "2025-10-03T21:17:08.497539"
+  }
+}

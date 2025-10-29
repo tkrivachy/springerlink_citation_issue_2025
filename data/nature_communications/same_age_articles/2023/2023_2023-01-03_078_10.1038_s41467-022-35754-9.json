@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.649886",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35754-9",
+    "title": "Vertebrate OTOP1 is also an alkali-activated channel",
+    "article_number": "26",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lifeng Tian",
+      "Hao Zhang",
+      "Shilong Yang",
+      "Anna Luo",
+      "Peter Muiruri Kamau",
+      "Jingmei Hu",
+      "Lei Luo",
+      "Ren Lai"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:50:03.439727"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:50:04.988435"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:50:06.231570"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:10:41.338925"
+    },
+    "last_updated": "2025-10-03T23:10:41.339115"
+  }
+}

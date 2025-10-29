@@ -1,0 +1,65 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.694461",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08235-1",
+    "title": "Podocyte GSK3 is an evolutionarily conserved critical regulator of kidney function",
+    "article_number": "403",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. A. Hurcombe",
+      "P. Hartley",
+      "A. C. Lay",
+      "L. Ni",
+      "J. J. Bedford",
+      "J. P. Leader",
+      "S. Singh",
+      "A. Murphy",
+      "C. L. Scudamore",
+      "E. Marquez",
+      "A. F. Barrington",
+      "V. Pinto",
+      "M. Marchetti",
+      "L.-F. Wong",
+      "J. Uney",
+      "M. A. Saleem",
+      "P. W. Mathieson",
+      "S. Patel",
+      "R. J. Walker",
+      "J. R. Woodgett",
+      "S. E. Quaggin",
+      "G. I. Welsh",
+      "R. J. M. Coward"
+    ]
+  },
+  "article_index": 159,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:54:54.164780"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T17:54:55.692788"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T17:54:57.093939"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T22:52:13.182976"
+    },
+    "last_updated": "2025-10-03T22:52:13.183167"
+  }
+}

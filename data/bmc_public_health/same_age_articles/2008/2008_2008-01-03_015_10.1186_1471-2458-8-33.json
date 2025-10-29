@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:33.996890",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-33",
+    "title": "Socio-economic class, rurality and risk of cutaneous melanoma by site and gender in Sweden",
+    "article_number": "33",
+    "publication_date": "2008-01-25",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Beatriz Pérez-Gómez",
+      "Nuria Aragonés",
+      "Per Gustavsson",
+      "Virginia Lope",
+      "Gonzalo López-Abente",
+      "Marina Pollán"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:30:42.715340"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T12:30:44.235473"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T12:30:45.469368"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T20:52:16.723752"
+    },
+    "last_updated": "2025-10-03T20:52:16.723949"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880780",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13965-x",
+    "title": "Genome-wide CRISPR screen identifies host dependency factors for influenza A virus infection",
+    "article_number": "164",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bo Li",
+      "Sara M. Clohisey",
+      "Bing Shao Chia",
+      "Bo Wang",
+      "Ang Cui",
+      "Thomas Eisenhaure",
+      "Lawrence D. Schweitzer",
+      "Paul Hoover",
+      "Nicholas J. Parkinson",
+      "Aharon Nachshon",
+      "Nikki Smith",
+      "Tim Regan",
+      "David Farr",
+      "Michael U. Gutmann",
+      "Syed Irfan Bukhari",
+      "Andrew Law",
+      "Maya Sangesland",
+      "Irit Gat-Viks",
+      "Paul Digard",
+      "Shobha Vasudevan",
+      "Daniel Lingwood",
+      "David H. Dockrell",
+      "John G. Doench",
+      "J. Kenneth Baillie",
+      "Nir Hacohen"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T18:18:46.608723"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 184,
+      "retrieved_at": "2025-10-03T18:18:48.137014"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 159,
+      "retrieved_at": "2025-10-03T18:18:50.548805"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 209,
+      "retrieved_at": "2025-10-03T23:00:08.043223"
+    },
+    "last_updated": "2025-10-03T23:00:08.043312"
+  }
+}

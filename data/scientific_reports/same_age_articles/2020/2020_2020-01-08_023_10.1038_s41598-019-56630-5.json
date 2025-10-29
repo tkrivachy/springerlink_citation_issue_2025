@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.302179",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56630-5",
+    "title": "MicroRNA profiles in serum samples from Acute-On-Chronic Liver Failure patients and miR-25-3p as a potential biomarker for survival prediction",
+    "article_number": "100",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Júlia Cisilotto",
+      "Alex Evangelista do Amaral",
+      "Daiane Rosolen",
+      "Michele Patrícia Rode",
+      "Adny Henrique Silva",
+      "Evelyn Winter",
+      "Telma Erotides da Silva",
+      "Josiane Fischer",
+      "Camila Matiollo",
+      "Elayne Cristina de Morais Rateke",
+      "Janaína Luz Narciso-Schiavon",
+      "Leonardo de Lucca Schiavon",
+      "Tânia Beatriz Creczynski-Pasa"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T14:27:26.646360"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T14:27:28.169031"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:27:29.480959"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T21:34:17.345099"
+    },
+    "last_updated": "2025-10-03T21:34:17.345290"
+  }
+}

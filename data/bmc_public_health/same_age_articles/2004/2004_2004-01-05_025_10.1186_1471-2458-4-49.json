@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.167268",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-49",
+    "title": "Trends in suicide in Scotland 1981 – 1999: age, method and geography",
+    "article_number": "49",
+    "publication_date": "2004-10-20",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Cameron Stark",
+      "Paddy Hopkins",
+      "Diane Gibbs",
+      "Tracey Rapson",
+      "Alan Belbin",
+      "Alistair Hay"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:11:35.382442"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T12:11:36.887060"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T12:11:38.235628"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T20:45:15.193036"
+    },
+    "last_updated": "2025-10-03T20:45:15.193223"
+  }
+}

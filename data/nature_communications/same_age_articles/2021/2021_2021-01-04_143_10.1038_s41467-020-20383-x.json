@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.197070",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20383-x",
+    "title": "Standardization of ELISA protocols for serosurveys of the SARS-CoV-2 pandemic using clinical and at-home blood sampling",
+    "article_number": "113",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Carleen Klumpp-Thomas",
+      "Heather Kalish",
+      "Matthew Drew",
+      "Sally Hunsberger",
+      "Kelly Snead",
+      "Michael P. Fay",
+      "Jennifer Mehalko",
+      "Anandakumar Shunmugavel",
+      "Vanessa Wall",
+      "Peter Frank",
+      "John-Paul Denson",
+      "Min Hong",
+      "Gulcin Gulten",
+      "Simon Messing",
+      "Jennifer Hicks",
+      "Sam Michael",
+      "William Gillette",
+      "Matthew D. Hall",
+      "Matthew J. Memoli",
+      "Dominic Esposito",
+      "Kaitlyn Sadtler"
+    ]
+  },
+  "article_index": 143,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:35:30.808051"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 120,
+      "retrieved_at": "2025-10-03T18:35:32.385578"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 125,
+      "retrieved_at": "2025-10-03T18:35:33.585587"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T23:05:48.739591"
+    },
+    "last_updated": "2025-10-03T23:05:48.739779"
+  }
+}

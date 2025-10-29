@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-020-80541-5</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-020-80541-5</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Impacts of sleep on the characteristics of dental biofilm</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Sotozono</surname>
+                <given-names>Maki</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Kuriki</surname>
+                <given-names>Nanako</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Asahi</surname>
+                <given-names>Yoko</given-names>
+              </name>
+              <address>
+                <email>yoko-a@dent.osaka-u.ac.jp</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Noiri</surname>
+                <given-names>Yuichiro</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Hayashi</surname>
+                <given-names>Mikako</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Motooka</surname>
+                <given-names>Daisuke</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <name name-style="western">
+                <surname>Nakamura</surname>
+                <given-names>Shota</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Machi</surname>
+                <given-names>Hiroyuki</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Iida</surname>
+                <given-names>Tetsuya</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <name name-style="western">
+                <surname>Ebisu</surname>
+                <given-names>Shigeyuki</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>8</day>
+            <month>1</month>
+            <year>2021</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2021</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue>1</issue>
+          <elocation-id>138</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-020-80541-5</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-020-80541-5.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2021</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Dental biofilm present on the tooth surface is associated with oral diseases, such as dental caries and periodontal disease. Because bacterial numbers rapidly increase in saliva during sleep, oral care before sleeping is recommended for the prevention of chronic oral diseases. However, temporal circadian changes in the quantity and quality of dental biofilms are poorly understood. This study aimed to investigate the impacts of sleeping on dental biofilm amounts and compositions by using an in situ model. The use of this in situ model enabled us to investigate dental biofilm formed in the oral cavity and to perform a quantitative analysis. Subjects began wearing oral splints in the morning or before sleeping, and biofilm samples were collected at 8, 16, and 24 h after the subjects began wearing oral splints; these samples were then used in various experiments. No significant changes in the numbers of biofilm-forming bacteria were caused by sleep. However, the relative abundances of genera related to periodontitis (i.e., 
+              <italic>Fusobacterium</italic>
+               and 
+              <italic>Prevotella</italic>
+              ) increased after awakening. In conclusion, the numbers of biofilm-forming bacteria were not affected by sleep, and the abundances of obligate anaerobes increased after sleep. This research may aid in defining efficacious preventive oral care.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1105">Dentistry</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Initiative for Realizing Diversity in the Research Environment</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>SECOM Science and Technology Foundation</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>JSPS KAKENHI</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">JP17H04384</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Ebisu</surname>
+                  <given-names>Shigeyuki</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

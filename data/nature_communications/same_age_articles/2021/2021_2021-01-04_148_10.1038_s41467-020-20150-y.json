@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.197988",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20150-y",
+    "title": "Nanoscale decoupling of electronic nematicity and structural anisotropy in FeSe thin films",
+    "article_number": "10",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zheng Ren",
+      "Hong Li",
+      "He Zhao",
+      "Shrinkhala Sharma",
+      "Ziqiang Wang",
+      "Ilija Zeljkovic"
+    ]
+  },
+  "article_index": 148,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:23:11.985302"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:23:13.547495"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T18:23:14.739440"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T23:01:37.429135"
+    },
+    "last_updated": "2025-10-03T23:01:37.429368"
+  }
+}

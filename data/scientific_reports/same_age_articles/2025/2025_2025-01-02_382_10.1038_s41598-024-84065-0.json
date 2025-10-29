@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.389572",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84065-0",
+    "title": "Assessment of the efficacy of on-demand tegoprazan therapy in gastroesophageal reflux disease through a randomized controlled trial",
+    "article_number": "168",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sun Hyung Kang",
+      "Hee Seok Moon",
+      "Jae Kyu Sung",
+      "Sun Moon Kim",
+      "Ki Bae Kim",
+      "Seung Woo Lee",
+      "Young Sin Cho",
+      "Ki Bae Bang",
+      "Kyung Ho Song"
+    ]
+  },
+  "article_index": 382,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:28:49.600261"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:28:51.158763"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:27.854250"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:21:52.555636"
+    },
+    "last_updated": "2025-10-07T09:51:27.854400"
+  }
+}

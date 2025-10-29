@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.405272",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84297-0",
+    "title": "A microfluidics platform for simultaneous evaluation of sensitivity and side effects of anti-cancer drugs using a three-dimensional culture method",
+    "article_number": "39",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuki Kobayashi",
+      "Honoka Hashizume",
+      "Sotaro Takiguchi",
+      "Jiajue Ji",
+      "Ryuji Kawano",
+      "Keiichiro Koiwai",
+      "Haru Yamamoto",
+      "Mohamed Elbadawy",
+      "Tsutomu Omatsu",
+      "Amira Abugomaa",
+      "Masahiro Kaneda",
+      "Tatsuya Usui",
+      "Kazuaki Sasaki"
+    ]
+  },
+  "article_index": 515,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:18:42.081075"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:18:43.610673"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:25.977830"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:18:17.712785"
+    },
+    "last_updated": "2025-10-07T09:49:25.977891"
+  }
+}

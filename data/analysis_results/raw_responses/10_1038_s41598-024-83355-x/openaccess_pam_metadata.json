@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "pam",
+  "test_doi": "10.1038/s41598-024-83355-x",
+  "safe_doi": "10_1038_s41598-024-83355-x",
+  "timestamp": "2025-10-20 14:11:36",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5051977634429932,
+    "content_length": "N/A",
+    "content_type": "application/xml; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/pam",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41598-024-83355-x",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "PAM XML Response\nRoot element: response\nRoot attributes: {}\nDirect children: 5\nChild elements: {'apiMessage': 1, 'query': 1, 'result': 1, 'records': 1, 'facets': 1}\n",
+  "filename": "openaccess_pam.xml"
+}

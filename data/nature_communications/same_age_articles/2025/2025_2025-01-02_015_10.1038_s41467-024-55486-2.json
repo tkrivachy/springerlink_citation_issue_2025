@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.512011",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55486-2",
+    "title": "Observation of 1/3 fractional quantum Hall physics in balanced large angle twisted bilayer graphene",
+    "article_number": "179",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dohun Kim",
+      "Seyoung Jin",
+      "Takashi Taniguchi",
+      "Kenji Watanabe",
+      "Jurgen H. Smet",
+      "Gil Young Cho",
+      "Youngwook Kim"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:20:10.499302"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:20:12.027346"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:20:13.185012"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:20:54.561964"
+    },
+    "last_updated": "2025-10-03T23:20:54.562148"
+  }
+}

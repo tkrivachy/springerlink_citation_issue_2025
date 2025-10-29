@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.212777",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79749-2",
+    "title": "Nucleation pathways in barium silicate glasses",
+    "article_number": "69",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Matthew E. McKenzie",
+      "Binghui Deng",
+      "D. C. Van Hoesen",
+      "Xinsheng Xia",
+      "David E. Baker",
+      "Aram Rezikyan",
+      "Randall E. Youngman",
+      "K. F. Kelton"
+    ]
+  },
+  "article_index": 71,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:33:01.593072"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:33:03.127011"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:33:04.434001"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:36:34.959610"
+    },
+    "last_updated": "2025-10-03T21:36:34.959802"
+  }
+}

@@ -1,0 +1,202 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/1471-2458-5-121",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/1471-2458-5-121",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-5-121"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-5-121"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/1471-2458-5-121"
+        }
+      ],
+      "title": "Response of religious groups to HIV/AIDS as a sexually transmitted infection in Trinidad",
+      "creators": [
+        {
+          "creator": "Genrich, Gillian L"
+        },
+        {
+          "creator": "Brathwaite, Brader A"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "openaccess": "true",
+      "doi": "10.1186/1471-2458-5-121",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2005-11-16",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "5",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "12",
+      "journalId": "12889",
+      "onlineDate": "2005-11-16",
+      "coverDate": "2005-12",
+      "copyright": "©2005 Genrich and Brathwaite; licensee BioMed Central Ltd.",
+      "abstract": "Background HIV/AIDS-related stigma and discrimination are significant determinants of HIV transmission in the Caribbean island nation of Trinidad and Tobago (T&T), where the adult HIV/AIDS prevalence is 2.5%. T&T is a spiritually-aware society and over 104 religious groups are represented. This religious diversity creates a complex social environment for the transmission of a sexually transmitted infection like HIV/AIDS. Religious leaders are esteemed in T&T's society and may use their position and frequent interactions with the public to promote HIV/AIDS awareness, fight stigma and discrimination, and exercise compassion for people living with HIV/AIDS (PWHA). Some religious groups have initiated HIV/AIDS education programs within their membership, but previous studies suggest that HIV/AIDS remains a stigmatized infection in many religious organizations. The present study investigates how the perception of HIV/AIDS as a sexually transmitted infection impacts religious representatives' incentives to respond to HIV/AIDS in their congregations and communities. In correlation, the study explores how the experiences of PWHA in religious gatherings impact healing and coping with HIV/AIDS. Methods Between November 2002 and April 2003, in-depth interviews were conducted with 11 religious representatives from 10 Christian, Hindu and Muslim denominations. The majority of respondents were leaders of religious services, while two were active congregation members. Religious groups were selected based upon the methods of Brathwaite. Briefly, 26 religious groups with the largest followings according to 2000 census data were identified in Trinidad and Tobago. From this original list, 10 religious groups in Northwest Trinidad were selected to comprise a representative sample of the island's main denominations. In-depth interviews with PWHA were conducted during the same study period, 2002–2003. Four individuals were selected from a care and support group located in Port of Spain based upon their perceived willingness to discuss religious affiliation and describe how living with a terminal infection has affected their spiritual lives. The interviewer, a United States Fulbright Scholar, explained the nature and purpose of the study to all participants. Relevant ethical procedures associated with the collection of interview data were adopted: interviews were conducted in a non-coercive manner and confidentiality was assured. All participants provided verbal consent, and agreed to be interviewed without financial or other incentive. Ethics approval was granted on behalf of the Caribbean Conference of Churches Ethics Committee. Interview questions followed a guideline, and employed an open-ended format to facilitate discussion. All interviews were recorded and transcribed by the interviewer. Results Religious representatives' opinions were grouped into the following categories: rationale for the spread of HIV/AIDS, abstinence, condom use, sexuality and homosexuality, compassion, experiences with PWHA, recommendations and current approach to addressing HIV/AIDS in congregations. Religious representatives expressed a measure of acceptance of HIV/AIDS and overwhelmingly upheld compassion for PWHA. Some statements, however, suggested that HIV/AIDS stigma pervades Trinidad's religious organizations. For many representatives, HIV/AIDS was associated with a promiscuous lifestyle and/or homosexuality. Representatives had varying levels of interaction with PWHA, but personal experiences were positively associated with current involvement in HIV/AIDS initiatives. All 4 PWHA interviewed identified themselves as belonging to Christian denominations. Three out of the 4 PWHA described discriminatory experiences with pastors or congregation members during gatherings for religious services. Nonetheless, PWHA expressed an important role for faith and religion in coping with HIV. Conclusion Religious groups in Trinidad are being challenged to promote a clear and consistent response to the HIV/AIDS epidemic; a response that may reflect personal experiences and respect religious doctrine in the context of sex and sexuality. The study suggests that (1) religious leaders could improve their role in the fight against HIV/AIDS with education and sensitization-specifically aimed at dismantling the myths about HIV transmission, and the stereotyping of susceptible sub-populations, and (2) a consultative dialogue between PWHAs and religious leaders is pivotal to a successful faith-based HIV intervention in Trinidad.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Religious Group",
+        "Religious Leader",
+        "Religious Organization",
+        "Religious Doctrine",
+        "Discriminatory Experience"
+      ],
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Discriminatory Experience",
+          "count": "1"
+        },
+        {
+          "value": "Religious Doctrine",
+          "count": "1"
+        },
+        {
+          "value": "Religious Group",
+          "count": "1"
+        },
+        {
+          "value": "Religious Leader",
+          "count": "1"
+        },
+        {
+          "value": "Religious Organization",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2005",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.881681",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13815-w",
+    "title": "The mechanistic and functional profile of the therapeutic anti-IgE antibody ligelizumab differs from omalizumab",
+    "article_number": "165",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pascal Gasser",
+      "Svetlana S. Tarchevskaya",
+      "Pascal Guntern",
+      "Daniel Brigger",
+      "Rahel Ruppli",
+      "Noemi Zbären",
+      "Silke Kleinboelting",
+      "Christoph Heusser",
+      "Theodore S. Jardetzky",
+      "Alexander Eggel"
+    ]
+  },
+  "article_index": 44,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 145,
+      "retrieved_at": "2025-10-03T18:14:53.436474"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 157,
+      "retrieved_at": "2025-10-03T18:14:54.999042"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T18:14:56.184590"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 168,
+      "retrieved_at": "2025-10-03T22:58:42.853280"
+    },
+    "last_updated": "2025-10-03T22:58:42.853504"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.735846",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07938-9",
+    "title": "Structure of BAI1/ELMO2 complex reveals an action mechanism of adhesion GPCRs via ELMO family scaffolds",
+    "article_number": "51",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhuangfeng Weng",
+      "Chenghao Situ",
+      "Lin Lin",
+      "Zhenguo Wu",
+      "Jinwei Zhu",
+      "Rongguang Zhang"
+    ]
+  },
+  "article_index": 540,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:37:25.325160"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:37:26.869646"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T17:37:28.042716"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T22:46:05.344693"
+    },
+    "last_updated": "2025-10-03T22:46:05.344792"
+  }
+}

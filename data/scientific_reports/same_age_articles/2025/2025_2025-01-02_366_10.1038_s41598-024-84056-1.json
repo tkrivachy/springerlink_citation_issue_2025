@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.387965",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84056-1",
+    "title": "A comparative analysis of L-moments, maximum likelihood, and maximum product of spacing methods for the four-parameter kappa distribution in extreme value analysis",
+    "article_number": "164",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Muhammad Shafeeq ul Rehman Khan",
+      "Zamir Hussain",
+      "Sadaf Sher",
+      "Muhammad Amjad",
+      "Faisal Baig",
+      "Ishfaq Ahmad",
+      "Hamd Ullah"
+    ]
+  },
+  "article_index": 366,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:46:54.904201"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:46:56.450524"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:46:57.644603"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:28:21.326449"
+    },
+    "last_updated": "2025-10-03T22:28:21.326497"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.683657",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8063-8",
+    "title": "Is the Philippines ready for HIV self-testing?",
+    "article_number": "34",
+    "publication_date": "2020-01-09",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jesal Gohil",
+      "Emmanuel S. Baja",
+      "Tyrone Reden Sy",
+      "Ernest Genesis Guevara",
+      "Charlotte Hemingway",
+      "Paul Mark B. Medina",
+      "Leila Coppens",
+      "Godofreda V. Dalmacion",
+      "Miriam Taegtmeyer"
+    ]
+  },
+  "article_index": 117,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T13:31:50.917479"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T13:31:52.431882"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T13:31:53.684459"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T21:14:29.012863"
+    },
+    "last_updated": "2025-10-03T21:14:29.012943"
+  }
+}

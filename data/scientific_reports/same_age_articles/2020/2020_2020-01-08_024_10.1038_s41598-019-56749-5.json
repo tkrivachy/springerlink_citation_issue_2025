@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.302286",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56749-5",
+    "title": "Direct PtSn Alloy Formation by Pt Electrodeposition on Sn Surface",
+    "article_number": "59",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jan N. Schwämmlein",
+      "Paulette A. Loichet Torres",
+      "Hubert A. Gasteiger",
+      "Hany A. El-Sayed"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:23:52.470518"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:23:54.012372"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:23:55.199033"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:32:50.680889"
+    },
+    "last_updated": "2025-10-03T21:32:50.681076"
+  }
+}

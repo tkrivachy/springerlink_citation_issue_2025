@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.534261",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55097-x",
+    "title": "Living plastics from plasticizer-assisted thermal molding of silk protein",
+    "article_number": "52",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yushu Wang",
+      "Junqi Wu",
+      "Emily J. Hartzell",
+      "Weiguo Hu",
+      "Reddhy Mahle",
+      "Xinxin Li",
+      "Ying Chen",
+      "Jugal Kishore Sahoo",
+      "Cameron Chan",
+      "Brooke N. Longo",
+      "Charlotte S. Jacobus",
+      "Chunmei Li",
+      "David L. Kaplan"
+    ]
+  },
+  "article_index": 152,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:46:24.154411"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:46:25.673123"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:46:26.893702"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:29:50.049937"
+    },
+    "last_updated": "2025-10-03T23:29:50.050023"
+  }
+}

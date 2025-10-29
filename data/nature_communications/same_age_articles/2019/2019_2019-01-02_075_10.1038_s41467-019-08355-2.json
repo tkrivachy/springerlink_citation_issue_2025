@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.685318",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08355-2",
+    "title": "Ingestible hydrogel device",
+    "article_number": "493",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xinyue Liu",
+      "Christoph Steiger",
+      "Shaoting Lin",
+      "German Alberto Parada",
+      "Ji Liu",
+      "Hon Fai Chan",
+      "Hyunwoo Yuk",
+      "Nhi V. Phan",
+      "Joy Collins",
+      "Siddartha Tamang",
+      "Giovanni Traverso",
+      "Xuanhe Zhao"
+    ]
+  },
+  "article_index": 75,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:35:57.261725"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 226,
+      "retrieved_at": "2025-10-03T17:35:58.793031"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 212,
+      "retrieved_at": "2025-10-03T17:35:59.952500"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 261,
+      "retrieved_at": "2025-10-03T22:45:37.532769"
+    },
+    "last_updated": "2025-10-03T22:45:37.532963"
+  }
+}

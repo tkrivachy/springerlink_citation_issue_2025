@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.176770",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20473-w",
+    "title": "Coulomb interactions between dipolar quantum fluctuations in van der Waals bound molecules and materials",
+    "article_number": "137",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Martin Stöhr",
+      "Mainak Sadhukhan",
+      "Yasmine S. Al-Hamdani",
+      "Jan Hermann",
+      "Alexandre Tkatchenko"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:33:01.694045"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:33:03.220960"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:33:04.528632"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:05:01.702039"
+    },
+    "last_updated": "2025-10-03T23:05:01.702230"
+  }
+}

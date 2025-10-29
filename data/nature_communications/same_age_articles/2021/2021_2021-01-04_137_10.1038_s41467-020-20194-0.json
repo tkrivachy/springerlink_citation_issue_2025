@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.196232",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20194-0",
+    "title": "Structural basis for nuclear import selectivity of pioneer transcription factor SOX2",
+    "article_number": "28",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bikshapathi Jagga",
+      "Megan Edwards",
+      "Miriam Pagin",
+      "Kylie M. Wagstaff",
+      "David Aragão",
+      "Noelia Roman",
+      "Jeffrey D. Nanson",
+      "Shane R. Raidal",
+      "Nicole Dominado",
+      "Murray Stewart",
+      "David A. Jans",
+      "Gary R. Hime",
+      "Silvia K. Nicolis",
+      "Christopher F. Basler",
+      "Jade K. Forwood"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:24:46.715038"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:24:48.292120"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:24:49.475886"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T23:02:12.836042"
+    },
+    "last_updated": "2025-10-03T23:02:12.836234"
+  }
+}

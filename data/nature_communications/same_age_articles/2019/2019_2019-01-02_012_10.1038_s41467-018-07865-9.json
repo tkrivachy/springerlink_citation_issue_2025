@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.677624",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07865-9",
+    "title": "Sustained ocean changes contributed to sudden Antarctic sea ice retreat in late 2016",
+    "article_number": "14",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gerald A. Meehl",
+      "Julie M. Arblaster",
+      "Christine T. Y. Chung",
+      "Marika M. Holland",
+      "Alice DuVivier",
+      "LuAnne Thompson",
+      "Dongxia Yang",
+      "Cecilia M. Bitz"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 239,
+      "retrieved_at": "2025-10-03T17:22:12.878992"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 191,
+      "retrieved_at": "2025-10-03T17:22:14.436508"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 188,
+      "retrieved_at": "2025-10-03T17:22:15.920369"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 241,
+      "retrieved_at": "2025-10-03T22:40:49.284498"
+    },
+    "last_updated": "2025-10-03T22:40:49.284686"
+  }
+}

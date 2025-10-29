@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.183110",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20668-1",
+    "title": "Author Correction: Chemogenetic generation of hydrogen peroxide in the heart induces severe cardiac dysfunction",
+    "article_number": "357",
+    "publication_date": "2021-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Benjamin Steinhorn",
+      "Andrea Sorrentino",
+      "Sachin Badole",
+      "Yulia Bogdanova",
+      "Vsevolod Belousov",
+      "Thomas Michel"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:27:34.620650"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:27:36.123012"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:27:37.433722"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:03:10.401521"
+    },
+    "last_updated": "2025-10-03T23:03:10.401712"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.532139",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55652-6",
+    "title": "Spontaneous bifacial capping of perovskite film for efficient and mechanically stable flexible solar cell",
+    "article_number": "90",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Junjun Jin",
+      "Zhenkun Zhu",
+      "Yidong Ming",
+      "Yuan Zhou",
+      "Jitao Shang",
+      "Shaofu Wang",
+      "Xiaxia Cui",
+      "Tonghui Guo",
+      "Dan Zhang",
+      "Guanqi Tang",
+      "Qianqian Lin",
+      "Jinhua Li",
+      "Xiaowei Liu",
+      "Sheng Liu",
+      "Zhiwen Chen",
+      "Zhao Hu",
+      "Hong Meng",
+      "Qidong Tai"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:24:29.469364"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T19:24:31.061359"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:24:32.260419"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T23:22:20.414794"
+    },
+    "last_updated": "2025-10-03T23:22:20.414985"
+  }
+}

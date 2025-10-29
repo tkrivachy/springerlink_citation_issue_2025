@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.194056",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20340-8",
+    "title": "Error correction enables use of Oxford Nanopore technology for reference-free transcriptome analysis",
+    "article_number": "2",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kristoffer Sahlin",
+      "Paul Medvedev"
+    ]
+  },
+  "article_index": 121,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 110,
+      "retrieved_at": "2025-10-03T18:27:18.229561"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T18:27:19.795280"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 119,
+      "retrieved_at": "2025-10-03T18:27:20.982085"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 165,
+      "retrieved_at": "2025-10-03T23:03:04.638738"
+    },
+    "last_updated": "2025-10-03T23:03:04.638826"
+  }
+}

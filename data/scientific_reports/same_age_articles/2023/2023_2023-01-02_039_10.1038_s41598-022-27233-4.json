@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.103624",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27233-4",
+    "title": "White matter alterations in MR-negative temporal and frontal lobe epilepsy using fixel-based analysis",
+    "article_number": "19",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Michaela Bartoňová",
+      "Jacques-Donald Tournier",
+      "Marek Bartoň",
+      "Pavel Říha",
+      "Lubomír Vojtíšek",
+      "Radek Mareček",
+      "Irena Doležalová",
+      "Ivan Rektor"
+    ]
+  },
+  "article_index": 39,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:33:07.300260"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:33:08.893502"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:33:10.213557"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:01:06.520117"
+    },
+    "last_updated": "2025-10-03T22:01:06.520305"
+  }
+}

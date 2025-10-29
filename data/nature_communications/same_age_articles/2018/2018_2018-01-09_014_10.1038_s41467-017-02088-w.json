@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606253",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02088-w",
+    "title": "Structural absorption by barbule microstructures of super black bird of paradise feathers",
+    "article_number": "1",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dakota E. McCoy",
+      "Teresa Feo",
+      "Todd Alan Harvey",
+      "Richard O. Prum"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:36:08.331500",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5279,
+      "retrieved_at": "2025-10-03T11:44:10.408686"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6481,
+      "retrieved_at": "2025-10-03T17:08:30.122369"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7181,
+      "retrieved_at": "2025-10-03T17:08:31.309821"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7522,
+      "retrieved_at": "2025-10-03T22:36:08.331264"
+    }
+  }
+}

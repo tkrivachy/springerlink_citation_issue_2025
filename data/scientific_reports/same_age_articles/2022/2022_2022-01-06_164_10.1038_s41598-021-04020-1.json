@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.874774",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04020-1",
+    "title": "Evaluation of animal model congruence to human depression based on large-scale gene expression patterns of the CNS",
+    "article_number": "108",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Stephen C. Gammie"
+    ]
+  },
+  "article_index": 164,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:18:50.904462"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:18:52.434843"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:18:53.794382"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:55:25.802524"
+    },
+    "last_updated": "2025-10-03T21:55:25.802575"
+  }
+}

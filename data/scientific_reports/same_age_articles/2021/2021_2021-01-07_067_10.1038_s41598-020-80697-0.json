@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.212208",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80697-0",
+    "title": "Longitudinal changes in retinal microvasculature after panretinal photocoagulation in diabetic retinopathy using swept-source OCT angiography",
+    "article_number": "216",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kiyoung Kim",
+      "Eung Suk Kim",
+      "Seung-Young Yu"
+    ]
+  },
+  "article_index": 67,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:53:01.212961"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:53:02.733200"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:53:03.993541"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:44:34.619071"
+    },
+    "last_updated": "2025-10-03T21:44:34.619169"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.731470",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07962-9",
+    "title": "Molecular recognition of the native HIV-1 MPER revealed by STED microscopy of single virions",
+    "article_number": "78",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pablo Carravilla",
+      "Jakub Chojnacki",
+      "Edurne Rujas",
+      "Sara Insausti",
+      "Eneko Largo",
+      "Dominic Waithe",
+      "Beatriz Apellaniz",
+      "Taylor Sicard",
+      "Jean-Philippe Julien",
+      "Christian Eggeling",
+      "José L. Nieva"
+    ]
+  },
+  "article_index": 499,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:16:11.855034"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:16:13.969169"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T17:16:15.283038"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T22:38:52.165488"
+    },
+    "last_updated": "2025-10-03T22:38:52.165689"
+  }
+}

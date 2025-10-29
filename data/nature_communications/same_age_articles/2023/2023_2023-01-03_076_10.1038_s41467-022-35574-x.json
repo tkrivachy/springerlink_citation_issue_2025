@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.649671",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35574-x",
+    "title": "Single-cell transcriptomic analysis reveals diversity within mammalian spinal motor neurons",
+    "article_number": "46",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ee Shan Liau",
+      "Suoqin Jin",
+      "Yen-Chung Chen",
+      "Wei-Szu Liu",
+      "Maëliss Calon",
+      "Stéphane Nedelec",
+      "Qing Nie",
+      "Jun-An Chen"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T18:45:31.238705"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:45:32.783651"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:45:33.960319"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T23:09:09.635966"
+    },
+    "last_updated": "2025-10-03T23:09:09.636157"
+  }
+}

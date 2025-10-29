@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.631111",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10272-3",
+    "title": "Analgesic purchases among older adults – a population-based study",
+    "article_number": "256",
+    "publication_date": "2021-01-31",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Maiju K. Marttinen",
+      "Hannu Kautiainen",
+      "Maija Haanpää",
+      "Heini Pohjankoski",
+      "Jukka Hintikka",
+      "Markku J. Kauppi"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:44:10.467201"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T13:44:12.010542"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:44:13.242151"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:18:54.513306"
+    },
+    "last_updated": "2025-10-03T21:18:54.513532"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.348513",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84076-x",
+    "title": "Long-term variability of extreme precipitation with WRF model at a complex terrain River Basin",
+    "article_number": "156",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yinchi Zhang",
+      "Chao Deng",
+      "Wanling Xu",
+      "Yao Zhuang",
+      "Lizhi Jiang",
+      "Caiying Jiang",
+      "Xiaojun Guan",
+      "Jianhui Wei",
+      "Miaomiao Ma",
+      "Ying Chen",
+      "Jian Peng",
+      "Lu Gao"
+    ]
+  },
+  "article_index": 68,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:31:33.348872"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:31:34.859882"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:59.893103"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:22:49.739880"
+    },
+    "last_updated": "2025-10-07T09:51:59.893361"
+  }
+}

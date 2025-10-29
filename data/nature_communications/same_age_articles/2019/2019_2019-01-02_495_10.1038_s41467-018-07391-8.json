@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.731045",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07391-8",
+    "title": "Central dogma rates and the trade-off between precision and economy in gene expression",
+    "article_number": "68",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jean Hausser",
+      "Avi Mayo",
+      "Leeat Keren",
+      "Uri Alon"
+    ]
+  },
+  "article_index": 495,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T17:11:36.836605"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T17:11:38.385597"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 165,
+      "retrieved_at": "2025-10-03T17:11:39.574745"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 195,
+      "retrieved_at": "2025-10-03T22:37:11.381529"
+    },
+    "last_updated": "2025-10-03T22:37:11.381575"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.885849",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13858-z",
+    "title": "Automated mass spectrometry imaging of over 2000 proteins from tissue sections at 100-μm spatial resolution",
+    "article_number": "8",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Paul D. Piehowski",
+      "Ying Zhu",
+      "Lisa M. Bramer",
+      "Kelly G. Stratton",
+      "Rui Zhao",
+      "Daniel J. Orton",
+      "Ronald J. Moore",
+      "Jia Yuan",
+      "Hugh D. Mitchell",
+      "Yuqian Gao",
+      "Bobbie-Jo M. Webb-Robertson",
+      "Sudhansu K. Dey",
+      "Ryan T. Kelly",
+      "Kristin E. Burnum-Johnson"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 186,
+      "retrieved_at": "2025-10-03T18:09:10.722202"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 224,
+      "retrieved_at": "2025-10-03T18:09:12.273044"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 213,
+      "retrieved_at": "2025-10-03T18:09:13.853483"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 239,
+      "retrieved_at": "2025-10-03T22:56:55.885542"
+    },
+    "last_updated": "2025-10-03T22:56:55.885654"
+  }
+}

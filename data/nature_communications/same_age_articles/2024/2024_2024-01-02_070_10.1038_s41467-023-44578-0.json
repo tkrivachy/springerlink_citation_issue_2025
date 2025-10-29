@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.673478",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44578-0",
+    "title": "Cell-type differential targeting of SETDB1 prevents aberrant CTCF binding, chromatin looping, and ",
+    "article_number": "15",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Phoebe Lut Fei Tam",
+      "Ming Fung Cheung",
+      "Lu Yan Chan",
+      "Danny Leung"
+    ]
+  },
+  "article_index": 70,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:57:12.759401"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:57:14.326487"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T18:57:15.622277"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:13:06.651288"
+    },
+    "last_updated": "2025-10-03T23:13:06.651517"
+  }
+}

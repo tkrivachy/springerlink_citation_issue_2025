@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.544859",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55471-9",
+    "title": "Structural insights into the mechanism of phosphate recognition and transport by XPR1",
+    "article_number": "18",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wenhui Zhang",
+      "Yanke Chen",
+      "Zeyuan Guan",
+      "Yong Wang",
+      "Meng Tang",
+      "Zhangmeng Du",
+      "Jie Zhang",
+      "Meng Cheng",
+      "Jiaqi Zuo",
+      "Yan Liu",
+      "Qiang Wang",
+      "Yanjun Liu",
+      "Delin Zhang",
+      "Ping Yin",
+      "Ling Ma",
+      "Zhu Liu"
+    ]
+  },
+  "article_index": 229,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:15:36.077521"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:15:37.630678"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:38.817277"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:19:22.979109"
+    },
+    "last_updated": "2025-10-03T23:19:22.979184"
+  }
+}

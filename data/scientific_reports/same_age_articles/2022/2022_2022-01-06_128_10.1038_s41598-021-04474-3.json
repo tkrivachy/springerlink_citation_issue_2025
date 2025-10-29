@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.870648",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04474-3",
+    "title": null,
+    "article_number": "292",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jia-Yi Wei",
+      "Sao-Yu Chu",
+      "Yu-Chien Huang",
+      "Pei-Chi Chung",
+      "Hung-Hsiang Yu"
+    ]
+  },
+  "article_index": 128,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:26:00.130384"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:26:01.701224"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:26:02.904131"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T21:58:13.074003"
+    },
+    "last_updated": "2025-10-03T21:58:13.074208"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.529314",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-17",
+    "title": "Analysis of the UK recommendations on obesity based on a proposed implementation framework",
+    "article_number": "17",
+    "publication_date": "2010-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Amudha S Poobalan",
+      "Lorna S Aucott",
+      "Sheraz Ahmed",
+      "W Cairns S Smith"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:38:41.275800"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T12:38:42.820843"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T12:38:44.082787"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T20:55:12.061115"
+    },
+    "last_updated": "2025-10-03T20:55:12.061203"
+  }
+}

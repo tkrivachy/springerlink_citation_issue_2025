@@ -1,0 +1,73 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.676874",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07826-2",
+    "title": "Industrial scale high-throughput screening delivers multiple fast acting macrofilaricides",
+    "article_number": "11",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rachel H. Clare",
+      "Catherine Bardelle",
+      "Paul Harper",
+      "W. David Hong",
+      "Ulf Börjesson",
+      "Kelly L. Johnston",
+      "Matthew Collier",
+      "Laura Myhill",
+      "Andrew Cassidy",
+      "Darren Plant",
+      "Helen Plant",
+      "Roger Clark",
+      "Darren A. N. Cook",
+      "Andrew Steven",
+      "John Archer",
+      "Paul McGillan",
+      "Sitthivut Charoensutthivarakul",
+      "Jaclyn Bibby",
+      "Raman Sharma",
+      "Gemma L. Nixon",
+      "Barton E. Slatko",
+      "Lindsey Cantin",
+      "Bo Wu",
+      "Joseph Turner",
+      "Louise Ford",
+      "Kirsty Rich",
+      "Mark Wigglesworth",
+      "Neil G. Berry",
+      "Paul M. O’Neill",
+      "Mark J. Taylor",
+      "Stephen A. Ward"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:59:50.845653"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T17:59:52.395451"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T17:59:53.537369"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T22:53:55.542574"
+    },
+    "last_updated": "2025-10-03T22:53:55.542763"
+  }
+}

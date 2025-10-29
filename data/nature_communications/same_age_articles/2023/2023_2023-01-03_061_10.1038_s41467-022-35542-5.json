@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643768",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35542-5",
+    "title": "Evidence that endosperm turgor pressure both promotes and restricts seed growth and size",
+    "article_number": "67",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Audrey Creff",
+      "Olivier Ali",
+      "Camille Bied",
+      "Vincent Bayle",
+      "Gwyneth Ingram",
+      "Benoit Landrein"
+    ]
+  },
+  "article_index": 61,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:46:17.620972"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:46:19.169534"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:46:20.482585"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T23:09:24.328592"
+    },
+    "last_updated": "2025-10-03T23:09:24.328784"
+  }
+}

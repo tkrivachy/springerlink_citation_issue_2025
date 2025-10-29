@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.678185",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08433-5",
+    "title": "Crystal-confined freestanding ionic liquids for reconfigurable and repairable electronics",
+    "article_number": "547",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Naiwei Gao",
+      "Yonglin He",
+      "Xinglei Tao",
+      "Xiao-Qi Xu",
+      "Xun Wu",
+      "Yapei Wang"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T17:12:15.452748"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T17:12:17.026911"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T17:12:18.195868"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T22:37:23.956153"
+    },
+    "last_updated": "2025-10-03T22:37:23.956375"
+  }
+}

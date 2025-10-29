@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.558408",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55421-5",
+    "title": "Development of small molecule non-covalent coronavirus 3CL protease inhibitors from DNA-encoded chemical library screening",
+    "article_number": "152",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hengrui Liu",
+      "Arie Zask",
+      "Farhad Forouhar",
+      "Sho Iketani",
+      "Alana Williams",
+      "Daniel R. Vaz",
+      "Dahlya Habashi",
+      "Karenna Choi",
+      "Samuel J. Resnick",
+      "Seo Jung Hong",
+      "David H. Lovett",
+      "Tian Bai",
+      "Alejandro Chavez",
+      "David D. Ho",
+      "Brent R. Stockwell"
+    ]
+  },
+  "article_index": 298,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:32:29.090079"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:32:30.637819"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:31.822039"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:24:49.760864"
+    },
+    "last_updated": "2025-10-03T23:24:49.760926"
+  }
+}

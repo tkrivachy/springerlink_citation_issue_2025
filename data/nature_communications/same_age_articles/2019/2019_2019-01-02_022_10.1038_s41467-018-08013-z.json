@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.678585",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08013-z",
+    "title": "Cancer cell-expressed SLAMF7 is not required for CD47-mediated phagocytosis",
+    "article_number": "533",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuan He",
+      "Renee Bouwstra",
+      "Valerie R. Wiersma",
+      "Mathilde de Jong",
+      "Harm Jan Lourens",
+      "Rudolf Fehrmann",
+      "Marco de Bruyn",
+      "Emanuele Ammatuna",
+      "Gerwin Huls",
+      "Tom van Meerten",
+      "Edwin Bremer"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:52:33.698245"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T17:52:35.231310"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T17:52:36.408817"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T22:51:08.488457"
+    },
+    "last_updated": "2025-10-03T22:51:08.488554"
+  }
+}

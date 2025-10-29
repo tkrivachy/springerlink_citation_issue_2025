@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.172878",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20429-0",
+    "title": "Predicting postoperative peritoneal metastasis in gastric cancer with serosal invasion using a collagen nomogram",
+    "article_number": "179",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dexin Chen",
+      "Zhangyuanzhu Liu",
+      "Wenju Liu",
+      "Meiting Fu",
+      "Wei Jiang",
+      "Shuoyu Xu",
+      "Guangxing Wang",
+      "Feng Chen",
+      "Jianping Lu",
+      "Hao Chen",
+      "Xiaoyu Dong",
+      "Guoxin Li",
+      "Gang Chen",
+      "Shuangmu Zhuo",
+      "Jun Yan"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:35:50.564085"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T18:35:52.085390"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 114,
+      "retrieved_at": "2025-10-03T18:35:53.260194"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T23:05:54.806548"
+    },
+    "last_updated": "2025-10-03T23:05:54.806618"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.166115",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-48",
+    "title": "The ",
+    "article_number": "48",
+    "publication_date": "2004-10-18",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kate Williams",
+      "A Toby Prevost",
+      "Simon Griffin",
+      "Wendy Hardeman",
+      "William Hollingworth",
+      "David Spiegelhalter",
+      "Stephen Sutton",
+      "Ulf Ekelund",
+      "Nicholas Wareham",
+      "Ann Louise Kinmonth"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T12:06:38.282038"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T12:06:39.840214"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T12:06:41.163401"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T20:43:27.996607"
+    },
+    "last_updated": "2025-10-03T20:43:27.996795"
+  }
+}

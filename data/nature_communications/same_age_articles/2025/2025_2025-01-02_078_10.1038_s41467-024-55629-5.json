@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.520937",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55629-5",
+    "title": "Development and validation of a real-time prediction model for acute kidney injury in hospitalized patients",
+    "article_number": "68",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuhui Zhang",
+      "Damin Xu",
+      "Jianwei Gao",
+      "Ruiguo Wang",
+      "Kun Yan",
+      "Hong Liang",
+      "Juan Xu",
+      "Youlu Zhao",
+      "Xizi Zheng",
+      "Lingyi Xu",
+      "Jinwei Wang",
+      "Fude Zhou",
+      "Guopeng Zhou",
+      "Qingqing Zhou",
+      "Zhao Yang",
+      "Xiaoli Chen",
+      "Yulan Shen",
+      "Tianrong Ji",
+      "Yunlin Feng",
+      "Ping Wang",
+      "Jundong Jiao",
+      "Li Wang",
+      "Jicheng Lv",
+      "Li Yang"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:19:01.180559"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:19:02.737227"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:19:03.900798"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T23:20:31.405202"
+    },
+    "last_updated": "2025-10-03T23:20:31.405439"
+  }
+}

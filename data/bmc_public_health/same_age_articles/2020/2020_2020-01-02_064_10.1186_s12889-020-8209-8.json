@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.674189",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8209-8",
+    "title": "The prevalence of mental distress and the association with education: a cross-sectional study of 18-49-year-old citizens of Yangon Region, Myanmar",
+    "article_number": "94",
+    "publication_date": "2020-01-22",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Win Thuzar Aye",
+      "Lars Lien",
+      "Hein Stigum",
+      "Hla Hla Win",
+      "Tin Oo",
+      "Espen Bjertness"
+    ]
+  },
+  "article_index": 64,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T13:33:56.116169"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:33:57.633226"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:33:58.890994"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:15:12.499564"
+    },
+    "last_updated": "2025-10-03T21:15:12.499630"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.838554",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50918-3",
+    "title": "Passenger muscle responses in emergency braking events with reclined seating",
+    "article_number": "38",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lihai Ren",
+      "Yuze Kang",
+      "Zheng Tan",
+      "Chengyue Jiang",
+      "Yuanzhi Hu"
+    ]
+  },
+  "article_index": 115,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:59:38.613390"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:59:40.179141"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:59:41.352822"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:11:25.831223"
+    },
+    "last_updated": "2025-10-03T22:11:25.831448"
+  }
+}

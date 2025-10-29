@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-024-83355-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-024-83355-x</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Non-uniform failure mechanism and stability control of mining roadway under deviatoric stress field</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Huo</surname>
+                <given-names>Tianhong</given-names>
+              </name>
+              <address>
+                <email>cumtbhth@126.com</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Hongtao</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Fu</surname>
+                <given-names>Shigen</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Fu</surname>
+                <given-names>Botao</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Shouyin</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2025</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2025</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue>1</issue>
+          <elocation-id>306</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-024-83355-x</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-024-83355-x.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Based on the elastic–plastic theory, the analytical formula of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress at any point around the circular roadway under the non-uniform stress field is derived. The distribution law of 
+              <italic>J</italic>
+              <sub>2</sub>
+               of surrounding rock under the three-dimensional non-isobaric stress field is studied by theoretical analysis and numerical simulation. Combined with the butterfly failure theory of surrounding rock of roadway, the close relationship between the distribution pattern of 
+              <italic>J</italic>
+              <sub>2</sub>
+               and the distribution pattern of plastic zone is found, and the failure mechanism of surrounding rock is revealed. The results show that the distribution form of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress is closely related to the distribution form of plastic zone. When the distribution of 
+              <italic>J</italic>
+              <sub>2</sub>
+               of surrounding rock shows ‘round’, ‘oval’ and ‘butterfly’, the plastic zone shows the corresponding consistent form. When the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress produces stress concentration, the surrounding rock of roadway will produce large-scale damage. When the stress concentration is high, it may lead to malignant expansion of surrounding rock of roadway. The distribution of the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress is directional. When the principal stress rotates over a certain angle, the second invariant 
+              <italic>J</italic>
+              <sub>2</sub>
+               of deviatoric stress rotates over the same angle as the plastic zone. Under the influence of superimposed mining, the second invariant deviatoric stress 
+              <italic>J</italic>
+              <sub>2</sub>
+               of the wind tunnel of Yangchangwan 160,206 working face presents butterfly distribution, and the stress butterfly leaves present a certain degree of rotation. Based on the failure mode of plastic zone, the corresponding optimization support scheme is proposed, and the engineering effect is good.
+            </p>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Surrounding rock control</kwd>
+            <kwd>Butterfly plastic zone</kwd>
+            <kwd>Deviatoric stress field</kwd>
+            <kwd>Second invariant of deviatoric stress</kwd>
+            <kwd>Roadway</kwd>
+          </kwd-group>
+          <kwd-group kwd-group-type="publisher-auto-generated" vocab="springer-nature-taxonomy" xml:lang="en">
+            <kwd>Engineering Mechanics</kwd>
+            <kwd>Soil and Rock Mechanics</kwd>
+            <kwd>Materials Mechanics</kwd>
+            <kwd>Solid Mechanics</kwd>
+            <kwd>Civil Engineering</kwd>
+            <kwd>Geodynamics</kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>China Academy of Safety Production Science Basic Research Business Funding Special Funding</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2023JBKY12</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Huo</surname>
+                  <given-names>Tianhong</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.733786",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07873-9",
+    "title": "Experimental evidence of symmetry breaking of transition-path times",
+    "article_number": "55",
+    "publication_date": "2019-01-04",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. Gladrow",
+      "M. Ribezzi-Crivellari",
+      "F. Ritort",
+      "U. F. Keyser"
+    ]
+  },
+  "article_index": 521,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:50:54.169553"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T17:50:55.695096"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T17:50:57.023174"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T22:50:34.150641"
+    },
+    "last_updated": "2025-10-03T22:50:34.150836"
+  }
+}

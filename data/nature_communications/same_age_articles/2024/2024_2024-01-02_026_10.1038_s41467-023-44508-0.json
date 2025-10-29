@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.668862",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44508-0",
+    "title": "Flood exposure and pregnancy loss in 33 developing countries",
+    "article_number": "20",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cheng He",
+      "Yixiang Zhu",
+      "Lu Zhou",
+      "Jovine Bachwenkizi",
+      "Alexandra Schneider",
+      "Renjie Chen",
+      "Haidong Kan"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T19:11:03.114509"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:11:04.653199"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:11:05.917729"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T23:17:49.643145"
+    },
+    "last_updated": "2025-10-03T23:17:49.643363"
+  }
+}

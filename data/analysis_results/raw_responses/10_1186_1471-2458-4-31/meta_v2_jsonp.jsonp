@@ -1,0 +1,205 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/1471-2458-4-31",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/1471-2458-4-31",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-4-31"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-4-31"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/1471-2458-4-31"
+        }
+      ],
+      "title": "The usefulness of the Korean version of modified Mini-Mental State Examination (K-mMMSE) for dementia screening in community dwelling elderly people",
+      "creators": [
+        {
+          "creator": "Jeong, Seul-Ki"
+        },
+        {
+          "creator": "Cho, Ki-Hyun"
+        },
+        {
+          "creator": "Kim, Jae-Min"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "openaccess": "true",
+      "doi": "10.1186/1471-2458-4-31",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2004-07-30",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "4",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "7",
+      "journalId": "12889",
+      "onlineDate": "2004-07-30",
+      "coverDate": "2004-12",
+      "copyright": "©2004 Jeong et al; licensee BioMed Central Ltd.",
+      "abstract": "Background We assessed whether the Korean version of modified Mini-Mental State Examination (K-mMMSE) has improved performance as a screening test for cognitive impairment or dementia in a general population compared with the Korean Mini-Mental State Examination (K-MMSE). Methods Screening interviews were conducted with people aged 65 and over in Noam-dong, Namwon-city, Jeonbuk province. There were 522 community participants, of whom 235 underwent clinical and neuropsychological examination for diagnosis of dementia and Cognitive Impairment No Dementia (CIND). Sensitivity, specificity and areas under the receiver operating characteristic (ROC) curves for the K-mMMSE and the K-MMSE were the main outcome measures. Results Cronbach's alpha for the K-mMMSE was 0.91, compared with 0.84 for the K-MMSE. The areas under the ROC curves in identifying all levels of CIND or dementia were 0.91 for the K-mMMSE and 0.89 for the K-MMSE ( P < 0.05). For the K-mMMSE, the optimal cut-off score for a diagnosis of CIND was 69/70, which had a sensitivity of 0.86 and a specificity of 0.79, while, for a diagnosis of dementia, the optimal cut-off score of 59/60 had a sensitivity of 0.91 and a specificity of 0.78. The K-mMMSE also had a high test-retest reliability ( r = 0.89). Conclusion Our findings indicate that the K-mMMSE is more reliable and valid than the K-MMSE as a cognitive screen in a population based study of dementia. Considering the test characteristics, the K-MMSE and modified version are expected to be optimally used in clinical and epidemiologic fields.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Dementia",
+        "Mild Cognitive Impairment",
+        "Negative Likelihood Ratio",
+        "Positive Likelihood Ratio",
+        "Clinical Dementia Rate"
+      ],
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Clinical Dementia Rate",
+          "count": "1"
+        },
+        {
+          "value": "Dementia",
+          "count": "1"
+        },
+        {
+          "value": "Mild Cognitive Impairment",
+          "count": "1"
+        },
+        {
+          "value": "Negative Likelihood Ratio",
+          "count": "1"
+        },
+        {
+          "value": "Positive Likelihood Ratio",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2004",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "South Korea",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

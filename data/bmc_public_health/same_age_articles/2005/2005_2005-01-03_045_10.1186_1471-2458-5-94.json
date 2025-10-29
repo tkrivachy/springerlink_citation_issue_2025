@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.958665",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-94",
+    "title": "Validation of self reported diagnosis of hypertension in a cohort of university graduates in Spain",
+    "article_number": "94",
+    "publication_date": "2005-09-12",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Alvaro Alonso",
+      "Juan José Beunza",
+      "Miguel Delgado-Rodríguez",
+      "Miguel Angel Martínez-González"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 187,
+      "retrieved_at": "2025-10-03T12:22:14.113729"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 139,
+      "retrieved_at": "2025-10-03T12:22:15.630695"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 149,
+      "retrieved_at": "2025-10-03T12:22:17.078372"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 156,
+      "retrieved_at": "2025-10-03T20:49:17.804888"
+    },
+    "last_updated": "2025-10-03T20:49:17.805074"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.350489",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84427-8",
+    "title": "Enhancing IoT security in smart grids with quantum-resistant hybrid encryption",
+    "article_number": "3",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jian Xiong",
+      "Lu Shen",
+      "Yan Liu",
+      "Xiaofen  Fang"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T17:05:13.764274"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T17:05:15.324519"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:05:16.513372"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:34:46.763377"
+    },
+    "last_updated": "2025-10-03T22:34:46.763575"
+  }
+}

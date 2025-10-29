@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.243958",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1425-y",
+    "title": "A cross sectional analysis of behaviors related to operating gas stoves and pneumonia in U.S. children under the age of 5",
+    "article_number": "77",
+    "publication_date": "2015-02-04",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Eric S Coker",
+      "Ellen Smit",
+      "Anna K Harding",
+      "John Molitor",
+      "Molly L Kile"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:08:45.934765"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:08:47.504777"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:08:48.749184"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:06:01.378056"
+    },
+    "last_updated": "2025-10-03T21:06:01.378144"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536256",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55286-8",
+    "title": "Essential and dual effects of Notch activity on a natural transdifferentiation event",
+    "article_number": "75",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Thomas Daniele",
+      "Jeanne Cury",
+      "Marie-Charlotte Morin",
+      "Arnaud Ahier",
+      "Davide Isaia",
+      "Sophie Jarriault"
+    ]
+  },
+  "article_index": 170,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:42:35.371500"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:42:36.954076"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:42:38.151006"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:28:29.793796"
+    },
+    "last_updated": "2025-10-03T23:28:29.793983"
+  }
+}

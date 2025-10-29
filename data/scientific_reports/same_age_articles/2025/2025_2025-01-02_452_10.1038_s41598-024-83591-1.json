@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.398478",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83591-1",
+    "title": "Spatiotemporal evolution and attribution analysis of ecological quality in the alpine meadow region of Shangri-La based on natural-social dimensions",
+    "article_number": "29",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zihui Li",
+      "Kangwen Zhu",
+      "Ya Zhang",
+      "Yong Ba",
+      "Yanjun Zhang",
+      "Chengzhong He",
+      "Lin Song",
+      "Zheng Hou",
+      "Chunfeng Dong",
+      "Haoyu Wang",
+      "Yinhong Xiong"
+    ]
+  },
+  "article_index": 452,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:00:22.158142"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:00:23.732798"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:00:24.954200"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:32:59.988891"
+    },
+    "last_updated": "2025-10-03T22:32:59.988979"
+  }
+}

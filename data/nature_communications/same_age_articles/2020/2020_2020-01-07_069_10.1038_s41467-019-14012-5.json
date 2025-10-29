@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.884644",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14012-5",
+    "title": "Recording mobile DNA in the gut microbiota using an ",
+    "article_number": "95",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christian Munck",
+      "Ravi U. Sheth",
+      "Daniel E. Freedberg",
+      "Harris H. Wang"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T18:14:58.802184"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:15:00.332983"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T18:15:01.673469"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T22:58:45.140066"
+    },
+    "last_updated": "2025-10-03T22:58:45.140153"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.304357",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56995-7",
+    "title": "A high throughput zebrafish chemical screen reveals ALK5 and non-canonical androgen signalling as modulators of the ",
+    "article_number": "72",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "A. Metzner",
+      "J. D. Griffiths",
+      "A. J. Streets",
+      "E. Markham",
+      "T. Philippou",
+      "F. J. M. Van Eeden",
+      "A. C. M. Ong"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:25:26.274290"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:25:27.819403"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:25:29.000612"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:33:29.003533"
+    },
+    "last_updated": "2025-10-03T21:33:29.003724"
+  }
+}

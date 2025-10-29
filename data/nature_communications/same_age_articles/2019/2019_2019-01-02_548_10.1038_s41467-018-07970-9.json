@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.736671",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07970-9",
+    "title": "pH effects on the electrochemical reduction of CO",
+    "article_number": "32",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xinyan Liu",
+      "Philomena Schlexer",
+      "Jianping Xiao",
+      "Yongfei Ji",
+      "Lei Wang",
+      "Robert B. Sandberg",
+      "Michael Tang",
+      "Kristopher S. Brown",
+      "Hongjie Peng",
+      "Stefan Ringe",
+      "Christopher Hahn",
+      "Thomas F. Jaramillo",
+      "Jens K. Nørskov",
+      "Karen Chan"
+    ]
+  },
+  "article_index": 548,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 444,
+      "retrieved_at": "2025-10-03T17:27:30.894039"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 494,
+      "retrieved_at": "2025-10-03T17:27:32.433736"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 459,
+      "retrieved_at": "2025-10-03T17:27:33.629864"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 536,
+      "retrieved_at": "2025-10-03T22:42:41.056114"
+    },
+    "last_updated": "2025-10-03T22:42:41.056201"
+  }
+}

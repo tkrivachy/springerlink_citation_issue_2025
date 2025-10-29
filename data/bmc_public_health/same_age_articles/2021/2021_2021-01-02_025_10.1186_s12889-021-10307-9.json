@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.631697",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10307-9",
+    "title": "Comparison of barriers and facilitators of MIND diet uptake among adults from Northern Ireland and Italy",
+    "article_number": "265",
+    "publication_date": "2021-02-02",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Deirdre Timlin",
+      "Barbara Giannantoni",
+      "Jacqueline M. McCormack",
+      "Angela Polito",
+      "Donatella Ciarapica",
+      "Elena Azzini",
+      "Melanie Giles",
+      "Ellen E. A. Simpson"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:58:21.457065"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:58:22.963455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:58:24.215800"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:23:54.114771"
+    },
+    "last_updated": "2025-10-03T21:23:54.114963"
+  }
+}

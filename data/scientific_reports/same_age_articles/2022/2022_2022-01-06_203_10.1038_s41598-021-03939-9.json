@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.878844",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03939-9",
+    "title": "Holotoxin disassembly by protein disulfide isomerase is less efficient for ",
+    "article_number": "34",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Albert Serrano",
+      "Jessica L. Guyette",
+      "Joel B. Heim",
+      "Michael Taylor",
+      "Patrick Cherubin",
+      "Ute Krengel",
+      "Ken Teter",
+      "Suren A. Tatulian"
+    ]
+  },
+  "article_index": 203,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:18:17.468610"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:18:19.031212"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T15:18:20.255976"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:55:11.463178"
+    },
+    "last_updated": "2025-10-03T21:55:11.463227"
+  }
+}

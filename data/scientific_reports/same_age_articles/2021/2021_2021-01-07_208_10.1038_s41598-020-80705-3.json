@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.237279",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80705-3",
+    "title": "Nocturnal blood pressure dip and parapapillary choroidal microvasculature dropout in normal-tension glaucoma",
+    "article_number": "206",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Joong Won Shin",
+      "Youn Hye Jo",
+      "Min Kyung Song",
+      "Hun Jae Won",
+      "Michael S. Kook"
+    ]
+  },
+  "article_index": 208,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:48:38.841027"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:48:40.355816"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:48:41.517951"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T21:42:54.017810"
+    },
+    "last_updated": "2025-10-03T21:42:54.017870"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.370078",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83398-0",
+    "title": "Three-dimensional photoluminescence imaging of threading dislocations in GaN by sub-band optical excitation",
+    "article_number": "333",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Matthias Daeumer",
+      "Jae-Hyuck Yoo",
+      "Zhiyu Xu",
+      "Minkyu Cho",
+      "Marzieh Bakhtiary-Noodeh",
+      "Theeradetch Detchprohm",
+      "Yuxuan Zhang",
+      "Vijay Gopal Thirupakuzi Vangipuram",
+      "Vishank Talesara",
+      "Yibo Xu",
+      "Edward Letts",
+      "Daryl Key",
+      "Tian T. Li",
+      "Qinghui Shao",
+      "Russell Dupuis",
+      "Shyh-Chiang Shen",
+      "Wu Lu",
+      "Hongping Zhao",
+      "Tadao Hashimoto",
+      "Ted A. Laurence"
+    ]
+  },
+  "article_index": 204,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:52:19.061298"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:52:20.606897"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:52:21.779249"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:30:19.194262"
+    },
+    "last_updated": "2025-10-03T22:30:19.194351"
+  }
+}

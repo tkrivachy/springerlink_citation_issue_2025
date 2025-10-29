@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.167761",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-23",
+    "title": "Exploratory spatial data analysis for the identification of risk factors to birth defects",
+    "article_number": "23",
+    "publication_date": "2004-06-18",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jilei Wu",
+      "Jinfeng Wang",
+      "Bin Meng",
+      "Gong Chen",
+      "Lihua Pang",
+      "Xinming Song",
+      "Keli Zhang",
+      "Ting Zhang",
+      "Xiaoying Zheng"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T12:10:08.384542"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T12:10:09.939129"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T12:10:11.216705"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T20:44:45.744958"
+    },
+    "last_updated": "2025-10-03T20:44:45.745011"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643172",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35658-8",
+    "title": "Cerebro-cerebellar networks facilitate learning through feedback decoupling",
+    "article_number": "51",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ellen Boven",
+      "Joseph Pemberton",
+      "Paul Chadderton",
+      "Richard Apps",
+      "Rui Ponte Costa"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:47:34.157401"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:47:35.709212"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:47:37.022792"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T23:09:49.881444"
+    },
+    "last_updated": "2025-10-03T23:09:49.881632"
+  }
+}

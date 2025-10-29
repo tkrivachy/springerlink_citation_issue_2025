@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.206142",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20249-2",
+    "title": "Multi-domain translation between single-cell imaging and sequencing data using autoencoders",
+    "article_number": "31",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Karren Dai Yang",
+      "Anastasiya Belyaeva",
+      "Saradha Venkatachalapathy",
+      "Karthik Damodaran",
+      "Abigail Katcoff",
+      "Adityanarayanan Radhakrishnan",
+      "G. V. Shivashankar",
+      "Caroline Uhler"
+    ]
+  },
+  "article_index": 210,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 140,
+      "retrieved_at": "2025-10-03T18:36:02.289211"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T18:36:03.842212"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T18:36:05.234739"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T23:05:59.101935"
+    },
+    "last_updated": "2025-10-03T23:05:59.102136"
+  }
+}

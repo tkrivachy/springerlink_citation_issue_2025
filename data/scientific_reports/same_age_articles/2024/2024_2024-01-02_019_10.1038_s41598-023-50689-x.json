@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.826996",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50689-x",
+    "title": "Identification of key pyroptosis-related genes and microimmune environment among peripheral arterial beds in atherosclerotic arteries",
+    "article_number": "233",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jing-Wen Liu",
+      "Zhao-Hua Zhang",
+      "Xiao-Shuo Lv",
+      "Ming-Yuan Xu",
+      "Bin Ni",
+      "Bin He",
+      "Feng Wang",
+      "Jie Chen",
+      "Jian-Bin Zhang",
+      "Zhi-Dong Ye",
+      "Peng Liu",
+      "Jian-Yan Wen"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:49:47.826282"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:49:49.389558"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:49:50.694027"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:07:43.545261"
+    },
+    "last_updated": "2025-10-03T22:07:43.545496"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.102155",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26346-0",
+    "title": "Association of LncRNA-PAX8-AS1 and LAIR-2 polymorphisms along with their expression with clinical and subclinical hypothyroidism",
+    "article_number": "6",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Omar M. Elsayed",
+      "Samy A. Abdelazim",
+      "Hebatallah A. Darwish",
+      "Olfat G. Shaker",
+      "Mahmoud A. Senousy"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:30:50.448435"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:30:51.967009"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:30:53.243599"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:00:10.888525"
+    },
+    "last_updated": "2025-10-03T22:00:10.888719"
+  }
+}

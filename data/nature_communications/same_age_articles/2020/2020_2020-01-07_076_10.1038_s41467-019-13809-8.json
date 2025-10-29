@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.885730",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13809-8",
+    "title": "Ketamine disinhibits dendrites and enhances calcium signals in prefrontal dendritic spines",
+    "article_number": "72",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Farhan Ali",
+      "Danielle M. Gerhard",
+      "Katherine Sweasy",
+      "Santosh Pothula",
+      "Christopher Pittenger",
+      "Ronald S. Duman",
+      "Alex C. Kwan"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T18:15:26.789065"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 169,
+      "retrieved_at": "2025-10-03T18:15:28.343686"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T18:15:29.741555"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T22:58:55.678714"
+    },
+    "last_updated": "2025-10-03T22:58:55.678906"
+  }
+}

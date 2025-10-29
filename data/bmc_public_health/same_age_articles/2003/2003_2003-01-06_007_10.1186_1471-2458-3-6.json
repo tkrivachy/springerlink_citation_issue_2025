@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:47:25.850566",
+  "year": 2003,
+  "article_type": "comparison",
+  "publication_date": "2003-01-06",
+  "article_data": {
+    "doi": "10.1186/1471-2458-3-6",
+    "title": "Attitudes of developing world physicians to where medical research is performed and reported",
+    "article_number": "6",
+    "publication_date": "2003-01-16",
+    "volume": "3",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "John Page",
+      "Richard F Heller",
+      "Scott Kinlay",
+      "Lynette L-Y Lim",
+      "Wang Qian",
+      "Zheng Suping",
+      "Supornchai Kongpatanakul",
+      "Murtaza Akhtar",
+      "Salah Khedr",
+      "William Macharia"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T11:57:37.536317"
+    },
+    "last_updated": "2025-10-03T20:42:36.213131",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T12:04:30.619686"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T12:04:31.921585"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T20:42:36.212940"
+    }
+  }
+}

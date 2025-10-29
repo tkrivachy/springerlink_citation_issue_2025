@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.959823",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-112",
+    "title": "Diet induced weight loss accelerates onset of negative alliesthesia in obese women",
+    "article_number": "112",
+    "publication_date": "2005-10-18",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Patrick Frankham",
+      "Caroline Gosselin",
+      "Michel Cabanac"
+    ]
+  },
+  "article_index": 56,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T12:21:48.846560"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:21:50.420853"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:21:51.734955"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T20:49:06.247874"
+    },
+    "last_updated": "2025-10-03T20:49:06.248063"
+  }
+}

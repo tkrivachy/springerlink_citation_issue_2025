@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.099984",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-022-14677-6",
+    "title": "Geographic variation and sociodemographic correlates of prescription psychotropic drug use among children and youth in Ontario, Canada: a population-based study",
+    "article_number": "85",
+    "publication_date": "2023-01-11",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Tony Antoniou",
+      "Daniel McCormack",
+      "Sophie Kitchen",
+      "Kathleen Pajer",
+      "William Gardner",
+      "Yona Lunsky",
+      "Melanie Penner",
+      "Mina Tadrous",
+      "Muhammad Mamdani",
+      "David N. Juurlink",
+      "Tara Gomes"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:11:50.439443"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:11:51.996860"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:11:53.307160"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:28:43.887981"
+    },
+    "last_updated": "2025-10-03T21:28:43.888027"
+  }
+}

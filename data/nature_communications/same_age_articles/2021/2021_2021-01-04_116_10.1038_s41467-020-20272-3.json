@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.193291",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20272-3",
+    "title": "Engineering fluorinated-cation containing inverted perovskite solar cells with an efficiency of >21% and improved stability towards humidity",
+    "article_number": "52",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiao Wang",
+      "Kasparas Rakstys",
+      "Kevin Jack",
+      "Hui Jin",
+      "Jonathan Lai",
+      "Hui Li",
+      "Chandana Sampath Kumara Ranasinghe",
+      "Jaber Saghaei",
+      "Guanran Zhang",
+      "Paul L. Burn",
+      "Ian R. Gentle",
+      "Paul E. Shaw"
+    ]
+  },
+  "article_index": 116,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T18:25:37.175219"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T18:25:38.693180"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 110,
+      "retrieved_at": "2025-10-03T18:25:40.039378"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 136,
+      "retrieved_at": "2025-10-03T23:02:31.091868"
+    },
+    "last_updated": "2025-10-03T23:02:31.092055"
+  }
+}

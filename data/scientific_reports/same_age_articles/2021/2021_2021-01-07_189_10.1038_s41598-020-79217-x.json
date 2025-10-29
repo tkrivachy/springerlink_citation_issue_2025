@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.235288",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79217-x",
+    "title": "Sleep classification from wrist-worn accelerometer data using random forests",
+    "article_number": "24",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kalaivani Sundararajan",
+      "Sonja Georgievska",
+      "Bart H. W. te Lindert",
+      "Philip R. Gehrman",
+      "Jennifer Ramautar",
+      "Diego R. Mazzotti",
+      "Séverine Sabia",
+      "Michael N. Weedon",
+      "Eus J. W. van Someren",
+      "Lars Ridder",
+      "Jian Wang",
+      "Vincent T. van Hees"
+    ]
+  },
+  "article_index": 189,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T14:37:35.659756"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T14:37:37.228757"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T14:37:38.560859"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T21:38:28.159038"
+    },
+    "last_updated": "2025-10-03T21:38:28.159229"
+  }
+}

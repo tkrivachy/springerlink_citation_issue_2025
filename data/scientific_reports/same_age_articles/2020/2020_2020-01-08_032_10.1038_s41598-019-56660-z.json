@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.303073",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56660-z",
+    "title": "Pharmacogenomics of poor drug metabolism in Greyhounds: Cytochrome P450 (CYP) 2B11 genetic variation, breed distribution, and functional characterization",
+    "article_number": "69",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Stephanie E. Martinez",
+      "Marie C. Andresen",
+      "Zhaohui Zhu",
+      "Ioannis Papageorgiou",
+      "Michael H. Court"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:30:26.675044"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:30:28.249404"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T14:30:29.520367"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:35:31.637978"
+    },
+    "last_updated": "2025-10-03T21:35:31.638165"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540877",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55745-2",
+    "title": "Liver-specific gene PGRMC1 blocks c-Myc-induced hepatocarcinogenesis through ER stress-independent PERK activation",
+    "article_number": "50",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Fubo Ji",
+      "Jianjuan Zhang",
+      "Liping Mao",
+      "Yaqi Tan",
+      "Meihua Ye",
+      "Xianglei He",
+      "Yongzhi Zhao",
+      "Jiaxin Liu",
+      "Yan Zhang",
+      "Nachuan Zhang",
+      "Jiong Shi",
+      "Jianing Yan",
+      "Xiujun Cai",
+      "Bin Zhao",
+      "Jianping Jin",
+      "Pinglong Xu",
+      "Stephanie Roessler",
+      "Xin Zheng",
+      "Junfang Ji"
+    ]
+  },
+  "article_index": 214,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:26:18.872776"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:26:20.420392"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:26:21.595269"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:22:55.441426"
+    },
+    "last_updated": "2025-10-03T23:22:55.441475"
+  }
+}

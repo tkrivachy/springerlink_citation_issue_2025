@@ -1,0 +1,71 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.681927",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08438-0",
+    "title": "The antimicrobial potential of ",
+    "article_number": "516",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marc G. Chevrette",
+      "Caitlin M. Carlson",
+      "Humberto E. Ortega",
+      "Chris Thomas",
+      "Gene E. Ananiev",
+      "Kenneth J. Barns",
+      "Adam J. Book",
+      "Julian Cagnazzo",
+      "Camila Carlos",
+      "Will Flanigan",
+      "Kirk J. Grubbs",
+      "Heidi A. Horn",
+      "F. Michael Hoffmann",
+      "Jonathan L. Klassen",
+      "Jennifer J. Knack",
+      "Gina R. Lewin",
+      "Bradon R. McDonald",
+      "Laura Muller",
+      "Weilan G. P. Melo",
+      "Adrián A. Pinto-Tomás",
+      "Amber Schmitz",
+      "Evelyn Wendt-Pienkowski",
+      "Scott Wildman",
+      "Miao Zhao",
+      "Fan Zhang",
+      "Tim S. Bugni",
+      "David R. Andes",
+      "Monica T. Pupo",
+      "Cameron R. Currie"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 249,
+      "retrieved_at": "2025-10-03T17:31:04.527121"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 260,
+      "retrieved_at": "2025-10-03T17:31:06.052983"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 242,
+      "retrieved_at": "2025-10-03T17:31:07.615393"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 290,
+      "retrieved_at": "2025-10-03T22:43:56.733365"
+    },
+    "last_updated": "2025-10-03T22:43:56.733562"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:14.797487",
+  "year": 2006,
+  "article_type": "comparison",
+  "publication_date": "2006-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-6-14",
+    "title": "Lack of insurance coverage and urgent care use for asthma: A retrospective cohort study",
+    "article_number": "14",
+    "publication_date": "2006-01-24",
+    "volume": "6",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Barry P Markovitz",
+      "Elena M Andresen"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:26:03.754301"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T12:26:05.736594"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T12:26:07.012703"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T20:50:39.950108"
+    },
+    "last_updated": "2025-10-03T20:50:39.950207"
+  }
+}

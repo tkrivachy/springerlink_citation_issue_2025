@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-021-04112-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-021-04112-y</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Dynamics of camel and human hemoglobin revealed by molecular simulations</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Ali</surname>
+                <given-names>Amanat</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Soman</surname>
+                <given-names>Soja Saghar</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Vijayan</surname>
+                <given-names>Ranjit</given-names>
+              </name>
+              <address>
+                <email>ranjit.v@uaeu.ac.ae</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2022</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2022</year>
+          </pub-date>
+          <volume>12</volume>
+          <issue>1</issue>
+          <elocation-id>122</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-021-04112-y</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-021-04112-y.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2022</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">Hemoglobin is one of the most widely studied proteins genetically, biochemically, and structurally. It is an oxygen carrying tetrameric protein that imparts the characteristic red color to blood. Each chain of hemoglobin harbors a heme group embedded in a hydrophobic pocket. Several studies have investigated structural variations present in mammalian hemoglobin and their functional implications. However, camel hemoglobin has not been thoroughly explored, especially from a structural perspective. Importantly, very little is known about how the heme group interacts with hemoglobin under varying conditions of osmolarity and temperature. Several experimental studies have indicated that the tense (T) state is more stable than the relaxed (R) state of hemoglobin under normal physiological conditions. Despite the fact that R state is less stable than the T state, no extensive structural dynamics studies have been performed to investigate global quaternary transitions of R state hemoglobin under normal physiological conditions. To evaluate this, several 500 ns all-atom molecular dynamics simulations were performed to get a deeper understanding of how camel hemoglobin behaves under stress, which it is normally exposed to, when compared to human hemoglobin. Notably, camel hemoglobin was more stable under physiological stress when compared to human hemoglobin. Additionally, when compared to camel hemoglobin, cofactor-binding regions of hemoglobin also exhibited more fluctuations in human hemoglobin under the conditions studied. Several differences were observed between the residues of camel and human hemoglobin that interacted with heme. Importantly, distal residues His58 of α hemoglobin and His63 of β hemoglobin formed more sustained interactions, especially at higher temperatures, in camel hemoglobin. These residues are important for oxygen binding to hemoglobin. Thus, this work provides insights into how camel and human hemoglobin differ in their interactions under stress.</p>
+          </abstract>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>United Arab Emirates University</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100006013</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">31S243</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Vijayan</surname>
+                  <given-names>Ranjit</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.872119",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03306-8",
+    "title": null,
+    "article_number": "121",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Eleni Mente",
+      "Thomas Bousdras",
+      "Konstantinos Feidantsis",
+      "Nikolas Panteli",
+      "Maria Mastoraki",
+      "Konstantinos Ar. Kormas",
+      "Stavros Chatzifotis",
+      "Giovanni Piccolo",
+      "Laura Gasco",
+      "Francesco Gai",
+      "Samuel A. M. Martin",
+      "Efthimia Antonopoulou"
+    ]
+  },
+  "article_index": 141,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:19:36.174812"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:19:37.709685"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:19:38.868119"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:55:43.395973"
+    },
+    "last_updated": "2025-10-03T21:55:43.396163"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.200272",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20234-9",
+    "title": "Homeostatic regulation of STING by retrograde membrane traffic to the ER",
+    "article_number": "61",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kojiro Mukai",
+      "Emari Ogawa",
+      "Rei Uematsu",
+      "Yoshihiko Kuchitsu",
+      "Fumika Kiku",
+      "Takefumi Uemura",
+      "Satoshi Waguri",
+      "Takehiro Suzuki",
+      "Naoshi Dohmae",
+      "Hiroyuki Arai",
+      "Anthony K. Shum",
+      "Tomohiko Taguchi"
+    ]
+  },
+  "article_index": 165,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:33:48.757267"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 122,
+      "retrieved_at": "2025-10-03T18:33:50.328219"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T18:33:51.762742"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T23:05:16.189380"
+    },
+    "last_updated": "2025-10-03T23:05:16.189575"
+  }
+}

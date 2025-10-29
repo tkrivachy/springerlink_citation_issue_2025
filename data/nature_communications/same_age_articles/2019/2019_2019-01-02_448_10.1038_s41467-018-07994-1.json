@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.725940",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07994-1",
+    "title": "Room temperature multi-phonon upconversion photoluminescence in monolayer semiconductor WS",
+    "article_number": "107",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. Jadczak",
+      "L. Bryja",
+      "J. Kutrowska-Girzycka",
+      "P. Kapuściński",
+      "M. Bieniek",
+      "Y.-S. Huang",
+      "P. Hawrylak"
+    ]
+  },
+  "article_index": 448,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T17:46:12.631462"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T17:46:14.192337"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T17:46:15.338705"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T22:48:57.448886"
+    },
+    "last_updated": "2025-10-03T22:48:57.449080"
+  }
+}

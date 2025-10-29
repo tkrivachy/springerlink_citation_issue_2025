@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.888288",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13851-6",
+    "title": "Modulation of brain cation-Cl",
+    "article_number": "78",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinwei Zhang",
+      "Mohammad Iqbal H. Bhuiyan",
+      "Ting Zhang",
+      "Jason K. Karimy",
+      "Zhijuan Wu",
+      "Victoria M. Fiesler",
+      "Jingfang Zhang",
+      "Huachen Huang",
+      "Md Nabiul Hasan",
+      "Anna E. Skrzypiec",
+      "Mariusz Mucha",
+      "Daniel Duran",
+      "Wei Huang",
+      "Robert Pawlak",
+      "Lesley M. Foley",
+      "T. Kevin Hitchens",
+      "Margaret B. Minnigh",
+      "Samuel M. Poloyac",
+      "Seth L. Alper",
+      "Bradley J. Molyneaux",
+      "Andrew J. Trevelyan",
+      "Kristopher T. Kahle",
+      "Dandan Sun",
+      "Xianming Deng"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:16:33.865486"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T18:16:35.428647"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T18:16:36.883426"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T22:59:19.339500"
+    },
+    "last_updated": "2025-10-03T22:59:19.339690"
+  }
+}

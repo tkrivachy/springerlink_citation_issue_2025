@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.102657",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26980-8",
+    "title": "No effect of subthalamic deep brain stimulation on metacognition in Parkinson’s disease",
+    "article_number": "10",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Carlos Trenado",
+      "Matthias Boschheidgen",
+      "Karim N’Diaye",
+      "Alfons Schnitzler",
+      "Luc Mallet",
+      "Lars Wojtecki"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:30:16.534157"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:30:18.309276"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:30:19.574292"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:59:58.246367"
+    },
+    "last_updated": "2025-10-03T21:59:58.246512"
+  }
+}

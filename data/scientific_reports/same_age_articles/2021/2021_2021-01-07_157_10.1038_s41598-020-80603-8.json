@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.228747",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80603-8",
+    "title": "Cardiovascular safety and efficacy of metformin-SGLT2i versus metformin-sulfonylureas in type 2 diabetes: systematic review and meta-analysis of randomized controlled trials",
+    "article_number": "137",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Desye Gebrie",
+      "Desalegn Getnet",
+      "Tsegahun Manyazewal"
+    ]
+  },
+  "article_index": 157,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:43:18.516588"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:43:20.035488"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:43:21.369366"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:40:47.980662"
+    },
+    "last_updated": "2025-10-03T21:40:47.980855"
+  }
+}

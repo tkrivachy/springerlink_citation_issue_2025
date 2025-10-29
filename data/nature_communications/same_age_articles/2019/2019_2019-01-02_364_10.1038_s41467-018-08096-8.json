@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.717110",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08096-8",
+    "title": "Breakdown of adaptive immunotolerance induces hepatocellular carcinoma in HBsAg-tg mice",
+    "article_number": "221",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lu Zong",
+      "Hui Peng",
+      "Cheng Sun",
+      "Fenglei Li",
+      "Meijuan Zheng",
+      "Yongyan Chen",
+      "Haiming Wei",
+      "Rui Sun",
+      "Zhigang Tian"
+    ]
+  },
+  "article_index": 364,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T17:13:55.845967"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T17:13:57.398651"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T17:13:58.772008"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T22:38:00.995977"
+    },
+    "last_updated": "2025-10-03T22:38:00.996168"
+  }
+}

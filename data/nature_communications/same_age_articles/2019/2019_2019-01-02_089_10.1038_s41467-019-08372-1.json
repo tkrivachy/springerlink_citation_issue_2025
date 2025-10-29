@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.686824",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08372-1",
+    "title": "Molecular weight fractionation by confinement of polymer in one-dimensional pillar[5]arene channels",
+    "article_number": "479",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tomoki Ogoshi",
+      "Ryuta Sueto",
+      "Masafumi Yagyu",
+      "Ryosuke Kojima",
+      "Takahiro Kakuta",
+      "Tada-aki Yamagishi",
+      "Kazuki Doitomi",
+      "Anil Kumar Tummanapelli",
+      "Hajime Hirao",
+      "Yoko Sakata",
+      "Shigehisa Akine",
+      "Motohiro Mizuno"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:10:40.355698"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T17:10:41.920714"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T17:10:43.256016"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T22:36:51.944246"
+    },
+    "last_updated": "2025-10-03T22:36:51.944474"
+  }
+}

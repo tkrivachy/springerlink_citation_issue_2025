@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204786",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20233-w",
+    "title": "Biomimetic caged platinum catalyst for hydrosilylation reaction with high site selectivity",
+    "article_number": "64",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ganghuo Pan",
+      "Chunhua Hu",
+      "Song Hong",
+      "Huaping Li",
+      "Dongdong Yu",
+      "Chengqian Cui",
+      "Qiaosheng Li",
+      "Nianjie Liang",
+      "Ying Jiang",
+      "Lirong Zheng",
+      "Lei Jiang",
+      "Yuzhou Liu"
+    ]
+  },
+  "article_index": 200,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:43:15.972380"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:43:17.481707"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T18:43:18.649994"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:08:25.218876"
+    },
+    "last_updated": "2025-10-03T23:08:25.218963"
+  }
+}

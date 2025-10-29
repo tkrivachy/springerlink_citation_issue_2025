@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.686194",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08420-w",
+    "title": "ATM phosphorylation of the actin-binding protein drebrin controls oxidation stress-resistance in mammalian neurons and ",
+    "article_number": "486",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Patricia Kreis",
+      "Christian Gallrein",
+      "Eugenia Rojas-Puente",
+      "Till G. A. Mack",
+      "Cristina Kroon",
+      "Viktor Dinkel",
+      "Claudia Willmes",
+      "Kai Murk",
+      "Susanne tom-Dieck",
+      "Erin M. Schuman",
+      "Janine Kirstein",
+      "Britta J. Eickholt"
+    ]
+  },
+  "article_index": 83,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:44:44.159159"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T17:44:45.713032"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T17:44:47.008179"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T22:48:29.061906"
+    },
+    "last_updated": "2025-10-03T22:48:29.062097"
+  }
+}

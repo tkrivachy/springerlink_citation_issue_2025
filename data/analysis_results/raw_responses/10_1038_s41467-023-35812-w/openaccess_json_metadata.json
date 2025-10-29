@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "json",
+  "test_doi": "10.1038/s41467-023-35812-w",
+  "safe_doi": "10_1038_s41467-023-35812-w",
+  "timestamp": "2025-10-20 14:13:14",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5052855014801025,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/json",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41467-023-35812-w",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'openAccess', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'subjects', 'disciplines']\ndoi: 10.1038/s41467-023-35812-w...\ntitle: Creating bulk ultrastable glasses by random particle bonding...\ncreators: [{'creator': 'Ozawa, Misaki'}, {'creator': 'Iwashita, Yasutaka'}, {'ORCID': '0000-0001-7405-2178', '...\npublicationName: Nature Communications...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "openaccess_json.json"
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:14.798245",
+  "year": 2006,
+  "article_type": "comparison",
+  "publication_date": "2006-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-6-2",
+    "title": "Public awareness of risk factors for cancer among the Japanese general population: A population-based survey",
+    "article_number": "2",
+    "publication_date": "2006-01-10",
+    "volume": "6",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Manami Inoue",
+      "Motoki Iwasaki",
+      "Tetsuya Otani",
+      "Shizuka Sasazuki",
+      "Shoichiro Tsugane"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T12:25:11.104991"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T12:25:12.657370"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T12:25:13.996908"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T20:50:22.599630"
+    },
+    "last_updated": "2025-10-03T20:50:22.599816"
+  }
+}

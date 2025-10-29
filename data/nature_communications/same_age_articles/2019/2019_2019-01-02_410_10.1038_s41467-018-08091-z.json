@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.721913",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08091-z",
+    "title": "A micro-dispenser for long-term storage and controlled release of liquids",
+    "article_number": "189",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Amin Kazemzadeh",
+      "Anders Eriksson",
+      "Marc Madou",
+      "Aman Russom"
+    ]
+  },
+  "article_index": 410,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T17:38:23.793317"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T17:38:25.316842"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T17:38:26.523550"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T22:46:26.990405"
+    },
+    "last_updated": "2025-10-03T22:46:26.990600"
+  }
+}

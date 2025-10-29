@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.880560",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13866-z",
+    "title": "In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics",
+    "article_number": "146",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yi Yang",
+      "Xiaohui Liu",
+      "Chengpin Shen",
+      "Yu Lin",
+      "Pengyuan Yang",
+      "Liang Qiao"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 171,
+      "retrieved_at": "2025-10-03T18:19:23.306647"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T18:19:24.881400"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T18:19:26.326744"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 224,
+      "retrieved_at": "2025-10-03T23:00:20.295545"
+    },
+    "last_updated": "2025-10-03T23:00:20.295629"
+  }
+}

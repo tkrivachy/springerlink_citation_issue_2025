@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.676220",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43992-8",
+    "title": "Planar hyperbolic polaritons in 2D van der Waals materials",
+    "article_number": "69",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hongwei Wang",
+      "Anshuman Kumar",
+      "Siyuan Dai",
+      "Xiao Lin",
+      "Zubin Jacob",
+      "Sang-Hyun Oh",
+      "Vinod Menon",
+      "Evgenii Narimanov",
+      "Young Duck Kim",
+      "Jian-Ping Wang",
+      "Phaedon Avouris",
+      "Luis Martin Moreno",
+      "Joshua Caldwell",
+      "Tony Low"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T19:02:11.021592"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T19:02:12.567828"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T19:02:13.894612"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T23:14:45.743550"
+    },
+    "last_updated": "2025-10-03T23:14:45.743741"
+  }
+}

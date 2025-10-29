@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.671876",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8243-6",
+    "title": "An artificially simulated outbreak of a respiratory infectious disease",
+    "article_number": "135",
+    "publication_date": "2020-01-30",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Zuiyuan Guo",
+      "Shuang Xu",
+      "Libo Tong",
+      "Botao Dai",
+      "Yuandong Liu",
+      "Dan Xiao"
+    ]
+  },
+  "article_index": 44,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:37:55.204517"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:37:56.766014"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:37:58.031511"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:16:41.314870"
+    },
+    "last_updated": "2025-10-03T21:16:41.315058"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.202777",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80397-9",
+    "title": "Activation of PKC supports the anticancer activity of tigilanol tiglate and related epoxytiglianes",
+    "article_number": "207",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jason K. Cullen",
+      "Glen M. Boyle",
+      "Pei-Yi Yap",
+      "Stefan Elmlinger",
+      "Jacinta L. Simmons",
+      "Natasa Broit",
+      "Jenny Johns",
+      "Blake Ferguson",
+      "Lidia A. Maslovskaya",
+      "Andrei I. Savchenko",
+      "Paul Malek Mirzayans",
+      "Achim Porzelle",
+      "Paul V. Bernhardt",
+      "Victoria A. Gordon",
+      "Paul W. Reddell",
+      "Alberto Pagani",
+      "Giovanni Appendino",
+      "Peter G. Parsons",
+      "Craig M. Williams"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:46:25.508708"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T14:46:27.064098"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:46:28.244972"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:42:00.095706"
+    },
+    "last_updated": "2025-10-03T21:42:00.095897"
+  }
+}

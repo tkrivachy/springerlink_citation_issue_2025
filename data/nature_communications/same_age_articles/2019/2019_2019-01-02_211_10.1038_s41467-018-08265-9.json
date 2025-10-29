@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.699923",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08265-9",
+    "title": "Efficient oral vaccination by bioengineering virus-like particles with protozoan surface proteins",
+    "article_number": "361",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marianela C. Serradell",
+      "Lucía L. Rupil",
+      "Román A. Martino",
+      "César G. Prucca",
+      "Pedro G. Carranza",
+      "Alicia Saura",
+      "Elmer A. Fernández",
+      "Pablo R. Gargantini",
+      "Albano H. Tenaglia",
+      "Juan P. Petiti",
+      "Renata R. Tonelli",
+      "Nicolás Reinoso-Vizcaino",
+      "José Echenique",
+      "Luciana Berod",
+      "Eliane Piaggio",
+      "Bertrand Bellier",
+      "Tim Sparwasser",
+      "David Klatzmann",
+      "Hugo D. Luján"
+    ]
+  },
+  "article_index": 211,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T17:42:35.755265"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 91,
+      "retrieved_at": "2025-10-03T17:42:37.318612"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T17:42:39.432442"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T22:47:49.440015"
+    },
+    "last_updated": "2025-10-03T22:47:49.440204"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704765",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08277-5",
+    "title": "Hematopoietic PBX-interacting protein mediates cartilage degeneration during the pathogenesis of osteoarthritis",
+    "article_number": "313",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Quanbo Ji",
+      "Xiaojie Xu",
+      "Lei Kang",
+      "Yameng Xu",
+      "Jingbo Xiao",
+      "Stuart B. Goodman",
+      "Xiang Zhu",
+      "Wenchao Li",
+      "Juan Liu",
+      "Xu Gao",
+      "Zhifeng Yan",
+      "Yuxuan Zheng",
+      "Zheng Wang",
+      "William J. Maloney",
+      "Qinong Ye",
+      "Yan Wang"
+    ]
+  },
+  "article_index": 254,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:30:46.094522"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T17:30:47.604090"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T17:30:48.764076"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T22:43:50.066705"
+    },
+    "last_updated": "2025-10-03T22:43:50.066832"
+  }
+}

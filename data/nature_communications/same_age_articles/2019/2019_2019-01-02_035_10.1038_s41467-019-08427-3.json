@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.680822",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08427-3",
+    "title": "Vasoactive intestinal peptide controls the suprachiasmatic circadian clock network via ERK1/2 and DUSP4 signalling",
+    "article_number": "542",
+    "publication_date": "2019-02-01",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ryan Hamnett",
+      "Priya Crosby",
+      "Johanna E. Chesham",
+      "Michael H. Hastings"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:37:19.437076"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T17:37:21.015528"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T17:37:22.188865"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T22:46:03.440823"
+    },
+    "last_updated": "2025-10-03T22:46:03.440875"
+  }
+}

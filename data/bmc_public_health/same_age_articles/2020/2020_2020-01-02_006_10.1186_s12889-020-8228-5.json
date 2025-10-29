@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.667350",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8228-5",
+    "title": "Life satisfaction and mental health among transgender students in Norway",
+    "article_number": "138",
+    "publication_date": "2020-01-30",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Norman Anderssen",
+      "Børge Sivertsen",
+      "Kari Jussie Lønning",
+      "Kirsti Malterud"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T13:37:13.918556"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T13:37:15.437291"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T13:37:16.783144"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 88,
+      "retrieved_at": "2025-10-03T21:16:27.361253"
+    },
+    "last_updated": "2025-10-03T21:16:27.361346"
+  }
+}

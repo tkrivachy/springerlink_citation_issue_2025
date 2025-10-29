@@ -1,0 +1,69 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.722973",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08015-x",
+    "title": "SREBP-dependent lipidomic reprogramming as a broad-spectrum antiviral target",
+    "article_number": "120",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shuofeng Yuan",
+      "Hin Chu",
+      "Jasper Fuk-Woo Chan",
+      "Zi-Wei Ye",
+      "Lei Wen",
+      "Bingpeng Yan",
+      "Pok-Man Lai",
+      "Kah-Meng Tee",
+      "Jingjing Huang",
+      "Dongdong Chen",
+      "Cun Li",
+      "Xiaoyu Zhao",
+      "Dong Yang",
+      "Man Chun Chiu",
+      "Cyril Yip",
+      "Vincent Kwok-Man Poon",
+      "Chris Chung-Sing Chan",
+      "Kong-Hung Sze",
+      "Jie Zhou",
+      "Ivy Hau-Yee Chan",
+      "Kin-Hang Kok",
+      "Kelvin Kai-Wang To",
+      "Richard Yi-Tsun Kao",
+      "Johnson Yiu-Nam Lau",
+      "Dong-Yan Jin",
+      "Stanley Perlman",
+      "Kwok-Yung Yuen"
+    ]
+  },
+  "article_index": 420,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 268,
+      "retrieved_at": "2025-10-03T17:56:18.458370"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 210,
+      "retrieved_at": "2025-10-03T17:56:20.032455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 204,
+      "retrieved_at": "2025-10-03T17:56:21.642737"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 228,
+      "retrieved_at": "2025-10-03T22:52:42.816240"
+    },
+    "last_updated": "2025-10-03T22:52:42.816471"
+  }
+}

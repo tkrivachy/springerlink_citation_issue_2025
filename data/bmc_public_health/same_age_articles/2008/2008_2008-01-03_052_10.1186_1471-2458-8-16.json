@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:34.000610",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-16",
+    "title": "Effects of neighbourhood income on reported body mass index: an eight year longitudinal study of Canadian children",
+    "article_number": "16",
+    "publication_date": "2008-01-14",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Lisa N Oliver",
+      "Michael V Hayes"
+    ]
+  },
+  "article_index": 52,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T12:31:51.687764"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T12:31:53.256272"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T12:31:54.565075"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T20:52:40.512171"
+    },
+    "last_updated": "2025-10-03T20:52:40.512401"
+  }
+}

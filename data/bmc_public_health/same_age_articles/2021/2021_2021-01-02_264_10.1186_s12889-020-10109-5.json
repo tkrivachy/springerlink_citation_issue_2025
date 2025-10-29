@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.659629",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10109-5",
+    "title": "Do they really wash their hands? Prevalence estimates for personal hygiene behaviour during the COVID-19 pandemic based on indirect questions",
+    "article_number": "12",
+    "publication_date": "2021-01-04",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Laura Mieth",
+      "Maike M. Mayer",
+      "Adrian Hoffmann",
+      "Axel Buchner",
+      "Raoul Bell"
+    ]
+  },
+  "article_index": 264,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T13:47:43.899052"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T13:47:45.406980"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T13:47:46.725993"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T21:20:12.308296"
+    },
+    "last_updated": "2025-10-03T21:20:12.308355"
+  }
+}

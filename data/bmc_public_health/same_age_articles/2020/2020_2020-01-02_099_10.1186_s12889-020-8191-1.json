@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.681145",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8191-1",
+    "title": "Effect of motorcycle helmet types on head injuries: evidence from eight level-I trauma centres in Taiwan",
+    "article_number": "78",
+    "publication_date": "2020-01-17",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Carlos Lam",
+      "Bayu Satria Wiratama",
+      "Wen-Han Chang",
+      "Ping-Ling Chen",
+      "Wen-Ta Chiu",
+      "Wafaa Saleh",
+      "Chih-Wei Pai"
+    ]
+  },
+  "article_index": 99,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T13:35:02.362799"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:35:03.890300"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T13:35:05.156219"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:15:35.848915"
+    },
+    "last_updated": "2025-10-03T21:15:35.849102"
+  }
+}

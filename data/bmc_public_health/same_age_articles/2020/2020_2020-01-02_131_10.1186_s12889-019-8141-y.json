@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.685517",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8141-y",
+    "title": "Advocating an attack against severe malaria: a cost-effectiveness analysis",
+    "article_number": "17",
+    "publication_date": "2020-01-07",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Scott Greenhalgh",
+      "Veda Chandwani"
+    ]
+  },
+  "article_index": 131,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:28:46.500478"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:28:48.026553"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T13:28:49.236741"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:13:19.969376"
+    },
+    "last_updated": "2025-10-03T21:13:19.969573"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.650449",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35186-5",
+    "title": "High-performance Marangoni hydrogel rotors with asymmetric porosity and drag reduction profile",
+    "article_number": "20",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hao Wu",
+      "Yiyu Chen",
+      "Wenlong Xu",
+      "Chen Xin",
+      "Tao Wu",
+      "Wei Feng",
+      "Hao Yu",
+      "Chao Chen",
+      "Shaojun Jiang",
+      "Yachao Zhang",
+      "Xiaojie Wang",
+      "Minghui Duan",
+      "Cong Zhang",
+      "Shunli Liu",
+      "Dawei Wang",
+      "Yanlei Hu",
+      "Jiawen Li",
+      "Erqiang Li",
+      "HengAn Wu",
+      "Jiaru Chu",
+      "Dong Wu"
+    ]
+  },
+  "article_index": 83,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T18:51:04.132063"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:51:05.683506"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:51:07.063031"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T23:11:02.206420"
+    },
+    "last_updated": "2025-10-03T23:11:02.206615"
+  }
+}

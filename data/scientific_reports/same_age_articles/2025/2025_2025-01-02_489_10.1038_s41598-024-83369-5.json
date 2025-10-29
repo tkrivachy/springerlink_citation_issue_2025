@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.402425",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83369-5",
+    "title": "FN1 shapes the behavior of papillary thyroid carcinoma through alternative splicing of EDB region",
+    "article_number": "327",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mian Liu",
+      "Pei Chen",
+      "Bo Wei",
+      "Hai-Long Tan",
+      "Ya-Xin Zhao",
+      "Lei Ai",
+      "Ning Li",
+      "Ying-Ke Jiang",
+      "Jing Lin",
+      "Shi-Jin Li",
+      "Shi Chang"
+    ]
+  },
+  "article_index": 489,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:22:49.540065"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:22:51.042698"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:17.297561"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:19:50.136586"
+    },
+    "last_updated": "2025-10-07T09:50:17.297775"
+  }
+}

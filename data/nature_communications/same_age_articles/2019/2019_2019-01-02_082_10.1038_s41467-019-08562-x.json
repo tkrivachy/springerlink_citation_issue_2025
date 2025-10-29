@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.686095",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08562-x",
+    "title": "Author Correction: Aberrant activation of non-coding RNA targets of transcriptional elongation complexes contributes to TDP-43 toxicity",
+    "article_number": "555",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chia-Yu Chung",
+      "Amit Berson",
+      "Jason R. Kennerdell",
+      "Ashley Sartoris",
+      "Travis Unger",
+      "Sílvia Porta",
+      "Hyung-Jun Kim",
+      "Edwin R. Smith",
+      "Ali Shilatifard",
+      "Vivianna Van Deerlin",
+      "Virginia M. -Y. Lee",
+      "Alice Chen-Plotkin",
+      "Nancy M. Bonini"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:45:19.144520"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:45:20.644934"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:45:21.937038"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:48:40.192468"
+    },
+    "last_updated": "2025-10-03T22:48:40.192670"
+  }
+}

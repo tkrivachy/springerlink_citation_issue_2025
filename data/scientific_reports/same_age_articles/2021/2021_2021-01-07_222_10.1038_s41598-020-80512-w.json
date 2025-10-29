@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.244366",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80512-w",
+    "title": "Tumor cytotoxicity and immunogenicity of a novel V-jet neon plasma source compared to the kINPen",
+    "article_number": "136",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lea Miebach",
+      "Eric Freund",
+      "Stefan Horn",
+      "Felix Niessner",
+      "Sanjeev Kumar Sagwal",
+      "Thomas von Woedtke",
+      "Steffen Emmert",
+      "Klaus-Dieter Weltmann",
+      "Ramona Clemen",
+      "Anke Schmidt",
+      "Torsten Gerling",
+      "Sander Bekeschus"
+    ]
+  },
+  "article_index": 222,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:47:18.875521"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:47:20.424721"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:47:21.701122"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T21:42:25.728139"
+    },
+    "last_updated": "2025-10-03T21:42:25.728220"
+  }
+}

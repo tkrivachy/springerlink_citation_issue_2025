@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.533645",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55751-4",
+    "title": "Inhalable nanovesicles loaded with a STING agonist enhance CAR-T cell activity against solid tumors in the lung",
+    "article_number": "262",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tianchuan Zhu",
+      "Yuchen Xiao",
+      "Zhenxing Chen",
+      "Hanxi Ding",
+      "Shoudeng Chen",
+      "Guanmin Jiang",
+      "Xi Huang"
+    ]
+  },
+  "article_index": 146,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:31:27.262093"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T19:31:28.823813"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:30.031677"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:24:30.139146"
+    },
+    "last_updated": "2025-10-03T23:24:30.139371"
+  }
+}

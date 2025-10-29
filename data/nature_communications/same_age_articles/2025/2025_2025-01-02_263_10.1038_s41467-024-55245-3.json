@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.551963",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55245-3",
+    "title": "Coordinatively stiffen and toughen polymeric gels via the synergy of crystal-domain cross-linking and chelation cross-linking",
+    "article_number": "320",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jipeng Zhang",
+      "Miaoqian Zhang",
+      "Huixiong Wan",
+      "Jinping Zhou",
+      "Ang Lu"
+    ]
+  },
+  "article_index": 263,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:40:52.075896"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:40:53.641584"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:40:54.836493"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:27:47.912404"
+    },
+    "last_updated": "2025-10-03T23:27:47.912598"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.344989",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84761-x",
+    "title": "Development of an advanced multimode refractive index plasmonic optical sensor utilizing split ring resonators for brain cancer cell detection",
+    "article_number": "433",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ali Khodaie",
+      "Hamid Heidarzadeh",
+      "Farrokhfar Valizadeh Harzand"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T16:18:11.905574"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T16:18:13.509288"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:20.029178"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T22:18:07.033009"
+    },
+    "last_updated": "2025-10-07T09:49:20.029428"
+  }
+}

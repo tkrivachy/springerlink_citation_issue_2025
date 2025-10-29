@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.791229",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-29",
+    "title": "Cost-effectiveness of Rotavirus vaccination in Vietnam",
+    "article_number": "29",
+    "publication_date": "2009-01-21",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Sun-Young Kim",
+      "Sue J Goldie",
+      "Joshua A Salomon"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T12:33:11.883115"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T12:33:13.433666"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T12:33:14.759713"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T20:53:09.740385"
+    },
+    "last_updated": "2025-10-03T20:53:09.740585"
+  }
+}

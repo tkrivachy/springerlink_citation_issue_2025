@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.890185",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13790-2",
+    "title": "Quantitative earthquake-like statistical properties of the flow of soft materials below yield stress",
+    "article_number": "9",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "P. K. Bera",
+      "S. Majumdar",
+      "G. Ouillon",
+      "D. Sornette",
+      "A. K. Sood"
+    ]
+  },
+  "article_index": 112,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T18:16:09.973614"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T18:16:11.538351"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T18:16:12.731512"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T22:59:10.906420"
+    },
+    "last_updated": "2025-10-03T22:59:10.906614"
+  }
+}

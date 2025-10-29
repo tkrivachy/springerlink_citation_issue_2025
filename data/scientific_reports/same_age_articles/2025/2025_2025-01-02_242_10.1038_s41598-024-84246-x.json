@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.374958",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84246-x",
+    "title": "Conformational landscape of soluble α-klotho revealed by cryogenic electron microscopy",
+    "article_number": "543",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nicholas J. Schnicker",
+      "Zhen Xu",
+      "Mohammad Amir",
+      "Lokesh Gakhar",
+      "Chou-Long Huang"
+    ]
+  },
+  "article_index": 242,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:35:42.633601"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:35:44.198442"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:47.968546"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:24:16.917912"
+    },
+    "last_updated": "2025-10-07T09:52:47.968601"
+  }
+}

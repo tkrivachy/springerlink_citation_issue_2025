@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.534690",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55398-1",
+    "title": "Intracellular pressure controls the propagation of tension in crumpled cell membranes",
+    "article_number": "91",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Raviv Dharan",
+      "Avishai Barnoy",
+      "Andrey K. Tsaturyan",
+      "Alon Grossman",
+      "Shahar Goren",
+      "Inbar Yosibash",
+      "Dikla Nachmias",
+      "Natalie Elia",
+      "Raya Sorkin",
+      "Michael M. Kozlov"
+    ]
+  },
+  "article_index": 156,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:44:40.222949"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:44:41.786801"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:44:43.009399"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T23:29:14.659450"
+    },
+    "last_updated": "2025-10-03T23:29:14.659642"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.169535",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-27",
+    "title": "Self-reported ill health in male UK Gulf War veterans: a retrospective cohort study",
+    "article_number": "27",
+    "publication_date": "2004-07-13",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Rebecca Simmons",
+      "Noreen Maconochie",
+      "Pat Doyle"
+    ]
+  },
+  "article_index": 45,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T12:07:54.388409"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T12:07:55.960151"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T12:07:57.254161"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T20:43:57.160453"
+    },
+    "last_updated": "2025-10-03T20:43:57.160557"
+  }
+}

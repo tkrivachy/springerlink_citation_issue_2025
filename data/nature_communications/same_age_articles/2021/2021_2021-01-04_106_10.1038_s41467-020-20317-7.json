@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.191588",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20317-7",
+    "title": "LTD is involved in the formation and maintenance of rat hippocampal CA1 place-cell fields",
+    "article_number": "100",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Donovan M. Ashby",
+      "Stan B. Floresco",
+      "Anthony G. Phillips",
+      "Alexander McGirr",
+      "Jeremy K. Seamans",
+      "Yu Tian Wang"
+    ]
+  },
+  "article_index": 106,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:23:17.725628"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:23:19.291818"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:23:20.580885"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:01:39.824952"
+    },
+    "last_updated": "2025-10-03T23:01:39.825148"
+  }
+}

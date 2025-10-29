@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.723499",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08083-z",
+    "title": "A gene expression map of shoot domains reveals regulatory mechanisms",
+    "article_number": "141",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Caihuan Tian",
+      "Ying Wang",
+      "Haopeng Yu",
+      "Jun He",
+      "Jin Wang",
+      "Bihai Shi",
+      "Qingwei Du",
+      "Nicholas J. Provart",
+      "Elliot M. Meyerowitz",
+      "Yuling Jiao"
+    ]
+  },
+  "article_index": 425,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T17:22:18.986631"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T17:22:20.498958"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T17:22:21.842627"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 111,
+      "retrieved_at": "2025-10-03T22:40:51.732840"
+    },
+    "last_updated": "2025-10-03T22:40:51.732908"
+  }
+}

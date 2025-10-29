@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.850077",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03980-8",
+    "title": "Integrated bioinformatics and network pharmacology to identify the therapeutic target and molecular mechanisms of Huangqin decoction on ulcerative Colitis",
+    "article_number": "159",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yi Wu",
+      "Xinqiao Liu",
+      "Guiwei Li"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T15:26:05.864764"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T15:26:07.423152"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T15:26:08.570941"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T21:58:15.834069"
+    },
+    "last_updated": "2025-10-03T21:58:15.834258"
+  }
+}

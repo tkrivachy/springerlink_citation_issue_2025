@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.384122",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-80698-3",
+    "title": "The coherent structure of the energy cascade in isotropic turbulence",
+    "article_number": "14",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Danah Park",
+      "Adrián Lozano-Durán"
+    ]
+  },
+  "article_index": 329,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T16:19:09.010756"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:19:10.540504"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:31.809129"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:18:28.322118"
+    },
+    "last_updated": "2025-10-07T09:49:31.809372"
+  }
+}

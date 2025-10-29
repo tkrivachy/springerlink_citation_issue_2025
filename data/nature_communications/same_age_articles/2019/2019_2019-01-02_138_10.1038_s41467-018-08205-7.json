@@ -1,0 +1,79 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.692215",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08205-7",
+    "title": "Deconvolution of single-cell multi-omics layers reveals regulatory heterogeneity",
+    "article_number": "470",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Longqi Liu",
+      "Chuanyu Liu",
+      "Andrés Quintero",
+      "Liang Wu",
+      "Yue Yuan",
+      "Mingyue Wang",
+      "Mengnan Cheng",
+      "Lizhi Leng",
+      "Liqin Xu",
+      "Guoyi Dong",
+      "Rui Li",
+      "Yang Liu",
+      "Xiaoyu Wei",
+      "Jiangshan Xu",
+      "Xiaowei Chen",
+      "Haorong Lu",
+      "Dongsheng Chen",
+      "Quanlei Wang",
+      "Qing Zhou",
+      "Xinxin Lin",
+      "Guibo Li",
+      "Shiping Liu",
+      "Qi Wang",
+      "Hongru Wang",
+      "J. Lynn Fink",
+      "Zhengliang Gao",
+      "Xin Liu",
+      "Yong Hou",
+      "Shida Zhu",
+      "Huanming Yang",
+      "Yunming Ye",
+      "Ge Lin",
+      "Fang Chen",
+      "Carl Herrmann",
+      "Roland Eils",
+      "Zhouchun Shang",
+      "Xun Xu"
+    ]
+  },
+  "article_index": 138,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 197,
+      "retrieved_at": "2025-10-03T17:21:50.408915"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 192,
+      "retrieved_at": "2025-10-03T17:21:51.941457"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 192,
+      "retrieved_at": "2025-10-03T17:21:53.432358"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 225,
+      "retrieved_at": "2025-10-03T22:40:43.154599"
+    },
+    "last_updated": "2025-10-03T22:40:43.154645"
+  }
+}

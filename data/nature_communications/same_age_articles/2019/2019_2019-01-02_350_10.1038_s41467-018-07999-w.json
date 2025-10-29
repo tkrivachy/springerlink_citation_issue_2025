@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.715568",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07999-w",
+    "title": "Current fossil fuel infrastructure does not yet commit us to 1.5 °C warming",
+    "article_number": "101",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christopher J. Smith",
+      "Piers M. Forster",
+      "Myles Allen",
+      "Jan Fuglestvedt",
+      "Richard J. Millar",
+      "Joeri Rogelj",
+      "Kirsten Zickfeld"
+    ]
+  },
+  "article_index": 350,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 162,
+      "retrieved_at": "2025-10-03T17:45:42.556489"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 148,
+      "retrieved_at": "2025-10-03T17:45:44.091049"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 133,
+      "retrieved_at": "2025-10-03T17:45:45.261373"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 166,
+      "retrieved_at": "2025-10-03T22:48:48.874119"
+    },
+    "last_updated": "2025-10-03T22:48:48.874314"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.699628",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08119-4",
+    "title": "Spin current generation and relaxation in a quenched spin-orbit-coupled Bose-Einstein condensate",
+    "article_number": "375",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chuan-Hsun Li",
+      "Chunlei Qu",
+      "Robert J. Niffenegger",
+      "Su-Ju Wang",
+      "Mingyuan He",
+      "David B. Blasing",
+      "Abraham J. Olson",
+      "Chris H. Greene",
+      "Yuli Lyanda-Geller",
+      "Qi Zhou",
+      "Chuanwei Zhang",
+      "Yong P. Chen"
+    ]
+  },
+  "article_index": 208,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:02:10.641974"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:02:12.195368"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:02:13.537386"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T22:54:34.117951"
+    },
+    "last_updated": "2025-10-03T22:54:34.118140"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.721088",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08079-9",
+    "title": "Single-cell transcriptomic analysis of mouse neocortical development",
+    "article_number": "134",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lipin Loo",
+      "Jeremy M. Simon",
+      "Lei Xing",
+      "Eric S. McCoy",
+      "Jesse K. Niehaus",
+      "Jiami Guo",
+      "E. S. Anton",
+      "Mark J. Zylka"
+    ]
+  },
+  "article_index": 403,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 224,
+      "retrieved_at": "2025-10-03T18:08:49.033090"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 242,
+      "retrieved_at": "2025-10-03T18:08:50.588304"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 226,
+      "retrieved_at": "2025-10-03T18:08:51.757298"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 268,
+      "retrieved_at": "2025-10-03T22:56:49.866826"
+    },
+    "last_updated": "2025-10-03T22:56:49.867016"
+  }
+}

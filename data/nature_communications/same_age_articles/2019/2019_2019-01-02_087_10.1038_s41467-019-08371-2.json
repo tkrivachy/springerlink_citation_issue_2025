@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.686624",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08371-2",
+    "title": "Frustrated supercritical collapse in tunable charge arrays on graphene",
+    "article_number": "477",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiong Lu",
+      "Hsin-Zon Tsai",
+      "Alpin N. Tatan",
+      "Sebastian Wickenburg",
+      "Arash A. Omrani",
+      "Dillon Wong",
+      "Alexander Riss",
+      "Erik Piatti",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Alex Zettl",
+      "Vitor M. Pereira",
+      "Michael F. Crommie"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:25:32.127888"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T17:25:33.679000"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T17:25:34.992601"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T22:41:58.406921"
+    },
+    "last_updated": "2025-10-03T22:41:58.407114"
+  }
+}

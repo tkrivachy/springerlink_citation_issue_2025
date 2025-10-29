@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.583769",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12391-3",
+    "title": "Prevalence and incidence rates of laboratory-confirmed hepatitis B infection in South Africa, 2015 to 2019",
+    "article_number": "29",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Shelina Moonsamy",
+      "Melinda Suchard",
+      "Pavitra Pillay",
+      "Nishi Prabdial-Sing"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:05:33.683039"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:05:35.193048"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:05:36.470598"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T21:26:29.045137"
+    },
+    "last_updated": "2025-10-03T21:26:29.045235"
+  }
+}

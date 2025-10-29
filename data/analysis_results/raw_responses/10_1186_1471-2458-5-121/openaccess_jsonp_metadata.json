@@ -1,0 +1,24 @@
+{
+  "endpoint": "openaccess",
+  "format": "jsonp",
+  "test_doi": "10.1186/1471-2458-5-121",
+  "safe_doi": "10_1186_1471-2458-5-121",
+  "timestamp": "2025-10-20 14:06:23",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.4924149513244629,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/jsonp",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1186/1471-2458-5-121",
+      "s": 1,
+      "p": 1,
+      "callback": "springerCallback"
+    }
+  },
+  "summary": "JSONP Response\nKeys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords: 1\n",
+  "filename": "openaccess_jsonp.jsonp"
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.956192",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-139",
+    "title": "Understanding non-compliance to colorectal cancer screening: a case control study, nested in a randomised trial [ISRCTN83029072]",
+    "article_number": "139",
+    "publication_date": "2005-12-22",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Paolo Giorgi Rossi",
+      "Antonio Federici",
+      "Francesco Bartolozzi",
+      "Sara Farchi",
+      "Piero Borgia",
+      "Gabriella Guasticchi"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T12:12:10.528239"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T12:12:12.074688"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T12:12:13.399523"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T20:45:28.708040"
+    },
+    "last_updated": "2025-10-03T20:45:28.708318"
+  }
+}

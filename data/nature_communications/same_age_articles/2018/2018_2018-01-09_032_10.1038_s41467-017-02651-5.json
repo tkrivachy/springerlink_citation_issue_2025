@@ -1,0 +1,68 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.608268",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02651-5",
+    "title": "Microbiota derived short chain fatty acids promote histone crotonylation in the colon through histone deacetylases",
+    "article_number": "105",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Rachel Fellows",
+      "Jérémy Denizot",
+      "Claudia Stellato",
+      "Alessandro Cuomo",
+      "Payal Jain",
+      "Elena Stoyanova",
+      "Szabina Balázsi",
+      "Zoltán Hajnády",
+      "Anke Liebert",
+      "Juri Kazakevych",
+      "Hector Blackburn",
+      "Renan Oliveira Corrêa",
+      "José Luís Fachi",
+      "Fabio Takeo Sato",
+      "Willian R. Ribeiro",
+      "Caroline Marcantonio Ferreira",
+      "Hélène Perée",
+      "Mariangela Spagnuolo",
+      "Raphaël Mattiuz",
+      "Csaba Matolcsi",
+      "Joana Guedes",
+      "Jonathan Clark",
+      "Marc Veldhoen",
+      "Tiziana Bonaldi",
+      "Marco Aurélio Ramirez Vinolo",
+      "Patrick Varga-Weisz"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:03.228632",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 419,
+      "retrieved_at": "2025-10-03T11:43:54.718241"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 442,
+      "retrieved_at": "2025-10-03T17:05:57.660816"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 381,
+      "retrieved_at": "2025-10-03T17:05:59.357944"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 455,
+      "retrieved_at": "2025-10-03T22:35:03.228437"
+    }
+  }
+}

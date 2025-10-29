@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.240439",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79585-4",
+    "title": "Effect of amblyopia treatment on macular microvasculature in children with anisometropic amblyopia using optical coherence tomographic angiography",
+    "article_number": "39",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Tengyue Zhang",
+      "Shiyong Xie",
+      "Yangchen Liu",
+      "Caihong Xue",
+      "Wei Zhang"
+    ]
+  },
+  "article_index": 210,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:52:17.045215"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:52:18.562453"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:52:19.761243"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:44:17.274628"
+    },
+    "last_updated": "2025-10-03T21:44:17.274818"
+  }
+}

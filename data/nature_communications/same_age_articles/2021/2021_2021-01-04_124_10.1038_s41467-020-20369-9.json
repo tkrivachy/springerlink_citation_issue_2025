@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.194450",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20369-9",
+    "title": "Universal and tunable liquid–liquid separation by nanoparticle-embedded gating membranes based on a self-defined interfacial parameter",
+    "article_number": "80",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiangyu Li",
+      "Jingjing Liu",
+      "Ruixiang Qu",
+      "Weifeng Zhang",
+      "Yanan Liu",
+      "Huajun Zhai",
+      "Yen Wei",
+      "Hanshi Hu",
+      "Lin Feng"
+    ]
+  },
+  "article_index": 124,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:30:57.629252"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:30:59.137110"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T18:31:00.437881"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T23:04:21.054925"
+    },
+    "last_updated": "2025-10-03T23:04:21.055116"
+  }
+}

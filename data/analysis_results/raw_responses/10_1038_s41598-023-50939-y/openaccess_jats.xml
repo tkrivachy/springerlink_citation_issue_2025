@@ -1,0 +1,2339 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-50939-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41598-023-50939-y</article-id>
+          <article-id pub-id-type="manuscript">50939</article-id>
+          <article-id pub-id-type="doi">10.1038/s41598-023-50939-y</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/114</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/378</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/631/532</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">
+              BAF45D-binding to 
+              <italic>HOX</italic>
+               genes was differentially targeted in H9-derived spinal cord neural stem cells
+            </article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Chang</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Xie</surname>
+                <given-names>Yuxin</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Chen</surname>
+                <given-names>Xueying</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Lihua</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au5">
+              <name name-style="western">
+                <surname>Liu</surname>
+                <given-names>Chao</given-names>
+              </name>
+              <address>
+                <email>chaol1974@ahmu.edu.cn</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="corresp" rid="IDs4159802350939y_cor5">e</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au6">
+              <name name-style="western">
+                <surname>Yin</surname>
+                <given-names>Zongsheng</given-names>
+              </name>
+              <address>
+                <email>yinzongsheng@sina.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs4159802350939y_cor6">f</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/03xb04968</institution-id>
+                <institution-id institution-id-type="GRID">grid.186775.a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 9490 772X</institution-id>
+                <institution content-type="org-division">Department of Orthopedics, The First Affiliated Hospital</institution>
+                <institution content-type="org-name">Anhui Medical University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">230032</addr-line>
+              <addr-line content-type="city">Hefei</addr-line>
+              <addr-line content-type="state">Anhui</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/03xb04968</institution-id>
+                <institution-id institution-id-type="GRID">grid.186775.a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 9490 772X</institution-id>
+                <institution content-type="org-division">Department of Histology and Embryology, Institute of Stem Cell and Tissue Engineering, School of Basic Medical Sciences</institution>
+                <institution content-type="org-name">Anhui Medical University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">230032</addr-line>
+              <addr-line content-type="city">Hefei</addr-line>
+              <addr-line content-type="state">Anhui</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ROR">https://ror.org/03xb04968</institution-id>
+                <institution-id institution-id-type="GRID">grid.186775.a</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0000 9490 772X</institution-id>
+                <institution content-type="org-division">Institute of Clinical Pharmacology</institution>
+                <institution content-type="org-name">Anhui Medical University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">230032</addr-line>
+              <addr-line content-type="city">Hefei</addr-line>
+              <addr-line content-type="state">Anhui</addr-line>
+              <country country="CN">China</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs4159802350939y_cor5">
+              <label>e</label>
+              <email>chaol1974@ahmu.edu.cn</email>
+            </corresp>
+            <corresp id="IDs4159802350939y_cor6">
+              <label>f</label>
+              <email>yinzongsheng@sina.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>2</day>
+            <month>1</month>
+            <year>2024</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2024</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue seq="30">1</issue>
+          <elocation-id>29</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>28</day>
+              <month>12</month>
+              <year>2023</year>
+            </date>
+            <date date-type="received">
+              <day>28</day>
+              <month>6</month>
+              <year>2023</year>
+            </date>
+            <date date-type="accepted">
+              <day>28</day>
+              <month>12</month>
+              <year>2023</year>
+            </date>
+            <date date-type="online">
+              <day>2</day>
+              <month>1</month>
+              <year>2024</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2024</copyright-statement>
+            <copyright-year>2024</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Chromatin accessibility has been used to define how cells adopt region-specific neural fates. BAF45D is one of the subunits of a specialised chromatin remodelling BAF complex. It has been reported that BAF45D is expressed in spinal cord neural stem cells (NSCs) and regulates their fate specification. Within the developing vertebrate spinal cord, 
+              <italic>HOX</italic>
+               genes exhibit spatially restricted expression patterns. However, the chromatin accessibility of BAF45D binding 
+              <italic>HOX</italic>
+               genes in spinal cord NSCs is unclear. In the present study, we found that in H9-derived spinal cord NSCs, BAF45D targets 
+              <italic>TBX6</italic>
+              , a gene that regulates spinal cord neural mesodermal progenitors. Furthermore, BAF45D binding to the 
+              <italic>NES</italic>
+               gene is much more enriched in H9-derived spinal cord NSCs chromatin compared to ESCs chromatin. In addition, BAF45D binding to anterior and trunk/central 
+              <italic>HOX</italic>
+               genes, but not to lumbosacral 
+              <italic>HOX</italic>
+               genes, was much more enriched in NSCs chromatin compared to ESCs chromatin. These results may shed new light on the role of BAF45D in regulating region-specific spinal cord NSCs by targeting 
+              <italic>HOX</italic>
+               genes.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="1109">Neurosciences</kwd>
+            </nested-kwd>
+            <kwd content-type="term" vocab-term-identifier="06">Biological Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="0604">Genetics</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Research project of Anhui Provincial Institute of Translational Medicine</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2021zhyx-C19</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chang</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chao</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Natural Science Foundation of Anhui Province</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2008085MH251</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chao</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Key Research and Development Project of Anhui Province</institution>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">202004J07020037</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Chao</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Portfolio</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>30</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>Springer Nature Limited</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2024</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2023</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>28</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41598_2023_Article_50939.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Introduction</title>
+          <p id="Par13">
+            Human embryonic stem cells (ESCs) can be efficiently induced into spinal neural cells with discrete 
+            <italic>HOX</italic>
+             gene profiles by temporal regulation of Wnt, FGF and retinoic acid (RA) signalling
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . The induction of spinal cord HOX genes corresponds to a region-wide loss of inhibitory chromatin marks that regularly occur in more anterior neural precursors
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+            </sup>
+            . The molecular mechanism underlying this response is closely linked to chromatin remodelling in ESCs
+            <sup>
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par14">
+            <italic>HOX</italic>
+             gene expression functions in the development of the rhombomere hindbrain (
+            <italic>HOX1–5</italic>
+            ), cervical (
+            <italic>HOX5–9</italic>
+            ), thoracic (
+            <italic>HOX9–10</italic>
+            ) and lumbosacral (
+            <italic>HOX10–13</italic>
+            ) segments of the vertebral spinal cord
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . In vertebrates, the 
+            <italic>HOX</italic>
+             gene is organised into homologous groups (HG) 1–13, which exist on multiple chromosomes due to genomic replication events
+            <sup>
+              <xref ref-type="bibr" rid="CR5">5</xref>
+            </sup>
+            . In mammals, four different chromosomes carry the 
+            <italic>HOX</italic>
+             gene, known as the 
+            <italic>HOX</italic>
+             A-D cluster. 
+            <italic>HOX</italic>
+             genes are usually divided into anterior (PG1–3/4), main/central (PG4/5–9) and posterior (PG10–13) variants, with the order of each cluster reported
+            <sup>
+              <xref ref-type="bibr" rid="CR6">6</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par15">
+            Chromatin accessibility defines how cells adopt region-specific neural fates
+            <sup>
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . During an in vitro motor neuron differentiation system that recapitulates embryonic development, the genomic binding profiles of different 
+            <italic>HOX</italic>
+             genes are diverse, driving the diversification of neural patterning
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+            </sup>
+            . The BRG1/BRM-associated factor (BAF) complex, the mammalian chromatin remodeller, modulates chromatin accessibility to activate and/or repress target genes
+            <sup>
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ,
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . For example, rapid BAF depletion has been reported to redistribute chromatin regulators, such as the Polycomb Repressive Complexes (PRCs), from highly occupied 
+            <italic>Hox</italic>
+             genes to weakly occupied genes, which are typically counteracted by the BAF complex
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            . In human pluripotent stem cell (hPSC)-derived neuromesoderm, which exhibits colinear 
+            <italic>HOX</italic>
+             gene expression, retinoic acid silences expression and transforms the neuromesoderm into neuroectoderm with distinct 
+            <italic>HOX</italic>
+             gene/protein profiles that can be additionally induced into site-specific neural cells
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par16">
+            BAF complexes consist of three subunits, the ATPase, the actin-related protein (ARP) and the core subunit
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+            . Among the BAF complex subunits, BAF45D (DPF2) belongs to the core subunits
+            <sup>
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              , 
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              –
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+            . Recently, BAF45D is expressed in spinal cord neural stem cells (NSCs) and is required for the expression of PAX6, a neuroectodermal marker, during RA-induced H9 cell differentiation
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+            </sup>
+            . In addition, BAF45D regulates the fate of spinal cord NSCs through the SMAD-PAX6 axis
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            , although the role of BAF45D in anterior–posterior 
+            <italic>HOX</italic>
+             gene modulation is not clear.
+          </p>
+          <p id="Par17">
+            Spinal cord NSCs have been identified in and outside the central canal and may serve as endogenous NSCs for regenerative therapy of SCI
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ,
+              <xref ref-type="bibr" rid="CR18">18</xref>
+            </sup>
+            . Human ESC-derived spinal cord NSCs are critical for in vitro evaluation of spinal cord development and cell replacement therapy in spinal cord disease. However, the role of chromatin accessibility of BAF45D-bound 
+            <italic>HOX</italic>
+             genes in spinal cord NSCs is largely unknown. Here, we hypothesised that BAF45D may modulate 
+            <italic>HOX</italic>
+             gene expression by regulating chromatin accessibility and used spinal cord NSCs derived from H9 cells to investigate how BAF45D targets 
+            <italic>HOX</italic>
+             genes.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec3">
+            <title>Different BAF45D-binding gene profiles between undifferentiated H9 cells and spinal cord NSCs derived from H9 cells</title>
+            <p id="Par18">
+              To investigate the different gene profiles between undifferentiated H9 cells and spinal cord NSCs derived from H9 cells, we induced H9 cells into spinal cord neural stem cells according to a previous protocol
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+               (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              A) using NSC induction medium, NSC maintenance medium and NSC medium. The IF assay results showed that while undifferentiated H9 cells did not express SOX1 and H9-derived spinal cord NSCs did not express OCT4 (data not shown), the expression of OCT4 in undifferentiated H9 cells and the expression of PAX6, SOX1, NESTIN and GFAP in H9-derived spinal cord NSCs can be identified (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              B). Statistical analysis to quantify the expression of PAX6 and NESTIN indicated a significant increase in both marker proteins (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              C). BAF45D has been reported to be expressed in both undifferentiated and differentiated H9 cells
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+              </sup>
+               . HOXC9 is known as a thoracic/central spinal cord marker protein
+              <sup>
+                <xref ref-type="bibr" rid="CR19">19</xref>
+                , 
+                <xref ref-type="bibr" rid="CR20">20</xref>
+                –
+                <xref ref-type="bibr" rid="CR21">21</xref>
+              </sup>
+              . To investigate the expression of BAF45D and HOXC9 in H9-derived spinal cord NSCs, we performed an IF assay and showed colocalisation of BAF45D and HOXC9 in the spinal cord NSCs (Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+              A–U).
+              <fig id="Fig1" position="float">
+                <label>Figure 1</label>
+                <caption xml:lang="en">
+                  <p>
+                    Chromatin accessibility of BAF45D binding gene profiles between H9 cells and H9-derived spinal cord NSCs. (
+                    <bold>A</bold>
+                    ) Overview of the experimental procedure. Differentiation of H9 cells into spinal cord NSCs in response to NSC induction medium, NSC maintenance medium and NSC medium. The CUT&amp;Tag assay was performed at the indicated time point. (
+                    <bold>B</bold>
+                    ) IF assay for the expression of OCT4, PAX6, NESTIN, SOX1 and GFAP in H9 cells and H9-derived spinal cord NSCs. Scale bar = 25 μm. (
+                    <bold>C</bold>
+                    ) Statistical analysis for relative expression of PAX6 and NESTIN. (
+                    <bold>D</bold>
+                    ) Peak differences between ESC and NSC groups. The number of common and unique peaks in the comparison group is shown in the Venn diagram. (
+                    <bold>E</bold>
+                    ) Pearson correlation coefficient between CUT&amp;Tag biological replicates. (
+                    <bold>F</bold>
+                    ) The cluster graph of peak correlation of different experimental groups in the comparison groups, showing a heat map of FoldEnrich in peaks. The heatmap was generated using R software (
+                    <ext-link ns0:href="https://cran.r-project.org/" ext-link-type="uri">https://cran.r-project.org/</ext-link>
+                    ) with a pheatmap package (1.0.12, 
+                    <ext-link ns0:href="https://cran.r-project.org/web/packages/pheatmap/index.html" ext-link-type="uri">https://cran.r-project.org/web/packages/pheatmap/index.html</ext-link>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_50939_Fig1_HTML.png" id="MO1"/>
+              </fig>
+            </p>
+            <p id="Par19">
+              Previously, we reported the genomic distribution of binding sites in relation to the distance to the TSS of target genes and in relation to genomic elements (intergenic, exon, intron, promoter)
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+              . Here, we used the data sets and performed new analysis to show the peak differences between the H9 and NSC groups and the common and unique number of peaks in the comparison groups are shown in the Venn diagram (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              D), indicating the different gene profiles. Next, the biological replicates of the CUT&amp;Tag assay were monitored by the Pearson correlation coefficient (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              E). In addition, the cluster graph of the FoldEnrich heatmap in the peak correlation of the different experimental groups also showed the different gene profiles (Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              F). Moreover, the analysis to find enriched DNA binding motifs was performed across all BAF45D bound regions in the H9 cells and H9-derived spinal cord NSCs. DNA motifs of 
+              <italic>HOXC9</italic>
+              , 
+              <italic>HOXA9</italic>
+               and Regulatory factor X (RFX) (
+              <italic>RFX2</italic>
+               and 
+              <italic>RFX3</italic>
+              ) were found to be enriched in the bound regions in the two NSC samples (Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S2</xref>
+              ). The enrichment of the 
+              <italic>HOXC9</italic>
+               motif is in line with our expectations, whereas the enrichment of 
+              <italic>HOXA9</italic>
+               (data not shown in Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S1</xref>
+              ) comes as a surprise to us. In addition, we found that the top two homer de novo motifs for BAF45D include 
+              <italic>HOXC9</italic>
+               and 
+              <italic>RFX1</italic>
+               (Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S3</xref>
+              ). As a family of transcription factor, RFXs regulate the maintenance of NSCs
+              <sup>
+                <xref ref-type="bibr" rid="CR22">22</xref>
+              </sup>
+              <bold>.</bold>
+               Gene ontology (GO) analysis of enriched bound genes (Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">S4</xref>
+              ) related to neural tube development also indicated that the neural tube genes are enriched in the NSC samples.
+            </p>
+            <p id="Par20">These results suggest that BAF45D bound gene profiles are much more enriched in H9-derived spinal cord NSCs compared to ESCs.</p>
+          </sec>
+          <sec id="Sec4">
+            <title>
+              BAF45D targets 
+              <italic>TBX6</italic>
+               but not 
+              <italic>OTX2</italic>
+               in human spinal cord NSCs
+            </title>
+            <p id="Par21">
+              Neural mesodermal progenitors (NMPs) contribute to both spinal cord and mesodermal cells
+              <sup>
+                <xref ref-type="bibr" rid="CR23">23</xref>
+              </sup>
+              . 
+              <italic>Tbx6</italic>
+               is expressed in a novel transient NMPs
+              <sup>
+                <xref ref-type="bibr" rid="CR24">24</xref>
+              </sup>
+              , and NMPs differentiate into paraxial mesodermal cells that begin to express 
+              <italic>TBX6</italic>
+              <sup>
+                <xref ref-type="bibr" rid="CR25">25</xref>
+              </sup>
+              , suggesting the possibility that 
+              <italic>TBX6</italic>
+               is a potential marker for both NMPs and mesodermal cells. To further identify the different gene profiles between H9 cells and H9-derived NSCs, we examined the chromatin accessibility of BAF45D-bound 
+              <italic>OTX2</italic>
+              , a brain marker, and 
+              <italic>TBX6</italic>
+               in both human NSCs and H9 cells. The results showed that the chromatin accessibility of BAF45D-bound 
+              <italic>OTX2</italic>
+               (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              A) was not increased in human NSCs, whereas the chromatin accessibility of BAF45D-bound 
+              <italic>TBX6</italic>
+               (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              B) was increased in NSCs compared to H9 cells. To exclude the experimental bias of the analysis, visualization of two less enriched BAF54D bound genes, 
+              <italic>POU5F1 (gene of OCT4)</italic>
+               and 
+              <italic>HOXC13</italic>
+              , were shown (Figure 
+              <xref ref-type="supplementary-material" rid="MOESM1">S5</xref>
+              .). There are inverse data showing that BAF45D binding to 
+              <italic>POU5F1 and HOXC13</italic>
+               is lower in the NSC group than that in the H9 cell group.
+              <fig id="Fig2" position="float">
+                <label>Figure 2</label>
+                <caption xml:lang="en">
+                  <p>
+                    BAF45D targets genes that regulate neural mesodermal progenitors in the spinal cord. (
+                    <bold>A</bold>
+                    ) Chromatin accessibility of BAF45D-bound 
+                    <italic>OTX2</italic>
+                    , a brain marker, was not enriched in NSCs compared to H9 cells. (
+                    <bold>B</bold>
+                    ) Chromatin accessibility of BAF45D-bound 
+                    <italic>TBX6</italic>
+                    , a spinal cord neural mesodermal progenitor marker, in NSCs was enriched compared to that in H9 cells. Visualization of the sequencing data together with the conservation data by UCSC genome browser was shown.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_50939_Fig2_HTML.png" id="MO2"/>
+              </fig>
+            </p>
+            <p id="Par22">These results suggest that BAF45D preferentially regulates genes in the spinal cord.</p>
+          </sec>
+          <sec id="Sec5">
+            <title>
+              BAF45D binds more 
+              <italic>NES </italic>
+              and the anterior 
+              <italic>HOXB1</italic>
+               gene in human spinal cord NSCs
+            </title>
+            <p id="Par23">
+              Next, we wanted to investigate changes in chromatin accessibility of BAF45D with the NSC marker and anterior 
+              <italic>HOX</italic>
+               genes. The RPM (the proportion of reads enriched in the peak region per million reads) values of each sample at the peak sites were calculated. The RPM values at the sites of the NSC marker gene 
+              <italic>NES</italic>
+               and the 
+              <italic>HOX</italic>
+               gene 
+              <italic>HOXB1</italic>
+               in the H9 cells were increased compared to those in the H9-derived NSCs (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              A). Furthermore, visualization of the CUT&amp;Tag tracks at the 
+              <italic>NES</italic>
+               and 
+              <italic>HOXB1</italic>
+               loci (Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              B, C) indicated the chromatin accessibility of BAF45D was increased. Previously, we reported that knockdown of Baf45d (also called Dpf2) decreased 
+              <italic>Hoxb1</italic>
+               during RA-induced neural differentiation of P19 cells, supporting that the BAF45D binding to 
+              <italic>Hoxb1</italic>
+               correlates with direct target gene activation
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+              .
+              <fig id="Fig3" position="float">
+                <label>Figure 3</label>
+                <caption xml:lang="en">
+                  <p>
+                    BAF45D targets more 
+                    <italic>NES</italic>
+                     and 
+                    <italic>HOXB1</italic>
+                    . (
+                    <bold>A</bold>
+                    ) RPM values of peaks associated with BAF45D-bound 
+                    <italic>NES</italic>
+                     and 
+                    <italic>HOXB1</italic>
+                    . (
+                    <bold>B, C</bold>
+                    ) Visualization of the custom sequencing data together with the conservation data by UCSC genome browser for the indicated sequences of the 
+                    <italic>NES</italic>
+                     (
+                    <bold>B</bold>
+                    ) and 
+                    <italic>HOXB1</italic>
+                     (
+                    <bold>C</bold>
+                    ) genes.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_50939_Fig3_HTML.png" id="MO3"/>
+              </fig>
+            </p>
+            <p id="Par24">These results suggest that chromatin accessibility plays a critical role in NSC induction in the spinal cord.</p>
+          </sec>
+          <sec id="Sec6">
+            <title>
+              <italic>BAF45D/DPF2</italic>
+               bound histone marks are functionally relevant
+            </title>
+            <p id="Par25">
+              To further address the BAF45D bound regions are functionally relevant, we used publicly available Chip-seq data sets (
+              <ext-link ns0:href="http://cistrome.org/db/#/" ext-link-type="uri">http://cistrome.org/db/#/</ext-link>
+              ) of both H9 cells and H9-derived neural progenitor cells published in a previous paper 
+              <sup>
+                <xref ref-type="bibr" rid="CR26">26</xref>
+              </sup>
+              . The data sets were analysed using the UCSC genome browser linked to the website. It has been reported that radial glial cells (RGCs) are derived from neuroepithelial (NE) cells 
+              <sup>
+                <xref ref-type="bibr" rid="CR27">27</xref>
+              </sup>
+              and can function as NSCs
+              <sup>
+                <xref ref-type="bibr" rid="CR28">28</xref>
+              </sup>
+              . Furthermore, early RGCs(ERGs) serve as neural progenitor cells(NPCs)
+              <sup>
+                <xref ref-type="bibr" rid="CR29">29</xref>
+              </sup>
+              , so we selected the ERG stage to mimic our H9-differentiated NSCs The levels of H3K27ME3 and H3K27AC were plotted across the BAF45D/
+              <italic>DPF2</italic>
+               locus. Compared to the levels for H3K27ME3 binding to BAF45D/
+              <italic>DPF2</italic>
+              , the levels for H3K27AC binding to BAF45D/
+              <italic>DPF2</italic>
+               were much more enriched in both H9 cells and the ERGs. Furthermore, the peak enrichment of H3K27ME3 binding to BAF45D/
+              <italic>DPF2</italic>
+               was different from that of H3K27AC binding to BAF45D/
+              <italic>DPF2</italic>
+               (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              A, B).
+              <fig id="Fig4" position="float">
+                <label>Figure 4</label>
+                <caption xml:lang="en">
+                  <p>
+                    Function of 
+                    <italic>BAF45D/DPF2</italic>
+                     bound histone marks. (
+                    <bold>A</bold>
+                    ) Visualisation of H3K27ME3 enriched chromatin was plotted over the DPF2 locus in H9 cells and H9-derived early radial glial (ERG) cells. (
+                    <bold>B</bold>
+                    ) Visualisation of H3K27AC enriched chromatin was plotted over the DPF2 locus in H9 cells and H9-derived early radial glial (ERG) cells. (
+                    <bold>C</bold>
+                    ) The binding profile of BAF45D within the H3 locus. (
+                    <bold>D,E</bold>
+                    ) The data of H3K27ME3/H3K27AC binding to NES are shown.
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_50939_Fig4_HTML.png" id="MO4"/>
+              </fig>
+            </p>
+            <p id="Par26">
+              We also showed the binding profile of BAF45D within the 
+              <italic>H3</italic>
+               locus to demonstrate the BAF45D-
+              <italic>H3</italic>
+               correlation (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              C) and the data of H3K27ME3/H3K27AC-binding to 
+              <italic>NES</italic>
+               (Fig. 
+              <xref rid="Fig4" ref-type="fig">4</xref>
+              D, E). In addition, the ChIP-seq enrichment profiles of H3K27ME3 and H3K27AC histone marks in across genomic regions centered at BAF45D peak summits were shown (Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">S6</xref>
+              ). Since H3K27ME3 may play a role in repressing loci and H3K27AC may play a role in activating enhancers and/or promoters in embryos
+              <sup>
+                <xref ref-type="bibr" rid="CR30">30</xref>
+              </sup>
+              . These data suggest that BAF45D bound regions are functionally relevant.
+            </p>
+          </sec>
+          <sec id="Sec7">
+            <title>
+              Chromatin accessibility of BAF45D binding anterior and trunk/central 
+              <italic>HOX</italic>
+               genes was enriched in human spinal cord NSCs
+            </title>
+            <p id="Par27">
+              Within the developing spinal cord in vertebrate embryos, 
+              <italic>HOX</italic>
+               genes display spatially restricted expression patterns and are thought to be critical for determining cell specification and segmental identity along the anterior–posterior axes of the spinal cord
+              <sup>
+                <xref ref-type="bibr" rid="CR5">5</xref>
+              </sup>
+              . Early segmental expression patterns can regulate the formation of complex spinal cord circuits
+              <sup>
+                <xref ref-type="bibr" rid="CR31">31</xref>
+              </sup>
+              . We examined the general chromatin accessibility of BAF45D binding to 
+              <italic>HOX</italic>
+               genes. We found that among the BAF45D-binding 
+              <italic>HOX</italic>
+               genes, the RPM values (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              A) of the 
+              <italic>HOX</italic>
+               gene peaks indicated that the accessible chromatin of the anterior (PG1–3) and trunk/central (PG4/5–9) 
+              <italic>HOX</italic>
+               genes appeared to be different from that of the posterior (PG10–13) 
+              <italic>HOX</italic>
+               clusters. Visualization of BAF45D binding 
+              <italic>HOX</italic>
+               genes further supported that chromatin accessibility of BAF45D-bound anterior and trunk/central, but not posterior (
+              <italic>HOX12–13</italic>
+              ) genes was increased in H9-derived spinal cord NSCs (Fig. 
+              <xref rid="Fig5" ref-type="fig">5</xref>
+              B–L). Further analysis showed that overexpression of GFP-tagged BAF45D, but not GFP, increased HOXC9 expression in the RA-treated P19 cells (Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">S7</xref>
+              ). However, we did not find expression of HOXB13, a gene that control axial progenitor activity in the tail bud
+              <sup>
+                <xref ref-type="bibr" rid="CR32">32</xref>
+              </sup>
+              , in the P19 cells (data not shown). In addition, H9-derived NSCs expressed robust HOXB1 but little or no HOXB13 (Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">S6</xref>
+              , I–M). These results may suggest that BAF45D is involved in the region-specific binding of 
+              <italic>HOX</italic>
+               genes.
+              <fig id="Fig5" position="float">
+                <label>Figure 5</label>
+                <caption xml:lang="en">
+                  <p>
+                    Chromatin accessibility of BAF45D binding anterior and trunk/central 
+                    <italic>HOX</italic>
+                     genes was increased in H9-derived NSCs. (
+                    <bold>A</bold>
+                    ) RPM values of peaks in different samples of 
+                    <italic>HOX</italic>
+                     genes. (
+                    <bold>B–I</bold>
+                    ) Visualization of the custom sequencing data together with the conservation data by UCSC genome browser for the anterior (PG1–3), trunk/central (PG4/5–9) and posterior (PG10–13) clusters of 
+                    <italic>HOXA</italic>
+                     (
+                    <bold>B,C</bold>
+                    ), 
+                    <italic>HOXB</italic>
+                     (
+                    <bold>D,E</bold>
+                    ), 
+                    <italic>HOXC</italic>
+                     (
+                    <bold>F,G</bold>
+                    ) and 
+                    <italic>HOXD</italic>
+                     (
+                    <bold>H,I</bold>
+                    ).
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41598_2023_50939_Fig5_HTML.png" id="MO5"/>
+              </fig>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec8" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par28">
+            In this study we have made some novel findings: BAF45D targets 
+            <italic>TBX6</italic>
+             but not 
+            <italic>OTX2</italic>
+             in spinal cord NSCs derived from H9 cells; the chromatin accessibility of BAF45D-bound 
+            <italic>NES</italic>
+             and 
+            <italic>HOXB1</italic>
+             was increased in human spinal cord NSCs; and the chromatin accessibility of BAF45D-bound anterior and trunk/central but not posterior 
+            <italic>HOX</italic>
+             genes was increased in human spinal cord NSCs.
+          </p>
+          <p id="Par29">
+            The BAF complex plays a crucial role in the regulation of gene expression and neuronal differentiation. Cell-specific BAF function and developmental regulation starts with the combined arrangement of different BAF complexes, such as the neuronal BAF (nBAF) complex, the neural progenitor BAF (npBAF) complex and the embryonic stem cell-specific BAF (esBAF) complex. Therefore, understanding how the subunit of the BAF complex regulates its role and which function each subunit regulates will highlight the in vivo role of different subunits
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ,
+              <xref ref-type="bibr" rid="CR33">33</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par30">
+            Human pluripotent stem cells (hPSCs) treated with Wnt activator (CHIR-99021) and leukaemia inhibitory factor (LIF) in N2B27 medium were induced into NSCs, with the expression of some 
+            <italic>HOX</italic>
+             genes, including 
+            <italic>HOXB1</italic>
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            . Here, we generated NSCs from H9 cells using N2B27 medium supplemented with CHIR-99021, LDN-193189, SB431542, FGF2, FGF8 and DAPT. The H9-derived NSCs are characterised by the expression of NESTIN and HOXC9, indicating a spinal cord characterisation. In addition, BAF45D targets 
+            <italic>TBX6</italic>
+            <sup>
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+            , a neural mesodermal progenitor marker, more strongly in H9-derived NSCs than in H9 cells. Neural mesodermal progenitors (NMPs) are known to be involved in spinal cord development during axial elongation
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            , supporting the idea that BAF45D may promote the induction of human spinal cord NSCs. In addition, chromatin accessibility of BAF45D-bound 
+            <italic>HOXB1</italic>
+             was enriched in H9-derived spinal cord NSCs. H9-derived spinal cord NSCs expressed robust HOXB1 but little or no HOXB13. Given that BAF45D determined spinal cord NSC induction and BAF45D knockdown decreased Hoxb1 expression
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            , these data suggest that BAF45D may differentially target 
+            <italic>HOX</italic>
+             genes and that 
+            <italic>HOXB1</italic>
+             may be a target of BAF45D. Because Hoxb1 determines cell fate and promotes the proliferation of NSCs
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            ,we therefore speculate that BAF45D may contribute to the proliferation of human spinal cord NSCs.
+          </p>
+          <p id="Par31">
+            In the Venn diagram, there is a discrepancy in the total number of peaks between ESC1 (~ 14k peaks) vs ESC2 (~ 2.6k peaks). However, there is also a discrepancy between NSC1 (~ 35k peaks) vs. NSC2 (~ 17k peaks). We speculate that this may be due to the different initial states of the two replicates. As this study mainly focuses on the changes in BAF45D binding to gene profiles between the undifferentiated H9 cells and the differentiated H9-derived NSCs. The discrepancies at both the start and end point may also indicate the similar changes between the ESCs and NSCs. In addition, BAF45D binding is much more enriched in NSCs chromatin compared to ESCs chromatin and there is only a very small fraction of peaks that are enriched in ESCs chromatin. We have reported that BAF45D/DPF2 targets OCT4, a stem cell marker protein, and contributes to the differentiation of H9 cells
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+            </sup>
+            . Since the spinal cord genes are enriched in the NSC samples (Figure 
+            <xref ref-type="supplementary-material" rid="MOESM1">S4</xref>
+            ), the much more enriched BAF45D binding in NSCs may indicate that BAF45D targets more genes, including neural tube development genes.
+          </p>
+          <p id="Par32">
+            Finally, BAF45D-binding 
+            <italic>HOX</italic>
+             genes, were enriched in human spinal cord NSCs. In a published study, activation of 
+            <italic>Hox</italic>
+             genes was found after three days of conditional knockout of Brg1
+            <sup>
+              <xref ref-type="bibr" rid="CR38">38</xref>
+            </sup>
+            . During the formation of the posterior central nervous system (CNS), 
+            <italic>HOX</italic>
+             gene expression was generated within the neuroepithelium of the hindbrain (
+            <italic>HOX1–5</italic>
+            ) and spinal cord cervical (
+            <italic>HOX5–9</italic>
+            ), thoracic (
+            <italic>HOX9–10</italic>
+            ) and lumbosacral (
+            <italic>HOX10–13</italic>
+            ) segments. The spatial variation of 
+            <italic>HOX</italic>
+             gene expression along the rostrocaudal (R/C) axis precisely directs the development of different neural subtypes to discrete axial positions and induces different lineages of neuroepithelial progeny
+            <sup>
+              <xref ref-type="bibr" rid="CR39">39</xref>
+            </sup>
+            . Indeed, a previous publication reported that during hPSC neural differentiation, much more time was required for the expression of lumbosacral 
+            <italic>HOX</italic>
+             genes compared to cervical and thoracic 
+            <italic>HOX</italic>
+             genes
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+            </sup>
+            . This report may provide an explanation for our finding that BAF45D binds more anterior and thoracic/central 
+            <italic>HOX</italic>
+             genes but not posterior 
+            <italic>HOX</italic>
+             genes in H9-derived spinal cord NSCs. According to our CUT&amp;TAG assay data, the visualization results obtained by UCSC genome browser showed that BAF45D binding to 
+            <italic>HOXB1</italic>
+             and 
+            <italic>HOXC9</italic>
+             genes was enriched in the H9-derived NSCs.
+          </p>
+          <p id="Par33">
+            Here BAF45D protein colocalised with HOXC9 protein in most of the NSCs. We hypothesised that HOXC9 may act as a co-regulator for spinal cord neural cell fate decision. Hoxc9 activity is essential for neuron subtype identity at the thoracic level 
+            <sup>
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+            , and is expressed by motor neurons and interneuron progenitors at the thoracic level in vivo 
+            <sup>
+              <xref ref-type="bibr" rid="CR40">40</xref>
+            </sup>
+            . BAF45D is also expressed in spinal cord NSCs and neurons in vivo
+            <sup>
+              <xref ref-type="bibr" rid="CR41">41</xref>
+            </sup>
+            . Therefore, our in vitro data together with the in vivo settings support the hypothesis that BAF45D may cooperate with HOXC9 and regulate thoracic NSC fate decision.
+          </p>
+          <p id="Par34">
+            We also found enriched motifs for 
+            <italic>HOXC9</italic>
+             and 
+            <italic>RFXs</italic>
+             in BAF45D-bound regions. RFX1 belongs to RFX transcription factors that regulate the maintenance of neural stem cells
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+            </sup>
+            . Interestingly, 
+            <italic>RFX2</italic>
+             and 
+            <italic>RFX3</italic>
+             motifs were also found in the top three Homer known motifs for BAF45D. These findings may further support the potential role of BAF45D in human spinal NSC maintenance.
+          </p>
+          <p id="Par35">
+            It is known that CUT&amp;Tag assay provides efficient high resolution sequencing libraries for profiling diverse chromatin features. Mapping of specific chromatin features in cells may help researchers to understand how genes were regulated, such as histone modifications 
+            <sup>
+              <xref ref-type="bibr" rid="CR42">42</xref>
+            </sup>
+            . We demonstrate that BAF45D bound regions are functionally relevant to two histone marks, H3K27ME3 and H3K27AC, which regulate gene repression and activation, respectively. It is currently unclear how the expression profile of BAF45D and 
+            <italic>HOX</italic>
+             genes correlates in vivo. The BAF complex is known to be critical for Polycomb-mediated repression in ESCs during lineage commitment characterised by 
+            <italic>Hox</italic>
+             gene disinhibition
+            <sup>
+              <xref ref-type="bibr" rid="CR38">38</xref>
+              ,
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            . Brg1 is essential for regulating active and repressive chromatin states during mesoderm lineage specification
+            <sup>
+              <xref ref-type="bibr" rid="CR43">43</xref>
+            </sup>
+            . In particular, Brg1 degradation induces derepression of 
+            <italic>Hox</italic>
+             genes along with upregulated genes associated with neural tube development
+            <sup>
+              <xref ref-type="bibr" rid="CR11">11</xref>
+            </sup>
+            . Since BAF45D is a subunit of the polymorphic canonical BRG1-associated factor (cBAF) complex, we speculate that BAF45D may play a role in 
+            <italic>HOX</italic>
+             gene expression in vivo. However, the effect of BAF45D on 
+            <italic>HOX</italic>
+             gene expression in spinal cord NSCs is still unclear and deserves to be investigated in the near future.
+          </p>
+          <p id="Par36">
+            Taken together, our findings suggest that BAF45D may target different 
+            <italic>HOX</italic>
+             genes and contribute to the fate decisions of human spinal cord NSCs.
+          </p>
+        </sec>
+        <sec id="Sec9" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec10">
+            <title>H9 cell culture</title>
+            <p id="Par37">
+              A human embryonic stem cell line, H9 cells (ordered from Guangzhou Guiyi Biotechnology Co. Ltd.), was routinely maintained according to previous protocols
+              <sup>
+                <xref ref-type="bibr" rid="CR15">15</xref>
+                ,
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+              . Briefly, a six-well plate was precoated with Matrigel solution (Corning, 356234). H9 cells were thawed and resuspended in mTesRTM1 medium (Stem Cell Technologies, 85850). The suspended cells were then replated onto Matrigel coated culture plates and cultured at 37 °C in 5% CO
+              <sub>2</sub>
+              . When the H9 cells reached 80% confluence, single cell passaging was performed. For single cell passaging, H9 cells were treated with mTeSRTM1 medium supplemented with 10 μM Y27623 for 1 h and exposed to Accutase (1 mL/well) at 37 °C. The cells were collected in a 15 mL centrifuge tube. After centrifugation at 500 rpm for 5 min, the cells were resuspended in mTesRTM1 medium supplemented with 10 μM Y27623 and seeded into six-well plates coated with Matrigel. The use of H9 cells was approved by the Biomedical Ethics Committee of Anhui Medical University. All experiments were performed according to the relevant guidelines and regulations.
+            </p>
+          </sec>
+          <sec id="Sec11">
+            <title>Induction of spinal cord neural stem cells from H9 cells</title>
+            <p id="Par38">
+              Induction of spinal cord neural stem cells from H9 cells was performed according to a previously described protocol
+              <sup>
+                <xref ref-type="bibr" rid="CR1">1</xref>
+              </sup>
+              . Briefly, H9 cells were passaged in the single cell mode. When the cells reached 70% confluence, the mTeSRTM1 medium was changed to the NSC induction medium (N2B27 medium supplemented with 10 μM DAPT, 4 μM CHIR-99021, 10 μM SB431542, 100 nM LDN-193189, `100 ng/mL FGF2 and 100 ng/mL FGF8). When the cells reached more than 90% confluence, the cells were passaged at a ratio of 1:3. After 10 days of induction, the medium was replaced with NSC maintenance medium (N2B27 medium supplemented with 200 nM Hh-Ag 1.5, 3 μM CHIR-99021 and 12 μM SB-431542). After 5 passages in neural maintenance medium, the medium was changed to NSC medium (N2B27 supplemented with 20 ng/mL EGF and 20 ng/mL FGF2). The derived cells were subjected to the following assays.
+            </p>
+          </sec>
+          <sec id="Sec12">
+            <title>Immunofluorescence (IF) assay</title>
+            <p id="Par39">An IF assay was performed based on our previous method 16. Briefly, undifferentiated H9 cells and NSCs derived from H9 cells were maintained on Matrigel-coated coverslips. Cells were incubated with mouse OCT4 (1:100, Santa Cruz Biotechnology), rabbit anti-PAX6 (1:100, Proteintech), rabbit anti-NESTIN (1:200, Sigma), mouse anti-GFAP (1:500, Proteintech) and goat anti-SOX1 (1:100, Bio-techne). Alexa Fluor 594 anti-rabbit (1:500), Alexa Fluor 488 anti-mouse (1:500) and anti-goat (1:500) antibodies were used as secondary antibodies. Visualisation of IF results was performed using a Leica SP8 confocal microscope.</p>
+          </sec>
+          <sec id="Sec13">
+            <title>Cleavage Under Targets and Tagmentation (CUT&amp;Tag) assay</title>
+            <p id="Par40">
+              The CUT&amp;Tag assay was established according to a previous publication 
+              <sup>
+                <xref ref-type="bibr" rid="CR16">16</xref>
+              </sup>
+              . Briefly, H9 cells and H9-derived spinal cord NSCs were subjected to the CUT&amp;Tag assay as previously described
+              <sup>
+                <xref ref-type="bibr" rid="CR44">44</xref>
+              </sup>
+              . The CUT&amp;Tag assay was performed using anti-BAF45D antibodies. The enzyme pA-Tn5 transposase was used to precisely bind the DNA sequence near the BAF45D protein under antibody control and form factor targeted tagging. The DNA sequence is tagged at both ends with adapters.
+            </p>
+            <p id="Par41">Clustering of samples was performed using a cBot cluster generation system by TruSeq PE Cluster Kit v3-cBot-HS (Illumina). Library samples were sequenced on an Illumina NovaSeq platform (Novogene, Beijing, China) and paired-end reads were generated for 150 bp. FastQC (V0.11.5) was used to perform basic statistics on the quality of the raw reads. The read sequences in FASTQ format were then pre-processed using Trimmomatic software.</p>
+            <p id="Par42">
+              The reference genome index was created using BWA v0.7.12 (Burrows Wheeler Aligner), and clean reads were aligned to the reference genome using BWA mem v0.7.12. All peak calling was performed using MACS2. For peak calling simulations per input read, aligned and deduplicated BAM files were used without additional filtering. A peak annotator was used to identify the nearest TSS of each peak, and the distance distribution between peaks and TSS is shown. In addition, the distribution of peak summits on different functional regions, such as the 5’ UTR, CDS, and 3’UTR, was determined. Peak-related genes were confirmed by Peak Annotator, and then GO enrichment analysis was performed to identify the functional enrichment results. Visualisation of custom sequencing data together with conservation data was obtained using the UCSC Genome Browser (
+              <ext-link ns0:href="https://genome-asia.ucsc.edu/" ext-link-type="uri">https://genome-asia.ucsc.edu/</ext-link>
+              ).
+            </p>
+          </sec>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We thank Dr. Hengguo Zhang for his kind help. We thank the Center for Scientific Research of Anhui Medical University for valuable help in our experiment. We thank the General Experimental Center of the School of Basic Medical Sciences for support.</p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>C.L.: formal analysis, validation, methodology, resources, writing and funding acquisition; X.C.: data curation, investigation, visualization, and writing. L.L.: resources and project administration. C.L.: conceptualization, data curation, formal analysis, validation, investigation, visualization, methodology, supervision, administration, writing and funding acquisition. Z.Y.: validation, investigation, supervision and administration. All authors read and approved the final manuscript.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>This work was supported by the Natural Science Foundation of Anhui Province [2008085MH251]; the Key Research and Development Project of Anhui Province [202004J07020037]; the Research Project of the Anhui Provincial Institute of Translational Medicine [2021zhyx-C19].</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>
+            The CUT&amp;Tag data had been uploaded to GEO database with a linkage 
+            <ext-link ns0:href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190877" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190877</ext-link>
+            , which can be accessed by others. The image data named IF data upload were uploaded as a related ZIP file if applicable.
+          </p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par43">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kumamaru</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Generation and post-injury integration of human spinal cord neural stem cells</article-title>
+                <source>Nat. Methods</source>
+                <year>2018</year>
+                <volume>15</volume>
+                <fpage>723</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhsVGrsLjJ</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41592-018-0074-3</pub-id>
+                <pub-id pub-id-type="pmid">30082899</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Mazzoni</surname>
+                    <given-names>EO</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Saltatory remodeling of Hox chromatin in response to rostrocaudal patterning signals</article-title>
+                <source>Nat. Neurosci.</source>
+                <year>2013</year>
+                <volume>16</volume>
+                <fpage>1191</fpage>
+                <lpage>1198</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXht1yltb%2FL</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nn.3490</pub-id>
+                <pub-id pub-id-type="pmid">23955559</pub-id>
+                <pub-id pub-id-type="pmcid">3799941</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Buenrostro</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>Giresi</surname>
+                    <given-names>PG</given-names>
+                  </name>
+                  <name>
+                    <surname>Zaba</surname>
+                    <given-names>LC</given-names>
+                  </name>
+                  <name>
+                    <surname>Chang</surname>
+                    <given-names>HY</given-names>
+                  </name>
+                  <name>
+                    <surname>Greenleaf</surname>
+                    <given-names>WJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position</article-title>
+                <source>Nat. Methods</source>
+                <year>2013</year>
+                <volume>10</volume>
+                <fpage>1213</fpage>
+                <lpage>1218</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhsFOiu7jO</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nmeth.2688</pub-id>
+                <pub-id pub-id-type="pmid">24097267</pub-id>
+                <pub-id pub-id-type="pmcid">3959825</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lippmann</surname>
+                    <given-names>ES</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Deterministic HOX patterning in human pluripotent stem cell-derived neuroectoderm</article-title>
+                <source>Stem Cell Rep.</source>
+                <year>2015</year>
+                <volume>4</volume>
+                <fpage>632</fpage>
+                <lpage>644</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXlvVSqtLo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.stemcr.2015.02.018</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Holland</surname>
+                    <given-names>PW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Evolution of homeobox genes</article-title>
+                <source>Wiley Interdiscip. Rev. Dev. Biol.</source>
+                <year>2013</year>
+                <volume>2</volume>
+                <fpage>31</fpage>
+                <lpage>45</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXisV2h</pub-id>
+                <pub-id pub-id-type="doi">10.1002/wdev.78</pub-id>
+                <pub-id pub-id-type="pmid">23799629</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013eipq.book...23H</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Needham</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Metzis</surname>
+                    <given-names>V</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Heads or tails: Making the spinal cord</article-title>
+                <source>Dev. Biol.</source>
+                <year>2022</year>
+                <volume>485</volume>
+                <fpage>80</fpage>
+                <lpage>92</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XntlWmsrc%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ydbio.2022.03.002</pub-id>
+                <pub-id pub-id-type="pmid">35257719</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Metzis</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Nervous system regionalization entails axial allocation before neural differentiation</article-title>
+                <source>Cell</source>
+                <year>2018</year>
+                <volume>175</volume>
+                <fpage>1105</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhvFKjtbbO</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.cell.2018.09.040</pub-id>
+                <pub-id pub-id-type="pmid">30343898</pub-id>
+                <pub-id pub-id-type="pmcid">6218657</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bulajic</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Differential abilities to engage inaccessible chromatin diversify vertebrate Hox binding patterns</article-title>
+                <source>Development</source>
+                <year>2020</year>
+                <pub-id pub-id-type="doi">10.1242/dev.194761</pub-id>
+                <pub-id pub-id-type="pmid">33028607</pub-id>
+                <pub-id pub-id-type="pmcid">7710020</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hota</surname>
+                    <given-names>SK</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Dynamic BAF chromatin remodeling complex subunit inclusion promotes temporally distinct gene expression programs in cardiogenesis</article-title>
+                <source>Development</source>
+                <year>2019</year>
+                <pub-id pub-id-type="doi">10.1242/dev.174086</pub-id>
+                <pub-id pub-id-type="pmid">30814119</pub-id>
+                <pub-id pub-id-type="pmcid">6803373</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alfert</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Smarcb1 loss results in a deregulation of esBAF binding and impacts the expression of neurodevelopmental genes</article-title>
+                <source>Cells</source>
+                <year>2022</year>
+                <pub-id pub-id-type="doi">10.3390/cells11081354</pub-id>
+                <pub-id pub-id-type="pmid">35456033</pub-id>
+                <pub-id pub-id-type="pmcid">9027123</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Weber</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">mSWI/SNF promotes Polycomb repression both directly and through genome-wide redistribution</article-title>
+                <source>Nat. Struct. Mol. Biol.</source>
+                <year>2021</year>
+                <volume>28</volume>
+                <fpage>501</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3MXhtlSqtbfP</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41594-021-00604-7</pub-id>
+                <pub-id pub-id-type="pmid">34117481</pub-id>
+                <pub-id pub-id-type="pmcid">8504423</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>He</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Structure of nucleosome-bound human BAF complex</article-title>
+                <source>Science</source>
+                <year>2020</year>
+                <volume>367</volume>
+                <fpage>875</fpage>
+                <lpage>881</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3cXjs1Kgu7o%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.aaz9761</pub-id>
+                <pub-id pub-id-type="pmid">32001526</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2020Sci...367..875H</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Varga</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kube</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Luck</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Schick</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The BAF chromatin remodeling complexes: Structure, function, and synthetic lethalities</article-title>
+                <source>Biochem. Soc. Trans.</source>
+                <year>2021</year>
+                <volume>49</volume>
+                <fpage>1489</fpage>
+                <lpage>1503</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3MXitVKru7vJ</pub-id>
+                <pub-id pub-id-type="doi">10.1042/BST20190960</pub-id>
+                <pub-id pub-id-type="pmid">34431497</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Son</surname>
+                    <given-names>EY</given-names>
+                  </name>
+                  <name>
+                    <surname>Crabtree</surname>
+                    <given-names>GR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The role of BAF (mSWI/SNF) complexes in mammalian neural development</article-title>
+                <source>Am. J. Med. Genet. Part C-Semin. Med. Genet.</source>
+                <year>2014</year>
+                <volume>166</volume>
+                <fpage>333</fpage>
+                <lpage>349</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhsFyju77J</pub-id>
+                <pub-id pub-id-type="doi">10.1002/ajmg.c.31416</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">DPF2 regulates OCT4 protein level and nuclear distribution</article-title>
+                <source>Biochim. Biophys. Acta-Mol. Cell Res.</source>
+                <year>1853</year>
+                <volume>3279–3293</volume>
+                <fpage>2015</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXhsFKhtrvE</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.bbamcr.2015.09.029</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>XY</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">BAF45D regulates spinal cord neural stem/progenitor cell fate through the SMAD-PAX6 axis</article-title>
+                <source>Genes Dis.</source>
+                <year>2023</year>
+                <volume>10</volume>
+                <fpage>366</fpage>
+                <lpage>369</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XitVOmt7%2FN</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.gendis.2022.05.007</pub-id>
+                <pub-id pub-id-type="pmid">37223506</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shu</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Single-cell RNA sequencing reveals Nestin(+) active neural stem cells outside the central canal after spinal cord injury</article-title>
+                <source>Sci. China Life Sci.</source>
+                <year>2022</year>
+                <volume>65</volume>
+                <fpage>295</fpage>
+                <lpage>308</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3MXhsFSgu7rK</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s11427-020-1930-0</pub-id>
+                <pub-id pub-id-type="pmid">34061300</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>CG</given-names>
+                  </name>
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Hugnot</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The spinal ependymal zone as a source of endogenous repair cells across vertebrates</article-title>
+                <source>Prog. Neurobiol.</source>
+                <year>2018</year>
+                <volume>170</volume>
+                <fpage>67</fpage>
+                <lpage>80</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXot1CmtL0%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pneurobio.2018.04.002</pub-id>
+                <pub-id pub-id-type="pmid">29649499</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sweeney</surname>
+                    <given-names>LB</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Origin and segmental diversity of spinal inhibitory interneurons</article-title>
+                <source>Neuron</source>
+                <year>2018</year>
+                <volume>97</volume>
+                <fpage>341</fpage>
+                <lpage>355e343</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXjvFKhsw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.neuron.2017.12.029</pub-id>
+                <pub-id pub-id-type="pmid">29307712</pub-id>
+                <pub-id pub-id-type="pmcid">5880537</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Coughlan</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">A hox code defines spinocerebellar neuron subtype regionalization</article-title>
+                <source>Cell Rep.</source>
+                <year>2019</year>
+                <volume>29</volume>
+                <fpage>2408</fpage>
+                <lpage>2421</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXit1amsb3N</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.celrep.2019.10.048</pub-id>
+                <pub-id pub-id-type="pmid">31747609</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Miller</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Dasen</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Establishing and maintaining Hox profiles during spinal cord development</article-title>
+                <source>Semin. Cell Dev. Biol.</source>
+                <year>2024</year>
+                <volume>152–153</volume>
+                <fpage>44</fpage>
+                <lpage>57</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB3sXnsFWlsL4%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.semcdb.2023.03.014</pub-id>
+                <pub-id pub-id-type="pmid">37029058</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hsu</surname>
+                    <given-names>YC</given-names>
+                  </name>
+                  <name>
+                    <surname>Kao</surname>
+                    <given-names>CY</given-names>
+                  </name>
+                  <name>
+                    <surname>Chung</surname>
+                    <given-names>YF</given-names>
+                  </name>
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                  <name>
+                    <surname>Chiu</surname>
+                    <given-names>IM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Ciliogenic RFX transcription factors regulate FGF1 gene promoter</article-title>
+                <source>J. Cell Biochem.</source>
+                <year>2012</year>
+                <volume>113</volume>
+                <fpage>2511</fpage>
+                <lpage>2522</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XmslGrtrs%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/jcb.24127</pub-id>
+                <pub-id pub-id-type="pmid">22415835</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Steventon</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Arias</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Evo-engineering and the cellular and molecular origins of the vertebrate spinal cord</article-title>
+                <source>Dev. Biol.</source>
+                <year>2017</year>
+                <volume>432</volume>
+                <fpage>3</fpage>
+                <lpage>13</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXis1Wrtb8%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ydbio.2017.01.021</pub-id>
+                <pub-id pub-id-type="pmid">28192080</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Javali</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Co-expression of Tbx6 and Sox2 identifies a novel transient neuromesoderm progenitor cell state</article-title>
+                <source>Development</source>
+                <year>2017</year>
+                <volume>144</volume>
+                <fpage>4522</fpage>
+                <lpage>4529</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXhsFKntrzO</pub-id>
+                <pub-id pub-id-type="doi">10.1242/dev.153262</pub-id>
+                <pub-id pub-id-type="pmid">29084802</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shaker</surname>
+                    <given-names>MR</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>JH</given-names>
+                  </name>
+                  <name>
+                    <surname>Sun</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Embryonal neuromesodermal progenitors for caudal central nervous system and tissue development</article-title>
+                <source>J. Korean Neurosurg. Soc.</source>
+                <year>2021</year>
+                <volume>64</volume>
+                <fpage>359</fpage>
+                <lpage>366</lpage>
+                <pub-id pub-id-type="doi">10.3340/jkns.2020.0359</pub-id>
+                <pub-id pub-id-type="pmid">33896149</pub-id>
+                <pub-id pub-id-type="pmcid">8128519</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ziller</surname>
+                    <given-names>MJ</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Dissecting neural differentiation regulatory networks through epigenetic footprinting</article-title>
+                <source>Nature</source>
+                <year>2015</year>
+                <volume>518</volume>
+                <fpage>355</fpage>
+                <lpage>359</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXitFKltbzI</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature13990</pub-id>
+                <pub-id pub-id-type="pmid">25533951</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015Natur.518..355Z</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Agirman</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Broix</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Nguyen</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cerebral cortex development: An outside-in perspective</article-title>
+                <source>FEBS Lett.</source>
+                <year>2017</year>
+                <volume>591</volume>
+                <fpage>3978</fpage>
+                <lpage>3992</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhvFOns7vJ</pub-id>
+                <pub-id pub-id-type="doi">10.1002/1873-3468.12924</pub-id>
+                <pub-id pub-id-type="pmid">29194577</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kriegstein</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Alvarez-Buylla</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The glial nature of embryonic and adult neural stem cells</article-title>
+                <source>Annu. Rev. Neurosci.</source>
+                <year>2009</year>
+                <volume>32</volume>
+                <fpage>149</fpage>
+                <lpage>184</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXpsV2nurk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1146/annurev.neuro.051508.135600</pub-id>
+                <pub-id pub-id-type="pmid">19555289</pub-id>
+                <pub-id pub-id-type="pmcid">3086722</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Winokurow</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Schumacher</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A role for polycystin-1 and polycystin-2 in neural progenitor cell differentiation</article-title>
+                <source>Cell Mol. Life Sci.</source>
+                <year>2019</year>
+                <volume>76</volume>
+                <fpage>2851</fpage>
+                <lpage>2869</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXms1Grsb8%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s00018-019-03072-x</pub-id>
+                <pub-id pub-id-type="pmid">30895336</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Deng</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Spatial-CUT&amp;Tag: Spatially resolved chromatin modification profiling at the cellular level</article-title>
+                <source>Science</source>
+                <year>2022</year>
+                <volume>375</volume>
+                <fpage>681</fpage>
+                <lpage>686</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BB38XjvFKkt78%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.abg7216</pub-id>
+                <pub-id pub-id-type="pmid">35143307</pub-id>
+                <pub-id pub-id-type="pmcid">7612972</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2022Sci...375..681D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Deschamps</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Duboule</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Embryonic timing, axial stem cells, chromatin dynamics, and the Hox clock</article-title>
+                <source>Genes Dev.</source>
+                <year>2017</year>
+                <volume>31</volume>
+                <fpage>1406</fpage>
+                <lpage>1416</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXhsFequ7fL</pub-id>
+                <pub-id pub-id-type="doi">10.1101/gad.303123.117</pub-id>
+                <pub-id pub-id-type="pmid">28860158</pub-id>
+                <pub-id pub-id-type="pmcid">5588924</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Aires</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Tail bud progenitor activity relies on a network comprising Gdf11, Lin28, and Hox13 genes</article-title>
+                <source>Dev. Cell</source>
+                <year>2019</year>
+                <volume>48</volume>
+                <fpage>383</fpage>
+                <lpage>395e388</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhsVartL8%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.devcel.2018.12.004</pub-id>
+                <pub-id pub-id-type="pmid">30661984</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alfert</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Moreno</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Kerl</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The BAF complex in development and disease</article-title>
+                <source>Epigenet. Chromatin</source>
+                <year>2019</year>
+                <volume>12</volume>
+                <fpage>19</fpage>
+                <pub-id pub-id-type="doi">10.1186/s13072-019-0264-y</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>BC</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Global transcriptional analyses of the Wnt-induced development of neural stem cells from human pluripotent stem cells</article-title>
+                <source>Int. J. Mol. Sci.</source>
+                <year>2021</year>
+                <pub-id pub-id-type="doi">10.3390/ijms22147473</pub-id>
+                <pub-id pub-id-type="pmid">35008895</pub-id>
+                <pub-id pub-id-type="pmcid">8745296</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Edri</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Hayward</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Jawaid</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Martinez Arias</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Neuro-mesodermal progenitors (NMPs): A comparative study between pluripotent stem cells and embryo-derived populations</article-title>
+                <source>Development</source>
+                <year>2019</year>
+                <pub-id pub-id-type="doi">10.1242/dev.180190</pub-id>
+                <pub-id pub-id-type="pmid">31152001</pub-id>
+                <pub-id pub-id-type="pmcid">6602346</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wilson</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>Olivera-Martinez</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Storey</surname>
+                    <given-names>KG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Stem cells, signals and vertebrate body axis extension</article-title>
+                <source>Development</source>
+                <year>2009</year>
+                <volume>136</volume>
+                <fpage>1591</fpage>
+                <lpage>1604</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXnslSltL0%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1242/dev.021246</pub-id>
+                <pub-id pub-id-type="pmid">19395637</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gouti</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Gavalas</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hoxb1 controls cell fate specification and proliferative capacity of neural stem and progenitor cells</article-title>
+                <source>Stem Cells</source>
+                <year>2008</year>
+                <volume>26</volume>
+                <fpage>1985</fpage>
+                <lpage>1997</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1cXhtVKmt7zN</pub-id>
+                <pub-id pub-id-type="doi">10.1634/stemcells.2008-0182</pub-id>
+                <pub-id pub-id-type="pmid">18499896</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ho</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">esBAF facilitates pluripotency by conditioning the genome for LIF/STAT3 signalling and by regulating polycomb function</article-title>
+                <source>Nat. Cell Biol.</source>
+                <year>2011</year>
+                <volume>13</volume>
+                <fpage>903</fpage>
+                <lpage>913</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXpsFKnsbg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ncb2285</pub-id>
+                <pub-id pub-id-type="pmid">21785422</pub-id>
+                <pub-id pub-id-type="pmcid">3155811</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Philippidou</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Dasen</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Hox genes: Choreographers in neural development</article-title>
+                <source>Archit. Circuit Organ. Neuron</source>
+                <year>2013</year>
+                <volume>80</volume>
+                <fpage>12</fpage>
+                <lpage>34</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhsFGqsbvM</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.neuron.2013.09.020</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dasen</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <name>
+                    <surname>Liu</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                  <name>
+                    <surname>Jessell</surname>
+                    <given-names>TM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Motor neuron columnar fate imposed by sequential phases of Hox-c activity</article-title>
+                <source>Nature</source>
+                <year>2003</year>
+                <volume>425</volume>
+                <fpage>926</fpage>
+                <lpage>933</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3sXosVOht78%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature02051</pub-id>
+                <pub-id pub-id-type="pmid">14586461</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2003Natur.425..926D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">BAF45D downregulation in spinal cord ependymal cells following spinal cord injury in adult rats and its potential role in the development of neuronal lesions</article-title>
+                <source>Front. Neurosci.</source>
+                <year>2019</year>
+                <volume>13</volume>
+                <fpage>1151</fpage>
+                <pub-id pub-id-type="doi">10.3389/fnins.2019.01151</pub-id>
+                <pub-id pub-id-type="pmid">31736692</pub-id>
+                <pub-id pub-id-type="pmcid">6828649</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kaya-Okur</surname>
+                    <given-names>HS</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">CUT&amp;Tag for efficient epigenomic profiling of small samples and single cells</article-title>
+                <source>Nat. Commun.</source>
+                <year>2019</year>
+                <volume>10</volume>
+                <fpage>1930</fpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXovVKrtrk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41467-019-09982-5</pub-id>
+                <pub-id pub-id-type="pmid">31036827</pub-id>
+                <pub-id pub-id-type="pmcid">6488672</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019NatCo..10.1930K</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Alexander</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Brg1 modulates enhancer activation in mesoderm lineage commitment</article-title>
+                <source>Development</source>
+                <year>2015</year>
+                <volume>142</volume>
+                <fpage>1418</fpage>
+                <lpage>1430</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXovFSis7c%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1242/dev.109496</pub-id>
+                <pub-id pub-id-type="pmid">25813539</pub-id>
+                <pub-id pub-id-type="pmcid">4392595</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kaya-Okur</surname>
+                    <given-names>HS</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">CUT&amp;Tag for efficient epigenomic profiling of small samples and single cells</article-title>
+                <source>Nat. Commun.</source>
+                <year>2019</year>
+                <pub-id pub-id-type="doi">10.1038/S41467-019-09982-5</pub-id>
+                <pub-id pub-id-type="pmid">31036827</pub-id>
+                <pub-id pub-id-type="pmcid">6488672</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec14">
+              <title>Supplementary Information</title>
+              <p id="Par44">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary Information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41598_2023_50939_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary Information.</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <glossary>
+          <title>Abbreviations</title>
+          <def-list>
+            <def-item>
+              <term>NSC</term>
+              <def>
+                <p id="Par2">Neural stem cells</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>BAF</term>
+              <def>
+                <p id="Par3">BRG1/BRM-associated factor</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>PG</term>
+              <def>
+                <p id="Par4">Paralogous groups</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>PRC</term>
+              <def>
+                <p id="Par5">Polycomb repressive complexes</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>ARP</term>
+              <def>
+                <p id="Par6">Actin-related protein</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>CUT&amp;Tag</term>
+              <def>
+                <p id="Par7">Cleavage Under Targets and Tagmentation</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>esBAF</term>
+              <def>
+                <p id="Par8">Embryonic stem cell-specific BAF complex</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>npBAF</term>
+              <def>
+                <p id="Par9">Neural progenitor BAF complex</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>nBAF</term>
+              <def>
+                <p id="Par10">Neuronal BAF complex</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>NMP</term>
+              <def>
+                <p id="Par11">Neural mesodermal progenitors</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>RFX</term>
+              <def>
+                <p id="Par12">Regulatory factor X</p>
+              </def>
+            </def-item>
+          </def-list>
+        </glossary>
+        <notes notes-type="ESMHint">
+          <title>Supplementary Information</title>
+          <p>
+            The online version contains supplementary material available at 
+            <ext-link ns0:href="10.1038/s41598-023-50939-y" ext-link-type="doi">https://doi.org/10.1038/s41598-023-50939-y</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Publisher's note</title>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

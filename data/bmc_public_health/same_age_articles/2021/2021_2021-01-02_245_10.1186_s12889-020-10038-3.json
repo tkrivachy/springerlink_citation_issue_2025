@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.657755",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10038-3",
+    "title": "Comparison of inequity in health-related quality of life among unemployed and employed individuals in China",
+    "article_number": "52",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yaxin Zhao",
+      "Zhongliang Zhou",
+      "Xiaojing Fan",
+      "Rashed Nawaz",
+      "Dantong Zhao",
+      "Tiange Xu",
+      "Min Su",
+      "Dan Cao",
+      "Chi Shen",
+      "Sha Lai"
+    ]
+  },
+  "article_index": 245,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:45:26.703683"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:45:28.261421"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:45:29.514555"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:19:22.227002"
+    },
+    "last_updated": "2025-10-03T21:19:22.227097"
+  }
+}

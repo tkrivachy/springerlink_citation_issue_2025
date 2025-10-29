@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.837647",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49565-5",
+    "title": "miR-373 promotes invasion and metastasis of colorectal cancer cells via activating ERK/MAPK pathway",
+    "article_number": "124",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qian Chen",
+      "Yunfeng Li",
+      "Tailiang Lu",
+      "Jihui Luo",
+      "Li Yang",
+      "Zheng Zhou",
+      "Zeyu Tian",
+      "Siwen Tan",
+      "Qi Liu"
+    ]
+  },
+  "article_index": 106,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T15:56:29.103435"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:56:30.617181"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:56:31.887521"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T22:10:17.569986"
+    },
+    "last_updated": "2025-10-03T22:10:17.570187"
+  }
+}

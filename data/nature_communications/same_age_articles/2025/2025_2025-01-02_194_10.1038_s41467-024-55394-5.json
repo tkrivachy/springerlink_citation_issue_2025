@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.538820",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55394-5",
+    "title": "Single-cell data reveal heterogeneity of investment in ribosomes across a bacterial population",
+    "article_number": "285",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Antrea Pavlou",
+      "Eugenio Cinquemani",
+      "Corinne Pinel",
+      "Nils Giordano",
+      "Van Melle-Gateau Mathilde",
+      "Irina Mihalcescu",
+      "Johannes Geiselmann",
+      "Hidde de Jong"
+    ]
+  },
+  "article_index": 194,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:47:34.590479"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:47:36.168653"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:47:37.319710"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:30:14.891394"
+    },
+    "last_updated": "2025-10-03T23:30:14.891470"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.195272",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20257-2",
+    "title": "Two-dimensional ferroelectric channel transistors integrating ultra-fast memory and neural computing",
+    "article_number": "53",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shuiyuan Wang",
+      "Lan Liu",
+      "Lurong Gan",
+      "Huawei Chen",
+      "Xiang Hou",
+      "Yi Ding",
+      "Shunli Ma",
+      "David Wei Zhang",
+      "Peng Zhou"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 237,
+      "retrieved_at": "2025-10-03T18:31:28.238735"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 270,
+      "retrieved_at": "2025-10-03T18:31:29.810709"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 221,
+      "retrieved_at": "2025-10-03T18:31:31.343912"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 280,
+      "retrieved_at": "2025-10-03T23:04:32.030531"
+    },
+    "last_updated": "2025-10-03T23:04:32.030719"
+  }
+}

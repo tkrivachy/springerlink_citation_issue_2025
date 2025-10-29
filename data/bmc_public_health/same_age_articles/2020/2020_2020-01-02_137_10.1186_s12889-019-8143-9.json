@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.686278",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8143-9",
+    "title": "Home-grown school feeding: assessment of a pilot program in Nepal",
+    "article_number": "28",
+    "publication_date": "2020-01-08",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Rachana Manandhar Shrestha",
+      "Pepijn Schreinemachers",
+      "Mamta Gurung Nyangmi",
+      "Manoj Sah",
+      "Judy Phuong",
+      "Shraddha Manandhar",
+      "Ray-Yu Yang"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:40:21.459321"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:40:22.984680"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T13:40:24.341032"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T21:17:31.928709"
+    },
+    "last_updated": "2025-10-03T21:17:31.928796"
+  }
+}

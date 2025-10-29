@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.307932",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56880-3",
+    "title": "Maternal high fat diet consumption reduces liver alpha7 nicotinic cholinergic receptor expression and impairs insulin signalling in the offspring",
+    "article_number": "48",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "S. O. Costa",
+      "C. M. Souza",
+      "P. G. Lanza",
+      "J. O. Sartori",
+      "L. M. Ignacio-Souza",
+      "T. Candreva",
+      "H. G. Rodrigues",
+      "A. S. Torsoni",
+      "M. Milanski",
+      "M. A. Torsoni"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:26:41.744099"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:26:43.264369"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:26:44.414533"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:33:59.019017"
+    },
+    "last_updated": "2025-10-03T21:33:59.019064"
+  }
+}

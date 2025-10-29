@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.884752",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13704-2",
+    "title": "Thin-film composite membrane breaking the trade-off between conductivity and selectivity for a flow battery",
+    "article_number": "13",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qing Dai",
+      "Zhiqiang Liu",
+      "Ling Huang",
+      "Chao Wang",
+      "Yuyue Zhao",
+      "Qiang Fu",
+      "Anmin Zheng",
+      "Huamin Zhang",
+      "Xianfeng Li"
+    ]
+  },
+  "article_index": 70,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 173,
+      "retrieved_at": "2025-10-03T18:14:17.500522"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 180,
+      "retrieved_at": "2025-10-03T18:14:19.087254"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 155,
+      "retrieved_at": "2025-10-03T18:14:20.673928"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 212,
+      "retrieved_at": "2025-10-03T22:58:29.193473"
+    },
+    "last_updated": "2025-10-03T22:58:29.193662"
+  }
+}

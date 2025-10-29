@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.674301",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8182-2",
+    "title": "Relationship between sleep and obesity among U.S. and South Korean college students",
+    "article_number": "96",
+    "publication_date": "2020-01-22",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jaesin Sa",
+      "Siyoung Choe",
+      "Beom-young Cho",
+      "Jean-Philippe Chaput",
+      "Gyurin Kim",
+      "Chae-Hee Park",
+      "Joon Chung",
+      "Yoojin Choi",
+      "Beatrice Nelson",
+      "Yongkyu Kim"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T13:35:12.143606"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T13:35:13.679127"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T13:35:14.984912"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T21:15:40.874600"
+    },
+    "last_updated": "2025-10-03T21:15:40.874790"
+  }
+}

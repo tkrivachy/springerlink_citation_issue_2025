@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.224047",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79779-w",
+    "title": "Anti-tumour activity of deer growing antlers and its potential applications in the treatment of malignant gliomas",
+    "article_number": "42",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Louis Chonco",
+      "Tomás Landete-Castillejos",
+      "Gemma Serrano-Heras",
+      "Martina Pérez Serrano",
+      "Francisco Javier Pérez-Barbería",
+      "Carlos González-Armesto",
+      "Andrés García",
+      "Carlos de Cabo",
+      "Jose Manuel Lorenzo",
+      "Chunyi Li",
+      "Tomás Segura"
+    ]
+  },
+  "article_index": 134,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:53:53.225308"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T14:53:54.806386"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:53:55.996474"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T21:44:53.788220"
+    },
+    "last_updated": "2025-10-03T21:44:53.788309"
+  }
+}

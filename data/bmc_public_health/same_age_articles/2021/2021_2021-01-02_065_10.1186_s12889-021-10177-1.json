@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.635751",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10177-1",
+    "title": "Activity in nature mediates a park prescription intervention’s effects on physical activity, park use and quality of life: a mixed-methods process evaluation",
+    "article_number": "204",
+    "publication_date": "2021-01-22",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Nicholas Petrunoff",
+      "Jiali Yao",
+      "Angelia Sia",
+      "Alwyn Ng",
+      "Anbumalar Ramiah",
+      "Michael Wong",
+      "Jane Han",
+      "Bee Choo Tai",
+      "Léonie Uijtdewilligen",
+      "Falk Müller-Riemenschneider"
+    ]
+  },
+  "article_index": 65,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:43:18.354185"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:43:19.858160"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:43:21.118414"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:18:36.044717"
+    },
+    "last_updated": "2025-10-03T21:18:36.044899"
+  }
+}

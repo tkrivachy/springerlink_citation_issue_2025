@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.883343",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13900-0",
+    "title": "Publisher Correction: ",
+    "article_number": "203",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Renan V. H. de Carvalho",
+      "Djalma S. Lima-Junior",
+      "Marcus Vinícius G. da Silva",
+      "Marisa Dilucca",
+      "Tamara S. Rodrigues",
+      "Catarina V. Horta",
+      "Alexandre L. N. Silva",
+      "Patrick F. da Silva",
+      "Fabiani G. Frantz",
+      "Lucas B. Lorenzon",
+      "Marcos Michel Souza",
+      "Fausto Almeida",
+      "Lilian M. Cantanhêde",
+      "Ricardo de Godoi M. Ferreira",
+      "Angela K. Cruz",
+      "Dario S. Zamboni"
+    ]
+  },
+  "article_index": 58,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:15:04.761233"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:15:06.310373"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:15:07.618925"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T22:58:47.767803"
+    },
+    "last_updated": "2025-10-03T22:58:47.767892"
+  }
+}

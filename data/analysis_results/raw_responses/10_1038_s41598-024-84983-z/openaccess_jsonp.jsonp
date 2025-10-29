@@ -1,0 +1,227 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-024-84983-z",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-024-84983-z",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-024-84983-z"
+        }
+      ],
+      "title": "Post-myocardial infarction ventricular septal defects: incidence and treatment trends during and after the COVID-19 pandemic",
+      "creators": [
+        {
+          "creator": "Nasso, Giuseppe"
+        },
+        {
+          "creator": "Condello, Ignazio"
+        },
+        {
+          "creator": "Vignaroli, Walter"
+        },
+        {
+          "creator": "Antonazzo, Andrea"
+        },
+        {
+          "creator": "Bartolomucci, Francesco"
+        },
+        {
+          "creator": "Pala, Barbara"
+        },
+        {
+          "creator": "Larosa, Claudio"
+        },
+        {
+          "creator": "Pingitore, Annachiara"
+        },
+        {
+          "creator": "Amodeo, Vincenzo"
+        },
+        {
+          "creator": "Montemurro, Vincenzo"
+        },
+        {
+          "creator": "D’Abramo, Mizar"
+        },
+        {
+          "creator": "Ceravolo, Roberto"
+        },
+        {
+          "creator": "Donato, Domenica"
+        },
+        {
+          "creator": "Fratto, Pasquale"
+        },
+        {
+          "creator": "Rosis, Maria Grazia"
+        },
+        {
+          "creator": "Diaferia, Giuseppe"
+        },
+        {
+          "creator": "Torraco, Rita"
+        },
+        {
+          "creator": "Contegiacomo, Gaetano"
+        },
+        {
+          "creator": "Lembo, Guido"
+        },
+        {
+          "creator": "Brigiani, Mario Siro"
+        },
+        {
+          "creator": "Santarpino, Giuseppe"
+        },
+        {
+          "creator": "Speziale, Giuseppe"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "doi": "10.1038/s41598-024-84983-z",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2025-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "15",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "8",
+      "journalId": "41598",
+      "openAccess": "true",
+      "onlineDate": "2025-01-02",
+      "coverDate": "2025-12",
+      "copyright": "©2025 The Author(s)",
+      "abstract": {
+        "h1": "Abstract",
+        "p": "Ventricular septal defect (VSD) is a serious complication of myocardial infarction (MI), with its global incidence significantly reduced in recent years due to advances in coronary reperfusion techniques. However, during the COVID-19 pandemic, there was an unexpected rise in the incidence of post-MI VSD, likely driven by delays in seeking treatment. This study retrospectively analyzed 10 cases of post-MI VSD treated at our hospitals from March 2018 to August 2023, comparing incidence rates across pre-pandemic, pandemic, and post-pandemic periods. The findings revealed a notable increase in VSD cases during the pandemic, with six cases occurring in two years, compared to only two cases in each of the pre-pandemic and post-pandemic periods. Despite these fluctuations, surgical intervention remained a crucial and effective treatment, with 60% of patients surviving the 30-day follow-up. The study underscores the impact of delayed treatment on VSD incidence during the pandemic and highlights the critical need for timely medical intervention to manage severe MI complications effectively."
+      },
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "COVID-19 pandemic",
+          "count": "1"
+        },
+        {
+          "value": "Delayed treatment",
+          "count": "1"
+        },
+        {
+          "value": "Myocardial infarction",
+          "count": "1"
+        },
+        {
+          "value": "Post-MI complications",
+          "count": "1"
+        },
+        {
+          "value": "Surgical correction",
+          "count": "1"
+        },
+        {
+          "value": "Ventricular Setpal defect",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2025",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Italy",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

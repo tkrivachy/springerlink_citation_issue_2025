@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.388851",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83115-x",
+    "title": "Whole exome sequencing identifies ",
+    "article_number": "367",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Amal Bouzid",
+      "Malek Belcadhi",
+      "Amal Souissi",
+      "Meryam Chelly",
+      "Fakher Frikha",
+      "Hela Gargouri",
+      "Crystel Bonnet",
+      "Fida Jebali",
+      "Salma Loukil",
+      "Christine Petit",
+      "Saber Masmoudi",
+      "Rifat Hamoudi",
+      "Mariem Ben Said"
+    ]
+  },
+  "article_index": 375,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:31.652189"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:33.172999"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:34.349517"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:27:54.128802"
+    },
+    "last_updated": "2025-10-03T22:27:54.128993"
+  }
+}

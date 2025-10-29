@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-020-80345-7</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41598</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+          <journal-title-group>
+            <journal-title>Scientific Reports</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2045-2322</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41598-020-80345-7</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">
+              Assessing 
+              <italic>ZNF154</italic>
+               methylation in patient plasma as a multicancer marker in liquid biopsies from colon, liver, ovarian and pancreatic cancer patients
+            </article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <name name-style="western">
+                <surname>Miller</surname>
+                <given-names>Brendan F.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Petrykowska</surname>
+                <given-names>Hanna M.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <name name-style="western">
+                <surname>Elnitski</surname>
+                <given-names>Laura</given-names>
+              </name>
+              <address>
+                <email>elnitski@mail.nih.gov</email>
+              </address>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>8</day>
+            <month>1</month>
+            <year>2021</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2021</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue>1</issue>
+          <elocation-id>221</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41598-020-80345-7</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41598-020-80345-7.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2021</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              One epigenetic hallmark of many cancer types is differential DNA methylation occurring at multiple loci compared to normal tissue. Detection and assessment of the methylation state at a specific locus could be an effective cancer diagnostic. We assessed the effectiveness of hypermethylation at the CpG island of 
+              <italic>ZNF154</italic>
+              , a previously reported multi-cancer specific signature for use in a blood-based cancer detection assay. To predict its effectiveness, we compared methylation levels of 3698 primary tumors encompassing 11 solid cancers, 724 controls, 2711 peripheral blood cell samples, and 350 noncancer disease tissues from publicly available methylation array datasets. We performed a single-molecule high-resolution DNA melt analysis on 71 plasma samples from cancer patients and 20 noncancer individuals to assess 
+              <italic>ZNF154</italic>
+               methylation as a candidate diagnostic metric in liquid biopsy and compared results to 
+              <italic>KRAS</italic>
+               mutation frequency in the case of pancreatic carcinoma. We documented 
+              <italic>ZNF154</italic>
+               hypermethylation in early stage tumors, which did not increase in most noncancer disease or with respect to age or sex in peripheral blood cells, suggesting it is a promising target in liquid biopsy. 
+              <italic>ZNF154</italic>
+               cfDNA methylation discriminated cases from healthy donor plasma samples in minimal plasma volumes and outperformed 
+              <italic>KRAS</italic>
+               mutation frequency in pancreatic cancer.
+            </p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="11">Medical and Health Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="1112">Oncology and Carcinogenesis</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Division of Intramural Research, National Human Genome Research Institute</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Technology and Engineering</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Physical Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Life Sciences</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Behavioral Sciences and Psychology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Computer Science</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

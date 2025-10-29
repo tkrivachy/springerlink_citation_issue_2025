@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.837354",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50051-1",
+    "title": "Comparison between ammonium formate and ammonium fluoride in the analysis of stratum corneum lipids by reversed phase chromatography coupled with high resolution mass spectrometry",
+    "article_number": "40",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Miriam Maiellaro",
+      "Grazia Bottillo",
+      "Alessia Cavallo",
+      "Emanuela Camera"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:45:55.827205"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:45:57.361349"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:45:58.597818"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:06:13.073106"
+    },
+    "last_updated": "2025-10-03T22:06:13.073301"
+  }
+}

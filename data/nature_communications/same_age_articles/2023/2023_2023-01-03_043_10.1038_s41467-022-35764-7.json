@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.641844",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35764-7",
+    "title": "Functional geometry of the cortex encodes dimensions of consciousness",
+    "article_number": "72",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zirui Huang",
+      "George A. Mashour",
+      "Anthony G. Hudetz"
+    ]
+  },
+  "article_index": 43,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:50:28.627658"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T18:50:30.153436"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:50:31.442928"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T23:10:49.979905"
+    },
+    "last_updated": "2025-10-03T23:10:49.979952"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.179261",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20445-0",
+    "title": "Thermocatalytic hydrogen peroxide generation and environmental disinfection by Bi",
+    "article_number": "180",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu-Jiung Lin",
+      "Imran Khan",
+      "Subhajit Saha",
+      "Chih-Cheng Wu",
+      "Snigdha Roy Barman",
+      "Fu-Cheng Kao",
+      "Zong-Hong Lin"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:41:05.744873"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 116,
+      "retrieved_at": "2025-10-03T18:41:07.307373"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T18:41:08.666776"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 130,
+      "retrieved_at": "2025-10-03T23:07:43.834114"
+    },
+    "last_updated": "2025-10-03T23:07:43.834306"
+  }
+}

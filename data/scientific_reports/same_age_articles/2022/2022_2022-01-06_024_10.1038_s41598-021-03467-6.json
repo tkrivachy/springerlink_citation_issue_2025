@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.849637",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03467-6",
+    "title": "Three-state majority-vote model on small-world networks",
+    "article_number": "282",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bernardo J. Zubillaga",
+      "André L. M. Vilela",
+      "Minggang Wang",
+      "Ruijin Du",
+      "Gaogao Dong",
+      "H. Eugene Stanley"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:08:34.279445"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T15:08:40.626289"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:08:41.813553"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:50:42.956255"
+    },
+    "last_updated": "2025-10-03T21:50:42.956415"
+  }
+}

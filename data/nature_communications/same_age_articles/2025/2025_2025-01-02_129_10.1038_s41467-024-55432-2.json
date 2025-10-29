@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.530933",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55432-2",
+    "title": "Moiré band structure engineering using a twisted boron nitride substrate",
+    "article_number": "178",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xirui Wang",
+      "Cheng Xu",
+      "Samuel Aronson",
+      "Daniel Bennett",
+      "Nisarga Paul",
+      "Philip J. D. Crowley",
+      "Clément Collignon",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Raymond Ashoori",
+      "Efthimios Kaxiras",
+      "Yang Zhang",
+      "Pablo Jarillo-Herrero",
+      "Kenji Yasuda"
+    ]
+  },
+  "article_index": 129,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T19:42:47.581762"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:42:49.126047"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:42:50.284057"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:28:33.929798"
+    },
+    "last_updated": "2025-10-03T23:28:33.929845"
+  }
+}

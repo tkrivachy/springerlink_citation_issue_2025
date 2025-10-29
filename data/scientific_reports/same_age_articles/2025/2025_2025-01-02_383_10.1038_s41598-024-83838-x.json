@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.390007",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83838-x",
+    "title": "Risk factors for photic phenomena in two different multifocal diffractive intraocular lenses",
+    "article_number": "121",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yuki Ukai",
+      "Tsuyoshi Mito",
+      "Yui Nakatsugawa",
+      "Yusuke Seki",
+      "Norihiro Mita",
+      "Eri Shibuya",
+      "Mai Yamazaki",
+      "Eri Kubo",
+      "Hiroshi Sasaki"
+    ]
+  },
+  "article_index": 383,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:33:26.421867"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:33:27.965464"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:52:21.656050"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:23:28.042310"
+    },
+    "last_updated": "2025-10-07T09:52:21.656102"
+  }
+}

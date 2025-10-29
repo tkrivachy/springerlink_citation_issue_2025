@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.730737",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07729-2",
+    "title": "ATM orchestrates the DNA-damage response to counter toxic non-homologous end-joining at broken replication forks",
+    "article_number": "87",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gabriel Balmus",
+      "Domenic Pilger",
+      "Julia Coates",
+      "Mukerrem Demir",
+      "Matylda Sczaniecka-Clift",
+      "Ana C. Barros",
+      "Michael Woods",
+      "Beiyuan Fu",
+      "Fengtang Yang",
+      "Elisabeth Chen",
+      "Matthias Ostermaier",
+      "Tatjana Stankovic",
+      "Hannes Ponstingl",
+      "Mareike Herzog",
+      "Kosuke Yusa",
+      "Francisco Munoz Martinez",
+      "Stephen T. Durant",
+      "Yaron Galanty",
+      "Petra Beli",
+      "David J. Adams",
+      "Allan Bradley",
+      "Emmanouil Metzakopian",
+      "Josep V. Forment",
+      "Stephen P. Jackson"
+    ]
+  },
+  "article_index": 492,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T17:54:10.794930"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 155,
+      "retrieved_at": "2025-10-03T17:54:12.541448"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 145,
+      "retrieved_at": "2025-10-03T17:54:13.708568"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 165,
+      "retrieved_at": "2025-10-03T22:51:56.768676"
+    },
+    "last_updated": "2025-10-03T22:51:56.768866"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.886417",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13845-4",
+    "title": "Different ways to transport ammonia in human and ",
+    "article_number": "16",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Watchalee Chuenchor",
+      "Tzanko I. Doukov",
+      "Kai-Ti Chang",
+      "Melissa Resto",
+      "Chang-Soo Yun",
+      "Barbara Gerratana"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:20:31.758691"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:20:33.264307"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:20:34.430270"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T23:00:44.746288"
+    },
+    "last_updated": "2025-10-03T23:00:44.746520"
+  }
+}

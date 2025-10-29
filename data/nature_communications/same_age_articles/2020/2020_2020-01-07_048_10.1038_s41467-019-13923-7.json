@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.882216",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13923-7",
+    "title": "ULK1 phosphorylates Exo70 to suppress breast cancer metastasis",
+    "article_number": "117",
+    "publication_date": "2020-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Liyuan Mao",
+      "Yan-yan Zhan",
+      "Bin Wu",
+      "Qiang Yu",
+      "Liang Xu",
+      "Xiaoting Hong",
+      "Linhai Zhong",
+      "Panying Mi",
+      "Li Xiao",
+      "Xinquan Wang",
+      "Hanwei Cao",
+      "Wenqing Zhang",
+      "Binbin Chen",
+      "Jingzhou Xiang",
+      "Kunrong Mei",
+      "Ravi Radhakrishnan",
+      "Wei Guo",
+      "Tianhui Hu"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:11:12.550164"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:11:14.105689"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:11:17.833742"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T22:57:32.175784"
+    },
+    "last_updated": "2025-10-03T22:57:32.175978"
+  }
+}

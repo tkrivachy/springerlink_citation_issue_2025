@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.696371",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08334-7",
+    "title": "Usp7 regulates Hippo pathway through deubiquitinating the transcriptional coactivator Yorkie",
+    "article_number": "411",
+    "publication_date": "2019-01-24",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaohan Sun",
+      "Yan Ding",
+      "Meixiao Zhan",
+      "Yan Li",
+      "Dongqing Gao",
+      "Guiping Wang",
+      "Yang Gao",
+      "Yong Li",
+      "Shian Wu",
+      "Ligong Lu",
+      "Qingxin Liu",
+      "Zizhang Zhou"
+    ]
+  },
+  "article_index": 177,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:05:43.763641"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T18:05:45.279035"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:05:46.639299"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T22:55:50.967576"
+    },
+    "last_updated": "2025-10-03T22:55:50.967766"
+  }
+}

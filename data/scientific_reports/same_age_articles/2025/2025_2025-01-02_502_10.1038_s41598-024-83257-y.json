@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.403783",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83257-y",
+    "title": "Study on the spatial and temporal evolution of ecosystem service value based on land use change in Xi’an City",
+    "article_number": "66",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lei Han",
+      "Yan Li",
+      "Zhemin Ge",
+      "Fang Fang",
+      "Lan Gao",
+      "Jin Zhang",
+      "Zhen Du",
+      "Liping Cui"
+    ]
+  },
+  "article_index": 502,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:41:00.802767"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:41:02.317441"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:41:03.528432"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:26:14.131423"
+    },
+    "last_updated": "2025-10-03T22:26:14.131614"
+  }
+}

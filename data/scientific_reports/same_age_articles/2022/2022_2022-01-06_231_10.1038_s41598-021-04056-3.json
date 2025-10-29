@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.881673",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04056-3",
+    "title": "Insights into opium poppy (",
+    "article_number": "111",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Uyen Vu Thuy Hong",
+      "Muluneh Tamiru-Oli",
+      "Bhavna Hurgobin",
+      "Christopher R. Okey",
+      "Artur R. Abreu",
+      "Mathew G. Lewsey"
+    ]
+  },
+  "article_index": 231,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:10:34.834227"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T15:10:36.373189"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T15:10:37.537794"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T21:51:33.897973"
+    },
+    "last_updated": "2025-10-03T21:51:33.898022"
+  }
+}

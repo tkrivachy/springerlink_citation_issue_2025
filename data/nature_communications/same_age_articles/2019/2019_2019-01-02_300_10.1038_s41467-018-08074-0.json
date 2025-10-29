@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.710051",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08074-0",
+    "title": "AXL confers intrinsic resistance to osimertinib and advances the emergence of tolerant cells",
+    "article_number": "259",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hirokazu Taniguchi",
+      "Tadaaki Yamada",
+      "Rong Wang",
+      "Keiko Tanimura",
+      "Yuta Adachi",
+      "Akihiro Nishiyama",
+      "Azusa Tanimoto",
+      "Shinji Takeuchi",
+      "Luiz H. Araujo",
+      "Mariana Boroni",
+      "Akihiro Yoshimura",
+      "Shinsuke Shiotsu",
+      "Isao Matsumoto",
+      "Satoshi Watanabe",
+      "Toshiaki Kikuchi",
+      "Satoru Miura",
+      "Hiroshi Tanaka",
+      "Takeshi Kitazaki",
+      "Hiroyuki Yamaguchi",
+      "Hiroshi Mukae",
+      "Junji Uchino",
+      "Hisanori Uehara",
+      "Koichi Takayama",
+      "Seiji Yano"
+    ]
+  },
+  "article_index": 300,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:03:51.330570"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 276,
+      "retrieved_at": "2025-10-03T18:03:52.897413"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 257,
+      "retrieved_at": "2025-10-03T18:03:54.497793"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 297,
+      "retrieved_at": "2025-10-03T22:55:11.443918"
+    },
+    "last_updated": "2025-10-03T22:55:11.444106"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.405679",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83819-0",
+    "title": "Experimental research on remote non-contact laser vibration measurement for tunnel lining cavities",
+    "article_number": "105",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hongyun Yang",
+      "Yu Xie",
+      "Zhi Lin",
+      "Lin Li",
+      "Xiang Chen",
+      "Wanlin Feng",
+      "Honglin Ran",
+      "Li He"
+    ]
+  },
+  "article_index": 519,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:04:39.133490"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:04:40.666465"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:28.508292"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:13:18.700551"
+    },
+    "last_updated": "2025-10-07T09:46:28.508562"
+  }
+}

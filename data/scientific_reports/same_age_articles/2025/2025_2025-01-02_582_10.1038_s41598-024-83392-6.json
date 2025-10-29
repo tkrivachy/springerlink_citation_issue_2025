@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.412526",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83392-6",
+    "title": "Nanoscale characterization of space weathering in lunar samples",
+    "article_number": "301",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "A. M. Grice",
+      "P. C. Stancil",
+      "M. Ghafariasl",
+      "S. Singh",
+      "S. Gamage",
+      "M. J. Schaible",
+      "Y. Abate",
+      "K. Lang",
+      "T. M. Orlando"
+    ]
+  },
+  "article_index": 582,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:19:32.281938"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:19:33.848187"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:37.530689"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:18:37.797810"
+    },
+    "last_updated": "2025-10-07T09:49:37.530756"
+  }
+}

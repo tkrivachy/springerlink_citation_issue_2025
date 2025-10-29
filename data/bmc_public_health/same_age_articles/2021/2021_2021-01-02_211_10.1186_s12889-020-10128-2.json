@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.654205",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10128-2",
+    "title": "Effects of trees, gardens, and nature trails on heat index and child health: design and methods of the Green Schoolyards Project",
+    "article_number": "98",
+    "publication_date": "2021-01-07",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kevin Lanza",
+      "Melody Alcazar",
+      "Deanna M. Hoelscher",
+      "Harold W. Kohl"
+    ]
+  },
+  "article_index": 211,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T13:48:44.852991"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T13:48:46.432850"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T13:48:47.745125"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T21:20:33.580697"
+    },
+    "last_updated": "2025-10-03T21:20:33.580883"
+  }
+}

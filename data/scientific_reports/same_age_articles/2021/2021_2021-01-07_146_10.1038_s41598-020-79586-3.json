@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.225352",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79586-3",
+    "title": "Interleukin 6 in cerebrospinal fluid is a biomarker for delayed cerebral ischemia (DCI) related infarctions after aneurysmal subarachnoid hemorrhage",
+    "article_number": "12",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sami Ridwan",
+      "Alexander Grote",
+      "Matthias Simon"
+    ]
+  },
+  "article_index": 146,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:38:27.054811"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T14:38:28.626801"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T14:38:29.933947"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T21:38:48.558915"
+    },
+    "last_updated": "2025-10-03T21:38:48.559104"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1186/s12889-014-1341-6",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1186/s12889-014-1341-6",
+      "language": "en",
+      "url": [
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1186/s12889-014-1341-6"
+        }
+      ],
+      "title": "Atrial fibrillation and cycling: six year follow-up of the Taupo bicycle study",
+      "creators": [
+        {
+          "creator": "Woodward, Alistair"
+        },
+        {
+          "creator": "Tin Tin, Sandar"
+        },
+        {
+          "creator": "Doughty, Rob N"
+        },
+        {
+          "creator": "Ameratunga, Shanthi"
+        }
+      ],
+      "publicationName": "BMC Public Health",
+      "doi": "10.1186/s12889-014-1341-6",
+      "publisher": "BioMed Central",
+      "publisherName": "BioMed Central",
+      "publicationDate": "2015-01-21",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "1471-2458",
+      "volume": "15",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "Chronic Disease epidemiology",
+      "genre": [
+        "OriginalPaper",
+        "Research article"
+      ],
+      "startingPage": "1",
+      "endingPage": "6",
+      "journalId": "12889",
+      "openAccess": "true",
+      "onlineDate": "2015-01-21",
+      "coverDate": "2015-12",
+      "copyright": "©2015 Woodward et al.; licensee BioMed Central.",
+      "abstract": {
+        "h1": "Abstract",
+        "p": [
+          "Background",
+          "Atrial Fibrillation (AF) is the most common sustained cardiac arrhythmia, and the incidence of AF is increased markedly among elite athletes. It is not clear how lesser levels of physical activity in the general population influence AF. We asked whether participation in the Taupo Cycle Challenge was associated with increased hospital admissions due to AF, and within the cohort, whether admissions for AF were related to frequency and intensity of cycling.",
+          "Methods",
+          "Participants in the 2006 Lake Taupo Cycle Challenge, New Zealand’s largest mass cycling event, were invited to complete an on-line questionnaire. Those who agreed (n = 2590, response rate = 43.1%) were followed up by record linkage via the National Minimum Health Database from December 1 2006 until June 30 2013, to identify admissions to hospital due to AF.",
+          "Results",
+          "The age and gender standardized admission rate for AF was similar in the Taupo cohort (19.60 per 10,000 per year) and the national population over the same period (2006-2011) (19.45 per 10,000 per year). Within the study cohort (men only), for every additional hour spent cycling per week the risk changed by 0.90 (95% confidence interval 0.79 – 1.01). This result did not change appreciably after adjustment for age and height.",
+          "Conclusions",
+          "Hospital admission due to AF was not increased above the national rate in this group of non-elite cyclists, and within the group the rate of AF did not increase with amount of cycling. The level of activity undertaken by this cohort of cyclists was, on average, not sufficient to increase the risk of hospitalization for AF."
+        ]
+      },
+      "subjects": [
+        "Medicine & Public Health",
+        "Public Health",
+        "Medicine/Public Health, general",
+        "Epidemiology",
+        "Environmental Health",
+        "Biostatistics",
+        "Vaccine"
+      ],
+      "disciplines": [
+        {
+          "id": "2977",
+          "term": "Public Health"
+        },
+        {
+          "id": "4140",
+          "term": "Epidemiology"
+        },
+        {
+          "id": "4264",
+          "term": "Environmental Health"
+        },
+        {
+          "id": "5065",
+          "term": "Biostatistics"
+        },
+        {
+          "id": "3357",
+          "term": "Pharmacology"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Biostatistics",
+          "count": "1"
+        },
+        {
+          "value": "Environmental Health",
+          "count": "1"
+        },
+        {
+          "value": "Epidemiology",
+          "count": "1"
+        },
+        {
+          "value": "Medicine & Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Medicine/Public Health, general",
+          "count": "1"
+        },
+        {
+          "value": "Public Health",
+          "count": "1"
+        },
+        {
+          "value": "Vaccine",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Atrial fibrillation",
+          "count": "1"
+        },
+        {
+          "value": "Cardiac arrhythmias",
+          "count": "1"
+        },
+        {
+          "value": "Cycling",
+          "count": "1"
+        },
+        {
+          "value": "Physical activity",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "BMC Public Health",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2015",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "New Zealand",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

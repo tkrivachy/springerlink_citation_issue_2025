@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-35673-9</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-022-35673-9</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Methane emissions offset atmospheric carbon dioxide uptake in coastal macroalgae, mixed vegetation and sediment ecosystems</dc:title>
+          <dc:creator>Roth, Florian</dc:creator>
+          <dc:creator>Broman, Elias</dc:creator>
+          <dc:creator>Sun, Xiaole</dc:creator>
+          <dc:creator>Bonaglia, Stefano</dc:creator>
+          <dc:creator>Nascimento, Francisco</dc:creator>
+          <dc:creator>Prytherch, John</dc:creator>
+          <dc:creator>Brüchert, Volker</dc:creator>
+          <dc:creator>Lundevall Zara, Maysoon</dc:creator>
+          <dc:creator>Brunberg, Märta</dc:creator>
+          <dc:creator>Geibel, Marc C.</dc:creator>
+          <dc:creator>Humborg, Christoph</dc:creator>
+          <dc:creator>Norkko, Alf</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn>2041-1723</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:doi>10.1038/s41467-022-35673-9</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <ns2:publicationDate>2023-01-03</ns2:publicationDate>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>11</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-022-35673-9</ns2:url>
+          <ns2:copyright>©2023 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>
+          Coastal ecosystems can efficiently remove carbon dioxide (CO
+          <Subscript>2</Subscript>
+          ) from the atmosphere and are thus promoted for nature-based climate change mitigation. Natural methane (CH
+          <Subscript>4</Subscript>
+          ) emissions from these ecosystems may counterbalance atmospheric CO
+          <Subscript>2</Subscript>
+           uptake. Still, knowledge of mechanisms sustaining such CH
+          <Subscript>4</Subscript>
+           emissions and their contribution to net radiative forcing remains scarce for globally prevalent macroalgae, mixed vegetation, and surrounding depositional sediment habitats. Here we show that these habitats emit CH
+          <Subscript>4</Subscript>
+           in the range of 0.1 – 2.9 mg CH
+          <Subscript>4</Subscript>
+           m
+          <Superscript>−2</Superscript>
+           d
+          <Superscript>−1</Superscript>
+           to the atmosphere, revealing in situ CH
+          <Subscript>4</Subscript>
+           emissions from macroalgae that were sustained by divergent methanogenic archaea in anoxic microsites. Over an annual cycle, CO
+          <Subscript>2</Subscript>
+          -equivalent CH
+          <Subscript>4</Subscript>
+           emissions offset 28 and 35% of the carbon sink capacity attributed to atmospheric CO
+          <Subscript>2</Subscript>
+           uptake in the macroalgae and mixed vegetation habitats, respectively, and augment net CO
+          <Subscript>2</Subscript>
+           release of unvegetated sediments by 57%. Accounting for CH
+          <Subscript>4</Subscript>
+           alongside CO
+          <Subscript>2</Subscript>
+           sea-air fluxes and identifying the mechanisms controlling these emissions is crucial to constrain the potential of coastal ecosystems as net atmospheric carbon sinks and develop informed climate mitigation strategies.
+        </p>
+        <p>Coastal ecosystems are promoted as nature-based solutions to climate change. Here, the authors show that natural methane emissions across a variety of vegetated and unvegetated coastal habitats can, however, offset one-third of the carbon sink capacity attributed to atmospheric carbon dioxide uptake.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2023</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">China</facet-value>
+      <facet-value count="1">Finland</facet-value>
+      <facet-value count="1">Sweden</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

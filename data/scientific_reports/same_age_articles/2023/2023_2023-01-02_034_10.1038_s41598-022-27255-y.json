@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.103136",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27255-y",
+    "title": "Correlations between linear sprint with the ball, linear sprint without the ball, and change-of-direction without the ball in professional female soccer players",
+    "article_number": "39",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Artur Avelino Birk Preissler",
+      "Pedro Schons",
+      "Filipe Manuel Clemente",
+      "Guilherme Droescher de Vargas",
+      "Lucas Moraes Klein",
+      "Ana Filipa Silva",
+      "Hadi Nobari",
+      "Luiz Fernando Martins Kruel"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:29:36.975996"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:29:38.544871"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:29:39.788905"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:59:41.578384"
+    },
+    "last_updated": "2025-10-03T21:59:41.578460"
+  }
+}

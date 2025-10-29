@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.386774",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-81887-w",
+    "title": "Computational insights into spin-polarized density functional theory applied to actinide-based perovskites XBkO₃ (X = Sr, Ra, Pb)",
+    "article_number": "87",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Youssef Didi",
+      "Mounir Belhajji",
+      "Soufiane Bahhar",
+      "Abdellah Tahiri",
+      "Mohamed Naji",
+      "Abdelilah Rjeb",
+      "Hatim G. Zaini",
+      "Aymen Flah",
+      "Sherif S. M. Ghoneim",
+      "Ahmed B. Abou Sharaf",
+      "Mofreh A. Hashim"
+    ]
+  },
+  "article_index": 355,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:29:35.087973"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T16:29:36.609348"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:37.342141"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:22:11.208905"
+    },
+    "last_updated": "2025-10-07T09:51:37.342215"
+  }
+}

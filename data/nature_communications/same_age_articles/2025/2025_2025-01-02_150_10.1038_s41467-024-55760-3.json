@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.534062",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55760-3",
+    "title": "Photoinduced hidden monoclinic metallic phase of VO",
+    "article_number": "94",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Feng-Wu Guo",
+      "Wen-Hao Liu",
+      "Zhi Wang",
+      "Shu-Shen Li",
+      "Lin-Wang Wang",
+      "Jun-Wei Luo"
+    ]
+  },
+  "article_index": 150,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:46:41.637765"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:46:43.146429"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:46:44.296493"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:29:56.330802"
+    },
+    "last_updated": "2025-10-03T23:29:56.330901"
+  }
+}

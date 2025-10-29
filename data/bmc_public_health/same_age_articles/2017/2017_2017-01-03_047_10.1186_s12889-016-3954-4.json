@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.452228",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3954-4",
+    "title": "Identifying mechanisms for facilitating knowledge to action strategies targeting the built environment",
+    "article_number": "1",
+    "publication_date": "2017-01-03",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ghazal S. Fazli",
+      "Maria I. Creatore",
+      "Flora I. Matheson",
+      "Sara Guilcher",
+      "Vered Kaufman-Shriqui",
+      "Heather Manson",
+      "Ashley Johns",
+      "Gillian L. Booth"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 196,
+      "retrieved_at": "2025-10-03T13:20:29.135458"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T13:20:30.682385"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 297,
+      "retrieved_at": "2025-10-03T13:20:31.859379"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 215,
+      "retrieved_at": "2025-10-03T21:10:24.555936"
+    },
+    "last_updated": "2025-10-03T21:10:24.556126"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.405896",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82114-2",
+    "title": "Investigating skyrmion stability and core polarity reversal in NdMn",
+    "article_number": "461",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Samuel K. Treves",
+      "Victor Ukleev",
+      "Andreas Apseros",
+      "Jamie Robert Massey",
+      "Kai Wagner",
+      "Paul Lehmann",
+      "Aki Kitaori",
+      "Naoya Kanazawa",
+      "Jeffrey A. Brock",
+      "Simone Finizio",
+      "Joakim Reuteler",
+      "Yoshinori Tokura",
+      "Patrick Maletinsky",
+      "Valerio Scagnoli"
+    ]
+  },
+  "article_index": 521,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:45:49.159460"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:50.706389"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:45:51.886266"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:28:00.537484"
+    },
+    "last_updated": "2025-10-03T22:28:00.537676"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.677090",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07885-5",
+    "title": "Selective single molecule sequencing and assembly of a human Y chromosome of African origin",
+    "article_number": "4",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lukas F. K. Kuderna",
+      "Esther Lizano",
+      "Eva Julià",
+      "Jessica Gomez-Garrido",
+      "Aitor Serres-Armero",
+      "Martin Kuhlwilm",
+      "Regina Antoni Alandes",
+      "Marina Alvarez-Estape",
+      "David Juan",
+      "Heath Simon",
+      "Tyler Alioto",
+      "Marta Gut",
+      "Ivo Gut",
+      "Mikkel Heide Schierup",
+      "Oscar Fornas",
+      "Tomas Marques-Bonet"
+    ]
+  },
+  "article_index": 7,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T17:48:19.449100"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T17:48:21.072446"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T17:48:22.465895"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T22:49:41.383579"
+    },
+    "last_updated": "2025-10-03T22:49:41.383674"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.300047",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-55687-6",
+    "title": "Increased stiffness of the tumor microenvironment in colon cancer stimulates cancer associated fibroblast-mediated prometastatic activin A signaling",
+    "article_number": "50",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jessica Bauer",
+      "Md Abul Bashar Emon",
+      "Jonas J. Staudacher",
+      "Alexandra L. Thomas",
+      "Jasmin Zessner-Spitzenberg",
+      "Georgina Mancinelli",
+      "Nancy Krett",
+      "M. Taher Saif",
+      "Barbara Jung"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 107,
+      "retrieved_at": "2025-10-03T14:29:30.118277"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T14:29:31.622119"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T14:29:32.794461"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T21:35:06.706004"
+    },
+    "last_updated": "2025-10-03T21:35:06.706054"
+  }
+}

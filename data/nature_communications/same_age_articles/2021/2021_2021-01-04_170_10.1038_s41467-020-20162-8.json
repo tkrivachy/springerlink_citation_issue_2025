@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.201086",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20162-8",
+    "title": "Pan-cancer circulating tumor DNA detection in over 10,000 Chinese patients",
+    "article_number": "11",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yongliang Zhang",
+      "Yu Yao",
+      "Yaping Xu",
+      "Lifeng Li",
+      "Yan Gong",
+      "Kai Zhang",
+      "Meng Zhang",
+      "Yanfang Guan",
+      "Lianpeng Chang",
+      "Xuefeng Xia",
+      "Lin Li",
+      "Shuqin Jia",
+      "Qiang Zeng"
+    ]
+  },
+  "article_index": 170,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:28:26.480180"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 207,
+      "retrieved_at": "2025-10-03T18:28:28.032233"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 171,
+      "retrieved_at": "2025-10-03T18:28:29.543243"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 237,
+      "retrieved_at": "2025-10-03T23:03:29.964367"
+    },
+    "last_updated": "2025-10-03T23:03:29.964454"
+  }
+}

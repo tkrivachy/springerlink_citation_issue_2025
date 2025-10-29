@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.698280",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08244-0",
+    "title": "An integrated chromatin accessibility and transcriptome landscape of human pre-implantation embryos",
+    "article_number": "364",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Longqi Liu",
+      "Lizhi Leng",
+      "Chuanyu Liu",
+      "Changfu Lu",
+      "Yue Yuan",
+      "Liang Wu",
+      "Fei Gong",
+      "Shuoping Zhang",
+      "Xiaoyu Wei",
+      "Mingyue Wang",
+      "Lei Zhao",
+      "Liang Hu",
+      "Jian Wang",
+      "Huanming Yang",
+      "Shida Zhu",
+      "Fang Chen",
+      "Guangxiu Lu",
+      "Zhouchun Shang",
+      "Ge Lin"
+    ]
+  },
+  "article_index": 195,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T18:05:32.517456"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T18:05:34.042779"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T18:05:35.205563"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 119,
+      "retrieved_at": "2025-10-03T22:55:46.333015"
+    },
+    "last_updated": "2025-10-03T22:55:46.333207"
+  }
+}

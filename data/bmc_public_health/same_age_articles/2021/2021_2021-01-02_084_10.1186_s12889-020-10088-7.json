@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.640453",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10088-7",
+    "title": "Everything counts - a method to determine viral suppression among people living with HIV using longitudinal data for the HIV care continuum - results of two large, German, multi-center real-life cohort studies over 20 years (1999–2018)",
+    "article_number": "200",
+    "publication_date": "2021-01-22",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Daniel Schmidt",
+      "Christian Kollan",
+      "Matthias Stoll",
+      "Osamah Hamouda",
+      "Viviane Bremer",
+      "Tobias Kurth",
+      "Barbara Bartmeyer"
+    ]
+  },
+  "article_index": 84,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:03:05.657485"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:03:07.175754"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T14:03:08.468711"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:25:37.015662"
+    },
+    "last_updated": "2025-10-03T21:25:37.015851"
+  }
+}

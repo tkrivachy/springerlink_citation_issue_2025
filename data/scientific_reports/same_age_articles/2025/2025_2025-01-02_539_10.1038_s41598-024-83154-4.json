@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.407859",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83154-4",
+    "title": "Long non-coding RNA OSTM1-AS1 promotes renal cell carcinoma progression by sponging miR-491-5p and upregulating MMP-9",
+    "article_number": "359",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jun-Feng Chen",
+      "Sha-Zhou Ye",
+      "Ke-Jie Wang",
+      "Xiang-yu Meng",
+      "Bin-bin Yang",
+      "Ke Rong Wu",
+      "Qi Ma"
+    ]
+  },
+  "article_index": 539,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:52.283802"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:53.840122"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:58:55.095310"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:32:26.053177"
+    },
+    "last_updated": "2025-10-03T22:32:26.053402"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.858005",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49960-y",
+    "title": "Diophantine imaging reveals the broken symmetry of sums of integer cubes",
+    "article_number": "16",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Eldar Sultanow",
+      "Max Henkel",
+      "Idriss J. Aberkane"
+    ]
+  },
+  "article_index": 240,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:59:55.728654"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:59:57.247237"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:59:58.394563"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:11:31.853088"
+    },
+    "last_updated": "2025-10-03T22:11:31.853278"
+  }
+}

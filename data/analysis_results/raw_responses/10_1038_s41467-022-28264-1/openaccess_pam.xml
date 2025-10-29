@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.0/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.0/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-28264-1</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-022-28264-1</dc:identifier>
+          <dc:language>en</dc:language>
+          <dc:title>Structure of  collagenase VhaC provides insight into the mechanism of bacterial collagenolysis</dc:title>
+          <dc:creator>Wang, Yan</dc:creator>
+          <dc:creator>Wang, Peng</dc:creator>
+          <dc:creator>Cao, Hai-Yan</dc:creator>
+          <dc:creator>Ding, Hai-Tao</dc:creator>
+          <dc:creator>Su, Hai-Nan</dc:creator>
+          <dc:creator>Liu, Shi-Cheng</dc:creator>
+          <dc:creator>Liu, Guangfeng</dc:creator>
+          <dc:creator>Zhang, Xia</dc:creator>
+          <dc:creator>Li, Chun-Yang</dc:creator>
+          <dc:creator>Peng, Ming</dc:creator>
+          <dc:creator>Li, Fuchuan</dc:creator>
+          <dc:creator>Li, Shengying</dc:creator>
+          <dc:creator>Chen, Yin</dc:creator>
+          <dc:creator>Chen, Xiu-Lan</dc:creator>
+          <dc:creator>Zhang, Yu-Zhong</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn>2041-1723</ns2:issn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:doi>10.1038/s41467-022-28264-1</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <ns2:publicationDate>2022-01-28</ns2:publicationDate>
+          <ns2:volume>13</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>14</ns2:endingPage>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-022-28264-1</ns2:url>
+          <ns2:copyright>©2022 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>
+          The collagenases of 
+          <Emphasis Type="Italic">Vibrio</Emphasis>
+           species, many of which are pathogens, have been regarded as an important virulence factor. However, there is little information on the structure and collagenolytic mechanism of 
+          <Emphasis Type="Italic">Vibrio</Emphasis>
+           collagenase. Here, we report the crystal structure of the collagenase module (CM) of 
+          <Emphasis Type="Italic">Vibrio</Emphasis>
+           collagenase VhaC and the conformation of VhaC in solution. Structural and biochemical analyses and molecular dynamics studies reveal that triple-helical collagen is initially recognized by the activator domain, followed by subsequent cleavage by the peptidase domain along with the closing movement of CM. This is different from the peptidolytic mode or the proposed collagenolysis of 
+          <Emphasis Type="Italic">Clostridium</Emphasis>
+           collagenase. We propose a model for the integrated collagenolytic mechanism of VhaC, integrating the functions of VhaC accessory domains and its collagen degradation pattern. This study provides insight into the mechanism of bacterial collagenolysis and helps in structure-based drug design targeting of the 
+          <Emphasis Type="Italic">Vibrio</Emphasis>
+           collagenase.
+        </p>
+        <p>
+          The collagenolytic mechanism of 
+          <Emphasis Type="Italic">Vibrio</Emphasis>
+           collagenase, a virulence factor, remains unclear. Here, the authors report the structure of 
+          <Emphasis Type="Italic">Vibrio</Emphasis>
+           collagenase VhaC and propose the mechanism for collagen recognition and degradation, providing new insight into bacterial collagenolysis.
+        </p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">China</facet-value>
+      <facet-value count="1">United Kingdom</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

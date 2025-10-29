@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.834137",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50982-9",
+    "title": "Geodetic imaging of magma ascent through a bent and twisted dike during the Tajogaite eruption of 2021 (La Palma, Canary Islands)",
+    "article_number": "212",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Monika Przeor",
+      "Raffaele Castaldo",
+      "Luca D’Auria",
+      "Antonio Pepe",
+      "Susi Pepe",
+      "Takeshi Sagiya",
+      "Giuseppe Solaro",
+      "Pietro Tizzani",
+      "José Barrancos Martínez",
+      "Nemesio Pérez"
+    ]
+  },
+  "article_index": 72,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:59:07.149440"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:59:08.663727"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:59:09.904718"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T22:11:11.718621"
+    },
+    "last_updated": "2025-10-03T22:11:11.718678"
+  }
+}

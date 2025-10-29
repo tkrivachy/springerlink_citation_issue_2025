@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682535",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08445-1",
+    "title": "Kink far below the Fermi level reveals new electron-magnon scattering channel in Fe",
+    "article_number": "505",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "E. Młyńczak",
+      "M. C. T. D. Müller",
+      "P. Gospodarič",
+      "T. Heider",
+      "I. Aguilera",
+      "G. Bihlmayer",
+      "M. Gehlmann",
+      "M. Jugovac",
+      "G. Zamborlini",
+      "C. Tusche",
+      "S. Suga",
+      "V. Feyer",
+      "L. Plucinski",
+      "C. Friedrich",
+      "S. Blügel",
+      "C. M. Schneider"
+    ]
+  },
+  "article_index": 51,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:49:55.498760"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T17:49:57.092466"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T17:49:58.267063"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T22:50:12.701477"
+    },
+    "last_updated": "2025-10-03T22:50:12.701558"
+  }
+}

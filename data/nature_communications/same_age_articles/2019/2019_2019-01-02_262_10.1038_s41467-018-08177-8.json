@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.705814",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08177-8",
+    "title": "Dual-barcoded shotgun expression library sequencing for high-throughput characterization of functional traits in bacteria",
+    "article_number": "308",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Vivek K. Mutalik",
+      "Pavel S. Novichkov",
+      "Morgan N. Price",
+      "Trenton K. Owens",
+      "Mark Callaghan",
+      "Sean Carim",
+      "Adam M. Deutschbauer",
+      "Adam P. Arkin"
+    ]
+  },
+  "article_index": 262,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T17:55:24.654490"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T17:55:26.185309"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T17:55:27.339091"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T22:52:22.925626"
+    },
+    "last_updated": "2025-10-03T22:52:22.925713"
+  }
+}

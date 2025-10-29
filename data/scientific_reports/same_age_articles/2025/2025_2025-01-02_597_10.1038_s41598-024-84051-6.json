@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.414014",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84051-6",
+    "title": "The usefulness of automated high frequency ultrasound image analysis in atopic dermatitis staging",
+    "article_number": "163",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Joanna Czajkowska",
+      "Adriana Polańska",
+      "Anna Slian",
+      "Aleksandra Dańczak-Pazdrowska"
+    ]
+  },
+  "article_index": 597,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:21:29.991356"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:21:31.524411"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:59.986353"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:19:20.347566"
+    },
+    "last_updated": "2025-10-07T09:49:59.986416"
+  }
+}

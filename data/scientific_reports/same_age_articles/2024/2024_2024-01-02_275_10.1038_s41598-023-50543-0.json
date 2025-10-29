@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.861726",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50543-0",
+    "title": "Circulating cell-free DNA correlate to disease activity and treatment response of patients with radiographic axial spondyloarthritis",
+    "article_number": "178",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yun Peng",
+      "Yuanhui Wu",
+      "Shiju Chen",
+      "Yuan Liu",
+      "Hongyan Qian",
+      "Yan He",
+      "Heqing Huang",
+      "Meimei Cai",
+      "Wen Liu",
+      "Guixiu Shi"
+    ]
+  },
+  "article_index": 275,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:47:49.543989"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:47:51.069473"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:47:52.250183"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:07:01.330930"
+    },
+    "last_updated": "2025-10-03T22:07:01.331122"
+  }
+}

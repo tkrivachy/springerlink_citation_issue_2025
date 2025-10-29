@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:55:40.100810",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-10",
+  "article_data": {
+    "doi": "10.1186/s12889-022-14960-6",
+    "title": "Population health trends and disease profile in Somalia 1990–2019, and projection to 2030: will the country achieve sustainable development goals 2 and 3?",
+    "article_number": "66",
+    "publication_date": "2023-01-10",
+    "volume": "23",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Joana Morrison",
+      "Sk Md Mamunur Rahman Malik"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T14:12:37.221306"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:12:38.727375"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:12:40.048531"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:28:58.992120"
+    },
+    "last_updated": "2025-10-03T21:28:58.992166"
+  }
+}

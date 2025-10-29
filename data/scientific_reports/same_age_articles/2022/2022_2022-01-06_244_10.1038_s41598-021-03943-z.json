@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.883065",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03943-z",
+    "title": "Spontaneous mutation rate estimates for the principal malaria vectors ",
+    "article_number": "226",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Iliyas Rashid",
+      "Melina Campos",
+      "Travis Collier",
+      "Marc Crepeau",
+      "Allison Weakley",
+      "Hans Gripkey",
+      "Yoosook Lee",
+      "Hanno Schmidt",
+      "Gregory C. Lanzaro"
+    ]
+  },
+  "article_index": 244,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:20:10.562645"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:20:12.111172"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:20:13.281435"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:55:56.258026"
+    },
+    "last_updated": "2025-10-03T21:55:56.258218"
+  }
+}

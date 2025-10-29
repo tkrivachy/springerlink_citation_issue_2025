@@ -1,0 +1,79 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.674274",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44475-6",
+    "title": "Sequential immunotherapy and targeted therapy for metastatic BRAF V600 mutated melanoma: 4-year survival and biomarkers evaluation from the phase II SECOMBIT trial",
+    "article_number": "146",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Paolo A. Ascierto",
+      "Milena Casula",
+      "Jenny Bulgarelli",
+      "Marina Pisano",
+      "Claudia Piccinini",
+      "Luisa Piccin",
+      "Antonio Cossu",
+      "Mario Mandalà",
+      "Pier Francesco Ferrucci",
+      "Massimo Guidoboni",
+      "Piotr Rutkowski",
+      "Virginia Ferraresi",
+      "Ana Arance",
+      "Michele Guida",
+      "Evaristo Maiello",
+      "Helen Gogas",
+      "Erika Richtig",
+      "Maria Teresa Fierro",
+      "Celeste Lebbe",
+      "Hildur Helgadottir",
+      "Paola Queirolo",
+      "Francesco Spagnolo",
+      "Marco Tucci",
+      "Michele Del Vecchio",
+      "Maria Gonzales Cao",
+      "Alessandro Marco Minisini",
+      "Sabino De Placido",
+      "Miguel F. Sanmamed",
+      "Domenico Mallardo",
+      "Miriam Paone",
+      "Maria Grazia Vitale",
+      "Ignacio Melero",
+      "Antonio M. Grimaldi",
+      "Diana Giannarelli",
+      "Reinhard Dummer",
+      "Vanna Chiarion Sileni",
+      "Giuseppe Palmieri"
+    ]
+  },
+  "article_index": 77,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T19:12:05.155678"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T19:12:06.684857"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T19:12:07.871253"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T23:18:11.684896"
+    },
+    "last_updated": "2025-10-03T23:18:11.685088"
+  }
+}

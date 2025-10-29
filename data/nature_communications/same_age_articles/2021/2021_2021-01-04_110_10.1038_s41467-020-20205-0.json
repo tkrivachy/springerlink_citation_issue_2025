@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.192492",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20205-0",
+    "title": "Pyrinap ligands for enantioselective syntheses of amines",
+    "article_number": "19",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Qi Liu",
+      "Haibo Xu",
+      "Yuling Li",
+      "Yuan Yao",
+      "Xue Zhang",
+      "Yinlong Guo",
+      "Shengming Ma"
+    ]
+  },
+  "article_index": 110,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:27:51.169678"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T18:27:52.735734"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:27:54.051195"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T23:03:17.110668"
+    },
+    "last_updated": "2025-10-03T23:03:17.110858"
+  }
+}

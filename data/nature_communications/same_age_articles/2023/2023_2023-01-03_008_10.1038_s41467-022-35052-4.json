@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.632157",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35052-4",
+    "title": "Providing normative information increases intentions to accept a COVID-19 vaccine",
+    "article_number": "126",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alex Moehring",
+      "Avinash Collis",
+      "Kiran Garimella",
+      "M. Amin Rahimian",
+      "Sinan Aral",
+      "Dean Eckles"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T18:48:27.409566"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:48:28.947439"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:48:30.156771"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T23:10:07.113257"
+    },
+    "last_updated": "2025-10-03T23:10:07.113482"
+  }
+}

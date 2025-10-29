@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-021-04112-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1038/s41598-021-04112-y</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Dynamics of camel and human hemoglobin revealed by molecular simulations</dc:title>
+            
+	    
+            <dc:creator>Ali, Amanat</dc:creator>
+            
+	    
+            <dc:creator>Soman, Soja Saghar</dc:creator>
+            
+	    
+            <dc:creator>Vijayan, Ranjit</dc:creator>
+            
+	    
+            <ns3:publicationName>Scientific Reports</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>2045-2322</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1038/s41598-021-04112-y</ns3:doi>
+            
+	    
+            <dc:publisher>Nature</dc:publisher>
+            
+	    
+            <dc:publisher>Nature Publishing Group UK</dc:publisher>
+            
+	    
+            <ns3:coverDate>2022-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2022-01-07</ns3:publicationDate>
+            
+	    
+            <ns3:volume>12</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>14</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1038/s41598-021-04112-y</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41598-021-04112-y</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.nature.com/articles/s41598-021-04112-y.pdf</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2022 The Author(s)</ns3:copyright>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+            
+	    
+            <dc:subject>Science, multidisciplinary</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>Hemoglobin is one of the most widely studied proteins genetically, biochemically, and structurally. It is an oxygen carrying tetrameric protein that imparts the characteristic red color to blood. Each chain of hemoglobin harbors a heme group embedded in a hydrophobic pocket. Several studies have investigated structural variations present in mammalian hemoglobin and their functional implications. However, camel hemoglobin has not been thoroughly explored, especially from a structural perspective. Importantly, very little is known about how the heme group interacts with hemoglobin under varying conditions of osmolarity and temperature. Several experimental studies have indicated that the tense (T) state is more stable than the relaxed (R) state of hemoglobin under normal physiological conditions. Despite the fact that R state is less stable than the T state, no extensive structural dynamics studies have been performed to investigate global quaternary transitions of R state hemoglobin under normal physiological conditions. To evaluate this, several 500 ns all-atom molecular dynamics simulations were performed to get a deeper understanding of how camel hemoglobin behaves under stress, which it is normally exposed to, when compared to human hemoglobin. Notably, camel hemoglobin was more stable under physiological stress when compared to human hemoglobin. Additionally, when compared to camel hemoglobin, cofactor-binding regions of hemoglobin also exhibited more fluctuations in human hemoglobin under the conditions studied. Several differences were observed between the residues of camel and human hemoglobin that interacted with heme. Importantly, distal residues His58 of α hemoglobin and His63 of β hemoglobin formed more sustained interactions, especially at higher temperatures, in camel hemoglobin. These residues are important for oxygen binding to hemoglobin. Thus, this work provides insights into how camel and human hemoglobin differ in their interactions under stress.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>41598</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection/>
+        <openAccess>true</openAccess>
+        <onlineDate>2022-01-07</onlineDate>
+        <authors>
+          <author>Ali, Amanat</author>
+          <author>Soman, Soja Saghar</author>
+          <author>Vijayan, Ranjit</author>
+        </authors>
+        <disciplines>
+          <discipline id="2887" term="Technology and Engineering"/>
+          <discipline id="2867" term="Physical Sciences"/>
+          <discipline id="2874" term="Life Sciences"/>
+          <discipline id="3001" term="Behavioral Sciences and Psychology"/>
+          <discipline id="2971" term="Computer Science"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2022</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">United Arab Emirates</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

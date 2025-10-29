@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.224368",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79528-z",
+    "title": "Role of dislocations in nitride laser diodes with different indium content",
+    "article_number": "21",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Agata Bojarska-Cieślińska",
+      "Łucja Marona",
+      "Julita Smalc-Koziorowska",
+      "Szymon Grzanka",
+      "Jan Weyher",
+      "Dario Schiavon",
+      "Piotr Perlin"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:57:11.078091"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T14:57:12.644470"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:57:13.924988"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T21:46:14.121214"
+    },
+    "last_updated": "2025-10-03T21:46:14.121264"
+  }
+}

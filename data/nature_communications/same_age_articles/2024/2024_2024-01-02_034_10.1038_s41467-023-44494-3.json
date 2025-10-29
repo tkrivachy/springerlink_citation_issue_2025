@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.669669",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44494-3",
+    "title": "Isotope engineering for spin defects in van der Waals materials",
+    "article_number": "104",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ruotian Gong",
+      "Xinyi Du",
+      "Eli Janzen",
+      "Vincent Liu",
+      "Zhongyuan Liu",
+      "Guanghui He",
+      "Bingtian Ye",
+      "Tongcang Li",
+      "Norman Y. Yao",
+      "James H. Edgar",
+      "Erik A. Henriksen",
+      "Chong Zu"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T19:14:46.624105"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T19:14:48.232401"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:14:49.450633"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T23:19:08.397582"
+    },
+    "last_updated": "2025-10-03T23:19:08.397682"
+  }
+}

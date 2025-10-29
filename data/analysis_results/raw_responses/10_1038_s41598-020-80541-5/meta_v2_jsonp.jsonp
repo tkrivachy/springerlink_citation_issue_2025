@@ -1,0 +1,174 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-020-80541-5",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-020-80541-5",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-020-80541-5"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-020-80541-5.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-020-80541-5"
+        }
+      ],
+      "title": "Impacts of sleep on the characteristics of dental biofilm",
+      "creators": [
+        {
+          "creator": "Sotozono, Maki"
+        },
+        {
+          "creator": "Kuriki, Nanako"
+        },
+        {
+          "creator": "Asahi, Yoko"
+        },
+        {
+          "creator": "Noiri, Yuichiro"
+        },
+        {
+          "creator": "Hayashi, Mikako"
+        },
+        {
+          "creator": "Motooka, Daisuke"
+        },
+        {
+          "creator": "Nakamura, Shota"
+        },
+        {
+          "creator": "Machi, Hiroyuki"
+        },
+        {
+          "creator": "Iida, Tetsuya"
+        },
+        {
+          "creator": "Ebisu, Shigeyuki"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-020-80541-5",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2021-01-08",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "11",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "12",
+      "journalId": "41598",
+      "onlineDate": "2021-01-08",
+      "coverDate": "2021-12",
+      "copyright": "©2021 The Author(s)",
+      "abstract": "Dental biofilm present on the tooth surface is associated with oral diseases, such as dental caries and periodontal disease. Because bacterial numbers rapidly increase in saliva during sleep, oral care before sleeping is recommended for the prevention of chronic oral diseases. However, temporal circadian changes in the quantity and quality of dental biofilms are poorly understood. This study aimed to investigate the impacts of sleeping on dental biofilm amounts and compositions by using an in situ model. The use of this in situ model enabled us to investigate dental biofilm formed in the oral cavity and to perform a quantitative analysis. Subjects began wearing oral splints in the morning or before sleeping, and biofilm samples were collected at 8, 16, and 24 h after the subjects began wearing oral splints; these samples were then used in various experiments. No significant changes in the numbers of biofilm-forming bacteria were caused by sleep. However, the relative abundances of genera related to periodontitis (i.e., Fusobacterium and Prevotella ) increased after awakening. In conclusion, the numbers of biofilm-forming bacteria were not affected by sleep, and the abundances of obligate anaerobes increased after sleep. This research may aid in defining efficacious preventive oral care.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2021",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Japan",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

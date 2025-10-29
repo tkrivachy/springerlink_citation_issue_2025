@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.966911",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-24",
+    "title": "Time trends in the impact factor of Public Health journals",
+    "article_number": "24",
+    "publication_date": "2005-03-18",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Gonzalo López-Abente",
+      "Concha Muñoz-Tinoco"
+    ]
+  },
+  "article_index": 125,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:21:17.841719"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T12:21:19.388116"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:21:20.713355"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T20:48:53.177446"
+    },
+    "last_updated": "2025-10-03T20:48:53.177639"
+  }
+}

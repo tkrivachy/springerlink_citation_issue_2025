@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.199634",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20265-2",
+    "title": "Three-phase electric power driven electroluminescent devices",
+    "article_number": "54",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Junpeng Ji",
+      "Igor F. Perepichka",
+      "Junwu Bai",
+      "Dan Hu",
+      "Xiuru Xu",
+      "Ming Liu",
+      "Tao Wang",
+      "Changbin Zhao",
+      "Hong Meng",
+      "Wei Huang"
+    ]
+  },
+  "article_index": 160,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:26:19.843661"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:26:21.430037"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:26:22.615066"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T23:02:43.361393"
+    },
+    "last_updated": "2025-10-03T23:02:43.361446"
+  }
+}

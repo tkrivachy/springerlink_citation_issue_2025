@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.306926",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56153-z",
+    "title": "Two-dimensional echocardiography after return of spontaneous circulation and its association with in-hospital survival after in-hospital cardiopulmonary resuscitation",
+    "article_number": "11",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "In-Ae Song",
+      "Jun Kwon Cha",
+      "Tak Kyu Oh",
+      "You Hwan Jo",
+      "Yeonyee E. Yoon"
+    ]
+  },
+  "article_index": 69,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:31:58.192033"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:31:59.720863"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T14:32:00.864021"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:36:07.527671"
+    },
+    "last_updated": "2025-10-03T21:36:07.527720"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.523340",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55355-y",
+    "title": "Magnetic field control over the axial character of Higgs modes in charge-density wave compounds",
+    "article_number": "114",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Dirk Wulferding",
+      "Jongho Park",
+      "Takami Tohyama",
+      "Seung Ryong Park",
+      "Changyoung Kim"
+    ]
+  },
+  "article_index": 97,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:37:27.787924"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:37:29.347269"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:37:30.524553"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T23:26:30.872097"
+    },
+    "last_updated": "2025-10-03T23:26:30.872145"
+  }
+}

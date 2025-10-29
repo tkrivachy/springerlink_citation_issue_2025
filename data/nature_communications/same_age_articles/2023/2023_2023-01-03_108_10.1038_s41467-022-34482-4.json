@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.653305",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-34482-4",
+    "title": "Black phosphorous-based human-machine communication interface",
+    "article_number": "2",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jayraj V. Vaghasiya",
+      "Carmen C. Mayorga-Martinez",
+      "Jan Vyskočil",
+      "Martin Pumera"
+    ]
+  },
+  "article_index": 108,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T18:54:36.664831"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T18:54:38.231690"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:54:39.409954"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:12:12.436754"
+    },
+    "last_updated": "2025-10-03T23:12:12.436801"
+  }
+}

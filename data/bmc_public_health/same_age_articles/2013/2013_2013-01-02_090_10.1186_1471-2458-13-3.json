@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.820684",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-3",
+    "title": "Adverse childhood experiences and frequent insufficient sleep in 5 U.S. States, 2009: a retrospective cohort study",
+    "article_number": "3",
+    "publication_date": "2013-01-03",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Daniel P Chapman",
+      "Yong Liu",
+      "Letitia R Presley-Cantrell",
+      "Valerie J Edwards",
+      "Anne G Wheaton",
+      "Geraldine S Perry",
+      "Janet B Croft"
+    ]
+  },
+  "article_index": 90,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 139,
+      "retrieved_at": "2025-10-03T12:48:22.760349"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T12:48:24.334728"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T12:48:25.704748"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T20:58:38.641739"
+    },
+    "last_updated": "2025-10-03T20:58:38.641824"
+  }
+}

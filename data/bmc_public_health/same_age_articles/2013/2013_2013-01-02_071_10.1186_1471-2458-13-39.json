@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:20.817816",
+  "year": 2013,
+  "article_type": "comparison",
+  "publication_date": "2013-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-13-39",
+    "title": "Auditory dysfunction associated with solvent exposure",
+    "article_number": "39",
+    "publication_date": "2013-01-16",
+    "volume": "13",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Adrian Fuente",
+      "Bradley McPherson",
+      "Louise Hickson"
+    ]
+  },
+  "article_index": 71,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T12:47:07.498466"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T12:47:09.055663"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T12:47:10.353073"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T20:58:11.439626"
+    },
+    "last_updated": "2025-10-03T20:58:11.439814"
+  }
+}

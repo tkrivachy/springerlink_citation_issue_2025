@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606046",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02136-5",
+    "title": "Author Correction: Gene isoforms as expression-based biomarkers predictive of drug response in vitro",
+    "article_number": "166",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhaleh Safikhani",
+      "Petr Smirnov",
+      "Kelsie L. Thu",
+      "Jennifer Silvester",
+      "Nehme El-Hachem",
+      "Rene Quevedo",
+      "Mathieu Lupien",
+      "Tak W. Mak",
+      "David Cescon",
+      "Benjamin Haibe-Kains"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:27.766186",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T11:44:00.242264"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:06:49.898020"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T17:06:51.100604"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:35:27.766122"
+    }
+  }
+}

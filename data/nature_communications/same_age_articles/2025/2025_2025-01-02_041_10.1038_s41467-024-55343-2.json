@@ -1,0 +1,69 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.515771",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55343-2",
+    "title": "Interplay between disorder and topology in Thouless pumping on a superconducting quantum processor",
+    "article_number": "108",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu Liu",
+      "Yu-Ran Zhang",
+      "Yun-Hao Shi",
+      "Tao Liu",
+      "Congwei Lu",
+      "Yong-Yi Wang",
+      "Hao Li",
+      "Tian-Ming Li",
+      "Cheng-Lin Deng",
+      "Si-Yun Zhou",
+      "Tong Liu",
+      "Jia-Chi Zhang",
+      "Gui-Han Liang",
+      "Zheng-Yang Mei",
+      "Wei-Guo Ma",
+      "Hao-Tian Liu",
+      "Zheng-He Liu",
+      "Chi-Tong Chen",
+      "Kaixuan Huang",
+      "Xiaohui Song",
+      "S. P. Zhao",
+      "Ye Tian",
+      "Zhongcheng Xiang",
+      "Dongning Zheng",
+      "Franco Nori",
+      "Kai Xu",
+      "Heng Fan"
+    ]
+  },
+  "article_index": 41,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:40:11.391831"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:40:12.942784"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:40:14.152929"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:27:33.865542"
+    },
+    "last_updated": "2025-10-03T23:27:33.865731"
+  }
+}

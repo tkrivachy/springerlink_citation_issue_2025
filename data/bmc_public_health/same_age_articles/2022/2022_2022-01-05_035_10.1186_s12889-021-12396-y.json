@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.589482",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12396-y",
+    "title": "Predicting human papillomavirus vaccine uptake in men who have sex with men the influence of vaccine price and receiving an HPV diagnosis",
+    "article_number": "28",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Po-Yi Yao",
+      "Chung-Ying Lin",
+      "Nai-Ying Ko",
+      "Huachun Zou",
+      "Chia-Wen Lee",
+      "Carol Strong"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T14:08:02.691743"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:08:04.262575"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:08:05.528437"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T21:27:22.604375"
+    },
+    "last_updated": "2025-10-03T21:27:22.604570"
+  }
+}

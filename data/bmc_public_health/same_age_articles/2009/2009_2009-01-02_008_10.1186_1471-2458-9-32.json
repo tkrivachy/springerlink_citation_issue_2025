@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:42.791576",
+  "year": 2009,
+  "article_type": "comparison",
+  "publication_date": "2009-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-9-32",
+    "title": "Effectiveness of a web-based self-help smoking cessation intervention: protocol of a randomised controlled trial",
+    "article_number": "32",
+    "publication_date": "2009-01-22",
+    "volume": "9",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jeannet JAM Kramer",
+      "Marc C Willemsen",
+      "Barbara Conijn",
+      "Andrée J van Emst",
+      "Suzanne Brunsting",
+      "Heleen Riper"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T12:35:30.649750"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T12:35:32.224395"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T12:35:33.494381"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T20:53:57.305422"
+    },
+    "last_updated": "2025-10-03T20:53:57.305610"
+  }
+}

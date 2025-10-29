@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.886748",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13870-3",
+    "title": "Selecting likely causal risk factors from high-throughput experiments using multivariable Mendelian randomization",
+    "article_number": "29",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Verena Zuber",
+      "Johanna Maria Colijn",
+      "Caroline Klaver",
+      "Stephen Burgess"
+    ]
+  },
+  "article_index": 85,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 181,
+      "retrieved_at": "2025-10-03T18:20:20.147797"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 191,
+      "retrieved_at": "2025-10-03T18:20:21.674258"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 167,
+      "retrieved_at": "2025-10-03T18:20:22.820607"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 221,
+      "retrieved_at": "2025-10-03T23:00:40.525800"
+    },
+    "last_updated": "2025-10-03T23:00:40.525989"
+  }
+}

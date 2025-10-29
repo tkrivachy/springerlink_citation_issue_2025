@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.641691",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35494-w",
+    "title": "Molecular subtypes of ALS are associated with differences in patient prognosis",
+    "article_number": "95",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jarrett Eshima",
+      "Samantha A. O’Connor",
+      "Ethan Marschall",
+      "Robert Bowser",
+      "Christopher L. Plaisier",
+      "Barbara S. Smith"
+    ]
+  },
+  "article_index": 42,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:54:19.907253"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T18:54:21.572193"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T18:54:22.757517"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T23:12:05.821393"
+    },
+    "last_updated": "2025-10-03T23:12:05.821596"
+  }
+}

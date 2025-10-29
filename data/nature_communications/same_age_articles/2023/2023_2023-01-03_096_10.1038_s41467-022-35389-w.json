@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.652032",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35389-w",
+    "title": "CRISPR-based targeted haplotype-resolved assembly of a megabase region",
+    "article_number": "22",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Taotao Li",
+      "Duo Du",
+      "Dandan Zhang",
+      "Yicheng Lin",
+      "Jiakang Ma",
+      "Mengyu Zhou",
+      "Weida Meng",
+      "Zelin Jin",
+      "Ziqiang Chen",
+      "Haozhe Yuan",
+      "Jue Wang",
+      "Shulong Dong",
+      "Shaoyang Sun",
+      "Wenjing Ye",
+      "Bosen Li",
+      "Houbao Liu",
+      "Zhao Zhang",
+      "Yuchen Jiao",
+      "Zhi Xie",
+      "Wenqing Qiu",
+      "Yun Liu"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T18:48:14.731084"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:48:16.260621"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:48:17.458282"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:10:02.706526"
+    },
+    "last_updated": "2025-10-03T23:10:02.706715"
+  }
+}

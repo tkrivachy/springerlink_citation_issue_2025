@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.606697",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02575-0",
+    "title": "Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization",
+    "article_number": "108",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Miguel Mompeán",
+      "Rosa M. Sánchez-Donoso",
+      "Antonio de la Hoz",
+      "Vittorio Saggiomo",
+      "Aldrik H. Velders",
+      "M. Victoria Gomez"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:34:56.787876",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T11:43:52.796931"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T17:05:42.137056"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T17:05:43.322453"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T22:34:56.787684"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41598-023-50939-y</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41598-023-50939-y</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41598-023-50939-y</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41598-023-50939-y.pdf</ns2:url>
+          <dc:title>BAF45D-binding to HOX genes was differentially targeted in H9-derived spinal cord neural stem cells</dc:title>
+          <dc:creator>Liu, Chang</dc:creator>
+          <dc:creator>Xie, Yuxin</dc:creator>
+          <dc:creator>Chen, Xueying</dc:creator>
+          <dc:creator>Liu, Lihua</dc:creator>
+          <dc:creator>Liu, Chao</dc:creator>
+          <dc:creator>Yin, Zongsheng</dc:creator>
+          <ns2:publicationName>Scientific Reports</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2045-2322</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41598</journalId>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>11</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2024-01-02</onlineDate>
+          <ns2:coverDate>2024-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41598-023-50939-y</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2024-01-02</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41598-023-50939-y</ns2:url>
+          <ns2:copyright>©2024 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Chromatin accessibility has been used to define how cells adopt region-specific neural fates. BAF45D is one of the subunits of a specialised chromatin remodelling BAF complex. It has been reported that BAF45D is expressed in spinal cord neural stem cells (NSCs) and regulates their fate specification. Within the developing vertebrate spinal cord, HOX genes exhibit spatially restricted expression patterns. However, the chromatin accessibility of BAF45D binding HOX genes in spinal cord NSCs is unclear. In the present study, we found that in H9-derived spinal cord NSCs, BAF45D targets TBX6 , a gene that regulates spinal cord neural mesodermal progenitors. Furthermore, BAF45D binding to the NES gene is much more enriched in H9-derived spinal cord NSCs chromatin compared to ESCs chromatin. In addition, BAF45D binding to anterior and trunk/central HOX genes, but not to lumbosacral HOX genes, was much more enriched in NSCs chromatin compared to ESCs chromatin. These results may shed new light on the role of BAF45D in regulating region-specific spinal cord NSCs by targeting HOX genes.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Scientific Reports</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2024</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">China</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

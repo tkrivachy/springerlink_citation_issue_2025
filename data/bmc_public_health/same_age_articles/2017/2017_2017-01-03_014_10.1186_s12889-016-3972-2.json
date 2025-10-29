@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.425779",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3972-2",
+    "title": "Risk factors for mortality in TB patients: a 10-year electronic record review in a South African province",
+    "article_number": "38",
+    "publication_date": "2017-01-06",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "J Christo Heunis",
+      "N Gladys Kigozi",
+      "Perpetual Chikobvu",
+      "Sonja Botha",
+      "HCJ Dingie van Rensburg"
+    ]
+  },
+  "article_index": 14,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T13:22:53.311212"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T13:22:54.863732"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T13:22:56.183923"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T21:11:14.735178"
+    },
+    "last_updated": "2025-10-03T21:11:14.735270"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:50:22.428474",
+  "year": 2017,
+  "article_type": "comparison",
+  "publication_date": "2017-01-03",
+  "article_data": {
+    "doi": "10.1186/s12889-016-3929-5",
+    "title": "Study Protocol: The Norfolk Diabetes Prevention Study [NDPS]: a 46 month multi - centre, randomised, controlled parallel group trial of a lifestyle intervention [with or without additional support from lay lifestyle mentors with Type 2 diabetes] to prevent transition to Type 2 diabetes in high risk groups with non - diabetic hyperglycaemia, or impaired fasting glucose",
+    "article_number": "31",
+    "publication_date": "2017-01-06",
+    "volume": "17",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Melanie Pascale",
+      "Nikki Murray",
+      "Max Bachmann",
+      "Garry Barton",
+      "Allan Clark",
+      "Amanda Howe",
+      "Colin Greaves",
+      "Mike Sampson"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T13:24:24.263995"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:24:25.874986"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:24:27.166890"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:11:45.722557"
+    },
+    "last_updated": "2025-10-03T21:11:45.722653"
+  }
+}

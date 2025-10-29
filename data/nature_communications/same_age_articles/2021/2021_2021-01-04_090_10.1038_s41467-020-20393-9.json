@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.189006",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20393-9",
+    "title": "Cultivation of elusive microbes unearthed exciting biology",
+    "article_number": "75",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Muriel C. F. van Teeseling",
+      "Christian Jogler"
+    ]
+  },
+  "article_index": 90,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:37:04.122480"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:37:05.636689"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:37:06.811160"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:06:19.050665"
+    },
+    "last_updated": "2025-10-03T23:06:19.050724"
+  }
+}

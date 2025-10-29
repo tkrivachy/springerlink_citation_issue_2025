@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.646892",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10186-0",
+    "title": "The role of sexual compulsivity in unprotected intercourse among STI patients in Shanghai, China",
+    "article_number": "141",
+    "publication_date": "2021-01-15",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yang Ni",
+      "Hengan Liu",
+      "Ruijie Gong",
+      "Mei Shi",
+      "Shuxian Zhang",
+      "Suping Wang",
+      "Yong Cai"
+    ]
+  },
+  "article_index": 140,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:58:41.297596"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:58:42.844037"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:58:44.083450"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:24:01.690904"
+    },
+    "last_updated": "2025-10-03T21:24:01.691091"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.513757",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-7",
+    "title": "Verbal autopsy of 48 000 adult deaths attributable to medical causes in Chennai (formerly Madras), India",
+    "article_number": "7",
+    "publication_date": "2002-05-16",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Vendhan Gajalakshmi",
+      "Richard Peto",
+      "Santhanakrishnan Kanaka",
+      "Sivagurunathan Balasubramanian"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T11:53:09.904801"
+    },
+    "last_updated": "2025-10-03T20:41:12.605827",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T12:00:28.472854"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T12:00:29.849880"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T20:41:12.605767"
+    }
+  }
+}

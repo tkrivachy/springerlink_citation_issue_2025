@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:40:57.087816",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-09",
+  "article_data": {
+    "doi": "10.1038/s41598-018-37896-7",
+    "title": "Two new species of dictyostelid cellular slime molds in high-elevation habitats on the Qinghai-Tibet Plateau, China",
+    "article_number": "5",
+    "publication_date": "2019-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Pu Liu",
+      "Yue Zou",
+      "Shu Li",
+      "Steven L. Stephenson",
+      "Qi Wang",
+      "Yu Li"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:22:27.993983"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:22:29.536018"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:22:30.725027"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T21:32:21.144894"
+    },
+    "last_updated": "2025-10-03T21:32:21.145083"
+  }
+}

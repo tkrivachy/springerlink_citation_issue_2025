@@ -1,0 +1,23 @@
+{
+  "endpoint": "meta_v2",
+  "format": "json",
+  "test_doi": "10.1038/s41467-022-35673-9",
+  "safe_doi": "10_1038_s41467-022-35673-9",
+  "timestamp": "2025-10-20 14:10:34",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.517336368560791,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/meta/v2/json",
+    "params": {
+      "api_key": "7840cf20127b6139d41324d1fcc80058",
+      "q": "doi:10.1038/s41467-022-35673-9",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'openaccess', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'conferenceInfo', 'subjects', 'disciplines']\ndoi: 10.1038/s41467-022-35673-9...\ntitle: Methane emissions offset atmospheric carbon dioxide uptake in coastal macroalgae, mixed vegetation a...\ncreators: [{'ORCID': '0000-0003-4004-5863', 'creator': 'Roth, Florian'}, {'ORCID': '0000-0001-9005-5168', 'cre...\npublicationName: Nature Communications...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "meta_v2_json.json"
+}

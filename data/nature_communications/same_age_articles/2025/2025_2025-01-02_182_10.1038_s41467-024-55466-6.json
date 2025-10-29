@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.537482",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55466-6",
+    "title": "Generic residue numbering of the GAIN domain of adhesion GPCRs",
+    "article_number": "246",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Florian Seufert",
+      "Guillermo Pérez-Hernández",
+      "Gáspár Pándy-Szekeres",
+      "Ramon Guixà-González",
+      "Tobias Langenhan",
+      "David E. Gloriam",
+      "Peter W. Hildebrand"
+    ]
+  },
+  "article_index": 182,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:13.516899"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T19:15:15.021605"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:16.228612"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T23:19:16.881669"
+    },
+    "last_updated": "2025-10-03T23:19:16.881767"
+  }
+}

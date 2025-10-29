@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.860721",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50363-2",
+    "title": "Spatio-temporal epidemiology and associated indicators of COVID-19 (wave-I and II) in India",
+    "article_number": "220",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Karuppusamy Balasubramani",
+      "Venkatesh Ravichandran",
+      "Kumar Arun Prasad",
+      "Mu. Ramkumar",
+      "Sulochana Shekhar",
+      "Meenu Mariya James",
+      "Naveen Kumar Kodali",
+      "Sujit Kumar Behera",
+      "Natarajan Gopalan",
+      "Rakesh Kumar Sharma",
+      "Devojit Kumar Sarma",
+      "M. Santosh",
+      "Aditya Prasad Dash",
+      "Praveen Balabaskaran Nina"
+    ]
+  },
+  "article_index": 265,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:00:57.259045"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:00:58.807740"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:01:00.074739"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:11:56.478450"
+    },
+    "last_updated": "2025-10-03T22:11:56.478637"
+  }
+}

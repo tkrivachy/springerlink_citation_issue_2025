@@ -1,0 +1,68 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.638229",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35771-8",
+    "title": "A population-based matched cohort study of major congenital anomalies following COVID-19 vaccination and SARS-CoV-2 infection",
+    "article_number": "107",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Clara Calvert",
+      "Jade Carruthers",
+      "Cheryl Denny",
+      "Jack Donaghy",
+      "Lisa E. M. Hopcroft",
+      "Leanne Hopkins",
+      "Anna Goulding",
+      "Laura Lindsay",
+      "Terry McLaughlin",
+      "Emily Moore",
+      "Bob Taylor",
+      "Maria Loane",
+      "Helen Dolk",
+      "Joan Morris",
+      "Bonnie Auyeung",
+      "Krishnan Bhaskaran",
+      "Cheryl L. Gibbons",
+      "Srinivasa Vittal Katikireddi",
+      "Maureen O’Leary",
+      "David McAllister",
+      "Ting Shi",
+      "Colin R. Simpson",
+      "Chris Robertson",
+      "Aziz Sheikh",
+      "Sarah J. Stock",
+      "Rachael Wood"
+    ]
+  },
+  "article_index": 32,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:44:31.671400"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T18:44:33.395184"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:44:34.720013"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T23:08:50.778850"
+    },
+    "last_updated": "2025-10-03T23:08:50.778964"
+  }
+}

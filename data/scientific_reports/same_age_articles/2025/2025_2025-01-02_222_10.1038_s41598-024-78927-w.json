@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.372065",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-78927-w",
+    "title": "Chemical compatibility at the interface of garnet-type Ga-LLZO solid electrolyte and high-energy Li-rich layered oxide cathode for all-solid-state batteries",
+    "article_number": "241",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Natalia B. Timusheva",
+      "Alexander A. Golubnichiy",
+      "Anatolii V. Morozov",
+      "Arseniy S. Burov",
+      "Dmitry A. Aksyonov",
+      "Aleksandra A. Savina",
+      "Roman G. Markopolskii",
+      "Artem M. Abakumov"
+    ]
+  },
+  "article_index": 222,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:56:28.278839"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T16:56:29.796628"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:56:31.056816"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T22:31:44.947961"
+    },
+    "last_updated": "2025-10-03T22:31:44.948155"
+  }
+}

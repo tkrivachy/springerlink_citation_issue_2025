@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.688685",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08509-2",
+    "title": "Author Correction: Hysteresis control of epithelial-mesenchymal transition dynamics conveys a distinct program with enhanced metastatic ability",
+    "article_number": "527",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Toni Celià-Terrassa",
+      "Caleb Bastian",
+      "Daniel D. Liu",
+      "Brian Ell",
+      "Nicole M. Aiello",
+      "Yong Wei",
+      "Jose Zamalloa",
+      "Andres M. Blanco",
+      "Xiang Hang",
+      "Dmitriy Kunisky",
+      "Wenyang Li",
+      "Elizabeth D. Williams",
+      "Herschel Rabitz",
+      "Yibin Kang"
+    ]
+  },
+  "article_index": 106,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T17:14:28.275931"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:14:29.971102"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:14:31.150047"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:38:14.953406"
+    },
+    "last_updated": "2025-10-03T22:38:14.953581"
+  }
+}

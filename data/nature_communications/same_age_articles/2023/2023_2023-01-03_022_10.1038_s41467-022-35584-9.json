@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.633698",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35584-9",
+    "title": "Tumor-intrinsic IRE1α signaling controls protective immunity in lung cancer",
+    "article_number": "120",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Michael J. P. Crowley",
+      "Bhavneet Bhinder",
+      "Geoffrey J. Markowitz",
+      "Mitchell Martin",
+      "Akanksha Verma",
+      "Tito A. Sandoval",
+      "Chang-Suk Chae",
+      "Shira Yomtoubian",
+      "Yang Hu",
+      "Sahil Chopra",
+      "Diamile A. Tavarez",
+      "Paolo Giovanelli",
+      "Dingcheng Gao",
+      "Timothy E. McGraw",
+      "Nasser K. Altorki",
+      "Olivier Elemento",
+      "Juan R. Cubillos-Ruiz",
+      "Vivek Mittal"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:50:40.527522"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T18:50:42.045798"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:50:43.327171"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T23:10:53.963213"
+    },
+    "last_updated": "2025-10-03T23:10:53.963445"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.713826",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08260-0",
+    "title": "Chromosome-level assembly of the water buffalo genome surpasses human and goat genomes in sequence contiguity",
+    "article_number": "260",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Wai Yee Low",
+      "Rick Tearle",
+      "Derek M. Bickhart",
+      "Benjamin D. Rosen",
+      "Sarah B. Kingan",
+      "Thomas Swale",
+      "Françoise Thibaud-Nissen",
+      "Terence D. Murphy",
+      "Rachel Young",
+      "Lucas Lefevre",
+      "David A. Hume",
+      "Andrew Collins",
+      "Paolo Ajmone-Marsan",
+      "Timothy P. L. Smith",
+      "John L. Williams"
+    ]
+  },
+  "article_index": 334,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 125,
+      "retrieved_at": "2025-10-03T17:23:24.510202"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 133,
+      "retrieved_at": "2025-10-03T17:23:26.034131"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T17:23:27.187344"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 143,
+      "retrieved_at": "2025-10-03T22:41:13.142913"
+    },
+    "last_updated": "2025-10-03T22:41:13.143100"
+  }
+}

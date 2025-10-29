@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.374045",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84578-8",
+    "title": "Four-dimensional anatomical spinal reconstruction using pre-bent rods in thoracic adolescent idiopathic scoliosis",
+    "article_number": "378",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Akira Fukushima",
+      "Takashi Ohnishi",
+      "Terufumi Kokabu",
+      "Yuichiro Abe",
+      "Hiroyuki Tachi",
+      "Tsutomu Endo",
+      "Daisuke Ukeba",
+      "Norimasa Iwasaki",
+      "Katsuhisa Yamada",
+      "Hideki Sudo"
+    ]
+  },
+  "article_index": 234,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:02:48.290771"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:02:49.864951"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:46:05.609766"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:12:40.838206"
+    },
+    "last_updated": "2025-10-07T09:46:05.609913"
+  }
+}

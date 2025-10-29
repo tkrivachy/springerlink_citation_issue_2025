@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.833515",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-49975-5",
+    "title": "Identification of core carcinogenic elements based on the age-standardized mortality rate of lung cancer in Xuanwei Formation coal in China",
+    "article_number": "232",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zailin Chen",
+      "Xianfeng Cheng",
+      "Xingyu Wang",
+      "Shijun Ni",
+      "Qiulian Yu",
+      "Junchun Hu"
+    ]
+  },
+  "article_index": 67,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:49:11.466374"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:49:13.125932"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:49:14.285679"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:07:30.189086"
+    },
+    "last_updated": "2025-10-03T22:07:30.189277"
+  }
+}

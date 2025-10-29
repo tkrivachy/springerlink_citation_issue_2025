@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.650904",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35744-x",
+    "title": "In vivo clonal tracking reveals evidence of haemangioblast and haematomesoblast contribution to yolk sac haematopoiesis",
+    "article_number": "41",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "C. Biben",
+      "T. S. Weber",
+      "K. S. Potts",
+      "J. Choi",
+      "D. C. Miles",
+      "A. Carmagnac",
+      "T. Sargeant",
+      "C. A. de Graaf",
+      "K. A. Fennell",
+      "A. Farley",
+      "O. J. Stonehouse",
+      "M. A. Dawson",
+      "D. J. Hilton",
+      "S. H. Naik",
+      "S. Taoudi"
+    ]
+  },
+  "article_index": 86,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:50:45.902755"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:50:47.428209"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:50:48.767750"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:10:56.069153"
+    },
+    "last_updated": "2025-10-03T23:10:56.069367"
+  }
+}

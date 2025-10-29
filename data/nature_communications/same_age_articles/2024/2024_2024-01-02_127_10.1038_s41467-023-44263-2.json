@@ -1,0 +1,71 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.679769",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44263-2",
+    "title": "Mucosal TLR5 activation controls healthspan and longevity",
+    "article_number": "46",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jae Sung Lim",
+      "Eun Jae Jeon",
+      "Hye Sun Go",
+      "Hyung-Jin Kim",
+      "Kye Young Kim",
+      "Thi Quynh Trang Nguyen",
+      "Da Young Lee",
+      "Kyu Suk Kim",
+      "Federico Pietrocola",
+      "Seol Hee Hong",
+      "Shee Eun Lee",
+      "Kyoung-Shim Kim",
+      "Tae-Shin Park",
+      "Dong-Hee Choi",
+      "Yu-Jin Jeong",
+      "Jong-Hwan Park",
+      "Hyeon Sik Kim",
+      "Jung-Joon Min",
+      "Yong Sook Kim",
+      "Joon Tae Park",
+      "Jae-Ho Cho",
+      "Gil-Woo Lee",
+      "Ji Hyeon Lee",
+      "Hyon E. Choy",
+      "Sang Chul Park",
+      "Chul-Ho Lee",
+      "Joon Haeng Rhee",
+      "Manuel Serrano",
+      "Kyung A Cho"
+    ]
+  },
+  "article_index": 127,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:13:26.380764"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:13:27.936490"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:13:29.208074"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:18:41.563090"
+    },
+    "last_updated": "2025-10-03T23:18:41.563211"
+  }
+}

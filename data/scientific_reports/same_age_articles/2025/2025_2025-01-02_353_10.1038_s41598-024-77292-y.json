@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.386578",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-77292-y",
+    "title": "Carboxylated nanocellulose from quinoa husk for enhanced protease immobilization and stability of protease in biotechnological applications",
+    "article_number": "256",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Shohreh Ariaeenejad",
+      "Elaheh Motamedi"
+    ]
+  },
+  "article_index": 353,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:28:54.999816"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:28:56.698206"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:51:29.033473"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:21:54.946640"
+    },
+    "last_updated": "2025-10-07T09:51:29.033583"
+  }
+}

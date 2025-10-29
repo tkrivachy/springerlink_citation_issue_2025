@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.673116",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44358-w",
+    "title": "Dopamine release in human associative striatum during reversal learning",
+    "article_number": "59",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Filip Grill",
+      "Marc Guitart-Masip",
+      "Jarkko Johansson",
+      "Lars Stiernman",
+      "Jan Axelsson",
+      "Lars Nyberg",
+      "Anna Rieckmann"
+    ]
+  },
+  "article_index": 67,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T19:03:59.828054"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:04:01.382960"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:04:02.565828"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:15:22.607271"
+    },
+    "last_updated": "2025-10-03T23:15:22.607501"
+  }
+}

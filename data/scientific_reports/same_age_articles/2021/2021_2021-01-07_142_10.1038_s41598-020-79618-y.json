@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.224869",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-79618-y",
+    "title": "A comparison of soil texture measurements using mid-infrared spectroscopy (MIRS) and laser diffraction analysis (LDA) in diverse soils",
+    "article_number": "16",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Cathy L. Thomas",
+      "Javier Hernandez-Allica",
+      "Sarah J. Dunham",
+      "Steve P. McGrath",
+      "Stephan M. Haefele"
+    ]
+  },
+  "article_index": 142,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T14:40:33.760520"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T14:40:35.326690"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:40:36.605097"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T21:39:39.732451"
+    },
+    "last_updated": "2025-10-03T21:39:39.732643"
+  }
+}

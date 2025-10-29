@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.667991",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8205-z",
+    "title": "Correlations between opioid mortality increases related to illicit/synthetic opioids and reductions of medical opioid dispensing - exploratory analyses from Canada",
+    "article_number": "143",
+    "publication_date": "2020-01-31",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Benedikt Fischer",
+      "Wayne Jones",
+      "Mark Tyndall",
+      "Paul Kurdyak"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T13:40:41.399444"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T13:40:42.920229"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T13:40:44.243065"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T21:17:39.017531"
+    },
+    "last_updated": "2025-10-03T21:17:39.017720"
+  }
+}

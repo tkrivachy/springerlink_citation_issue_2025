@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.395098",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83443-y",
+    "title": "Association of pre-exiting heart failure with long-term mortality and the recurrence of sepsis",
+    "article_number": "343",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jin-Wen Zhu",
+      "Xiu-Ping Hu",
+      "Jun Jin",
+      "Bai Xu",
+      "Run Zhang",
+      "Sen Ye",
+      "Fang-Xiao Gong",
+      "Jun Hong",
+      "Qian Li",
+      "Xiang-Hong Yang",
+      "Ren-Hua Sun"
+    ]
+  },
+  "article_index": 422,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:50:57.686144"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:50:59.406240"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:51:00.572687"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:29:50.265633"
+    },
+    "last_updated": "2025-10-03T22:29:50.265681"
+  }
+}

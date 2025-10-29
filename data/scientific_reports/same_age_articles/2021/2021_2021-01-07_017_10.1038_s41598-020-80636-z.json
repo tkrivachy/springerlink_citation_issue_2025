@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.204750",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80636-z",
+    "title": "Shift in polar benthic community structure in a fast retreating glacial area of Marian Cove, West Antarctica",
+    "article_number": "241",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hanna Bae",
+      "In-Young Ahn",
+      "Jinsoon Park",
+      "Sung Joon Song",
+      "Junsung Noh",
+      "Hosang Kim",
+      "Jong Seong Khim"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:47:24.567195"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:47:26.078807"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:47:27.380742"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T21:42:27.671952"
+    },
+    "last_updated": "2025-10-03T21:42:27.672141"
+  }
+}

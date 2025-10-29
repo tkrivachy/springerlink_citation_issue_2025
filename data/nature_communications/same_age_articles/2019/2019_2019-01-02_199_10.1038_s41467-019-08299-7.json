@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.698687",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08299-7",
+    "title": "The circadian clock components BMAL1 and REV-ERBα regulate flavivirus replication",
+    "article_number": "377",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaodong Zhuang",
+      "Andrea Magri",
+      "Michelle Hill",
+      "Alvina G. Lai",
+      "Abhinav Kumar",
+      "Srinivasa Bhargav Rambhatla",
+      "Claire L. Donald",
+      "Andrea F. Lopez-Clavijo",
+      "Simon Rudge",
+      "Katherine Pinnick",
+      "Wai Hoong Chang",
+      "Peter A. C. Wing",
+      "Ryan Brown",
+      "Ximing Qin",
+      "Peter Simmonds",
+      "Thomas F. Baumert",
+      "David Ray",
+      "Andrew Loudon",
+      "Peter Balfe",
+      "Michael Wakelam",
+      "Sam Butterworth",
+      "Alain Kohl",
+      "Catherine L. Jopling",
+      "Nicole Zitzmann",
+      "Jane A. McKeating"
+    ]
+  },
+  "article_index": 199,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T17:26:08.253256"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:26:09.778944"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T17:26:10.972850"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T22:42:11.426966"
+    },
+    "last_updated": "2025-10-03T22:42:11.427155"
+  }
+}

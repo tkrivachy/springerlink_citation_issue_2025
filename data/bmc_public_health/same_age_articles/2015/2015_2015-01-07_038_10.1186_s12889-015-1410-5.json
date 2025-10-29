@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.243063",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1410-5",
+    "title": "Effectiveness of a problem-solving based intervention to prolong the working life of ageing workers",
+    "article_number": "76",
+    "publication_date": "2015-02-04",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Wendy Koolhaas",
+      "Johan W Groothoff",
+      "Michiel R de Boer",
+      "Jac JL van der Klink",
+      "Sandra Brouwer"
+    ]
+  },
+  "article_index": 38,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T13:11:31.858075"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:11:33.405730"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:11:34.698593"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T21:07:00.183174"
+    },
+    "last_updated": "2025-10-03T21:07:00.183399"
+  }
+}

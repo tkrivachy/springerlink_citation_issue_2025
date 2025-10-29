@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.865644",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04128-4",
+    "title": "Clinical significance of controlling nutritional status score (CONUT) in evaluating outcome of postoperative patients with gastric cancer",
+    "article_number": "93",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qi Xiao",
+      "Xiaoqing Li",
+      "Baojun Duan",
+      "Xiaofan Li",
+      "Sida Liu",
+      "Boyu Xu",
+      "Shuai Shi",
+      "Jin Zhang",
+      "Haoyuan Qin",
+      "Xianglong Duan",
+      "Yansong Pu"
+    ]
+  },
+  "article_index": 88,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:58:03.007724"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:58:04.529319"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T14:58:05.692684"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T21:46:36.039108"
+    },
+    "last_updated": "2025-10-03T21:46:36.039299"
+  }
+}

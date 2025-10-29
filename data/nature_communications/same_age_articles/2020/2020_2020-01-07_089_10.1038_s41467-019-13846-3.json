@@ -1,0 +1,43 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.887181",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13846-3",
+    "title": "Coherence distillation machines are impossible in quantum thermodynamics",
+    "article_number": "25",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Iman Marvian"
+    ]
+  },
+  "article_index": 89,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:17:18.303412"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:17:19.859023"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:17:21.011970"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T22:59:37.242612"
+    },
+    "last_updated": "2025-10-03T22:59:37.242734"
+  }
+}

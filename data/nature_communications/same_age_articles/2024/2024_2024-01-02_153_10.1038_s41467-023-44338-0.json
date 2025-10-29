@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.689034",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44338-0",
+    "title": "Mcam inhibits macrophage-mediated development of mammary gland through non-canonical Wnt signaling",
+    "article_number": "36",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xing Yang",
+      "Haibo Xu",
+      "Xu Yang",
+      "Hui Wang",
+      "Li Zou",
+      "Qin Yang",
+      "Xiaopeng Qi",
+      "Li Li",
+      "Hongxia Duan",
+      "Xiyun Yan",
+      "Nai Yang Fu",
+      "Jing Tan",
+      "Zongliu Hou",
+      "Baowei Jiao"
+    ]
+  },
+  "article_index": 153,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T18:57:51.424812"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T18:57:52.991150"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T18:57:54.191134"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:13:19.299920"
+    },
+    "last_updated": "2025-10-03T23:13:19.300009"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.547991",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55056-6",
+    "title": "Invasion of glioma cells through confined space requires membrane tension regulation and mechano-electrical coupling via Plexin-B2",
+    "article_number": "272",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chrystian Junqueira Alves",
+      "Theodore Hannah",
+      "Sita Sadia",
+      "Christy Kolsteeg",
+      "Angela Dixon",
+      "Robert J. Wiener",
+      "Ha Nguyen",
+      "Murray J. Tipping",
+      "Júlia Silva Ladeira",
+      "Paula Fernandes da Costa Franklin",
+      "Nathália de Paula Dutra de Nigro",
+      "Rodrigo Alves Dias",
+      "Priscila V. Zabala Capriles",
+      "José P. Rodrigues Furtado de Mendonça",
+      "Paul A. Slesinger",
+      "Kevin D. Costa",
+      "Hongyan Zou",
+      "Roland H. Friedel"
+    ]
+  },
+  "article_index": 250,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:28:56.287049"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:28:57.885831"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:28:59.047469"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:23:44.334026"
+    },
+    "last_updated": "2025-10-03T23:23:44.334217"
+  }
+}

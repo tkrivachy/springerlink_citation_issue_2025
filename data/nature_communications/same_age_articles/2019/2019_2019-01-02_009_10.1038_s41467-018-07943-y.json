@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.677317",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07943-y",
+    "title": "Band-like transport in small-molecule thin films toward high mobility and ultrahigh detectivity phototransistor arrays",
+    "article_number": "12",
+    "publication_date": "2019-01-02",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Deyang Ji",
+      "Tao Li",
+      "Jie Liu",
+      "Saeed Amirjalayer",
+      "Mianzeng Zhong",
+      "Zhao-Yang Zhang",
+      "Xianhui Huang",
+      "Zhongming Wei",
+      "Huanli Dong",
+      "Wenping Hu",
+      "Harald Fuchs"
+    ]
+  },
+  "article_index": 9,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T17:39:31.977787"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 204,
+      "retrieved_at": "2025-10-03T17:39:33.519806"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 194,
+      "retrieved_at": "2025-10-03T17:39:34.995121"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 212,
+      "retrieved_at": "2025-10-03T22:46:48.620882"
+    },
+    "last_updated": "2025-10-03T22:46:48.621076"
+  }
+}

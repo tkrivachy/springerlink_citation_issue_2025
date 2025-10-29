@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.300356",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56728-w",
+    "title": "New data from Monoplacophora and a carefully-curated dataset resolve molluscan relationships",
+    "article_number": "101",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kevin M. Kocot",
+      "Albert J. Poustka",
+      "Isabella Stöger",
+      "Kenneth M. Halanych",
+      "Michael Schrödl"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T14:32:03.693519"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T14:32:05.227706"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T14:32:06.588169"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T21:36:09.233761"
+    },
+    "last_updated": "2025-10-03T21:36:09.233848"
+  }
+}

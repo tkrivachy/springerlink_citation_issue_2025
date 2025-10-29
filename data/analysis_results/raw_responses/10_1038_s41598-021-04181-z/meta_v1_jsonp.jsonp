@@ -1,0 +1,153 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41598-021-04181-z",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41598-021-04181-z",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-021-04181-z"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41598-021-04181-z.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41598-021-04181-z"
+        }
+      ],
+      "title": "Spherical harmonics to quantify cranial asymmetry in deformational plagiocephaly",
+      "creators": [
+        {
+          "creator": "Grieb, Jonas"
+        },
+        {
+          "creator": "Barbero-García, Inés"
+        },
+        {
+          "creator": "Lerma, José Luis"
+        }
+      ],
+      "publicationName": "Scientific Reports",
+      "openaccess": "true",
+      "doi": "10.1038/s41598-021-04181-z",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2022-01-07",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2045-2322",
+      "volume": "12",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "10",
+      "journalId": "41598",
+      "onlineDate": "2022-01-07",
+      "coverDate": "2022-12",
+      "copyright": "©2022 The Author(s)",
+      "abstract": "Cranial deformation and deformational plagiocephaly (DP) in particular affect an important percentage of infants. The assessment and diagnosis of the deformation are commonly carried by manual measurements that provide low interuser accuracy. Another approach is the use of three-dimensional (3D) models. Nevertheless, in most cases, deformation measurements are carried out manually on the 3D model. It is necessary to develop methodologies for the detection of DP that are automatic, accurate and take profit on the high quantity of information of the 3D models. Spherical harmonics are proposed as a new methodology to identify DP from head 3D models. The ideal fitted ellipsoid for each head is computed and the orthogonal distances between head and ellipsoid are obtained. Finally, the distances are modelled using spherical harmonics. Spherical harmonic coefficients of degree 2 and order − 2 are identified as the correct ones to represent the asymmetry characteristic of DP. The obtained coefficient is compared to other anthropometric deformation indexes, such as Asymmetry Index, Oblique Cranial Length Ratio, Posterior Asymmetry Index and Anterior Asymmetry Index. The coefficient of degree 2 and order − 2 with a maximum degree of 4 is found to provide better results than the commonly computed anthropometric indexes in the detection of DP.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2887",
+          "term": "Technology and Engineering"
+        },
+        {
+          "id": "2867",
+          "term": "Physical Sciences"
+        },
+        {
+          "id": "2874",
+          "term": "Life Sciences"
+        },
+        {
+          "id": "3001",
+          "term": "Behavioral Sciences and Psychology"
+        },
+        {
+          "id": "2971",
+          "term": "Computer Science"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Scientific Reports",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2022",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Spain",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

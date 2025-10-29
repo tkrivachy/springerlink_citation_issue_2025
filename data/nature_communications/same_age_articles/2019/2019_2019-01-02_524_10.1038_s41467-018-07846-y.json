@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.734097",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07846-y",
+    "title": "The signaling axis atypical protein kinase C λ/ι-Satb2 mediates leukemic transformation of B-cell progenitors",
+    "article_number": "46",
+    "publication_date": "2019-01-04",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "R. C. Nayak",
+      "S. Hegde",
+      "M. J. Althoff",
+      "A. M. Wellendorf",
+      "F. Mohmoud",
+      "J. Perentesis",
+      "M. Reina-Campos",
+      "D. Reynaud",
+      "Y. Zheng",
+      "M. T. Diaz-Meco",
+      "J. Moscat",
+      "J. A. Cancelas"
+    ]
+  },
+  "article_index": 524,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T17:47:14.015020"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T17:47:15.573805"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T17:47:16.759377"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T22:49:18.582120"
+    },
+    "last_updated": "2025-10-03T22:49:18.582313"
+  }
+}

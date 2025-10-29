@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.304731",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56834-9",
+    "title": "Distinct structure-function relationships across cortical regions and connectivity scales in the rat brain",
+    "article_number": "56",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Milou Straathof",
+      "Michel R. T. Sinke",
+      "Theresia J. M. Roelofs",
+      "Erwin L. A. Blezer",
+      "R. Angela Sarabdjitsingh",
+      "Annette van der Toorn",
+      "Oliver Schmitt",
+      "Willem M. Otte",
+      "Rick M. Dijkhuizen"
+    ]
+  },
+  "article_index": 48,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:29:46.933170"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T14:29:48.510873"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T14:29:49.780705"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:35:15.133251"
+    },
+    "last_updated": "2025-10-03T21:35:15.133482"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.408192",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84185-7",
+    "title": "A novel electrochemical sensor for the determination of cadmium ions based on nitrogen-enriched carbon modified electrode",
+    "article_number": "441",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "S. Ghrkhlari",
+      "Fatemeh Ahour",
+      "S. Keshipour"
+    ]
+  },
+  "article_index": 542,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:24:57.277961"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:24:58.805516"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:42.597754"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:20:35.161694"
+    },
+    "last_updated": "2025-10-07T09:50:42.597849"
+  }
+}

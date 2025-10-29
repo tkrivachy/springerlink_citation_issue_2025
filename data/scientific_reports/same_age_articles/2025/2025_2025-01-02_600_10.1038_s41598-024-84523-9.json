@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.414402",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84523-9",
+    "title": "Reflective metasurface for 5G & beyond Wireless communications",
+    "article_number": "126",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Monisha Selvaraj",
+      "Ramya Vijay",
+      "Rajesh Anbazhagan"
+    ]
+  },
+  "article_index": 600,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T16:55:52.882278"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:55:54.402132"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:55:55.580517"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T22:31:33.765456"
+    },
+    "last_updated": "2025-10-03T22:31:33.765522"
+  }
+}

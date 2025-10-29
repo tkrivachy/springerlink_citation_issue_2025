@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.211152",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80046-1",
+    "title": "Micro-tomographic characterization of the root and canal system morphology of mandibular first premolars in a Chilean population",
+    "article_number": "93",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Alfredo Sierra-Cristancho",
+      "Luis González-Osuna",
+      "Daniela Poblete",
+      "Emilio A. Cafferata",
+      "Paola Carvajal",
+      "Carla P. Lozano",
+      "Rolando Vernal"
+    ]
+  },
+  "article_index": 61,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:49:03.735421"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:49:05.310063"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:49:06.475120"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:43:02.458990"
+    },
+    "last_updated": "2025-10-03T21:43:02.459083"
+  }
+}

@@ -1,0 +1,3895 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.w3.org/1998/Math/MathML">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-13720-2</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s41467-019-13720-2</article-id>
+          <article-id pub-id-type="manuscript">13720</article-id>
+          <article-id pub-id-type="doi">10.1038/s41467-019-13720-2</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/704/2151/210</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/704/2151/2809</subject>
+            </subj-group>
+            <subj-group subj-group-type="SubjectPath">
+              <subject>/704/2151/330</subject>
+            </subj-group>
+            <subj-group subj-group-type="TechniquePath">
+              <subject>/119</subject>
+            </subj-group>
+            <subj-group subj-group-type="NatureArticleTypeID">
+              <subject>article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes" id="Au1">
+              <name name-style="western">
+                <surname>Wang</surname>
+                <given-names>Wenzhong</given-names>
+              </name>
+              <address>
+                <email>wz30304@mail.ustc.edu.cn</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs41467019137202_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <name name-style="western">
+                <surname>Xu</surname>
+                <given-names>Yinhan</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4461-4664</contrib-id>
+              <name name-style="western">
+                <surname>Sun</surname>
+                <given-names>Daoyuan</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <name name-style="western">
+                <surname>Ni</surname>
+                <given-names>Sidao</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <name name-style="western">
+                <surname>Wentzcovitch</surname>
+                <given-names>Renata</given-names>
+              </name>
+              <xref ref-type="aff" rid="Aff4">4</xref>
+              <xref ref-type="aff" rid="Aff5">5</xref>
+              <xref ref-type="aff" rid="Aff6">6</xref>
+            </contrib>
+            <contrib contrib-type="author" corresp="yes" id="Au6">
+              <name name-style="western">
+                <surname>Wu</surname>
+                <given-names>Zhongqing</given-names>
+              </name>
+              <address>
+                <email>wuzq10@ustc.edu.cn</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+              <xref ref-type="corresp" rid="IDs41467019137202_cor6">f</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000000121679639</institution-id>
+                <institution-id institution-id-type="GRID">grid.59053.3a</institution-id>
+                <institution content-type="org-division">Laboratory of Seismology and Physics of Earth’s Interior, School of Earth and Space Sciences</institution>
+                <institution content-type="org-name">University of Science and Technology of China</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Hefei</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution content-type="org-name">CAS Center for Excellence in Comparative Planetology</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Hefei</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+                <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+                <institution content-type="org-division">State Key Laboratory of Geodesy and Earth’s Dynamics, Institute of Geodesy and Geophysics</institution>
+                <institution content-type="org-name">Chinese Academy of Sciences</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">430077</addr-line>
+              <addr-line content-type="city">Wuhan</addr-line>
+              <country country="CN">China</country>
+            </aff>
+            <aff id="Aff4">
+              <label>4</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000000419368729</institution-id>
+                <institution-id institution-id-type="GRID">grid.21729.3f</institution-id>
+                <institution content-type="org-division">Department of Applied Physics and Applied Mathematics</institution>
+                <institution content-type="org-name">Columbia University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">10027</addr-line>
+              <addr-line content-type="city">New York</addr-line>
+              <addr-line content-type="state">NY</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff5">
+              <label>5</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000000419368729</institution-id>
+                <institution-id institution-id-type="GRID">grid.21729.3f</institution-id>
+                <institution content-type="org-division">Department of Earth and Environmental Sciences</institution>
+                <institution content-type="org-name">Columbia University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">10027</addr-line>
+              <addr-line content-type="city">New York</addr-line>
+              <addr-line content-type="state">NY</addr-line>
+              <country country="US">USA</country>
+            </aff>
+            <aff id="Aff6">
+              <label>6</label>
+              <institution-wrap>
+                <institution-id institution-id-type="ISNI">0000000419368729</institution-id>
+                <institution-id institution-id-type="GRID">grid.21729.3f</institution-id>
+                <institution content-type="org-division">Lamont–Doherty Earth Observatory</institution>
+                <institution content-type="org-name">Columbia University</institution>
+              </institution-wrap>
+              <addr-line content-type="postcode">10964</addr-line>
+              <addr-line content-type="city">Palisades</addr-line>
+              <addr-line content-type="state">NY</addr-line>
+              <country country="US">USA</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs41467019137202_cor1">
+              <label>a</label>
+              <email>wz30304@mail.ustc.edu.cn</email>
+            </corresp>
+            <corresp id="IDs41467019137202_cor6">
+              <label>f</label>
+              <email>wuzq10@ustc.edu.cn</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>7</day>
+            <month>1</month>
+            <year>2020</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2020</year>
+          </pub-date>
+          <volume>11</volume>
+          <issue seq="64">1</issue>
+          <elocation-id>64</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>25</day>
+              <month>11</month>
+              <year>2019</year>
+            </date>
+            <date date-type="received">
+              <day>5</day>
+              <month>11</month>
+              <year>2018</year>
+            </date>
+            <date date-type="accepted">
+              <day>8</day>
+              <month>11</month>
+              <year>2019</year>
+            </date>
+            <date date-type="online">
+              <day>7</day>
+              <month>1</month>
+              <year>2020</year>
+            </date>
+          </history>
+          <pub-history>
+            <event event-type="Correction">
+              <event-desc>An amendment to this paper has been published and can be accessed via a link at the top of the paper.</event-desc>
+              <date>
+                <day>4</day>
+                <month>5</month>
+                <year>2020</year>
+              </date>
+            </event>
+          </pub-history>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2020</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+              <license-p>
+                <bold>Open Access</bold>
+                 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit 
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>
+                .
+              </license-p>
+            </license>
+          </permissions>
+          <related-article related-article-type="correction-forward" ext-link-type="doi" ns0:href="10.1038/s41467-020-16195-8"/>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Seismic heterogeneities detected in the lower mantle were proposed to be related to subducted oceanic crust. However, the velocity and density of subducted oceanic crust at lower-mantle conditions remain unknown. Here, we report ab initio results for the elastic properties of calcium ferrite‐type phases and determine the velocities and density of oceanic crust along different mantle geotherms. We find that the subducted oceanic crust shows a large negative shear velocity anomaly at the phase boundary between stishovite and CaCl
+              <sub>2</sub>
+              -type silica, which is highly consistent with the feature of mid-mantle scatterers. After this phase transition in silica, subducted oceanic crust will be visible as high-velocity heterogeneities as imaged by seismic tomography. This study suggests that the presence of subducted oceanic crust could provide good explanations for some lower-mantle seismic heterogeneities with different length scales except large low shear velocity provinces (LLSVPs).
+            </p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Seismology is a powerful tool to investigate Earth’s interior. Here, the authors combine numerical approaches with experimental results from previous studies to show a depth dependent behaviour of seismic waves in subducted oceanic crust in Earth’s mantle. The work challenges the currently accepted model of depth-independent seismic wave behaviour in oceanic crust.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <kwd content-type="term" vocab-term-identifier="04">Earth Sciences</kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="0403">Geology</kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Special Program for Applied Research on Super Computation of the NSFC-Guangdong Joint Fund (the second phase). The calculations were partly conducted at the supercomputing center of USTC.</institution>
+                </institution-wrap>
+              </funding-source>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>Nature Research</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2020</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2019</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>11</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>25</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>NonStandardArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/41467_2019_Article_13720.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Science (multidisciplinary)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="CrossLinking">
+          <sec>
+            <p>
+              A correction to this article is available online at 
+              <ext-link ns0:href="https://doi.org/10.1038/s41467-020-16195-8" ext-link-type="uri">https://doi.org/10.1038/s41467-020-16195-8</ext-link>
+              .
+            </p>
+          </sec>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1" sec-type="introduction">
+          <title>Introduction</title>
+          <p id="Par3">
+            The lower mantle is the largest continuous region within Earth, occupying ~55% of the volume and ~52% of the mass of the Earth, and plays a dominant role in the thermochemical and geodynamic evolution of the planet
+            <sup>
+              <xref ref-type="bibr" rid="CR1">1</xref>
+            </sup>
+            . It was previously regarded as homogeneous except for the large low shear velocity provinces (LLSVPs)
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+              ,
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+             and velocity anomalies near the core-mantle boundary (CMB)
+            <sup>
+              <xref ref-type="bibr" rid="CR4">4</xref>
+              , 
+              <xref ref-type="bibr" rid="CR5">5</xref>
+              , 
+              <xref ref-type="bibr" rid="CR6">6</xref>
+              –
+              <xref ref-type="bibr" rid="CR7">7</xref>
+            </sup>
+            . However, with the advancements in seismology, numerous heterogeneities with different length scales have been detected in the lower mantle. For instance, seismic tomography models
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              , 
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              , 
+              <xref ref-type="bibr" rid="CR10">10</xref>
+              , 
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              , 
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              –
+              <xref ref-type="bibr" rid="CR13">13</xref>
+            </sup>
+             revealed the presence of large-scale seismic velocity anomalies in the entire lower mantle, including low-velocity columns beneath many prominent hotspots and positive velocity anomalies near subduction zones, which are regarded as hot plumes and cold slabs. Anisotropic tomography
+            <sup>
+              <xref ref-type="bibr" rid="CR14">14</xref>
+            </sup>
+             further suggested that there could be complex interactions between plumes and slabs in the mid mantle. Using different types of scattering, seismological studies have also found small-scale heterogeneities with thicknesses of several or tens of kilometres and a velocity perturbation of 0.1–1% throughout the mantle
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . In particular, strong scatterers with shear velocity up to ~ 12% lower than the ambient mantle are detected within a depth ranging from ~1400–1700 km
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              , 
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              , 
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              –
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+             in some areas, such as regions beneath Mariana and Peru. The predominant depth of the strong scatterers significantly varies at different locations
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par4">
+            One of the unique features of the Earth is its active plate tectonics driven by vigorous mantle convection. Tomography studies imaged that some subducted slabs seem stagnant at the mantle transition zone or mid lower mantle
+            <sup>
+              <xref ref-type="bibr" rid="CR21">21</xref>
+            </sup>
+            , while some could reach the lowermost part of mantle
+            <sup>
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              , 
+              <xref ref-type="bibr" rid="CR23">23</xref>
+              –
+              <xref ref-type="bibr" rid="CR24">24</xref>
+            </sup>
+            . This finding is based on the consensus that the relatively cold slabs show significantly high seismic velocities compared to the surrounding mantle, though the velocity properties of subducted materials at high P–T conditions have not yet been well investigated. Oceanic crust, which is the upper layer of the subducted oceanic lithosphere, has a quite distinctive chemical composition from the pyrolite model and is likely a major source for compositional heterogeneities in the lower mantle. Previous studies
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              ,
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              ,
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+             have attributed the detected strong small-scale heterogeneities in the mid mantle to the phase transition from ﻿stishovite to the CaCl
+            <sub>2</sub>
+            -type silica
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+              , 
+              <xref ref-type="bibr" rid="CR26">26</xref>
+              –
+              <xref ref-type="bibr" rid="CR27">27</xref>
+            </sup>
+            , which can cause a low velocity anomaly for the oceanic crust at the phase boundary
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            . However, we note that the estimated anomalies of the mid-mantle scatterers appear significantly larger than those expected for the oceanic crust
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            , probably because the elastic properties of relevant materials were calculated at static conditions and hence the thermal effect cannot be taken into account. Moreover, the accumulation of subducted oceanic crust at the CMB was also speculated to play an important role in the formation of LLSVPs
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+              ,
+              <xref ref-type="bibr" rid="CR30">30</xref>
+            </sup>
+            , around which the presence of seismic scatterers was also reported
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              ,
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+            . Consequently, the elastic and velocity properties of subducted oceanic crust at the lower-mantle conditions are crucial for interpreting ﻿the origins and evolutions of these seismic heterogeneities, modelling of small-scale mantle scattering, and evaluating the interaction between subduction and the lower mantle.
+          </p>
+          <p id="Par5">
+            Oceanic crust is mainly composed of Mid-Ocean Ridge Basalt (MORB), which ﻿is more silicic than pyrolite. Previous experiments
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+             demonstrated that the natural MORB assemblage at the P–T conditions of lower mantle consists of SiO
+            <sub>2</sub>
+             silica (stishovite and CaCl
+            <sub>2</sub>
+            -type silica), calcium perovskite (CaPv), bridgmanite (Bdg), and two types of aluminum-rich phases: the new Al-rich phase (NAL) and calcium ferrite‐type (CF-type). NAL and CF-type phases could coexist up to ~50 GPa, beyond which the NAL phase disappeared and only CF-type phase was identified. Further experiments
+            <sup>
+              <xref ref-type="bibr" rid="CR33">33</xref>
+            </sup>
+             evaluating the phase relations of the NaAlSiO
+            <sub>4</sub>
+            –MgAl
+            <sub>2</sub>
+            O
+            <sub>4</sub>
+             system indicated that CF-type phase is the high-pressure ﻿polymorph of NAL phase. Combining chemical compositions and mineral volume proportions present in natural MORB
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+            , we find that MORB consists of approximately 39% Fe- and Al-bearing bridgmanite (Mg
+            <sub>0.58</sub>
+            Fe
+            <sub>0.16</sub>
+            Al
+            <sub>0.26</sub>
+            Si
+            <sub>0.74</sub>
+            Al
+            <sub>0.26</sub>
+            O
+            <sub>3</sub>
+            ), 30% Ca-perovskite (CaSiO
+            <sub>3</sub>
+            ), 16% SiO
+            <sub>2</sub>
+            , and 15% Fe-bearing CF-type phase (Na
+            <sub>0.4</sub>
+            Mg
+            <sub>0.48</sub>
+            Fe
+            <sub>0.12</sub>
+            Al
+            <sub>1.6</sub>
+            Si
+            <sub>0.4</sub>
+            O
+            <sub>4</sub>
+            ). Therefore, the elastic properties of these minerals, which are sensitive to the incorporation of ﻿substitutional solutes, are of great importance for the determination of velocity and density of MORB. Previous ab initio calculations within the local density approximation (LDA) have obtained the reliable and accurate elasticity of Fe-free and Fe-bearing bridgmanite (MgSiO
+            <sub>3</sub>
+             and Mg
+            <sub>0.875</sub>
+            Fe
+            <sub>0.125</sub>
+            SiO
+            <sub>3</sub>
+            )
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+            </sup>
+            , corundum (Al
+            <sub>2</sub>
+            O
+            <sub>3</sub>
+            )
+            <sup>
+              <xref ref-type="bibr" rid="CR35">35</xref>
+            </sup>
+            , Ca-perovskite
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            , and stishovite and CaCl
+            <sub>2</sub>
+            -type silica
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+             at high P–T conditions. However, the elastic properties of CF-type phase have not been investigated under lower-mantle conditions.
+          </p>
+          <p id="Par6">Here we obtain the elastic properties of CF-type phase at high pressure and temperature using ab initio calculations. Combining our results with previous studies, we determine the velocities and density of subducted oceanic crust under lower-mantle conditions. Our results show that the velocity anomalies produced by subducted oceanic crust strongly depend on depth and its presence can explain some seismic heterogeneities in the lower mantle.</p>
+        </sec>
+        <sec id="Sec2" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec3">
+            <title>Equation of state of CF-type phases</title>
+            <p id="Par7">
+              We calculated the elastic properties of two end-members of CF-type phases (NaAlSiO
+              <sub>4</sub>
+               and MgAl
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              ) and considered the iron incorporation (Mg
+              <sub>0.75</sub>
+              Fe
+              <sub>0.25</sub>
+              Al
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              ) using the same methodology as our previous studies (see methods). As shown in Fig. 
+              <xref rid="Fig1" ref-type="fig">1</xref>
+              , the predicted pressure-dependent volumes agree well with available experimental measurements at 300 K
+              <sup>
+                <xref ref-type="bibr" rid="CR38">38</xref>
+                , 
+                <xref ref-type="bibr" rid="CR39">39</xref>
+                , 
+                <xref ref-type="bibr" rid="CR40">40</xref>
+                , 
+                <xref ref-type="bibr" rid="CR41">41</xref>
+                , 
+                <xref ref-type="bibr" rid="CR42">42</xref>
+                , 
+                <xref ref-type="bibr" rid="CR43">43</xref>
+                –
+                <xref ref-type="bibr" rid="CR44">44</xref>
+              </sup>
+              , and the largest discrepancy is &lt;1%, except some data from Dubrovinsky et al. (2002)
+              <sup>
+                <xref ref-type="bibr" rid="CR45">45</xref>
+              </sup>
+              , which deviate from other experimental data and our LDA calculations by up to ~2.5%. We note that the experimentally measured density of Na
+              <sub>0.4</sub>
+              Mg
+              <sub>0.6</sub>
+              Al
+              <sub>1.6</sub>
+              Si
+              <sub>0.4</sub>
+              O
+              <sub>4</sub>
+               CF-type phase is also consistent with our results up to ~80 GPa, above which experimental data slightly deviate from our results (Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">1</xref>
+              ). These comparisons clearly demonstrate the high reliability of our results.
+              <fig id="Fig1" position="float">
+                <label>Fig. 1</label>
+                <caption xml:lang="en">
+                  <title>Compression curves of CF-type phases.</title>
+                  <p>
+                    <bold>a</bold>
+                     NaAlSiO
+                    <sub>4</sub>
+                    , 
+                    <bold>b</bold>
+                     MgAl
+                    <sub>2</sub>
+                    O
+                    <sub>4</sub>
+                    , and 
+                    <bold>c</bold>
+                     Mg
+                    <sub>0.75</sub>
+                    Fe
+                    <sub>0.25</sub>
+                    Al
+                    <sub>2</sub>
+                    O
+                    <sub>4</sub>
+                    . Colorful lines represent ab initio results at variable temperatures and points are experimental data in previous studies
+                    <sup>
+                      <xref ref-type="bibr" rid="CR38">38</xref>
+                      , 
+                      <xref ref-type="bibr" rid="CR39">39</xref>
+                      , 
+                      <xref ref-type="bibr" rid="CR40">40</xref>
+                      , 
+                      <xref ref-type="bibr" rid="CR41">41</xref>
+                      , 
+                      <xref ref-type="bibr" rid="CR42">42</xref>
+                      , 
+                      <xref ref-type="bibr" rid="CR43">43</xref>
+                      , 
+                      <xref ref-type="bibr" rid="CR44">44</xref>
+                      –
+                      <xref ref-type="bibr" rid="CR45">45</xref>
+                    </sup>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13720_Fig1_HTML.png"/>
+              </fig>
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Elastic and velocity properties of CF-type phases</title>
+            <p id="Par8">
+              The calculated bulk moduli (K
+              <sub>S</sub>
+              ), shear moduli (G), compressional velocities (V
+              <sub>P</sub>
+              ), and shear wave velocities (V
+              <sub>S</sub>
+              ) of CF-type minerals at various pressures and temperatures are shown in Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              . The pressure- and temperature-dependent elastic tensors are presented in Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">2</xref>
+              . Our results suggest that different CF-type phases have similar pressure and temperature dependences for K
+              <sub>S</sub>
+              , G, V
+              <sub>P</sub>
+              , and V
+              <sub>S</sub>
+               (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ), consistent with Zhao et al. (2018)
+              <sup>
+                <xref ref-type="bibr" rid="CR46">46</xref>
+              </sup>
+              . The temperature dependences of these properties are almost linear but are significantly weakened at high pressure (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+              ). For instance, the first temperature derivatives at 30 GPa (∂K
+              <sub>S</sub>
+              /∂T = −1.72 × 10
+              <sup>−2</sup>
+              , ∂G/∂T = −1.48 × 10
+              <sup>−2</sup>
+               GPa K
+              <sup>−1</sup>
+              , ∂V
+              <sub>P</sub>
+              /∂T = −2.63 × 10
+              <sup>−4</sup>
+              , and ∂V
+              <sub>S</sub>
+              /∂T = −1.98 × 10
+              <sup>−4</sup>
+               km s
+              <sup>−1</sup>
+               K
+              <sup>−1</sup>
+              ) are markedly lower than those at 100 GPa (∂K
+              <sub>S</sub>
+              /∂T = −1.17 × 10
+              <sup>−2</sup>
+              , ∂G/∂T = −0.97 × 10
+              <sup>−2</sup>
+               GPa K
+              <sup>−1</sup>
+              , ∂V
+              <sub>P</sub>
+              /∂T = −1.00 × 10
+              <sup>−4</sup>
+              , and ∂V
+              <sub>S</sub>
+              /∂T = −0.87 × 10
+              <sup>−4</sup>
+               km s
+              <sup>−1</sup>
+               K
+              <sup>−1</sup>
+              ). In contrast, noticeable nonlinear dependences on pressure are observed for elastic moduli and wave velocities, especially V
+              <sub>P</sub>
+               and V
+              <sub>S</sub>
+               (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+               and Supplementary Table 
+              <xref ref-type="supplementary-material" rid="MOESM1">1</xref>
+              ). At 2000 K, the first pressure derivatives, ∂K
+              <sub>S</sub>
+              /∂P, ∂G/∂P, ∂V
+              <sub>P</sub>
+              /∂P, and ∂V
+              <sub>S</sub>
+              /∂P, decrease from 3.82, 1.70, 43.47 km s
+              <sup>−1</sup>
+               MPa
+              <sup>−1</sup>
+              , 20.74 km s
+              <sup>−1</sup>
+               MPa
+              <sup>−1</sup>
+               at 30 GPa to 3.41, 1.17, 23.42 km s
+              <sup>−1</sup>
+               MPa
+              <sup>−1</sup>
+              , and 8.96 km s
+              <sup>−1</sup>
+               MPa
+              <sup>−1</sup>
+               at 100 GPa, respectively.
+              <fig id="Fig2" position="float">
+                <label>Fig. 2</label>
+                <caption xml:lang="en">
+                  <title>Elastic moduli and wave velocities of CF-type phases.</title>
+                  <p>
+                    <bold>a</bold>
+                    –
+                    <bold>c</bold>
+                     bulk and shear moduli (K
+                    <sub>S</sub>
+                     and G), 
+                    <bold>d</bold>
+                    –
+                    <bold>f</bold>
+                     compressional and shear wave velocities (V
+                    <sub>P</sub>
+                     and V
+                    <sub>S</sub>
+                    ). Elastic moduli and wave velocities for 
+                    <bold>a</bold>
+                    , 
+                    <bold>d</bold>
+                     NaAlSiO
+                    <sub>4</sub>
+                    , 
+                    <bold>b</bold>
+                    , 
+                    <bold>e</bold>
+                     MgAl
+                    <sub>2</sub>
+                    O
+                    <sub>4</sub>
+                    , 
+                    <bold>c</bold>
+                    , 
+                    <bold>f</bold>
+                     Mg
+                    <sub>0.75</sub>
+                    Fe
+                    <sub>0.25</sub>
+                    Al
+                    <sub>2</sub>
+                    O
+                    <sub>4</sub>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13720_Fig2_HTML.png"/>
+              </fig>
+            </p>
+            <p id="Par9">
+              The chemical composition affects the elastic moduli and wave velocities of CF-type phases. Compared to MgAl
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              , NaAlSiO
+              <sub>4</sub>
+               has a slightly smaller Ks but larger G. The contrasts in Ks and G among these end-members range from ~−4% to ~0% and from ~4% to ~1% respectively, when pressure increases from 30 to 100 GPa (Fig. 
+              <xref rid="Fig2" ref-type="fig">2</xref>
+               and Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3</xref>
+              ). Therefore, the velocities of these CF-type phases differ by 0.5–2.5% for V
+              <sub>S</sub>
+               and by less than 1% for V
+              <sub>P</sub>
+              . Notably, these differences are evidently diminished at high pressure (Supplementary Fig. 
+              <xref ref-type="supplementary-material" rid="MOESM1">3</xref>
+              ). In addition, the incorporation of 25 mol% of iron into MgAl
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+               does not significantly affect K
+              <sub>S</sub>
+               but obviously decreases G, e.g., by 5.5% at 60 GPa and 2000 K, which causes a reduction of 3.3% in V
+              <sub>P</sub>
+               and of 5% in V
+              <sub>S</sub>
+              . These reductions are amplified by temperature but lessened by pressure. The wave velocities and densities of CF-type phases along the normal mantle geotherm
+              <sup>
+                <xref ref-type="bibr" rid="CR47">47</xref>
+              </sup>
+               are compared with those of other lower-mantle minerals in Fig. 
+              <xref rid="Fig3" ref-type="fig">3</xref>
+              . NaAlSiO
+              <sub>4</sub>
+               and MgAl
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+               have similar V
+              <sub>P</sub>
+               and V
+              <sub>S</sub>
+               that are ~2.8–6.0% and 2.6–5.8% lower than those of bridgmanite, respectively, although their densities are almost identical to that of bridgmanite. Instead, Mg
+              <sub>0.75</sub>
+              Fe
+              <sub>0.25</sub>
+              Al
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+               has a relatively higher density and much lower V
+              <sub>P</sub>
+               and V
+              <sub>S</sub>
+              . The maximum differences in V
+              <sub>P</sub>
+              , V
+              <sub>S</sub>
+              , and density between Mg
+              <sub>0.75</sub>
+              Fe
+              <sub>0.25</sub>
+              Al
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+               and bridgmanite are up to −8%, −10%, and 4%, respectively. On the basis of our results for these three end-members, we can obtain the elasticity and velocity of CF-type phase with different compositions, such as Na
+              <sub>0.4</sub>
+              Mg
+              <sub>0.6</sub>
+              Al
+              <sub>1.6</sub>
+              Si
+              <sub>0.4</sub>
+              O
+              <sub>4</sub>
+              , whose G is consistent with experimental data
+              <sup>
+                <xref ref-type="bibr" rid="CR48">48</xref>
+              </sup>
+               at 300 K.
+              <fig id="Fig3" position="float">
+                <label>Fig. 3</label>
+                <caption xml:lang="en">
+                  <title>Comparisons of velocities and density between CF-type phases and other lower-mantle minerals along the normal mantle geotherm.</title>
+                  <p>
+                    <bold>a</bold>
+                     compressional wave velocities (V
+                    <sub>P</sub>
+                    ), 
+                    <bold>b</bold>
+                     shear wave velocity (V
+                    <sub>S</sub>
+                    ), and 
+                    <bold>c</bold>
+                     density (ρ). The normal mantle geotherm is derived from Brown and Shankland (1981)
+                    <sup>
+                      <xref ref-type="bibr" rid="CR47">47</xref>
+                    </sup>
+                    . Data sources: NaCF, NaAlSiO
+                    <sub>4</sub>
+                     CF-type phase, this study; MgCF, MgAl
+                    <sub>2</sub>
+                    O
+                    <sub>4</sub>
+                     CF-type phase, this study; MgFeCF, Mg
+                    <sub>0.75</sub>
+                    Fe
+                    <sub>0.25</sub>
+                    Al
+                    <sub>2</sub>
+                    O
+                    <sub>4</sub>
+                     CF-type phase, this study; SiO
+                    <sub>2</sub>
+                    , stishovite and the CaCl
+                    <sub>2</sub>
+                    -type silica, Yang and Wu (2014)
+                    <sup>
+                      <xref ref-type="bibr" rid="CR37">37</xref>
+                    </sup>
+                    ; Bdg, Mg
+                    <sub>0.92</sub>
+                    Fe
+                    <sub>0.08</sub>
+                    SiO
+                    <sub>3</sub>
+                     bridgmanite, Shukla et al. (2015)
+                    <sup>
+                      <xref ref-type="bibr" rid="CR34">34</xref>
+                    </sup>
+                    ; CaPv, Ca-perovskite, Kawai and Tsuchiya (2015)
+                    <sup>
+                      <xref ref-type="bibr" rid="CR36">36</xref>
+                    </sup>
+                    ; FP, Mg
+                    <sub>0.82</sub>
+                    Fe
+                    <sub>0.18</sub>
+                    O ferropericlase, Wu et al. (2013)
+                    <sup>
+                      <xref ref-type="bibr" rid="CR64">64</xref>
+                    </sup>
+                    . Grey areas represent the calculated phase boundary between stishovite and the CaCl
+                    <sub>2</sub>
+                    -type silica
+                    <sup>
+                      <xref ref-type="bibr" rid="CR37">37</xref>
+                    </sup>
+                    .
+                  </p>
+                </caption>
+                <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13720_Fig3_HTML.png"/>
+              </fig>
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec5" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par10">
+            MORB with a distinctive chemical composition from the normal mantle is likely a major source for small-scale scatterers with the thickness of several kilometres in the lower mantle. Seismic modelling of whole-mantle small-scale scattering suggested a length scale of ~8 km and a wide range of velocity perturbations varying from ~0.1% to ~1% under the assumption that heterogeneities were randomly and evenly distributed throughout the mantle
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ,
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . Combining our results with previous data
+            <sup>
+              <xref ref-type="bibr" rid="CR34">34</xref>
+              , 
+              <xref ref-type="bibr" rid="CR35">35</xref>
+              , 
+              <xref ref-type="bibr" rid="CR36">36</xref>
+              –
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            , we estimated the velocities and density of the natural MORB assemblage
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+            </sup>
+             at the lower-mantle conditions. We find that MORB has higher velocities than the ambient mantle through most of the lower mantle but lower velocities than the ambient mantle at the mid mantle depths (see Fig. 
+            <xref rid="Fig4" ref-type="fig">4</xref>
+            ). Particularly, the velocity contrasts between MORB and the normal mantle are extremely sensitive to the depth at the mid mantle. Thus, velocity heterogeneities caused by the presence of MORB are noticeably depth-dependent and unevenly distributed throughout the mantle even if MORB distributes evenly throughout the mantle. This finding is more complicated than the single layer heterogeneity model adopted by Bentham et al. (2017)
+            <sup>
+              <xref ref-type="bibr" rid="CR16">16</xref>
+            </sup>
+            . In addition, the density/velocity fluctuation scaling factors of MORB also strongly depend on depth. Because MORB is denser than ambient mantle, scaling factors even become negative at the mid mantle where the velocity perturbations are negative. Thus, the simple density/velocity fluctuation scaling factors that have been widely used to model the small-scale scattering throughout deep Earth
+            <sup>
+              <xref ref-type="bibr" rid="CR15">15</xref>
+            </sup>
+             are not valid for MORB. How the depth-dependent velocity heterogeneities and density/velocity fluctuation scaling factors affect the seismic scattering modelling is worth investigating.
+            <fig id="Fig4" position="float">
+              <label>Fig. 4</label>
+              <caption xml:lang="en">
+                <title>Velocities and density characteristics of subducted oceanic crust.</title>
+                <p>
+                  <bold>a</bold>
+                  –
+                  <bold>c</bold>
+                   Wave velocities (V
+                  <sub>P</sub>
+                   and V
+                  <sub>S</sub>
+                  ) and densities (ρ) of MORB along different mantle geotherms. The normal mantle geotherm is from Brown and Shankland (1981)
+                  <sup>
+                    <xref ref-type="bibr" rid="CR47">47</xref>
+                  </sup>
+                  . Red, pink, orange, and blue lines represent V
+                  <sub>P</sub>
+                  , V
+                  <sub>S</sub>
+                  , and ρ of MORB along the mantle geotherms with variable temperature anomalies relative to the normal mantle geotherm. Temperature anomalies for red, pink, orange, and blue lines are + 1000 K, + 500 K, 0 K, and 500 K, respectively. Green lines are PREM values
+                  <sup>
+                    <xref ref-type="bibr" rid="CR69">69</xref>
+                  </sup>
+                  . MORB
+                  <sup>
+                    <xref ref-type="bibr" rid="CR32">32</xref>
+                  </sup>
+                  : 39% Fe- and Al-bearing bridgmanite (Mg
+                  <sub>0.58</sub>
+                  Fe
+                  <sub>0.16</sub>
+                  Al
+                  <sub>0.26</sub>
+                  Si
+                  <sub>0.74</sub>
+                  Al
+                  <sub>0.26</sub>
+                  O
+                  <sub>3</sub>
+                  ), 30% Ca-perovskite (CaSiO
+                  <sub>3</sub>
+                  ), 16% SiO
+                  <sub>2</sub>
+                  , and 15% Fe-bearing CF-type phase (Na
+                  <sub>0.4</sub>
+                  Mg
+                  <sub>0.48</sub>
+                  Fe
+                  <sub>0.12</sub>
+                  Al
+                  <sub>1.6</sub>
+                  Si
+                  <sub>0.4</sub>
+                  O
+                  <sub>4</sub>
+                  ). (d) (e) (f) the V
+                  <sub>P</sub>
+                  , V
+                  <sub>S</sub>
+                  , and ρ contrasts between MORB and PREM. ∆M = 2(M
+                  <sub>MORB</sub>
+                  -M
+                  <sub>PREM</sub>
+                  )/(M
+                  <sub>MORB</sub>
+                   + M
+                  <sub>PREM</sub>
+                  ), M = V
+                  <sub>P</sub>
+                  , V
+                  <sub>S</sub>
+                  , and ρ. M
+                  <sub>PREM</sub>
+                  , green lines in 
+                  <bold>a</bold>
+                  , 
+                  <bold>b</bold>
+                  , 
+                  <bold>c</bold>
+                  ; M
+                  <sub>MORB</sub>
+                  , red, orange, or blue lines in 
+                  <bold>a</bold>
+                  , 
+                  <bold>b</bold>
+                  , 
+                  <bold>c</bold>
+                  . The linewidth represents uncertainties caused by the errors for elastic properties (&lt;0.8%) and the variations in the concentration of dilute substitutional solutes (±1 mol%).
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13720_Fig4_HTML.png"/>
+            </fig>
+          </p>
+          <p id="Par11">
+            MORB has distinctly slower wave velocities by up to ~ −7% for V
+            <sub>S</sub>
+             and ~ −1.8% V
+            <sub>P</sub>
+             at ~60 GPa (Fig. 
+            <xref rid="Fig4" ref-type="fig">4d, e</xref>
+            ), where stishovite transforms to CaCl
+            <sub>2</sub>
+            -type silica
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            . Such large negative velocity anomalies within MORB, which are mainly caused by softening of the shear modulus of stishovite at the phase boundary
+            <sup>
+              <xref ref-type="bibr" rid="CR37">37</xref>
+            </sup>
+            , provide good explanations for the observed seismic scatterers or small-scale heterogeneities with quite low shear velocities
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              ,
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+             in the mid mantle (Fig. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+            ). Remarkably, the observed V
+            <sub>S</sub>
+             anomalies of the mid mantle scatterers
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              ,
+              <xref ref-type="bibr" rid="CR20">20</xref>
+            </sup>
+             are consistent with those from our mineralogical predictions, despite the large uncertainties in seismological estimates. Tsuchiya (2011)
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+             predicted negative V
+            <sub>P</sub>
+             and V
+            <sub>S</sub>
+             contrasts between MORB and pyrolite at the phase boundary of silica; however, the depth for such negative velocity perturbations is significantly shallower than our results, mainly because the temperature effect has not been taken into account
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+            . We obtained similar results (negative velocity anomalies and their depths) in Tsuchiya (2011)
+            <sup>
+              <xref ref-type="bibr" rid="CR28">28</xref>
+            </sup>
+             when only elastic data at static conditions were used. The magnitude of the maximum velocity anomaly for MORB is not significantly sensitive to the temperature variation (Fig. 
+            <xref rid="Fig4" ref-type="fig">4</xref>
+            ), but the depth where the maximum velocity anomaly occurs is mainly controlled by the phase boundary between ﻿stishovite and CaCl
+            <sub>2</sub>
+            -type silica, which strongly depends on temperature and alumina and water contents bearing in silica
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            . The incorporation of alumina plus hydrogen into silica can strikingly decrease the transition pressure, while increasing temperature significantly elevates it due to the positive Clapeyron slope
+            <sup>
+              <xref ref-type="bibr" rid="CR25">25</xref>
+            </sup>
+            . Therefore, the variations of bright depth for scattering
+            <sup>
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              , 
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              –
+              <xref ref-type="bibr" rid="CR19">19</xref>
+            </sup>
+            , where the strong seismic scatterers were observed in the mid-lower mantle, may reflect the differences in temperature and Al
+            <sub>2</sub>
+            O
+            <sub>3</sub>
+             and H
+            <sub>2</sub>
+            O contents of silica in the oceanic crust.
+            <fig id="Fig5" position="float">
+              <label>Fig. 5</label>
+              <caption xml:lang="en">
+                <title>Schematic diagram for subducted oceanic crust in the lower mantle.</title>
+                <p>
+                  The velocity heterogeneities caused by subducted oceanic crust are noticeably depth-dependent: it produces large negative velocity anomalies at the mid mantle but high velocity heterogeneities at the lower part of mantle. The presence of subducted oceanic crust could provide explanations for seismic scatters and high velocity heterogeneities (~2%) in the lower mantle imaged by seismic tomography, but LLSVPs likely do not originate from subducted oceanic crust. The 660-km discontinuity, which defines the top of the lower mantle, was also found to show the small-scale topographic variations
+                  <sup>
+                    <xref ref-type="bibr" rid="CR71">71</xref>
+                  </sup>
+                  .
+                </p>
+              </caption>
+              <graphic specific-use="web" mime-subtype="PNG" ns0:href="MediaObjects/41467_2019_13720_Fig5_HTML.png"/>
+            </fig>
+          </p>
+          <p id="Par12">
+            After the phase transition of silica, MORB along the normal geotherm has relatively higher wave velocities than the ambient mantle (Fig. 
+            <xref rid="Fig3" ref-type="fig">3</xref>
+            ). The V
+            <sub>P</sub>
+             and V
+            <sub>S</sub>
+             perturbations are up to ~ +1.8% and +1.2%, respectively. If assuming a temperature anomaly of −500 K existing in MORB, the positive V
+            <sub>P</sub>
+             and V
+            <sub>S</sub>
+             anomalies increase to +2.5% and +2.0% (Fig. 
+            <xref rid="Fig4" ref-type="fig">4d, e</xref>
+            ), respectively. Stixrude and Lithgow-Bertelloni (2012)
+            <sup>
+              <xref ref-type="bibr" rid="CR49">49</xref>
+            </sup>
+             also found that MORB has a faster V
+            <sub>S</sub>
+             than the pyrolitic composition along the normal mantle geotherm at the depth range of 1500–2500 km, and the V
+            <sub>S</sub>
+             contrast is comparable to our results; however, they did not find the shear softening of MORB at the mid mantle because they ignored the phase transition from stishovite to CaCl
+            <sub>2</sub>
+            -type silica. Seismic tomography
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              , 
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              , 
+              <xref ref-type="bibr" rid="CR10">10</xref>
+              , 
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              –
+              <xref ref-type="bibr" rid="CR12">12</xref>
+            </sup>
+             indicates that the positive shear velocity anomalies in the mid-lower mantle beneath some local regions, which are generally regarded as the presence of subducted slab, can be larger than +1.5% and even to +2%. Such a large positive velocity anomaly cannot be simply caused by temperature variations alone and must have also a compositional origin. For example, a temperature reduction of 500 K can only increase the V
+            <sub>P</sub>
+             and V
+            <sub>S</sub>
+             of a pyrolitic composition by &lt;1% (Supplementary Fig. 
+            <xref ref-type="supplementary-material" rid="MOESM1">4</xref>
+            ). Our results suggest that MORB is an important candidate for these compositional heterogeneities. MORB could perhaps accumulate in the mid lower mantle, since there may be some barriers for subduction such as an increase in viscosity induced by the spin transition of iron
+            <sup>
+              <xref ref-type="bibr" rid="CR50">50</xref>
+            </sup>
+             or the ancient mantle high-viscosity structures
+            <sup>
+              <xref ref-type="bibr" rid="CR51">51</xref>
+            </sup>
+            . Furthermore, our results also confirm that MORB is denser than the surrounding mantle at lower mantle pressures (Fig. 
+            <xref rid="Fig4" ref-type="fig">4c</xref>
+            ). The excess density perturbation decreases with depth and is ~ +1.4% on average (Fig. 
+            <xref rid="Fig4" ref-type="fig">4f</xref>
+            ) when MORB has the same temperature to the ambient mantle, consistent with the previous estimations
+            <sup>
+              <xref ref-type="bibr" rid="CR32">32</xref>
+              ,
+              <xref ref-type="bibr" rid="CR52">52</xref>
+            </sup>
+            . The negative buoyancy of the oceanic crust plays a key role in its descent to the CMB, which is also revealed by seismic tomography
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              , 
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              –
+              <xref ref-type="bibr" rid="CR10">10</xref>
+            </sup>
+            . However, recent geodynamical simulations argued that not all of the subducted oceanic crust would accumulate at the CMB because the negative buoyancy provided by this thin domain is not quite sufficient to overcome viscous forces
+            <sup>
+              <xref ref-type="bibr" rid="CR53">53</xref>
+            </sup>
+            . Therefore, from a geodynamics perspective, the partial accumulation of MORB likely occurs at lower-mantle depths far above the CMB and generates seismologically well-known high velocity heterogeneities (Fig. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+            ).
+          </p>
+          <p id="Par13">
+            In addition, the accumulation of subducted oceanic crust at the CMB was also speculated as a possible origin for LLSVPs
+            <sup>
+              <xref ref-type="bibr" rid="CR29">29</xref>
+            </sup>
+            , the thermochemical heterogeneities characterized by slow shear wave velocities
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+              ,
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            . Coincidentally, seismological studies detected small-scale scatterers above the Pacific LLSVP and near the edge of the African LLSVP
+            <sup>
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              ,
+              <xref ref-type="bibr" rid="CR31">31</xref>
+            </sup>
+            . However, our results demonstrate that the V
+            <sub>P</sub>
+             and V
+            <sub>S</sub>
+             of MORB are at least 0.6% higher than those of the ambient mantle even when the temperature anomaly within MORB is +500 K (Fig. 
+            <xref rid="Fig4" ref-type="fig">4d, e</xref>
+            ), and negative velocity anomalies can be produced only when MORB is at least +1000 K hotter than the ambient mantle. This is obviously in contradiction with the large negative V
+            <sub>S</sub>
+             anomalies (up to −3%) within LLSVPs
+            <sup>
+              <xref ref-type="bibr" rid="CR2">2</xref>
+              ,
+              <xref ref-type="bibr" rid="CR3">3</xref>
+            </sup>
+            , thus indicating that the distinct composition of LLSVPs unlikely originates from the subducted oceanic crust. The spatial distributions of seismic scatterers around LLSVPs might coincidentally result from the mantle convection. Nonetheless, it is still unknown whether the fragments of subducted oceanic crust remain in LLSVPs, and further detections of inside seismic scatterers probably will help to clarify this problem.
+          </p>
+          <p id="Par14">
+            A recent work conducted by Thomson et al. (2019)
+            <sup>
+              <xref ref-type="bibr" rid="CR54">54</xref>
+            </sup>
+             suggested that subducted oceanic crust would be visible as low-seismic-velocity anomalies throughout the lower mantle when data are extrapolated to the lower-mantle conditions. The discrepancy between our results and Thomson et al. (2019)
+            <sup>
+              <xref ref-type="bibr" rid="CR54">54</xref>
+            </sup>
+             resulted from the usage of different elastic and velocity data for Ca-perovskite. The calculated data used in this study are from previous ab initio molecular dynamic simulations
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+            , while the Ca-perovskite data adopted in Thomson et al. (2019)
+            <sup>
+              <xref ref-type="bibr" rid="CR54">54</xref>
+            </sup>
+             were extrapolated from low pressure to the deep mantle conditions. Since velocities measured for Ca-perovskite
+            <sup>
+              <xref ref-type="bibr" rid="CR54">54</xref>
+              ,
+              <xref ref-type="bibr" rid="CR55">55</xref>
+            </sup>
+             are considerably lower than computational predictions at the conditions of the uppermost lower mantle, the extrapolated data would be expectedly lower than theoretical calculations
+            <sup>
+              <xref ref-type="bibr" rid="CR36">36</xref>
+            </sup>
+             under deep mantle conditions. It is still unknown what results in the discrepancies in sound velocities of Ca-perovskite between theoretical and experimental studies, and future research is needed to solve this problem. However, the uncertainties from extrapolation cannot be ignored because experimental measurements, especially high-temperature data, which also shows significant discrepancies
+            <sup>
+              <xref ref-type="bibr" rid="CR54">54</xref>
+              ,
+              <xref ref-type="bibr" rid="CR55">55</xref>
+            </sup>
+            .
+          </p>
+          <p id="Par15">
+            The presence of subducted oceanic crust in the lower mantle can provide good explanations for some detected velocity heterogeneities with different length scales, indicating the cycling of crustal materials into the deep mantle (Fig. 
+            <xref rid="Fig5" ref-type="fig">5</xref>
+            ). The velocity and density characteristics of subducted oceanic crust support that it could not only produce a number of remnant fragments with several kilometer thicknesses that are detected by seismic scattering
+            <sup>
+              <xref ref-type="bibr" rid="CR19">19</xref>
+            </sup>
+             in the lower mantle but may also partially accumulate in the mid lower mantle or at the CMB to form the mesoscale chemical heterogeneities with positive velocity anomalies
+            <sup>
+              <xref ref-type="bibr" rid="CR8">8</xref>
+              ,
+              <xref ref-type="bibr" rid="CR9">9</xref>
+            </sup>
+            . How the subducted oceanic crust produces the seismic heterogeneities with different length scales can be further evaluated by using the geodynamic modelling for the interaction between the subducted slab and the lower mantle. Furthermore, geodynamic simulations
+            <sup>
+              <xref ref-type="bibr" rid="CR56">56</xref>
+            </sup>
+             suggested that the subducted oceanic crust would also be entrained into mantle plumes, inducing the geochemical complexity of hotspot lavas. In that case, the basaltic fragments involved in the mantle plume would probably be detected by seismic scattering, which could independently validate the relationship between the geochemical heterogeneity and oceanic crust. The current scenario of subducted oceanic crust in the lower mantle provides important clues about the interaction between the subducted slab and the lower mantle and the thermochemical evolution of the lower mantle.
+          </p>
+        </sec>
+        <sec id="Sec6" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec7">
+            <title>First-principles calculations</title>
+            <p id="Par16">
+              Ab inito calculations were performed using Quantum Espresso package
+              <sup>
+                <xref ref-type="bibr" rid="CR57">57</xref>
+              </sup>
+               based on the density functional theory (DFT), plane waves, and pseudopotentials. The local density approximation (LDA) was adopted as the exchange correlation functional. Pseudopotentials for magnesium, silicon, aluminum, and oxygen used in this study are well described in previous studies
+              <sup>
+                <xref ref-type="bibr" rid="CR37">37</xref>
+                ,
+                <xref ref-type="bibr" rid="CR58">58</xref>
+                ,
+                <xref ref-type="bibr" rid="CR59">59</xref>
+              </sup>
+              . The pseudopotentials for sodium and iron were generated by Vanderbilt method
+              <sup>
+                <xref ref-type="bibr" rid="CR60">60</xref>
+              </sup>
+               with a valence configuration of 2s
+              <sup>2</sup>
+              2p
+              <sup>6</sup>
+              3s
+              <sup>1</sup>
+               for Na, and 3s
+              <sup>2</sup>
+              3p
+              <sup>6</sup>
+              3d
+              <sup>6.5</sup>
+              4s
+              <sup>1</sup>
+              4p
+              <sup>0</sup>
+               for Fe. The energy cutoff for plane waves was 70 Ry and the Brillouin zone for the electronic state summation was sampled on a 2 × 2 × 10 mesh for CF-type phase (NaAlSiO
+              <sub>4</sub>
+              , MgAl
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              , and Mg
+              <sub>0.75</sub>
+              Fe
+              <sub>0.25</sub>
+              Al
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              ). To sufficiently describe the large on-site Coulomb interactions among the Fe 3d electrons in the Fe-bearing CF-type phase (Mg
+              <sub>0.75</sub>
+              Fe
+              <sub>0.25</sub>
+              Al
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              ), we used the LDA + U method, introducing a Hubbard U correction to the LDA. The U value for ferrous Fe in CF-type phase is 2.7 eV, which was non-empirically determined using the linear response method
+              <sup>
+                <xref ref-type="bibr" rid="CR61">61</xref>
+              </sup>
+              . Structures of CF-type phase were well optimized at variable pressures using the variable cell-shape damped molecular dynamics approach
+              <sup>
+                <xref ref-type="bibr" rid="CR62">62</xref>
+              </sup>
+              . Vibrational density of states (VDoS) at different equilibrium volumes were calculated using the finite displacement method. The elastic tensors at static conditions were derived from the linear relationship between stress and strain. The strain magnitude applied to relaxed structures was 1%.
+            </p>
+          </sec>
+          <sec id="Sec8">
+            <title>Elasticity of CF-type phases at high pressure and temperature</title>
+            <p id="Par17">
+              The usual method used to calculate the elasticity at high temperature and pressure usually needs lots of vibrational density of states of material under different volumes and different strains
+              <sup>
+                <xref ref-type="bibr" rid="CR63">63</xref>
+              </sup>
+              , which requires huge computational effort and hampers the accurate numerical evaluations of elastic properties at high P–T conditions. Wu and Wentzcovitch (2011)
+              <sup>
+                <xref ref-type="bibr" rid="CR63">63</xref>
+              </sup>
+               developed a semi-analytical approach without requiring the vibrational density of states under strain by analyzing the relation between volume dependence of and strain dependence of the vibrational frequencies, which reduces the computational workload by one order of magnitude compared to the usual method without loss of accuracy. This method has been also successfully applied to bridgmanite
+              <sup>
+                <xref ref-type="bibr" rid="CR34">34</xref>
+              </sup>
+              , ferropericlase
+              <sup>
+                <xref ref-type="bibr" rid="CR64">64</xref>
+              </sup>
+              , stishovite and CaCl
+              <sub>2</sub>
+              -type silica
+              <sup>
+                <xref ref-type="bibr" rid="CR37">37</xref>
+              </sup>
+              , and corundum
+              <sup>
+                <xref ref-type="bibr" rid="CR35">35</xref>
+              </sup>
+              . In this work, based on the elastic tensors at static conditions and VDoS at variable equilibrium volumes, we also calculated elastic properties of CF-type phases at high pressure and temperature using this semi-analytical approach. The adiabatic bulk modulus K
+              <sub>S</sub>
+               and shear modulus G were obtained by computing the Voigt-Reuss-Hill averages
+              <sup>
+                <xref ref-type="bibr" rid="CR65">65</xref>
+              </sup>
+               from elastic tensors. Thus, compressional and shear velocities were calculated from the equations 
+              <inline-formula id="IEq1">
+                <alternatives>
+                  <ns1:math id="IEq1_Math">
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>V</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>P</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:msqrt>
+                      <ns1:mrow>
+                        <ns1:mo>(</ns1:mo>
+                        <ns1:mrow>
+                          <ns1:msub>
+                            <ns1:mrow>
+                              <ns1:mi mathvariant="normal">K</ns1:mi>
+                            </ns1:mrow>
+                            <ns1:mrow>
+                              <ns1:mi mathvariant="normal">S</ns1:mi>
+                            </ns1:mrow>
+                          </ns1:msub>
+                          <ns1:mo>+</ns1:mo>
+                          <ns1:mfrac>
+                            <ns1:mrow>
+                              <ns1:mn>4</ns1:mn>
+                            </ns1:mrow>
+                            <ns1:mrow>
+                              <ns1:mn>3</ns1:mn>
+                            </ns1:mrow>
+                          </ns1:mfrac>
+                          <ns1:mi>G</ns1:mi>
+                        </ns1:mrow>
+                        <ns1:mo>)</ns1:mo>
+                      </ns1:mrow>
+                      <ns1:mo>/</ns1:mo>
+                      <ns1:mi>ρ</ns1:mi>
+                    </ns1:msqrt>
+                  </ns1:math>
+                  <tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$V_P = \sqrt {({\mathrm{K}}_{\mathrm{S}} + \frac{4}{3}G)/\rho }$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13720_Article_IEq1.gif"/>
+                </alternatives>
+              </inline-formula>
+               and 
+              <inline-formula id="IEq2">
+                <alternatives>
+                  <ns1:math id="IEq2_Math">
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>V</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>S</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:msqrt>
+                      <ns1:mi>G</ns1:mi>
+                      <ns1:mo>/</ns1:mo>
+                      <ns1:mi>ρ</ns1:mi>
+                    </ns1:msqrt>
+                  </ns1:math>
+                  <tex-math id="IEq2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$V_S = \sqrt {G/\rho }$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13720_Article_IEq2.gif"/>
+                </alternatives>
+              </inline-formula>
+               (
+              <italic>ρ</italic>
+               is density).
+            </p>
+            <p id="Par18">
+              To estimate the effect of pseudopotentials’ quality on elastic properties, we also used harder pseudopotentials that includes semicore states with smaller core radii to conduct static calculations, which requires a cutoff energy of 400 Ry. We found that there are only minor differences (&lt;0.3%) in elastic moduli and density at static conditions when different pseudopotentials were used. Previous studies
+              <sup>
+                <xref ref-type="bibr" rid="CR59">59</xref>
+              </sup>
+               on elastic properties and density of bridgmanite also reported minor differences in the results obtained using different pseudopotentials. The intrinsic anhamonicity ignored by quasi-harmonic approximation (QHA) should be negligible at the lower-mantle pressure and temperature conditions and can be estimated by the difference in the results calculated from QHA and molecular dynamic (MD) simulations. By comparing the elastic moduli and density of MgSiO
+              <sub>3</sub>
+               bridgmanite obtained from QHA and MD within LDA
+              <sup>
+                <xref ref-type="bibr" rid="CR66">66</xref>
+              </sup>
+              , we also found only minor differences (&lt;0.5%) produced by the anharmonicity at high pressures. Thus, these differences produced by different pseudopotentials and the anharmonic effect were adopted as the uncertainties of the calculated results (&lt;0.8%).
+            </p>
+          </sec>
+          <sec id="Sec9">
+            <title>Elastic moduli and velocities of MORB</title>
+            <p id="Par19">
+              On the basis of the elastic properties of bridgmanite, ferropericlase, and Ca-perovskite at the conditions of the lower mantle, previous studies
+              <sup>
+                <xref ref-type="bibr" rid="CR59">59</xref>
+                ,
+                <xref ref-type="bibr" rid="CR67">67</xref>
+                ,
+                <xref ref-type="bibr" rid="CR68">68</xref>
+              </sup>
+               suggested that a pyrolitic composition can reproduce the reference velocities and densities of PREM
+              <sup>
+                <xref ref-type="bibr" rid="CR69">69</xref>
+              </sup>
+              . An appropriate and likely composition for a pyrolitic lower mantle
+              <sup>
+                <xref ref-type="bibr" rid="CR67">67</xref>
+                ,
+                <xref ref-type="bibr" rid="CR68">68</xref>
+                ,
+                <xref ref-type="bibr" rid="CR70">70</xref>
+              </sup>
+               is likely composed of 15% ferropericlase (Mg
+              <sub>0.82</sub>
+              Fe
+              <sub>0.18</sub>
+              O), 78% Fe-bearing bridgmanite (Mg
+              <sub>0.92</sub>
+              Fe
+              <sub>0.08</sub>
+              SiO
+              <sub>3</sub>
+              ), and 7% Ca-perovskite (CaSiO
+              <sub>3</sub>
+              ), which is adopted in this work. The MORB composition
+              <sup>
+                <xref ref-type="bibr" rid="CR32">32</xref>
+              </sup>
+               consists of ~39% Fe- and Al-bearing bridgmanite (Mg
+              <sub>0.58</sub>
+              Fe
+              <sub>0.16</sub>
+              Al
+              <sub>0.26</sub>
+              Si
+              <sub>0.74</sub>
+              Al
+              <sub>0.26</sub>
+              O
+              <sub>3</sub>
+              ), 30% Ca-perovskite (CaSiO
+              <sub>3</sub>
+              ), 16% SiO
+              <sub>2</sub>
+              , and 15% Fe-bearing CF-type phase (Na
+              <sub>0.4</sub>
+              Mg
+              <sub>0.48</sub>
+              Fe
+              <sub>0.12</sub>
+              Al
+              <sub>1.6</sub>
+              Si
+              <sub>0.4</sub>
+              O
+              <sub>4</sub>
+              ).
+            </p>
+            <p id="Par20">
+              The elastic properties of Ca-perovskite, Fe-free and Fe-bearing bridgmanite (MgSiO
+              <sub>3</sub>
+               and Mg
+              <sub>0.875</sub>
+              Fe
+              <sub>0125</sub>
+              SiO
+              <sub>3</sub>
+              ), corundum (Al
+              <sub>2</sub>
+              O
+              <sub>3</sub>
+              ), ferropericlase (Mg
+              <sub>0.82</sub>
+              Fe
+              <sub>0.18</sub>
+              O), stishovite, and the CaCl
+              <sub>2</sub>
+              -type silica at high P–T conditions are reported in previous theoretical studies
+              <sup>
+                <xref ref-type="bibr" rid="CR34">34</xref>
+                , 
+                <xref ref-type="bibr" rid="CR35">35</xref>
+                , 
+                <xref ref-type="bibr" rid="CR36">36</xref>
+                –
+                <xref ref-type="bibr" rid="CR37">37</xref>
+                ,
+                <xref ref-type="bibr" rid="CR64">64</xref>
+              </sup>
+              . Combining these data with our elastic data of CF-type phase (NaAlSiO
+              <sub>4</sub>
+              , MgAl
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              , and Mg
+              <sub>0.75</sub>
+              Fe
+              <sub>0.25</sub>
+              Al
+              <sub>2</sub>
+              O
+              <sub>4</sub>
+              ), we calculated elastic moduli and densities of all the above phases with chemical compositions as shown in the MORB using the interpolation method. Thus, elastic moduli and densities of the MORB were calculated using:
+              <disp-formula id="Equ1">
+                <label>1</label>
+                <alternatives>
+                  <ns1:math id="Equ1_Math">
+                    <ns1:mi>ρ</ns1:mi>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:munder>
+                      <ns1:mrow>
+                        <ns1:mo mathsize="big"> ∑</ns1:mo>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>i</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:munder>
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>f</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>i</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>ρ</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>i</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                  </ns1:math>
+                  <tex-math id="Equ1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho =\sum_i {f_i\rho _i}$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13720_Article_Equ1.gif"/>
+                </alternatives>
+              </disp-formula>
+              <disp-formula id="Equ2">
+                <label>2</label>
+                <alternatives>
+                  <ns1:math id="Equ2_Math">
+                    <ns1:mi>M</ns1:mi>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:mfrac>
+                      <ns1:mrow>
+                        <ns1:mn>1</ns1:mn>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mn>2</ns1:mn>
+                      </ns1:mrow>
+                    </ns1:mfrac>
+                    <ns1:mfenced close="]" open="[" separators="">
+                      <ns1:mrow>
+                        <ns1:munder>
+                          <ns1:mrow>
+                            <ns1:mo mathsize="big">∑</ns1:mo>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mi>i</ns1:mi>
+                          </ns1:mrow>
+                        </ns1:munder>
+                        <ns1:msub>
+                          <ns1:mrow>
+                            <ns1:mi>f</ns1:mi>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mi>i</ns1:mi>
+                          </ns1:mrow>
+                        </ns1:msub>
+                        <ns1:msub>
+                          <ns1:mrow>
+                            <ns1:mi>M</ns1:mi>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mi>i</ns1:mi>
+                          </ns1:mrow>
+                        </ns1:msub>
+                        <ns1:mo>+</ns1:mo>
+                        <ns1:msup>
+                          <ns1:mrow>
+                            <ns1:mfenced close=")" open="(" separators="">
+                              <ns1:mrow>
+                                <ns1:munder>
+                                  <ns1:mrow>
+                                    <ns1:mo mathsize="big">∑</ns1:mo>
+                                  </ns1:mrow>
+                                  <ns1:mrow>
+                                    <ns1:mi>i</ns1:mi>
+                                  </ns1:mrow>
+                                </ns1:munder>
+                                <ns1:msub>
+                                  <ns1:mrow>
+                                    <ns1:mi>f</ns1:mi>
+                                  </ns1:mrow>
+                                  <ns1:mrow>
+                                    <ns1:mi>i</ns1:mi>
+                                  </ns1:mrow>
+                                </ns1:msub>
+                                <ns1:msubsup>
+                                  <ns1:mrow>
+                                    <ns1:mi>M</ns1:mi>
+                                  </ns1:mrow>
+                                  <ns1:mrow>
+                                    <ns1:mi>i</ns1:mi>
+                                  </ns1:mrow>
+                                  <ns1:mrow>
+                                    <ns1:mo>−</ns1:mo>
+                                    <ns1:mn>1</ns1:mn>
+                                  </ns1:mrow>
+                                </ns1:msubsup>
+                              </ns1:mrow>
+                            </ns1:mfenced>
+                          </ns1:mrow>
+                          <ns1:mrow>
+                            <ns1:mo>−</ns1:mo>
+                            <ns1:mn>1</ns1:mn>
+                          </ns1:mrow>
+                        </ns1:msup>
+                      </ns1:mrow>
+                    </ns1:mfenced>
+                  </ns1:math>
+                  <tex-math id="Equ2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$M = \frac{1}{2}\left[\sum _i {f_iM_i} + \left(\sum_i {f_iM_i^{ - 1}} \right)^{ - 1} \right]$$\end{document}</tex-math>
+                  <graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13720_Article_Equ2.gif"/>
+                </alternatives>
+              </disp-formula>
+              where 
+              <italic>ρ</italic>
+              <sub>
+                <italic>i</italic>
+              </sub>
+              , 
+              <italic>M</italic>
+              <sub>
+                <italic>i</italic>
+              </sub>
+              , and 
+              <italic>f</italic>
+              <sub>
+                <italic>i</italic>
+              </sub>
+               are the density, bulk modulus (K
+              <sub>S</sub>
+              ) or shear modulus (G), and the fraction of the 
+              <italic>i</italic>
+              th mineral, respectively. Then, the compressional and shear velocities 
+              <italic>(V</italic>
+              <sub>
+                <italic>P</italic>
+              </sub>
+               and 
+              <italic>V</italic>
+              <sub>
+                <italic>S</italic>
+              </sub>
+              ) were derived from 
+              <inline-formula id="IEq3">
+                <alternatives>
+                  <ns1:math id="IEq3_Math">
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>V</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>P</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:msqrt>
+                      <ns1:mrow>
+                        <ns1:mo>(</ns1:mo>
+                        <ns1:mrow>
+                          <ns1:msub>
+                            <ns1:mrow>
+                              <ns1:mi mathvariant="normal">K</ns1:mi>
+                            </ns1:mrow>
+                            <ns1:mrow>
+                              <ns1:mi mathvariant="normal">S</ns1:mi>
+                            </ns1:mrow>
+                          </ns1:msub>
+                          <ns1:mo>+</ns1:mo>
+                          <ns1:mfrac>
+                            <ns1:mrow>
+                              <ns1:mn>4</ns1:mn>
+                            </ns1:mrow>
+                            <ns1:mrow>
+                              <ns1:mn>3</ns1:mn>
+                            </ns1:mrow>
+                          </ns1:mfrac>
+                          <ns1:mi>G</ns1:mi>
+                        </ns1:mrow>
+                        <ns1:mo>)</ns1:mo>
+                      </ns1:mrow>
+                      <ns1:mo>/</ns1:mo>
+                      <ns1:mi>ρ</ns1:mi>
+                    </ns1:msqrt>
+                  </ns1:math>
+                  <tex-math id="IEq3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$V_P = \sqrt {({\mathrm{K}}_{\mathrm{S}} + \frac{4}{3}G)/\rho }$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13720_Article_IEq3.gif"/>
+                </alternatives>
+              </inline-formula>
+               and 
+              <inline-formula id="IEq4">
+                <alternatives>
+                  <ns1:math id="IEq4_Math">
+                    <ns1:msub>
+                      <ns1:mrow>
+                        <ns1:mi>V</ns1:mi>
+                      </ns1:mrow>
+                      <ns1:mrow>
+                        <ns1:mi>S</ns1:mi>
+                      </ns1:mrow>
+                    </ns1:msub>
+                    <ns1:mo>=</ns1:mo>
+                    <ns1:msqrt>
+                      <ns1:mi>G</ns1:mi>
+                      <ns1:mo>/</ns1:mo>
+                      <ns1:mi>ρ</ns1:mi>
+                    </ns1:msqrt>
+                  </ns1:math>
+                  <tex-math id="IEq4_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$V_S = \sqrt {G/\rho }$$\end{document}</tex-math>
+                  <inline-graphic specific-use="web" mime-subtype="GIF" ns0:href="41467_2019_13720_Article_IEq4.gif"/>
+                </alternatives>
+              </inline-formula>
+              . The uncertainties of calculated velocities and density of MORB were estimated based on the errors for elastic properties (&lt;0.8%) and the concentration of dilute substitutional solutes (±1 mol%).
+            </p>
+          </sec>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>
+            This study is supported by the Strategic Priority Research Program (B) of the Chinese Academy of Sciences (XDB18000000), State Key Development Program of Basic Research of China (2014CB845905), National Natural Science Foundation of China (41721002), the Fundamental Research Funds for the Central Universities (WK2080000078), and Special Program for Applied Research on Super Computation of the NSFC-Guangdong Joint Fund (the second phase). The calculations were partly conducted at supercomputing center of USTC. The data were generated by Quantum Espresso (
+            <ext-link ns0:href="http://www.quantumespresso.org" ext-link-type="uri">www.quantumespresso.org</ext-link>
+            ) and listed in the 
+            <xref ref-type="supplementary-material" rid="MOESM1">Supplementary Materials</xref>
+            . RMW was supported by National Science Foundation award EAR-1918126 and by the US Department of Energy award DESC0019759.
+          </p>
+        </ack>
+        <sec sec-type="author-contribution">
+          <title>Author contributions</title>
+          <p>Z.W. and W.W. designed this project. W.W. and Y.X. performed ab initio calculations, modelled the results, and wrote ﻿the draft. W.W., Y.X., Z.W., D.S., S.N. and R.W. contributed to the revision of the manuscript. W.W. and Y.X. contributed equally to this work.</p>
+        </sec>
+        <sec sec-type="data-availability">
+          <title>Data availability</title>
+          <p>
+            The data sets in this study are available as 
+            <xref ref-type="supplementary-material" rid="MOESM1">Supplementary Information</xref>
+             and from the corresponding authors.
+          </p>
+        </sec>
+        <sec sec-type="ethics-statement">
+          <sec id="FPar1" sec-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par21">The authors declare no competing interests.</p>
+          </sec>
+        </sec>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="other">
+                Tackley, P. J. in 
+                <italic>Treatise on Geophysics</italic>
+                 521–585 (Elsevier, 2015).
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ni</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Sharp Sides to the African Superplume</article-title>
+                <source>Science</source>
+                <year>2002</year>
+                <volume>296</volume>
+                <fpage>1850</fpage>
+                <lpage>1852</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2002Sci...296.1850N</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD38Xktl2qs7w%3D</pub-id>
+                <pub-id pub-id-type="pmid">12052955</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.1070698</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ritsema</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Ni</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Helmberger</surname>
+                    <given-names>DV</given-names>
+                  </name>
+                  <name>
+                    <surname>Crotwell</surname>
+                    <given-names>HP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Evidence for strong shear velocity reductions and velocity gradients in the lower mantle beneath Africa</article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>1998</year>
+                <volume>25</volume>
+                <fpage>4245</fpage>
+                <lpage>4248</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1998GeoRL..25.4245R</pub-id>
+                <pub-id pub-id-type="doi">10.1029/1998GL900127</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>van der Hilst</surname>
+                    <given-names>RD</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Seismostratigraphy and thermal structure of Earth’s Core-Mantle boundary region</article-title>
+                <source>Science</source>
+                <year>2007</year>
+                <volume>315</volume>
+                <fpage>1813</fpage>
+                <lpage>1817</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2007Sci...315.1813V</pub-id>
+                <pub-id pub-id-type="pmid">17395822</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.1137867</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2sXjsFSitrY%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Thorne</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                  <name>
+                    <surname>Garnero</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Inferences on ultralow-velocity zone structure from a global analysis of SPdKS waves</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2004</year>
+                <volume>109</volume>
+                <fpage>1</fpage>
+                <lpage>22</lpage>
+                <pub-id pub-id-type="doi">10.1029/2004JB003010</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sun</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Helmberger</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Miller</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                  <name>
+                    <surname>Jackson</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Major disruption of D″ beneath Alaska</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2016</year>
+                <volume>121</volume>
+                <fpage>3534</fpage>
+                <lpage>3556</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016JGRB..121.3534S</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2015JB012534</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Van Der Hilst</surname>
+                    <given-names>RD</given-names>
+                  </name>
+                  <name>
+                    <surname>Kárason</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Compositional heterogeneity in the bottom 1000 kilometers of earth’s mantle: toward a hybrid convection model</article-title>
+                <source>Science</source>
+                <year>1999</year>
+                <volume>283</volume>
+                <fpage>1885</fpage>
+                <lpage>1888</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1999Sci...283.1885V</pub-id>
+                <pub-id pub-id-type="pmid">10082455</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.283.5409.1885</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>French</surname>
+                    <given-names>SW</given-names>
+                  </name>
+                  <name>
+                    <surname>Romanowicz</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Broad plumes rooted at the base of the Earth’s mantle beneath major hotspots</article-title>
+                <source>Nature</source>
+                <year>2015</year>
+                <volume>525</volume>
+                <fpage>95</fpage>
+                <lpage>99</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015Natur.525...95F</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXhsVCis7vL</pub-id>
+                <pub-id pub-id-type="pmid">26333468</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature14876</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>French</surname>
+                    <given-names>SW</given-names>
+                  </name>
+                  <name>
+                    <surname>Romanowicz</surname>
+                    <given-names>BA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Whole-mantle radially anisotropic shear velocity structure from spectral-element waveform tomography</article-title>
+                <source>Geophys. J. Int.</source>
+                <year>2014</year>
+                <volume>199</volume>
+                <fpage>1303</fpage>
+                <lpage>1327</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014GeoJI.199.1303F</pub-id>
+                <pub-id pub-id-type="doi">10.1093/gji/ggu334</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lekic</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>Cottaar</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Dziewonski</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Romanowicz</surname>
+                    <given-names>B</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cluster analysis of global lower mantle tomography: a new class of structure and implications for chemical heterogeneity</article-title>
+                <source>Earth Planet. Sci. Lett.</source>
+                <year>2012</year>
+                <volume>357–358</volume>
+                <fpage>68</fpage>
+                <lpage>77</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012E&amp;PSL.357...68L</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.epsl.2012.09.014</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38Xhslajsr7N</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Auer</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Boschi</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Becker</surname>
+                    <given-names>TW</given-names>
+                  </name>
+                  <name>
+                    <surname>Nissen-Meyer</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Giardini</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Savani: a variable resolution whole-mantle model of anisotropic shear velocity variations based on multiple data sets</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2014</year>
+                <volume>119</volume>
+                <fpage>3006</fpage>
+                <lpage>3034</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014JGRB..119.3006A</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2013JB010773</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chang</surname>
+                    <given-names>S-J</given-names>
+                  </name>
+                  <name>
+                    <surname>Ferreira</surname>
+                    <given-names>AMG</given-names>
+                  </name>
+                  <name>
+                    <surname>Ritsema</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>van Heijst</surname>
+                    <given-names>HJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Woodhouse</surname>
+                    <given-names>JH</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Joint inversion for global isotropic and radially anisotropic mantle structure including crustal thickness perturbations</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2015</year>
+                <volume>120</volume>
+                <fpage>4278</fpage>
+                <lpage>4300</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015JGRB..120.4278C</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2014JB011824</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Fukao</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Obayashi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Subducted slabs stagnant above, penetrating through, and trapped below the 660 km discontinuity</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2013</year>
+                <volume>118</volume>
+                <fpage>5920</fpage>
+                <lpage>5938</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013JGRB..118.5920F</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2013JB010466</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Chang</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Ferreira</surname>
+                    <given-names>AMG</given-names>
+                  </name>
+                  <name>
+                    <surname>Faccenda</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Upper- and mid-mantle interaction between the Samoan plume and the Tonga-Kermadec slabs</article-title>
+                <source>Nat. Commun.</source>
+                <year>2016</year>
+                <volume>7</volume>
+                <fpage>1</fpage>
+                <lpage>9</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="other">
+                Shearer, P. M.in 
+                <italic>Treatise on Geophysics:</italic>
+                 2nd edn. (Elsevier B.V., 2015).
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bentham</surname>
+                    <given-names>HLM</given-names>
+                  </name>
+                  <name>
+                    <surname>Rost</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Thorne</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Fine-scale structure of the mid-mantle characterised by global stacks of PP precursors</article-title>
+                <source>Earth Planet. Sci. Lett.</source>
+                <year>2017</year>
+                <volume>472</volume>
+                <fpage>164</fpage>
+                <lpage>173</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017E&amp;PSL.472..164B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXptVWksr0%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.epsl.2017.05.027</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="other">
+                Kaneshima, S. &amp; Helffrich, G. Subparallel dipping heterogeneities in the mid-lower mantle. 
+                <italic>J. Geophys. Res. Solid Earth</italic>
+                <bold>108</bold>
+                , 2272 (2003).
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kaneshima</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Helffrich</surname>
+                    <given-names>G</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Small scale heterogeneity in the mid-lower mantle beneath the circum-Pacific area</article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2010</year>
+                <volume>183</volume>
+                <fpage>91</fpage>
+                <lpage>103</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2010PEPI..183...91K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXhsVyrtLvE</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2010.03.011</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kaneshima</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Seismic scatterers in the mid-lower mantle</article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2016</year>
+                <volume>257</volume>
+                <fpage>105</fpage>
+                <lpage>114</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016PEPI..257..105K</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2016.05.004</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Haugland</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Ritsema</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kaneshima</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Thorne</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Estimate of the rigidity of eclogite in the lower mantle from waveform modeling of broadband S -to- P wave conversions</article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>2017</year>
+                <volume>44</volume>
+                <fpage>778</fpage>
+                <lpage>11</lpage>
+                <pub-id pub-id-type="doi">10.1002/2017GL075463</pub-id>
+                <comment>784</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sigloch</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Mihalynuk</surname>
+                    <given-names>MG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Intra-oceanic subduction shaped the assembly of Cordilleran North America</article-title>
+                <source>Nature</source>
+                <year>2013</year>
+                <volume>496</volume>
+                <fpage>50</fpage>
+                <lpage>56</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013Natur.496...50S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXlt1alu7Y%3D</pub-id>
+                <pub-id pub-id-type="pmid">23552944</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature12019</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="other">
+                Fukao, Y. &amp; Obayashi, M. in 
+                <italic>Treatise on Geophysics</italic>
+                 641–654 (Elsevier, 2015).
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Simmons</surname>
+                    <given-names>Na</given-names>
+                  </name>
+                  <name>
+                    <surname>Myers</surname>
+                    <given-names>SC</given-names>
+                  </name>
+                  <name>
+                    <surname>Johannesson</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Matzel</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Grand</surname>
+                    <given-names>SP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Evidence for long-lived subduction of an ancient tectonic plate beneath the southern Indian Ocean</article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>2015</year>
+                <volume>42</volume>
+                <fpage>9270</fpage>
+                <lpage>9278</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015GeoRL..42.9270S</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2015GL066237</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Goes</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Agrusta</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>van Hunen</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Garel</surname>
+                    <given-names>F</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Subduction-transition zone interaction: a review</article-title>
+                <source>Geosphere</source>
+                <year>2017</year>
+                <volume>13</volume>
+                <fpage>644</fpage>
+                <lpage>664</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017Geosp..13..644G</pub-id>
+                <pub-id pub-id-type="doi">10.1130/GES01476.1</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Nomura</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Hirose</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Sata</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Ohishi</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Precise determination of post-stishovite phase transition boundary and implications for seismic heterogeneities in the mid-lower mantle</article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2010</year>
+                <volume>183</volume>
+                <fpage>104</fpage>
+                <lpage>109</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2010PEPI..183..104N</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXhsVyrtLrK</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2010.08.004</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Umemoto</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Kawamura</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Hirose</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Post-stishovite transition in hydrous aluminous SiO
+                  <sub>2</sub>
+                </article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2016</year>
+                <volume>255</volume>
+                <fpage>18</fpage>
+                <lpage>26</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016PEPI..255...18U</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28Xls1Khu7k%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2016.03.008</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lakshtanov</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  The post-stishovite phase transition in hydrous alumina-bearing SiO
+                  <sub>2</sub>
+                   in the lower mantle of the earth
+                </article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2007</year>
+                <volume>104</volume>
+                <fpage>13588</fpage>
+                <lpage>13590</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2007PNAS..10413588L</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2sXpvVCnt7k%3D</pub-id>
+                <pub-id pub-id-type="pmid">17686973</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.0706113104</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tsuchiya</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Elasticity of subducted basaltic crust at the lower mantle pressures: insights on the nature of deep mantle heterogeneity</article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2011</year>
+                <volume>188</volume>
+                <fpage>142</fpage>
+                <lpage>149</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011PEPI..188..142T</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXhtl2hu7vI</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2011.06.018</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Brandenburg</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                  <name>
+                    <surname>van Keken</surname>
+                    <given-names>PE</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Deep storage of oceanic crust in a vigorously convecting mantle</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2007</year>
+                <volume>112</volume>
+                <fpage>1</fpage>
+                <lpage>15</lpage>
+                <pub-id pub-id-type="doi">10.1029/2006JB004813</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>McNamara</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Zhong</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Thermochemical structures beneath Africa and the Pacific Ocean</article-title>
+                <source>Nature</source>
+                <year>2005</year>
+                <volume>437</volume>
+                <fpage>1136</fpage>
+                <lpage>1139</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2005Natur.437.1136M</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXhtFahtL%2FI</pub-id>
+                <pub-id pub-id-type="pmid">16237440</pub-id>
+                <pub-id pub-id-type="doi">10.1038/nature04066</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Frost</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>Rost</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Garnero</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Seismic evidence for Earth’s crusty deep mantle</article-title>
+                <source>Earth Planet. Sci. Lett.</source>
+                <year>2017</year>
+                <volume>470</volume>
+                <fpage>54</fpage>
+                <lpage>63</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017E&amp;PSL.470...54F</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXmvVGqsbo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.epsl.2017.04.036</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ricolleau</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">Phase relations and equation of state of a natural MORB: Implications for the density profile of subducted oceanic crust in the Earth’s lower mantle</article-title>
+                <source>J. Geophys. Res.</source>
+                <year>2010</year>
+                <volume>115</volume>
+                <fpage>B08202</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2010JGRB..115.8202R</pub-id>
+                <pub-id pub-id-type="doi">10.1029/2009JB006709</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3cXht12ms73I</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR33">
+              <label>33.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Imada</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Hirose</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Ohishi</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Stabilities of NAL and Ca-ferrite-type phases on the join NaAlSiO
+                  <sub>4</sub>
+                  -MgAl
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                   at high pressure
+                </article-title>
+                <source>Phys. Chem. Miner.</source>
+                <year>2011</year>
+                <volume>38</volume>
+                <fpage>557</fpage>
+                <lpage>560</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011PCM....38..557I</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXlvVWku70%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s00269-011-0427-2</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR34">
+              <label>34.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shukla</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Thermoelasticity of Fe
+                  <sup>2+</sup>
+                  -bearing bridgmanite
+                </article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>2015</year>
+                <volume>42</volume>
+                <fpage>1741</fpage>
+                <lpage>1749</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015GeoRL..42.1741S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXms1OmsbY%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2014GL062888</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR35">
+              <label>35.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>W</given-names>
+                  </name>
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Elasticity of corundum at high pressures and temperatures: implications for pyrope decomposition and Al-content effect on elastic properties of Bridgmanite</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2018</year>
+                <volume>123</volume>
+                <fpage>1201</fpage>
+                <lpage>1216</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2018JGRB..123.1201W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1cXlslGktLY%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2017JB015088</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR36">
+              <label>36.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kawai</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Tsuchiya</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Small shear modulus of cubic CaSiO
+                  <sub>3</sub>
+                   perovskite
+                </article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>2015</year>
+                <volume>42</volume>
+                <fpage>2718</fpage>
+                <lpage>2726</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015GeoRL..42.2718K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXosVKht70%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2015GL063446</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR37">
+              <label>37.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yang</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Elastic properties of stishovite and the CaCl
+                  <sub>2</sub>
+                  -type silica at the mantle temperature and pressure: an ab initio investigation
+                </article-title>
+                <source>Earth Planet. Sci. Lett.</source>
+                <year>2014</year>
+                <volume>404</volume>
+                <fpage>14</fpage>
+                <lpage>21</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014E&amp;PSL.404...14Y</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.epsl.2014.07.020</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhtlart7rO</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR38">
+              <label>38.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Guignot</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Andrault</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Equations of state of Na–K–Al host phases and implications for MORB density in the lower mantle</article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2004</year>
+                <volume>143–144</volume>
+                <fpage>107</fpage>
+                <lpage>128</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2004PEPI..143..107G</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2003.09.014</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2cXktFSmu7w%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR39">
+              <label>39.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tutti</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Dubrovinsky</surname>
+                    <given-names>LS</given-names>
+                  </name>
+                  <name>
+                    <surname>Saxena</surname>
+                    <given-names>SK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  High pressure phase transformation of jadeite and stability of NaAlSiO
+                  <sub>4</sub>
+                   with calcium-ferrite type structure in the lower mantle conditions
+                </article-title>
+                <source>Geophys. Res. Lett.</source>
+                <year>2000</year>
+                <volume>27</volume>
+                <fpage>2025</fpage>
+                <lpage>2028</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2000GeoRL..27.2025T</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD3cXlslaltrc%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1029/2000GL008496</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR40">
+              <label>40.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yamada</surname>
+                    <given-names>H</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Crystal-chemical characterization of NaAlSiO
+                  <sub>4</sub>
+                   with the CaFe
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                   structure
+                </article-title>
+                <source>Mineral. Mag.</source>
+                <year>1983</year>
+                <volume>47</volume>
+                <fpage>177</fpage>
+                <lpage>181</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaL3sXhvVaktr0%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1180/minmag.1983.047.343.07</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR41">
+              <label>41.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Irifune</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Naka</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Sanehira</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Inoue</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Funakoshi</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  In situ X-ray observations of phase transitions in MgAl
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                   spinel to 40 GPa using multianvil apparatus with sintered diamond anvils
+                </article-title>
+                <source>Phys. Chem. Miner.</source>
+                <year>2002</year>
+                <volume>29</volume>
+                <fpage>645</fpage>
+                <lpage>654</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2002PCM....29..645I</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD38XpsFegur0%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s00269-002-0275-1</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR42">
+              <label>42.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kojitani</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Hisatomi</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Akaogi</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  High-pressure phase relations and crystal chemistry of calcium ferrite-type solid solutions in the system MgAl
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                  -Mg
+                  <sub>2</sub>
+                  SiO
+                  <sub>4</sub>
+                </article-title>
+                <source>Am. Mineral.</source>
+                <year>2007</year>
+                <volume>92</volume>
+                <fpage>1112</fpage>
+                <lpage>1118</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2007AmMin..92.1112K</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2sXptlymu74%3D</pub-id>
+                <pub-id pub-id-type="doi">10.2138/am.2007.2255</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR43">
+              <label>43.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sueda</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Thermal equation of state of CaFe
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                  -type MgAl
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                </article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>2009</year>
+                <volume>174</volume>
+                <fpage>78</fpage>
+                <lpage>85</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2009PEPI..174...78S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD1MXlslyqtbk%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.pepi.2008.07.046</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR44">
+              <label>44.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Yutani</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Yagi</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Yusa</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Irifune</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Compressibility of calcium ferrite-type MgAl
+                  <sub>2</sub>
+                  O
+                  <sub>4</sub>
+                </article-title>
+                <source>Phys. Chem. Miner.</source>
+                <year>1997</year>
+                <volume>24</volume>
+                <fpage>340</fpage>
+                <lpage>344</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1997PCM....24..340Y</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK2sXkslGgtLo%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s002690050047</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR45">
+              <label>45.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dubrovinsky</surname>
+                    <given-names>LS</given-names>
+                  </name>
+                  <name>
+                    <surname>Dubrovinskaia</surname>
+                    <given-names>Na</given-names>
+                  </name>
+                  <name>
+                    <surname>Prokopenko</surname>
+                    <given-names>VB</given-names>
+                  </name>
+                  <name>
+                    <surname>Le Bihan</surname>
+                    <given-names>T</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Equation of state and crystal structure of NaAlSiO
+                  <sub>4</sub>
+                   with calcium-ferrite type structure in the conditions of the lower mantle
+                </article-title>
+                <source>High. Press. Res.</source>
+                <year>2002</year>
+                <volume>22</volume>
+                <fpage>495</fpage>
+                <lpage>499</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2002HPR....22..495D</pub-id>
+                <pub-id pub-id-type="doi">10.1080/08957950212807</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR46">
+              <label>46.</label>
+              <mixed-citation publication-type="other">
+                Zhao, M. et al. Thermoelastic properties of aluminous phases in MORB from first‐principles calculation: implications for Earth’s lower mantle. 
+                <italic>J. Geophys. Res. Solid Earth</italic>
+                <bold>123</bold>
+                , 10583–10596 (2018).
+              </mixed-citation>
+            </ref>
+            <ref id="CR47">
+              <label>47.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Brown</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Shankland</surname>
+                    <given-names>TJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Thermodynamic parameters in the Earth as determined from seismic profiles</article-title>
+                <source>Geophys. J. Int.</source>
+                <year>1981</year>
+                <volume>66</volume>
+                <fpage>579</fpage>
+                <lpage>596</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1981GeoJI..66..579B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="Zentralblatt MATH">0474.73119</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1365-246X.1981.tb04891.x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR48">
+              <label>48.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dai</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Sound velocities of Na
+                  <sub>0.4</sub>
+                  Mg
+                  <sub>0.6</sub>
+                  Al
+                  <sub>1.6</sub>
+                  Si
+                  <sub>0.4</sub>
+                  O
+                  <sub>4</sub>
+                   NAL and CF phases to 73 GPa determined by Brillouin scattering method
+                </article-title>
+                <source>Phys. Chem. Miner.</source>
+                <year>2013</year>
+                <volume>40</volume>
+                <fpage>195</fpage>
+                <lpage>201</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013PCM....40..195D</pub-id>
+                <pub-id pub-id-type="doi">10.1007/s00269-012-0558-0</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXivFehsrY%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR49">
+              <label>49.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Stixrude</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Lithgow-Bertelloni</surname>
+                    <given-names>C</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Geophysics of chemical heterogeneity in the mantle</article-title>
+                <source>Annu. Rev. Earth Planet. Sci.</source>
+                <year>2012</year>
+                <volume>40</volume>
+                <fpage>569</fpage>
+                <lpage>595</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2012AREPS..40..569S</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC38XovFSlt70%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1146/annurev.earth.36.031207.124244</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR50">
+              <label>50.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Justo</surname>
+                    <given-names>JF</given-names>
+                  </name>
+                  <name>
+                    <surname>Morra</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Yuen</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Viscosity undulations in the lower mantle: the dynamical role of iron spin transition</article-title>
+                <source>Earth Planet. Sci. Lett.</source>
+                <year>2015</year>
+                <volume>421</volume>
+                <fpage>20</fpage>
+                <lpage>26</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015E&amp;PSL.421...20J</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXlslCltrw%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.epsl.2015.03.013</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR51">
+              <label>51.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ballmer</surname>
+                    <given-names>MD</given-names>
+                  </name>
+                  <name>
+                    <surname>Houser</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Hernlund</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <name>
+                    <surname>Hirose</surname>
+                    <given-names>K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Persistence of strong silica-enriched domains in the Earth’s lower mantle</article-title>
+                <source>Nat. Geosci.</source>
+                <year>2017</year>
+                <volume>10</volume>
+                <fpage>236</fpage>
+                <lpage>240</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2017NatGe..10..236B</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2sXjsVGjsLc%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ngeo2898</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR52">
+              <label>52.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hirose</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Fei</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Ma</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Mao</surname>
+                    <given-names>H-K</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The fate of subducted basaltic crust in the Earth’s lower mantle</article-title>
+                <source>Nature</source>
+                <year>1999</year>
+                <volume>397</volume>
+                <fpage>53</fpage>
+                <lpage>56</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1999Natur.397...53H</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1MXnsF2nsw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/16225</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR53">
+              <label>53.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>McNamara</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The difficulty for subducted oceanic crust to accumulate at the Earth’s core-mantle boundary</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2013</year>
+                <volume>118</volume>
+                <fpage>1807</fpage>
+                <lpage>1816</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013JGRB..118.1807L</pub-id>
+                <pub-id pub-id-type="doi">10.1002/jgrb.50156</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR54">
+              <label>54.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Thomson</surname>
+                    <given-names>AR</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Seismic velocities of CaSiO
+                  <sub>3</sub>
+                   perovskite can explain LLSVPs in Earth’s lower mantle
+                </article-title>
+                <source>Nature</source>
+                <year>2019</year>
+                <volume>572</volume>
+                <fpage>643</fpage>
+                <lpage>647</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019Natur.572..643T</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXhsFyhurbL</pub-id>
+                <pub-id pub-id-type="pmid">31413365</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41586-019-1483-x</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR55">
+              <label>55.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Gréaux</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">
+                  Sound velocity of CaSiO
+                  <sub>3</sub>
+                   perovskite suggests the presence of basaltic crust in the Earth’s lower mantle
+                </article-title>
+                <source>Nature</source>
+                <year>2019</year>
+                <volume>565</volume>
+                <fpage>218</fpage>
+                <lpage>221</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2019Natur.565..218G</pub-id>
+                <pub-id pub-id-type="pmid">30626940</pub-id>
+                <pub-id pub-id-type="doi">10.1038/s41586-018-0816-5</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC1MXmvFWjsLs%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR56">
+              <label>56.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Li</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>McNamara</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Garnero</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Chemical complexity of hotspots caused by cycling oceanic crust through mantle reservoirs</article-title>
+                <source>Nat. Geosci.</source>
+                <year>2014</year>
+                <volume>7</volume>
+                <fpage>366</fpage>
+                <lpage>370</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014NatGe...7..366L</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXltFKqur4%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ngeo2120</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR57">
+              <label>57.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Giannozzi</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <etal/>
+                </person-group>
+                <article-title xml:lang="en">QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials</article-title>
+                <source>J. Phys. Condens. Matter</source>
+                <year>2009</year>
+                <volume>21</volume>
+                <fpage>395502</fpage>
+                <pub-id pub-id-type="pmid">21832390</pub-id>
+                <pub-id pub-id-type="doi">10.1088/0953-8984/21/39/395502</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR58">
+              <label>58.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Karki</surname>
+                    <given-names>BB</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">First-principles determination of elastic anisotropy and wave velocities of MgO at lower mantle conditions</article-title>
+                <source>Science</source>
+                <year>1999</year>
+                <volume>286</volume>
+                <fpage>1705</fpage>
+                <lpage>1707</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DyaK1MXnslKntro%3D</pub-id>
+                <pub-id pub-id-type="pmid">10576730</pub-id>
+                <pub-id pub-id-type="doi">10.1126/science.286.5445.1705</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR59">
+              <label>59.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <name>
+                    <surname>Karki</surname>
+                    <given-names>BB</given-names>
+                  </name>
+                  <name>
+                    <surname>Cococcioni</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>de Gironcoli</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">
+                  Thermoelastic properties of MgSiO
+                  <sub>3</sub>
+                </article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2004</year>
+                <volume>92</volume>
+                <fpage>018501</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2004PhRvL..92a8501W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD2c%2FlvFynsw%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">14754029</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevLett.92.018501</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR60">
+              <label>60.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Vanderbilt</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Soft self-consistent pseudopotentials in a generalized eigenvalue formalism</article-title>
+                <source>Phys. Rev. B</source>
+                <year>1990</year>
+                <volume>41</volume>
+                <fpage>7892</fpage>
+                <lpage>7895</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1990PhRvB..41.7892V</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC2sfkvFyltQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.41.7892</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR61">
+              <label>61.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cococcioni</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>de Gironcoli</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Linear response approach to the calculation of the effective interaction parameters in the LDA+U method</article-title>
+                <source>Phys. Rev. B</source>
+                <year>2005</year>
+                <volume>71</volume>
+                <fpage>035105</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2005PhRvB..71c5105C</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.71.035105</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BD2MXhtVyqsLg%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR62">
+              <label>62.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Invariant molecular-dynamics approach to structural phase transitions</article-title>
+                <source>Phys. Rev. B</source>
+                <year>1991</year>
+                <volume>44</volume>
+                <fpage>2358</fpage>
+                <lpage>2361</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1991PhRvB..44.2358W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC2sfls1GlsA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.44.2358</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR63">
+              <label>63.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Quasiharmonic thermal elasticity of crystals: an analytical approach</article-title>
+                <source>Phys. Rev. B</source>
+                <year>2011</year>
+                <volume>83</volume>
+                <fpage>184115</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2011PhRvB..83r4115W</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevB.83.184115</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3MXotVGgsLk%3D</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR64">
+              <label>64.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Justo</surname>
+                    <given-names>JF</given-names>
+                  </name>
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Elastic anomalies in a spin-crossover system: ferropericlase at lower mantle conditions</article-title>
+                <source>Phys. Rev. Lett.</source>
+                <year>2013</year>
+                <volume>110</volume>
+                <fpage>228501</fpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2013PhRvL.110v8501W</pub-id>
+                <pub-id pub-id-type="pmid">23767753</pub-id>
+                <pub-id pub-id-type="doi">10.1103/PhysRevLett.110.228501</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC3sXhtVajsL%2FJ</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR65">
+              <label>65.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hill</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The elastic behaviour of a crystalline aggregate</article-title>
+                <source>Proc. Phys. Soc. Sect. A</source>
+                <year>1952</year>
+                <volume>65</volume>
+                <fpage>349</fpage>
+                <lpage>354</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1952PPSA...65..349H</pub-id>
+                <pub-id pub-id-type="doi">10.1088/0370-1298/65/5/307</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR66">
+              <label>66.</label>
+              <mixed-citation publication-type="other">
+                Zhang, Z., Stixrude, L. &amp; Brodholt, J. Elastic properties of MgSiO
+                <sub>3</sub>
+                -perovskite under lower mantle conditions and the composition of the deep Earth. 
+                <italic>Earth Planet. Sci. Lett.</italic>
+                <bold>379</bold>
+                , 1–12 (2013).
+              </mixed-citation>
+            </ref>
+            <ref id="CR67">
+              <label>67.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Velocity structure and composition of the lower mantle with spin crossover in ferropericlase</article-title>
+                <source>J. Geophys. Res. Solid Earth</source>
+                <year>2016</year>
+                <volume>121</volume>
+                <fpage>2304</fpage>
+                <lpage>2314</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2016JGRB..121.2304W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC28XnvVSqtrg%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1002/2015JB012667</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR68">
+              <label>68.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wang</surname>
+                    <given-names>X</given-names>
+                  </name>
+                  <name>
+                    <surname>Tsuchiya</surname>
+                    <given-names>T</given-names>
+                  </name>
+                  <name>
+                    <surname>Hase</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Computational support for a pyrolitic lower mantle containing ferric iron</article-title>
+                <source>Nat. Geosci.</source>
+                <year>2015</year>
+                <volume>8</volume>
+                <fpage>556</fpage>
+                <lpage>559</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2015NatGe...8..556W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2MXhtFeisrbE</pub-id>
+                <pub-id pub-id-type="doi">10.1038/ngeo2458</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR69">
+              <label>69.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dziewonski</surname>
+                    <given-names>AM</given-names>
+                  </name>
+                  <name>
+                    <surname>Anderson</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Preliminary reference Earth model</article-title>
+                <source>Phys. Earth Planet. Inter</source>
+                <year>1981</year>
+                <volume>25</volume>
+                <fpage>297</fpage>
+                <lpage>356</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">1981PEPI...25..297D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/0031-9201(81)90046-7</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR70">
+              <label>70.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wu</surname>
+                    <given-names>Z</given-names>
+                  </name>
+                  <name>
+                    <surname>Wentzcovitch</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Spin crossover in ferropericlase and velocity heterogeneities in the lower mantle</article-title>
+                <source>Proc. Natl Acad. Sci. USA</source>
+                <year>2014</year>
+                <volume>111</volume>
+                <fpage>10468</fpage>
+                <lpage>10472</lpage>
+                <pub-id pub-id-type="other" assigning-authority="NASA Astrophysics Data System">2014PNAS..11110468W</pub-id>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:CAS:528:DC%2BC2cXhtFCnsrvJ</pub-id>
+                <pub-id pub-id-type="pmid">25002507</pub-id>
+                <pub-id pub-id-type="doi">10.1073/pnas.1322427111</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR71">
+              <label>71.</label>
+              <mixed-citation publication-type="other">
+                Wu, W., Ni, S. &amp; Irving, J. C. E. Inferring Earth’s discontinuous chemical layering from the 660-kilometer boundary topography. 
+                <italic>Science</italic>
+                <bold>363</bold>
+                , 736–740 (2019).
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec10">
+              <title>Supplementary information</title>
+              <p id="Par22">
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Supplementary information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41467_2019_13720_MOESM1_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Supplementary Information</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+                <supplementary-material content-type="local-data" id="MOESM2" ns0:title="Supplementary information">
+                  <media mimetype="application" mime-subtype="pdf" ns0:href="MediaObjects/41467_2019_13720_MOESM2_ESM.pdf">
+                    <caption xml:lang="en">
+                      <p>Peer Review File</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="ESMHint">
+          <title>Supplementary information</title>
+          <p>
+            <bold>Supplementary information</bold>
+             is available for this paper at 
+            <ext-link ns0:href="10.1038/s41467-019-13720-2" ext-link-type="doi">https://doi.org/10.1038/s41467-019-13720-2</ext-link>
+            .
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <p>
+            <bold>Peer review information</bold>
+            <italic>Nature Communications</italic>
+             thanks Satoshi Kaneshima and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+          </p>
+        </notes>
+        <notes notes-type="Misc">
+          <p>
+            <bold>Publisher’s note</bold>
+             Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+          </p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

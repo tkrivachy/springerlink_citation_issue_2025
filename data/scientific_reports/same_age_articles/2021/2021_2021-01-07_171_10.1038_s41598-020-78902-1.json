@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.231163",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78902-1",
+    "title": "An interactive holographic projection system that uses a hand-drawn interface with a consumer CPU",
+    "article_number": "147",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Takashi Nishitsuji",
+      "Takashi Kakue",
+      "David Blinder",
+      "Tomoyoshi Shimobaba",
+      "Tomoyoshi Ito"
+    ]
+  },
+  "article_index": 171,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:51:02.537805"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:51:04.135666"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:51:05.477311"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:43:48.620718"
+    },
+    "last_updated": "2025-10-03T21:43:48.620902"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.521317",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55377-6",
+    "title": "Oriented wide-bandgap perovskites for monolithic silicon-based tandems with over 1000 hours operational stability",
+    "article_number": "40",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuxin Yao",
+      "Biao Li",
+      "Degong Ding",
+      "Chenxia Kan",
+      "Pengjie Hang",
+      "Daoyong Zhang",
+      "Zechen Hu",
+      "Zhenyi Ni",
+      "Xuegong Yu",
+      "Deren Yang"
+    ]
+  },
+  "article_index": 81,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:43:54.123046"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T19:43:55.652730"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:43:56.877129"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:28:57.152295"
+    },
+    "last_updated": "2025-10-03T23:28:57.152527"
+  }
+}

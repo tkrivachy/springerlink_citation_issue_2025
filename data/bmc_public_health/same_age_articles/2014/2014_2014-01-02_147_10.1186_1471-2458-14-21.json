@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.763133",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-21",
+    "title": "All-Wales licensed premises intervention (AWLPI): a randomised controlled trial to reduce alcohol-related violence",
+    "article_number": "21",
+    "publication_date": "2014-01-10",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Simon C Moore",
+      "Claire O’Brien",
+      "Mohammed Fasihul Alam",
+      "David Cohen",
+      "Kerenza Hood",
+      "Chao Huang",
+      "Laurence Moore",
+      "Simon Murphy",
+      "Rebecca Playle",
+      "Vaseekaran Sivarajasingam",
+      "Irena Spasic",
+      "Anne Williams",
+      "Jonathan Shepherd"
+    ]
+  },
+  "article_index": 147,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:08:14.679015"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:08:16.264426"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T13:08:17.522962"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T21:05:49.581774"
+    },
+    "last_updated": "2025-10-03T21:05:49.581819"
+  }
+}

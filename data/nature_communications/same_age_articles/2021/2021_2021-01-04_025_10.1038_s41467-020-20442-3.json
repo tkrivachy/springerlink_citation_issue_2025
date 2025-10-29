@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.177297",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20442-3",
+    "title": "HIV-1 diversity considerations in the application of the Intact Proviral DNA Assay (IPDA)",
+    "article_number": "165",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Natalie N. Kinloch",
+      "Yanqin Ren",
+      "Winiffer D. Conce Alberto",
+      "Winnie Dong",
+      "Pragya Khadka",
+      "Szu Han Huang",
+      "Talia M. Mota",
+      "Andrew Wilson",
+      "Aniqa Shahid",
+      "Don Kirkby",
+      "Marianne Harris",
+      "Colin Kovacs",
+      "Erika Benko",
+      "Mario A. Ostrowski",
+      "Perla M. Del Rio Estrada",
+      "Avery Wimpelberg",
+      "Christopher Cannon",
+      "W. David Hardy",
+      "Lynsay MacLaren",
+      "Harris Goldstein",
+      "Chanson J. Brumme",
+      "Guinevere Q. Lee",
+      "Rebecca M. Lynch",
+      "Zabrina L. Brumme",
+      "R. Brad Jones"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:40:14.068943"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T18:40:15.617786"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:40:17.030887"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 95,
+      "retrieved_at": "2025-10-03T23:07:26.454880"
+    },
+    "last_updated": "2025-10-03T23:07:26.455071"
+  }
+}

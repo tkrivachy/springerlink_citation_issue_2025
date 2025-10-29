@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.239395",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1358-5",
+    "title": "Evaluation of the impact of a mobile health system on adherence to antenatal and postnatal care and prevention of mother-to-child transmission of HIV programs in Kenya",
+    "article_number": "102",
+    "publication_date": "2015-02-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ivy Mushamiri",
+      "Chibulu Luo",
+      "Casey Iiams-Hauser",
+      "Yanis Ben Amor"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T13:11:36.946151"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T13:11:38.464551"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T13:11:39.775711"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T21:07:02.138636"
+    },
+    "last_updated": "2025-10-03T21:07:02.138722"
+  }
+}

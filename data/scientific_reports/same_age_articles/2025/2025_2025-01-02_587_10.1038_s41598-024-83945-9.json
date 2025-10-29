@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.413024",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83945-9",
+    "title": "Comparison of clinical outcomes between double arterial cannulation and single arterial cannulation in type A aortic dissection",
+    "article_number": "136",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zhiwei Tang",
+      "Chunze Yuan",
+      "Hong Liu",
+      "Yi Ding",
+      "Jiaxi Gu",
+      "Minghui Li",
+      "Buqing Ni",
+      "Yongfeng Shao"
+    ]
+  },
+  "article_index": 587,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:40:54.834739"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:40:56.683134"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:40:57.876299"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:26:11.436418"
+    },
+    "last_updated": "2025-10-03T22:26:11.436615"
+  }
+}

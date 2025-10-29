@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.166605",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-53",
+    "title": "Overweight, obesity, and colorectal cancer screening: Disparity between men and women",
+    "article_number": "53",
+    "publication_date": "2004-11-08",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Moonseong Heo",
+      "David B Allison",
+      "Kevin R Fontaine"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T12:10:47.902668"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T12:10:52.184117"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T12:10:53.469069"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T20:44:59.530751"
+    },
+    "last_updated": "2025-10-03T20:44:59.530799"
+  }
+}

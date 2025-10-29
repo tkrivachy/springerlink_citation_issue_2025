@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.644380",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10192-2",
+    "title": "“My right to walk, my right to live”: pedestrian fatalities, roads and environmental features in Benin",
+    "article_number": "162",
+    "publication_date": "2021-01-19",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yolaine Glèlè-Ahanhanzo",
+      "Alphonse Kpozèhouen",
+      "Charles Sossa-Jerôme",
+      "Ghislain E. Sopoh",
+      "Huguette Tedji",
+      "Koovy Yete",
+      "Alain Levêque"
+    ]
+  },
+  "article_index": 116,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:51:27.865739"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:51:29.389823"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:51:30.671725"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:21:29.806580"
+    },
+    "last_updated": "2025-10-03T21:21:29.806711"
+  }
+}

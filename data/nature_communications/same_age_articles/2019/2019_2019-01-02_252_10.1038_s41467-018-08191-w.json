@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.704563",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08191-w",
+    "title": "Combining LOPIT with differential ultracentrifugation for high-resolution spatial proteomics",
+    "article_number": "331",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Aikaterini Geladaki",
+      "Nina Kočevar Britovšek",
+      "Lisa M. Breckels",
+      "Tom S. Smith",
+      "Owen L. Vennard",
+      "Claire M. Mulvey",
+      "Oliver M. Crook",
+      "Laurent Gatto",
+      "Kathryn S. Lilley"
+    ]
+  },
+  "article_index": 252,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:32:10.172632"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 181,
+      "retrieved_at": "2025-10-03T17:32:11.724085"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 165,
+      "retrieved_at": "2025-10-03T17:32:13.187192"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 190,
+      "retrieved_at": "2025-10-03T22:44:18.557480"
+    },
+    "last_updated": "2025-10-03T22:44:18.557578"
+  }
+}

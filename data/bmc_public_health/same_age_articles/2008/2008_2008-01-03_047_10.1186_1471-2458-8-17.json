@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:34.000029",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-17",
+    "title": "Psychiatric disorders and urbanization in Germany",
+    "article_number": "17",
+    "publication_date": "2008-01-17",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jack Dekker",
+      "Jaap Peen",
+      "Jurrijn Koelen",
+      "Filip Smit",
+      "Robert Schoevers"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T12:31:26.728920"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T12:31:28.295765"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T12:31:29.583390"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T20:52:31.981747"
+    },
+    "last_updated": "2025-10-03T20:52:31.981936"
+  }
+}

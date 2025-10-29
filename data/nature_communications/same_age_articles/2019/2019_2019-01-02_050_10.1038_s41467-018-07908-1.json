@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.682436",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07908-1",
+    "title": "Catalytic enantioselective construction of axial chirality in 1,3-disubstituted allenes",
+    "article_number": "507",
+    "publication_date": "2019-01-31",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shihua Song",
+      "Jing Zhou",
+      "Chunling Fu",
+      "Shengming Ma"
+    ]
+  },
+  "article_index": 50,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:13:39.295668"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 76,
+      "retrieved_at": "2025-10-03T17:13:40.824962"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T17:13:41.975685"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T22:37:54.615711"
+    },
+    "last_updated": "2025-10-03T22:37:54.615903"
+  }
+}

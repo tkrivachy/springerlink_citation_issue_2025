@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.577949",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12483-0",
+    "title": "The impact of COVID-19 on physical activity behaviour in Italian primary school children: a comparison before and during pandemic considering gender differences",
+    "article_number": "52",
+    "publication_date": "2022-01-08",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Laura Dallolio",
+      "Sofia Marini",
+      "Alice Masini",
+      "Stefania Toselli",
+      "Rita Stagni",
+      "Maria Cristina Bisi",
+      "Davide Gori",
+      "Alessia Tessari",
+      "Alessandra Sansavini",
+      "Marcello Lanari",
+      "Laura Bragonzoni",
+      "Andrea Ceciliani"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T14:05:02.321040"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T14:05:04.037725"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T14:05:05.381952"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T21:26:17.931129"
+    },
+    "last_updated": "2025-10-03T21:26:17.931320"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.880496",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03313-9",
+    "title": "Induced magnetic field and viscous dissipation on flows of two immiscible fluids in a rectangular channel",
+    "article_number": "39",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Nehad Ali Shah",
+      "Hussam Alrabaiah",
+      "Dumitru Vieru",
+      "Se-Jin Yook"
+    ]
+  },
+  "article_index": 219,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:03:42.068177"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:03:43.584252"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:03:44.767687"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T21:48:51.229734"
+    },
+    "last_updated": "2025-10-03T21:48:51.229807"
+  }
+}

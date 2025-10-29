@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.525626",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-48",
+    "title": "The association between farming activities, precipitation, and the risk of acute gastrointestinal illness in rural municipalities of Quebec, Canada: a cross-sectional study",
+    "article_number": "48",
+    "publication_date": "2010-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Yossi Febriani",
+      "Patrick Levallois",
+      "Suzanne Gingras",
+      "Pierre Gosselin",
+      "Shannon E Majowicz",
+      "Manon D Fleury"
+    ]
+  },
+  "article_index": 5,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T12:40:30.576317"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T12:40:32.140478"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T12:40:33.445112"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T20:55:42.021879"
+    },
+    "last_updated": "2025-10-03T20:55:42.021927"
+  }
+}

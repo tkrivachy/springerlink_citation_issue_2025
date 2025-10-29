@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.174404",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20335-5",
+    "title": "Van Hove singularity in the magnon spectrum of the antiferromagnetic quantum honeycomb lattice",
+    "article_number": "171",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "G. Sala",
+      "M. B. Stone",
+      "Binod K. Rai",
+      "A. F. May",
+      "Pontus Laurell",
+      "V. O. Garlea",
+      "N. P. Butch",
+      "M. D. Lumsden",
+      "G. Ehlers",
+      "G. Pokharel",
+      "A. Podlesnyak",
+      "D. Mandrus",
+      "D. S. Parker",
+      "S. Okamoto",
+      "Gábor B. Halász",
+      "A. D. Christianson"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:44:02.968000"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:44:04.533142"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:44:05.696014"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T23:08:42.405255"
+    },
+    "last_updated": "2025-10-03T23:08:42.405316"
+  }
+}

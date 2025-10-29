@@ -1,0 +1,2185 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/s12889-014-1341-6</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en" specific-use="web-only">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">s12889-014-1341-6</article-id>
+          <article-id pub-id-type="manuscript">1341</article-id>
+          <article-id pub-id-type="doi">10.1186/s12889-014-1341-6</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-collection" specific-use="SubjectSection">
+              <subject>Chronic Disease epidemiology</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Atrial fibrillation and cycling: six year follow-up of the Taupo bicycle study</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes">
+              <name name-style="western">
+                <surname>Woodward</surname>
+                <given-names>Alistair</given-names>
+              </name>
+              <address>
+                <email>a.woodward@auckland.ac.nz</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDs1288901413416_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Tin Tin</surname>
+                <given-names>Sandar</given-names>
+              </name>
+              <address>
+                <email>s.tintin@auckland.ac.nz</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Doughty</surname>
+                <given-names>Rob N</given-names>
+              </name>
+              <address>
+                <email>r.doughty@auckland.ac.nz</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Ameratunga</surname>
+                <given-names>Shanthi</given-names>
+              </name>
+              <address>
+                <email>s.ameratunga@auckland.ac.nz</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.9654.e</institution-id>
+                <institution-id institution-id-type="ISNI">0000000403723343</institution-id>
+                <institution content-type="org-division">Section of Epidemiology and Biostatistics</institution>
+                <institution content-type="org-name">School of Population Health, University of Auckland</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Auckland</addr-line>
+              <country country="NZ">New Zealand</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.9654.e</institution-id>
+                <institution-id institution-id-type="ISNI">0000000403723343</institution-id>
+                <institution content-type="org-division">National Institute of Health Innovation and Department of Medicine</institution>
+                <institution content-type="org-name">University of Auckland</institution>
+              </institution-wrap>
+              <addr-line content-type="city">Auckland</addr-line>
+              <country country="NZ">New Zealand</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDs1288901413416_cor1">
+              <label>a</label>
+              <email>a.woodward@auckland.ac.nz</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>21</day>
+            <month>1</month>
+            <year>2015</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2015</year>
+          </pub-date>
+          <volume>15</volume>
+          <issue seq="18">1</issue>
+          <elocation-id>23</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>23</day>
+              <month>12</month>
+              <year>2014</year>
+            </date>
+            <date date-type="received">
+              <day>9</day>
+              <month>4</month>
+              <year>2014</year>
+            </date>
+            <date date-type="accepted">
+              <day>23</day>
+              <month>12</month>
+              <year>2014</year>
+            </date>
+            <date date-type="online">
+              <day>21</day>
+              <month>1</month>
+              <year>2015</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© Woodward et al.; licensee BioMed Central. 2015</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>Woodward et al.; licensee BioMed Central.</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0">
+              <license-p>
+                This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/4.0" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0</ext-link>
+                ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (
+                <ext-link ns0:href="http://creativecommons.org/publicdomain/zero/1.0/" ext-link-type="uri">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>
+                ) applies to the data made available in this article, unless otherwise stated.
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p id="Par1">Atrial Fibrillation (AF) is the most common sustained cardiac arrhythmia, and the incidence of AF is increased markedly among elite athletes. It is not clear how lesser levels of physical activity in the general population influence AF. We asked whether participation in the Taupo Cycle Challenge was associated with increased hospital admissions due to AF, and within the cohort, whether admissions for AF were related to frequency and intensity of cycling.</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p id="Par2">Participants in the 2006 Lake Taupo Cycle Challenge, New Zealand’s largest mass cycling event, were invited to complete an on-line questionnaire. Those who agreed (n = 2590, response rate = 43.1%) were followed up by record linkage via the National Minimum Health Database from December 1 2006 until June 30 2013, to identify admissions to hospital due to AF.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p id="Par3">The age and gender standardized admission rate for AF was similar in the Taupo cohort (19.60 per 10,000 per year) and the national population over the same period (2006-2011) (19.45 per 10,000 per year). Within the study cohort (men only), for every additional hour spent cycling per week the risk changed by 0.90 (95% confidence interval 0.79 – 1.01). This result did not change appreciably after adjustment for age and height.</p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusions</title>
+              <p id="Par4">Hospital admission due to AF was not increased above the national rate in this group of non-elite cyclists, and within the group the rate of AF did not increase with amount of cycling. The level of activity undertaken by this cohort of cyclists was, on average, not sufficient to increase the risk of hospitalization for AF.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Cycling</kwd>
+            <kwd>Cardiac arrhythmias</kwd>
+            <kwd>Physical activity</kwd>
+            <kwd>Atrial fibrillation</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-pricelist-year</meta-name>
+              <meta-value>2015</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2015</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>No</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2014</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2014_Article_1341.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+      <body>
+        <sec id="Sec1" sec-type="introduction">
+          <title>Background</title>
+          <p id="Par8">
+            Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia, and is increasing in frequency in many countries [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            ]. In Australia, annual admissions to hospital due to AF now exceed those resulting from heart failure, and are converging on admissions for acute myocardial infarction [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ]. The costs of treatment are high, and the risks of subsequent morbidity and mortality are considerable. In Sweden, mortality was more than five times the population average in the three years after first admission to hospital for AF. Even amongst relatively young patients (35-64 years) without significant co-morbidity, the mortality rate was twice that expected [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            ].
+          </p>
+          <p id="Par9">
+            It is 15 years since the first study linking AF with high intensity physical activity was published, [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ] and it is well-known that the condition is more common among elite athletes. One systematic review and meta-analysis estimated the risk of AF in athletes was more than 5 times that in the general population [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            ]. The mechanisms are not fully understood, but may include atrial enlargement, increased vagal tone and myocardial fibrosis [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            ]. What is less certain is the effect of physical activity on the frequency of arrhythmias in the general population. A systematic review published in 2013 found four cohort studies with information relevant to the question and sufficiently detailed for a pooled analysis, and on the basis of these data the authors concluded that regular physical activity in the general population was not associated with an increased risk of AF [
+            <xref ref-type="bibr" rid="CR7">7</xref>
+            ]. In this analysis the combined Odds Ratio for AF when comparing the most physically active with the least active group was 1.08 (95% CI 0.97-1.21).
+          </p>
+          <p id="Par10">Interpreting the findings from the general population studies is difficult for many reasons, including the diversity of measurements of physical activity, the wide range of activities included (from slow walking to intense physical labour), the wide range of duration of athletic training, indications that the effect of activity on AF differs between men and women, and differences in the way that confounding and intermediate variables are handled in analysis. Independent risk factors for AF such as age, sex and height should be adjusted for in statistical models. Other factors that are known to influence AF incidence, such as high blood pressure, diabetes and body weight, may lie on the causal pathway between physical activity and AF, and should be treated differently.</p>
+          <p id="Par11">
+            There may be a U shaped relation between physical activity and AF, since those who undertake moderate amounts of exercise have fewer events than those who are sedentary [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ]. This benefit may be mediated by the tendency of physical activity to lower blood pressure, moderate weight gain and improve glucose control. However even in the general population there are signs of increased risk of AF in some of the groups that are most active [
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ].
+          </p>
+          <p id="Par12">
+            While it does appear that there is a relationship between occurrence of AF and elite endurance athletic training, the relationship between more modest athletic training and AF is less certain. Given the many positive effects of physical activity on wellbeing and the overall reduction in mortality [
+            <xref ref-type="bibr" rid="CR10">10</xref>
+            ] and the understandable reluctance of clinicians and public health practitioners to discourage people from being more active, more nuanced analyses are required. This is especially pertinent at a time when the number of non-elite participants in endurance events such as road running, multi-sports and long distance cycling is growing. For instance, in the United States the number of finishers in running events increased 80% between 2000 and 2012, and the number and variety of these events has grown year on year. (
+            <ext-link ns0:href="http://www.runningusa.org/" ext-link-type="uri">www.runningusa.org</ext-link>
+            ) Marathons, ironman competitions and multi-day cycling races were once regarded as extreme sports, and were the domain of a small number of highly trained competitors. However, these events now attract large numbers of men and women, few of whom would regard themselves as elite athletes.
+          </p>
+          <p id="Par13">We report here on the experience of participants in the Taupo Cycle Challenge, the largest road cycling event in New Zealand, which is promoted widely and includes cyclists with a great range of experience. Our objective was to determine whether the rate of admission to hospital due to AF and other arrhythmias was higher amongst participants in the Taupo Cycle Challenge than in the New Zealand population at large. We aimed to learn also whether, within the Taupo cohort, hospital admission due to AF was related to the frequency and intensity of cycling.</p>
+        </sec>
+        <sec id="Sec2" sec-type="materials|methods">
+          <title>Methods</title>
+          <sec id="Sec3">
+            <title>Design, setting and participants</title>
+            <p id="Par14">The sampling frame comprised cyclists, aged 16 years and over, who enrolled online in the Lake Taupo Cycle Challenge. This is held each November on a 160 km course around Lake Taupo in the North Island of New Zealand and attracts about 10,000 participants. Categories include multi-lap races, a solo single-lap event, and a relay (4 riders, 40 km each). The Classic one lap race is restricted to cyclists with a racing licence (typically 50-100 riders), but the event is otherwise open to all, regardless of age, experience or cycling ability.</p>
+            <p id="Par15">
+              We recruited the majority of participants at the time of the 2006 event, as described, in detail, elsewhere [
+              <xref ref-type="bibr" rid="CR11">11</xref>
+              ,
+              <xref ref-type="bibr" rid="CR12">12</xref>
+              ]. Briefly, we sent email invitations, containing a hyperlink to the study information page, to 5653 entrants who provided their email addresses at registration for the event. At the bottom of the page, entrants could click a button agreeing to take part in the study. (The ethics committee did not require parental approval for those aged 16 years and over.) Those who agreed to take part filled in a web questionnaire that included age, gender, education, ethnicity, place of residence, height and weight, general cycling activity and experience of cycle crashes in the past twelve months. The questionnaire was completed and submitted by 2438 cyclists (43.1% response rate). We recruited another 190 cyclists from the 2008 event by including a short description about the study in the event newsletter. We re-surveyed all participants in December 2009 using a web questionnaire containing similar questions to those in the baseline questionnaire. Altogether 1537 participants (59% of all those who entered the study) completed the 2009 questionnaire. Finishing times were obtained from the results pages of the Lake Taupo Cycle Challenge website 
+              <ext-link ns0:href="http://cyclechallenge.com/past-results/" ext-link-type="uri">http://cyclechallenge.com/past-results/</ext-link>
+              .
+            </p>
+            <p id="Par16">We obtained ethical approval for this study from the University of Auckland Human Participants’ Ethics Committee.</p>
+          </sec>
+          <sec id="Sec4">
+            <title>Hospital discharge data and mortality records</title>
+            <p id="Par17">
+              The National Minimum Health Database, maintained by the New Zealand Ministry of Health holds information on inpatients and day patients discharged after a minimum stay of three hours from all public hospitals and over 90% of private hospitals in New Zealand [
+              <xref ref-type="bibr" rid="CR13">13</xref>
+              ]. The Mortality Collection Database includes information on all deaths registered in the country [
+              <xref ref-type="bibr" rid="CR14">14</xref>
+              ].
+            </p>
+            <p id="Par18">Participant data were matched to a National Health Index (NHI) number, a unique identifier assigned to every person who uses health and disability support services in New Zealand. An electronic match was made where possible, followed by two stages of manual matching for participants who could not be linked electronically. Of 2590 participants who were resident in New Zealand at recruitment, 99.0% were successfully matched.</p>
+            <p id="Par19">All hospital discharges in the cohort, from December 1 2006 until April 30 2013 were extracted. The hospital discharge data contain diagnoses and diagnostic and therapeutic procedures undertaken in each hospital visit, coded using the ICD-10-AM classification system. Admissions for arrhythmias were identified from the codes I42 and I44-49. I48 is the key code for atrial arrhythmias, and it includes atrial fibrillation and also atrial flutter (a less common, related disorder that frequently precedes or accompanies fibrillation).</p>
+            <p id="Par20">
+              Readmissions were identified using an algorithm applied previously to New Zealand hospital data [
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ] and were excluded from the analysis.
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Analyses</title>
+            <p id="Par21">
+              The study sample was restricted to 2590 participants who were resident in New Zealand at recruitment. In follow-up, the participants were censored on 30 April 2013 or date of death. As more than a single event may be experienced, incidence rates of repeated events were calculated using the person-years approach. Confidence intervals were based on the Poisson distribution. For comparison with rates of hospital discharge in the national population, the Taupo cohort was restricted to those aged 15-69 years, and standardised for age and gender using the 2006 New Zealand census population as the standard. Aggregate hospital discharge data for the national population were obtained from the Ministry of Health website (
+              <ext-link ns0:href="http://www.health.govt.nz/nz-health-statistics/health-statistics-and-data-sets/hospital-event-data-and-stats" ext-link-type="uri">http://www.health.govt.nz/nz-health-statistics/health-statistics-and-data-sets/hospital-event-data-and-stats</ext-link>
+              ) for the most recent period available (up to 30 June 2011). In this comparison we excluded the last 2 years of follow-up in the Taupo cohort to fit the time frame for national hospitalization data.
+            </p>
+            <p id="Par22">Cox proportional hazards regression modelling for repeated events was then performed using a counting process approach to assess hazards of AF associated with average time spent cycling. The robust sandwich estimates for the covariance matrix were used to account for the correlation among the events within subject. Hazard ratios (HRs) were adjusted for age and height (or, in an alternative analysis, for Body Mass Index). The within-cohort analysis was restricted to males due to the small number of events that occurred amongst females. A sensitivity analysis was undertaken using finishing time, another indicator of amount of cycling, as an exposure.</p>
+            <p id="Par23">All analyses were performed using SAS (release 9.2, SAS Institute Inc., Cary, North Carolina).</p>
+          </sec>
+        </sec>
+        <sec id="Sec6" sec-type="results">
+          <title>Results</title>
+          <p id="Par24">
+            The study cohort is predominantly male, non-Maori and relatively well-educated (Table 
+            <xref rid="Tab1" ref-type="table">1</xref>
+            ). Between 2006 and 2013, there were eight deaths in the study group; the causes were cancer (5) and bicycle-car collision (1). Two cases are waiting for a coroner’s finding. In Table 
+            <xref rid="Tab2" ref-type="table">2</xref>
+             we show the numbers of admissions to hospital for AF. Note that these constitute first admissions for the same event only. Of the 34 participants hospitalized due to AF during the follow-up period, 13 were admitted for more than one event (median 2, range 2-9).
+            <table-wrap id="Tab1">
+              <label>Table 1</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>Characteristics of the Taupo cycle challenge cohort</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr valign="top">
+                    <th/>
+                    <th>
+                      <p>
+                        <bold>N (%)</bold>
+                      </p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Age</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>16-34</p>
+                    </td>
+                    <td>
+                      <p>504 (19.46)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>35-49</p>
+                    </td>
+                    <td>
+                      <p>1340 (51.74)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>50+</p>
+                    </td>
+                    <td>
+                      <p>746 (28.80)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Gender</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Male</p>
+                    </td>
+                    <td>
+                      <p>1874 (72.4)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Female</p>
+                    </td>
+                    <td>
+                      <p>725 (27.6)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Highest education level</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Secondary school or less</p>
+                    </td>
+                    <td>
+                      <p>535 (20.7)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Polytech</p>
+                    </td>
+                    <td>
+                      <p>654 (25.3)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>University</p>
+                    </td>
+                    <td>
+                      <p>1395 (54.0)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Ethnicity</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Maori</p>
+                    </td>
+                    <td>
+                      <p>104 (4.0)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Non-Maori</p>
+                    </td>
+                    <td>
+                      <p>2486 (96.0)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Height (cm)</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Less than 165</p>
+                    </td>
+                    <td>
+                      <p>322 (12.5)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>165-179</p>
+                    </td>
+                    <td>
+                      <p>1295 (50.1)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>180 or more</p>
+                    </td>
+                    <td>
+                      <p>967 (37.4)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Body Mass Index</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Less than 25</p>
+                    </td>
+                    <td>
+                      <p>1361 (52.9)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>25-30</p>
+                    </td>
+                    <td>
+                      <p>1000 (38.8)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>30 or more</p>
+                    </td>
+                    <td>
+                      <p>214 (8.3)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Cycling experience (years)</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-2</p>
+                    </td>
+                    <td>
+                      <p>1081 (41.9)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>3-7</p>
+                    </td>
+                    <td>
+                      <p>755 (29.3)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>8 or more</p>
+                    </td>
+                    <td>
+                      <p>743 (28.8)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Hours spent cycling per week</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-2</p>
+                    </td>
+                    <td>
+                      <p>459 (17.7)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>3-5</p>
+                    </td>
+                    <td>
+                      <p>955 (36.9)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>6 or more</p>
+                    </td>
+                    <td>
+                      <p>1176 (45.4)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Km cycled per week</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-49</p>
+                    </td>
+                    <td>
+                      <p>389 (15.1)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>50-99</p>
+                    </td>
+                    <td>
+                      <p>620 (24.0)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>100 or more</p>
+                    </td>
+                    <td>
+                      <p>1572 (60.9)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Frequency of cycling per week</bold>
+                      </p>
+                    </td>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-1</p>
+                    </td>
+                    <td>
+                      <p>403 (15.6)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>2-4</p>
+                    </td>
+                    <td>
+                      <p>1694 (65.4)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>5 or more</p>
+                    </td>
+                    <td>
+                      <p>493 (19.0)</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <table-wrap id="Tab2">
+              <label>Table 2</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>Hospitalizations for Atrial Fibrillation and Atrial Flutter, by age, gender and other known risk factors, in the Taupo Cycle Challenge cohort, 2006-2013</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr valign="top">
+                    <th/>
+                    <th>
+                      <p>
+                        <bold>No of events</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Person-years</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Rate per 10000 person-years</bold>
+                      </p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr valign="top">
+                    <td/>
+                    <td char="." align="char">
+                      <p>
+                        <bold>66</bold>
+                      </p>
+                    </td>
+                    <td char="." align="char">
+                      <p>
+                        <bold>16249.68</bold>
+                      </p>
+                    </td>
+                    <td>
+                      <p>
+                        <bold>40.62 (31.41, 51.67)</bold>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Age</bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>16-34</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>1</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>3154.68</p>
+                    </td>
+                    <td>
+                      <p>3.17 (0.08, 17.66)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>35-49</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>26</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>8419.21</p>
+                    </td>
+                    <td>
+                      <p>30.88 (20.17, 45.25)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>50+</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>39</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>4675.78</p>
+                    </td>
+                    <td>
+                      <p>83.41 (59.31, 114.02)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Gender</bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Male</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>63</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11789.14</p>
+                    </td>
+                    <td>
+                      <p>41.06 (68.37)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Female</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>3</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>4460.54</p>
+                    </td>
+                    <td>
+                      <p>6.73 (1.39, 19.66)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Height</bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Less than 165</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>1998.55</p>
+                    </td>
+                    <td>
+                      <p>10.01 (1.21, 36.15)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>165-179</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>19</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>8136.39</p>
+                    </td>
+                    <td>
+                      <p>23.35 (14.06, 36.47)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>180 or more</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>45</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>6080.18</p>
+                    </td>
+                    <td>
+                      <p>74.01 (53.98, 99.03)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Body Mass Index</bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Less than 25</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>24</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>8559.62</p>
+                    </td>
+                    <td>
+                      <p>28.04 (17.96, 41.72)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>25-30</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>35</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>6275.75</p>
+                    </td>
+                    <td>
+                      <p>55.77 (38.85, 77.56)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>30 or more</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>5</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>1323.89</p>
+                    </td>
+                    <td>
+                      <p>37.77 (12.26, 88.14)</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>Re-admissions excluded.</p>
+              </table-wrap-foot>
+            </table-wrap>
+          </p>
+          <p id="Par25">
+            We compared the frequency of hospital admissions for all cardiac arrhythmias in the Taupo cohort with national rates for the period 2006-2011 (Table 
+            <xref rid="Tab3" ref-type="table">3</xref>
+            ). The age and gender standardized admission rate for AF was almost exactly the same in the Taupo cohort (19.60 per 10,000 per year) as in the national population (19.45 per 10,000). Rates for other arrhythmias were also similar to national figures, although comparisons are constrained by small numbers.
+            <table-wrap id="Tab3">
+              <label>Table 3</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>A comparison of frequency of hospital admissions for cardiac arrhythmias in the Taupo cohort with national rates, 2006-2011, 15-69 year olds only, 95% confidence intervals are included for the Taupo results</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr valign="top">
+                    <th rowspan="2"/>
+                    <th colspan="5">
+                      <p>
+                        <bold>Taupo data</bold>
+                      </p>
+                    </th>
+                    <th rowspan="2">
+                      <p>
+                        <bold>National rate</bold>
+                      </p>
+                    </th>
+                  </tr>
+                  <tr valign="top">
+                    <th>
+                      <p>
+                        <bold>No</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Person-years</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Crude rate per 10000 person-years</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Age standardised rate per 10000 person-years</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Age &amp; sex standardised rate per 10000 person-years</bold>
+                      </p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr valign="top">
+                    <td>
+                      <p>Any</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>57</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>49.72 (37.66, 64.42)</p>
+                    </td>
+                    <td>
+                      <p>56.84 (42.85, 70.82)</p>
+                    </td>
+                    <td>
+                      <p>36.94 (25.56, 48.31)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>31.49</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Atrial fibrillation &amp; flutter</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>38</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>33.15 (23.46, 45.50)</p>
+                    </td>
+                    <td>
+                      <p>33.75 (23.42, 44.08)</p>
+                    </td>
+                    <td>
+                      <p>19.60 (11.72, 27.47)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>19.45</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Paroxysmal tachycardia</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>12</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>10.47 (5.41, 18.29)</p>
+                    </td>
+                    <td>
+                      <p>10.10 (3.85, 16.35)</p>
+                    </td>
+                    <td>
+                      <p>9.19 (3.22, 15.17)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>5.67</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Other cardiac arrhythmia</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>3</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>2.61 (0.54, 7.62)</p>
+                    </td>
+                    <td>
+                      <p>2.84 (0, 5.78)</p>
+                    </td>
+                    <td>
+                      <p>1.62 (0, 3.82)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2.64</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>AV and LBB block</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>3</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>2.61 (0.54, 7.62)</p>
+                    </td>
+                    <td>
+                      <p>2.56 (0, 5.45)</p>
+                    </td>
+                    <td>
+                      <p>2.54 (0, 5.50)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>1.06</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Other conduction disorders</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>1</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>0.87 (0.02, 4.84)</p>
+                    </td>
+                    <td>
+                      <p>7.49 (1.79, 13.19)</p>
+                    </td>
+                    <td>
+                      <p>4.91 (0.26, 9.56)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.55</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Cardiac arrest</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>1.74 (0.21, 6.28)</p>
+                    </td>
+                    <td>
+                      <p>1.43 (0, 3.65)</p>
+                    </td>
+                    <td>
+                      <p>0.85 (0, 2.56)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>0.25</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>Cardiomyopathy</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>11463.73</p>
+                    </td>
+                    <td>
+                      <p>1.74 (0.21, 6.28)</p>
+                    </td>
+                    <td>
+                      <p>1.15 (0, 3.31)</p>
+                    </td>
+                    <td>
+                      <p>0.77 (0, 2.50)</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>1.87</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </p>
+          <p id="Par26">
+            The analysis of admissions for AF in relation to levels of cycling drew on information provided at entry to the study on frequency of cycling, time spent cycling per week, and distance ridden (Table 
+            <xref rid="Tab4" ref-type="table">4</xref>
+            ).
+            <table-wrap id="Tab4">
+              <label>Table 4</label>
+              <caption xml:lang="en">
+                <p>
+                  <bold>Hospital admissions for Atrial Fibrillation and Atrial Flutter (AF) during 2006-2013 in relation to levels of cycling reported in 2006, Taupo Cycle Challenge cohort, males only</bold>
+                </p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr valign="top">
+                    <th/>
+                    <th>
+                      <p>
+                        <bold>Number admitted for AF</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Person-years</bold>
+                      </p>
+                    </th>
+                    <th>
+                      <p>
+                        <bold>Rate per 10000 person-years</bold>
+                      </p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>Total</bold>
+                      </p>
+                    </td>
+                    <td>
+                      <p>
+                        <bold>66</bold>
+                      </p>
+                    </td>
+                    <td>
+                      <p>
+                        <bold>16249.68</bold>
+                      </p>
+                    </td>
+                    <td>
+                      <p>
+                        <bold>40.62 (31.41, 51.67)</bold>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>
+                          <italic>Hours spent cycling per week</italic>
+                        </bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-2</p>
+                    </td>
+                    <td align="left">
+                      <p>8</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2891.71</p>
+                    </td>
+                    <td>
+                      <p>27.67 (11.94, 54.51)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>3-5</p>
+                    </td>
+                    <td align="left">
+                      <p>34</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>6001.34</p>
+                    </td>
+                    <td>
+                      <p>56.65 (39.23, 79.17)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>6 or more</p>
+                    </td>
+                    <td align="left">
+                      <p>24</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>7356.63</p>
+                    </td>
+                    <td>
+                      <p>32.62 (20.90, 48.54)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>
+                          <italic>Km cycled per week</italic>
+                        </bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-49</p>
+                    </td>
+                    <td align="left">
+                      <p>5</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2445.56</p>
+                    </td>
+                    <td>
+                      <p>20.45 (6.64, 47.71)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>50-99</p>
+                    </td>
+                    <td align="left">
+                      <p>27</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>3894.70</p>
+                    </td>
+                    <td>
+                      <p>69.32 (45.69, 100.86)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>100 or more</p>
+                    </td>
+                    <td align="left">
+                      <p>32</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>9853.56</p>
+                    </td>
+                    <td>
+                      <p>32.48 (22.21, 45.85)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>
+                        <bold>
+                          <italic>Frequency of cycling per week</italic>
+                        </bold>
+                      </p>
+                    </td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>0-1</p>
+                    </td>
+                    <td align="left">
+                      <p>6</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>2544.24</p>
+                    </td>
+                    <td>
+                      <p>23.58 (8.65, 51.33)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>2-4</p>
+                    </td>
+                    <td align="left">
+                      <p>57</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>10640.04</p>
+                    </td>
+                    <td>
+                      <p>53.57 (40.57, 69.41)</p>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td>
+                      <p>5 or more</p>
+                    </td>
+                    <td align="left">
+                      <p>3</p>
+                    </td>
+                    <td char="." align="char">
+                      <p>3065.41</p>
+                    </td>
+                    <td>
+                      <p>9.79 (2.02, 28.60)</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </p>
+          <p id="Par27">There was no sign that admission rates were higher amongst the more active participants than those who cycled less. For every additional hour spent cycling per week, the risk reduced by 0.90 (95% confidence interval 0.79 – 1.01). After adjustment for age and height the hazard ratio remained 0.90 (0.79-1.03). The model was run separately to control for BMI, and again this did not change the association between time spent cycling and hospitalisation for AF. There was no evidence of modification by age (50 and over compared with under 50 years).</p>
+          <p id="Par28">For 1751 participants who completed the solo, one lap event, we examined the relation of hospitalisation for AF and finishing time (minimum 3 hours 57 minutes; maximum 7 hours 45 minutes; median 5 hours 58 minutes). By quartile, fastest to slowest, the age- and gender-adjusted Hazard Ratios were 0.65 (0.09-4.48); 0.35 (0.06-2.26); 0.70 (0.14-3.44); and 1.0 (reference category).</p>
+        </sec>
+        <sec id="Sec7" sec-type="discussion">
+          <title>Discussion</title>
+          <p id="Par29">
+            Amongst participants in the Taupo Cycle Challenge study, the rate of first hospital admission for AF was almost identical to that for the adult New Zealand population at large, amongst whom about 50% do not meet the physical activity guideline of “at least 30 minutes of moderate-intensity physical activity on most if not all days of the week” [
+            <xref ref-type="bibr" rid="CR16">16</xref>
+            ]. Admissions for AF were strongly related to age, gender and height, as has been reported previously [
+            <xref ref-type="bibr" rid="CR7">7</xref>
+            ]. If the principal finding was due, at least in part, to health selection (whereby those with existing AF were discouraged from entering the event in 2006), one would expect the rate in the cohort to diverge from the national rate with increasing duration of follow-up. However this was not evident when we compared rates on a year by year basis, from 2006-8 to 2010-11.
+          </p>
+          <p id="Par30">Within the cohort, we compared levels of cycling, as reported at entry to the study in 2006, with subsequent admissions to hospital due to AF. Among males, there was no relation seen between the frequency or intensity of cycling and later risk of AF, a finding that did not shift after controlling for age, height and BMI. Indeed, while the estimate was imprecise (the 95% confidence interval included 1.0), our result suggested a protective effect for AF, rather than an increase in risk.</p>
+          <p id="Par31">Strengths of this study, compared with many of those reported previously, include the longitudinal design, and the use of record linkage to ensure the complete and unbiased ascertainment of outcomes as defined by hospitalised events. Unlike previous studies that have tended to concentrate on elite sportsmen and sportswomen, this study included a wide range of enthusiasts, novices, and experienced social riders.</p>
+          <p id="Par32">We do not claim that the study sample is representative of all who participated in the Taupo event, nor of New Zealand cyclists in general. What is material to this paper is whether the relation between the exposure (amount of cycling) and risk of AF is different in the study group than amongst the wider group of cyclists. We see no reason why this should be the case.</p>
+          <p id="Par33">
+            The study reports hospital admissions for all occurrences of AF, which is a heterogeneous group of conditions, and it has been proposed that some sub-types are particularly sensitive to levels of physical activity [
+            <xref ref-type="bibr" rid="CR17">17</xref>
+            ]. Moreover it is almost certain that the data presented here do not capture all occurrences of AF. For example, short self-limiting episodes of paroxysmal AF will often not result in hospitalisation. Thus, we cannot determine from this study the absolute incidence of AF among this population of cyclists. However, we see no reason why the proportion of arrhythmias leading to hospital admission should systematically differ between Taupo Cycle Challenge participants and the population at large. If socioeconomic status is related positively to ascertainment and treatment, then this would tend to inflate the study rate compared with the population at large. If better educated individuals were more likely to be treated out of hospital in private practice this would have the opposite effect. In any event, the rate of hospital admission attributed to AF amongst Taupo participants was similar to the national figure, and we can see no reason why ascertainment within the study cohort should be biased by level of physical activity.
+          </p>
+          <p id="Par34">
+            A weakness of the study is the reliance on questionnaire data regarding amount of cycling, which are likely to be an imprecise measure of physical activity. As another indicator of amount of cycling, we used finishing time, as was reported by Andersen et al [
+            <xref ref-type="bibr" rid="CR18">18</xref>
+            ] in a study of cross-country skiers. Unlike Andersen et al, we found no sign of higher rates of hospitalization for AF amongst those with faster finishing times. Also, our information on physical activity was collected at just one point in time (entry to the study in 2006). Many of those taking part in the Taupo event are involved in other cycling events, and train regularly. On the other hand, some participants may not have sustained the levels of cycling that were undertaken prior to Taupo, and mis-measurement of this kind would tend to disguise an increase in AF rates with increasing activity in our analysis. However, amongst those who completed the second questionnaire in 2009 levels of cycling were relatively stable overall: 23% reported cycling more than in 2006, 44% reported the same, and 28% reported cycling less. Five per cent had stopped cycling.
+          </p>
+          <p id="Par35">We did not determine whether participants were suffering from a sustained arrhythmia of any kind at the time they entered the study. If some were already experiencing periods of AF, this may have discouraged them from riding as much as they would otherwise, and might explain a relatively high rate of hospitalization with AF in the low exercising group, early in follow-up. To test this possibility, we excluded hospital events in the first year of the study. In the new analysis the HR for every additional hour of cycling per week changed very little from 0.90 (0.79-1.01) to 0.88 (0.78, 1.00).</p>
+          <p id="Par36">
+            How to reconcile the mixed results reported in the literature? We propose there may be competing forces acting on the incidence of AF. Intense activity at a young age may provide the substrate for arrhythmias that appear later in life (possibly via atrial remodelling, increased autonomic tone and micro-fibrotic changes in the atrial wall), while vigorous activity in older years may tend to reduce occurrence of arrhythmias via other pathways (such as lowering blood pressure). In a large cohort of Swedish men Drca et al [
+            <xref ref-type="bibr" rid="CR19">19</xref>
+            ] found a positive association with AF of leisure time walking and cycling at age 30, but not at ages 15 or 50. The same study found a protective effect of walking and cycling more than an hour a day at older ages.
+          </p>
+        </sec>
+        <sec id="Sec8" sec-type="conclusion">
+          <title>Conclusions</title>
+          <p id="Par37">We followed 2500 participants in a mass cycling event who reported cycling on average 128 km per week, for an average of 6.4 years, and compared admissions to hospital with AF with national rates. There was no sign of an increase in hospitalisation among those who participated in the Taupo Cycle Challenge. Within the study cohort, we did not see a relation between the volume of cycling training and the frequency of admission to hospital with AF. We intend to continue the follow-up of the cohort and will review the incidence of arrhythmias. On the basis of the data to hand we conclude the level of physical activity undertaken by this cohort of cyclists did not, on average, influence hospital admissions for AF.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We thank the participating cyclists and organisers of the Lake Taupo Cycle Challenge for their support, and Professor John Langley, Professor Anthony Rodgers and Dr Simon Thornley for their initial contribution to the study. Our thanks also go to the Ministry of Health for the provision of mortality and hospital discharge data. This study was funded by grant 09/142 from the Health Research Council of New Zealand.</p>
+        </ack>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Miyasaka</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Barnes</surname>
+                    <given-names>ME</given-names>
+                  </name>
+                  <name>
+                    <surname>Gersh</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Cha</surname>
+                    <given-names>SS</given-names>
+                  </name>
+                  <name>
+                    <surname>Bailey</surname>
+                    <given-names>KR</given-names>
+                  </name>
+                  <name>
+                    <surname>Abhayaratna</surname>
+                    <given-names>WP</given-names>
+                  </name>
+                  <name>
+                    <surname>Seward</surname>
+                    <given-names>JB</given-names>
+                  </name>
+                  <name>
+                    <surname>Tsang</surname>
+                    <given-names>TSM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Secular trends in incidence of atrial fibrillation in Olmsted county, Minnesota, 1980 to 2000, and implications on the projections for future prevalence</article-title>
+                <source>Circulation</source>
+                <year>2006</year>
+                <volume>114</volume>
+                <fpage>119</fpage>
+                <lpage>125</lpage>
+                <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.105.595140</pub-id>
+                <pub-id pub-id-type="pmid">16818816</pub-id>
+                <comment>16818816</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wong</surname>
+                    <given-names>CX</given-names>
+                  </name>
+                  <name>
+                    <surname>Brooks</surname>
+                    <given-names>AG</given-names>
+                  </name>
+                  <name>
+                    <surname>Leong</surname>
+                    <given-names>DP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The increasing burden of atrial fibrillation compared with heart failure and myocardial infarction: a 15-year study of All hospitalizations in Australia</article-title>
+                <source>Arch Intern Med</source>
+                <year>2012</year>
+                <volume>172</volume>
+                <fpage>739</fpage>
+                <lpage>741</lpage>
+                <pub-id pub-id-type="doi">10.1001/archinternmed.2012.878</pub-id>
+                <pub-id pub-id-type="pmid">22782205</pub-id>
+                <comment>22782205</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Olsson</surname>
+                    <given-names>LG</given-names>
+                  </name>
+                  <name>
+                    <surname>Swedberg</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Lappas</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Stewart</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Rosengren</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Trends in mortality after first hospitalization with atrial fibrillation diagnosis in Sweden 1987 to 2006</article-title>
+                <source>Int J Cardiol</source>
+                <year>2013</year>
+                <volume>170</volume>
+                <fpage>75</fpage>
+                <lpage>80</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BC2czhsVaquw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/j.ijcard.2013.10.028</pub-id>
+                <pub-id pub-id-type="pmid">24383072</pub-id>
+                <comment>1:STN:280:DC%2BC2czhsVaquw%3D%3D, 24383072</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Karjalainen</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Kujala</surname>
+                    <given-names>UM</given-names>
+                  </name>
+                  <name>
+                    <surname>Kaprio</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Sarna</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Viitasalo</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Lone atrial fibrillation in vigorously exercising middle aged men: case-control study</article-title>
+                <source>BMJ</source>
+                <year>1998</year>
+                <volume>316</volume>
+                <fpage>1784</fpage>
+                <lpage>1785</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK1c3ovVajtA%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1136/bmj.316.7147.1784</pub-id>
+                <pub-id pub-id-type="pmid">9624065</pub-id>
+                <pub-id pub-id-type="pmcid">28577</pub-id>
+                <comment>1:STN:280:DyaK1c3ovVajtA%3D%3D, 28577, 9624065</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Abdulla</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Nielsen</surname>
+                    <given-names>JR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Is the risk of atrial fibrillation higher in athletes than in the general population? a systematic review and meta-analysis</article-title>
+                <source>Europace</source>
+                <year>2009</year>
+                <volume>11</volume>
+                <fpage>1156</fpage>
+                <lpage>1159</lpage>
+                <pub-id pub-id-type="doi">10.1093/europace/eup197</pub-id>
+                <pub-id pub-id-type="pmid">19633305</pub-id>
+                <comment>19633305</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Wilson</surname>
+                    <given-names>MG</given-names>
+                  </name>
+                  <name>
+                    <surname>Whyte</surname>
+                    <given-names>GP</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Is life-long exercise damaging to the heart?</article-title>
+                <source>Br J Sports Med</source>
+                <year>2012</year>
+                <volume>46</volume>
+                <fpage>623</fpage>
+                <lpage>624</lpage>
+                <pub-id pub-id-type="doi">10.1136/bjsports-2011-090772</pub-id>
+                <pub-id pub-id-type="pmid">22345624</pub-id>
+                <comment>22345624</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Ofman</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Khawaja</surname>
+                    <given-names>O</given-names>
+                  </name>
+                  <name>
+                    <surname>Rahilly-Tierney</surname>
+                    <given-names>CR</given-names>
+                  </name>
+                  <name>
+                    <surname>Peralta</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Hoffmeister</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Reynolds</surname>
+                    <given-names>MR</given-names>
+                  </name>
+                  <name>
+                    <surname>Gaziano</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Djousse</surname>
+                    <given-names>L</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Regular physical activity and risk of atrial fibrillation: a systematic review and meta-analysis</article-title>
+                <source>Circ Arrhythm Electrophysiol</source>
+                <year>2013</year>
+                <volume>6</volume>
+                <fpage>252</fpage>
+                <lpage>256</lpage>
+                <pub-id pub-id-type="doi">10.1161/CIRCEP.113.000147</pub-id>
+                <pub-id pub-id-type="pmid">23515264</pub-id>
+                <comment>23515264</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Everett</surname>
+                    <given-names>BM</given-names>
+                  </name>
+                  <name>
+                    <surname>Conen</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Buring</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                  <name>
+                    <surname>Moorthy</surname>
+                    <given-names>MV</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>IM</given-names>
+                  </name>
+                  <name>
+                    <surname>Albert</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Physical activity and the risk of incident atrial fibrillation in women</article-title>
+                <source>Circ Cardiovasc Qual Outcomes</source>
+                <year>2011</year>
+                <volume>4</volume>
+                <fpage>321</fpage>
+                <lpage>327</lpage>
+                <pub-id pub-id-type="doi">10.1161/CIRCOUTCOMES.110.951442</pub-id>
+                <pub-id pub-id-type="pmid">21487092</pub-id>
+                <pub-id pub-id-type="pmcid">3097307</pub-id>
+                <comment>3097307, 21487092</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Aizer</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Gaziano</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Cook</surname>
+                    <given-names>NR</given-names>
+                  </name>
+                  <name>
+                    <surname>Manson</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                  <name>
+                    <surname>Buring</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                  <name>
+                    <surname>Albert</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Relation of vigorous exercise to risk of atrial fibrillation</article-title>
+                <source>Am J Cardiol</source>
+                <year>2009</year>
+                <volume>103</volume>
+                <fpage>1572</fpage>
+                <lpage>1577</lpage>
+                <pub-id pub-id-type="doi">10.1016/j.amjcard.2009.01.374</pub-id>
+                <pub-id pub-id-type="pmid">19463518</pub-id>
+                <pub-id pub-id-type="pmcid">2687527</pub-id>
+                <comment>2687527, 19463518</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>IM</given-names>
+                  </name>
+                  <name>
+                    <surname>Shiroma</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Lobelo</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Puska</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Blair</surname>
+                    <given-names>SN</given-names>
+                  </name>
+                  <name>
+                    <surname>Katzmarzyk</surname>
+                    <given-names>PT</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Effect of physical inactivity on major non-communicable diseases worldwide: an analysis of burden of disease and life expectancy</article-title>
+                <source>Lancet</source>
+                <year>2012</year>
+                <volume>380</volume>
+                <fpage>219</fpage>
+                <lpage>229</lpage>
+                <pub-id pub-id-type="doi">10.1016/S0140-6736(12)61031-9</pub-id>
+                <pub-id pub-id-type="pmid">22818936</pub-id>
+                <pub-id pub-id-type="pmcid">3645500</pub-id>
+                <comment>3645500, 22818936</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Thornley</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Woodward</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Langley</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>Ameratunga</surname>
+                    <given-names>SN</given-names>
+                  </name>
+                  <name>
+                    <surname>Rodgers</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Conspicuity and bicycle crashes: preliminary findings of the taupo bicycle study</article-title>
+                <source>Inj Prev</source>
+                <year>2008</year>
+                <volume>14</volume>
+                <fpage>11</fpage>
+                <lpage>18</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD1c%2FoslGlsg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1136/ip.2007.016675</pub-id>
+                <pub-id pub-id-type="pmid">18245309</pub-id>
+                <comment>1:STN:280:DC%2BD1c%2FoslGlsg%3D%3D, 18245309</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tin Tin</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Woodward</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Ameratunga</surname>
+                    <given-names>S</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Completeness and accuracy of crash outcome data in a cohort of cyclists: a validation study</article-title>
+                <source>BMC Public Health</source>
+                <year>2013</year>
+                <volume>13</volume>
+                <fpage>420</fpage>
+                <pub-id pub-id-type="doi">10.1186/1471-2458-13-420</pub-id>
+                <pub-id pub-id-type="pmid">23635027</pub-id>
+                <pub-id pub-id-type="pmcid">3645961</pub-id>
+                <comment>3645961, 23635027, doi:410.1186/1471-2458-1113-1420</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Ministry of Health</collab>
+                </person-group>
+                <source>National minimum dataset (hospital inpatient events): data mart - data dictionary V7.5</source>
+                <year>2012</year>
+                <publisher-loc>Wellington</publisher-loc>
+                <publisher-name>Ministry of Health</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Ministry of Health</collab>
+                </person-group>
+                <source>Mortality collection data dictionary version 1.3</source>
+                <year>2009</year>
+                <publisher-loc>Wellington</publisher-loc>
+                <publisher-name>Ministry of Health</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Davie</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Samaranayaka</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Langley</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>Barson</surname>
+                    <given-names>D</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Estimating person-based injury incidence: accuracy of an algorithm to identify readmissions from hospital discharge data</article-title>
+                <source>Inj Prev</source>
+                <year>2011</year>
+                <volume>17</volume>
+                <fpage>338</fpage>
+                <lpage>342</lpage>
+                <pub-id pub-id-type="doi">10.1136/injuryprev-2011-040090</pub-id>
+                <pub-id pub-id-type="pmid">21795287</pub-id>
+                <comment>21795287</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <collab>Sport and Recreation New Zealand</collab>
+                </person-group>
+                <source>Sport, recreation and physical activity participation among New Zealand adults: Key results of the 2007/08 active NZ survey</source>
+                <year>2008</year>
+                <publisher-loc>Wellington</publisher-loc>
+                <publisher-name>SPARC</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Thelle</surname>
+                    <given-names>DS</given-names>
+                  </name>
+                  <name>
+                    <surname>Selmer</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Gjesdal</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Sakshaug</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Jugessur</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Graff-Iversen</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Tverdal</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Nystad</surname>
+                    <given-names>W</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Resting heart rate and physical activity as risk factors for lone atrial fibrillation: a prospective study of 309 540 men and women</article-title>
+                <source>Heart</source>
+                <year>2013</year>
+                <volume>99</volume>
+                <fpage>1755</fpage>
+                <lpage>1760</lpage>
+                <pub-id pub-id-type="doi">10.1136/heartjnl-2013-303825</pub-id>
+                <pub-id pub-id-type="pmid">23749790</pub-id>
+                <comment>23749790</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Andersen</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Farahmand</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Ahlbom</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Held</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Ljunghall</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Michaelsson</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Sundstrom</surname>
+                    <given-names>J</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Risk of arrhythmias in 52 755 long-distance cross-country skiers: a cohort study</article-title>
+                <source>Eur Heart J</source>
+                <year>2013</year>
+                <volume>34</volume>
+                <fpage>3624</fpage>
+                <lpage>3631</lpage>
+                <pub-id pub-id-type="doi">10.1093/eurheartj/eht188</pub-id>
+                <pub-id pub-id-type="pmid">23756332</pub-id>
+                <comment>23756332</comment>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Drca</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Wolk</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Jensen-Urstad</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Larsson</surname>
+                    <given-names>SC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Atrial fibrillation is associated with different levels of physical activity levels at different ages in men</article-title>
+                <source>Heart</source>
+                <year>2014</year>
+                <volume>100</volume>
+                <fpage>1037</fpage>
+                <lpage>1042</lpage>
+                <pub-id pub-id-type="doi">10.1136/heartjnl-2013-305304</pub-id>
+                <pub-id pub-id-type="pmid">24829373</pub-id>
+                <comment>24829373</comment>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <glossary>
+          <title>Abbreviations</title>
+          <def-list>
+            <def-item>
+              <term>AF</term>
+              <def>
+                <p id="Par5">Atrial fibrillation</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>HR</term>
+              <def>
+                <p id="Par6">Hazard ratio</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>NHI</term>
+              <def>
+                <p id="Par7">National health index</p>
+              </def>
+            </def-item>
+          </def-list>
+        </glossary>
+        <notes notes-type="Misc">
+          <title>Competing interests</title>
+          <p>The authors declare that they have no competing interests.</p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Authors’ contributions</title>
+          <p>AW initiated this research and wrote the first draft; ST carried out the statistical analyses; RND and SA contributed to interpretation of findings and drafting of the paper; all authors read and approved the final version of the manuscript.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

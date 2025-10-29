@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.848590",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50944-1",
+    "title": "Arylsulfatases and neuraminidases modulate engagement of CCR5 by chemokines by removing key electrostatic interactions",
+    "article_number": "292",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Inês Pinheiro",
+      "Nicolas Calo",
+      "Marianne Paolini-Bertrand",
+      "Oliver Hartley"
+    ]
+  },
+  "article_index": 211,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:52:55.714409"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:52:57.239863"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T15:52:58.525702"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:08:54.348056"
+    },
+    "last_updated": "2025-10-03T22:08:54.348247"
+  }
+}

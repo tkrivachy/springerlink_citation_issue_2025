@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.641034",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35325-y",
+    "title": "Dynamics of the fcc-to-bcc phase transition in single-crystalline PdCu alloy nanoparticles",
+    "article_number": "104",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yingying Jiang",
+      "Martial Duchamp",
+      "Shi Jun Ang",
+      "Hongwei Yan",
+      "Teck Leong Tan",
+      "Utkur Mirsaidov"
+    ]
+  },
+  "article_index": 36,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:45:01.805551"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:45:03.383547"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T18:45:04.534478"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T23:09:01.119892"
+    },
+    "last_updated": "2025-10-03T23:09:01.120086"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.632159",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-021-10287-w",
+    "title": "Social distancing during the COVID-19 pandemic: quantifying the practice in Michigan – a “hotspot state” early in the pandemic – using a volunteer-based online survey",
+    "article_number": "245",
+    "publication_date": "2021-01-29",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Andrea E. Cassidy-Bushrow",
+      "Mohammed Baseer",
+      "Karen Kippen",
+      "Albert M. Levin",
+      "Jia Li",
+      "Ian Loveless",
+      "Laila M. Poisson",
+      "Lonni Schultz",
+      "Ganesa Wegienka",
+      "Yueren Zhou",
+      "Christine Cole Johnson"
+    ]
+  },
+  "article_index": 30,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:49:00.034757"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:49:01.647591"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:49:02.921698"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T21:20:39.925859"
+    },
+    "last_updated": "2025-10-03T21:20:39.926069"
+  }
+}

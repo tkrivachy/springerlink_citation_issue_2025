@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204099",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20385-9",
+    "title": "Genetic and pharmacological inhibition of the nuclear receptor RORα regulates T",
+    "article_number": "76",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ran Wang",
+      "Sean Campbell",
+      "Mohammed Amir",
+      "Sarah A. Mosure",
+      "Molly A. Bassette",
+      "Amber Eliason",
+      "Mark S. Sundrud",
+      "Theodore M. Kamenecka",
+      "Laura A. Solt"
+    ]
+  },
+  "article_index": 194,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:39:16.169297"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:39:17.681455"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T18:39:18.867515"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T23:07:04.930027"
+    },
+    "last_updated": "2025-10-03T23:07:04.930113"
+  }
+}

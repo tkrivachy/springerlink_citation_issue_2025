@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.720081",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08127-4",
+    "title": "Lin28 and ",
+    "article_number": "168",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Alena V. Yermalovich",
+      "Jihan K. Osborne",
+      "Patricia Sousa",
+      "Areum Han",
+      "Melissa A. Kinney",
+      "Michael J. Chen",
+      "Daisy A. Robinton",
+      "Helen Montie",
+      "Dan S. Pearson",
+      "Sean B. Wilson",
+      "Alexander N. Combes",
+      "Melissa H. Little",
+      "George Q. Daley"
+    ]
+  },
+  "article_index": 393,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:37:13.744622"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T17:37:15.284380"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T17:37:16.472271"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T22:46:01.420267"
+    },
+    "last_updated": "2025-10-03T22:46:01.420348"
+  }
+}

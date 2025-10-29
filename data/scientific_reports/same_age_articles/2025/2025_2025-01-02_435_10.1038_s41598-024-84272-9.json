@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.396499",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84272-9",
+    "title": "A fast parameter estimation method for high-frequency oscillation based on empirical wavelet transform and moving least square",
+    "article_number": "599",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bo Sun",
+      "Xi Wu",
+      "Chaohang Zheng",
+      "Meiya Kong"
+    ]
+  },
+  "article_index": 435,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:26:11.215007"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:26:12.789810"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:50:59.214977"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:21:00.325114"
+    },
+    "last_updated": "2025-10-07T09:50:59.215196"
+  }
+}

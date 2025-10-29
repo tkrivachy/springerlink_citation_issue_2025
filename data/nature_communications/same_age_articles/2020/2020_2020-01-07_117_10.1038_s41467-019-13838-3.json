@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.890797",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13838-3",
+    "title": "Quantitative live cell imaging reveals influenza virus manipulation of Rab11A transport through reduced dynein association",
+    "article_number": "23",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Amar R. Bhagwat",
+      "Valerie Le Sage",
+      "Eric Nturibi",
+      "Katarzyna Kulej",
+      "Jennifer Jones",
+      "Min Guo",
+      "Eui Tae Kim",
+      "Benjamin A. Garcia",
+      "Matthew D. Weitzman",
+      "Hari Shroff",
+      "Seema S. Lakdawala"
+    ]
+  },
+  "article_index": 117,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T18:11:01.455726"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T18:11:03.006004"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:11:04.179087"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T22:57:27.963379"
+    },
+    "last_updated": "2025-10-03T22:57:27.963580"
+  }
+}

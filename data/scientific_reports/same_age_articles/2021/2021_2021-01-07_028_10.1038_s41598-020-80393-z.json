@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.206627",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80393-z",
+    "title": "Surgical Apgar score is strongly associated with postoperative ICU admission",
+    "article_number": "115",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ying-Chun Lin",
+      "Yi-Chun Chen",
+      "Chen-Hsien Yang",
+      "Nuan-Yen Su"
+    ]
+  },
+  "article_index": 28,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:57:17.528104"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T14:57:19.078876"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T14:57:20.348368"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T21:46:17.294372"
+    },
+    "last_updated": "2025-10-03T21:46:17.294434"
+  }
+}

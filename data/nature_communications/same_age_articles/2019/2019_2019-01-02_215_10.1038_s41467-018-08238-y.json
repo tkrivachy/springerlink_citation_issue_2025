@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.700419",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08238-y",
+    "title": "Earthquake lubrication and healing explained by amorphous nanosilica",
+    "article_number": "320",
+    "publication_date": "2019-01-18",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christie D. Rowe",
+      "Kelsey Lamothe",
+      "Marieke Rempe",
+      "Mark Andrews",
+      "Thomas M. Mitchell",
+      "Giulio Di Toro",
+      "Joseph Clancy White",
+      "Stefano Aretusini"
+    ]
+  },
+  "article_index": 215,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:18:46.208430"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T17:18:47.739796"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T17:18:48.924627"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T22:39:38.349885"
+    },
+    "last_updated": "2025-10-03T22:39:38.350072"
+  }
+}

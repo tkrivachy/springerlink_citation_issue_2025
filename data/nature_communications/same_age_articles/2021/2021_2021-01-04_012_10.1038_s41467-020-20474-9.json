@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.174779",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20474-9",
+    "title": "Integrated analysis of telomerase enzymatic activity unravels an association with cancer stemness and proliferation",
+    "article_number": "139",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Nighat Noureen",
+      "Shaofang Wu",
+      "Yingli Lv",
+      "Juechen Yang",
+      "W. K. Alfred Yung",
+      "Jonathan Gelfond",
+      "Xiaojing Wang",
+      "Dimpy Koul",
+      "Andrew Ludlow",
+      "Siyuan Zheng"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T18:40:59.763231"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:41:01.311682"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T18:41:02.718655"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T23:07:41.780532"
+    },
+    "last_updated": "2025-10-03T23:07:41.780729"
+  }
+}

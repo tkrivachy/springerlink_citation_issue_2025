@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-019-08322-x</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-019-08322-x</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41467-019-08322-x</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41467-019-08322-x.pdf</ns2:url>
+          <dc:title>Publisher Correction: Exocyst dynamics during vesicle tethering and fusion</dc:title>
+          <dc:creator>Ahmed, Syed Mukhtar</dc:creator>
+          <dc:creator>Nishida-Fukuda, Hisayo</dc:creator>
+          <dc:creator>Li, Yuchong</dc:creator>
+          <dc:creator>McDonald, W. Hayes</dc:creator>
+          <dc:creator>Gradinaru, Claudiu C.</dc:creator>
+          <dc:creator>Macara, Ian G.</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2041-1723</ns2:eIssn>
+          <ns2:genre>Erratum</ns2:genre>
+          <ns2:genre>Publisher Correction</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:volume>10</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>1</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2019-01-15</onlineDate>
+          <ns2:coverDate>2019-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41467-019-08322-x</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2019-01-15</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-019-08322-x</ns2:url>
+          <ns2:copyright>©2019 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <p>The original version of this Article contained errors in the author affiliations. Affiliation 2 incorrectly read ‘Department of Biochemistry and Molecular Genetics and Breast Surgery, Ehime University Graduate School of Medicine, 7910295, Japan’ and affiliation 3 incorrectly read ‘Department of Hepato-Biliary-Pancreatic and Breast Surgery, Ehime University Graduate School of Medicine, Matsuyama 7910295, Japan.’ These errors have now been corrected in both the PDF and HTML versions of the Article.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2019</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Canada</facet-value>
+      <facet-value count="1">Japan</facet-value>
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

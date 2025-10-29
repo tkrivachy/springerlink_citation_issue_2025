@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.191142",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20388-6",
+    "title": "Electron cascade for distant spin readout",
+    "article_number": "77",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cornelis J. van Diepen",
+      "Tzu-Kan Hsiao",
+      "Uditendu Mukhopadhyay",
+      "Christian Reichl",
+      "Werner Wegscheider",
+      "Lieven M. K. Vandersypen"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:43:51.616936"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:43:53.146424"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T18:43:54.441554"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T23:08:37.755762"
+    },
+    "last_updated": "2025-10-03T23:08:37.755952"
+  }
+}

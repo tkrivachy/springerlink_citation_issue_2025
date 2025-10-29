@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.646600",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10152-2",
+    "title": "Mask use among pedestrians during the Covid-19 pandemic in Southwest Iran: an observational study on 10,440 people",
+    "article_number": "133",
+    "publication_date": "2021-01-14",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Zahra Rahimi",
+      "Gholam Abbas Shirali",
+      "Marzieh Araban",
+      "Mohammad javad Mohammadi",
+      "Bahman Cheraghian"
+    ]
+  },
+  "article_index": 137,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T13:52:03.724989"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T13:52:05.283255"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T13:52:06.639196"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T21:21:41.787024"
+    },
+    "last_updated": "2025-10-03T21:21:41.787126"
+  }
+}

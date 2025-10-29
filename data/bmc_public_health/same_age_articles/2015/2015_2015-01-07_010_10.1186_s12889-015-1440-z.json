@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.239068",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1440-z",
+    "title": "Health promotion in primary and secondary schools in Denmark: time trends and associations with schools’ and students’ characteristics",
+    "article_number": "93",
+    "publication_date": "2015-02-07",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Kirsten Nabe-Nielsen",
+      "Rikke Krølner",
+      "Laust Hvas Mortensen",
+      "Marie Birk Jørgensen",
+      "Finn Diderichsen"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:11:04.726312"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:11:06.280792"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T13:11:07.560987"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:06:51.394020"
+    },
+    "last_updated": "2025-10-03T21:06:51.394206"
+  }
+}

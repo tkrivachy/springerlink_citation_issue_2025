@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.757956",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-47",
+    "title": "Planned development and evaluation protocol of two versions of a web-based computer-tailored nutrition education intervention aimed at adults, including cognitive and environmental feedback",
+    "article_number": "47",
+    "publication_date": "2014-01-17",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Linda Springvloet",
+      "Lilian Lechner",
+      "Anke Oenema"
+    ]
+  },
+  "article_index": 120,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T13:07:49.543010"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T13:07:51.079603"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T13:07:52.340869"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T21:05:40.097382"
+    },
+    "last_updated": "2025-10-03T21:05:40.097589"
+  }
+}

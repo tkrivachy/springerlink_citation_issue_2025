@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.198935",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20337-3",
+    "title": "The patterns of deleterious mutations during the domestication of soybean",
+    "article_number": "97",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Myung-Shin Kim",
+      "Roberto Lozano",
+      "Ji Hong Kim",
+      "Dong Nyuk Bae",
+      "Sang-Tae Kim",
+      "Jung-Ho Park",
+      "Man Soo Choi",
+      "Jaehyun Kim",
+      "Hyun-Choong Ok",
+      "Soo-Kwon Park",
+      "Michael A. Gore",
+      "Jung-Kyung Moon",
+      "Soon-Chun Jeong"
+    ]
+  },
+  "article_index": 155,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:24:33.954318"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T18:24:35.510415"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:24:36.907478"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T23:02:08.122907"
+    },
+    "last_updated": "2025-10-03T23:02:08.122954"
+  }
+}

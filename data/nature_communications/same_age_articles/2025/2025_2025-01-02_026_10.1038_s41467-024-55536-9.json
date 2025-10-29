@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.513799",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55536-9",
+    "title": "Next generation thiazolyl ketone inhibitors of cytosolic phospholipase A",
+    "article_number": "164",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Felicity J. Ashcroft",
+      "Asimina Bourboula",
+      "Nur Mahammad",
+      "Efrosini Barbayianni",
+      "Astrid J. Feuerherm",
+      "Thanh Thuy Nguyen",
+      "Daiki Hayashi",
+      "Maroula G. Kokotou",
+      "Konstantinos Alevizopoulos",
+      "Edward A. Dennis",
+      "George Kokotos",
+      "Berit Johansen"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:18:32.714705"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T19:18:34.243290"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:35.400662"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T23:20:22.708018"
+    },
+    "last_updated": "2025-10-03T23:20:22.708205"
+  }
+}

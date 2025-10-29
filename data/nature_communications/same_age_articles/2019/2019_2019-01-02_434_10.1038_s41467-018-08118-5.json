@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724525",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08118-5",
+    "title": "High-performance Raman quantum memory with optimal control in room temperature atoms",
+    "article_number": "148",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinxian Guo",
+      "Xiaotian Feng",
+      "Peiyu Yang",
+      "Zhifei Yu",
+      "L. Q. Chen",
+      "Chun-Hua Yuan",
+      "Weiping Zhang"
+    ]
+  },
+  "article_index": 434,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 101,
+      "retrieved_at": "2025-10-03T17:19:22.708298"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T17:19:24.251115"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T17:19:25.415712"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 106,
+      "retrieved_at": "2025-10-03T22:39:53.823086"
+    },
+    "last_updated": "2025-10-03T22:39:53.823275"
+  }
+}

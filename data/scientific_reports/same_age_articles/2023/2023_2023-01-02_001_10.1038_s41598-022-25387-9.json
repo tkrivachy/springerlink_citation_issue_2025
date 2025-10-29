@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.099815",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-25387-9",
+    "title": "Insecticidal activities of ",
+    "article_number": "4",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zheng Hua Amelia-Yap",
+      "Van Lun Low",
+      "Atiporn Saeung",
+      "Fong Lee Ng",
+      "Chee Dhang Chen",
+      "Pouya Hassandarvish",
+      "Geok Yuan Annie Tan",
+      "Sazaly AbuBakar",
+      "Adzzie Shazleen Azman"
+    ]
+  },
+  "article_index": 1,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:29:47.709619"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T15:29:49.229890"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:29:50.504276"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:59:46.933877"
+    },
+    "last_updated": "2025-10-03T21:59:46.934068"
+  }
+}

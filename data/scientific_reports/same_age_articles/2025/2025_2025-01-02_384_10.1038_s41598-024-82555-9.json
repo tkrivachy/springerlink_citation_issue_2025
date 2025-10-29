@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.390464",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-82555-9",
+    "title": "Importance of reference group selection in the evaluation of cancer incidence",
+    "article_number": "270",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Alexandra K. Mueller",
+      "Brandon Vaeth",
+      "Andrew C. Todd",
+      "Christopher R. Dasaro",
+      "Jiehui Li",
+      "Baozhen Qiao",
+      "Paolo Boffetta",
+      "David J. Prezant",
+      "Charles B. Hall",
+      "David G. Goldfarb",
+      "Rachel Zeig-Owens"
+    ]
+  },
+  "article_index": 384,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:19:03.876950"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:19:05.390112"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:30.640623"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:18:25.926518"
+    },
+    "last_updated": "2025-10-07T09:49:30.640725"
+  }
+}

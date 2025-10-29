@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.380113",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84916-w",
+    "title": "Integrative pan-cancer analysis and experiment validation identified GLS as a biomarker in tumor progression, prognosis, immune microenvironment, and immunotherapy",
+    "article_number": "525",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Dongming Li",
+      "Donghui Cao",
+      "Yangyu Zhang",
+      "Xinyi Yu",
+      "Yanhua Wu",
+      "Zhifang Jia",
+      "Jing Jiang",
+      "Xueyuan Cao"
+    ]
+  },
+  "article_index": 291,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:40:48.909441"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:40:50.472987"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:40:51.676092"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:26:09.364112"
+    },
+    "last_updated": "2025-10-03T22:26:09.364303"
+  }
+}

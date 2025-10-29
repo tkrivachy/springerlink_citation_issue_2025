@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.299292",
+  "year": 2020,
+  "article_type": "article_1",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56847-4",
+    "title": "Re-epithelialization and immune cell behaviour in an ",
+    "article_number": "1",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ana Rakita",
+      "Nenad Nikolić",
+      "Michael Mildner",
+      "Johannes Matiasek",
+      "Adelheid Elbe-Bürger"
+    ]
+  },
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6477,
+      "retrieved_at": "2025-10-03T14:22:44.596876"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6958,
+      "retrieved_at": "2025-10-03T14:22:46.129020"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7805,
+      "retrieved_at": "2025-10-03T14:23:00.998407"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8336,
+      "retrieved_at": "2025-10-03T21:32:27.877182"
+    },
+    "last_updated": "2025-10-03T21:32:27.877405"
+  }
+}

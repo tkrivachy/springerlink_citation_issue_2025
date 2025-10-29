@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607672",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02618-6",
+    "title": "Peptidomimetic blockade of MYB in acute myeloid leukemia",
+    "article_number": "110",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kavitha Ramaswamy",
+      "Lauren Forbes",
+      "Gerard Minuesa",
+      "Tatyana Gindin",
+      "Fiona Brown",
+      "Michael G. Kharas",
+      "Andrei V. Krivtsov",
+      "Scott A. Armstrong",
+      "Eric Still",
+      "Elisa de Stanchina",
+      "Birgit Knoechel",
+      "Richard Koche",
+      "Alex Kentsis"
+    ]
+  },
+  "article_index": 26,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:36:12.799878",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T11:44:11.430430"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T17:08:40.323398"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 79,
+      "retrieved_at": "2025-10-03T17:08:41.687949"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T22:36:12.799790"
+    }
+  }
+}

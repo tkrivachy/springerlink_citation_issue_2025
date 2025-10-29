@@ -1,0 +1,64 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.688897",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08261-z",
+    "title": "Inactivating hepatitis C virus in donor lungs using light therapies during normothermic ex vivo lung perfusion",
+    "article_number": "481",
+    "publication_date": "2019-01-29",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marcos Galasso",
+      "Jordan J. Feld",
+      "Yui Watanabe",
+      "Mauricio Pipkin",
+      "Cara Summers",
+      "Aadil Ali",
+      "Robert Qaqish",
+      "Manyin Chen",
+      "Rafaela V. P. Ribeiro",
+      "Khaled Ramadan",
+      "Layla Pires",
+      "Vanderlei S. Bagnato",
+      "Cristina Kurachi",
+      "Vera Cherepanov",
+      "Gray Moonen",
+      "Anajara Gazzalle",
+      "Thomas K. Waddell",
+      "Mingyao Liu",
+      "Shaf Keshavjee",
+      "Brian C. Wilson",
+      "Atul Humar",
+      "Marcelo Cypel"
+    ]
+  },
+  "article_index": 108,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:31:15.927688"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 100,
+      "retrieved_at": "2025-10-03T17:31:17.453249"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 96,
+      "retrieved_at": "2025-10-03T17:31:18.613067"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T22:44:01.015047"
+    },
+    "last_updated": "2025-10-03T22:44:01.015241"
+  }
+}

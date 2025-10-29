@@ -1,0 +1,67 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607205",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02294-6",
+    "title": "Development of an oral once-weekly drug delivery system for HIV antiretroviral therapy",
+    "article_number": "2",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ameya R. Kirtane",
+      "Omar Abouzid",
+      "Daniel Minahan",
+      "Taylor Bensel",
+      "Alison L. Hill",
+      "Christian Selinger",
+      "Anna Bershteyn",
+      "Morgan Craig",
+      "Shirley S. Mo",
+      "Hormoz Mazdiyasni",
+      "Cody Cleveland",
+      "Jaimie Rogner",
+      "Young-Ah Lucy Lee",
+      "Lucas Booth",
+      "Farhad Javid",
+      "Sarah J. Wu",
+      "Tyler Grant",
+      "Andrew M. Bellinger",
+      "Boris Nikolic",
+      "Alison Hayward",
+      "Lowell Wood",
+      "Philip A. Eckhoff",
+      "Martin A. Nowak",
+      "Robert Langer",
+      "Giovanni Traverso"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:57.343022",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 170,
+      "retrieved_at": "2025-10-03T11:44:07.885187"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 190,
+      "retrieved_at": "2025-10-03T17:08:05.383583"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 182,
+      "retrieved_at": "2025-10-03T17:08:06.858272"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 204,
+      "retrieved_at": "2025-10-03T22:35:57.342831"
+    }
+  }
+}

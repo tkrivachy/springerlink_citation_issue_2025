@@ -1,0 +1,68 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.547879",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55267-x",
+    "title": "Deep learning-based aberration compensation improves contrast and resolution in fluorescence microscopy",
+    "article_number": "313",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Min Guo",
+      "Yicong Wu",
+      "Chad M. Hobson",
+      "Yijun Su",
+      "Shuhao Qian",
+      "Eric Krueger",
+      "Ryan Christensen",
+      "Grant Kroeschell",
+      "Johnny Bui",
+      "Matthew Chaw",
+      "Lixia Zhang",
+      "Jiamin Liu",
+      "Xuekai Hou",
+      "Xiaofei Han",
+      "Zhiye Lu",
+      "Xuefei Ma",
+      "Alexander Zhovmer",
+      "Christian Combs",
+      "Mark Moyle",
+      "Eviatar Yemini",
+      "Huafeng Liu",
+      "Zhiyi Liu",
+      "Alexandre Benedetto",
+      "Patrick La Riviere",
+      "Daniel Colón-Ramos",
+      "Hari Shroff"
+    ]
+  },
+  "article_index": 249,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T19:32:34.742373"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:32:36.262220"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:37.436834"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T23:24:51.792529"
+    },
+    "last_updated": "2025-10-03T23:24:51.792616"
+  }
+}

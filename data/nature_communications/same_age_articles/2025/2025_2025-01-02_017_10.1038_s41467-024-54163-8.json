@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.512270",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-54163-8",
+    "title": "Solar energy resource availability under extreme and historical wildfire smoke conditions",
+    "article_number": "245",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Kimberley A. Corwin",
+      "Jesse Burkhardt",
+      "Chelsea A. Corr",
+      "Paul W. Stackhouse",
+      "Amit Munshi",
+      "Emily V. Fischer"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:35:24.160775"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:35:25.714216"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:35:26.936760"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T23:25:49.854616"
+    },
+    "last_updated": "2025-10-03T23:25:49.854808"
+  }
+}

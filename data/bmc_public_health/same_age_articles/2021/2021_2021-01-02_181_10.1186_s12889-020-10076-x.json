@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.651084",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10076-x",
+    "title": "Doctors’ smoking control knowledge, attitudes and practices: a cross-sectional study conducted in Shandong Province, China",
+    "article_number": "73",
+    "publication_date": "2021-01-07",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Qiang Wang",
+      "Xueli Zhang",
+      "Zengwu Wang",
+      "Shangang Feng",
+      "Yang Li",
+      "Chuanfeng Zhang",
+      "Chunping Wang"
+    ]
+  },
+  "article_index": 181,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T13:52:13.900846"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:52:15.450241"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T13:52:16.758743"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:21:45.153812"
+    },
+    "last_updated": "2025-10-03T21:21:45.153897"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.683698",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07950-z",
+    "title": "Caution in inferring viral strategies from abundance correlations in marine metagenomes",
+    "article_number": "501",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Hend Alrasheed",
+      "Rong Jin",
+      "Joshua S. Weitz"
+    ]
+  },
+  "article_index": 62,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T17:16:28.592857"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T17:16:30.141231"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T17:16:31.404523"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T22:38:56.422428"
+    },
+    "last_updated": "2025-10-03T22:38:56.422621"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.879189",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-14020-5",
+    "title": "ASCOT identifies key regulators of neuronal subtype-specific splicing",
+    "article_number": "137",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jonathan P. Ling",
+      "Christopher Wilks",
+      "Rone Charles",
+      "Patrick J. Leavey",
+      "Devlina Ghosh",
+      "Lizhi Jiang",
+      "Clayton P. Santiago",
+      "Bo Pang",
+      "Anand Venkataraman",
+      "Brian S. Clark",
+      "Abhinav Nellore",
+      "Ben Langmead",
+      "Seth Blackshaw"
+    ]
+  },
+  "article_index": 23,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T18:10:43.491078"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T18:10:45.032680"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T18:10:46.382600"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 87,
+      "retrieved_at": "2025-10-03T22:57:23.767482"
+    },
+    "last_updated": "2025-10-03T22:57:23.767673"
+  }
+}

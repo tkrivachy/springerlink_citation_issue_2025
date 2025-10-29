@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.686403",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8117-y",
+    "title": "An outbreak of norovirus-related acute gastroenteritis associated with delivery food in Guangzhou, southern China",
+    "article_number": "25",
+    "publication_date": "2020-01-08",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Ying Lu",
+      "Mengmeng Ma",
+      "Hui Wang",
+      "Dahu Wang",
+      "Chun Chen",
+      "Qinlong Jing",
+      "Jinmei Geng",
+      "Tiegang Li",
+      "Zhoubin Zhang",
+      "Zhicong Yang"
+    ]
+  },
+  "article_index": 138,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T13:40:26.416172"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:40:27.988020"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:40:29.264612"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T21:17:33.734258"
+    },
+    "last_updated": "2025-10-03T21:17:33.734377"
+  }
+}

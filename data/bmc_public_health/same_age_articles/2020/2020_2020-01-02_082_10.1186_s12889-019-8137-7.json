@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.677786",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-8137-7",
+    "title": "Major amputations in type 2 diabetes between 2001 and 2015 in Spain: regional differences",
+    "article_number": "54",
+    "publication_date": "2020-01-14",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "María del Cristo Rodríguez Pérez",
+      "Chiara Chines",
+      "Arturo J. Pedrero García",
+      "Djeniffer Sousa",
+      "Francisco J. Cuevas Fernández",
+      "Itahisa Marcelino-Rodríguez",
+      "Santiago Domínguez Coello",
+      "Antonio Cabrera de León"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:37:18.781542"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T13:37:20.328800"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:37:21.596429"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:16:29.009609"
+    },
+    "last_updated": "2025-10-03T21:16:29.009682"
+  }
+}

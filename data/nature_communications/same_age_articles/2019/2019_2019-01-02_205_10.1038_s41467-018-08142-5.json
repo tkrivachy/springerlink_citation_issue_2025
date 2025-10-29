@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.699320",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08142-5",
+    "title": "Avian UV vision enhances leaf surface contrasts in forest environments",
+    "article_number": "238",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Cynthia Tedore",
+      "Dan-Eric Nilsson"
+    ]
+  },
+  "article_index": 205,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T17:37:00.799802"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T17:37:02.382486"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T17:37:03.705407"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T22:45:57.734562"
+    },
+    "last_updated": "2025-10-03T22:45:57.734622"
+  }
+}

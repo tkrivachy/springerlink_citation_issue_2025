@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.695755",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08439-z",
+    "title": "Author Correction: Information-based autonomous reconfiguration in systems of interacting DNA nanostructures",
+    "article_number": "462",
+    "publication_date": "2019-01-22",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Philip Petersen",
+      "Grigory Tikhomirov",
+      "Lulu Qian"
+    ]
+  },
+  "article_index": 171,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:22:42.879957"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:22:44.396920"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T17:22:45.543718"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:40:57.627537"
+    },
+    "last_updated": "2025-10-03T22:40:57.627623"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.607578",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02636-4",
+    "title": "Engineering human pluripotent stem cells into a functional skeletal muscle tissue",
+    "article_number": "126",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lingjun Rao",
+      "Ying Qian",
+      "Alastair Khodabukus",
+      "Thomas Ribar",
+      "Nenad Bursac"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:55.405428",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 265,
+      "retrieved_at": "2025-10-03T11:44:07.535424"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 285,
+      "retrieved_at": "2025-10-03T17:08:00.552827"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 266,
+      "retrieved_at": "2025-10-03T17:08:01.728555"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 301,
+      "retrieved_at": "2025-10-03T22:35:55.405193"
+    }
+  }
+}

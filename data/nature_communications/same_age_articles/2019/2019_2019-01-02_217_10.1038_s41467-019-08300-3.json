@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.700703",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08300-3",
+    "title": "The lineage stability and suppressive program of regulatory T cells require protein O-GlcNAcylation",
+    "article_number": "354",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Bing Liu",
+      "Oscar C. Salgado",
+      "Sangya Singh",
+      "Keli L. Hippen",
+      "Jason C. Maynard",
+      "Alma L. Burlingame",
+      "Lauren E. Ball",
+      "Bruce R. Blazar",
+      "Michael A. Farrar",
+      "Kristin A. Hogquist",
+      "Hai-Bin Ruan"
+    ]
+  },
+  "article_index": 217,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 94,
+      "retrieved_at": "2025-10-03T17:34:30.153262"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:34:31.696845"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T17:34:33.357150"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T22:45:07.147355"
+    },
+    "last_updated": "2025-10-03T22:45:07.147417"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.655567",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10145-1",
+    "title": "Assessment of self-medication practices in the context of the COVID-19 outbreak in Togo",
+    "article_number": "58",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Arnold J. Sadio",
+      "Fifonsi A. Gbeasor-Komlanvi",
+      "Rodion Y. Konu",
+      "Akila W. Bakoubayi",
+      "Martin K. Tchankoni",
+      "Alexandra M. Bitty-Anderson",
+      "Iris M. Gomez",
+      "Claudia P. Denadou",
+      "Joël Anani",
+      "Harold R. Kouanfack",
+      "Innocent K. Kpeto",
+      "Mounerou Salou",
+      "Didier K. Ekouevi"
+    ]
+  },
+  "article_index": 224,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T13:49:43.441864"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 86,
+      "retrieved_at": "2025-10-03T13:49:44.973383"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T13:49:46.361161"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T21:20:53.389006"
+    },
+    "last_updated": "2025-10-03T21:20:53.389104"
+  }
+}

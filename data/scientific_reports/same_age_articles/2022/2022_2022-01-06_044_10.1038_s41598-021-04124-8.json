@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.857745",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04124-8",
+    "title": "SVBE: searchable and verifiable blockchain-based electronic medical records system",
+    "article_number": "266",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Norah Alrebdi",
+      "Abdulatif Alabdulatif",
+      "Celestine Iwendi",
+      "Zhuotao Lian"
+    ]
+  },
+  "article_index": 44,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T15:26:54.770628"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T15:26:56.285443"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T15:26:57.576619"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T21:58:34.995591"
+    },
+    "last_updated": "2025-10-03T21:58:34.995693"
+  }
+}

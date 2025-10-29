@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.876105",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04021-0",
+    "title": "Research on the rapid combustion process of butane under microwave discharge",
+    "article_number": "10",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qiang Tang",
+      "Zhibin Hu",
+      "Zechao Tao",
+      "Dan Ye",
+      "Jau Tang"
+    ]
+  },
+  "article_index": 176,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:14:15.932849"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:14:17.440644"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T15:14:18.593564"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T21:53:08.008229"
+    },
+    "last_updated": "2025-10-03T21:53:08.008454"
+  }
+}

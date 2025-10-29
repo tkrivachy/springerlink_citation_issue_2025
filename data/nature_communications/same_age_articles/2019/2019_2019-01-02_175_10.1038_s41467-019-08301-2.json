@@ -1,0 +1,61 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.696156",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08301-2",
+    "title": "Comparative oncogenomics identifies combinations of driver genes and drug targets in ",
+    "article_number": "397",
+    "publication_date": "2019-01-23",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Stefano Annunziato",
+      "Julian R. de Ruiter",
+      "Linda Henneman",
+      "Chiara S. Brambillasca",
+      "Catrin Lutz",
+      "François Vaillant",
+      "Federica Ferrante",
+      "Anne Paulien Drenth",
+      "Eline van der Burg",
+      "Bjørn Siteur",
+      "Bas van Gerwen",
+      "Roebi de Bruijn",
+      "Martine H. van Miltenburg",
+      "Ivo J. Huijbers",
+      "Marieke van de Ven",
+      "Jane E. Visvader",
+      "Geoffrey J. Lindeman",
+      "Lodewyk F. A. Wessels",
+      "Jos Jonkers"
+    ]
+  },
+  "article_index": 175,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:11:48.023967"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:11:49.553443"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T17:11:50.718448"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T22:37:16.018217"
+    },
+    "last_updated": "2025-10-03T22:37:16.018263"
+  }
+}

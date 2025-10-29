@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.650557",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35708-1",
+    "title": "Filamin A organizes γ‑aminobutyric acid type B receptors at the plasma membrane",
+    "article_number": "34",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Marie-Lise Jobin",
+      "Sana Siddig",
+      "Zsombor Koszegi",
+      "Yann Lanoiselée",
+      "Vladimir Khayenko",
+      "Titiwat Sungkaworn",
+      "Christian Werner",
+      "Kerstin Seier",
+      "Christin Misigaiski",
+      "Giovanna Mantovani",
+      "Markus Sauer",
+      "Hans M. Maric",
+      "Davide Calebiro"
+    ]
+  },
+  "article_index": 84,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T18:48:51.283113"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:48:52.798953"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:48:53.950352"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:10:15.799627"
+    },
+    "last_updated": "2025-10-03T23:10:15.799814"
+  }
+}

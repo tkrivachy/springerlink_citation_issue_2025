@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:47:40.170595",
+  "year": 2004,
+  "article_type": "comparison",
+  "publication_date": "2004-01-05",
+  "article_data": {
+    "doi": "10.1186/1471-2458-4-8",
+    "title": "Reliability of sickness certificates in detecting potential sick leave reduction by modifying working conditions: a clinical epidemiology study",
+    "article_number": "8",
+    "publication_date": "2004-03-25",
+    "volume": "4",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Nils Fleten",
+      "Roar Johnsen",
+      "Bente Skipenes Østrem"
+    ]
+  },
+  "article_index": 55,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T12:10:28.465003"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T12:10:29.963144"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T12:10:31.177128"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T20:44:52.869441"
+    },
+    "last_updated": "2025-10-03T20:44:52.869496"
+  }
+}

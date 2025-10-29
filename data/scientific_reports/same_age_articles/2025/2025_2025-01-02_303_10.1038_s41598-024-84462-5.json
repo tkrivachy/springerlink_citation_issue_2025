@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.381293",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84462-5",
+    "title": "FSTL1 aggravates high glucose-induced oxidative stress and transdifferentiation in HK-2 cells",
+    "article_number": "434",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Baoyuan Zhang",
+      "Hang Geng",
+      "Kai Zhao",
+      "Moussa Omorou",
+      "Shuang Liu",
+      "Zhihui Ye",
+      "Fanting Zhang",
+      "Haiyan Luan",
+      "Xuesong Zhang"
+    ]
+  },
+  "article_index": 303,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:43:28.448369"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:43:29.961254"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:43:31.165975"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:27:07.293686"
+    },
+    "last_updated": "2025-10-03T22:27:07.293887"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.242555",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1379-0",
+    "title": "Willingness to participate in prevention programs for cardiometabolic diseases",
+    "article_number": "44",
+    "publication_date": "2015-01-31",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Jessica Petter",
+      "Margreet M Reitsma-van Rooijen",
+      "Joke C Korevaar",
+      "Markus MJ Nielen"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T13:09:01.388018"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T13:09:02.989375"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:09:04.322791"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T21:06:06.543959"
+    },
+    "last_updated": "2025-10-03T21:06:06.544004"
+  }
+}

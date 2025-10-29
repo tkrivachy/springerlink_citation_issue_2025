@@ -1,0 +1,58 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.731968",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07937-w",
+    "title": "Room-temperature electrochemical water–gas shift reaction for high purity hydrogen production",
+    "article_number": "86",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaoju Cui",
+      "Hai-Yan Su",
+      "Ruixue Chen",
+      "Liang Yu",
+      "Jinchao Dong",
+      "Chao Ma",
+      "Suheng Wang",
+      "Jianfeng Li",
+      "Fan Yang",
+      "Jianping Xiao",
+      "Mengtao Zhang",
+      "Ding Ma",
+      "Dehui Deng",
+      "Dong H. Zhang",
+      "Zhongqun Tian",
+      "Xinhe Bao"
+    ]
+  },
+  "article_index": 504,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T17:12:40.027100"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T17:12:41.596527"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:12:42.960579"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 84,
+      "retrieved_at": "2025-10-03T22:37:32.997135"
+    },
+    "last_updated": "2025-10-03T22:37:32.997234"
+  }
+}

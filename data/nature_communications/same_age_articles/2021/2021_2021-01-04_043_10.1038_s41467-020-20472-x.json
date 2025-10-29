@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.180504",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20472-x",
+    "title": "Exploring the effect of network topology, mRNA and protein dynamics on gene regulatory network stability",
+    "article_number": "130",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yipei Guo",
+      "Ariel Amir"
+    ]
+  },
+  "article_index": 43,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T18:32:55.923393"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:32:57.482199"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:32:58.770594"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T23:04:59.582070"
+    },
+    "last_updated": "2025-10-03T23:04:59.582262"
+  }
+}

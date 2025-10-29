@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.847572",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04263-y",
+    "title": "The effects of fructose diphosphate on routine coagulation tests in vitro",
+    "article_number": "304",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Tongqing Chen",
+      "Duan Chen",
+      "Lu Chen",
+      "Zhengxu Chen",
+      "Baolong Wang",
+      "Daoping Zhou"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:25:31.798809"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:25:33.316133"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T15:25:34.484315"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:58:01.957464"
+    },
+    "last_updated": "2025-10-03T21:58:01.957658"
+  }
+}

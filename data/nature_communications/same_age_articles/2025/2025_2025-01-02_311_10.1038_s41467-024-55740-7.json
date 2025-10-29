@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.564186",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55740-7",
+    "title": "A sedimentary ancient DNA perspective on human and carnivore persistence through the Late Pleistocene in El Mirón Cave, Spain",
+    "article_number": "107",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Pere Gelabert",
+      "Victoria Oberreiter",
+      "Lawrence Guy Straus",
+      "Manuel Ramón González Morales",
+      "Susanna Sawyer",
+      "Ana B. Marín-Arroyo",
+      "Jeanne Marie Geiling",
+      "Florian Exler",
+      "Florian Brueck",
+      "Stefan Franz",
+      "Fernanda Tenorio Cano",
+      "Sophie Szedlacsek",
+      "Evelyn Zelger",
+      "Michelle Hämmerle",
+      "Brina Zagorc",
+      "Alejandro Llanos-Lizcano",
+      "Olivia Cheronet",
+      "José-Miguel Tejero",
+      "Thomas Rattei",
+      "Stephan M. Kraemer",
+      "Ron Pinhasi"
+    ]
+  },
+  "article_index": 311,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:32:51.292025"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:32:52.848660"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:32:54.021254"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:24:57.833450"
+    },
+    "last_updated": "2025-10-03T23:24:57.833653"
+  }
+}

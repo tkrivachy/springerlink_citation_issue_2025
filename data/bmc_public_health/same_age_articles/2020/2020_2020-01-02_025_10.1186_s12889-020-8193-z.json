@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.669757",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8193-z",
+    "title": "Prevalence and determinants of recent HIV testing among older persons in rural Uganda: a cross-sectional study",
+    "article_number": "144",
+    "publication_date": "2020-01-31",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Stephen Ojiambo Wandera",
+      "Betty Kwagala",
+      "Fred Maniragaba"
+    ]
+  },
+  "article_index": 25,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:33:10.503648"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T13:33:12.053948"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T13:33:13.337076"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:14:55.844847"
+    },
+    "last_updated": "2025-10-03T21:14:55.845033"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.204896",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20323-9",
+    "title": "The aging transcriptome and cellular landscape of the human lung in relation to SARS-CoV-2",
+    "article_number": "4",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Ryan D. Chow",
+      "Medha Majety",
+      "Sidi Chen"
+    ]
+  },
+  "article_index": 201,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T18:43:22.799343"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T18:43:24.352102"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T18:43:25.530636"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T23:08:26.972571"
+    },
+    "last_updated": "2025-10-03T23:08:26.972686"
+  }
+}

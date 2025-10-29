@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.520695",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55287-7",
+    "title": "A Bayesian active learning platform for scalable combination drug screens",
+    "article_number": "156",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Christopher Tosh",
+      "Mauricio Tec",
+      "Jessica B. White",
+      "Jeffrey F. Quinn",
+      "Glorymar Ibanez Sanchez",
+      "Paul Calder",
+      "Andrew L. Kung",
+      "Filemon S. Dela Cruz",
+      "Wesley Tansey"
+    ]
+  },
+  "article_index": 76,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:34:49.037243"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:34:50.609612"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:34:51.819549"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:25:39.539852"
+    },
+    "last_updated": "2025-10-03T23:25:39.540041"
+  }
+}

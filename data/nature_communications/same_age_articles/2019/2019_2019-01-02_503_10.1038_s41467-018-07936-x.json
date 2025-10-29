@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.731867",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07936-x",
+    "title": "Emergence of a floral colour polymorphism by pollinator-mediated overdominance",
+    "article_number": "63",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Roman T. Kellenberger",
+      "Kelsey J. R. P. Byers",
+      "Rita M. De Brito Francisco",
+      "Yannick M. Staedler",
+      "Amy M. LaFountain",
+      "Jürg Schönenberger",
+      "Florian P. Schiestl",
+      "Philipp M. Schlüter"
+    ]
+  },
+  "article_index": 503,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T17:10:57.600757"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T17:10:59.146071"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T17:11:00.524149"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T22:36:58.076571"
+    },
+    "last_updated": "2025-10-03T22:36:58.076772"
+  }
+}

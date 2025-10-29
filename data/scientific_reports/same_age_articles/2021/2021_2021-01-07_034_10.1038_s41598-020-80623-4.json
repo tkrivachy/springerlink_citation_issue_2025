@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.207485",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80623-4",
+    "title": "Respiration characteristics and its responses to hydrothermal seasonal changes in reconstructed soils",
+    "article_number": "144",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Na Lei",
+      "Juan Li",
+      "Tianqing Chen"
+    ]
+  },
+  "article_index": 34,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:37:02.874177"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T14:37:04.450715"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T14:37:05.596691"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T21:38:13.808693"
+    },
+    "last_updated": "2025-10-03T21:38:13.808900"
+  }
+}

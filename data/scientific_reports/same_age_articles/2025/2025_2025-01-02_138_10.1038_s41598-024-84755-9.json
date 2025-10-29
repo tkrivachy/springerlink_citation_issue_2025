@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.363109",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84755-9",
+    "title": "Neonatal intensive care admissions and exposure to satellite-derived air pollutants in the United States, 2018",
+    "article_number": "420",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yohane Vincent Abero Phiri",
+      "Timothy Canty",
+      "Carrie Nobles",
+      "Allison M. Ring",
+      "Jing Nie",
+      "Pauline Mendola"
+    ]
+  },
+  "article_index": 138,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:58:22.756185"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T16:58:24.330698"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:58:25.553718"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:32:14.941164"
+    },
+    "last_updated": "2025-10-03T22:32:14.941383"
+  }
+}

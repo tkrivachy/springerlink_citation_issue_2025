@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.307543",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-55107-9",
+    "title": "Vitamin D supplementation does not prevent the recurrence of Graves’ disease",
+    "article_number": "16",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Yoon Young Cho",
+      "Yun Jae Chung"
+    ]
+  },
+  "article_index": 74,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T14:23:25.458295"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:23:27.001695"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T14:23:28.206210"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T21:32:41.910562"
+    },
+    "last_updated": "2025-10-03T21:32:41.910754"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:40:57.087531",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-09",
+  "article_data": {
+    "doi": "10.1038/s41598-018-37186-2",
+    "title": "Occurrence of the potent mutagens 2- nitrobenzanthrone and 3-nitrobenzanthrone in fine airborne particles",
+    "article_number": "1",
+    "publication_date": "2019-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Aldenor G. Santos",
+      "Gisele O. da Rocha",
+      "Jailson B. de Andrade"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:21:18.632809"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7189,
+      "retrieved_at": "2025-10-03T14:21:20.174929"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8304,
+      "retrieved_at": "2025-10-03T14:21:21.328885"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8676,
+      "retrieved_at": "2025-10-03T21:31:54.566955"
+    },
+    "last_updated": "2025-10-03T21:31:54.567147"
+  }
+}

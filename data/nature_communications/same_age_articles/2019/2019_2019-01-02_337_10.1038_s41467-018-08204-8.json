@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.714206",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08204-8",
+    "title": "Half-quantum vortices and walls bounded by strings in the polar-distorted phases of topological superfluid ",
+    "article_number": "237",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "J. T. Mäkinen",
+      "V. V. Dmitriev",
+      "J. Nissinen",
+      "J. Rysti",
+      "G. E. Volovik",
+      "A. N. Yudin",
+      "K. Zhang",
+      "V. B. Eltsov"
+    ]
+  },
+  "article_index": 337,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T17:25:08.407641"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T17:25:09.934730"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:25:11.087828"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T22:41:49.786187"
+    },
+    "last_updated": "2025-10-03T22:41:49.786412"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.523812",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55063-7",
+    "title": "DSIF factor Spt5 coordinates transcription, maturation and exoribonucleolysis of RNA polymerase II transcripts",
+    "article_number": "10",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Krzysztof Kuś",
+      "Loic Carrique",
+      "Tea Kecman",
+      "Marjorie Fournier",
+      "Sarah Sayed Hassanein",
+      "Ebru Aydin",
+      "Cornelia Kilchert",
+      "Jonathan M. Grimes",
+      "Lidia Vasiljeva"
+    ]
+  },
+  "article_index": 101,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:38:43.365113"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:38:44.993031"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:38:46.177003"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T23:26:58.588206"
+    },
+    "last_updated": "2025-10-03T23:26:58.588284"
+  }
+}

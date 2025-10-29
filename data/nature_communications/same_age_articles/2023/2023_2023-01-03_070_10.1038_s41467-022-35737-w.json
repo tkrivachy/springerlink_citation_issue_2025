@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.647802",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35737-w",
+    "title": "High-strength and machinable load-bearing integrated electrochemical capacitors based on polymeric solid electrolyte",
+    "article_number": "64",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jinmeng Zhang",
+      "Jianlong Yan",
+      "Yanan Zhao",
+      "Qiang Zhou",
+      "Yinxing Ma",
+      "Yaxian Zi",
+      "Anan Zhou",
+      "Shumin Lin",
+      "Longhui Liao",
+      "Xiaolan Hu",
+      "Hua Bai"
+    ]
+  },
+  "article_index": 70,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:49:38.982634"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T18:49:40.543121"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 38,
+      "retrieved_at": "2025-10-03T18:49:41.841520"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T23:10:32.941834"
+    },
+    "last_updated": "2025-10-03T23:10:32.941919"
+  }
+}

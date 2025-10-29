@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:50:10.193827",
+  "year": 2016,
+  "article_type": "comparison",
+  "publication_date": "2016-01-04",
+  "article_data": {
+    "doi": "10.1186/s12889-015-2629-x",
+    "title": "Acceptability of tick control interventions to prevent Lyme disease in Switzerland and Canada: a mixed-method study",
+    "article_number": "12",
+    "publication_date": "2016-01-05",
+    "volume": "16",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Cécile Aenishaenslin",
+      "Pascal Michel",
+      "André Ravel",
+      "Lise Gern",
+      "Jean-Philippe Waaub",
+      "François Milord",
+      "Denise Bélanger"
+    ]
+  },
+  "article_index": 17,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T13:19:19.296231"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:19:20.845596"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T13:19:22.140089"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T21:09:59.957710"
+    },
+    "last_updated": "2025-10-03T21:09:59.957905"
+  }
+}

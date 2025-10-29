@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.536052",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55538-7",
+    "title": "TransLeish: Identification of membrane transporters essential for survival of intracellular ",
+    "article_number": "299",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andreia Albuquerque-Wendt",
+      "Ciaran McCoy",
+      "Rachel Neish",
+      "Ulrich Dobramysl",
+      "Çağla Alagöz",
+      "Tom Beneke",
+      "Sally A. Cowley",
+      "Kathryn Crouch",
+      "Richard J. Wheeler",
+      "Jeremy C. Mottram",
+      "Eva Gluenz"
+    ]
+  },
+  "article_index": 168,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T19:42:53.370548"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:42:54.876464"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:42:56.058500"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:28:35.841862"
+    },
+    "last_updated": "2025-10-03T23:28:35.841911"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.558913",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55300-z",
+    "title": "Targeting chromosomally unstable tumors with a selective KIF18A inhibitor",
+    "article_number": "307",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Aaron F. Phillips",
+      "Rumin Zhang",
+      "Mia Jaffe",
+      "Ryan Schulz",
+      "Marysol Chu Carty",
+      "Akanksha Verma",
+      "Tamar Y. Feinberg",
+      "Michael D. Arensman",
+      "Alan Chiu",
+      "Reka Letso",
+      "Nazario Bosco",
+      "Katelyn A. Queen",
+      "Allison R. Racela",
+      "Jason Stumpff",
+      "Celia Andreu-Agullo",
+      "Sarah E. Bettigole",
+      "Rafael S. Depetris",
+      "Scott Drutman",
+      "Shinsan M. Su",
+      "Derek A. Cogan",
+      "Christina H. Eng"
+    ]
+  },
+  "article_index": 303,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:34:27.375716"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:34:28.908890"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:34:30.075728"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T23:25:31.059790"
+    },
+    "last_updated": "2025-10-03T23:25:31.059888"
+  }
+}

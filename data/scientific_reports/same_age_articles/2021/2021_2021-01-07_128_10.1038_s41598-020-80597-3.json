@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.222149",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80597-3",
+    "title": "Technical feasibility of radiomics signature analyses for improving detection of occult tonsillar cancer",
+    "article_number": "192",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jeong Hoon Lee",
+      "Eun Ju Ha",
+      "Jin Roh",
+      "Su Jin Lee",
+      "Jeon Yeob Jang"
+    ]
+  },
+  "article_index": 128,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:41:23.531212"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:41:25.088491"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:41:26.251770"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T21:40:00.752613"
+    },
+    "last_updated": "2025-10-03T21:40:00.752807"
+  }
+}

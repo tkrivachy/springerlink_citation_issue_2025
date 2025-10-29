@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.513931",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55325-4",
+    "title": "Spatial transcriptomics of healthy and fibrotic human liver at single-cell resolution",
+    "article_number": "319",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Brianna R. Watson",
+      "Biplab Paul",
+      "Raza Ur Rahman",
+      "Liat Amir-Zilberstein",
+      "Åsa Segerstolpe",
+      "Eliana T. Epstein",
+      "Shane Murphy",
+      "Ludwig Geistlinger",
+      "Tyrone Lee",
+      "Angela Shih",
+      "Jacques Deguine",
+      "Ramnik J. Xavier",
+      "Jeffrey R. Moffitt",
+      "Alan C. Mullen"
+    ]
+  },
+  "article_index": 27,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T19:29:34.346269"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T19:29:35.903541"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:29:37.128459"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:23:55.816060"
+    },
+    "last_updated": "2025-10-03T23:23:55.816251"
+  }
+}

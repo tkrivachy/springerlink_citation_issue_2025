@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:47:14.513946",
+  "year": 2002,
+  "article_type": "comparison",
+  "publication_date": "2002-01-16",
+  "article_data": {
+    "doi": "10.1186/1471-2458-2-14",
+    "title": "Comparison of deferral rates using a computerized versus written blood donor questionnaire: a randomized, cross-over study [ISRCTN84429599]",
+    "article_number": "14",
+    "publication_date": "2002-08-21",
+    "volume": "2",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "John W Sellors",
+      "Robert Hayward",
+      "Graham Swanson",
+      "Anita Ali",
+      "R Brian Haynes",
+      "Ronald Bourque",
+      "Karen-Ann Moore",
+      "Lynne Lohfeld",
+      "Dawn Dalby",
+      "Michelle Howard"
+    ]
+  },
+  "article_index": 18,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T11:54:18.890238"
+    },
+    "last_updated": "2025-10-03T20:41:40.662230",
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T12:02:16.203585"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T12:02:17.485958"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T20:41:40.661938"
+    }
+  }
+}

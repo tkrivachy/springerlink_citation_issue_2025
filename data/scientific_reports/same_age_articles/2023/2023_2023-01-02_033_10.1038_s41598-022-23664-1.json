@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.103038",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-23664-1",
+    "title": "Demographic recruitment bias of adults in United States randomized clinical trials by disease categories between 2008 to 2019: a systematic review and meta-analysis",
+    "article_number": "42",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ilana Buffenstein",
+      "Bree Kaneakua",
+      "Emily Taylor",
+      "Masako Matsunaga",
+      "So Yung Choi",
+      "Enrique Carrazana",
+      "Jason Viereck",
+      "Kore Kai Liow",
+      "Arash Ghaffari-Rafi"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T15:30:27.471517"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T15:30:29.043721"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T15:30:30.332075"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T22:00:02.320211"
+    },
+    "last_updated": "2025-10-03T22:00:02.320439"
+  }
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-023-35812-w</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-023-35812-w</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41467-023-35812-w</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41467-023-35812-w.pdf</ns2:url>
+          <dc:title>Creating bulk ultrastable glasses by random particle bonding</dc:title>
+          <dc:creator>Ozawa, Misaki</dc:creator>
+          <dc:creator>Iwashita, Yasutaka</dc:creator>
+          <dc:creator>Kob, Walter</dc:creator>
+          <dc:creator>Zamponi, Francesco</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2041-1723</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>7</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2023-01-07</onlineDate>
+          <ns2:coverDate>2023-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41467-023-35812-w</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2023-01-07</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-023-35812-w</ns2:url>
+          <ns2:copyright>©2023 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>A recent breakthrough in glass science has been the synthesis of ultrastable glasses via physical vapor deposition techniques. These samples display enhanced thermodynamic, kinetic and mechanical stability, with important implications for fundamental science and technological applications. However, the vapor deposition technique is limited to atomic, polymer and organic glass-formers and is only able to produce thin film samples. Here, we propose a novel approach to generate ultrastable glassy configurations in the bulk, via random particle bonding, and using computer simulations we show that this method does indeed allow for the production of ultrastable glasses. Our technique is in principle applicable to any molecular or soft matter system, such as colloidal particles with tunable bonding interactions, thus opening the way to the design of a large class of ultrastable glasses.</p>
+        <p>Viable methods for the production of ultrastable glasses are much sought after. A potential approach for creating bulk ultrastable glasses, based on random particle bonding scenarios, is now numerically investigated. The method is expected to be applicable to molecular and colloidal glasses.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2023</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">France</facet-value>
+      <facet-value count="1">Japan</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.608590",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02680-0",
+    "title": "The evolution of substrate discrimination in macrolide antibiotic resistance enzymes",
+    "article_number": "112",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Andrew C. Pawlowski",
+      "Peter J. Stogios",
+      "Kalinka Koteva",
+      "Tatiana Skarina",
+      "Elena Evdokimova",
+      "Alexei Savchenko",
+      "Gerard D. Wright"
+    ]
+  },
+  "article_index": 33,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:13.707625",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T11:43:56.985031"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T17:06:19.711693"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T17:06:20.855470"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T22:35:13.707436"
+    }
+  }
+}

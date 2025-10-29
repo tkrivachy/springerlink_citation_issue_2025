@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:48:07.962118",
+  "year": 2005,
+  "article_type": "comparison",
+  "publication_date": "2005-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-5-73",
+    "title": "Prevalence of thyroid nodules in an occupationally radiation exposed group: a cross sectional study in an area with mild iodine deficiency",
+    "article_number": "73",
+    "publication_date": "2005-07-07",
+    "volume": "5",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Paolo Trerotoli",
+      "Anna Ciampolillo",
+      "Giuseppe Marinelli",
+      "Riccardo Giorgino",
+      "Gabriella Serio"
+    ]
+  },
+  "article_index": 78,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T12:12:15.545408"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T12:12:17.089733"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T12:12:18.387726"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T20:45:31.479199"
+    },
+    "last_updated": "2025-10-03T20:45:31.479278"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.632728",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35576-9",
+    "title": "Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior",
+    "article_number": "62",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Gregory Eady",
+      "Tom Paskhalis",
+      "Jan Zilinsky",
+      "Richard Bonneau",
+      "Jonathan Nagler",
+      "Joshua A. Tucker"
+    ]
+  },
+  "article_index": 13,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 65,
+      "retrieved_at": "2025-10-03T18:46:24.506768"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T18:46:26.098926"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T18:46:27.279779"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T23:09:26.271418"
+    },
+    "last_updated": "2025-10-03T23:09:26.271618"
+  }
+}

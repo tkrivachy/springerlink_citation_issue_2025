@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.877421",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13874-z",
+    "title": "Grain structure control during metal 3D printing by high-intensity ultrasound",
+    "article_number": "142",
+    "publication_date": "2020-01-09",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "C. J. Todaro",
+      "M. A. Easton",
+      "D. Qiu",
+      "D. Zhang",
+      "M. J. Bermingham",
+      "E. W. Lui",
+      "M. Brandt",
+      "D. H. StJohn",
+      "M. Qian"
+    ]
+  },
+  "article_index": 8,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 587,
+      "retrieved_at": "2025-10-03T18:11:56.428176"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 663,
+      "retrieved_at": "2025-10-03T18:11:57.957843"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 549,
+      "retrieved_at": "2025-10-03T18:11:59.120941"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 657,
+      "retrieved_at": "2025-10-03T22:57:44.257098"
+    },
+    "last_updated": "2025-10-03T22:57:44.257198"
+  }
+}

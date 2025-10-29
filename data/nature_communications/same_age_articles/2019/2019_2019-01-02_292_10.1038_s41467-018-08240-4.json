@@ -1,0 +1,90 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.709211",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08240-4",
+    "title": "Permafrost is warming at a global scale",
+    "article_number": "264",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Boris K. Biskaborn",
+      "Sharon L. Smith",
+      "Jeannette Noetzli",
+      "Heidrun Matthes",
+      "Gonçalo Vieira",
+      "Dmitry A. Streletskiy",
+      "Philippe Schoeneich",
+      "Vladimir E. Romanovsky",
+      "Antoni G. Lewkowicz",
+      "Andrey Abramov",
+      "Michel Allard",
+      "Julia Boike",
+      "William L. Cable",
+      "Hanne H. Christiansen",
+      "Reynald Delaloye",
+      "Bernhard Diekmann",
+      "Dmitry Drozdov",
+      "Bernd Etzelmüller",
+      "Guido Grosse",
+      "Mauro Guglielmin",
+      "Thomas Ingeman-Nielsen",
+      "Ketil Isaksen",
+      "Mamoru Ishikawa",
+      "Margareta Johansson",
+      "Halldor Johannsson",
+      "Anseok Joo",
+      "Dmitry Kaverin",
+      "Alexander Kholodov",
+      "Pavel Konstantinov",
+      "Tim Kröger",
+      "Christophe Lambiel",
+      "Jean-Pierre Lanckman",
+      "Dongliang Luo",
+      "Galina Malkova",
+      "Ian Meiklejohn",
+      "Natalia Moskalenko",
+      "Marc Oliva",
+      "Marcia Phillips",
+      "Miguel Ramos",
+      "A. Britta K. Sannel",
+      "Dmitrii Sergeev",
+      "Cathy Seybold",
+      "Pavel Skryabin",
+      "Alexander Vasiliev",
+      "Qingbai Wu",
+      "Kenji Yoshikawa",
+      "Mikhail Zheleznyak",
+      "Hugues Lantuit"
+    ]
+  },
+  "article_index": 292,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1346,
+      "retrieved_at": "2025-10-03T17:53:35.233642"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1256,
+      "retrieved_at": "2025-10-03T17:53:36.808507"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1181,
+      "retrieved_at": "2025-10-03T17:53:40.063083"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1556,
+      "retrieved_at": "2025-10-03T22:51:44.065983"
+    },
+    "last_updated": "2025-10-03T22:51:44.066047"
+  }
+}

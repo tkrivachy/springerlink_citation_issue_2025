@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.722447",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07954-9",
+    "title": "Arctic amplification is caused by sea-ice loss under increasing CO",
+    "article_number": "121",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Aiguo Dai",
+      "Dehai Luo",
+      "Mirong Song",
+      "Jiping Liu"
+    ]
+  },
+  "article_index": 415,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T17:14:22.621502"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 439,
+      "retrieved_at": "2025-10-03T17:14:24.185759"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 405,
+      "retrieved_at": "2025-10-03T17:14:25.349435"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 559,
+      "retrieved_at": "2025-10-03T22:38:12.757697"
+    },
+    "last_updated": "2025-10-03T22:38:12.757889"
+  }
+}

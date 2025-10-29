@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.850806",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04122-w",
+    "title": "The study on the effect of flotation purification on the performance of α-hemihydrate gypsum prepared from phosphogypsum",
+    "article_number": "95",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mingxia Du",
+      "Jinming Wang",
+      "Faqin Dong",
+      "Zhaojia Wang",
+      "Feihua Yang",
+      "Hongbin Tan",
+      "Kaibin Fu",
+      "Weiqing Wang"
+    ]
+  },
+  "article_index": 29,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:04:21.931968"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T15:04:23.502109"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T15:04:24.817666"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T21:49:08.297487"
+    },
+    "last_updated": "2025-10-03T21:49:08.297534"
+  }
+}

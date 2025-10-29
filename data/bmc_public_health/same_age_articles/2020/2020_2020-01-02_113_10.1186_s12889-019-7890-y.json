@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.683162",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-019-7890-y",
+    "title": "HIV comprehensive knowledge and prevalence among young adolescents in Nigeria: evidence from Akwa Ibom AIDS indicator survey, 2017",
+    "article_number": "45",
+    "publication_date": "2020-01-13",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Titilope Badru",
+      "Jefferson Mwaisaka",
+      "Hadiza Khamofu",
+      "Chinedu Agbakwuru",
+      "Oluwasanmi Adedokun",
+      "Satish Raj Pandey",
+      "Patrick Essiet",
+      "Ezekiel James",
+      "Annie Chen-Carrington",
+      "Timothy D. Mastro",
+      "Sani H. Aliyu",
+      "Kwasi Torpey"
+    ]
+  },
+  "article_index": 113,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T13:36:48.496855"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T13:36:50.032611"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T13:36:51.387154"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 59,
+      "retrieved_at": "2025-10-03T21:16:18.297494"
+    },
+    "last_updated": "2025-10-03T21:16:18.297571"
+  }
+}

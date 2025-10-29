@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.690418",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08325-8",
+    "title": "A meta-analysis of catalytic literature data reveals property-performance correlations for the OCM reaction",
+    "article_number": "441",
+    "publication_date": "2019-01-25",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Roman Schmack",
+      "Alexandra Friedrich",
+      "Evgenii V. Kondratenko",
+      "Jörg Polte",
+      "Axel Werwatz",
+      "Ralph Kraehnert"
+    ]
+  },
+  "article_index": 122,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:30:57.557838"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 80,
+      "retrieved_at": "2025-10-03T17:30:59.250069"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 71,
+      "retrieved_at": "2025-10-03T17:31:00.396258"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T22:43:54.250190"
+    },
+    "last_updated": "2025-10-03T22:43:54.250415"
+  }
+}

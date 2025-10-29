@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.245897",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80570-0",
+    "title": "Breath biopsy of breast cancer using sensor array signals and machine learning analysis",
+    "article_number": "103",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Hsiao-Yu Yang",
+      "Yi-Chia Wang",
+      "Hsin-Yi Peng",
+      "Chi-Hsiang Huang"
+    ]
+  },
+  "article_index": 237,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:45:49.803257"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T14:45:51.327465"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T14:45:52.475965"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T21:41:46.592250"
+    },
+    "last_updated": "2025-10-03T21:41:46.592487"
+  }
+}

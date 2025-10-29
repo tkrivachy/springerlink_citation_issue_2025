@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.314377",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-57020-7",
+    "title": "Assessing the Potential Distribution of Asian Gypsy Moth in Canada: A Comparison of Two Methodological Approaches",
+    "article_number": "22",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Vivek Srivastava",
+      "Verena C. Griess",
+      "Melody A. Keena"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T14:24:45.147125"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T14:24:46.657308"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T14:24:47.913954"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T21:33:12.256670"
+    },
+    "last_updated": "2025-10-03T21:33:12.256873"
+  }
+}

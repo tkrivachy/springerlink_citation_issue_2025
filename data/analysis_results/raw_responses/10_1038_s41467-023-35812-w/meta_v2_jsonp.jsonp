@@ -1,0 +1,146 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-023-35812-w",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-023-35812-w",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-023-35812-w"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-023-35812-w.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-023-35812-w"
+        }
+      ],
+      "title": "Creating bulk ultrastable glasses by random particle bonding",
+      "creators": [
+        {
+          "creator": "Ozawa, Misaki"
+        },
+        {
+          "creator": "Iwashita, Yasutaka"
+        },
+        {
+          "ORCID": "0000-0001-7405-2178",
+          "creator": "Kob, Walter"
+        },
+        {
+          "ORCID": "0000-0001-9260-1951",
+          "creator": "Zamponi, Francesco"
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "openaccess": "true",
+      "doi": "10.1038/s41467-023-35812-w",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2023-01-07",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "14",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "7",
+      "journalId": "41467",
+      "onlineDate": "2023-01-07",
+      "coverDate": "2023-12",
+      "copyright": "©2023 The Author(s)",
+      "abstract": "Viable methods for the production of ultrastable glasses are much sought after. A potential approach for creating bulk ultrastable glasses, based on random particle bonding scenarios, is now numerically investigated. The method is expected to be applicable to molecular and colloidal glasses. A recent breakthrough in glass science has been the synthesis of ultrastable glasses via physical vapor deposition techniques. These samples display enhanced thermodynamic, kinetic and mechanical stability, with important implications for fundamental science and technological applications. However, the vapor deposition technique is limited to atomic, polymer and organic glass-formers and is only able to produce thin film samples. Here, we propose a novel approach to generate ultrastable glassy configurations in the bulk, via random particle bonding, and using computer simulations we show that this method does indeed allow for the production of ultrastable glasses. Our technique is in principle applicable to any molecular or soft matter system, such as colloidal particles with tunable bonding interactions, thus opening the way to the design of a large class of ultrastable glasses.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        },
+        {
+          "value": "Japan",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

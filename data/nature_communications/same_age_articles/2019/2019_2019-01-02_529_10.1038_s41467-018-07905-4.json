@@ -1,0 +1,66 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.734697",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07905-4",
+    "title": "A chemical biology toolbox to study protein methyltransferases and epigenetic signaling",
+    "article_number": "19",
+    "publication_date": "2019-01-03",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sebastian Scheer",
+      "Suzanne Ackloo",
+      "Tiago S. Medina",
+      "Matthieu Schapira",
+      "Fengling Li",
+      "Jennifer A. Ward",
+      "Andrew M. Lewis",
+      "Jeffrey P. Northrop",
+      "Paul L. Richardson",
+      "H. Ümit Kaniskan",
+      "Yudao Shen",
+      "Jing Liu",
+      "David Smil",
+      "David McLeod",
+      "Carlos A. Zepeda-Velazquez",
+      "Minkui Luo",
+      "Jian Jin",
+      "Dalia Barsyte-Lovejoy",
+      "Kilian V. M. Huber",
+      "Daniel D. De Carvalho",
+      "Masoud Vedadi",
+      "Colby Zaph",
+      "Peter J. Brown",
+      "Cheryl H. Arrowsmith"
+    ]
+  },
+  "article_index": 529,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T17:45:48.918774"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T17:45:50.488395"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T17:45:51.677496"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 127,
+      "retrieved_at": "2025-10-03T22:48:51.249891"
+    },
+    "last_updated": "2025-10-03T22:48:51.249993"
+  }
+}

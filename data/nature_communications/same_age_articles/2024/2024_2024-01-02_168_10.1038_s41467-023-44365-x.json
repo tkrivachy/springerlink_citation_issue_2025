@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.692226",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44365-x",
+    "title": "Mosaic: in-memory computing and routing for small-world spike-based neuromorphic systems",
+    "article_number": "142",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Thomas Dalgaty",
+      "Filippo Moro",
+      "Yiğit Demirağ",
+      "Alessio De Pra",
+      "Giacomo Indiveri",
+      "Elisa Vianello",
+      "Melika Payvand"
+    ]
+  },
+  "article_index": 168,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T19:07:42.054164"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T19:07:43.614127"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:07:44.914844"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T23:16:43.343820"
+    },
+    "last_updated": "2025-10-03T23:16:43.344010"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.757056",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-55",
+    "title": "Validation of public health competencies and impact variables for low- and middle-income countries",
+    "article_number": "55",
+    "publication_date": "2014-01-20",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Prisca AC Zwanikken",
+      "Lucy Alexander",
+      "Nguyen Thanh Huong",
+      "Xu Qian",
+      "Laura Magana Valladares",
+      "Nazar A Mohamed",
+      "Xiao Hua Ying",
+      "Maria Cecilia Gonzalez-Robledo",
+      "Le Cu Linh",
+      "Marwa SE Abuzaid Wadidi",
+      "Hanan Tahir",
+      "Sunisha Neupane",
+      "Albert Scherpbier"
+    ]
+  },
+  "article_index": 111,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T12:55:20.688901"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T12:55:22.259146"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T12:55:23.540702"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T21:01:03.042637"
+    },
+    "last_updated": "2025-10-03T21:01:03.042740"
+  }
+}

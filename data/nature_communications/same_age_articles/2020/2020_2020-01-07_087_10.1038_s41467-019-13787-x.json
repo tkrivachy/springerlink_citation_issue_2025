@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.886964",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13787-x",
+    "title": "Transmission of tauopathy strains is independent of their isoform composition",
+    "article_number": "7",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhuohao He",
+      "Jennifer D. McBride",
+      "Hong Xu",
+      "Lakshmi Changolkar",
+      "Soo-jung Kim",
+      "Bin Zhang",
+      "Sneha Narasimhan",
+      "Garrett S. Gibbons",
+      "Jing L. Guo",
+      "Michael Kozak",
+      "Gerard D. Schellenberg",
+      "John Q. Trojanowski",
+      "Virginia M. -Y. Lee"
+    ]
+  },
+  "article_index": 87,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:20:14.478029"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 137,
+      "retrieved_at": "2025-10-03T18:20:16.056166"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 126,
+      "retrieved_at": "2025-10-03T18:20:17.201819"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 160,
+      "retrieved_at": "2025-10-03T23:00:38.253531"
+    },
+    "last_updated": "2025-10-03T23:00:38.253719"
+  }
+}

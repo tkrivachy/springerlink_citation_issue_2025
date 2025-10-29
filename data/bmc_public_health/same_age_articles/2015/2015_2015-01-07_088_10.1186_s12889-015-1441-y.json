@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:50:01.248583",
+  "year": 2015,
+  "article_type": "comparison",
+  "publication_date": "2015-01-07",
+  "article_data": {
+    "doi": "10.1186/s12889-015-1441-y",
+    "title": "The validity of self-reported cancer screening history and the role of social disadvantage in Ontario, Canada",
+    "article_number": "28",
+    "publication_date": "2015-01-29",
+    "volume": "15",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Aisha Lofters",
+      "Mandana Vahabi",
+      "Richard H Glazier"
+    ]
+  },
+  "article_index": 88,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 81,
+      "retrieved_at": "2025-10-03T13:11:51.723237"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 69,
+      "retrieved_at": "2025-10-03T13:11:53.258425"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T13:11:54.563432"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 78,
+      "retrieved_at": "2025-10-03T21:07:09.359160"
+    },
+    "last_updated": "2025-10-03T21:07:09.359370"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.381500",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83561-7",
+    "title": "A novel method for intelligent operation and maintenance of transformers using deep visual large model DETR + X and digital twin",
+    "article_number": "98",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xuedong Zhang",
+      "Wenlei Sun",
+      "Ke Chen",
+      "Shijie Song"
+    ]
+  },
+  "article_index": 305,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:17:21.895300"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T16:17:23.450799"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:49:10.514443"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T22:17:49.490303"
+    },
+    "last_updated": "2025-10-07T09:49:10.514496"
+  }
+}

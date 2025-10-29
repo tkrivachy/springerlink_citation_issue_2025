@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:48:33.997251",
+  "year": 2008,
+  "article_type": "comparison",
+  "publication_date": "2008-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-8-37",
+    "title": "A hidden HIV epidemic among women in Vietnam",
+    "article_number": "37",
+    "publication_date": "2008-01-28",
+    "volume": "8",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Thu Anh Nguyen",
+      "Pauline Oosterhoff",
+      "Anita Hardon",
+      "Hien Nguyen Tran",
+      "Roel A Coutinho",
+      "Pamela Wright"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T12:30:32.948598"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T12:30:34.457037"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T12:30:35.783796"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T20:52:13.265707"
+    },
+    "last_updated": "2025-10-03T20:52:13.265910"
+  }
+}

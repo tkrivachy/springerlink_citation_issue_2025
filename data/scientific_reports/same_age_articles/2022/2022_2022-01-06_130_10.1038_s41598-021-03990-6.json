@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.870902",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03990-6",
+    "title": "In silico construction of a multiepitope Zika virus vaccine using immunoinformatics tools",
+    "article_number": "53",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Ana Clara Barbosa Antonelli",
+      "Vinnycius Pereira Almeida",
+      "Fernanda Oliveira Feitosa de Castro",
+      "Jacyelle Medeiros Silva",
+      "Irmtraut Araci Hoffmann Pfrimer",
+      "Edecio Cunha-Neto",
+      "Andréa Queiroz Maranhão",
+      "Marcelo Macedo Brígido",
+      "Renato Oliveira Resende",
+      "Anamélia Lorenzetti Bocca",
+      "Simone Gonçalves Fonseca"
+    ]
+  },
+  "article_index": 130,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T15:03:19.559744"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 34,
+      "retrieved_at": "2025-10-03T15:03:21.254142"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T15:03:22.538754"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T21:48:40.218471"
+    },
+    "last_updated": "2025-10-03T21:48:40.218675"
+  }
+}

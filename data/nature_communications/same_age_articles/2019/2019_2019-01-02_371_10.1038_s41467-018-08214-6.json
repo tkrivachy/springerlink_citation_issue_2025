@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.717817",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08214-6",
+    "title": "Controlling the fluorescence and room-temperature phosphorescence behaviour of carbon nanodots with inorganic crystalline nanocomposites",
+    "article_number": "206",
+    "publication_date": "2019-01-14",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "David C. Green",
+      "Mark A. Holden",
+      "Mark A. Levenstein",
+      "Shuheng Zhang",
+      "Benjamin R. G. Johnson",
+      "Julia Gala de Pablo",
+      "Andrew Ward",
+      "Stanley W. Botchway",
+      "Fiona C. Meldrum"
+    ]
+  },
+  "article_index": 371,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T17:22:25.171344"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 152,
+      "retrieved_at": "2025-10-03T17:22:26.700626"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 144,
+      "retrieved_at": "2025-10-03T17:22:27.853768"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 154,
+      "retrieved_at": "2025-10-03T22:40:53.668352"
+    },
+    "last_updated": "2025-10-03T22:40:53.668400"
+  }
+}

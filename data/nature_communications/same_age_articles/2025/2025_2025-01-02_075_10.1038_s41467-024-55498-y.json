@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.520577",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55498-y",
+    "title": "A new-to-nature photosynthesis system enhances utilization of one-carbon substrates in ",
+    "article_number": "145",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tian Tong",
+      "Xiulai Chen",
+      "Kexin Tang",
+      "Wanrong Ma",
+      "Cong Gao",
+      "Wei Song",
+      "Jing Wu",
+      "Xiaoling Wang",
+      "Gao-Qiang Liu",
+      "Liming Liu"
+    ]
+  },
+  "article_index": 75,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:26:57.197283"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:26:58.741038"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:26:59.916906"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:23:05.465869"
+    },
+    "last_updated": "2025-10-03T23:23:05.465967"
+  }
+}

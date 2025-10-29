@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.202161",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20169-1",
+    "title": "Pillar-beam structures prevent layered cathode materials from destructive phase transitions",
+    "article_number": "13",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yuesheng Wang",
+      "Zimin Feng",
+      "Peixin Cui",
+      "Wen Zhu",
+      "Yue Gong",
+      "Marc-André Girard",
+      "Gilles Lajoie",
+      "Julie Trottier",
+      "Qinghua Zhang",
+      "Lin Gu",
+      "Yan Wang",
+      "Wenhua Zuo",
+      "Yong Yang",
+      "John B. Goodenough",
+      "Karim Zaghib"
+    ]
+  },
+  "article_index": 179,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 115,
+      "retrieved_at": "2025-10-03T18:27:45.396016"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 131,
+      "retrieved_at": "2025-10-03T18:27:46.907251"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T18:27:48.355631"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 146,
+      "retrieved_at": "2025-10-03T23:03:15.092260"
+    },
+    "last_updated": "2025-10-03T23:03:15.092484"
+  }
+}

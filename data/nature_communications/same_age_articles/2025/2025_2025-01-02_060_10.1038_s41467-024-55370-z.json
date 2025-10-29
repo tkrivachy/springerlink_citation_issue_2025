@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.518521",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55370-z",
+    "title": "High-purity hydrogen production from dehydrogenation of methylcyclohexane catalyzed by zeolite-encapsulated subnanometer platinum-iron clusters",
+    "article_number": "92",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhe He",
+      "Kailang Li",
+      "Tianxiang Chen",
+      "Yunchao Feng",
+      "Eduardo Villalobos-Portillo",
+      "Carlo Marini",
+      "Tsz Woon Benedict Lo",
+      "Fuyuan Yang",
+      "Liang Zhang",
+      "Lichen Liu"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:31:14.370936"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T19:31:15.883778"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:31:17.047977"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T23:24:25.872380"
+    },
+    "last_updated": "2025-10-03T23:24:25.872470"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.651837",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35720-5",
+    "title": "The mitochondrial Hsp70 controls the assembly of the F",
+    "article_number": "39",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiyao Song",
+      "Liesa Steidle",
+      "Isabelle Steymans",
+      "Jasjot Singh",
+      "Anne Sanner",
+      "Lena Böttinger",
+      "Dominic Winter",
+      "Thomas Becker"
+    ]
+  },
+  "article_index": 95,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T18:49:57.534101"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:49:59.075882"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T18:50:00.342123"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:10:39.383707"
+    },
+    "last_updated": "2025-10-03T23:10:39.383897"
+  }
+}

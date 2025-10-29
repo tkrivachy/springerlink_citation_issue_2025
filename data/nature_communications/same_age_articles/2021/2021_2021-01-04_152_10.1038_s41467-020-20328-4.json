@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.198544",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20328-4",
+    "title": "Transcriptional and morphological profiling of parvalbumin interneuron subpopulations in the mouse hippocampus",
+    "article_number": "108",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Lin Que",
+      "David Lukacsovich",
+      "Wenshu Luo",
+      "Csaba Földy"
+    ]
+  },
+  "article_index": 152,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 40,
+      "retrieved_at": "2025-10-03T18:23:53.904198"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T18:23:55.469349"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:23:56.609784"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 55,
+      "retrieved_at": "2025-10-03T23:01:52.989104"
+    },
+    "last_updated": "2025-10-03T23:01:52.989152"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.871891",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03933-1",
+    "title": "Stent grafts improved patency of ruptured hemodialysis vascular accesses",
+    "article_number": "51",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Min-Tsun Liao",
+      "Chien-Ming Luo",
+      "Ming-Chien Hsieh",
+      "Mu-Yang Hsieh",
+      "Chih-Ching Lin",
+      "Wei-Chu Chie",
+      "Ten-Fang Yang",
+      "Chih-Cheng Wu"
+    ]
+  },
+  "article_index": 139,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:02:11.724044"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:02:13.300173"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:02:14.465690"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:48:13.236885"
+    },
+    "last_updated": "2025-10-03T21:48:13.237075"
+  }
+}

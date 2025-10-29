@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.179091",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20526-0",
+    "title": "Distinct populations of cortical pyramidal neurons mediate drug reward and aversion",
+    "article_number": "182",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "A. F. Garcia",
+      "E. A. Crummy",
+      "I. G. Webb",
+      "M. N. Nooney",
+      "S. M. Ferguson"
+    ]
+  },
+  "article_index": 35,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T18:27:12.508755"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T18:27:14.081681"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T18:27:15.285598"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T23:03:02.528541"
+    },
+    "last_updated": "2025-10-03T23:03:02.528729"
+  }
+}

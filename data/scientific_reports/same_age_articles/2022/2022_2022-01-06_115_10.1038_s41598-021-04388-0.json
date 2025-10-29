@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.869087",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04388-0",
+    "title": "Stage specific comparative transcriptomic analysis to reveal gene networks regulating iron and zinc content in pearl millet [",
+    "article_number": "276",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "C. Tara Satyavathi",
+      "Rukam S. Tomar",
+      "Supriya Ambawat",
+      "Jasminkumar Kheni",
+      "Shital M. Padhiyar",
+      "Hiralben Desai",
+      "S. B. Bhatt",
+      "M. S. Shitap",
+      "Ramesh Chand Meena",
+      "Tripti Singhal",
+      "S. Mukesh Sankar",
+      "S. P. Singh",
+      "Vikas Khandelwal"
+    ]
+  },
+  "article_index": 115,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:05:28.198013"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:05:29.719755"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T15:05:30.982399"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T21:49:33.700292"
+    },
+    "last_updated": "2025-10-03T21:49:33.700377"
+  }
+}

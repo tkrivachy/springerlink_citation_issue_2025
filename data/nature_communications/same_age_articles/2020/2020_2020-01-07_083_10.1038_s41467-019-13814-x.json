@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.886525",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13814-x",
+    "title": "A van der Waals antiferromagnetic topological insulator with weak interlayer magnetic coupling",
+    "article_number": "97",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Chaowei Hu",
+      "Kyle N. Gordon",
+      "Pengfei Liu",
+      "Jinyu Liu",
+      "Xiaoqing Zhou",
+      "Peipei Hao",
+      "Dushyant Narayan",
+      "Eve Emmanouilidou",
+      "Hongyi Sun",
+      "Yuntian Liu",
+      "Harlan Brawer",
+      "Arthur P. Ramirez",
+      "Lei Ding",
+      "Huibo Cao",
+      "Qihang Liu",
+      "Dan Dessau",
+      "Ni Ni"
+    ]
+  },
+  "article_index": 83,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 237,
+      "retrieved_at": "2025-10-03T18:15:39.282639"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 229,
+      "retrieved_at": "2025-10-03T18:15:41.074723"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 206,
+      "retrieved_at": "2025-10-03T18:15:42.555747"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 262,
+      "retrieved_at": "2025-10-03T22:58:59.998164"
+    },
+    "last_updated": "2025-10-03T22:58:59.998407"
+  }
+}

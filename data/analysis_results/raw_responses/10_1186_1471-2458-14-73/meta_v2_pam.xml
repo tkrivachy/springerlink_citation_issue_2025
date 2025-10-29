@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns3="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-14-73</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <record>
+      <ns0:message>
+        <ns0:article>
+          <html:head>
+            
+	    
+            <dc:identifier>doi:10.1186/1471-2458-14-73</dc:identifier>
+            
+	    
+            <dc:language>en</dc:language>
+            
+	    
+            <dc:title>Assessing the construct validity and reliability of the parental perception on antibiotics (PAPA) scales</dc:title>
+            
+	    
+            <dc:creator>Alumran, Arwa</dc:creator>
+            
+	    
+            <dc:creator>Hou, Xiang-Yu</dc:creator>
+            
+	    
+            <dc:creator>Sun, Jiandong</dc:creator>
+            
+	    
+            <dc:creator>Yousef, Abdullah A</dc:creator>
+            
+	    
+            <dc:creator>Hurst, Cameron</dc:creator>
+            
+	    
+            <ns3:publicationName>BMC Public Health</ns3:publicationName>
+            
+	    
+            <ns3:issn/>
+            
+	    
+            <ns3:eIssn>1471-2458</ns3:eIssn>
+            
+	    
+            <ns3:doi>10.1186/1471-2458-14-73</ns3:doi>
+            
+	    
+            <dc:publisher>BioMed Central</dc:publisher>
+            
+	    
+            <dc:publisher>BioMed Central</dc:publisher>
+            
+	    
+            <ns3:coverDate>2014-12</ns3:coverDate>
+            
+	    
+            <ns3:publicationDate>2014-01-23</ns3:publicationDate>
+            
+	    
+            <ns3:volume>14</ns3:volume>
+            
+	    
+            <ns3:number>1</ns3:number>
+            
+	    
+            <ns3:startingPage>1</ns3:startingPage>
+            
+	    
+            <ns3:endingPage>9</ns3:endingPage>
+            
+	    
+            <ns3:url>http://dx.doi.org/10.1186/1471-2458-14-73</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.biomedcentral.com/openurl?doi=10.1186/1471-2458-14-73</ns3:url>
+            
+	    
+            <ns3:url ns3:platform="web">https://www.biomedcentral.com/openurl/pdf?id=doi:10.1186/1471-2458-14-73</ns3:url>
+            
+	    
+            <ns3:genre>OriginalPaper</ns3:genre>
+            
+	    
+            <ns3:genre>Research article</ns3:genre>
+            
+	    
+            <ns3:copyright>©2014 Alumran et al.; licensee BioMed Central Ltd.</ns3:copyright>
+            
+	    
+            <ns3:keyword>Antibiotic overuse</ns3:keyword>
+            
+	    
+            <ns3:keyword>Psychosocial</ns3:keyword>
+            
+	    
+            <ns3:keyword>Measurement instrument</ns3:keyword>
+            
+	    
+            <ns3:keyword>Reliability</ns3:keyword>
+            
+	    
+            <ns3:keyword>Validity</ns3:keyword>
+            
+	    
+            <ns3:keyword>Confirmatory factor analysis</ns3:keyword>
+            
+	    
+            <ns3:keyword>Saudi Arabia</ns3:keyword>
+            
+	    
+            <dc:subject>Medicine &amp; Public Health</dc:subject>
+            
+	    
+            <dc:subject>Public Health</dc:subject>
+            
+	    
+            <dc:subject>Medicine/Public Health, general</dc:subject>
+            
+	    
+            <dc:subject>Epidemiology</dc:subject>
+            
+	    
+            <dc:subject>Environmental Health</dc:subject>
+            
+	    
+            <dc:subject>Biostatistics</dc:subject>
+            
+	    
+            <dc:subject>Vaccine</dc:subject>
+            
+	  
+          </html:head>
+          <html:body>
+            <html:h1>Abstract</html:h1>
+            <html:p>Background</html:p>
+            <html:p>The overuse of antibiotics is becoming an increasing concern. Antibiotic resistance, which increases both the burden of disease, and the cost of health services, is perhaps the most profound impact of antibiotics overuse. Attempts have been made to develop instruments to measure the psychosocial constructs underlying antibiotics use, however, none of these instruments have undergone thorough psychometric validation. This study evaluates the psychometric properties of the Parental Perceptions on Antibiotics (PAPA) scales. The PAPA scales attempt to measure the factors influencing parental use of antibiotics in children.</html:p>
+            <html:p>Methods</html:p>
+            <html:p>1111 parents of children younger than 12 years old were recruited from primary schools’ parental meetings in the Eastern Province of Saudi Arabia from September 2012 to January 2013. The structure of the PAPA instrument was validated using Confirmatory Factor Analysis (CFA) with measurement model fit evaluated using the raw and scaled χ ^2, Goodness of Fit Index, and Root Mean Square Error of Approximation.</html:p>
+            <html:p>Results</html:p>
+            <html:p>A five-factor model was confirmed with the model showing good fit. Constructs in the model include: Knowledge and Beliefs, Behaviors, Sources of information, Adherence, and Awareness about antibiotics resistance . The instrument was shown to have good internal consistency, and good discriminant and convergent validity.</html:p>
+            <html:p>Conclusion</html:p>
+            <html:p>The availability of an instrument able to measure the psychosocial factors underlying antibiotics usage allows the risk factors underlying antibiotic use and overuse to now be investigated.</html:p>
+          </html:body>
+        </ns0:article>
+      </ns0:message>
+      <extendedMeta>
+        <contentType>Article</contentType>
+        <journalId>12889</journalId>
+        <issueType>Regular</issueType>
+        <topicalCollection>Biostatistics and methods</topicalCollection>
+        <openAccess>true</openAccess>
+        <onlineDate>2014-01-23</onlineDate>
+        <authors>
+          <author>Alumran, Arwa</author>
+          <author>Hou, Xiang-Yu</author>
+          <author>Sun, Jiandong</author>
+          <author>Yousef, Abdullah A</author>
+          <author>Hurst, Cameron</author>
+        </authors>
+        <disciplines>
+          <discipline id="2977" term="Public Health"/>
+          <discipline id="4140" term="Epidemiology"/>
+          <discipline id="4264" term="Environmental Health"/>
+          <discipline id="5065" term="Biostatistics"/>
+          <discipline id="3357" term="Pharmacology"/>
+        </disciplines>
+      </extendedMeta>
+    </record>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Biostatistics</facet-value>
+      <facet-value count="1">Environmental Health</facet-value>
+      <facet-value count="1">Epidemiology</facet-value>
+      <facet-value count="1">Medicine &amp; Public Health</facet-value>
+      <facet-value count="1">Medicine/Public Health, general</facet-value>
+      <facet-value count="1">Public Health</facet-value>
+      <facet-value count="1">Vaccine</facet-value>
+    </facet>
+    <facet name="keyword">
+      <facet-value count="1">Antibiotic overuse</facet-value>
+      <facet-value count="1">Confirmatory factor analysis</facet-value>
+      <facet-value count="1">Measurement instrument</facet-value>
+      <facet-value count="1">Psychosocial</facet-value>
+      <facet-value count="1">Reliability</facet-value>
+      <facet-value count="1">Saudi Arabia</facet-value>
+      <facet-value count="1">Validity</facet-value>
+    </facet>
+    <facet name="pub">
+      <facet-value count="1">BMC Public Health</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2014</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">Australia</facet-value>
+      <facet-value count="1">Saudi Arabia</facet-value>
+      <facet-value count="1">Thailand</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

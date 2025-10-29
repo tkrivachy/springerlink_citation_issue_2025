@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.881183",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03912-6",
+    "title": "Interrelationship between 2019-nCov receptor DPP4 and diabetes mellitus targets based on protein interaction network",
+    "article_number": "188",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Qian Gao",
+      "Wenjun Zhang",
+      "Tingting Li",
+      "Guojun Yang",
+      "Wei Zhu",
+      "Naijun Chen",
+      "Huawei Jin"
+    ]
+  },
+  "article_index": 226,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:10:51.361758"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:10:52.905541"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T15:10:54.062380"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T21:51:42.773719"
+    },
+    "last_updated": "2025-10-03T21:51:42.773818"
+  }
+}

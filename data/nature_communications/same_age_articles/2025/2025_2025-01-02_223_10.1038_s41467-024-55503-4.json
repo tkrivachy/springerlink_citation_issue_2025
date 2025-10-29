@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.541972",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55503-4",
+    "title": "Molecular Engineering of Direct Activated NIR-II Chemiluminescence Platform for In Vivo Chemiluminescence-fluorescence Duplex Imaging",
+    "article_number": "238",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Zhongxiang Chen",
+      "Qian Li",
+      "Ying Wu",
+      "Jianyong Liu",
+      "Luntao Liu",
+      "Lichao Su",
+      "Rongrong Wu",
+      "Jibin Song"
+    ]
+  },
+  "article_index": 223,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T19:43:18.175709"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:43:19.872653"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:43:21.034277"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T23:28:44.324766"
+    },
+    "last_updated": "2025-10-03T23:28:44.324959"
+  }
+}

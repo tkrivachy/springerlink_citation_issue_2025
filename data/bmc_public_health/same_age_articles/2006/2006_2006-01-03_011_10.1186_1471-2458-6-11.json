@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:48:14.797867",
+  "year": 2006,
+  "article_type": "comparison",
+  "publication_date": "2006-01-03",
+  "article_data": {
+    "doi": "10.1186/1471-2458-6-11",
+    "title": "Do people with risky behaviours participate in biomedical cohort studies?",
+    "article_number": "11",
+    "publication_date": "2006-01-23",
+    "volume": "6",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Anne W Taylor",
+      "Eleonora Dal Grande",
+      "Tiffany Gill",
+      "Catherine R Chittleborough",
+      "David H Wilson",
+      "Robert J Adams",
+      "Janet F Grant",
+      "Patrick Phillips",
+      "Richard E Ruffin"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T12:25:37.839223"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T12:25:39.343901"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 39,
+      "retrieved_at": "2025-10-03T12:25:40.627433"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T20:50:31.526887"
+    },
+    "last_updated": "2025-10-03T20:50:31.527079"
+  }
+}

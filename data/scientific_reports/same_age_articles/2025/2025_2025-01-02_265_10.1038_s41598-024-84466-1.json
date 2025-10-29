@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.377372",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84466-1",
+    "title": "A genome-wide association study of high-sensitivity C-reactive protein in a large Korean population highlights its genetic relationship with cholesterol metabolism",
+    "article_number": "189",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kwangyeon Oh",
+      "Minju Yuk",
+      "Soyoun Yang",
+      "Jiyeong Youn",
+      "Qian Dong",
+      "Zhaoming Wang",
+      "Nan Song"
+    ]
+  },
+  "article_index": 265,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T16:15:03.264373"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:15:04.978362"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-07T09:48:44.401554"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T22:17:01.636826"
+    },
+    "last_updated": "2025-10-07T09:48:44.401786"
+  }
+}

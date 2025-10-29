@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.656693",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10057-0",
+    "title": "Evaluating the impact of Archway: a personalized program for 1st year student success and mental health and wellbeing",
+    "article_number": "59",
+    "publication_date": "2021-01-06",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Matthew Y. W. Kwan",
+      "Denver Brown",
+      "James MacKillop",
+      "Sean Beaudette",
+      "Sean Van Koughnett",
+      "Catharine Munn"
+    ]
+  },
+  "article_index": 235,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:59:48.385446"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:59:49.901487"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:59:51.172226"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:24:25.568014"
+    },
+    "last_updated": "2025-10-03T21:24:25.568205"
+  }
+}

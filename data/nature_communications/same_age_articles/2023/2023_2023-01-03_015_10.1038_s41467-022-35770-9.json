@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.632940",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35770-9",
+    "title": "Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland",
+    "article_number": "90",
+    "publication_date": "2023-01-06",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Julien Riou",
+      "Anthony Hauser",
+      "Anna Fesser",
+      "Christian L. Althaus",
+      "Matthias Egger",
+      "Garyfallos Konstantinoudis"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T18:54:08.707271"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:54:10.224972"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:54:11.376062"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T23:12:01.807524"
+    },
+    "last_updated": "2025-10-03T23:12:01.807716"
+  }
+}

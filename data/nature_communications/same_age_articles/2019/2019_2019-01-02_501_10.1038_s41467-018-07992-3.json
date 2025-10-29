@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.731674",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07992-3",
+    "title": "Fecal pollution can explain antibiotic resistance gene abundances in anthropogenically impacted environments",
+    "article_number": "80",
+    "publication_date": "2019-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Antti Karkman",
+      "Katariina Pärnänen",
+      "D. G. Joakim Larsson"
+    ]
+  },
+  "article_index": 501,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 457,
+      "retrieved_at": "2025-10-03T17:44:56.123178"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 509,
+      "retrieved_at": "2025-10-03T17:44:57.671811"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 455,
+      "retrieved_at": "2025-10-03T17:44:58.845772"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 536,
+      "retrieved_at": "2025-10-03T22:48:33.348678"
+    },
+    "last_updated": "2025-10-03T22:48:33.348869"
+  }
+}

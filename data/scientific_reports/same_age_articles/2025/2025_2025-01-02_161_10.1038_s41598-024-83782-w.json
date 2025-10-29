@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.365560",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-83782-w",
+    "title": "The effect of temperature constraints on the treatment of tumors using focused ultrasound-induced acoustic streaming",
+    "article_number": "49",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Sebastian E. N. Price",
+      "Magnus Aa. Gjennestad",
+      "Signe Kjelstrup",
+      "Rune Hansen"
+    ]
+  },
+  "article_index": 161,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:59:36.822297"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T16:59:38.356071"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T16:59:39.534800"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:32:40.483820"
+    },
+    "last_updated": "2025-10-03T22:32:40.484012"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.312977",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56697-0",
+    "title": "Endoscopic diagnosis and treatment planning for colorectal polyps using a deep-learning model",
+    "article_number": "30",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Eun Mi Song",
+      "Beomhee Park",
+      "Chun-Ae Ha",
+      "Sung Wook Hwang",
+      "Sang Hyoung Park",
+      "Dong-Hoon Yang",
+      "Byong Duk Ye",
+      "Seung-Jae Myung",
+      "Suk-Kyun Yang",
+      "Namkug Kim",
+      "Jeong-Sik Byeon"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 85,
+      "retrieved_at": "2025-10-03T14:30:21.086087"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 75,
+      "retrieved_at": "2025-10-03T14:30:22.610527"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 66,
+      "retrieved_at": "2025-10-03T14:30:23.961878"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T21:35:29.441572"
+    },
+    "last_updated": "2025-10-03T21:35:29.441761"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.633590",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-023-35799-4",
+    "title": "Biophysical impacts of earth greening can substantially mitigate regional land surface temperature warming",
+    "article_number": "121",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yitao Li",
+      "Zhao-Liang Li",
+      "Hua Wu",
+      "Chenghu Zhou",
+      "Xiangyang Liu",
+      "Pei Leng",
+      "Peng Yang",
+      "Wenbin Wu",
+      "Ronglin Tang",
+      "Guo-Fei Shang",
+      "Lingling Ma"
+    ]
+  },
+  "article_index": 21,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T18:44:55.667232"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 128,
+      "retrieved_at": "2025-10-03T18:44:57.220117"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T18:44:58.581585"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 142,
+      "retrieved_at": "2025-10-03T23:08:58.817101"
+    },
+    "last_updated": "2025-10-03T23:08:58.817296"
+  }
+}

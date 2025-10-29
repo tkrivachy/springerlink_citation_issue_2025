@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:18.586021",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-05",
+  "article_data": {
+    "doi": "10.1186/s12889-021-12372-6",
+    "title": "Facilitators and barriers to compliance with COVID-19 guidelines: a structural topic modelling analysis of free-text data from 17,500 UK adults",
+    "article_number": "34",
+    "publication_date": "2022-01-06",
+    "volume": "22",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Liam Wright",
+      "Elise Paul",
+      "Andrew Steptoe",
+      "Daisy Fancourt"
+    ]
+  },
+  "article_index": 20,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T14:04:46.579814"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T14:04:48.112763"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:04:49.371715"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T21:26:12.205886"
+    },
+    "last_updated": "2025-10-03T21:26:12.206100"
+  }
+}

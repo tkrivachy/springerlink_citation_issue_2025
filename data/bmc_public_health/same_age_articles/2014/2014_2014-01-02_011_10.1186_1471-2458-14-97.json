@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.742114",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-97",
+    "title": "Diabetes mellitus in North West Ethiopia: a community based study",
+    "article_number": "97",
+    "publication_date": "2014-01-30",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Solomon Mekonnen Abebe",
+      "Yemane Berhane",
+      "Alemayehu Worku",
+      "Abebayehu Assefa"
+    ]
+  },
+  "article_index": 11,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 129,
+      "retrieved_at": "2025-10-03T12:55:00.004526"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T12:55:01.548219"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 90,
+      "retrieved_at": "2025-10-03T12:55:02.935704"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T21:00:55.147117"
+    },
+    "last_updated": "2025-10-03T21:00:55.147308"
+  }
+}

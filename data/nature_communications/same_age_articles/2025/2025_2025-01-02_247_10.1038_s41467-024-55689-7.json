@@ -1,0 +1,55 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.547680",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55689-7",
+    "title": "Helical dislocation-driven plasticity and flexible high-performance thermoelectric generator in ",
+    "article_number": "128",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mingyuan Hu",
+      "Jianmin Yang",
+      "Yan Wang",
+      "Junchao Xia",
+      "Quan Gan",
+      "Shuhuan Yang",
+      "Juping Xu",
+      "Shulin Liu",
+      "Wen Yin",
+      "Baohai Jia",
+      "Lin Xie",
+      "Haifeng Li",
+      "Jiaqing He"
+    ]
+  },
+  "article_index": 247,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:15:25.338630"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:15:26.910437"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:15:28.076725"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:19:20.871426"
+    },
+    "last_updated": "2025-10-03T23:19:20.871475"
+  }
+}

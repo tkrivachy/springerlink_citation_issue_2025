@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.212655",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80576-8",
+    "title": "Investigating the influence of physiologically relevant hydrostatic pressure on CHO cell batch culture",
+    "article_number": "162",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Menglin Shang",
+      "Taehong Kwon",
+      "Jean-Francois P. Hamel",
+      "Chwee Teck Lim",
+      "Bee Luan Khoo",
+      "Jongyoon Han"
+    ]
+  },
+  "article_index": 70,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:35:22.029554"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:35:23.528212"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:35:24.691862"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:37:33.588550"
+    },
+    "last_updated": "2025-10-03T21:37:33.588653"
+  }
+}

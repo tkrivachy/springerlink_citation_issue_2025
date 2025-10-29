@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.867649",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-04015-y",
+    "title": "Novel ratio-metric features enable the identification of new driver genes across cancer types",
+    "article_number": "5",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Malvika Sudhakar",
+      "Raghunathan Rengaswamy",
+      "Karthik Raman"
+    ]
+  },
+  "article_index": 103,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:00:25.795111"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T15:00:27.365423"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T15:00:28.560078"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T21:47:29.005479"
+    },
+    "last_updated": "2025-10-03T21:47:29.005671"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.631676",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-023-35790-z",
+    "title": "Thermodynamic architecture and conformational plasticity of GPCRs",
+    "article_number": "128",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sathvik Anantakrishnan",
+      "Athi N. Naganathan"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T18:55:56.017126"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T18:55:57.549976"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T18:55:58.855562"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T23:12:40.003576"
+    },
+    "last_updated": "2025-10-03T23:12:40.003621"
+  }
+}

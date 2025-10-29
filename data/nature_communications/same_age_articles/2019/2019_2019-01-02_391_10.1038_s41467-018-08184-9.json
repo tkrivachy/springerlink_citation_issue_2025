@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.719881",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08184-9",
+    "title": "Feature-specific prediction errors and surprise across macaque fronto-striatal circuits",
+    "article_number": "176",
+    "publication_date": "2019-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mariann Oemisch",
+      "Stephanie Westendorff",
+      "Marzyeh Azimi",
+      "Seyed Alireza Hassani",
+      "Salva Ardid",
+      "Paul Tiesinga",
+      "Thilo Womelsdorf"
+    ]
+  },
+  "article_index": 391,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T18:06:08.302723"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 56,
+      "retrieved_at": "2025-10-03T18:06:09.893486"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 58,
+      "retrieved_at": "2025-10-03T18:06:11.250245"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 70,
+      "retrieved_at": "2025-10-03T22:55:59.216439"
+    },
+    "last_updated": "2025-10-03T22:55:59.216632"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.540984",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55534-x",
+    "title": "Titanium nitride sensor for selective NO",
+    "article_number": "182",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xuefei Zhao",
+      "Zhihang Xu",
+      "Zhaorui Zhang",
+      "Jiahao Liu",
+      "Xiaohui Yan",
+      "Ye Zhu",
+      "J. Paul Attfield",
+      "Minghui Yang"
+    ]
+  },
+  "article_index": 215,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:38:18.513491"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 23,
+      "retrieved_at": "2025-10-03T19:38:20.076913"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:38:21.250266"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T23:26:50.148234"
+    },
+    "last_updated": "2025-10-03T23:26:50.148464"
+  }
+}

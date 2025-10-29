@@ -1,0 +1,63 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.684663",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08378-9",
+    "title": "Implantation initiation of self-assembled embryo-like structures generated using three types of mouse blastocyst-derived stem cells",
+    "article_number": "496",
+    "publication_date": "2019-01-30",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shaopeng Zhang",
+      "Tianzhi Chen",
+      "Naixin Chen",
+      "Dengfeng Gao",
+      "Bingbo Shi",
+      "Shuangbo Kong",
+      "Rachel Claire West",
+      "Ye Yuan",
+      "Minglei Zhi",
+      "Qingqing Wei",
+      "Jinzhu Xiang",
+      "Haiyuan Mu",
+      "Liang Yue",
+      "Xiaohua Lei",
+      "Xuepeng Wang",
+      "Liang Zhong",
+      "Hui Liang",
+      "Suying Cao",
+      "Juan Carlos Izpisua Belmonte",
+      "Haibin Wang",
+      "Jianyong Han"
+    ]
+  },
+  "article_index": 71,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:13:08.587114"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 77,
+      "retrieved_at": "2025-10-03T17:13:10.162105"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 82,
+      "retrieved_at": "2025-10-03T17:13:11.366630"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 103,
+      "retrieved_at": "2025-10-03T22:37:43.973703"
+    },
+    "last_updated": "2025-10-03T22:37:43.973896"
+  }
+}

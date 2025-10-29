@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.643663",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35524-7",
+    "title": "Adipose tissue is a source of regenerative cells that augment the repair of skeletal muscle after injury",
+    "article_number": "80",
+    "publication_date": "2023-01-05",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Quentin Sastourné-Arrey",
+      "Maxime Mathieu",
+      "Xavier Contreras",
+      "Sylvie Monferran",
+      "Virginie Bourlier",
+      "Marta Gil-Ortega",
+      "Enda Murphy",
+      "Claire Laurens",
+      "Audrey Varin",
+      "Christophe Guissard",
+      "Corinne Barreau",
+      "Mireille André",
+      "Noémie Juin",
+      "Marie Marquès",
+      "Benoit Chaput",
+      "Cédric Moro",
+      "Donal O’Gorman",
+      "Louis Casteilla",
+      "Amandine Girousse",
+      "Coralie Sengenès"
+    ]
+  },
+  "article_index": 60,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 48,
+      "retrieved_at": "2025-10-03T18:53:01.228585"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 60,
+      "retrieved_at": "2025-10-03T18:53:02.785293"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 36,
+      "retrieved_at": "2025-10-03T18:53:03.960295"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 63,
+      "retrieved_at": "2025-10-03T23:11:40.235408"
+    },
+    "last_updated": "2025-10-03T23:11:40.235463"
+  }
+}

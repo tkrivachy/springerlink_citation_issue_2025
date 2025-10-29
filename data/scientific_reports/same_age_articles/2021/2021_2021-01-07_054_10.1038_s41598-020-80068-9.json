@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.210237",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80068-9",
+    "title": "Automated segmentation of endometrial cancer on MR images using deep learning",
+    "article_number": "179",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Erlend Hodneland",
+      "Julie A. Dybvik",
+      "Kari S. Wagner-Larsen",
+      "Veronika Šoltészová",
+      "Antonella Z. Munthe-Kaas",
+      "Kristine E. Fasmer",
+      "Camilla Krakstad",
+      "Arvid Lundervold",
+      "Alexander S. Lundervold",
+      "Øyvind Salvesen",
+      "Bradley J. Erickson",
+      "Ingfrid Haldorsen"
+    ]
+  },
+  "article_index": 54,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T14:55:36.262072"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 49,
+      "retrieved_at": "2025-10-03T14:55:37.825460"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 41,
+      "retrieved_at": "2025-10-03T14:55:39.145607"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T21:45:32.897947"
+    },
+    "last_updated": "2025-10-03T21:45:32.898140"
+  }
+}

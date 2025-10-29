@@ -1,0 +1,69 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.843527",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03892-7",
+    "title": "Bedside detection of intracranial midline shift using portable magnetic resonance imaging",
+    "article_number": "67",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Kevin N. Sheth",
+      "Matthew M. Yuen",
+      "Mercy H. Mazurek",
+      "Bradley A. Cahn",
+      "Anjali M. Prabhat",
+      "Sadegh Salehi",
+      "Jill T. Shah",
+      "Samantha By",
+      "E. Brian Welch",
+      "Michal Sofka",
+      "Laura I. Sacolick",
+      "Jennifer A. Kim",
+      "Seyedmehdi Payabvash",
+      "Guido J. Falcone",
+      "Emily J. Gilmore",
+      "David Y. Hwang",
+      "Charles Matouk",
+      "Barbara Gordon-Kundu",
+      "Adrienne Ward RN",
+      "Nils Petersen",
+      "Joseph Schindler",
+      "Kevin T. Gobeske",
+      "Lauren H. Sansing",
+      "Gordon Sze",
+      "Matthew S. Rosen",
+      "W. Taylor Kimberly",
+      "Prantik Kundu"
+    ]
+  },
+  "article_index": 6,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T15:15:58.384081"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 43,
+      "retrieved_at": "2025-10-03T15:15:59.901577"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 31,
+      "retrieved_at": "2025-10-03T15:16:01.055957"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T21:54:14.687085"
+    },
+    "last_updated": "2025-10-03T21:54:14.687186"
+  }
+}

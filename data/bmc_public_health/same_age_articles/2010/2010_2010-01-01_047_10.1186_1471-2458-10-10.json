@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:48:52.532436",
+  "year": 2010,
+  "article_type": "comparison",
+  "publication_date": "2010-01-01",
+  "article_data": {
+    "doi": "10.1186/1471-2458-10-10",
+    "title": "Physical activity recommendations for health: what should Europe do?",
+    "article_number": "10",
+    "publication_date": "2010-01-11",
+    "volume": "10",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Pekka Oja",
+      "Fiona C Bull",
+      "Mikael Fogelholm",
+      "Brian W Martin"
+    ]
+  },
+  "article_index": 47,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 132,
+      "retrieved_at": "2025-10-03T12:39:54.389577"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T12:39:55.948756"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 93,
+      "retrieved_at": "2025-10-03T12:39:57.335423"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 98,
+      "retrieved_at": "2025-10-03T20:55:29.069529"
+    },
+    "last_updated": "2025-10-03T20:55:29.069629"
+  }
+}

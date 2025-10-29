@@ -1,0 +1,77 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.650105",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35462-4",
+    "title": "Temperature-related mortality in China from specific injury",
+    "article_number": "37",
+    "publication_date": "2023-01-03",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jianxiong Hu",
+      "Guanhao He",
+      "Ruilin Meng",
+      "Weiwei Gong",
+      "Zhoupeng Ren",
+      "Heng Shi",
+      "Ziqiang Lin",
+      "Tao Liu",
+      "Fangfang Zeng",
+      "Peng Yin",
+      "Guoxia Bai",
+      "Mingfang Qin",
+      "Zhulin Hou",
+      "Xiaomei Dong",
+      "Chunliang Zhou",
+      "Zhuoma Pingcuo",
+      "Yize Xiao",
+      "Min Yu",
+      "Biao Huang",
+      "Xiaojun Xu",
+      "Lifeng Lin",
+      "Jianpeng Xiao",
+      "Jieming Zhong",
+      "Donghui Jin",
+      "Qinglong Zhao",
+      "Yajie Li",
+      "Cangjue Gama",
+      "Yiqing Xu",
+      "Lingshuang Lv",
+      "Weilin Zeng",
+      "Xing Li",
+      "Liying Luo",
+      "Maigeng Zhou",
+      "Cunrui Huang",
+      "Wenjun Ma"
+    ]
+  },
+  "article_index": 80,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:51:44.077176"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:51:45.606304"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T18:51:46.916110"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 45,
+      "retrieved_at": "2025-10-03T23:11:15.151058"
+    },
+    "last_updated": "2025-10-03T23:11:15.151246"
+  }
+}

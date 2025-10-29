@@ -1,0 +1,59 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.887933",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13842-7",
+    "title": "BCL9 provides multi-cellular communication properties in colorectal cancer by interacting with paraspeckle proteins",
+    "article_number": "19",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Meng Jiang",
+      "Yue Kang",
+      "Tomasz Sewastianik",
+      "Jiao Wang",
+      "Helen Tanton",
+      "Keith Alder",
+      "Peter Dennis",
+      "Yu Xin",
+      "Zhongqiu Wang",
+      "Ruiyang Liu",
+      "Mengyun Zhang",
+      "Ying Huang",
+      "Massimo Loda",
+      "Amitabh Srivastava",
+      "Runsheng Chen",
+      "Ming Liu",
+      "Ruben D. Carrasco"
+    ]
+  },
+  "article_index": 94,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T18:17:12.750239"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:17:14.277120"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T18:17:15.427652"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T22:59:35.069715"
+    },
+    "last_updated": "2025-10-03T22:59:35.069785"
+  }
+}

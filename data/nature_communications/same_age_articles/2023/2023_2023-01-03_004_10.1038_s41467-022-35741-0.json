@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.631109",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35741-0",
+    "title": "Apremilast prevents blistering in human epidermis and stabilizes keratinocyte adhesion in pemphigus",
+    "article_number": "116",
+    "publication_date": "2023-01-09",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Anna M. Sigmund",
+      "Markus Winkler",
+      "Sophia Engelmayer",
+      "Daniela Kugelmann",
+      "Desalegn T. Egu",
+      "Letyfee S. Steinert",
+      "Michael Fuchs",
+      "Matthias Hiermaier",
+      "Mariya Y. Radeva",
+      "Franziska C. Bayerbach",
+      "Elisabeth Butz",
+      "Stefan Kotschi",
+      "Christoph Hudemann",
+      "Michael Hertl",
+      "Sunil Yeruva",
+      "Enno Schmidt",
+      "Amir S. Yazdi",
+      "Kamran Ghoreschi",
+      "Franziska Vielmuth",
+      "Jens Waschke"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T18:49:02.102554"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 30,
+      "retrieved_at": "2025-10-03T18:49:03.662632"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T18:49:04.992441"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:10:20.073583"
+    },
+    "last_updated": "2025-10-03T23:10:20.073633"
+  }
+}

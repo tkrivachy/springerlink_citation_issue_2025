@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.101877",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-26386-6",
+    "title": "Automated identification of blastocyst regions at different development stages",
+    "article_number": "15",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Adolfo Flores-Saiffe Farias",
+      "Alejandro Chavez-Badiola",
+      "Gerardo Mendizabal-Ruiz",
+      "Roberto Valencia-Murillo",
+      "Andrew Drakeley",
+      "Jacques Cohen",
+      "Elizabeth Cardenas-Esparza"
+    ]
+  },
+  "article_index": 22,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:28:28.641214"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T15:28:30.154250"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:28:31.383865"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T21:59:12.934807"
+    },
+    "last_updated": "2025-10-03T21:59:12.934995"
+  }
+}

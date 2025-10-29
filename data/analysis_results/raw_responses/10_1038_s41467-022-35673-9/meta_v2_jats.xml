@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<response>
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-35673-9</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">41467</journal-id>
+          <journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+          <journal-title-group>
+            <journal-title>Nature Communications</journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">2041-1723</issn>
+          <publisher>
+            <publisher-name>Nature Publishing Group UK</publisher-name>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="doi">10.1038/s41467-022-35673-9</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">Methane emissions offset atmospheric carbon dioxide uptake in coastal macroalgae, mixed vegetation and sediment ecosystems</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" id="Au1">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4004-5863</contrib-id>
+              <name name-style="western">
+                <surname>Roth</surname>
+                <given-names>Florian</given-names>
+              </name>
+              <address>
+                <email>florian.roth@su.se</email>
+              </address>
+            </contrib>
+            <contrib contrib-type="author" id="Au2">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9005-5168</contrib-id>
+              <name name-style="western">
+                <surname>Broman</surname>
+                <given-names>Elias</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au3">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2391-5572</contrib-id>
+              <name name-style="western">
+                <surname>Sun</surname>
+                <given-names>Xiaole</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au4">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4366-0677</contrib-id>
+              <name name-style="western">
+                <surname>Bonaglia</surname>
+                <given-names>Stefano</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au5">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3722-1360</contrib-id>
+              <name name-style="western">
+                <surname>Nascimento</surname>
+                <given-names>Francisco</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au6">
+              <name name-style="western">
+                <surname>Prytherch</surname>
+                <given-names>John</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au7">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8956-3840</contrib-id>
+              <name name-style="western">
+                <surname>Brüchert</surname>
+                <given-names>Volker</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au8">
+              <name name-style="western">
+                <surname>Lundevall Zara</surname>
+                <given-names>Maysoon</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au9">
+              <name name-style="western">
+                <surname>Brunberg</surname>
+                <given-names>Märta</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au10">
+              <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7369-0781</contrib-id>
+              <name name-style="western">
+                <surname>Geibel</surname>
+                <given-names>Marc C.</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au11">
+              <name name-style="western">
+                <surname>Humborg</surname>
+                <given-names>Christoph</given-names>
+              </name>
+            </contrib>
+            <contrib contrib-type="author" id="Au12">
+              <name name-style="western">
+                <surname>Norkko</surname>
+                <given-names>Alf</given-names>
+              </name>
+            </contrib>
+          </contrib-group>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>3</day>
+            <month>1</month>
+            <year>2023</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2023</year>
+          </pub-date>
+          <volume>14</volume>
+          <issue>1</issue>
+          <elocation-id>42</elocation-id>
+          <uri specific-use="web" content-type="html">https://www.nature.com/articles/s41467-022-35673-9</uri>
+          <uri specific-use="web" content-type="pdf">https://www.nature.com/articles/s41467-022-35673-9.pdf</uri>
+          <permissions>
+            <copyright-statement content-type="compact">© The Author(s) 2023</copyright-statement>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <p id="Par1">
+              Coastal ecosystems can efficiently remove carbon dioxide (CO
+              <sub>2</sub>
+              ) from the atmosphere and are thus promoted for nature-based climate change mitigation. Natural methane (CH
+              <sub>4</sub>
+              ) emissions from these ecosystems may counterbalance atmospheric CO
+              <sub>2</sub>
+               uptake. Still, knowledge of mechanisms sustaining such CH
+              <sub>4</sub>
+               emissions and their contribution to net radiative forcing remains scarce for globally prevalent macroalgae, mixed vegetation, and surrounding depositional sediment habitats. Here we show that these habitats emit CH
+              <sub>4</sub>
+               in the range of 0.1 – 2.9 mg CH
+              <sub>4</sub>
+               m
+              <sup>−2</sup>
+               d
+              <sup>−1</sup>
+               to the atmosphere, revealing in situ CH
+              <sub>4</sub>
+               emissions from macroalgae that were sustained by divergent methanogenic archaea in anoxic microsites. Over an annual cycle, CO
+              <sub>2</sub>
+              -equivalent CH
+              <sub>4</sub>
+               emissions offset 28 and 35% of the carbon sink capacity attributed to atmospheric CO
+              <sub>2</sub>
+               uptake in the macroalgae and mixed vegetation habitats, respectively, and augment net CO
+              <sub>2</sub>
+               release of unvegetated sediments by 57%. Accounting for CH
+              <sub>4</sub>
+               alongside CO
+              <sub>2</sub>
+               sea-air fluxes and identifying the mechanisms controlling these emissions is crucial to constrain the potential of coastal ecosystems as net atmospheric carbon sinks and develop informed climate mitigation strategies.
+            </p>
+          </abstract>
+          <abstract xml:lang="en" id="Abs2" abstract-type="ShortSummary">
+            <p id="Par2">Coastal ecosystems are promoted as nature-based solutions to climate change. Here, the authors show that natural methane emissions across a variety of vegetated and unvegetated coastal habitats can, however, offset one-third of the carbon sink capacity attributed to atmospheric carbon dioxide uptake.</p>
+          </abstract>
+          <kwd-group kwd-group-type="hierarchical" vocab="FoR" vocab-identifier="ANZSRC 2008">
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="06">Biological Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0602">Ecology</kwd>
+                <kwd content-type="term" vocab-term-identifier="0607">Plant Biology</kwd>
+                <kwd content-type="term" vocab-term-identifier="0699">Other Biological Sciences</kwd>
+              </nested-kwd>
+            </nested-kwd>
+            <nested-kwd>
+              <kwd content-type="term" vocab-term-identifier="05">Environmental Sciences</kwd>
+              <nested-kwd>
+                <kwd content-type="term" vocab-term-identifier="0501">Ecological Applications</kwd>
+              </nested-kwd>
+            </nested-kwd>
+          </kwd-group>
+          <funding-group>
+            <award-group>
+              <funding-source>
+                <institution-wrap>
+                  <institution>Svenska Forskningsrådet Formas (Swedish Research Council Formas)</institution>
+                  <institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100001862</institution-id>
+                </institution-wrap>
+              </funding-source>
+              <award-id award-type="FundRef grant">2020-02304</award-id>
+              <principal-award-recipient>
+                <name name-style="western">
+                  <surname>Broman</surname>
+                  <given-names>Elias</given-names>
+                </name>
+              </principal-award-recipient>
+            </award-group>
+          </funding-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Science, multidisciplinary</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>discipline</meta-name>
+              <meta-value>Humanities and Social Sciences</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+      </front>
+    </article>
+  </records>
+</response>

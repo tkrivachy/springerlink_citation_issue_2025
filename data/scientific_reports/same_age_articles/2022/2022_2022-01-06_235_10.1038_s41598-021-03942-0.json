@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.882061",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03942-0",
+    "title": "Synthesis of zeolitic imidazolate framework-8 and gold nanoparticles in a sustained out-of-equilibrium state",
+    "article_number": "222",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Brigitta Dúzs",
+      "Gábor Holló",
+      "Gábor Schuszter",
+      "Dezső Horváth",
+      "Ágota Tóth",
+      "István Szalai",
+      "István Lagzi"
+    ]
+  },
+  "article_index": 235,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T15:19:13.667287"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T15:19:15.207499"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T15:19:16.356252"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T21:55:34.315217"
+    },
+    "last_updated": "2025-10-03T21:55:34.315515"
+  }
+}

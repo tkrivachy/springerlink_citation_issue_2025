@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.391553",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84577-9",
+    "title": "Local corner smoothing based on deep learning for CNC machine tools",
+    "article_number": "404",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Bai Jiang",
+      "Rong Sun",
+      "Ze-long Li",
+      "Liang Xu",
+      "Huang Liao",
+      "Xiao-yan Teng",
+      "Bing Li"
+    ]
+  },
+  "article_index": 389,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:02:52.762023"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 2,
+      "retrieved_at": "2025-10-03T17:02:54.340759"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:55.518694"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T22:33:57.020572"
+    },
+    "last_updated": "2025-10-03T22:33:57.020670"
+  }
+}

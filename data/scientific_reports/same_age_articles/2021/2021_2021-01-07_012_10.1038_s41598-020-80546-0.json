@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.204025",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80546-0",
+    "title": "Nanoscale observation of PM2.5 incorporated into mammalian cells using scanning electron-assisted dielectric microscope",
+    "article_number": "228",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Tomoko Okada",
+      "Tomoaki Iwayama",
+      "Shinya Murakami",
+      "Masaki Torimura",
+      "Toshihiko Ogura"
+    ]
+  },
+  "article_index": 12,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:38:49.384452"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T14:38:50.981550"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T14:38:52.286781"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:38:58.248776"
+    },
+    "last_updated": "2025-10-03T21:38:58.248965"
+  }
+}

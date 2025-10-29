@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.687025",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08099-5",
+    "title": "Experimental time-reversed adaptive Bell measurement towards all-photonic quantum repeaters",
+    "article_number": "378",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yasushi Hasegawa",
+      "Rikizo Ikuta",
+      "Nobuyuki Matsuda",
+      "Kiyoshi Tamaki",
+      "Hoi-Kwong Lo",
+      "Takashi Yamamoto",
+      "Koji Azuma",
+      "Nobuyuki Imoto"
+    ]
+  },
+  "article_index": 91,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T17:24:43.902750"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 53,
+      "retrieved_at": "2025-10-03T17:24:45.479133"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 52,
+      "retrieved_at": "2025-10-03T17:24:47.001192"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T22:41:41.096569"
+    },
+    "last_updated": "2025-10-03T22:41:41.096761"
+  }
+}

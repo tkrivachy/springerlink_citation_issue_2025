@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.241560",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-76761-4",
+    "title": "Co-feeding glucose with either gluconate or galacturonate during clostridial fermentations provides metabolic fine-tuning capabilities",
+    "article_number": "29",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Theresah N. K. Zu",
+      "Sanchao Liu",
+      "Elliot S. Gerlach",
+      "Wais Mojadedi",
+      "Christian J. Sund"
+    ]
+  },
+  "article_index": 220,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:44:51.611801"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T14:44:53.118202"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T14:44:54.260521"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T21:41:24.335358"
+    },
+    "last_updated": "2025-10-03T21:41:24.335572"
+  }
+}

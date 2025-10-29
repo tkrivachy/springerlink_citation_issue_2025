@@ -1,0 +1,23 @@
+{
+  "endpoint": "openaccess",
+  "format": "json",
+  "test_doi": "10.1038/s41598-020-80345-7",
+  "safe_doi": "10_1038_s41598-020-80345-7",
+  "timestamp": "2025-10-20 14:13:52",
+  "metadata": {
+    "status_code": 200,
+    "response_time": 0.5092363357543945,
+    "content_length": "N/A",
+    "content_type": "application/json; charset=UTF-8",
+    "rate_limit_remaining": "N/A",
+    "url": "https://api.springernature.com/openaccess/json",
+    "params": {
+      "api_key": "a21b5510dd6776005cb7a37b9ff24da3",
+      "q": "doi:10.1038/s41598-020-80345-7",
+      "s": 1,
+      "p": 1
+    }
+  },
+  "summary": "JSON Object with keys: ['apiMessage', 'query', 'result', 'records', 'facets']\nRecords found: 1\nSample record keys: ['contentType', 'identifier', 'language', 'url', 'title', 'creators', 'publicationName', 'doi', 'publisher', 'publisherName', 'publicationDate', 'publicationType', 'issn', 'eIssn', 'volume', 'number', 'issueType', 'topicalCollection', 'genre', 'startingPage', 'endingPage', 'journalId', 'openAccess', 'onlineDate', 'coverDate', 'copyright', 'abstract', 'subjects', 'disciplines']\ndoi: 10.1038/s41598-020-80345-7...\ntitle: Assessing ZNF154 methylation in patient plasma as a multicancer marker in liquid biopsies from colon...\ncreators: [{'creator': 'Miller, Brendan F.'}, {'creator': 'Petrykowska, Hanna M.'}, {'creator': 'Elnitski, Lau...\npublicationName: Scientific Reports...\nResult type: <class 'list'>\nResult items: 4\nTotal available: 1\n",
+  "filename": "openaccess_json.json"
+}

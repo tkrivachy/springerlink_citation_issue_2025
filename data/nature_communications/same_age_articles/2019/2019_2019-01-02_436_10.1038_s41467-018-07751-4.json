@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.724721",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-07751-4",
+    "title": "The synthesis and characterization of giant Calixarenes",
+    "article_number": "113",
+    "publication_date": "2019-01-10",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Vincent Guérineau",
+      "Marion Rollet",
+      "Stéphane Viel",
+      "Bénédicte Lepoittevin",
+      "Ludovic Costa",
+      "Pascale Saint-Aguet",
+      "Régis Laurent",
+      "Philippe Roger",
+      "Didier Gigmes",
+      "Cyril Martini",
+      "Vincent Huc"
+    ]
+  },
+  "article_index": 436,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:34:36.371275"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T17:34:37.940461"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 54,
+      "retrieved_at": "2025-10-03T17:34:39.109456"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 64,
+      "retrieved_at": "2025-10-03T22:45:09.850061"
+    },
+    "last_updated": "2025-10-03T22:45:09.850253"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.889710",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13844-5",
+    "title": "Time-dependent solid-state molecular motion and colour tuning of host-guest systems by organic solvents",
+    "article_number": "77",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yu-Dong Yang",
+      "Xiaofan Ji",
+      "Zhi-Hao Lu",
+      "Jian Yang",
+      "Chao Gao",
+      "Haoke Zhang",
+      "Ben Zhong Tang",
+      "Jonathan L. Sessler",
+      "Han-Yuan Gong"
+    ]
+  },
+  "article_index": 108,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T18:12:20.326502"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 68,
+      "retrieved_at": "2025-10-03T18:12:21.879771"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T18:12:23.212538"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 73,
+      "retrieved_at": "2025-10-03T22:57:52.919377"
+    },
+    "last_updated": "2025-10-03T22:57:52.919572"
+  }
+}

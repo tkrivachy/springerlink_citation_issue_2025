@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.665922",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44433-2",
+    "title": "Projected soil carbon loss with warming in constrained Earth system models",
+    "article_number": "102",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Shuai Ren",
+      "Tao Wang",
+      "Bertrand Guenet",
+      "Dan Liu",
+      "Yingfang Cao",
+      "Jinzhi Ding",
+      "Pete Smith",
+      "Shilong Piao"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 33,
+      "retrieved_at": "2025-10-03T19:10:51.321314"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T19:10:52.915709"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:10:54.241227"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T23:17:45.875697"
+    },
+    "last_updated": "2025-10-03T23:17:45.875769"
+  }
+}

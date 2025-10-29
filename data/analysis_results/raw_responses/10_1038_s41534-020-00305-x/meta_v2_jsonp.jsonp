@@ -1,0 +1,201 @@
+springerCallback({
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41534-020-00305-x",
+  "result": {
+    "total": "1",
+    "start": "1",
+    "pageLength": "1",
+    "recordsDisplayed": "1"
+  },
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41534-020-00305-x",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41534-020-00305-x"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41534-020-00305-x.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41534-020-00305-x"
+        }
+      ],
+      "title": "A neural network oracle for quantum nonlocality problems in networks",
+      "creators": [
+        {
+          "creator": "Kriváchy, Tamás"
+        },
+        {
+          "ORCID": "0000-0001-7001-6815",
+          "creator": "Cai, Yu"
+        },
+        {
+          "creator": "Cavalcanti, Daniel"
+        },
+        {
+          "ORCID": "0000-0001-8481-3284",
+          "creator": "Tavakoli, Arash"
+        },
+        {
+          "ORCID": "0000-0003-0788-3494",
+          "creator": "Gisin, Nicolas"
+        },
+        {
+          "creator": "Brunner, Nicolas"
+        }
+      ],
+      "publicationName": "npj Quantum Information",
+      "openaccess": "true",
+      "doi": "10.1038/s41534-020-00305-x",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2020-08-21",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2056-6387",
+      "volume": "6",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "7",
+      "journalId": "41534",
+      "onlineDate": "2020-08-21",
+      "coverDate": "2020-12",
+      "copyright": "©2020 The Author(s)",
+      "abstract": "Characterizing quantum nonlocality in networks is a challenging, but important problem. Using quantum sources one can achieve distributions which are unattainable classically. A key point in investigations is to decide whether an observed probability distribution can be reproduced using only classical resources. This causal inference task is challenging even for simple networks, both analytically and using standard numerical techniques. We propose to use neural networks as numerical tools to overcome these challenges, by learning the classical strategies required to reproduce a distribution. As such, a neural network acts as an oracle for an observed behavior, demonstrating that it is classical if it can be learned. We apply our method to several examples in the triangle configuration. After demonstrating that the method is consistent with previously known results, we give solid evidence that a quantum distribution recently proposed by Gisin is indeed nonlocal as conjectured. Finally we examine the genuinely nonlocal distribution recently presented by Renou et al., and, guided by the findings of the neural network, conjecture nonlocality in a new range of parameters in these distributions. The method allows us to get an estimate on the noise robustness of all examined distributions.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Physics",
+        "Physics, general",
+        "Quantum Physics",
+        "Quantum Information Technology, Spintronics",
+        "Quantum Computing",
+        "Quantum Field Theories, String Theory",
+        "Classical and Quantum Gravitation, Relativity Theory"
+      ],
+      "disciplines": [
+        {
+          "id": "2928",
+          "term": "Physics and Astronomy"
+        },
+        {
+          "id": "3309",
+          "term": "Quantum Physics"
+        },
+        {
+          "id": "6524",
+          "term": "Spintronics"
+        },
+        {
+          "id": "6367",
+          "term": "Quantum Computing"
+        },
+        {
+          "id": "3850",
+          "term": "Elementary Particles, Quantum Field Theory"
+        },
+        {
+          "id": "4255",
+          "term": "Classical and Quantum Gravity"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Classical and Quantum Gravitation, Relativity Theory",
+          "count": "1"
+        },
+        {
+          "value": "Physics",
+          "count": "1"
+        },
+        {
+          "value": "Physics, general",
+          "count": "1"
+        },
+        {
+          "value": "Quantum Computing",
+          "count": "1"
+        },
+        {
+          "value": "Quantum Field Theories, String Theory",
+          "count": "1"
+        },
+        {
+          "value": "Quantum Information Technology, Spintronics",
+          "count": "1"
+        },
+        {
+          "value": "Quantum Physics",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "npj Quantum Information",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Spain",
+          "count": "1"
+        },
+        {
+          "value": "Switzerland",
+          "count": "1"
+        },
+        {
+          "value": "United Kingdom",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+})

@@ -1,0 +1,1982 @@
+<?xml version="1.0" ?>
+<response xmlns:ns0="http://www.w3.org/1999/xlink">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1186/1471-2458-4-31</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <article dtd-version="1.2" article-type="research-article" xml:lang="en">
+      <front>
+        <journal-meta>
+          <journal-id journal-id-type="publisher-id">12889</journal-id>
+          <journal-title-group>
+            <journal-title>BMC Public Health</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BMC Public Health</abbrev-journal-title>
+          </journal-title-group>
+          <issn pub-type="epub">1471-2458</issn>
+          <publisher>
+            <publisher-name>BioMed Central</publisher-name>
+            <publisher-loc>London</publisher-loc>
+          </publisher>
+        </journal-meta>
+        <article-meta>
+          <article-id pub-id-type="publisher-id">BMC1471-2458-4-31</article-id>
+          <article-id pub-id-type="manuscript">117</article-id>
+          <article-id pub-id-type="doi">10.1186/1471-2458-4-31</article-id>
+          <article-categories>
+            <subj-group subj-group-type="heading">
+              <subject>Research Article</subject>
+            </subj-group>
+          </article-categories>
+          <title-group>
+            <article-title xml:lang="en">The usefulness of the Korean version of modified Mini-Mental State Examination (K-mMMSE) for dementia screening in community dwelling elderly people</article-title>
+          </title-group>
+          <contrib-group>
+            <contrib contrib-type="author" corresp="yes">
+              <name name-style="western">
+                <surname>Jeong</surname>
+                <given-names>Seul-Ki</given-names>
+              </name>
+              <address>
+                <email>dialogue@dreamwiz.com</email>
+              </address>
+              <xref ref-type="aff" rid="Aff1">1</xref>
+              <xref ref-type="corresp" rid="IDBMC14712458431_cor1">a</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Cho</surname>
+                <given-names>Ki-Hyun</given-names>
+              </name>
+              <address>
+                <email>kcho@chonnam.ac.kr</email>
+              </address>
+              <xref ref-type="aff" rid="Aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+              <name name-style="western">
+                <surname>Kim</surname>
+                <given-names>Jae-Min</given-names>
+              </name>
+              <address>
+                <email>jmkim@mail.chosun.ac.kr</email>
+              </address>
+              <xref ref-type="aff" rid="Aff3">3</xref>
+            </contrib>
+            <aff id="Aff1">
+              <label>1</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.412477.3</institution-id>
+                <institution-id institution-id-type="ISNI">0000 0004 0533 2784</institution-id>
+                <institution content-type="org-division">Department of Neurology</institution>
+                <institution content-type="org-name">Seonam University School of Medicine</institution>
+              </institution-wrap>
+              <addr-line content-type="street">120-1, Mareuk-dong, Seo-gu</addr-line>
+              <addr-line content-type="city">Gwangju</addr-line>
+              <country country="KR">South Korea</country>
+            </aff>
+            <aff id="Aff2">
+              <label>2</label>
+              <institution-wrap>
+                <institution content-type="org-division">Department of Neurology</institution>
+                <institution content-type="org-name">Chonnam University School of Medicine</institution>
+              </institution-wrap>
+              <country country="KR">South Korea</country>
+            </aff>
+            <aff id="Aff3">
+              <label>3</label>
+              <institution-wrap>
+                <institution-id institution-id-type="GRID">grid.254187.d</institution-id>
+                <institution-id institution-id-type="ISNI">0000000094758840</institution-id>
+                <institution content-type="org-division">Department of Psychiatry</institution>
+                <institution content-type="org-name">Chosun University School of Medicine</institution>
+              </institution-wrap>
+              <country country="KR">South Korea</country>
+            </aff>
+          </contrib-group>
+          <author-notes>
+            <corresp id="IDBMC14712458431_cor1">
+              <label>a</label>
+              <email>dialogue@dreamwiz.com</email>
+            </corresp>
+          </author-notes>
+          <pub-date date-type="pub" publication-format="electronic">
+            <day>30</day>
+            <month>7</month>
+            <year>2004</year>
+          </pub-date>
+          <pub-date date-type="collection" publication-format="electronic">
+            <month>12</month>
+            <year>2004</year>
+          </pub-date>
+          <volume>4</volume>
+          <issue seq="31">1</issue>
+          <elocation-id>31</elocation-id>
+          <history>
+            <date date-type="registration">
+              <day>31</day>
+              <month>12</month>
+              <year>2003</year>
+            </date>
+            <date date-type="received">
+              <day>31</day>
+              <month>12</month>
+              <year>2003</year>
+            </date>
+            <date date-type="accepted">
+              <day>30</day>
+              <month>7</month>
+              <year>2004</year>
+            </date>
+            <date date-type="online">
+              <day>30</day>
+              <month>7</month>
+              <year>2004</year>
+            </date>
+          </history>
+          <permissions>
+            <copyright-statement content-type="compact">© Jeong et al; licensee BioMed Central Ltd. 2004</copyright-statement>
+            <copyright-statement content-type="comment">
+              This article is published under license to BioMed Central Ltd. This is an open-access article distributed under the terms of the Creative Commons Attribution License (
+              <ext-link ns0:href="http://creativecommons.org/licenses/by/2.0" ext-link-type="uri">http://creativecommons.org/licenses/by/2.0</ext-link>
+              ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+            </copyright-statement>
+            <copyright-year>2004</copyright-year>
+            <copyright-holder>Jeong et al; licensee BioMed Central Ltd.</copyright-holder>
+            <license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/2.0/">
+              <license-p>
+                This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+                <ext-link ns0:href="http://creativecommons.org/licenses/by/2.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/2.0/</ext-link>
+                ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+              </license-p>
+            </license>
+          </permissions>
+          <abstract xml:lang="en" id="Abs1">
+            <title>Abstract</title>
+            <sec id="ASec1">
+              <title>Background</title>
+              <p>We assessed whether the Korean version of modified Mini-Mental State Examination (K-mMMSE) has improved performance as a screening test for cognitive impairment or dementia in a general population compared with the Korean Mini-Mental State Examination (K-MMSE).</p>
+            </sec>
+            <sec id="ASec2">
+              <title>Methods</title>
+              <p>Screening interviews were conducted with people aged 65 and over in Noam-dong, Namwon-city, Jeonbuk province. There were 522 community participants, of whom 235 underwent clinical and neuropsychological examination for diagnosis of dementia and Cognitive Impairment No Dementia (CIND). Sensitivity, specificity and areas under the receiver operating characteristic (ROC) curves for the K-mMMSE and the K-MMSE were the main outcome measures.</p>
+            </sec>
+            <sec id="ASec3">
+              <title>Results</title>
+              <p>
+                Cronbach's alpha for the K-mMMSE was 0.91, compared with 0.84 for the K-MMSE. The areas under the ROC curves in identifying all levels of CIND or dementia were 0.91 for the K-mMMSE and 0.89 for the K-MMSE (
+                <italic>P</italic>
+                 &lt; 0.05). For the K-mMMSE, the optimal cut-off score for a diagnosis of CIND was 69/70, which had a sensitivity of 0.86 and a specificity of 0.79, while, for a diagnosis of dementia, the optimal cut-off score of 59/60 had a sensitivity of 0.91 and a specificity of 0.78. The K-mMMSE also had a high test-retest reliability (
+                <italic>r</italic>
+                 = 0.89).
+              </p>
+            </sec>
+            <sec id="ASec4">
+              <title>Conclusion</title>
+              <p>Our findings indicate that the K-mMMSE is more reliable and valid than the K-MMSE as a cognitive screen in a population based study of dementia. Considering the test characteristics, the K-MMSE and modified version are expected to be optimally used in clinical and epidemiologic fields.</p>
+            </sec>
+          </abstract>
+          <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Dementia</kwd>
+            <kwd>Mild Cognitive Impairment</kwd>
+            <kwd>Negative Likelihood Ratio</kwd>
+            <kwd>Positive Likelihood Ratio</kwd>
+            <kwd>Clinical Dementia Rate</kwd>
+          </kwd-group>
+          <custom-meta-group>
+            <custom-meta>
+              <meta-name>publisher-imprint-name</meta-name>
+              <meta-value>BioMed Central</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-issue-count</meta-name>
+              <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-article-count</meta-name>
+              <meta-value>69</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-holder</meta-name>
+              <meta-value>The Author(s)</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-copyright-year</meta-name>
+              <meta-value>2004</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-contains-esm</meta-name>
+              <meta-value>Yes</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-year</meta-name>
+              <meta-value>2003</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-month</meta-name>
+              <meta-value>12</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-registration-date-day</meta-name>
+              <meta-value>31</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>toc-levels</meta-name>
+              <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>volume-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-product</meta-name>
+              <meta-value>ArchiveJournal</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>numbering-style</meta-name>
+              <meta-value>Unnumbered</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-grants-type</meta-name>
+              <meta-value>OpenChoice</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>metadata-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>abstract-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodypdf-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bodyhtml-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>bibliography-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>esm-grant</meta-name>
+              <meta-value>OpenAccess</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>online-first</meta-name>
+              <meta-value>false</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-file-reference</meta-name>
+              <meta-value>BodyRef/PDF/12889_2003_Article_117.pdf</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>pdf-type</meta-name>
+              <meta-value>Typeset</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>target-type</meta-name>
+              <meta-value>OnlinePDF</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>issue-type</meta-name>
+              <meta-value>Regular</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>article-type</meta-name>
+              <meta-value>OriginalPaper</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-primary</meta-name>
+              <meta-value>Medicine &amp; Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Public Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Medicine/Public Health, general</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Epidemiology</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Environmental Health</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Biostatistics</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-secondary</meta-name>
+              <meta-value>Vaccine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>journal-subject-collection</meta-name>
+              <meta-value>Medicine</meta-value>
+            </custom-meta>
+            <custom-meta>
+              <meta-name>open-access</meta-name>
+              <meta-value>true</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+        </article-meta>
+        <notes notes-type="ESMHint">
+          <title>Electronic supplementary material</title>
+          <p>
+            The online version of this article (doi:
+            <ext-link ns0:href="10.1186/1471-2458-4-31" ext-link-type="doi">10.1186/1471-2458-4-31</ext-link>
+            ) contains supplementary material, which is available to authorized users.
+          </p>
+        </notes>
+      </front>
+      <body>
+        <sec id="Sec1">
+          <title>Background</title>
+          <p>
+            The Mini-Mental State Examination (MMSE) is a brief screening test that quantitatively assesses the cognitive status of elderly people [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            , 
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ]. It is easy to administer and has shown good reliability. Although its validity as a screening test is acceptable for clinical samples, it has been shown to have difficulty in discriminating between demented and non-demented individuals in community-based samples [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ]. The MMSE has been found to be influenced largely by pre-morbid ability and is less sensitive to focal brain dysfunction [
+            <xref ref-type="bibr" rid="CR3">3</xref>
+            ] or mild dementia [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ].
+          </p>
+          <p>
+            These limitations led to the development of the Modified Mini-Mental State Examination (3MS) in 1987 [
+            <xref ref-type="bibr" rid="CR5">5</xref>
+            ], which expanded the MMSE from 30 to 100 points to provide finer discrimination. In addition, the 3MS added four items: personal information, including date and place of birth; verbal fluency; abstract reasoning; and a second delayed recall trial. The 3MS also graded temporal orientation and broadened the delayed recall measures, which included cued and recognition formats. While retaining the brevity and ease of administration of the MMSE, the 3MS improved the validity and reliability of identifying individuals with dementia [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            , 
+            <xref ref-type="bibr" rid="CR7">7</xref>
+            ], and in predicting functional outcomes in patients with stroke [
+            <xref ref-type="bibr" rid="CR8">8</xref>
+            ].
+          </p>
+          <p>
+            In 2002, a group from the Cache County Study modified the 3MS for use as a cognitive screen in an epidemiologic study of dementia [
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ]. These modifications substituted the recall of personal demographic information with the recall of current and past prominent politicians. The main reason for this modification was the difficulty the researchers had in verifying personal demographic information. In addition, the scaling of the items in the time orientation and writing parts of the test was changed, and the time allotted for animal naming was shortened. This revised form of the 3MS (3MS-R) demonstrated good sensitivity in detecting dementia in a general population and providing age- and education-specific normative data and cut-off values at the 7
+            <sup>th</sup>
+             and 10
+            <sup>th</sup>
+             percentiles [
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ].
+          </p>
+          <p>
+            In Korea, the MMSE was translated into two versions, the Korean version of the Mini-Mental State Examination (MMSE-K) and the Korean Mini-Mental State Examination (K-MMSE) [
+            <xref ref-type="bibr" rid="CR10">10</xref>
+            , 
+            <xref ref-type="bibr" rid="CR11">11</xref>
+            ]. Both Korean versions of the MMSE were tested for validity and efficacy in clinical settings [
+            <xref ref-type="bibr" rid="CR11">11</xref>
+            , 
+            <xref ref-type="bibr" rid="CR12">12</xref>
+            ] and partly in epidemiologic research [
+            <xref ref-type="bibr" rid="CR13">13</xref>
+            ]. Both were somewhat modified to adjust better to the cultural background in Korea, but both shared all the limitations of the original MMSE. Recently the Korean Modified Mini-Mental State Examination (K-3MS) was introduced and validated in a clinical setting [
+            <xref ref-type="bibr" rid="CR14">14</xref>
+            ]. Although the K-3MS was found to be a reliable cognitive screening measure, there was no significant difference between the K-3MS and extracted MMSE for detecting individuals with dementia. In addition, components of the K-3MS could not be compared with items extracted from the K-MMSE and MMSE-K. We have therefore introduced the Korean version of modified Mini-Mental State Examination (K-mMMSE), and we have determined whether its validity is superior to that of the K-MMSE as a screen for cognitive impairment or dementia in a community setting.
+          </p>
+        </sec>
+        <sec id="Sec2" sec-type="methods">
+          <title>Methods</title>
+          <sec id="Sec3">
+            <title>Subjects</title>
+            <p>
+              Potential participants for this study were recruited from all inhabitants of Noam-dong, Namwon-city, Jeonbuk-province, South Korea, aged 65 and over in 2003, as recorded in national residents registration lists. The area surveyed covered 8.93 km
+              <sup>2</sup>
+               and had an estimated population of 6,883, of whom about 7% were aged 65 or over. All participants gave informed consent, and the study was conducted in accordance with the guidelines in The Declaration of Helsinki and approved by the appropriate research ethics committee.
+            </p>
+            <p>
+              Among the 522 eligible subjects aged 65 and over identified from registration lists, 235 (45%) completed clinical examinations after the interview and formed the study sample for principal analysis. Of the remaining subjects, we were unable to establish contact with 162 (31%), 75 (14%) refused to participate, 18 (3%) did not complete the survey, 7 (1%) had severe pre-morbid illness including blindness and deafness, 4 (0.8%) had changed address, and 3 (0.6%) had died before the visit. The principal apparent reason for the difficulties in establishing contact was that the person was in a regular daily activity or away from home, visiting family members living elsewhere. The 18 individuals (3%) who did not complete the survey questionnaire or were not examined clinically had a mean age of 74.9 ± 10.3 years; 13 (72%) were females, and 4 (22%) were educated. Of all the eligible subjects, participants and non-participants did not differ in age (73.5 ± 6.8 y vs. 74.6 ± 7.8 y, respectively) or gender (66% and 62%, all 
+              <italic>P</italic>
+               values &gt; 0.1).
+            </p>
+          </sec>
+          <sec id="Sec4">
+            <title>Assessment and measurements</title>
+            <p>
+              Interviewers received a seven-day training session on administering the screening instruments and were supervised throughout by the project neurologist. Cognitive status was classified in two stages. In the first stage, interviewers carried out home-based interviews for data on cognitive function, past medical history, and demographic characteristics. All participants were contacted for cognitive screening using a formulated battery, from which the K-mMMSE and K-MMSE were extracted. And they were rated by a knowledgeable informant using the Short form of Samsung Dementia Questionnaire (S-SDQ) and Korean Instrumental Activities of Daily Living (K-IADL) [
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              , 
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              ]. The S-SDQ is a Korean version of the Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE), with 15 items and scores ranging from 0 to 30 [
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              ]. The K-IADL is composed of 11 items that grade functional abilities, with scores calculated as the sum of points over the number of applicable questions and ranging from 0.0 to 3.0 [
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              ]. High scores on the S-SDQ and K-IADL indicate poor performance. Both tests were found to be uncontaminated by pre-morbid ability, including education or age [
+              <xref ref-type="bibr" rid="CR15">15</xref>
+              , 
+              <xref ref-type="bibr" rid="CR16">16</xref>
+              ].
+            </p>
+            <p>
+              At the second interview, physicians who were blinded to the cognitive scores performed a clinical examination and neuropsychiatric inventory on participants who completed the first survey questionnaire. The clinical examination verified the presence of cognitive impairment. The diagnostic criteria for dementia were based on those of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) [
+              <xref ref-type="bibr" rid="CR17">17</xref>
+              ] and were subdivided according to the guidelines of the National Institutes of Neurological and Communicative Disorders and Stroke and the Alzheimer's disease and Related Disorders Association (NINCDS-ADRDA) [
+              <xref ref-type="bibr" rid="CR18">18</xref>
+              ]. Severity of dementia was staged using the Korean version of the Expanded Clinical Dementia Rating (CDR) scale [
+              <xref ref-type="bibr" rid="CR19">19</xref>
+              ]. The physician and neurologist made independent diagnoses and CDR scoring and subsequently held a case conference to reach a consensus diagnosis, classifying the person as either cognitively normal, cognitively impaired with no dementia (CIND), or having dementia. A diagnosis of CIND represents an attempt to classify people with recognizable cognitive decline who did not meet the criteria for dementia. This group included people who complained of cognitive decline and showed impaired memory function, but did not have any non-cognitive alterations, including intact activities of daily living. At both stages, home visits were repeated on at least two occasions if no contact was made.
+            </p>
+          </sec>
+          <sec id="Sec5">
+            <title>Instruments</title>
+            <p>
+              We translated the original 3MS-R into Korean according to the guidelines recommended by the modifiers [
+              <xref ref-type="bibr" rid="CR9">9</xref>
+              ]. The item regarding political figures, which asked the participants to name the current president, vice president, and state governors, was replaced with questions about current and previous presidents, because there is no vice president in the government of South Korea. We assessed temporal orientation according to three methods used to calculate year and time in Korea: the solar, lunar and Tangun era. We replaced the words &quot;shirt,&quot; &quot;nickel&quot; and &quot;honesty&quot; in the memory task with the words &quot;airplane,&quot; &quot;pine tree&quot; and &quot;sincerity.&quot; In Korean, the first two words coincided with the K-MMSE items and ended with vowel sounds (&quot;bee-haeng-gi,&quot; and &quot;so-na-mu,&quot; respectively); while &quot;seong-sil&quot; in Korean, which means sincerity, was substituted for &quot;jeong-jik,&quot; which is equivalent to the English word honesty, inasmuch as a pilot study found that &quot;jeong-jik&quot; was more difficult to hear or perceive than &quot;seong-sil&quot;, possibly because the latter ended with a voiced sound and could be heard more comfortably.
+            </p>
+            <p>In explaining the appropriate questions and answers, we presented a simple example prior to asking the first question, specifically, &quot;the eyes and nose are different, but they are similar in being part of our face.&quot; In a pilot study, most elderly subjects could not understand the concept of similarity without this example, and they became intolerant to our interview unless an example was provided. After providing the example, however, most subjects were more cooperative and tried to answer properly. We asked subjects to write a spontaneous sentence and scored whether it was legible and correct, with or without prompting. The total possible score was 100, and a K-MMSE score could be generated from it.</p>
+          </sec>
+          <sec id="Sec6">
+            <title>Statistical analysis</title>
+            <p>
+              For demographic factors, mean or median values and proportions were calculated according to the cognitive impairment strata. Cronbach's alpha was used to quantify internal consistencies of the K-mMMSE and K-MMSE [
+              <xref ref-type="bibr" rid="CR20">20</xref>
+              ]. We assessed the stability and test-retest reliability with 30 subjects who took the K-mMMSE twice. Receiver operating characteristic (ROC) curves were used to determine the validity of the two screening tests graphically and statistically. The areas under the ROC curves (AUC) were calculated and described with standard errors (SE) using the trapezoidal rule [
+              <xref ref-type="bibr" rid="CR21">21</xref>
+              ], and comparison between AUCs was made by the algorithm with an estimated covariance matrix [
+              <xref ref-type="bibr" rid="CR22">22</xref>
+              ]. Cut-off points were chosen to optimize the trade-off between false-negative and false-positive rates. The choice of whether to judge the screening tests by their ability to identify CIND or dementia was addressed practically by assessing both. The validity of the K-mMMSE and K-MMSE were compared, first between those with CIND or dementia and those who were normal, and then between those with dementia and those with CIND or normal. All statistical calculations were performed using Stata 8.2 software (Stata, College Station, TX).
+            </p>
+          </sec>
+        </sec>
+        <sec id="Sec7" sec-type="results">
+          <title>Results</title>
+          <sec id="Sec8">
+            <title>Descriptive statistics</title>
+            <p>
+              Descriptive statistics are displayed in Table 
+              <xref rid="Tab1" ref-type="table">1</xref>
+               for the total sample and according to the cognitive impairment strata. Of the 235 participants, 46 (19.6%) were classified as having dementia and 54 (22.9%) as having CIND. Overall levels of education were very low, in that 118 participants (50.2%) had no formal education, of whom 83 (70.3%) were illiterate.
+            </p>
+            <p>Severity of cognitive impairment was directly related to mean age and inversely related to number of years of education. Women had higher rates of being cognitively impaired or demented than men. The median scores on the K-mMMSE and K-MMSE decreased with severity of cognitive impairment. Median scores on the informant questionnaires of the S-SDQ and K-IADL increased with poorer cognitive status. The inter-quartile ranges (IQR) also steadily increased, reflecting increasing variability in cognitive and functional status. Four respondents scored perfectly on the K-MMSE, whereas none scored perfectly on the K-mMMSE, suggesting that the K-mMMSE might be less prone to the ceiling effect in this population.</p>
+            <table-wrap id="Tab1">
+              <label>Table 1</label>
+              <caption xml:lang="en">
+                <p>Subject characteristics</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th/>
+                    <th align="center">
+                      <p>All subjects (n = 235)</p>
+                    </th>
+                    <th align="center">
+                      <p>Normal (n = 135)</p>
+                    </th>
+                    <th align="center">
+                      <p>CIND (n = 54)</p>
+                    </th>
+                    <th align="center">
+                      <p>Dementia (n = 46)</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th align="left" colspan="5">
+                      <p>Demographic characteristics</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">
+                      <p>Age, mean ± SD, y</p>
+                    </td>
+                    <td align="center">
+                      <p>73.5 ± 6.7</p>
+                    </td>
+                    <td align="center">
+                      <p>71.9 ± 5.3</p>
+                    </td>
+                    <td align="center">
+                      <p>73.8 ± 7.4</p>
+                    </td>
+                    <td align="center">
+                      <p>77.8 ± 7.8</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Women, %</p>
+                    </td>
+                    <td align="center">
+                      <p>66.4</p>
+                    </td>
+                    <td align="center">
+                      <p>57.8</p>
+                    </td>
+                    <td align="center">
+                      <p>74.1</p>
+                    </td>
+                    <td align="center">
+                      <p>82.6</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>Education, median (IQR), y</p>
+                    </td>
+                    <td align="center">
+                      <p>1 (0–6)</p>
+                    </td>
+                    <td align="center">
+                      <p>4 (0–6)</p>
+                    </td>
+                    <td align="center">
+                      <p>0 (0–5)</p>
+                    </td>
+                    <td align="center">
+                      <p>0 (0–2)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="5">
+                      <p>
+                        <bold>Cognitive measures, median (IQR), score</bold>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>K-mMMSE</p>
+                    </td>
+                    <td align="center">
+                      <p>64 (48–80)</p>
+                    </td>
+                    <td align="center">
+                      <p>78 (66–85)</p>
+                    </td>
+                    <td align="center">
+                      <p>54 (44–63)</p>
+                    </td>
+                    <td align="center">
+                      <p>38 (29–47)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>K-MMSE</p>
+                    </td>
+                    <td align="center">
+                      <p>20 (14–25)</p>
+                    </td>
+                    <td align="center">
+                      <p>24 (20–27)</p>
+                    </td>
+                    <td align="center">
+                      <p>16 (13–21)</p>
+                    </td>
+                    <td align="center">
+                      <p>12 (9–15)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>S-SDQ</p>
+                    </td>
+                    <td align="center">
+                      <p>9 (5–13)</p>
+                    </td>
+                    <td align="center">
+                      <p>7 (3–10)</p>
+                    </td>
+                    <td align="center">
+                      <p>10 (5–14)</p>
+                    </td>
+                    <td align="center">
+                      <p>14 (10–21)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <p>K-IADL</p>
+                    </td>
+                    <td align="center">
+                      <p>0.22 (0.09–0.50)</p>
+                    </td>
+                    <td align="center">
+                      <p>0.11 (0.00–0.29)</p>
+                    </td>
+                    <td align="center">
+                      <p>0.27 (0.11–0.60)</p>
+                    </td>
+                    <td align="center">
+                      <p>1.10 (0.40–1.67)</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <p>CIND; Cognitive Impairment No Dementia, SD; standard deviation, IQR; Inter-quartile range, K-mMMSE; Korean version of modified Mini-Mental State Examination, K-MMSE; Korean Mini-Mental State Examination, S-SDQ; Short form of the Samsung Dementia Questionnaire, K-IADL; Korean Instrumental Activities of Daily Living.</p>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Sec9">
+            <title>Reliability</title>
+            <p>The estimated Cronbach's alpha was 0.91 for the K-mMMSE and 0.84 for the K-MMSE. Relative to each cognitive impairment stratum (normal, CIND, and dementia), the alphas were 0.84, 0.81 and 0.81, respectively, on the K-mMMSE and 0.74, 0.72, and 0.63, respectively, on the K-MMSE. Neither age nor gender had any substantial impact on internal consistency. Stratum-specific alphas of the K-mMMSE for the different subgroups ranged from 0.86 to 0.91 in men and 0.89 to 0.90 in women.</p>
+            <p>
+              The retest of the K-mMMSE was assessed in 30 subjects (mean interval, 26 days; range, 19–32 days). The correlation coefficients for the total scores were 0.89 on the K-mMMSE and 0.85 on the K-MMSE. The coefficients of the 15 items of the K-mMMSE were all significant, ranging from 0.37 for similarities to 0.83 for time orientation. The re-tested subjects were representative of the entire study population, in that the sociodemographic characteristics of the 30 retested subjects were similar to the other participants in mean age (74.0 ± 7.4 y vs. 73.5 ± 6.7 y), educational years (3.5 ± 3.2 y vs. 3.4 ± 3.9 y), K-mMMSE scores (63.8 ± 21.0 vs. 63.1 ± 20.4), and proportion of women (80.0% vs. 66.4%; 
+              <italic>P</italic>
+               = 0.132).
+            </p>
+          </sec>
+          <sec id="Sec10">
+            <title>Validity of the K-mMMSE and K-MMSE</title>
+            <sec id="Sec11">
+              <title>Construct validity</title>
+              <p>
+                Construct validity data between the K-mMMSE and other cognitive or functional measures are shown in Table 
+                <xref rid="Tab2" ref-type="table">2</xref>
+                . K-mMMSE was found to be significantly correlated with all measures, including CDR, Sum of Boxes of CDR (CDR-SB), and informant questionnaires such as the S-SDQ and K-IADL. The correlation coefficient between K-mMMSE and K-MMSE scores was 0.94. According to the CDR scores, the median values of the K-mMMSE and K-MMSE changed significantly (Table 
+                <xref rid="Tab3" ref-type="table">3</xref>
+                ).
+                <table-wrap id="Tab2">
+                  <label>Table 2</label>
+                  <caption xml:lang="en">
+                    <p>Correlations between K-mMMSE, K-MMSE and cognitive or functional measures (CDR, KIADL, and S-SDQ)</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th/>
+                        <th align="center">
+                          <p>K-mMMSE</p>
+                        </th>
+                        <th align="center">
+                          <p>K-MMSE</p>
+                        </th>
+                        <th align="center">
+                          <p>CDR</p>
+                        </th>
+                        <th align="center">
+                          <p>CDR-SB</p>
+                        </th>
+                        <th align="center">
+                          <p>KIADL</p>
+                        </th>
+                        <th align="center">
+                          <p>S-SDQ</p>
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">
+                          <p>K-mMMSE</p>
+                        </td>
+                        <td align="center">
+                          <p>1.000</p>
+                        </td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>K-MMSE</p>
+                        </td>
+                        <td align="center">
+                          <p>0.945*</p>
+                        </td>
+                        <td align="center">
+                          <p>1.000</p>
+                        </td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>CDR</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.755*</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.710*</p>
+                        </td>
+                        <td align="center">
+                          <p>1.000</p>
+                        </td>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>CDR-SB</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.750*</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.702*</p>
+                        </td>
+                        <td align="center">
+                          <p>0.966*</p>
+                        </td>
+                        <td align="center">
+                          <p>1.000</p>
+                        </td>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>KIADL</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.648*</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.614*</p>
+                        </td>
+                        <td align="center">
+                          <p>0.740*</p>
+                        </td>
+                        <td align="center">
+                          <p>0.793*</p>
+                        </td>
+                        <td align="center">
+                          <p>1.000</p>
+                        </td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>S-SDQ</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.489*</p>
+                        </td>
+                        <td align="center">
+                          <p>-0.454*</p>
+                        </td>
+                        <td align="center">
+                          <p>0.529*</p>
+                        </td>
+                        <td align="center">
+                          <p>0.555*</p>
+                        </td>
+                        <td align="center">
+                          <p>0.617*</p>
+                        </td>
+                        <td align="center">
+                          <p>1.000</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>
+                      * 
+                      <italic>P</italic>
+                       &lt; 0.001 by Pearson's correlation analyses. K-mMMSE; Korean version of modified Mini-Mental State Examination, K-MMSE; Korean Mini-Mental State Examination, CDR; Clinical Dementia Rating, CDR-SB; Sum of Boxes of CDR, K-IADL; Korean Instrumental Activities of Daily Living, S-SDQ; Short form of the Samsung Dementia Questionnaire
+                    </p>
+                  </table-wrap-foot>
+                </table-wrap>
+                <table-wrap id="Tab3">
+                  <label>Table 3</label>
+                  <caption xml:lang="en">
+                    <p>K-mMMSE and K-MMSE scores for each CDR group</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th/>
+                        <th align="center" colspan="4">
+                          <p>CDR</p>
+                        </th>
+                      </tr>
+                      <tr>
+                        <th/>
+                        <th align="center">
+                          <p>0 (n = 137)</p>
+                        </th>
+                        <th align="center">
+                          <p>0.5 (n = 52)</p>
+                        </th>
+                        <th align="center">
+                          <p>1 (n = 33)</p>
+                        </th>
+                        <th align="center">
+                          <p>2+ (n = 13)</p>
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">
+                          <p>K-mMMSE, Median (IQR)*</p>
+                        </td>
+                        <td align="center">
+                          <p>78 (66–85)</p>
+                        </td>
+                        <td align="center">
+                          <p>54 (44–63)</p>
+                        </td>
+                        <td align="center">
+                          <p>44 (35–50)</p>
+                        </td>
+                        <td align="center">
+                          <p>29 (12–31)</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <p>K-MMSE, Median (IQR)*</p>
+                        </td>
+                        <td align="center">
+                          <p>24 (20–27)</p>
+                        </td>
+                        <td align="center">
+                          <p>16 (13–21)</p>
+                        </td>
+                        <td align="center">
+                          <p>12 (9–16)</p>
+                        </td>
+                        <td align="center">
+                          <p>10 (5–11)</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>
+                      * 
+                      <italic>P</italic>
+                       &lt; 0.001 by Kruskal-Wallis test. K-mMMSE; Korean version of modified Mini-Mental State Examination, K-MMSE; Korean Mini-Mental State Examination, CDR; Clinical Dementia Rating, IQR; Inter-quartile ranges.
+                    </p>
+                  </table-wrap-foot>
+                </table-wrap>
+              </p>
+            </sec>
+            <sec id="Sec12">
+              <title>Identification of combined CIND and dementia</title>
+              <p>
+                The performance of the K-mMMSE (AUC ± SE, 0.91 ± 0.02) was significantly superior to that of the K-MMSE (0.89 ± 0.02; 
+                <italic>P</italic>
+                 = 0.041). The ROC curves plotted in the same graph suggested that the performance of the K-mMMSE was superior to that of the K-MMSE at almost all cut-off points (Figure 
+                <xref rid="Fig1" ref-type="fig">1</xref>
+                ). At a cut-off of 69/70 for CIND, the K-mMMSE had a sensitivity of 0.86 (95% Confidence Intervals, 0.78–0.92), a specificity of 0.79 (0.71–0.86), a positive likelihood ratio (LR) of 4.15, and a negative LR of 0.18. In comparison, at a cut-off of 20/21 for CIND, the K-MMSE had a sensitivity of 0.82 (0.73–0.89), a specificity of 0.79 (0.71–0.86), a positive LR of 3.95 and a negative LR of 0.23.
+                <fig id="Fig1" position="float">
+                  <label>Figure 1</label>
+                  <caption xml:lang="en">
+                    <p>
+                      <bold>Receiver operating characteristic (ROC) curves of the K-mMMSE and the K-MMSE for combined CIND and dementia.</bold>
+                       K-mMMSE (light blue), K-MMSE (brown), and diagonal line. Area under ROC Curves (AUC): K-mMMSE = 0.91, K-MMSE = 0.89.
+                    </p>
+                  </caption>
+                  <graphic specific-use="web" mime-subtype="JPEG" ns0:href="MediaObjects/12889_2003_Article_117_Fig1_HTML.jpg"/>
+                </fig>
+              </p>
+            </sec>
+            <sec id="Sec13">
+              <title>Identification of dementia</title>
+              <p>
+                Both the K-mMMSE and the K-MMSE could properly discriminate demented from normal individuals, but there was no significant difference between them (AUC, 0.92 vs 0.91; 
+                <italic>P</italic>
+                 = NS). At the cut-off of 59/60, the K-mMMSE had a sensitivity of 0.91 (0.79–0.98), a specificity of 0.78 (0.72–0.84), a positive LR of 4.21 and a negative LR of 0.11. At a cut-off point of 18/19, the K-MMSE had a sensitivity of 0.91 (0.79–0.98), a specificity of 0.76 (0.69–0.82), a positive LR of 3.82 and a negative LR of 0.11.
+              </p>
+            </sec>
+          </sec>
+        </sec>
+        <sec id="Sec14" sec-type="discussion">
+          <title>Discussion</title>
+          <p>We have shown here that the K-mMMSE is a valid, reliable, and stable cognitive screening instrument, as well as being more sensitive to all levels of CIND and dementia, compared to the K-MMSE. The K-mMMSE has been shown to have a broader spectrum of cognitive domains, including political figures, word fluency, similarities, and delayed recall. Furthermore, the expanded 100 point scoring allows finer discrimination of cognitive impairment. Thus, the K-mMMSE represents a summary form of administration and scoring.</p>
+          <p>
+            Internal consistency results of the K-mMMSE and K-MMSE were comparable to those observed in previous community studies. Cronbach's alpha (á) for the 3MS has been reported to be 0.91 in a community study, a value identical to that found here [
+            <xref ref-type="bibr" rid="CR23">23</xref>
+            ]. Another population study has reported alphas for the 3MS and MMSE of 0.87 and 0.78, respectively, which were slightly lower than our findings of 0.91 and 0.84 [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            ]. Cronbach's alpha has been reported to be influenced by educational status or variability of response, in that it was higher in groups having fewer years of education [
+            <xref ref-type="bibr" rid="CR24">24</xref>
+            ] and in clinical populations having greater variability [
+            <xref ref-type="bibr" rid="CR25">25</xref>
+            ]. Our population consisted of a high percentage with no formal education (50.2%), and their scores were very variable (inter-quartile ranges for the K-mMMSE and the K-MMSE of 48–80 and 14–25, respectively).
+          </p>
+          <p>
+            Test-retest reliability results of the K-mMMSE were also comparable to those in previous studies. Correlation coefficients of 0.91 to 0.93 have been reported for small samples of community dwelling residents and dementia patients, which are slightly higher than our value of 0.89 [
+            <xref ref-type="bibr" rid="CR26">26</xref>
+            ]. The Stirling County Study found a coefficient of 0.78, but items requiring less judgment exhibited lower reliability than items requiring more judgment [
+            <xref ref-type="bibr" rid="CR23">23</xref>
+            ]. In contrast, we found markedly lower reliability in items requiring more judgment, i.e., similarities (
+            <italic>r</italic>
+             = 0.37), compared with simple items, i.e., temporal orientation (
+            <italic>r</italic>
+             = 0.81). The discrepancy might be due to a difference of time lag, in that the Stirling County Study retest was performed over a 3 year interval, with individual retests ranging from 0.9 to 4.0 years. Furthermore their retested subjects were not representative of all participants. We observed a correlation coefficient of 0.85 for the K-MMSE over all levels of cognitive status, which is in line with generally acceptable findings [
+            <xref ref-type="bibr" rid="CR2">2</xref>
+            ]. Scores on the K-mMMSE and K-MMSE increased after retest, with differences in mean values of 4.4 and 2.6 points, respectively, presumably due to a practice or studying effect after a short interval [
+            <xref ref-type="bibr" rid="CR1">1</xref>
+            , 
+            <xref ref-type="bibr" rid="CR27">27</xref>
+            , 
+            <xref ref-type="bibr" rid="CR28">28</xref>
+            ].
+          </p>
+          <p>
+            The K-mMMSE was superior to the K-MMSE for diagnosis of all levels of CIND or dementia, as well as being slightly superior at almost all cut-off points. Since dementia is usually preceded by CIND or mild cognitive impairment (MCI), the definition of both requires explication [
+            <xref ref-type="bibr" rid="CR29">29</xref>
+            , 
+            <xref ref-type="bibr" rid="CR30">30</xref>
+            ]. Subjects with CIND or MCI have been found to be at increased risk for developing dementia or, more specifically, Alzheimer's disease and some vascular subtypes of dementia [
+            <xref ref-type="bibr" rid="CR30">30</xref>
+            , 
+            <xref ref-type="bibr" rid="CR31">31</xref>
+            ]. The difference between the K-mMMSE and the K-MMSE in diagnosing this condition might mean that the former was more sensitive to the mild stage or pre-dementia than the latter. In this respect, the K-mMMSE seemed to partially overcome a weakness of the K-MMSE, that is, insensitivity to mild dementia [
+            <xref ref-type="bibr" rid="CR4">4</xref>
+            ]. The present findings suggested that the K-MMSE was actually a fairly reasonable instrument as well. Given the faster administration of the K-MMSE, it would be a choice of clinicians to use optimally, recognizing that the K-MMSE was slightly inferior in terms of its test characteristics.
+          </p>
+          <p>
+            The two cognitive screening measures did not differ significantly, however, in the detection of dementia. These results are comparable to the findings of McDowell et al. [
+            <xref ref-type="bibr" rid="CR6">6</xref>
+            ]; however, their validity results differed between the two language groups studied, namely French and English speakers. The 3MS was superior only in the diagnosis of combined CIND or dementia in French, but not English, speaking participants. There were fewer French than English participants (434 vs. 1166), and they had fewer years of education (6.8 vs. 9.2 years). These differences were also observed in our study samples, with the most important being the smaller sample size, inasmuch as statistical significance was directly influenced by the total number of participants [
+            <xref ref-type="bibr" rid="CR22">22</xref>
+            ].
+          </p>
+          <p>
+            Even Cache County modifications to the 3MS showed a good sensitivity and specificity, 3MS-R was also dependent on their cultural and social factors which might limit general use in non-US population [
+            <xref ref-type="bibr" rid="CR9">9</xref>
+            ]. For this reason, cross validation was a very important step for a cultural validation of the instrument. The K-mMMSE was shown to be more significantly correlated with other tests for cognitive status or functional abilities, such as the CDR, S-SDQ, and K-IADL, than was the K-MMSE. The correlation coefficients of the CDR were higher than the informant questionnaires, which might be due to the characteristics of the questions. That is, the K-mMMSE and K-MMSE are cognitive screening measures, and the CDR includes items about the cognitive aspects for scoring, whereas the informant questionnaires (S-SDQ and K-IADL) are comprised only of questions related to functional abilities. To the best of our knowledge, this is the first report showing concurrent validity of the modified MMSE series.
+          </p>
+          <p>
+            There are important limitations to our findings. First, the subjects who participated in this study showed very low levels of educational background, perhaps limiting its general usefulness, especially regarding the cut-off points for a diagnosis of CIND or dementia. The low educational attainment, however, has been one of important characteristics of our elder population, because they were largely deprived of education due to Korean War and Japanese colonial dominion over the country [
+            <xref ref-type="bibr" rid="CR32">32</xref>
+            ]. And the study design, which showed the validities of and comparison between the two cognitive screening measures, would be appropriate for selected community samples, because all participants have a two-stage interview and a clinical examination, thus reducing verification bias. Second, although the trapezoidal rule provide a more accurate method of estimating the &quot;true&quot; AUC, an AUC derived from the parameters of a straight-line fit to the ROC plot tends to slightly underestimate the AUC of a Gaussian-based ROC. Finally, although we observed no significant differences between participants and non-participants, the rate of participation in our study was somewhat low. The majority of non-participants were those with whom we could not meet on two separate visits, suggesting that individuals who refused to participate may be more intelligent or active than the participants. If this were true, however, our results would not change, and additional statistical power may be added to our analysis.
+          </p>
+        </sec>
+        <sec id="Sec15" sec-type="conclusions">
+          <title>Conclusions</title>
+          <p>We conclude that the K-mMMSE is a valid, stable, and reliable cognitive screen in an epidemiologic study. The K-mMMSE is more sensitive to all levels of CIND and dementia than the K-MMSE. Future investigations with the K-mMMSE will examine age-, sex-, and education-specific reference values to determine how performance patterns on individual items may discriminate between those with or without cognitive impairment and dementia subtypes.</p>
+        </sec>
+      </body>
+      <back>
+        <ack>
+          <title>Acknowledgements</title>
+          <p>We thank Professors Seol-Heui Han, Jin-Sang Yoon, and Young-Hyun Kim for their valuable assistance in preparing the manuscript.</p>
+        </ack>
+        <ref-list id="Bib1">
+          <title>References</title>
+          <ref-list>
+            <ref id="CR1">
+              <label>1.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Folstein</surname>
+                    <given-names>MF</given-names>
+                  </name>
+                  <name>
+                    <surname>Folstein</surname>
+                    <given-names>SE</given-names>
+                  </name>
+                  <name>
+                    <surname>McHugh</surname>
+                    <given-names>PR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">&quot;Mini-mental state&quot;. A practical method for grading the cognitive state of patients for the clinician</article-title>
+                <source>J Psychiatr Res</source>
+                <year>1975</year>
+                <volume>12</volume>
+                <fpage>189</fpage>
+                <lpage>198</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaE28%2FntFKjtw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/0022-3956(75)90026-6</pub-id>
+                <pub-id pub-id-type="pmid">1202204</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR2">
+              <label>2.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tombaugh</surname>
+                    <given-names>TN</given-names>
+                  </name>
+                  <name>
+                    <surname>McIntyre</surname>
+                    <given-names>NJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The mini-mental state examination: a comprehensive review</article-title>
+                <source>J Am Geriatr Soc</source>
+                <year>1992</year>
+                <volume>40</volume>
+                <fpage>922</fpage>
+                <lpage>935</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK38zotFanug%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1111/j.1532-5415.1992.tb01992.x</pub-id>
+                <pub-id pub-id-type="pmid">1512391</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR3">
+              <label>3.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Dick</surname>
+                    <given-names>JP</given-names>
+                  </name>
+                  <name>
+                    <surname>Guiloff</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Stewart</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Blackstock</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Bielawska</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Paul</surname>
+                    <given-names>EA</given-names>
+                  </name>
+                  <name>
+                    <surname>Marsden</surname>
+                    <given-names>CD</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mini-mental state examination in neurological patients</article-title>
+                <source>J Neurol Neurosurg Psychiatry</source>
+                <year>1984</year>
+                <volume>47</volume>
+                <fpage>496</fpage>
+                <lpage>499</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL2c3ktFygtg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1136/jnnp.47.5.496</pub-id>
+                <pub-id pub-id-type="pmid">6736981</pub-id>
+                <pub-id pub-id-type="pmcid">1027826</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR4">
+              <label>4.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Feher</surname>
+                    <given-names>EP</given-names>
+                  </name>
+                  <name>
+                    <surname>Mahurin</surname>
+                    <given-names>RK</given-names>
+                  </name>
+                  <name>
+                    <surname>Doody</surname>
+                    <given-names>RS</given-names>
+                  </name>
+                  <name>
+                    <surname>Cooke</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Sims</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Pirozzolo</surname>
+                    <given-names>FJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Establishing the limits of the Mini-Mental State. Examination of 'subtests'</article-title>
+                <source>Arch Neurol</source>
+                <year>1992</year>
+                <volume>49</volume>
+                <fpage>87</fpage>
+                <lpage>92</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK38%2FpsFyisg%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1001/archneur.1992.00530250091022</pub-id>
+                <pub-id pub-id-type="pmid">1728269</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR5">
+              <label>5.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Teng</surname>
+                    <given-names>EL</given-names>
+                  </name>
+                  <name>
+                    <surname>Chui</surname>
+                    <given-names>HC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The Modified Mini-Mental State (3MS) examination</article-title>
+                <source>J Clin Psychiatry</source>
+                <year>1987</year>
+                <volume>48</volume>
+                <fpage>314</fpage>
+                <lpage>318</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL2s3nvF2mtg%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">3611032</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR6">
+              <label>6.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>McDowell</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Kristjansson</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Hill</surname>
+                    <given-names>GB</given-names>
+                  </name>
+                  <name>
+                    <surname>Hebert</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Community screening for dementia: the Mini Mental State Exam (MMSE) and Modified Mini-Mental State Exam (3MS) compared</article-title>
+                <source>J Clin Epidemiol</source>
+                <year>1997</year>
+                <volume>50</volume>
+                <fpage>377</fpage>
+                <lpage>383</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK2szit1Kjtw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0895-4356(97)00060-7</pub-id>
+                <pub-id pub-id-type="pmid">9179095</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR7">
+              <label>7.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Khachaturian</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Gallo</surname>
+                    <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Breitner</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Performance characteristics of a two-stage dementia screen in a population sample</article-title>
+                <source>J Clin Epidemiol</source>
+                <year>2000</year>
+                <volume>53</volume>
+                <fpage>531</fpage>
+                <lpage>540</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD3c3nsVSguw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1016/S0895-4356(99)00196-1</pub-id>
+                <pub-id pub-id-type="pmid">10812327</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR8">
+              <label>8.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Grace</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Nadler</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>White</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>Guilmette</surname>
+                    <given-names>TJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Giuliano</surname>
+                    <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Monsch</surname>
+                    <given-names>AU</given-names>
+                  </name>
+                  <name>
+                    <surname>Snow</surname>
+                    <given-names>MG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Folstein vs modified Mini-Mental State Examination in geriatric stroke. Stability, validity, and screening utility</article-title>
+                <source>Arch Neurol</source>
+                <year>1995</year>
+                <volume>52</volume>
+                <fpage>477</fpage>
+                <lpage>484</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK2M3ltFGlug%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1001/archneur.1995.00540290067019</pub-id>
+                <pub-id pub-id-type="pmid">7733842</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR9">
+              <label>9.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Tschanz</surname>
+                    <given-names>JT</given-names>
+                  </name>
+                  <name>
+                    <surname>Welsh-Bohmer</surname>
+                    <given-names>KA</given-names>
+                  </name>
+                  <name>
+                    <surname>Plassman</surname>
+                    <given-names>BL</given-names>
+                  </name>
+                  <name>
+                    <surname>Norton</surname>
+                    <given-names>MC</given-names>
+                  </name>
+                  <name>
+                    <surname>Wyse</surname>
+                    <given-names>BW</given-names>
+                  </name>
+                  <name>
+                    <surname>Breitner</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">An adaptation of the modified mini-mental state examination: analysis of demographic influences and normative data: the cache county study</article-title>
+                <source>Neuropsychiatry Neuropsychol Behav Neurol</source>
+                <year>2002</year>
+                <volume>15</volume>
+                <fpage>28</fpage>
+                <lpage>38</lpage>
+                <pub-id pub-id-type="pmid">11877549</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR10">
+              <label>10.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>JH</given-names>
+                  </name>
+                  <name>
+                    <surname>Kwon</surname>
+                    <given-names>YC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Modification of the mini-mental state examination for use in the elderly in a non-western society: Part I. Development of Korean Version of Mini-Mental State Examination</article-title>
+                <source>Int J Geriatr Psychiatry</source>
+                <year>1990</year>
+                <volume>5</volume>
+                <fpage>381</fpage>
+                <lpage>387</lpage>
+                <pub-id pub-id-type="doi">10.1002/gps.930050606</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR11">
+              <label>11.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kang</surname>
+                    <given-names>YW</given-names>
+                  </name>
+                  <name>
+                    <surname>Na</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>SH</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A Validity study on the Korean Mini-Mental State Examination (K-MMSE) in dementia patients</article-title>
+                <source>J Korean Neurol Assoc</source>
+                <year>1997</year>
+                <volume>15</volume>
+                <fpage>300</fpage>
+                <lpage>308</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR12">
+              <label>12.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>JH</given-names>
+                  </name>
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>YN</given-names>
+                  </name>
+                  <name>
+                    <surname>Ko</surname>
+                    <given-names>HJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Modification of the Mini-Mental State Examination for use in the elderly in a non-western society: part II. Cutoff points and their diagnostic validities</article-title>
+                <source>Int J Geriatr Psychiatry</source>
+                <year>1991</year>
+                <volume>6</volume>
+                <fpage>875</fpage>
+                <lpage>882</lpage>
+                <pub-id pub-id-type="doi">10.1002/gps.930061208</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR13">
+              <label>13.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kim</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Shin</surname>
+                    <given-names>IS</given-names>
+                  </name>
+                  <name>
+                    <surname>Yoon</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <name>
+                    <surname>Kim</surname>
+                    <given-names>JH</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>HY</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Cut-off score on MMSE-K for screening of dementia in community dwelling old people</article-title>
+                <source>J Korean Geriatr Psychiatry</source>
+                <year>2001</year>
+                <volume>5</volume>
+                <fpage>163</fpage>
+                <lpage>168</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR14">
+              <label>14.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Sohn</surname>
+                    <given-names>EH</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>AY</given-names>
+                  </name>
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>HJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The validity and reliability of the Korean Modified Mini-Mental State (K-3MS) Examination</article-title>
+                <source>J Korean Neurol Assoc</source>
+                <year>2003</year>
+                <volume>21</volume>
+                <fpage>346</fpage>
+                <lpage>356</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR15">
+              <label>15.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Choi</surname>
+                    <given-names>SH</given-names>
+                  </name>
+                  <name>
+                    <surname>Na</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                  <name>
+                    <surname>Oh</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Park</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">A Short form of the Samsung Dementia Questionnaire (S-SDQ): development and cross-validation</article-title>
+                <source>J Korean Neurol Assoc</source>
+                <year>1999</year>
+                <volume>17</volume>
+                <fpage>253</fpage>
+                <lpage>258</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR16">
+              <label>16.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Kang</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Choi</surname>
+                    <given-names>SH</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>BH</given-names>
+                  </name>
+                  <name>
+                    <surname>Kwon</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                  <name>
+                    <surname>Na</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>SH</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The reliability and validity of the Korean Instrumental Activities of Daily Living (K-IADL)</article-title>
+                <source>J Korean Neurol Assoc</source>
+                <year>2002</year>
+                <volume>20</volume>
+                <fpage>8</fpage>
+                <lpage>14</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR17">
+              <label>17.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Association</surname>
+                    <given-names>American Psychiatric</given-names>
+                  </name>
+                </person-group>
+                <source>Diagnostic and Statistical Manual of Mental Disorders: DSM-IV</source>
+                <year>1994</year>
+                <publisher-loc>American Psychiatric Association</publisher-loc>
+                <publisher-name>Washington</publisher-name>
+              </mixed-citation>
+            </ref>
+            <ref id="CR18">
+              <label>18.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>McKhann</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Drachman</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Folstein</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Katzman</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Price</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Stadlan</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Clinical diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease</article-title>
+                <source>Neurology</source>
+                <year>1984</year>
+                <volume>34</volume>
+                <fpage>939</fpage>
+                <lpage>944</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL2c3ks1altQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1212/WNL.34.7.939</pub-id>
+                <pub-id pub-id-type="pmid">6610841</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR19">
+              <label>19.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Choi</surname>
+                    <given-names>SH</given-names>
+                  </name>
+                  <name>
+                    <surname>Na</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>BH</given-names>
+                  </name>
+                  <name>
+                    <surname>Hahm</surname>
+                    <given-names>DS</given-names>
+                  </name>
+                  <name>
+                    <surname>Jeong</surname>
+                    <given-names>JH</given-names>
+                  </name>
+                  <name>
+                    <surname>Yoon</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Yoo</surname>
+                    <given-names>KH</given-names>
+                  </name>
+                  <name>
+                    <surname>Ha</surname>
+                    <given-names>CK</given-names>
+                  </name>
+                  <name>
+                    <surname>Han</surname>
+                    <given-names>IW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Estimating the Validity of the Korean Version of Expanded Clinical Dementia Rating (CDR) Scale</article-title>
+                <source>J Korean Neurol Assoc</source>
+                <year>2001</year>
+                <volume>19</volume>
+                <fpage>585</fpage>
+                <lpage>591</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR20">
+              <label>20.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Cronbach</surname>
+                    <given-names>LJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Coefficient alpha and the internal structure of tests</article-title>
+                <source>Psychometrika</source>
+                <year>1951</year>
+                <volume>16</volume>
+                <fpage>297</fpage>
+                <lpage>334</lpage>
+                <pub-id pub-id-type="doi">10.1007/BF02310555</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR21">
+              <label>21.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Hanley</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>McNeil</surname>
+                    <given-names>BJ</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">The meaning and use of the area under a receiver operating characteristic (ROC) curve</article-title>
+                <source>Radiology</source>
+                <year>1982</year>
+                <volume>143</volume>
+                <fpage>29</fpage>
+                <lpage>36</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL387ltFyksQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1148/radiology.143.1.7063747</pub-id>
+                <pub-id pub-id-type="pmid">7063747</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR22">
+              <label>22.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>DeLong</surname>
+                    <given-names>ER</given-names>
+                  </name>
+                  <name>
+                    <surname>DeLong</surname>
+                    <given-names>DM</given-names>
+                  </name>
+                  <name>
+                    <surname>Clarke-Pearson</surname>
+                    <given-names>DL</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach</article-title>
+                <source>Biometrics</source>
+                <year>1988</year>
+                <volume>44</volume>
+                <fpage>837</fpage>
+                <lpage>845</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL1M%2Fns12ksQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.2307/2531595</pub-id>
+                <pub-id pub-id-type="pmid">3203132</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR23">
+              <label>23.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bassuk</surname>
+                    <given-names>SS</given-names>
+                  </name>
+                  <name>
+                    <surname>Murphy</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Characteristics of the Modified Mini-Mental State Exam among elderly persons</article-title>
+                <source>J Clin Epidemiol</source>
+                <year>2003</year>
+                <volume>56</volume>
+                <fpage>622</fpage>
+                <lpage>628</lpage>
+                <pub-id pub-id-type="doi">10.1016/S0895-4356(03)00111-2</pub-id>
+                <pub-id pub-id-type="pmid">12921930</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR24">
+              <label>24.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Jorm</surname>
+                    <given-names>AF</given-names>
+                  </name>
+                  <name>
+                    <surname>Scott</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Henderson</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Kay</surname>
+                    <given-names>DW</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Educational level differences on the Mini-Mental State: the role of test bias</article-title>
+                <source>Psychol Med</source>
+                <year>1988</year>
+                <volume>18</volume>
+                <fpage>727</fpage>
+                <lpage>731</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaL1M%2Fkt1GlsQ%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1017/S0033291700008424</pub-id>
+                <pub-id pub-id-type="pmid">3186871</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR25">
+              <label>25.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Holzer</surname>
+                    <given-names>CEIII</given-names>
+                  </name>
+                  <name>
+                    <surname>Tischler</surname>
+                    <given-names>GL</given-names>
+                  </name>
+                  <name>
+                    <surname>Leaf</surname>
+                    <given-names>PJ</given-names>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name>
+                    <surname>Greenley</surname>
+                    <given-names>JR</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">An epidemiologic assessment of cognitive impairment in a community population</article-title>
+                <source>Research in Community Mental Health</source>
+                <year>1984</year>
+                <publisher-loc>JAI Press</publisher-loc>
+                <publisher-name>London England</publisher-name>
+                <fpage>3</fpage>
+                <lpage>32</lpage>
+                <volume content-type="number-in-series">4</volume>
+              </mixed-citation>
+            </ref>
+            <ref id="CR26">
+              <label>26.</label>
+              <mixed-citation publication-type="book">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Teng</surname>
+                    <given-names>EL</given-names>
+                  </name>
+                  <name>
+                    <surname>Chui</surname>
+                    <given-names>HC</given-names>
+                  </name>
+                  <name>
+                    <surname>Gong</surname>
+                    <given-names>A</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Comparisons between the Mini-Mental State Exam (MMSE) and its modified version: the 3MS test</article-title>
+                <source>In: International Psychogeriatric Association Psychogeriatrics: biomedical and social advances</source>
+                <year>1990</year>
+                <fpage>189</fpage>
+                <lpage>192</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR27">
+              <label>27.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Keating</surname>
+                    <given-names>H. J., 3rd</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">&quot;Studying&quot; for the Mini-Mental Status Exam</article-title>
+                <source>J Am Geriatr Soc</source>
+                <year>1987</year>
+                <volume>35</volume>
+                <fpage>594</fpage>
+                <lpage>595</lpage>
+                <pub-id pub-id-type="doi">10.1111/j.1532-5415.1987.tb01409.x</pub-id>
+                <pub-id pub-id-type="pmid">3571811</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR28">
+              <label>28.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Bravo</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Hebert</surname>
+                    <given-names>R</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Reliability of the Modified Mini-Mental State Examination in the context of a two-phase community prevalence study</article-title>
+                <source>Neuroepidemiology</source>
+                <year>1997</year>
+                <volume>16</volume>
+                <fpage>141</fpage>
+                <lpage>148</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK2szgtlCntw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1159/000368808</pub-id>
+                <pub-id pub-id-type="pmid">9159769</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR29">
+              <label>29.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Petersen</surname>
+                    <given-names>RC</given-names>
+                  </name>
+                  <name>
+                    <surname>Smith</surname>
+                    <given-names>GE</given-names>
+                  </name>
+                  <name>
+                    <surname>Waring</surname>
+                    <given-names>SC</given-names>
+                  </name>
+                  <name>
+                    <surname>Ivnik</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Kokmen</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Tangelos</surname>
+                    <given-names>EG</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Aging, memory, and mild cognitive impairment</article-title>
+                <source>Int Psychogeriatr</source>
+                <year>1997</year>
+                <volume>9 Suppl 1</volume>
+                <fpage>65</fpage>
+                <lpage>69</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DyaK1c7gvVKruw%3D%3D</pub-id>
+                <pub-id pub-id-type="doi">10.1017/S1041610297004717</pub-id>
+                <pub-id pub-id-type="pmid">9447429</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR30">
+              <label>30.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Shah</surname>
+                    <given-names>Y</given-names>
+                  </name>
+                  <name>
+                    <surname>Tangalos</surname>
+                    <given-names>EG</given-names>
+                  </name>
+                  <name>
+                    <surname>Petersen</surname>
+                    <given-names>RC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Mild cognitive impairment. When is it a precursor to Alzheimer's disease?</article-title>
+                <source>Geriatrics</source>
+                <year>2000</year>
+                <volume>55</volume>
+                <fpage>65</fpage>
+                <lpage>68</lpage>
+              </mixed-citation>
+            </ref>
+            <ref id="CR31">
+              <label>31.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Meyer</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <name>
+                    <surname>Xu</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Thornby</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Chowdhury</surname>
+                    <given-names>MH</given-names>
+                  </name>
+                  <name>
+                    <surname>Quach</surname>
+                    <given-names>M</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Is mild cognitive impairment prodromal for vascular dementia like Alzheimer's disease?</article-title>
+                <source>Stroke</source>
+                <year>2002</year>
+                <volume>33</volume>
+                <fpage>1981</fpage>
+                <lpage>1985</lpage>
+                <pub-id pub-id-type="doi">10.1161/01.STR.0000024432.34557.10</pub-id>
+                <pub-id pub-id-type="pmid">12154249</pub-id>
+              </mixed-citation>
+            </ref>
+            <ref id="CR32">
+              <label>32.</label>
+              <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                  <name>
+                    <surname>Lee</surname>
+                    <given-names>JC</given-names>
+                  </name>
+                </person-group>
+                <article-title xml:lang="en">Korea's health care policy of the twentieth century</article-title>
+                <source>Uisahak</source>
+                <year>1999</year>
+                <volume>8</volume>
+                <fpage>137</fpage>
+                <lpage>145</lpage>
+                <pub-id pub-id-type="other" assigning-authority="ChemPort ( Chemical Abstract Service )">1:STN:280:DC%2BD38vlt1GltA%3D%3D</pub-id>
+                <pub-id pub-id-type="pmid">12212608</pub-id>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+          <ref-list id="BSec1">
+            <title>Pre-publication history</title>
+            <ref id="CR33">
+              <mixed-citation publication-type="other">
+                The pre-publication history for this paper can be accessed here:
+                <ext-link ns0:href="http://www.biomedcentral.com/1471-2458/4/31/prepub" ext-link-type="uri">http://www.biomedcentral.com/1471-2458/4/31/prepub</ext-link>
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </ref-list>
+        <app-group>
+          <app id="App1" specific-use="web-only">
+            <sec id="Sec16">
+              <title>Authors’ original submitted files for images</title>
+              <p>
+                Below are the links to the authors’ original submitted files for images.
+                <supplementary-material content-type="local-data" id="MOESM1" ns0:title="Authors’ original submitted files for images">
+                  <media mimetype="application" mime-subtype="vnd.ms-powerpoint" ns0:href="MediaObjects/12889_2003_117_MOESM1_ESM.ppt">
+                    <caption xml:lang="en">
+                      <p>Authors’ original file for figure 1</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </p>
+            </sec>
+          </app>
+        </app-group>
+        <notes notes-type="Misc">
+          <title>Competing interests</title>
+          <p>None declared.</p>
+        </notes>
+        <notes notes-type="Misc">
+          <title>Authors' contributions</title>
+          <p>SKJ performed physical measurements, collected data, and drafted the manuscript. KHC participated in data collection and reviewed the manuscript. JMK conceived of the study and participated in its design, and also performed physical measurements. All authors read and approved the final manuscript.</p>
+        </notes>
+      </back>
+    </article>
+  </records>
+  <facets/>
+</response>

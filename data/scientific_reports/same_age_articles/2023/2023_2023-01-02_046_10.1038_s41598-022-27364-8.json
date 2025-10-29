@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:08.104300",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-022-27364-8",
+    "title": "High performance antenna-on-chip inspired by SIW and metasurface technologies for THz band operation",
+    "article_number": "56",
+    "publication_date": "2023-01-02",
+    "volume": "13",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Mohammad Alibakhshikenari",
+      "Bal S. Virdee",
+      "Renu Karthick Rajaguru",
+      "Amjad Iqbal",
+      "Muath Al‑Hasan",
+      "Chan H. See",
+      "Francisco Falcone"
+    ]
+  },
+  "article_index": 46,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T15:32:07.217440"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T15:32:08.767200"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T15:32:10.015816"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 18,
+      "retrieved_at": "2025-10-03T22:00:42.564821"
+    },
+    "last_updated": "2025-10-03T22:00:42.564920"
+  }
+}

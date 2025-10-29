@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:54:20.667777",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-8260-5",
+    "title": "Gender differences in the impact of sleep duration on common mental disorders in school students",
+    "article_number": "148",
+    "publication_date": "2020-01-31",
+    "volume": "20",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Beatriz Tosé Agathão",
+      "Claudia Souza Lopes",
+      "Diana Barbosa Cunha",
+      "Rosely Sichieri"
+    ]
+  },
+  "article_index": 10,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:38:56.355505"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T13:38:57.901707"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 13,
+      "retrieved_at": "2025-10-03T13:38:59.182949"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:17:01.562076"
+    },
+    "last_updated": "2025-10-03T21:17:01.562127"
+  }
+}

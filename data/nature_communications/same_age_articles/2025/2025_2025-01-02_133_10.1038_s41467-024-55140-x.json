@@ -1,0 +1,75 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.531677",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55140-x",
+    "title": "Tumor cell-based liquid biopsy using high-throughput microfluidic enrichment of entire leukapheresis product",
+    "article_number": "32",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Avanish Mishra",
+      "Shih-Bo Huang",
+      "Taronish Dubash",
+      "Risa Burr",
+      "Jon F. Edd",
+      "Ben S. Wittner",
+      "Quinn E. Cunneely",
+      "Victor R. Putaturo",
+      "Akansha Deshpande",
+      "Ezgi Antmen",
+      "Kaustav A. Gopinathan",
+      "Keisuke Otani",
+      "Yoshiyuki Miyazawa",
+      "Ji Eun Kwak",
+      "Sara Y. Guay",
+      "Justin Kelly",
+      "John Walsh",
+      "Linda T. Nieman",
+      "Isabella Galler",
+      "PuiYee Chan",
+      "Michael S. Lawrence",
+      "Ryan J. Sullivan",
+      "Aditya Bardia",
+      "Douglas S. Micalizzi",
+      "Lecia V. Sequist",
+      "Richard J. Lee",
+      "Joseph W. Franses",
+      "David T. Ting",
+      "Patricia A. R. Brunker",
+      "Shyamala Maheswaran",
+      "David T. Miyamoto",
+      "Daniel A. Haber",
+      "Mehmet Toner"
+    ]
+  },
+  "article_index": 133,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T19:43:36.685524"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:43:38.255518"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:43:39.446930"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T23:28:50.748405"
+    },
+    "last_updated": "2025-10-03T23:28:50.748480"
+  }
+}

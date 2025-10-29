@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:42:57.866765",
+  "year": 2022,
+  "article_type": "comparison",
+  "publication_date": "2022-01-06",
+  "article_data": {
+    "doi": "10.1038/s41598-021-03360-2",
+    "title": "Microwave-assisted enzymatic hydrolysis to produce xylooligosaccharides from rice husk alkali-soluble arabinoxylan",
+    "article_number": "11",
+    "publication_date": "2022-01-07",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Wannaporn Klangpetch",
+      "Alisa Pattarapisitporn",
+      "Suphat Phongthai",
+      "Niramon Utama-ang",
+      "Thunnop Laokuldilok",
+      "Pipat Tangjaidee",
+      "Tri Indrarini Wirjantoro",
+      "Pannapapol Jaichakan"
+    ]
+  },
+  "article_index": 96,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 25,
+      "retrieved_at": "2025-10-03T15:07:42.494158"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T15:07:44.058614"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T15:07:45.320243"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T21:50:22.752289"
+    },
+    "last_updated": "2025-10-03T21:50:22.752510"
+  }
+}

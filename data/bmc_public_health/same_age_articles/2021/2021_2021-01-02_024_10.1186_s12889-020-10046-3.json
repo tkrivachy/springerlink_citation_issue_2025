@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.631519",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10046-3",
+    "title": "Impact of increasing the availability of healthier vs. less-healthy food on food selection: a randomised laboratory experiment",
+    "article_number": "132",
+    "publication_date": "2021-02-01",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Rachel Pechey",
+      "Olivia Sexton",
+      "Saphsa Codling",
+      "Theresa M. Marteau"
+    ]
+  },
+  "article_index": 24,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T13:43:39.469475"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T13:43:41.044990"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T13:43:42.327724"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 12,
+      "retrieved_at": "2025-10-03T21:18:43.643674"
+    },
+    "last_updated": "2025-10-03T21:18:43.643862"
+  }
+}

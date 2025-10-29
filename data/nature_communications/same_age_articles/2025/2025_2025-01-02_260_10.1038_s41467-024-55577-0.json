@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.549035",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55577-0",
+    "title": "The protein circPETH-147aa regulates metabolic reprogramming in hepatocellular carcinoma cells to remodel immunosuppressive microenvironment",
+    "article_number": "333",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Tian Lan",
+      "Fengwei Gao",
+      "Yunshi Cai",
+      "Yinghao Lv",
+      "Jiang Zhu",
+      "Hu Liu",
+      "Sinan Xie",
+      "Haifeng Wan",
+      "Haorong He",
+      "Kunlin Xie",
+      "Chang Liu",
+      "Hong Wu"
+    ]
+  },
+  "article_index": 260,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T19:18:38.472775"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T19:18:39.973362"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:18:41.166787"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 21,
+      "retrieved_at": "2025-10-03T23:20:24.953496"
+    },
+    "last_updated": "2025-10-03T23:20:24.953685"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.713334",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08089-7",
+    "title": "Approximate Bayesian computation with deep learning supports a third archaic introgression in Asia and Oceania",
+    "article_number": "246",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Mayukh Mondal",
+      "Jaume Bertranpetit",
+      "Oscar Lao"
+    ]
+  },
+  "article_index": 329,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 99,
+      "retrieved_at": "2025-10-03T17:17:22.841897"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:17:24.349449"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 105,
+      "retrieved_at": "2025-10-03T17:17:25.756610"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 110,
+      "retrieved_at": "2025-10-03T22:39:15.663911"
+    },
+    "last_updated": "2025-10-03T22:39:15.664026"
+  }
+}

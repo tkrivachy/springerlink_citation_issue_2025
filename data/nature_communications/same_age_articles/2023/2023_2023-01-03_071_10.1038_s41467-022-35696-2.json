@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:38:24.647919",
+  "year": 2023,
+  "article_type": "comparison",
+  "publication_date": "2023-01-03",
+  "article_data": {
+    "doi": "10.1038/s41467-022-35696-2",
+    "title": "Rapid, label-free histopathological diagnosis of liver cancer based on Raman spectroscopy and deep learning",
+    "article_number": "48",
+    "publication_date": "2023-01-04",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Liping Huang",
+      "Hongwei Sun",
+      "Liangbin Sun",
+      "Keqing Shi",
+      "Yuzhe Chen",
+      "Xueqian Ren",
+      "Yuancai Ge",
+      "Danfeng Jiang",
+      "Xiaohu Liu",
+      "Wolfgang Knoll",
+      "Qingwen Zhang",
+      "Yi Wang"
+    ]
+  },
+  "article_index": 71,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 164,
+      "retrieved_at": "2025-10-03T18:46:48.732404"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 175,
+      "retrieved_at": "2025-10-03T18:46:50.255186"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 112,
+      "retrieved_at": "2025-10-03T18:46:51.405985"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 192,
+      "retrieved_at": "2025-10-03T23:09:34.316940"
+    },
+    "last_updated": "2025-10-03T23:09:34.317033"
+  }
+}

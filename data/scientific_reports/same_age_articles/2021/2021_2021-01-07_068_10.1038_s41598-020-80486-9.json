@@ -1,0 +1,44 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.212341",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-80486-9",
+    "title": "Automated spectroscopic modelling with optimised convolutional neural networks",
+    "article_number": "208",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Zefang Shen",
+      "R. A. Viscarra Rossel"
+    ]
+  },
+  "article_index": 68,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 57,
+      "retrieved_at": "2025-10-03T14:48:21.390754"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 42,
+      "retrieved_at": "2025-10-03T14:48:23.139067"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T14:48:24.322379"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 61,
+      "retrieved_at": "2025-10-03T21:42:47.673419"
+    },
+    "last_updated": "2025-10-03T21:42:47.673505"
+  }
+}

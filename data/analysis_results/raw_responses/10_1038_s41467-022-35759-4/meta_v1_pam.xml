@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<response xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://prismstandard.org/namespaces/pam/2.2/" xmlns:ns2="http://prismstandard.org/namespaces/basic/2.2/">
+  <apiMessage>This XML was provided by Springer Nature</apiMessage>
+  <query>doi:10.1038/s41467-022-35759-4</query>
+  <result>
+    <total>1</total>
+    <start>1</start>
+    <pageLength>1</pageLength>
+    <recordsDisplayed>1</recordsDisplayed>
+  </result>
+  <records>
+    <ns0:message>
+      <html:head>
+        
+	
+        <ns0:article>
+          <ns2:contentType>Article</ns2:contentType>
+          <dc:identifier>doi:10.1038/s41467-022-35759-4</dc:identifier>
+          <dc:language>en</dc:language>
+          <ns2:url format="html" platform="web">https://www.nature.com/articles/s41467-022-35759-4</ns2:url>
+          <ns2:url format="pdf" platform="web">https://www.nature.com/articles/s41467-022-35759-4.pdf</ns2:url>
+          <dc:title>The learnability of Pauli noise</dc:title>
+          <dc:creator>Chen, Senrui</dc:creator>
+          <dc:creator>Liu, Yunchao</dc:creator>
+          <dc:creator>Otten, Matthew</dc:creator>
+          <dc:creator>Seif, Alireza</dc:creator>
+          <dc:creator>Fefferman, Bill</dc:creator>
+          <dc:creator>Jiang, Liang</dc:creator>
+          <ns2:publicationName>Nature Communications</ns2:publicationName>
+          <ns2:issn/>
+          <ns2:eIssn>2041-1723</ns2:eIssn>
+          <ns2:genre>OriginalPaper</ns2:genre>
+          <ns2:genre>Article</ns2:genre>
+          <journalId>41467</journalId>
+          <ns2:volume>14</ns2:volume>
+          <ns2:number>1</ns2:number>
+          <issueType>Regular</issueType>
+          <topicalCollection/>
+          <ns2:startingPage>1</ns2:startingPage>
+          <ns2:endingPage>8</ns2:endingPage>
+          <openAccess>true</openAccess>
+          <onlineDate>2023-01-04</onlineDate>
+          <ns2:coverDate>2023-12</ns2:coverDate>
+          <ns2:doi>10.1038/s41467-022-35759-4</ns2:doi>
+          <dc:publisher>Nature</dc:publisher>
+          <dc:publisher>Nature Publishing Group UK</dc:publisher>
+          <ns2:publicationDate>2023-01-04</ns2:publicationDate>
+          <ns2:url>http://dx.doi.org/10.1038/s41467-022-35759-4</ns2:url>
+          <ns2:copyright>©2023 The Author(s)</ns2:copyright>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, Humanities and Social Sciences, multidisciplinary</dc:subject>
+          <dc:subject>Science, multidisciplinary</dc:subject>
+        </ns0:article>
+        
+      
+      </html:head>
+      <html:body>
+        <h1>Abstract</h1>
+        <p>Recently, several quantum benchmarking algorithms have been developed to characterize noisy quantum gates on today’s quantum devices. A fundamental issue in benchmarking is that not everything about quantum noise is learnable due to the existence of gauge freedom, leaving open the question what information is learnable and what is not, which is unclear even for a single CNOT gate. Here we give a precise characterization of the learnability of Pauli noise channels attached to Clifford gates using graph theoretical tools. Our results reveal the optimality of cycle benchmarking in the sense that it can extract all learnable information about Pauli noise. We experimentally demonstrate noise characterization of IBM’s CNOT gate up to 2 unlearnable degrees of freedom, for which we obtain bounds using physical constraints. In addition, we show that an attempt to extract unlearnable information by ignoring state preparation noise yields unphysical estimates, which is used to lower bound the state preparation noise.</p>
+        <p>Characterisation of quantum hardware requires clear indications on what can and cannot be learned about quantum noise. Here, the authors show how to characterise learnable degrees of freedom of a Clifford gate using tools from algebraic graph theory.</p>
+      </html:body>
+    </ns0:message>
+  </records>
+  <facets>
+    <facet name="subject">
+      <facet-value count="1">Science, Humanities and Social Sciences, multidisciplinary</facet-value>
+      <facet-value count="1">Science, multidisciplinary</facet-value>
+    </facet>
+    <facet name="keyword"/>
+    <facet name="pub">
+      <facet-value count="1">Nature Communications</facet-value>
+    </facet>
+    <facet name="year">
+      <facet-value count="1">2023</facet-value>
+    </facet>
+    <facet name="country">
+      <facet-value count="1">United States</facet-value>
+    </facet>
+    <facet name="type">
+      <facet-value count="1">Journal</facet-value>
+    </facet>
+  </facets>
+</response>

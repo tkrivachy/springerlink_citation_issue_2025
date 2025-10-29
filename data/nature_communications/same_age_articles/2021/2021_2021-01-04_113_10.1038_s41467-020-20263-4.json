@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.192898",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20263-4",
+    "title": "Rapid parallel adaptation despite gene flow in silent crickets",
+    "article_number": "50",
+    "publication_date": "2021-01-04",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiao Zhang",
+      "Jack G. Rayner",
+      "Mark Blaxter",
+      "Nathan W. Bailey"
+    ]
+  },
+  "article_index": 113,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 35,
+      "retrieved_at": "2025-10-03T18:36:58.450161"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 37,
+      "retrieved_at": "2025-10-03T18:37:00.003916"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T18:37:01.160661"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 51,
+      "retrieved_at": "2025-10-03T23:06:17.102407"
+    },
+    "last_updated": "2025-10-03T23:06:17.102483"
+  }
+}

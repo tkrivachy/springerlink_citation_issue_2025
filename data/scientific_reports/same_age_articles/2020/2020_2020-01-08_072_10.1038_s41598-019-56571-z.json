@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.307339",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56571-z",
+    "title": "MicroRNA-96-5p represses breast cancer proliferation and invasion through Wnt/β-catenin signaling via targeting CTNND1",
+    "article_number": "44",
+    "publication_date": "2020-01-08",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Xiao-hui Gao",
+      "Ya-li Zhang",
+      "Zhi-ye Zhang",
+      "Shuang-shuang Guo",
+      "Xiao-bing Chen",
+      "Yan-zhen Guo"
+    ]
+  },
+  "article_index": 72,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 22,
+      "retrieved_at": "2025-10-03T14:30:04.444976"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:30:06.052035"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 19,
+      "retrieved_at": "2025-10-03T14:30:07.288403"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 28,
+      "retrieved_at": "2025-10-03T21:35:21.533478"
+    },
+    "last_updated": "2025-10-03T21:35:21.533590"
+  }
+}

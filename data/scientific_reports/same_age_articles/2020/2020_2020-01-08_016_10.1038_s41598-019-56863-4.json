@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:41:18.301426",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-08",
+  "article_data": {
+    "doi": "10.1038/s41598-019-56863-4",
+    "title": "Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map",
+    "article_number": "77",
+    "publication_date": "2020-01-09",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Jan Soelter",
+      "Jan Schumacher",
+      "Hartwig Spors",
+      "Michael Schmuker"
+    ]
+  },
+  "article_index": 16,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:31:52.884417"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T14:31:54.408484"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T14:31:55.659433"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T21:36:04.414738"
+    },
+    "last_updated": "2025-10-03T21:36:04.414926"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_date": "2025-10-02T11:42:04.246888",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-07",
+  "article_data": {
+    "doi": "10.1038/s41598-020-78098-4",
+    "title": "Efficacy of loading dose colistin versus carbapenems for treatment of extended spectrum beta lactamase producing ",
+    "article_number": "18",
+    "publication_date": "2021-01-08",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Wasan Katip",
+      "Jukapun Yoodee",
+      "Suriyon Uitrakul",
+      "Peninnah Oberdorfer"
+    ]
+  },
+  "article_index": 246,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T14:53:35.797421"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 27,
+      "retrieved_at": "2025-10-03T14:53:37.552238"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T14:53:38.854522"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T21:44:47.498754"
+    },
+    "last_updated": "2025-10-03T21:44:47.498943"
+  }
+}

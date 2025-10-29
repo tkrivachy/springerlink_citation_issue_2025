@@ -1,0 +1,49 @@
+{
+  "extraction_date": "2025-10-02T11:43:47.839445",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-023-50806-w",
+    "title": "Development of a novel prediction model for differential diagnosis between spinal myxopapillary ependymoma and schwannoma",
+    "article_number": "149",
+    "publication_date": "2024-01-02",
+    "volume": "14",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Chorog Song",
+      "Hyun Su Kim",
+      "Ji Hyun Lee",
+      "Young Cheol Yoon",
+      "Sungjoon Lee",
+      "Sun-Ho Lee",
+      "Eun-Sang Kim"
+    ]
+  },
+  "article_index": 123,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:44:02.927124"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:44:04.444240"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T15:44:05.619171"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 1,
+      "retrieved_at": "2025-10-03T22:05:26.712776"
+    },
+    "last_updated": "2025-10-03T22:05:26.712881"
+  }
+}

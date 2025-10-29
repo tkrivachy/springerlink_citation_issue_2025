@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.691166",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08051-7",
+    "title": "Intestinal epithelial ",
+    "article_number": "457",
+    "publication_date": "2019-01-28",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Amandine Everard",
+      "Hubert Plovier",
+      "Marialetizia Rastelli",
+      "Matthias Van Hul",
+      "Alice de Wouters d’Oplinter",
+      "Lucie Geurts",
+      "Céline Druart",
+      "Sylvie Robine",
+      "Nathalie M. Delzenne",
+      "Giulio G. Muccioli",
+      "Willem M. de Vos",
+      "Serge Luquet",
+      "Nicolas Flamand",
+      "Vincenzo Di Marzo",
+      "Patrice D. Cani"
+    ]
+  },
+  "article_index": 129,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 121,
+      "retrieved_at": "2025-10-03T18:00:56.432287"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 135,
+      "retrieved_at": "2025-10-03T18:00:57.978500"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 124,
+      "retrieved_at": "2025-10-03T18:00:59.402477"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 138,
+      "retrieved_at": "2025-10-03T22:54:19.197245"
+    },
+    "last_updated": "2025-10-03T22:54:19.197475"
+  }
+}

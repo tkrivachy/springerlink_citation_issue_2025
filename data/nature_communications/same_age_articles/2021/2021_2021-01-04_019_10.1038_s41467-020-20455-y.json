@@ -1,0 +1,47 @@
+{
+  "extraction_date": "2025-10-02T11:35:55.176005",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-04",
+  "article_data": {
+    "doi": "10.1038/s41467-020-20455-y",
+    "title": "Cross-scale interaction of host tree size and climatic water deficit governs bark beetle-induced tree mortality",
+    "article_number": "129",
+    "publication_date": "2021-01-08",
+    "volume": "12",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Michael J. Koontz",
+      "Andrew M. Latimer",
+      "Leif A. Mortenson",
+      "Christopher J. Fettig",
+      "Malcolm P. North"
+    ]
+  },
+  "article_index": 19,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 72,
+      "retrieved_at": "2025-10-03T18:34:47.584979"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 67,
+      "retrieved_at": "2025-10-03T18:34:49.097223"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 62,
+      "retrieved_at": "2025-10-03T18:34:50.254695"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 74,
+      "retrieved_at": "2025-10-03T23:05:34.272222"
+    },
+    "last_updated": "2025-10-03T23:05:34.272282"
+  }
+}

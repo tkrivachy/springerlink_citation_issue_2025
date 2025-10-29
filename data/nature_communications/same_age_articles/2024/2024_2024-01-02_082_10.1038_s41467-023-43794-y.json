@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.674807",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43794-y",
+    "title": "Midbrain node for context-specific vocalisation in fish",
+    "article_number": "189",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Eric R. Schuppe",
+      "Irene Ballagh",
+      "Najva Akbari",
+      "Wenxuan Fang",
+      "Jonathan T. Perelmuter",
+      "Caleb H. Radtke",
+      "Margaret A. Marchaterre",
+      "Andrew H. Bass"
+    ]
+  },
+  "article_index": 82,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:10:39.493073"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T19:10:41.058825"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 3,
+      "retrieved_at": "2025-10-03T19:10:42.288764"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 4,
+      "retrieved_at": "2025-10-03T23:17:41.963894"
+    },
+    "last_updated": "2025-10-03T23:17:41.963944"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.716085",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-019-08339-2",
+    "title": "Author Correction: ",
+    "article_number": "317",
+    "publication_date": "2019-01-15",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Jiaxin Gao",
+      "Haitao Wang",
+      "Zeyao Li",
+      "Ada Hang-Heng Wong",
+      "Yi-Zheng Wang",
+      "Yahui Guo",
+      "Xin Lin",
+      "Guisheng Zeng",
+      "Yue Wang",
+      "Jianbin Wang"
+    ]
+  },
+  "article_index": 355,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T17:33:19.790138"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 6,
+      "retrieved_at": "2025-10-03T17:33:21.358287"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 5,
+      "retrieved_at": "2025-10-03T17:33:22.626899"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T22:44:42.259810"
+    },
+    "last_updated": "2025-10-03T22:44:42.259999"
+  }
+}

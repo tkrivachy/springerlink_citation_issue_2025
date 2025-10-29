@@ -1,0 +1,75 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.701222",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08197-4",
+    "title": "Penaeid shrimp genome provides insights into benthic adaptation and frequent molting",
+    "article_number": "356",
+    "publication_date": "2019-01-21",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Xiaojun Zhang",
+      "Jianbo Yuan",
+      "Yamin Sun",
+      "Shihao Li",
+      "Yi Gao",
+      "Yang Yu",
+      "Chengzhang Liu",
+      "Quanchao Wang",
+      "Xinjia Lv",
+      "Xiaoxi Zhang",
+      "Ka Yan Ma",
+      "Xiaobo Wang",
+      "Wenchao Lin",
+      "Long Wang",
+      "Xueli Zhu",
+      "Chengsong Zhang",
+      "Jiquan Zhang",
+      "Songjun Jin",
+      "Kuijie Yu",
+      "Jie Kong",
+      "Peng Xu",
+      "Jack Chen",
+      "Hongbin Zhang",
+      "Patrick Sorgeloos",
+      "Amir Sagi",
+      "Acacia Alcivar-Warren",
+      "Zhanjiang Liu",
+      "Lei Wang",
+      "Jue Ruan",
+      "Ka Hou Chu",
+      "Bin Liu",
+      "Fuhua Li",
+      "Jianhai Xiang"
+    ]
+  },
+  "article_index": 222,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 419,
+      "retrieved_at": "2025-10-03T17:31:10.844207"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 380,
+      "retrieved_at": "2025-10-03T17:31:12.378391"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 362,
+      "retrieved_at": "2025-10-03T17:31:13.541080"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 460,
+      "retrieved_at": "2025-10-03T22:43:58.796097"
+    },
+    "last_updated": "2025-10-03T22:43:58.796290"
+  }
+}

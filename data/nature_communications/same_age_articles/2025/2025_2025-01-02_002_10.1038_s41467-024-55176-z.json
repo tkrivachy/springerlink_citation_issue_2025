@@ -1,0 +1,52 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.510265",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55176-z",
+    "title": "Mitigating CaCO",
+    "article_number": "35",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Yiming Liu",
+      "Minhao Xiao",
+      "Xiaochuan Huang",
+      "Jane Park",
+      "Matthew E. Hoffman",
+      "Yuren Feng",
+      "Alicia Kyoungjin An",
+      "Qilin Li",
+      "Eric M. V. Hoek",
+      "David Jassby"
+    ]
+  },
+  "article_index": 2,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:46:18.316065"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T19:46:19.876123"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:46:21.042599"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 7,
+      "retrieved_at": "2025-10-03T23:29:48.032009"
+    },
+    "last_updated": "2025-10-03T23:29:48.032196"
+  }
+}

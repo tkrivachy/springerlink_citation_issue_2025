@@ -1,0 +1,175 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1038/s41467-024-55645-5",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "1",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1038/s41467-024-55645-5",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-024-55645-5"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "https://www.nature.com/articles/s41467-024-55645-5.pdf"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1038/s41467-024-55645-5"
+        }
+      ],
+      "title": "Programming scheduled self-assembly of circadian materials",
+      "creators": [
+        {
+          "creator": "Leech, Gregor"
+        },
+        {
+          "creator": "Melcher, Lauren"
+        },
+        {
+          "creator": "Chiu, Michelle"
+        },
+        {
+          "creator": "Nugent, Maya"
+        },
+        {
+          "creator": "Juliano, Shirlaine"
+        },
+        {
+          "creator": "Burton, Lily"
+        },
+        {
+          "creator": "Kang, Janet"
+        },
+        {
+          "creator": "Kim, Soo Ji"
+        },
+        {
+          "creator": "Roy, Sourav"
+        },
+        {
+          "creator": "Farhadi, Leila"
+        },
+        {
+          "creator": "Ross, Jennifer L."
+        },
+        {
+          "ORCID": "0000-0002-0397-8886",
+          "creator": "Das, Moumita"
+        },
+        {
+          "ORCID": "0000-0002-7207-4020",
+          "creator": "Rust, Michael J."
+        },
+        {
+          "ORCID": "0000-0003-4475-4667",
+          "creator": "Robertson-Anderson, Rae M."
+        }
+      ],
+      "publicationName": "Nature Communications",
+      "openaccess": "true",
+      "doi": "10.1038/s41467-024-55645-5",
+      "publisher": "Nature",
+      "publisherName": "Nature Publishing Group UK",
+      "publicationDate": "2025-01-02",
+      "publicationType": "Journal",
+      "issn": "",
+      "eIssn": "2041-1723",
+      "volume": "16",
+      "number": "1",
+      "issueType": "Regular",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "12",
+      "journalId": "41467",
+      "onlineDate": "2025-01-02",
+      "coverDate": "2025-12",
+      "copyright": "©2024 The Author(s)",
+      "abstract": "Active biological molecules present a powerful, yet largely untapped, opportunity to impart autonomous regulation of materials. Because these systems can function robustly to regulate when and where chemical reactions occur, they have the ability to bring complex, life-like behavior to synthetic materials. Here, we achieve this design feat by using functionalized circadian clock proteins, KaiB and KaiC, to engineer time-dependent crosslinking of colloids. The resulting material self-assembles with programmable kinetics, producing macroscopic changes in material properties, via molecular assembly of KaiB-KaiC complexes. We show that colloid crosslinking depends strictly on the phosphorylation state of KaiC, with kinetics that are synced with KaiB-KaiC complexing. Our microscopic image analyses and computational models indicate that the stability of colloidal super-structures depends sensitively on the number of Kai complexes per colloid connection. Consistent with our model predictions, a high concentration stabilizes the material against dissolution after a robust self-assembly phase, while a low concentration allows for oscillatory material structure. This work introduces the concept of harnessing biological timers to control synthetic materials; and, more generally, opens the door to using protein-based reaction networks to endow synthetic systems with life-like functional properties. Harnessing biomolecular systems to endow synthetic materials with life-like properties is a significant challenge. Here, the authors use the biomolecular KaiABC circadian clock proteins to control autonomous self-assembly and oscillation of colloids.",
+      "conferenceInfo": [],
+      "subjects": [
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, Humanities and Social Sciences, multidisciplinary",
+        "Science, multidisciplinary"
+      ],
+      "disciplines": [
+        {
+          "id": "2883",
+          "term": "Humanities and Social Sciences"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Science, Humanities and Social Sciences, multidisciplinary",
+          "count": "1"
+        },
+        {
+          "value": "Science, multidisciplinary",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Nature Communications",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2025",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

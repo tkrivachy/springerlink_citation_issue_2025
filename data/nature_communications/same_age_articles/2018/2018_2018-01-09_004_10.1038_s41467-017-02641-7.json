@@ -1,0 +1,72 @@
+{
+  "extraction_date": "2025-10-02T11:33:18.603900",
+  "year": 2018,
+  "article_type": "comparison",
+  "publication_date": "2018-01-09",
+  "article_data": {
+    "doi": "10.1038/s41467-017-02641-7",
+    "title": "Guiding of relativistic electron beams in dense matter by laser-driven magnetostatic fields",
+    "article_number": "102",
+    "publication_date": "2018-01-09",
+    "volume": "9",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "M. Bailly-Grandvaux",
+      "J. J. Santos",
+      "C. Bellei",
+      "P. Forestier-Colleoni",
+      "S. Fujioka",
+      "L. Giuffrida",
+      "J. J. Honrubia",
+      "D. Batani",
+      "R. Bouillaud",
+      "M. Chevrot",
+      "J. E. Cross",
+      "R. Crowston",
+      "S. Dorard",
+      "J.-L. Dubois",
+      "M. Ehret",
+      "G. Gregori",
+      "S. Hulin",
+      "S. Kojima",
+      "E. Loyez",
+      "J.-R. Marquès",
+      "A. Morace",
+      "Ph. Nicolaï",
+      "M. Roth",
+      "S. Sakata",
+      "G. Schaumann",
+      "F. Serres",
+      "J. Servel",
+      "V. T. Tikhonchuk",
+      "N. Woolsey",
+      "Z. Zhang"
+    ]
+  },
+  "article_index": 4,
+  "citation_counts": {
+    "last_updated": "2025-10-03T22:35:10.047048",
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 89,
+      "retrieved_at": "2025-10-03T11:43:56.398442"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 92,
+      "retrieved_at": "2025-10-03T17:06:14.753185"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 83,
+      "retrieved_at": "2025-10-03T17:06:15.922949"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 97,
+      "retrieved_at": "2025-10-03T22:35:10.046947"
+    }
+  }
+}

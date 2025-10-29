@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.667284",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-44188-w",
+    "title": "MAPS: pathologist-level cell type annotation from tissue images through machine learning",
+    "article_number": "28",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Muhammad Shaban",
+      "Yunhao Bai",
+      "Huaying Qiu",
+      "Shulin Mao",
+      "Jason Yeung",
+      "Yao Yu Yeo",
+      "Vignesh Shanmugam",
+      "Han Chen",
+      "Bokai Zhu",
+      "Jason L. Weirather",
+      "Garry P. Nolan",
+      "Margaret A. Shipp",
+      "Scott J. Rodig",
+      "Sizun Jiang",
+      "Faisal Mahmood"
+    ]
+  },
+  "article_index": 15,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T19:03:36.526543"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 29,
+      "retrieved_at": "2025-10-03T19:03:38.093157"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 20,
+      "retrieved_at": "2025-10-03T19:03:39.394184"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 32,
+      "retrieved_at": "2025-10-03T23:15:13.577159"
+    },
+    "last_updated": "2025-10-03T23:15:13.577371"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "extraction_date": "2025-10-02T11:34:46.714419",
+  "year": 2019,
+  "article_type": "comparison",
+  "publication_date": "2019-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-018-08263-x",
+    "title": "Clinical resistance to crenolanib in acute myeloid leukemia due to diverse molecular mechanisms",
+    "article_number": "244",
+    "publication_date": "2019-01-16",
+    "volume": "10",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Haijiao Zhang",
+      "Samantha Savage",
+      "Anna Reister Schultz",
+      "Daniel Bottomly",
+      "Libbey White",
+      "Erik Segerdell",
+      "Beth Wilmot",
+      "Shannon K. McWeeney",
+      "Christopher A. Eide",
+      "Tamilla Nechiporuk",
+      "Amy Carlos",
+      "Rachel Henson",
+      "Chenwei Lin",
+      "Robert Searles",
+      "Hoang Ho",
+      "Yee Ling Lam",
+      "Richard Sweat",
+      "Courtney Follit",
+      "Vinay Jain",
+      "Evan Lind",
+      "Gautam Borthakur",
+      "Guillermo Garcia-Manero",
+      "Farhad Ravandi",
+      "Hagop M. Kantarjian",
+      "Jorge Cortes",
+      "Robert Collins",
+      "Daelynn R. Buelow",
+      "Sharyn D. Baker",
+      "Brian J. Druker",
+      "Jeffrey W. Tyner"
+    ]
+  },
+  "article_index": 339,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T18:04:27.120578"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 123,
+      "retrieved_at": "2025-10-03T18:04:28.667005"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 118,
+      "retrieved_at": "2025-10-03T18:04:30.133876"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 138,
+      "retrieved_at": "2025-10-03T22:55:25.112115"
+    },
+    "last_updated": "2025-10-03T22:55:25.112305"
+  }
+}

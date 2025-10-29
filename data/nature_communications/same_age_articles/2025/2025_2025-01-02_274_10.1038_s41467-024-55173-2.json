@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-10-02T11:39:54.553210",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-024-55173-2",
+    "title": "Modulating synaptic plasticity with metal−organic framework for information-filterable artificial retina",
+    "article_number": "162",
+    "publication_date": "2025-01-02",
+    "volume": "16",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Seongchan Kim",
+      "Ohchan Kwon",
+      "Seonkwon Kim",
+      "Seonmin Jang",
+      "Seungho Yu",
+      "Choong Hoo Lee",
+      "Yoon Young Choi",
+      "Soo Young Cho",
+      "Ki Chul Kim",
+      "Cunjiang Yu",
+      "Dae Woo Kim",
+      "Jeong Ho Cho"
+    ]
+  },
+  "article_index": 274,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 8,
+      "retrieved_at": "2025-10-03T19:29:07.156919"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 9,
+      "retrieved_at": "2025-10-03T19:29:08.699837"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T19:29:09.882988"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 10,
+      "retrieved_at": "2025-10-03T23:23:48.416727"
+    },
+    "last_updated": "2025-10-03T23:23:48.416786"
+  }
+}

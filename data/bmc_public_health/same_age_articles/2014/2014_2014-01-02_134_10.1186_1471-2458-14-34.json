@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-10-02T11:49:38.761767",
+  "year": 2014,
+  "article_type": "comparison",
+  "publication_date": "2014-01-02",
+  "article_data": {
+    "doi": "10.1186/1471-2458-14-34",
+    "title": "Investigation of an Influenza A (H3N2) outbreak in evacuation centres following the Great East Japan earthquake, 2011",
+    "article_number": "34",
+    "publication_date": "2014-01-14",
+    "volume": "14",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Taro Kamigaki",
+      "Jin Seino",
+      "Kentaro Tohma",
+      "Nao Nukiwa-Soma",
+      "Kanako Otani",
+      "Hitoshi Oshitani"
+    ]
+  },
+  "article_index": 134,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T12:56:23.008764"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T12:56:24.584162"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T12:56:25.904394"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 17,
+      "retrieved_at": "2025-10-03T21:01:26.919760"
+    },
+    "last_updated": "2025-10-03T21:01:26.919950"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:45:29.371768",
+  "year": 2025,
+  "article_type": "comparison",
+  "publication_date": "2025-01-02",
+  "article_data": {
+    "doi": "10.1038/s41598-024-84439-4",
+    "title": "Detection of exon2-MED12 mutations in uterine leiomyomas from Syrian patients",
+    "article_number": "452",
+    "publication_date": "2025-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Scientific Reports",
+    "issn": "2045-2322",
+    "authors": [
+      "Lina Albitar",
+      "Eyad Al-Chatty",
+      "Fariz Ahmad"
+    ]
+  },
+  "article_index": 219,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:24.384622"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:25.977351"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 0,
+      "retrieved_at": "2025-10-03T17:02:27.158501"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": null,
+      "retrieved_at": "2025-10-03T22:33:46.854476"
+    },
+    "last_updated": "2025-10-03T22:33:46.854666"
+  }
+}

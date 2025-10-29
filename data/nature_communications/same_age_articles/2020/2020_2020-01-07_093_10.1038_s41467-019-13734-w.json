@@ -1,0 +1,56 @@
+{
+  "extraction_date": "2025-10-02T11:35:16.887812",
+  "year": 2020,
+  "article_type": "comparison",
+  "publication_date": "2020-01-07",
+  "article_data": {
+    "doi": "10.1038/s41467-019-13734-w",
+    "title": "TGF-β induces ST2 and programs ILC2 development",
+    "article_number": "35",
+    "publication_date": "2020-01-07",
+    "volume": "11",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Li Wang",
+      "Jun Tang",
+      "Xia Yang",
+      "Peter Zanvit",
+      "Kairong Cui",
+      "Wai Lim Ku",
+      "Wenwen Jin",
+      "Dunfang Zhang",
+      "Nathan Goldberg",
+      "Alexander Cain",
+      "Bing Ni",
+      "Keji Zhao",
+      "Yuzhang Wu",
+      "WanJun Chen"
+    ]
+  },
+  "article_index": 93,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 46,
+      "retrieved_at": "2025-10-03T18:21:49.720975"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 44,
+      "retrieved_at": "2025-10-03T18:21:51.329613"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 47,
+      "retrieved_at": "2025-10-03T18:21:52.627155"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 50,
+      "retrieved_at": "2025-10-03T23:01:10.478880"
+    },
+    "last_updated": "2025-10-03T23:01:10.479073"
+  }
+}

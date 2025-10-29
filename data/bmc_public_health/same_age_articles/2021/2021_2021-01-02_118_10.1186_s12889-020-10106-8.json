@@ -1,0 +1,45 @@
+{
+  "extraction_date": "2025-10-02T11:55:04.644580",
+  "year": 2021,
+  "article_type": "comparison",
+  "publication_date": "2021-01-02",
+  "article_data": {
+    "doi": "10.1186/s12889-020-10106-8",
+    "title": "Predicting epidemics using search engine data: a comparative study on measles in the largest countries of Europe",
+    "article_number": "100",
+    "publication_date": "2021-01-21",
+    "volume": "21",
+    "issue": "1",
+    "journal": "BMC Public Health",
+    "issn": "1471-2458",
+    "authors": [
+      "Loukas Samaras",
+      "Miguel-Angel Sicilia",
+      "Elena García-Barriocanal"
+    ]
+  },
+  "article_index": 118,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 15,
+      "retrieved_at": "2025-10-03T13:47:28.539809"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T13:47:30.097404"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 14,
+      "retrieved_at": "2025-10-03T13:47:31.391415"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 16,
+      "retrieved_at": "2025-10-03T21:20:06.480637"
+    },
+    "last_updated": "2025-10-03T21:20:06.480736"
+  }
+}

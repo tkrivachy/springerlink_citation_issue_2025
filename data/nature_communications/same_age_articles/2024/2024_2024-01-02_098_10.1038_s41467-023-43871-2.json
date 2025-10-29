@@ -1,0 +1,62 @@
+{
+  "extraction_date": "2025-10-02T11:38:55.676639",
+  "year": 2024,
+  "article_type": "comparison",
+  "publication_date": "2024-01-02",
+  "article_data": {
+    "doi": "10.1038/s41467-023-43871-2",
+    "title": "Derivation of human primordial germ cell-like cells in an embryonic-like culture",
+    "article_number": "167",
+    "publication_date": "2024-01-02",
+    "volume": "15",
+    "issue": "1",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "authors": [
+      "Sajedeh Nasr Esfahani",
+      "Yi Zheng",
+      "Auriana Arabpour",
+      "Agnes M. Resto Irizarry",
+      "Norio Kobayashi",
+      "Xufeng Xue",
+      "Yue Shao",
+      "Cheng Zhao",
+      "Nicole L. Agranonik",
+      "Megan Sparrow",
+      "Timothy J. Hunt",
+      "Jared Faith",
+      "Mary Jasmine Lara",
+      "Qiu Ya Wu",
+      "Sherman Silber",
+      "Sophie Petropoulos",
+      "Ran Yang",
+      "Kenneth R. Chien",
+      "Amander T. Clark",
+      "Jianping Fu"
+    ]
+  },
+  "article_index": 98,
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 24,
+      "retrieved_at": "2025-10-03T19:03:01.170778"
+    },
+    "crossref": {
+      "client_name": "Crossref",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T19:03:02.720531"
+    },
+    "opencitations": {
+      "client_name": "OpenCitations",
+      "citation_count": 11,
+      "retrieved_at": "2025-10-03T19:03:03.902391"
+    },
+    "nature_scraper": {
+      "client_name": "Nature Web Scraper",
+      "citation_count": 26,
+      "retrieved_at": "2025-10-03T23:15:03.092124"
+    },
+    "last_updated": "2025-10-03T23:15:03.092202"
+  }
+}
