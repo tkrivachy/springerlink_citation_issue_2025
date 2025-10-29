@@ -1,2 +1,344 @@
 # SpringerLink Citation Issue 2025
-Code, data and some figures for the citation issue.
+
+Code for the manuscript
+Tamás Kriváchy, Incorrect Citation Association for Articles in Online-Only Springer Nature Journals
+
+which can be found at
+TODO
+TODO
+
+## General workflow
+
+1. We provide data we downloaded in October of 2025 and the plots generated from that data in `data`. Thus, you don't need to run any code in order to browse the data. Data includes
+    1. Raw SpringerLink API responses for several (30+) articles, which shows that article number is missing from most of them.
+    2. Article metadata with article number 1, as well as metadata for articles that were published on the same day or shortly after for comparison. Metadata includes citation count.
+
+2. We provide code which was used to generate and analyze this data.
+    1. `main_article_info_downloader.py` was used to get article 1 and comparison article metadata from SprinerLink.
+    2. `main_augment_records_with_citation_count.py` was used to get information about citation counts of saved articles (extends original json data files with citation counts).
+    3. `main_article_info_analyzer.py`was used to create plots (histograms) from the citation counts.
+    4. `main_raw_response_check.py` was used to save the raw SpringerLink API responses for all formats they provided, for a fixed DOI and for several randomly selected DOI's from the saved article metadata.
+    5. `main_create_bmc_manual_histogram.py` creates a histogram of citation counts that were manually collected from archived webpages of the journal website, for BMC Volume corresponding to year 2012. For Article 1 the last 2020 archived count is used, for the rest the first 2021 archived webpage citation count was collected in `BMC_2012_manual_histogram.csv`.
+
+
+## Quick Start
+
+1. **Configure API credentials** in `config.py` (see API Configuration section below)
+
+2. **Configure your analysis** in `config.py`:
+   - Set journals and years
+   - Enable/disable citation clients
+
+3. **Run the analyzer**:
+   ```bash
+   python main_article_info_analyzer.py
+   ```
+
+4. **View results** in `analysis_results_/`:
+   - Individual histograms: `journal/client/`
+   - Meta histograms: `journal/client/`
+   - Meta-meta histograms: `journal/`
+   - Aggregate figures: root directory
+
+## API Configuration
+
+Before using any other tools, configure the required API credentials in `config.py`:
+
+```python
+# Springer API (for data collection and raw response testing)
+API_KEY_META = "your_springer_meta_api_key_here"      # Required for main_article_info_downloader.py
+API_KEY_OPENACCESS = "your_springer_openaccess_key"   # Required for main_raw_response_check.py
+
+# Semantic Scholar API (for citation collection)
+SEMANTIC_SCHOLAR_API_KEY = "your_semantic_scholar_key"  # Required for citation data
+
+# Crossref (for polite API usage)
+CROSSREF_EMAIL = "your.email@domain.com"  # Required for ethical API usage
+```
+
+### API Key Requirements by Tool:
+
+| Tool | Springer Keys | Semantic Scholar | Crossref Email |
+|------|---------------|------------------|----------------|
+| **main_article_info_analyzer.py** | ❌ No | ❌ No | ❌ No |
+| **main_article_info_downloader.py** | ✅ API_KEY_META | ❌ No | ❌ No |
+| **main_raw_response_check.py** | ✅ Both keys | ❌ No | ❌ No |
+| **main_augment_records_with_citation_count.py** | ❌ No | ✅ Yes | ✅ Yes |
+
+### How to Obtain API Keys:
+
+1. **Springer API Keys**: Register at [Springer Developer Portal](https://dev.springernature.com/)
+   - Get separate keys for Meta API and OpenAccess API
+   
+2. **Semantic Scholar API**: Register at [Semantic Scholar API](https://www.semanticscholar.org/product/api)
+   - Free tier available with rate limits
+   
+3. **Crossref Email**: Use your institutional or personal email
+   - Required for polite API usage as per Crossref guidelines
+
+## Configuration
+
+Key settings in `config.py`:
+
+```python
+# Journals to analyze
+DEFAULT_JOURNALS = ["scientific_reports", "nature_communications", "bmc_public_health"]
+
+# Citation sources to use for plotting
+DEFAULT_CITATION_CLIENTS = ["semantic", "crossref", "opencitations", "nature_scraper"]
+
+# Analysis parameters
+HISTOGRAM_BINS = 50
+MAX_CITATION_COUNT_FOR_HIST = 1000  # None for no limit
+HISTOGRAM_SPLIT_YEAR_BMC = 2011     # For BMC split analysis
+```
+
+Note for data collection using `main_augment_records_with_citation_count.py` it is recommended to avoid using the nature_scraper client.
+
+## Output Files
+
+### Individual Histograms
+- `{journal}_{client}_{year}_individual.png` - Citation distribution for specific year
+- `{journal}_{client}_{year}_individual_no_title.png` - Clean version without title
+
+### Meta Histograms  
+- `{journal}_{client}_meta.png` - Normalized distribution across all years
+- `{journal}_{client}_meta_no_title.png` - Clean version
+
+### Meta-Meta Histograms
+- `{journal}_meta_meta.png` - Combined analysis across all citation sources
+- `{journal}_meta_meta_no_title.png` - Clean version
+
+### BMC Split Histograms (BMC Public Health only)
+- `bmc_public_health_{client}_split_histograms.png` - Pre/post 2012 comparison
+- `bmc_public_health_{client}_split_histograms_no_title.png` - Clean version
+
+### Aggregate Figures
+- `aggregate_histograms.png` - Grid of all individual histograms
+- `meta_aggregate_histograms.png` - Grid of all meta histograms
+
+## Data Requirements
+
+The tool expects pre-downloaded article data in JSON format:
+
+```
+data/
+├── {journal}/
+│   ├── first_articles/
+│   │   └── {year}_article_1_*.json
+│   └── same_age_articles/
+│       └── {year}/
+│           └── *.json
+```
+
+Each JSON file should contain:
+- `article_data`: Article metadata (DOI, title, etc.)
+- `citation_counts`: Citation data from different sources
+
+`citation_counts` can be obtained by running `main_augment_records_with_citation_count.py`.
+To get article 1s and comparison articles, either use the ones provided or create your own database.
+
+## Citation Data Format
+
+```json
+{
+  "article_data": {
+    "doi": "10.1000/example",
+    "title": "Article Title"
+  },
+  "citation_counts": {
+    "semantic": {"citation_count": 42},
+    "crossref": {"citation_count": 38},
+    "opencitations": {"citation_count": 35},
+    "nature_scraper": {"citation_count": 40}
+  }
+}
+```
+
+## Key Analysis Types
+
+1. **Individual Analysis**: Citation distribution for a specific journal, year, and source
+2. **Meta Analysis**: Normalized citation patterns across multiple years
+3. **Meta-Meta Analysis**: Combined patterns across multiple citation sources
+4. **BMC Split Analysis**: Pre/post policy change comparison for BMC Public Health
+
+## Data Collection Tool
+
+### `main_article_info_downloader.py`
+
+Downloads Article #1 and comparison articles from Springer API. This tool collects the raw data that the analyzer processes.
+
+**Features:**
+- Finds Article #1 (first published article) for each journal year
+- Downloads comparison articles published on/after Article #1's date
+- Extracts article numbers from JATS XML (this is only response that gives article number)
+- Optimized API calls. Important due to rate limits of Springer API free plan.
+
+**Usage:**
+```bash
+python main_article_info_downloader.py
+```
+
+**Configuration in `config.py`:**
+```python
+# Journal configurations
+JOURNALS = {
+    "scientific_reports": {
+        "name": "Scientific Reports",
+        "issn": "2045-2322",
+        "analysis_years": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+        "start_year": 2011,
+        "start_month": 6,
+        "start_day": 20,
+        "is_open_access": True
+    }
+}
+
+MIN_ARTICLES_FOR_COMPARISON = 20  # Minimum comparison articles per year
+```
+
+**Output:**
+- `data/{journal}/first_articles/`: Article #1 for each year
+- `data/{journal}/same_age_articles/{year}/`: Comparison articles by year
+- Each article saved as JSON with metadata and article number
+
+**Workflow:**
+1. For each journal and year, find Article #1 (first published article)
+2. Use Article #1's publication date as reference
+3. Download other articles published on/after that date
+4. Extract article numbers from JATS XML format
+5. Save metadata for citation analysis
+
+## Citation Data Collection Tool
+
+### `main_augment_records_with_citation_count.py`
+
+Enriches existing article JSON files by adding citation counts from all available citation sources. This tool processes previously downloaded article data and augments it with comprehensive citation information.
+
+**Features:**
+- Processes all articles in journal data directories
+- Collects citations from multiple sources (Semantic Scholar, Crossref, OpenCitations, Nature Scraper)
+- Smart caching system to avoid unnecessary API calls
+- Handles both Article #1 and comparison articles
+- Configurable cache expiry (30 days default)
+- Batch processing with progress tracking
+
+**Usage:**
+```bash
+python main_augment_records_with_citation_count.py
+```
+
+**Configuration in `config.py`:**
+```python
+# Citation clients to use
+DEFAULT_CITATION_CLIENTS = ["semantic", "crossref", "opencitations", "nature_scraper"]
+
+# Cache behavior
+OVERWRITE_PREVIOUS_CITATION_COUNT = False  # Set True to force refresh all data
+
+# Client configurations
+CITATION_CLIENTS = {
+    "semantic": {"name": "Semantic Scholar"},
+    "crossref": {"name": "Crossref"},
+    "opencitations": {"name": "OpenCitations"},
+    "nature_scraper": {"name": "Nature Scraper"}
+}
+```
+
+**Processing Flow:**
+1. Scans all journal directories for existing JSON files
+2. Extracts DOI from each article
+3. Queries each citation client for citation counts
+4. Updates JSON files with citation data and timestamps
+5. Uses cached data if recent (within 30 days) and OVERWRITE_PREVIOUS_CITATION_COUNT is False
+
+**Output Format:**
+Each article JSON file is updated with a `citation_counts` section:
+```json
+{
+  "article_data": {...},
+  "citation_counts": {
+    "semantic": {
+      "client_name": "Semantic Scholar",
+      "citation_count": 42,
+      "retrieved_at": "2024-01-15T10:30:00"
+    },
+    "crossref": {
+      "client_name": "Crossref", 
+      "citation_count": 38,
+      "retrieved_at": "2024-01-15T10:30:05"
+    },
+    "last_updated": "2024-01-15T10:30:05"
+  }
+}
+```
+
+**Note:** While nature_scraper is included as an option, it's recommended to avoid using it for large-scale data collection due to potential rate limiting and ethical scraping concerns.
+
+## API Testing Tool
+
+### `main_raw_response_check.py`
+
+A comprehensive API testing tool for validating citation data sources and Springer API endpoints.
+
+**Features:**
+- Tests multiple API endpoints (Springer Meta, OpenAccess, etc.)
+- Supports multiple response formats (JSON, JSONP, PAM, JATS)
+- Saves API responses and extracts metadata
+
+**Usage:**
+```bash
+python main_raw_response_check.py
+```
+
+**Configuration in `config.py`:**
+```python
+# API testing settings
+TEST_DOI = "10.1186/s12889-012-5013-1"                  # Primary test DOI
+RANDOM_NUMBER_OF_DOIS = 3                               # Additional random DOIs to test (from saved comparison articles in data)
+TEST_ENDPOINTS = ["meta_v1", "meta_v2", "openaccess"]   # Endpoints of SprinerLink
+TEST_FORMATS = ["json", "jsonp", "pam", "jats"]         # Formats offered by SprinerLink
+SPRINGER_REQUEST_DELAY = 1.0                            # Delay between requests
+```
+
+**Output:**
+- Raw API responses saved to `data_analysis/raw_responses/` directory
+- Response metadata (status codes, content types, rate limits)
+
+
+## Dependencies
+
+- Python 3.7+
+- matplotlib
+- numpy
+- requests
+- pathlib
+- xml.etree.ElementTree
+- Standard library modules (json, logging, sys, os, time, random, glob)
+
+Additional dependencies required for certain clients.
+Check `requirements.txt`, use `pip install -r requirements.txt` if needed.
+
+## License
+
+MIT License
+
+Copyright (c) 2025 Tamás Kriváchy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
