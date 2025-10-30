@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1070649213.svg)](https://doi.org/10.5281/zenodo.17482176)
+
 # SpringerLink Citation Issue 2025
 
 Code for the manuscript
