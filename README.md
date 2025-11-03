@@ -348,4 +348,10 @@ Check `requirements.txt`, use `pip install -r requirements.txt` if needed.
     3. `create_scientific_figure.py` creates 3-panel figure used in manuscript.
     4. `journal_statistics.py` counts number of unique authors in the three journals.
 
-Again, `config.py` has relevant settings.
+Again, `config.py` has relevant settings. IN THE LINE
+
+```python
+CROSSREF_EMAIL = "email@domain.eu"
+```
+
+REPLACE WITH YOUR EMAIL!
