@@ -1,0 +1,387 @@
+{
+  "overall_statistics": {
+    "total_journals_analyzed": 3,
+    "total_articles_all_journals": 377295,
+    "total_unique_authors_all_journals": 1534381,
+    "sum_of_journal_unique_authors": 1737742,
+    "authors_appearing_in_multiple_journals": 192631,
+    "percentage_authors_in_multiple_journals": 12.55431343323464,
+    "journal_overlap_statistics": {
+      "nature_communications_vs_bmc_public_health": {
+        "journal1": "nature_communications",
+        "journal2": "bmc_public_health",
+        "journal1_authors": 517728,
+        "journal2_authors": 137376,
+        "shared_authors": 14201,
+        "overlap_percentage_j1": 2.7429461029729896,
+        "overlap_percentage_j2": 10.33732238527836
+      },
+      "nature_communications_vs_scientific_reports": {
+        "journal1": "nature_communications",
+        "journal2": "scientific_reports",
+        "journal1_authors": 517728,
+        "journal2_authors": 1082638,
+        "shared_authors": 170099,
+        "overlap_percentage_j1": 32.854896779776254,
+        "overlap_percentage_j2": 15.711530539293836
+      },
+      "bmc_public_health_vs_scientific_reports": {
+        "journal1": "bmc_public_health",
+        "journal2": "scientific_reports",
+        "journal1_authors": 137376,
+        "journal2_authors": 1082638,
+        "shared_authors": 29791,
+        "overlap_percentage_j1": 21.685738411367343,
+        "overlap_percentage_j2": 2.7517046325733996
+      }
+    },
+    "analysis_timestamp": "2025-11-03T14:21:33.319380"
+  },
+  "journal_statistics": {
+    "nature_communications": {
+      "journal_name": "Nature Communications",
+      "journal_key": "nature_communications",
+      "issn": "2041-1723",
+      "publisher": "Nature Publishing Group",
+      "total_articles": 79626,
+      "total_unique_authors_count": 517728,
+      "mean_authors_per_article": 12.38,
+      "std_authors_per_article": 32.42,
+      "articles_by_year": {
+        "2010": 153,
+        "2011": 452,
+        "2012": 725,
+        "2013": 1657,
+        "2014": 2854,
+        "2015": 3348,
+        "2016": 3686,
+        "2017": 4539,
+        "2018": 5516,
+        "2019": 5831,
+        "2020": 6449,
+        "2021": 7362,
+        "2022": 7977,
+        "2023": 8527,
+        "2024": 10925,
+        "2025": 9625
+      },
+      "authors_by_year_count": {
+        "2010": 1138,
+        "2011": 6298,
+        "2012": 5746,
+        "2013": 13492,
+        "2014": 25376,
+        "2015": 31747,
+        "2016": 36318,
+        "2017": 43218,
+        "2018": 53304,
+        "2019": 57764,
+        "2020": 65194,
+        "2021": 77780,
+        "2022": 85007,
+        "2023": 86074,
+        "2024": 109822,
+        "2025": 102381
+      },
+      "years_covered": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "year_range": "2010-2025",
+      "most_prolific_authors": [
+        [
+          "Takashi Taniguchi",
+          245
+        ],
+        [
+          "Kenji Watanabe",
+          244
+        ],
+        [
+          "Yang Liu",
+          238
+        ],
+        [
+          "Wei Li",
+          230
+        ],
+        [
+          "Yang Yang",
+          216
+        ],
+        [
+          "Wei Wang",
+          211
+        ],
+        [
+          "Wei Zhang",
+          197
+        ],
+        [
+          "Yan Zhang",
+          187
+        ],
+        [
+          "Lei Wang",
+          187
+        ],
+        [
+          "Jun Li",
+          185
+        ]
+      ]
+    },
+    "bmc_public_health": {
+      "journal_name": "BMC Public Health",
+      "journal_key": "bmc_public_health",
+      "issn": "1471-2458",
+      "publisher": "BioMed Central",
+      "total_articles": 31022,
+      "total_unique_authors_count": 137376,
+      "mean_authors_per_article": 6.56,
+      "std_authors_per_article": 5.0,
+      "articles_by_year": {
+        "2001": 17,
+        "2002": 27,
+        "2003": 42,
+        "2004": 69,
+        "2005": 142,
+        "2006": 314,
+        "2007": 359,
+        "2008": 433,
+        "2009": 509,
+        "2010": 815,
+        "2011": 1056,
+        "2012": 1180,
+        "2013": 1280,
+        "2014": 1405,
+        "2015": 1450,
+        "2016": 1119,
+        "2017": 1081,
+        "2018": 1318,
+        "2019": 1763,
+        "2020": 1921,
+        "2021": 2338,
+        "2022": 2463,
+        "2023": 2564,
+        "2024": 3622,
+        "2025": 3735
+      },
+      "authors_by_year_count": {
+        "2001": 71,
+        "2002": 147,
+        "2003": 201,
+        "2004": 310,
+        "2005": 636,
+        "2006": 1541,
+        "2007": 1810,
+        "2008": 2177,
+        "2009": 2669,
+        "2010": 4380,
+        "2011": 5858,
+        "2012": 6252,
+        "2013": 6921,
+        "2014": 7300,
+        "2015": 8338,
+        "2016": 6647,
+        "2017": 6120,
+        "2018": 7805,
+        "2019": 10438,
+        "2020": 11497,
+        "2021": 14894,
+        "2022": 16181,
+        "2023": 16697,
+        "2024": 22604,
+        "2025": 22903
+      },
+      "years_covered": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "year_range": "2001-2025",
+      "most_prolific_authors": [
+        [
+          "Fereidoun Azizi",
+          52
+        ],
+        [
+          "Ilse De Bourdeaudhuij",
+          48
+        ],
+        [
+          "Hein de Vries",
+          43
+        ],
+        [
+          "Willem van Mechelen",
+          41
+        ],
+        [
+          "Russell Jago",
+          39
+        ],
+        [
+          "Yang Liu",
+          38
+        ],
+        [
+          "Mark S. Tremblay",
+          38
+        ],
+        [
+          "Ying Wang",
+          35
+        ],
+        [
+          "Jo Salmon",
+          33
+        ],
+        [
+          "Li Liu",
+          33
+        ]
+      ]
+    },
+    "scientific_reports": {
+      "journal_name": "Scientific Reports",
+      "journal_key": "scientific_reports",
+      "issn": "2045-2322",
+      "publisher": "Nature Publishing Group",
+      "total_articles": 266647,
+      "total_unique_authors_count": 1082638,
+      "mean_authors_per_article": 7.16,
+      "std_authors_per_article": 9.04,
+      "articles_by_year": {
+        "2011": 205,
+        "2012": 807,
+        "2013": 2553,
+        "2014": 4021,
+        "2015": 10938,
+        "2016": 21054,
+        "2017": 25338,
+        "2018": 18166,
+        "2019": 20422,
+        "2020": 22461,
+        "2021": 24532,
+        "2022": 22653,
+        "2023": 23104,
+        "2024": 32175,
+        "2025": 38218
+      },
+      "authors_by_year_count": {
+        "2011": 1289,
+        "2012": 4648,
+        "2013": 14967,
+        "2014": 23084,
+        "2015": 63946,
+        "2016": 122434,
+        "2017": 154159,
+        "2018": 116180,
+        "2019": 132165,
+        "2020": 143474,
+        "2021": 156743,
+        "2022": 141748,
+        "2023": 138745,
+        "2024": 181436,
+        "2025": 200129
+      },
+      "years_covered": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "year_range": "2011-2025",
+      "most_prolific_authors": [
+        [
+          "Wei Zhang",
+          472
+        ],
+        [
+          "Wei Wang",
+          469
+        ],
+        [
+          "Jing Wang",
+          379
+        ],
+        [
+          "Yang Liu",
+          363
+        ],
+        [
+          "Wei Li",
+          358
+        ],
+        [
+          "Lei Zhang",
+          343
+        ],
+        [
+          "Jing Li",
+          341
+        ],
+        [
+          "Yan Li",
+          327
+        ],
+        [
+          "Yan Wang",
+          307
+        ],
+        [
+          "Yan Zhang",
+          305
+        ]
+      ]
+    }
+  }
+}
