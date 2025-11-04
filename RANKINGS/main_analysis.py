@@ -117,17 +117,37 @@ def normalize_article_row(article: dict) -> dict:
         # leave as string if unparsable
         pass
 
+    # DOI link (convert DOI to clickable link)
+    doi = article.get('doi', '')
+    doi_link = ''
+    if doi:
+        # Remove any existing https://doi.org/ prefix to avoid duplication
+        if doi.startswith('https://doi.org/'):
+            doi_link = doi
+        elif doi.startswith('doi.org/'):
+            doi_link = f"https://{doi}"
+        elif doi.startswith('10.'):
+            doi_link = f"https://doi.org/{doi}"
+        else:
+            # For any other format, try to preserve it but make it a link if it looks like a DOI
+            if '10.' in doi:
+                # Extract the DOI part if it's embedded in other text
+                doi_part = doi[doi.find('10.'):]
+                doi_link = f"https://doi.org/{doi_part}"
+            else:
+                doi_link = doi  # Keep as is if it doesn't look like a DOI
+
     return {
         'citations': citations,
         'article_number': article_number,
         'volume': volume,
         'year': year,
-        'doi': article.get('doi', '')
+        'doi': doi_link
     }
 
 
 def write_ranked_csv(rows: list, outpath: Path):
-    headers = ['rank', 'number_of_citations', 'article_number', 'volume', 'year', 'doi']
+    headers = ['rank', 'number_of_citations', 'article_number', 'volume', 'year', 'doi_link']
     with open(outpath, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(headers)

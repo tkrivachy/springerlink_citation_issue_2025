@@ -60,26 +60,13 @@ JOURNALS = {
         "issn": "2045-2322",
         "publisher": "Nature Publishing Group", 
         "description": "Open access multidisciplinary journal"
-    },
-    "plos_one": {
-        "name": "PLOS ONE",
-        "issn": "1932-6203",
-        "publisher": "Public Library of Science",
-        "description": "Open access multidisciplinary journal"
-    },
-    "frontiers_in_psychology": {
-        "name": "Frontiers in Psychology",
-        "issn": "1664-1078",
-        "publisher": "Frontiers Media",
-        "description": "Open access psychology journal"
     }
 }
 
 # =============================================================================
 # ACTIVE JOURNAL SELECTION - CHANGE THIS LINE TO SWITCH JOURNALS
 # =============================================================================
-# Available options: "bmc_public_health", "nature_communications", "scientific_reports", 
-#                   "plos_one", "frontiers_in_psychology"
+# Available options: "bmc_public_health", "nature_communications", "scientific_reports"
 
 ACTIVE_JOURNAL_KEY = "scientific_reports"
 BMC_SPLIT_YEAR = None

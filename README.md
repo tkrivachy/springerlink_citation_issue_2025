@@ -4,13 +4,11 @@
 
 Code for the manuscript
 
-Tamás Kriváchy, Incorrect Citation Association for Articles in Online-Only Springer Nature Journals (2025)
+Tamás Kriváchy, Incorrect Citation Association for Articles in Online-Only Springer Nature Journals, [arXiv preprint, arXiv:2511.01675](https://doi.org/10.48550/arXiv.2511.01675) (2025)
 
 which can be found at
 
-TODO
-
-TODO
+[https://arxiv.org/abs/2511.01675](https://arxiv.org/abs/2511.01675)
 
 
 The code and data is split into two parts, HISTOGRAMS and RANKINGS.
